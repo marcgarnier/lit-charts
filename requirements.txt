@@ -1,0 +1,17 @@
+# Commun à tout le pipeline
+requests
+pillow
+
+# Phase 2a — OCR, moteur « vision » (défaut) : liaisons Python vers le
+# framework Vision de macOS. Ne s'installe et ne fonctionne que sur macOS.
+pyobjc-framework-Vision
+pyobjc-framework-Quartz
+
+# Phase 2a — OCR, moteur « surya » (contrôle open source, multiplateforme).
+# transformers doit rester en 4.x : la version 5 a changé son API et casse
+# surya 0.16.
+surya-ocr==0.16.7
+transformers>=4.56.1,<5
+
+# Les phases 2c et 3 passent par Ollama, installé séparément
+# (https://ollama.com), avec les modèles qwen2.5vl:3b et llama3.1.

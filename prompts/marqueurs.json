@@ -1,0 +1,48 @@
+{
+  "_lecture": "Lexique des marqueurs de gamification, cherchés en expressions régulières (insensibles à la casse) dans le texte intégral de chaque chart. Modifiable sans toucher au code : ajouter un registre ou une variante ici suffit, il faut ensuite relancer src/06_marqueurs.py --force. Chaque registre correspond à une mécanique de la grille de codage (prompts/codage.txt).",
+
+  "niveaux_nommes": {
+    "definition": "Le chart nomme explicitement des paliers.",
+    "motifs": ["\\btiers?\\b", "\\blevel\\s*\\d", "\\blvl\\b", "\\bstage \\d", "\\brank\\b"]
+  },
+  "hierarchie_valeur": {
+    "definition": "Paliers ordonnés par valeur, dans le vocabulaire évaluatif propre à 4chan.",
+    "motifs": ["\\bgod[- ]?tier", "patrician", "\\bplebe?\\b", "\\bshit[- ]?tier",
+               "\\bbabb?y'?s? first", "\\btrash[- ]?tier", "\\bcasual\\b", "\\bnormie"]
+  },
+  "point_entree": {
+    "definition": "Le chart désigne par où commencer.",
+    "motifs": ["\\bstart (with|here|at)\\b", "\\bentry[- ]level\\b", "\\bbeginner",
+               "\\bwhere to start\\b", "\\bstart\\b.{0,12}\\bgreeks\\b", "\\bfirst read\\b"]
+  },
+  "difficulte": {
+    "definition": "Gradation par difficulté ou niveau de lecteur.",
+    "motifs": ["\\badvanced\\b", "\\bintermediate\\b", "\\bexpert\\b", "\\bhard mode\\b",
+               "\\bdifficult", "\\beasy\\b", "\\bhardcore\\b", "\\bchallenging\\b"]
+  },
+  "prerequis": {
+    "definition": "Des œuvres doivent en précéder d'autres.",
+    "motifs": ["\\bprerequisit", "\\bread .{0,18}(first|before)\\b", "\\brequired reading\\b",
+               "\\bfoundation", "\\bbefore you\\b"]
+  },
+  "optionnel": {
+    "definition": "Parcours secondaire, bonus, approfondissement facultatif.",
+    "motifs": ["\\boptional\\b", "\\bbonus\\b", "\\bsupplementary\\b", "\\bfurther reading\\b",
+               "\\bif you (liked|want|enjoyed)\\b", "\\bside quest"]
+  },
+  "recompense": {
+    "definition": "Statut ou titre promis à qui achève le parcours.",
+    "motifs": ["\\byou are now\\b", "\\bcongratulation", "\\bachievement", "\\byou will be\\b",
+               "\\btrue reader\\b", "\\bwell[- ]read\\b", "\\benlighten"]
+  },
+  "injonction": {
+    "definition": "Adresse impérative au lecteur.",
+    "motifs": ["\\bdo not\\b", "\\bdon'?t\\b", "\\bmust\\b", "\\bshould\\b", "\\bavoid\\b",
+               "\\bskip\\b", "\\bstop reading\\b", "\\bnever read\\b", "\\bread this\\b"]
+  },
+  "progression": {
+    "definition": "Ordre de parcours prescrit.",
+    "motifs": ["\\bnext\\b", "\\bthen\\b", "\\bafter (this|that)\\b", "\\bfinally\\b",
+               "\\bmove on\\b", "\\bwork your way\\b", "\\bin order\\b", "\\bproceed to\\b"]
+  }
+}

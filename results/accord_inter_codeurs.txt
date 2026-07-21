@@ -1,0 +1,34 @@
+ACCORD INTER-CODEURS — formes des charts de /lit/
+généré le 2026-07-21T21:20:35+00:00
+
+Annotateur A (référence) : modèle vision-langage distant (Claude),
+                           codage des 264 images, taxonomie construite
+                           inductivement sur le corpus.
+Annotateur B             : modèle local qwen2.5vl:3b via Ollama (src/03_vlm.py).
+
+Corpus codé en référence : 264 charts.
+
+--------------------------------------------------------------------
+
+LAYOUT_TYPE  (nominal, 7 catégories)  (36 charts communs)
+    alpha de Krippendorff : 0.078   -> INSUFFISANT — la variable ne doit pas être exploitée
+    désaccord observé     : 0.611
+    désaccord attendu     : 0.663
+    accord brut           : 14/36 = 39%
+
+HAS_ARROWS   (nominal, binaire)  (36 charts communs)
+    alpha de Krippendorff : 0.842   -> fiable — conclusions permises
+    désaccord observé     : 0.056
+    désaccord attendu     : 0.351
+    accord brut           : 34/36 = 94%
+
+--------------------------------------------------------------------
+
+REPÈRE — annotateur constant (répond toujours « grid », sans regarder les images) :
+    accord brut 33%, alpha -0.258
+    Un taux d'accord d'un tiers s'obtient donc sans aucune compétence :
+    c'est exactement ce que l'alpha corrige.
+
+Répartition des étiquettes :
+    référence     : {'grid': 12, 'sectioned_grid': 11, 'flowchart': 6, 'map': 1, 'list': 2, 'collage': 1, 'tier_list': 3}
+    modèle local  : {'grid': 4, 'flowchart': 2, 'list': 1, 'sectioned_grid': 27, 'tier_list': 1, 'collage': 1}

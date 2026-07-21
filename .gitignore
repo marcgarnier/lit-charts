@@ -1,0 +1,63 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.python-version
+
+# --- Environnements virtuels ---
+.venv/
+venv/
+env/
+.conda/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Données (jamais versionnées) ---
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# --- Modèles et fichiers volumineux ---
+models/
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.parquet
+*.feather
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.tar.gz
+
+# --- Résultats intermédiaires lourds ---
+results/**/*.png
+results/**/*.pdf
+
+# --- Secrets et configuration locale ---
+.env
+*.env
+secrets*
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Caches d'outils ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/

@@ -1,0 +1,24 @@
+Look at the overall SHAPE of this reading chart from 4chan's /lit/ board. Do NOT read or transcribe the text: the text is extracted separately by an OCR engine. Judge only the visual arrangement.
+
+Return ONLY this JSON object, minified on a single line:
+
+{"layout_type": "...", "has_arrows": true|false, "colors": ["..."]}
+
+"layout_type" must be exactly one of:
+- "flowchart": boxes or covers joined by ARROWS into a directed sequence
+- "tier_list": stacked horizontal bands, each band labelled with a rank or a level (God-Tier, Beginner, Nível 1)
+- "sectioned_grid": book covers grouped under NAMED THEMATIC SECTIONS (by genre, period, school) — the sections are not ranked
+- "grid": regular rows and columns of covers with NO section headings at all
+- "list": mostly running text in one or a few columns, few or no covers
+- "map": labelled clusters scattered across the canvas and joined by thin lines
+- "wheel": content arranged radially around a centre
+- "collage": overlapping covers with no regular alignment
+- "other": none of the above
+
+Decide "tier_list" vs "sectioned_grid" by the LABELS: a rank or level makes it a tier_list, a theme makes it a sectioned_grid. Decide "sectioned_grid" vs "grid" by whether any section heading exists at all.
+
+"has_arrows": true only if the chart draws actual arrowheads or connecting lines between items or sections.
+
+"colors": the dominant background and section colours, as simple names ("black", "white", "dark blue"). Two to four entries.
+
+Return valid JSON only, no commentary.

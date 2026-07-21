@@ -1,0 +1,276 @@
+# Codage des formes des charts de /lit/ — 264 charts.
+# ANNOTATEUR : modèle vision-langage distant (Claude), examen image par image.
+#   Ni humain, ni local, ni open source. À déclarer comme tel en publication.
+#   Sert de jeu de validation externe à la phase 4, hors pipeline reproductible.
+# TAXONOMIE construite inductivement sur le corpus, en sept modalités :
+#   flowchart, tier_list, sectioned_grid, grid, list, map, collage.
+#   « sectioned_grid » (sections thématiques nommées) et la distinction
+#   tier_list/sectioned_grid (palier vs thème) ont été ajoutées en cours de
+#   codage, la taxonomie initiale ne rendant pas compte du corpus.
+# FIABILITÉ face au modèle local : voir results/accord_inter_codeurs.txt
+#   (alpha de Krippendorff 0,078 sur layout_type, 0,842 sur les flèches).
+fichier,categorie,layout_manuel,fleches,remarque
+02_Guide to Harry Potter.jpeg,10_Meme Charts,flowchart,oui,couvertures reliées par des flèches en séquence dirigée
+05_Carle.jpeg,10_Meme Charts,flowchart,oui,parcours fléché avec commentaires en encadrés
+40_Pseudcore.jpeg,10_Meme Charts,grid,non,grille dense et uniforme sans intitulés
+ic_Art 1.jpeg,11_Other Boards,sectioned_grid,non,sections nommées (Types Drawing / Anatomy / Perspective) le long du bord gauche
+ic_Art 2.jpeg,11_Other Boards,sectioned_grid,non,sections « Group 1..5 » explicitement ordonnées
+05_Greek 3.jpeg,1_Beginnings,sectioned_grid,non,sections par genre + encart « Start with the Greeks » et « Learning Greek? »
+03_Beowulf.jpeg,2_General,list,non,comparaison de traductions en colonnes de texte
+04_2016.jpeg,2_General,grid,non,palmarès annuel numéroté
+06_Inverse.jpeg,2_General,sectioned_grid,non,rangées libellées à gauche, très aérées
+10_.lit. canon.jpeg,2_General,collage,non,couvertures en cadre autour du titre central
+20_21st Century Literature 2.jpeg,2_General,grid,non,grille régulière sur fond bleu
+27_War.jpeg,2_General,grid,non,grille avec légendes titre/auteur
+45_Minor Classics 1.jpeg,2_General,grid,non,grille dense sans légendes lisibles
+02_Christian.Catholic and Medieval Philosophy.jpeg,3_Philosophy,sectioned_grid,non,grappes de couvertures avec intitulés de période
+16_Analytic Metaphysics.jpeg,3_Philosophy,sectioned_grid,non,colonnes thématiques (Causation / Modality / Time / Properties)
+12_Uruguayan.jpeg,4_Countries.Nationalities,grid,non,grille uniforme sur fond noir
+02_Sci-Fi 2.jpeg,5_Speculative Fiction,sectioned_grid,non,sections périodisées (Golden Age…) en grappes irrégulières
+04_NPR Top 100 Sci-Fi.jpeg,5_Speculative Fiction,flowchart,oui,arbre de décision ramifié reliant les couvertures
+07_Dune.jpeg,5_Speculative Fiction,list,non,cinq OPTIONS de parcours alternatifs — embranchement explicite
+15_Warhammer 40k 1.jpeg,5_Speculative Fiction,sectioned_grid,non,rangées éparses faiblement libellées
+02_Esoteric Islam.jpeg,6_Religion,sectioned_grid,non,grille de couvertures doublée d'un commentaire suivi
+13_Christian Mysticism.jpeg,6_Religion,grid,non,grille 3x3 nette avec légendes
+34_Daoist.jpeg,6_Religion,tier_list,non,bandes horizontales successives avec consignes de lecture
+02_Reactionary.jpeg,7_Ideologies,sectioned_grid,non,colonnes libellées (FICTION / POETRY / WORLDVIEW & POLITICS / HISTORY)
+03_Zizek 3.jpeg,7_Ideologies,flowchart,oui,« Main line of major books » fléchée + secondaire à part
+17_Anarcho-Capitalism.jpeg,7_Ideologies,tier_list,oui,bandes de difficulté (NOVICE/BEGINNER/…) et arbre thématique en tête
+19_New Thought.jpeg,7_Ideologies,grid,non,six couvertures sans intitulé
+17_Lain Pill (Cyberpunk).jpeg,8_Pills,grid,non,grille avec légendes minuscules
+20_Analysis (Mathematics).jpeg,9_Science,flowchart,oui,arbre de dépendances — se dit « unreadable edition »
+28_Mathematics (Portuguese).jpeg,9_Science,tier_list,non,niveaux numérotés 1º-9º précédés de « Nível 0 »
+04_American Politics.jpeg,10_Meme Charts,collage,non,couvertures libres sur fond de drapeau
+10_Tigers.jpeg,10_Meme Charts,grid,non,petite grille sans intitulés
+17_Meme Poetry.jpeg,10_Meme Charts,grid,non,trois couvertures — « meme trilogy »
+fit_Fitness.jpeg,11_Other Boards,grid,non,grille dense avec légendes
+ic_Art 3.jpeg,11_Other Boards,tier_list,non,deux paliers : « HOLY TRINITY OF BEGINNER'S GUIDES » puis « AFTER YOU'VE READ THE FIRST 3 »
+03_Greeks 1.jpeg,1_Beginnings,flowchart,oui,« START HERE » puis fil conducteur Homère → Sophocle → Hérodote → Platon → Aristote
+02_2014–2017.jpeg,2_General,sectioned_grid,non,palmarès annuels juxtaposés en colonnes datées
+02_Dante.jpeg,2_General,list,non,longues colonnes de commentaire, peu de couvertures
+07_Homosexuals.jpeg,2_General,grid,non,grille uniforme « ESSENTIAL HOMO-CORE »
+16_1925–1949.jpeg,2_General,grid,non,grille périodisée avec addendum « The At First Ommited »
+18_1975–1999.jpeg,2_General,grid,non,grille périodisée uniforme
+18_Slavelord.jpeg,2_General,tier_list,non,« Read/View Layer By Layer » — paliers superposés
+04_Political Philosophy.jpeg,3_Philosophy,sectioned_grid,non,rangées libellées sur fond photographique
+17_Utopianism.jpeg,3_Philosophy,grid,non,grille 3x4 avec légendes titre/auteur
+22_Stoicism.jpeg,3_Philosophy,sectioned_grid,non,sections graduées CORE → MORE → ADVANCED, repère « START HERE »
+13_Russian.jpeg,4_Countries.Nationalities,sectioned_grid,non,sections par siècle
+08_Favourites.jpeg,5_Speculative Fiction,grid,non,grille 4x4 nette avec légendes
+11_Post-Apocalyptic.jpeg,5_Speculative Fiction,flowchart,oui,flèches descendantes reliant les groupes
+19_China Mieville.jpeg,5_Speculative Fiction,flowchart,oui,« Pick a style » ramifié + colonnes Must reads / Digging deeper / If you must
+20_Conan The Barbarian.jpeg,5_Speculative Fiction,list,non,deux ordres de lecture alternatifs en colonnes — « three choices »
+05_Buddhism.jpeg,6_Religion,flowchart,oui,« START HERE » et grandes flèches jaunes de progression
+08_Asatru.jpeg,6_Religion,sectioned_grid,non,rangées éparses faiblement libellées
+24_Catholic (French).jpeg,6_Religion,grid,non,grille uniforme sur fond bleu
+03_Non-Tumblr Feminism.jpeg,7_Ideologies,grid,non,grille avec légendes titre/auteur
+06_Anarchism.jpeg,7_Ideologies,list,non,liste de texte pur à sections nommées
+09_Libertarianism.jpeg,7_Ideologies,tier_list,non,« Level 1..5 » explicites croisés avec trois écoles
+23_Marxist-Humanist.jpeg,7_Ideologies,sectioned_grid,non,sections General/Political Economy/Theory/History/Philosophy
+18_Orange Pill (Crypto).jpeg,8_Pills,list,non,affiche à blocs de texte commentés
+07_.sci. cs.jpeg,9_Science,sectioned_grid,non,« Computer Science Core » puis « Masters Degree Core »
+32_Urbanism.jpeg,9_Science,grid,non,grille dense sans intitulés
+01_2014.jpeg,2_General,grid,non,
+01_2014–2020.jpeg,2_General,grid,non,palmarès avec chapeau de texte
+01_2022.jpeg,2_General,grid,non,
+01_Ancient Western Philosophy.jpeg,3_Philosophy,sectioned_grid,non,sections de l'histoire de la philosophie
+01_Anthropology of Myth and Religion.jpeg,6_Religion,flowchart,oui,couvertures reliées par des flèches
+01_Beginner 1.jpeg,5_Speculative Fiction,tier_list,non,Entry-level Tier / God-Tier / Shit-Tier
+01_Chinese.jpeg,4_Countries.Nationalities,sectioned_grid,non,"classique vs moderne, puis par période"
+01_Enter The Esoterica.jpeg,6_Religion,sectioned_grid,non,
+01_Green Pill (Spirituality.Stoner.Eco).jpeg,8_Pills,grid,non,
+01_Leftist & Progressive.jpeg,7_Ideologies,grid,non,légendes titre/auteur
+01_Novellas.jpeg,2_General,grid,non,novellas avec légendes
+01_Overview.jpg,3_Philosophy,map,oui,grappes de courants reliées par des traits fins
+01_Sci-Fi 1.jpeg,5_Speculative Fiction,sectioned_grid,non,périodes du SF
+01_Zizek 1.jpeg,7_Ideologies,list,non,« So you want to read Žižek » — blocs de commentaire
+02_2015.jpeg,2_General,grid,non,
+02_Beginner 2.jpeg,5_Speculative Fiction,tier_list,non,rangées libellées par palier
+02_Bronze Age.jpeg,1_Beginnings,flowchart,oui,« Begin With The Bronze Age » — boîtes reliées par aires culturelles
+02_Foundational Mathematics (Real).jpeg,9_Science,tier_list,oui,"Basic / Medium / Real Maths, dépendances tracées"
+02_Horror.jpeg,5_Speculative Fiction,sectioned_grid,non,Classic Horror / 20th Century / New Horror
+02_Intersectional Feminism.jpeg,7_Ideologies,grid,non,
+02_Novellas 2.jpeg,2_General,grid,non,« 100 Novellas »
+02_Starter Kit 2.jpeg,2_General,grid,non,« /lit/ Starter Kit »
+03_.pol.ack.jpeg,7_Ideologies,tier_list,non,« A /pol/ack's Journey » en Units successives
+03_2015 Authors.jpeg,2_General,grid,non,portraits d'auteurs
+03_Bane Pill (Bane from Batman).jpeg,8_Pills,collage,non,"chart-mème, peu de livres"
+03_Fiction.jpeg,5_Speculative Fiction,grid,non,« Horror Fiction »
+03_Foundational Mathematics.jpeg,9_Science,tier_list,oui,Basic / Medium / Advance avec dépendances
+03_Modern Philosophy.jpeg,3_Philosophy,sectioned_grid,non,
+03_Novellas 3.jpeg,2_General,grid,non,« 100 CONTEMPORARY NOVELLAS »
+03_Qurans.jpeg,6_Religion,flowchart,oui,« Which Quran should I get? » — arbre de décision
+03_Starter Kit 3.jpeg,2_General,grid,non,
+03_The Americans.jpeg,10_Meme Charts,flowchart,oui,« START WITH THE AMERICANS » — fil conducteur
+03_Western Occultism.jpeg,6_Religion,tier_list,non,START HERE / THEN READ / THEN READ / supplementary
+04_Dostoyevsky.jpeg,2_General,list,non,comparaison de traductions en colonnes
+04_Esoteric Techno-Facism.jpeg,7_Ideologies,sectioned_grid,non,FASCIST THEORY / FUTURISM / SPIRITUALITY / OTHER
+04_Evola 1.jpeg,7_Ideologies,list,non,texte dense
+04_Gothic.Horror Flowchart.jpeg,5_Speculative Fiction,flowchart,oui,« GOTHIC AND HORROR NOVEL FLOWCHART »
+04_Greeks 2.jpeg,1_Beginnings,flowchart,oui,« START WITH THE GREEKS » — liens colorés
+04_Sacred Texts.jpeg,6_Religion,sectioned_grid,non,une boîte par religion
+04_Selected Fantasy.jpeg,5_Speculative Fiction,grid,non,
+04_The Scientific Revolution.jpeg,3_Philosophy,sectioned_grid,non,
+04_Various Pills Chart.jpeg,8_Pills,sectioned_grid,non,colonnes par « pill »
+05_2017.jpeg,2_General,grid,non,
+05_Evola 2.jpeg,7_Ideologies,flowchart,oui,"« JULIUS EVOLA READING GUIDE » — START HERE, MANDATORY/OPTIONAL"
+05_German Idealism.jpeg,3_Philosophy,sectioned_grid,non,
+05_Green Nationalism.jpeg,7_Ideologies,grid,non,"Deep Ecology, grille légendée"
+05_Guide.jpeg,5_Speculative Fiction,sectioned_grid,non,sections par type de protagoniste
+05_Horror Authors.jpeg,5_Speculative Fiction,grid,non,« 100 Horror Authors »
+05_Leninism.jpeg,7_Ideologies,sectioned_grid,non,BIOGRAPHICAL / ON LENINISM / LENIN'S WORKS / ECONOMICS
+05_Sci-Fi Guide.jpeg,5_Speculative Fiction,sectioned_grid,non,Big Three / Early / Golden Age / Modern / Cyberpunk
+05_Starter Kit 5.jpeg,2_General,tier_list,non,Initiate / Soldier / Knight / Master / (ascension)
+06_2018.jpeg,2_General,grid,non,
+06_Gothic.jpeg,5_Speculative Fiction,grid,non,
+06_Great Poems.jpeg,2_General,grid,non,« ROLL FOR A POEM » — portraits
+06_Harry Potter.jpeg,10_Meme Charts,flowchart,oui,flèches en tête du parcours
+06_Hermeticism.jpeg,6_Religion,sectioned_grid,non,
+06_Modern V2.jpeg,5_Speculative Fiction,sectioned_grid,non,Fantasy / Science Fiction
+06_More Modern Philosophy.jpeg,3_Philosophy,sectioned_grid,non,
+06_Romans 1.jpeg,1_Beginnings,sectioned_grid,non,« Resume With The Romans »
+06_Sci-Fi Crash Course.jpeg,5_Speculative Fiction,tier_list,non,époques en rangées × « Likelihood of Satisfaction » en colonnes
+06_Science.jpeg,2_General,sectioned_grid,non,
+07_2019.jpeg,2_General,grid,non,
+07_Early Existentialism and a Continuation of Modern Philosophy.jpeg,3_Philosophy,sectioned_grid,non,
+07_Essential .lit.core.jpeg,2_General,grid,non,« Essential /lit/core »
+07_Intro to Esotericism.jpeg,6_Religion,tier_list,non,ESSENTIAL puis ADDITIONAL BACKGROUND puis ESOTERIC LITERATURE
+07_Neon Pill (Cyberpunk).jpeg,8_Pills,grid,non,« NEON PILL »
+07_Political Theory.jpeg,3_Philosophy,grid,non,"grille, mais consigne « Go in order… Do not skip a single book »"
+07_Romans 2.jpeg,1_Beginnings,flowchart,oui,version reliée de « Resume With The Romans »
+08_.his..jpeg,10_Meme Charts,grid,non,
+08_2020.jpeg,2_General,grid,non,
+08_Analytic Philosophy.jpeg,3_Philosophy,sectioned_grid,non,
+08_Ancient Origins.jpeg,6_Religion,grid,non,
+08_Beginner Flowchart 1.jpeg,5_Speculative Fiction,flowchart,oui,« WELCOME TO /LIT/ » — arbre de décision à losanges
+08_Computer Science.jpeg,9_Science,grid,non,
+08_Depressing.jpeg,2_General,grid,non,
+08_Golden Pill (Philosophy.Utopia.Sci-Fi.).jpeg,8_Pills,tier_list,non,« GOLDEN PILL READING LIST » — progression verticale
+08_Patriciancore.jpeg,2_General,grid,non,« /lit/ Patriciancore » numéroté
+08_Pedo.jpeg,2_General,sectioned_grid,non,
+08_Revolutionary.jpeg,7_Ideologies,collage,non,couvertures libres sur photographie
+08_Right-Wing.jpeg,7_Ideologies,sectioned_grid,non,sections notées
+09_2020.jpeg,2_General,grid,non,
+09_A Continuation of Analytic Philosophy and the Philosophy of the Mind.jpeg,3_Philosophy,sectioned_grid,non,
+09_Autodidactism.jpeg,1_Beginnings,sectioned_grid,non,Autodidact Core / Critical Thinking / Self-Improvement / Liberal Arts
+09_Bowden.jpeg,7_Ideologies,flowchart,oui,« The Bowden Pill » — parcours relié
+09_Brazilian.jpeg,4_Countries.Nationalities,grid,non,
+09_Christian Poetic Narratives.jpeg,6_Religion,grid,non,
+09_Gatekeeper's Remorse.jpeg,6_Religion,grid,non,
+09_History of Philosophy Library.jpeg,3_Philosophy,grid,non,
+09_Midwit-Core.jpeg,2_General,grid,non,« Essential Midwit-Core » — couvertures et portraits
+09_Programming.jpeg,9_Science,tier_list,non,GOD TIER / HIGH TIER / GREAT TIER
+09_Think Before Posting.jpeg,5_Speculative Fiction,sectioned_grid,non,colonnes par genre
+10_Black Nationalism.jpeg,7_Ideologies,list,non,« Black Panther Party BOOK LIST » — texte pur
+10_Escape the Matrix.jpeg,6_Religion,sectioned_grid,non,
+10_Intro Short Story 1.jpeg,2_General,sectioned_grid,non,nouvelles par période — « 19th century or earlier »
+10_Nietzchean.jpeg,3_Philosophy,sectioned_grid,non,Biographies / Philosophy
+10_Pessimist.jpeg,2_General,collage,non,« PESSIMIST STARTER PACK » — citations et objets
+10_Postmodernism.jpeg,3_Philosophy,sectioned_grid,non,
+10_Utopia & Dystopia.jpeg,5_Speculative Fiction,sectioned_grid,non,DYSTOPIA / UTOPIA en vis-à-vis
+10_Western.jpeg,1_Beginnings,flowchart,oui,« Guide to Western Literature (Ancient to Modern) » — flèches de période
+11_.lit. canon 2.jpeg,2_General,grid,non,
+11_African Americans.jpeg,4_Countries.Nationalities,sectioned_grid,non,par époque du mouvement
+11_Architecture.jpeg,9_Science,grid,non,
+11_Brown Pill (No Idea).jpeg,8_Pills,grid,non,
+11_Degenerate.jpeg,5_Speculative Fiction,grid,non,
+11_Feminist.Queer Theory.jpeg,3_Philosophy,sectioned_grid,non,
+11_Intro Short Story 2.jpeg,2_General,sectioned_grid,non,« 1900-1940 »
+12_Analytic 1.jpeg,3_Philosophy,grid,non,
+12_Anarcho-Syndicalism (French).jpeg,7_Ideologies,grid,non,
+12_Christian History.jpeg,6_Religion,grid,non,« Starter Kit for: Christian History »
+12_Darre Pill (Nazi.).jpeg,8_Pills,sectioned_grid,non,
+12_Latin.jpeg,1_Beginnings,flowchart,oui,« LATIN CHART » — « Start here » puis dépendances fléchées
+12_Living Off The Land.jpeg,2_General,collage,non,couvertures libres sur fond décoratif
+12_Meme-Core.jpeg,10_Meme Charts,grid,non,
+12_Pinata (Woman).jpeg,5_Speculative Fiction,grid,non,« /lit/SFF Pinata »
+12_Western Foundations.jpeg,2_General,tier_list,non,Primary / Secondary / Additional Essential Texts
+13_100 Works of World Literature.jpeg,2_General,sectioned_grid,non,
+13_Analytic 2.jpeg,3_Philosophy,grid,non,
+13_Discworld.jpeg,5_Speculative Fiction,flowchart,oui,« DISCWORLD READING ORDER GUIDE 3.0 » — ordre fléché
+13_Leftist Theory Starter.jpeg,10_Meme Charts,sectioned_grid,non,deux options opposées — théorie sérieuse vs « edgy meming teenager »
+13_Soft SF.jpeg,5_Speculative Fiction,grid,non,
+14_Baby's First Literature.jpeg,10_Meme Charts,collage,non,« BABY'S FIRST /LIT/ »
+14_Chinese.jpeg,4_Countries.Nationalities,sectioned_grid,non,Classical / Modern Chinese Literature
+14_General.jpeg,5_Speculative Fiction,sectioned_grid,non,« SFFG SUGGESTION CHART »
+14_Poetry Chart.jpeg,2_General,flowchart,oui,START → THE GREEKS → POETS → ANTHOLOGIES → EXTRAS
+14_Right-Wing LIbertarian.jpeg,7_Ideologies,sectioned_grid,non,neuf sections thématiques
+14_SFFG.jpeg,5_Speculative Fiction,grid,non,
+15_.the_pol..jpeg,10_Meme Charts,collage,non,chart-mème « /the_pol/ »
+15_1900–1924.jpeg,2_General,grid,non,
+15_Counter-Revolution (French).jpeg,7_Ideologies,grid,non,« Contre-Révolution »
+15_Required Reading 2.jpeg,9_Science,grid,non,
+15_SFFG Wall of Text.jpeg,5_Speculative Fiction,grid,non,« SFFG WALL OF TEXT CHART »
+16_Anarcho-Primitivism.jpeg,7_Ideologies,sectioned_grid,non,Origins / Kaczynski / Zerzan / Moore
+16_SFFG Amazon.jpeg,5_Speculative Fiction,grid,non,
+16_TP Economics.jpeg,7_Ideologies,sectioned_grid,non,
+16_Warhammer 40k 2.jpeg,5_Speculative Fiction,grid,non,
+17_1950–1974.jpeg,2_General,grid,non,
+17_Baseball.jpeg,2_General,tier_list,non,« Baseball Essentials » puis « Further Reading »
+17_Christian by Denomination.jpeg,6_Religion,sectioned_grid,non,"blocs colorés par confession, y compris les recoupements"
+17_Monarchism.jpeg,7_Ideologies,grid,non,
+17_Web NOvels.jpeg,5_Speculative Fiction,tier_list,non,GOD TIER / OK TIER / Also worth Checking Out
+18_Distributism.jpeg,7_Ideologies,grid,non,
+18_Economics.jpeg,9_Science,flowchart,oui,« HOW TO NOT SHITPOST ON ECONOMICS » — questions et flèches
+18_Self-Published 1.jpeg,5_Speculative Fiction,grid,non,
+19_21st Century Literature.jpeg,2_General,grid,non,
+19_First Seven Ecumenical Councils.jpeg,6_Religion,sectioned_grid,non,HISTORY / DIVERGENT TRADITIONS
+19_Modern Unique Fantasy.jpeg,10_Meme Charts,map,oui,couvertures disposées en étoile et reliées
+20_Christianity.jpeg,6_Religion,tier_list,non,niveaux en chiffres romains I à IX
+20_Nazbol.jpeg,7_Ideologies,grid,non,
+21_British Conservatism.jpeg,7_Ideologies,flowchart,oui,« British Conservatism: A Beginner's Chart » — flèches vertes
+21_Mathematics Trench.jpeg,9_Science,tier_list,non,« MATHEMATICS TRENCH » — axe d'abstraction croissante
+22_Anti-Racist.jpeg,7_Ideologies,tier_list,non,Starter Kit / Intermediate Kit / Topic Specifics
+22_Doomer.Bloomer.jpeg,2_General,sectioned_grid,non,DOOMER puis BLOOMER
+22_Orthodox (Christian).jpeg,6_Religion,sectioned_grid,non,
+23_Christian Doctrine.jpeg,6_Religion,grid,non,
+23_Computers.jpeg,9_Science,sectioned_grid,non,Computer Science Core / Masters Degree Core
+23_Malazan Book of Fallen.jpeg,5_Speculative Fiction,flowchart,oui,« Reading Order Recommendations » avec légende de types de liens
+24_Becoming a Mathematician.jpeg,9_Science,flowchart,oui,dépendances tracées
+24_Middle Earth.jpeg,5_Speculative Fiction,flowchart,oui,« how do i get into middle-earth? » — arbre de décision
+24_Monarchy.jpeg,7_Ideologies,grid,non,
+25_Dark.Disturbing.jpeg,2_General,grid,non,
+25_Female Authors.jpeg,5_Speculative Fiction,grid,non,
+26_Little Girls.jpeg,2_General,sectioned_grid,non,
+27_Ass.jpeg,10_Meme Charts,list,non,
+27_Political Philosophy.jpeg,3_Philosophy,grid,non,
+28_Doomer.jpeg,10_Meme Charts,grid,non,
+29_Bloomer .lit..jpeg,10_Meme Charts,grid,non,
+29_Older Women Younger Men.jpeg,2_General,collage,non,
+29_Orthodox.jpeg,6_Religion,sectioned_grid,non,selon la confession d'origine du lecteur
+30_Bloomerism.jpeg,10_Meme Charts,collage,non,
+30_References and Idioms.jpeg,2_General,sectioned_grid,non,trois colonnes de sources
+30_Rhetoric.jpeg,9_Science,collage,non,
+31_Doomer.jpeg,10_Meme Charts,grid,non,
+31_Ecotheology.jpeg,6_Religion,sectioned_grid,non,
+"32_Diaries, Memoirs, Autobiographies.jpeg",2_General,grid,non,
+33_Jordan Peterson.jpeg,10_Meme Charts,grid,non,
+33_Prepper-core.jpeg,9_Science,grid,non,
+34_Trad.jpeg,2_General,grid,non,
+34_Twitter-core.jpeg,10_Meme Charts,grid,non,légende « = Own / = Read »
+35_Buddhism.jpeg,6_Religion,sectioned_grid,non,
+37_Great Characters.jpeg,2_General,grid,non,
+38_Homosexuality (Pre-1850).jpeg,2_General,grid,non,« WORK IN PROGRESS »
+39_Homosexuality (Pre-modern).jpeg,2_General,grid,non,
+42_Illustrated.jpeg,2_General,grid,non,
+43_Indo-Europeans.jpeg,10_Meme Charts,tier_list,non,START HERE / CONTINUE WITH / READ THESE LAST
+43_PewDiePie Recommendations.jpeg,2_General,sectioned_grid,non,
+47_Doomer.jpeg,2_General,grid,non,
+49_Addiction.jpeg,2_General,grid,non,
+49_Meme Analysis.jpeg,10_Meme Charts,map,non,registres disposés autour d'une silhouette de cerveau
+50_Bioshock Infinite.jpeg,10_Meme Charts,grid,non,
+51_K-On.jpeg,10_Meme Charts,grid,non,
+51_Poems on Massacres and Hell.jpeg,2_General,grid,non,
+"_Overcoming ADHD, Internet, Porn and SM Addiction.jpeg",11_Other Boards,grid,non,
+biz_Business 1.jpeg,11_Other Boards,grid,non,
+biz_Business 3.jpeg,11_Other Boards,grid,non,« WITHOUT ORDER » revendiqué
+biz_Business 4.jpeg,11_Other Boards,grid,non,
+brit_Literature 1.jpeg,11_Other Boards,sectioned_grid,non,
+fit_Literature.jpeg,11_Other Boards,sectioned_grid,non,
+lit_Anime & Manga.jpeg,11_Other Boards,sectioned_grid,non,Anime / Manga en vis-à-vis
+pol_Politics 1 (British).jpeg,11_Other Boards,sectioned_grid,non,Contemporary / Classical
+pol_Politics 2.jpeg,11_Other Boards,grid,non,
+pol_Politics 3 (British).jpeg,11_Other Boards,sectioned_grid,non,Non-Fiction / Fiction / Poetry / Film / TV
+r9k_Literature 1.jpeg,11_Other Boards,grid,non,
+x_Paranormal 2.jpeg,11_Other Boards,grid,non,
+x_Paranormal 3.jpeg,11_Other Boards,sectioned_grid,non,

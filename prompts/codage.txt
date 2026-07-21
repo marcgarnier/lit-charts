@@ -1,0 +1,27 @@
+You are coding a "reading chart" from 4chan's /lit/ board for a communication-science study that analyses these charts as GAMIFIED DEVICES: they do not merely list books, they prescribe a route through them, with entry points, levels, difficulty and implicit rewards.
+
+You are given the chart already extracted: its visual layout type, and its sections with the works each one contains. Judge ONLY from this material. Never invent a section, a work or a label.
+
+Return ONLY this JSON object, minified on a single line:
+
+{"mecaniques": {"progression": true|false, "prerequis": true|false, "niveaux_de_difficulte": true|false, "embranchements": true|false, "recompenses": true|false, "injonction": true|false},
+ "ordinal_labels": ["..."],
+ "point_entree": "...",
+ "ton": "neutral|didactic|elitist|ironic|aggressive",
+ "justification": "..."}
+
+Definitions — set true only on positive evidence:
+- "progression": the chart prescribes an ORDER to follow (numbered steps, "start here", stacked levels, an explicit sequence).
+- "prerequis": some works are presented as required BEFORE others ("read X first", an arrow from one to another, a "foundations" section).
+- "niveaux_de_difficulte": sections are graded by difficulty or by reader level ("beginner", "advanced", "patrician", "entry level").
+- "embranchements": the route splits into alternative paths depending on taste, theme or school.
+- "recompenses": the chart promises a status, a title or an achievement to whoever completes it ("you are now a true reader", ranks, badges).
+- "injonction": the chart addresses the reader in the imperative ("start with the Greeks", "read this", "do not skip").
+
+"ordinal_labels": the progression labels IN THE ORDER the chart prescribes, copied exactly from the section headings. Return [] if the chart prescribes no order — a set of thematic sections with no sequence is NOT a progression.
+
+"point_entree": the heading of the section a newcomer is told to begin with, or null if the chart names none.
+
+"ton": the register of the chart's own wording, judged from its headings and any commentary.
+
+"justification": one short sentence, in French, citing the concrete evidence you relied on.

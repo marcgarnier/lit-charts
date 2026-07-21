@@ -1,0 +1,94 @@
+# Formes à écarter du champ « auteur » de data/processed/oeuvres.csv.
+#
+# La séparation auteur/titre repose sur le motif « Auteur: Titre », très
+# répandu sur les charts mais pas universel. Quand un chart écrit
+# « History: A Very Short Introduction » ou « ECONOMICS: readings », la
+# règle produit un faux auteur. Cette liste les écarte.
+#
+# Une forme par ligne, insensible à la casse. Les lignes « # » sont des
+# commentaires. Modifier ce fichier puis relancer src/09_auteurs.py --force.
+#
+# Repérées sur le corpus comme faux auteurs les plus fréquents :
+history
+politics
+economics
+philosophy
+complete works
+stories
+manifesto
+poetry
+fiction
+essays
+science
+religion
+theory
+introduction
+anthology
+selected works
+collected works
+of the
+the
+
+# --- faux auteurs résiduels relevés dans le noyau (>= 5 charts) :
+#     des titres ou libellés qui ressemblent formellement à des noms ---
+bible
+revolution
+pure reason
+everyman library edition
+man
+foundation
+foundations
+stranger
+meditations
+meditation
+pilgrim
+pilgrims
+children
+childrens
+thought
+thoughts
+people
+peoples
+tradition
+traditions
+esoteric
+esoterica
+programming
+monster
+monsters
+
+# --- mots-outils et fragments de phrase ---
+and
+also
+see
+read
+note
+notes
+next
+then
+first
+last
+start
+end
+more
+other
+various
+misc
+anon
+anonymous
+tier
+level
+optional
+bonus
+etc
+vol
+volume
+part
+book
+books
+new
+edition
+translated
+trans
+ed
+eds

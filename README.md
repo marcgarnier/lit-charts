@@ -22,7 +22,7 @@ Pipeline computationnel pour l'étude des **charts de lecture de 4chan /lit/** c
 ## Le pipeline
 
 ```
-data/raw/images/          264 images (non versionnées)
+data/raw/images/          264 images (sur OSF)
         │
   01_ocr.py               OCR par bandes, pleine résolution
         │                 moteurs : vision (macOS, défaut) | surya (libre, contrôle)
@@ -52,11 +52,11 @@ pip install -r requirements.txt
 ollama pull qwen2.5vl:3b && ollama pull llama3.1
 ```
 
-Les images du corpus ne sont pas redistribuées (artefacts d'usagers anonymes, reproduits dans l'étude à seule fin d'analyse) : placer les vôtres dans `data/raw/images/` puis dérouler le pipeline dans l'ordre ci-dessus.
+Les images du corpus sont archivées sur OSF : <https://osf.io/hrb26/>. Placez-les dans `data/raw/images/` puis déroulez le pipeline dans l'ordre ci-dessus.
 
 ## Données versionnées
 
-Le dépôt ne contient ni images ni sorties volumineuses (voir `.gitignore`). Sont versionnés : le code, les lexiques (`prompts/`), le codage des formes des 264 charts (`data/interim/codage_manuel_formes.csv`, provenance déclarée en tête de fichier), l'inventaire du corpus, les rapports de fiabilité (`results/*.txt`) et le carnet exécuté.
+Le dépôt contient les données dérivées (interim, processed). Les images brutes sont sur OSF : <https://osf.io/hrb26/>.
 
 ## Citation
 

@@ -17,8 +17,8 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# --- Données versionnées (retirées du gitignore) ---
-# data/raw/ est désormais versionné
+# --- Données brutes (versionnées sur OSF) ---
+data/raw/*
 
 # --- Modèles et fichiers volumineux ---
 models/

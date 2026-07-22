@@ -22,6 +22,17 @@ TITRE = ("«~That's kino anon~» : les charts de /lit/\\\\comme dispositifs "
 SOUS_TITRE = ("D'une lecture qualitative à une mesure computationnelle du corpus")
 
 
+SYMBOLES = [("α", r"$\alpha$"), ("→", r"$\rightarrow$"), ("≈", r"$\approx$"),
+            ("≥", r"$\geq$"), ("≤", r"$\leq$"), ("×", r"$\times$")]
+
+
+def symboles(texte):
+    """Symboles absents de la police texte : rendus en mode mathématique."""
+    for a, b in SYMBOLES:
+        texte = texte.replace(a, b)
+    return texte
+
+
 def echapper(texte):
     """Échappe les caractères spéciaux LaTeX dans du texte courant."""
     remplacements = [
@@ -60,6 +71,11 @@ def inline(texte):
     # URL nue <url>
     texte = sceller(r"<(https?://[^>]+)>",
                     lambda m: r"\url{" + m.group(1) + "}", texte)
+    # URL nue sans chevrons (fréquente en bibliographie) : scellée en
+    # \url, sinon babel français insère une espace avant les deux-points.
+    texte = sceller(r"(https?://[^\s)»\]]+)",
+                    lambda m: r"\url{" + m.group(1).rstrip(".") + "}"
+                    + ("." if m.group(1).endswith(".") else ""), texte)
 
     texte = echapper(texte)
 
@@ -72,6 +88,8 @@ def inline(texte):
     texte = texte.replace("—", "---").replace("–", "--")
     texte = texte.replace(" :", "~:").replace(" ;", "~;")
     texte = texte.replace(" %", "~\\%")
+
+    texte = symboles(texte)
 
     for cle, val in jetons.items():
         texte = texte.replace(cle, val)
@@ -114,7 +132,7 @@ def corps_latex(md):
             while i < len(lignes) and not lignes[i].startswith("```"):
                 bloc.append(lignes[i]); i += 1
             out.append(r"\begin{quote}\ttfamily\small\obeylines")
-            out += [echapper(b) for b in bloc]
+            out += [symboles(echapper(b)) for b in bloc]
             out.append(r"\end{quote}")
             i += 1
             continue
@@ -192,10 +210,8 @@ def construire():
 
 
 PREAMBULE = r"""\documentclass[11pt,a4paper]{{article}}
-\usepackage[utf8]{{inputenc}}
-\usepackage[T1]{{fontenc}}
+\usepackage{{fontspec}}
 \usepackage[french]{{babel}}
-\usepackage{{lmodern}}
 \usepackage[margin=2.3cm]{{geometry}}
 \usepackage{{booktabs}}
 \usepackage{{graphicx}}
@@ -226,15 +242,14 @@ Code et données : \url{{https://github.com/marcgarnier/lit-charts}}\par}}
 \end{{center}}
 \vspace{{0.8em}}
 
-\begin{{center}}\begin{{minipage}}{{0.92\linewidth}}
-\small
-{{\sffamily\footnotesize\bfseries RÉSUMÉ}}\\[0.3em]
-{resume}\\[0.4em]
-\textbf{{Mots-clés :}} {mots}\\[0.9em]
-{{\sffamily\footnotesize\bfseries ABSTRACT}}\\[0.3em]
-{abstract}\\[0.4em]
+\begin{{quote}}\small
+{{\sffamily\footnotesize\bfseries RÉSUMÉ}}\par\smallskip
+{resume}\par\smallskip
+\textbf{{Mots-clés~:}} {mots}\par\bigskip
+{{\sffamily\footnotesize\bfseries ABSTRACT}}\par\smallskip
+{abstract}\par\smallskip
 \textbf{{Keywords:}} {keys}
-\end{{minipage}}\end{{center}}
+\end{{quote}}
 \vspace{{1em}}
 
 {corps}

@@ -1,0 +1,1084 @@
+{
+  "fichier": "11_African Americans.jpeg",
+  "date": "2026-07-21T19:28:36.537667+00:00",
+  "taille_origine": [
+    585,
+    2300
+  ],
+  "hauteur_ligne_mediane": 16.4,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 51,
+  "nb_noeuds": 87,
+  "tiers": [
+    "African American",
+    "MALCOLM-X",
+    "ROOTS"
+  ],
+  "intitules_isoles": [
+    "Slave Narratives:",
+    "Reconstruction Era:",
+    "Harlem Renaissance:",
+    "Their",
+    "Eyes Were",
+    "Blacker",
+    "to Berry",
+    "Civil Rights Era:",
+    "I Know",
+    "Why the",
+    "Caged Bird",
+    "Let Him So",
+    "The Saga of an American Fami",
+    "Known",
+    "World"
+  ],
+  "blocs": [
+    {
+      "tier": "African American",
+      "bbox": [
+        -0.0,
+        0.0,
+        547.4,
+        133.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "/lit/erature",
+          "auteur": null,
+          "tier": "African American"
+        },
+        {
+          "titre": "......",
+          "auteur": null,
+          "tier": "African American"
+        },
+        {
+          "titre": "Slave Narratives:",
+          "auteur": null,
+          "tier": "African American"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        35.9,
+        157.9,
+        111.8,
+        203.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "GEN CLARIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ULAUDAH EQUIANO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NARRATIVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND UTILE WEENE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.5,
+        177.9,
+        411.3,
+        187.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FREDERICK DOUGLASS.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        175.7,
+        179.9,
+        235.6,
+        189.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Harriet Jacobs",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        465.2,
+        181.9,
+        533.1,
+        207.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "NARRATIVE",
+          "auteur": "SOJoURNE TRUTH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.0,
+        347.7,
+        265.5,
+        389.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "•",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Reconstruction Era:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        453.2,
+        433.7,
+        561.0,
+        459.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BOOKER T. WASHINGTON",
+          "auteur": "UP FROM SLAVERY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        329.4,
+        453.6,
+        405.3,
+        463.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILLIAN WELLS BROWN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        22.0,
+        509.6,
+        127.8,
+        569.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE SOUL",
+          "auteur": "BLACK FOLK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        325.4,
+        555.6,
+        407.3,
+        565.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thing to Trans Many Fate?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        8.0,
+        677.5,
+        285.5,
+        695.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Harlem Renaissance:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.5,
+        717.4,
+        431.5,
+        879.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BLACK",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "=NO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MORE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "George & Schugle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        19.9,
+        719.3,
+        137.8,
+        749.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HUGHES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        461.2,
+        727.4,
+        569.0,
+        739.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Zora Neale Hurston",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        456.7,
+        803.4,
+        539.1,
+        857.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Their",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Eyes Were",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Watching",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "God",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        267.5,
+        833.4,
+        283.5,
+        851.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "e",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        18.0,
+        871.3,
+        139.8,
+        889.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Not Without Laughter",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        185.7,
+        883.3,
+        269.5,
+        893.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Jean Toomer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        28.0,
+        937.3,
+        125.8,
+        949.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CLAUDE MCKAY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        487.2,
+        953.3,
+        563.0,
+        993.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Blacker",
+          "auteur": "to Berry",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        177.6,
+        960.9,
+        275.5,
+        1031.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "QUICKSAND",
+          "auteur": "PASSING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        349.4,
+        1027.2,
+        397.3,
+        1097.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WALLS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JERICHO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        179.7,
+        1080.9,
+        205.6,
+        1094.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DELLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        31.9,
+        1093.2,
+        125.8,
+        1105.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Home to Harlem",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.0,
+        1141.1,
+        211.6,
+        1382.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "• • • • • •",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Civil Rights Era:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GU TELLIT O",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SU TELLIT O",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MOUNTAIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NUSATIV",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JAMES BALDWIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        309.5,
+        1209.1,
+        421.3,
+        1247.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "INVISIBLE",
+          "auteur": "MAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "MALCOLM-X",
+      "bbox": [
+        449.1,
+        1218.4,
+        565.2,
+        1258.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NEX HALE",
+          "auteur": null,
+          "tier": "MALCOLM-X"
+        },
+        {
+          "titre": "TO THAT EY",
+          "auteur": null,
+          "tier": "MALCOLM-X"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        327.4,
+        1360.7,
+        405.3,
+        1370.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BY RALPH ELLISON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        16.0,
+        1416.7,
+        112.0,
+        1494.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "aya Angelou",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "I Know",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Why the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Caged Bird",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sings",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        463.2,
+        1466.6,
+        515.1,
+        1488.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Raisin",
+          "auteur": "in the Sun",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        319.4,
+        1470.2,
+        397.4,
+        1487.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "If He Hollers",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        319.4,
+        1518.5,
+        385.4,
+        1534.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Let Him So",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        361.4,
+        1558.6,
+        411.3,
+        1568.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Chester Hime",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.0,
+        1602.5,
+        281.5,
+        1722.9
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "• •",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Contemporary:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHARLES MINGUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dreams from",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "My Father",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.3,
+        1662.5,
+        427.4,
+        1738.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "•Putas Tos Moon No",
+          "auteur": "ALICE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        457.2,
+        1682.5,
+        567.0,
+        1718.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TONI",
+          "auteur": "MORRISON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        173.7,
+        1780.3,
+        279.5,
+        1844.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BENEATH",
+          "auteur": "HIS WORLDAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        29.9,
+        1784.4,
+        117.8,
+        1818.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Barack",
+          "auteur": "Obama",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        462.1,
+        1794.7,
+        538.3,
+        1821.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BELON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.4,
+        1802.1,
+        427.3,
+        1844.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE COLOR",
+          "auteur": "PURPLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        455.2,
+        1886.3,
+        483.2,
+        1910.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ERR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ROOTS",
+      "bbox": [
+        155.5,
+        1893.9,
+        277.7,
+        2008.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Saga of an American Fami",
+          "auteur": null,
+          "tier": "ROOTS"
+        },
+        {
+          "titre": "ALEX",
+          "auteur": null,
+          "tier": "ROOTS"
+        },
+        {
+          "titre": "HALEY",
+          "auteur": null,
+          "tier": "ROOTS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        33.9,
+        1964.1,
+        125.9,
+        2054.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "WALTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MOSLEY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KILLING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JOHNNY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FRY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        477.2,
+        2000.2,
+        501.1,
+        2016.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ing",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.5,
+        2012.2,
+        425.3,
+        2038.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SOMEBODY BLEW",
+          "auteur": "UP AMERICA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.0,
+        2088.2,
+        123.8,
+        2098.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GLORIA NAYLOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        177.7,
+        2096.0,
+        241.6,
+        2132.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ISHMAEL",
+          "auteur": "REED",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        473.2,
+        2118.1,
+        551.1,
+        2166.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Known",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        317.5,
+        2160.1,
+        357.4,
+        2182.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        53.9,
+        2188.1,
+        79.9,
+        2196.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LINDEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        179.7,
+        2246.0,
+        245.6,
+        2268.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MUMBO",
+          "auteur": "JUMBO",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

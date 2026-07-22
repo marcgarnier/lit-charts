@@ -1,0 +1,916 @@
+{
+  "fichier": "06_Hermeticism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:48.208633+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    960,
+    1920
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 82,
+  "lignes": [
+    {
+      "texte": "Hermeticism Study Guide",
+      "texte_balise": "Hermeticism Study Guide",
+      "bbox": [
+        316.0,
+        48.0,
+        646.0,
+        80.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theological, Philosophical, & Metaphysical Roots",
+      "texte_balise": "Theological, Philosophical, & Metaphysical Roots",
+      "bbox": [
+        272.0,
+        126.0,
+        686.0,
+        146.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY BIBLE",
+      "texte_balise": "HOLY BIBLE",
+      "bbox": [
+        97.6,
+        178.3,
+        194.4,
+        207.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLOTINUS",
+      "texte_balise": "PLOTINUS",
+      "bbox": [
+        426.0,
+        182.0,
+        482.0,
+        192.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"HE ENNEADS",
+      "texte_balise": "\"HE ENNEADS",
+      "bbox": [
+        430.0,
+        192.0,
+        482.0,
+        200.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOSTIC BIBLE",
+      "texte_balise": "NOSTIC BIBLE",
+      "bbox": [
+        263.9,
+        211.8,
+        346.1,
+        236.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KING JAMES VERSION",
+      "texte_balise": "KING JAMES VERSION",
+      "bbox": [
+        104.0,
+        282.0,
+        188.0,
+        292.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity",
+      "texte_balise": "Christianity",
+      "bbox": [
+        108.0,
+        335.9,
+        186.0,
+        352.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neo-Platonism",
+      "texte_balise": "Neo-Platonism",
+      "bbox": [
+        410.0,
+        336.0,
+        504.0,
+        350.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greek Mythology",
+      "texte_balise": "Greek Mythology",
+      "bbox": [
+        574.0,
+        336.0,
+        686.0,
+        352.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Egyptian Mythology",
+      "texte_balise": "Egyptian Mythology",
+      "bbox": [
+        742.0,
+        336.0,
+        870.0,
+        352.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gnosticism",
+      "texte_balise": "Gnosticism",
+      "bbox": [
+        264.0,
+        338.0,
+        336.0,
+        350.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Core Texts",
+      "texte_balise": "Core Texts",
+      "bbox": [
+        431.8,
+        397.2,
+        528.2,
+        418.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASCLEPIUS",
+      "texte_balise": "ASCLEPIUS",
+      "bbox": [
+        632.0,
+        452.0,
+        694.0,
+        462.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        286.0,
+        456.0,
+        302.0,
+        468.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORPUS",
+      "texte_balise": "CORPUS",
+      "bbox": [
+        458.0,
+        456.0,
+        506.0,
+        466.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enerald Tablet",
+      "texte_balise": "Enerald Tablet",
+      "bbox": [
+        257.9,
+        465.6,
+        328.1,
+        484.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMETICUM",
+      "texte_balise": "HERMETICUM",
+      "bbox": [
+        440.0,
+        470.0,
+        520.0,
+        482.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Herines",
+      "texte_balise": "of Herines",
+      "bbox": [
+        272.0,
+        482.0,
+        316.0,
+        496.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emerald Tablet",
+      "texte_balise": "Emerald Tablet",
+      "bbox": [
+        244.0,
+        610.0,
+        344.0,
+        622.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Corpus Hermeticum",
+      "texte_balise": "Corpus Hermeticum",
+      "bbox": [
+        418.0,
+        610.0,
+        548.0,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Asclepius",
+      "texte_balise": "Asclepius",
+      "bbox": [
+        638.0,
+        610.0,
+        698.0,
+        626.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern Texts",
+      "texte_balise": "Modern Texts",
+      "bbox": [
+        420.0,
+        674.0,
+        540.0,
+        694.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fran: Bardon",
+      "texte_balise": "Fran: Bardon",
+      "bbox": [
+        640.0,
+        719.9,
+        720.0,
+        742.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCONENS POLEY",
+      "texte_balise": "SCONENS POLEY",
+      "bbox": [
+        456.0,
+        738.0,
+        512.0,
+        748.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The KYBALION",
+      "texte_balise": "The KYBALION",
+      "bbox": [
+        258.0,
+        748.0,
+        328.0,
+        760.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMETIC HYSTERY",
+      "texte_balise": "HERMETIC HYSTERY",
+      "bbox": [
+        446.0,
+        754.0,
+        518.0,
+        764.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bermude Platengely",
+      "texte_balise": "Bermude Platengely",
+      "bbox": [
+        266.0,
+        760.0,
+        326.0,
+        772.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "3, JURY AISE AIVOOD",
+      "texte_balise": "3, JURY AISE AIVOOD",
+      "bbox": [
+        448.0,
+        842.0,
+        516.0,
+        852.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "INITIATION INTO HERMETICS",
+      "texte_balise": "INITIATION INTO HERMETICS",
+      "bbox": [
+        634.0,
+        862.0,
+        726.0,
+        872.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INITLATION INTO HERMETICS",
+      "texte_balise": "INITLATION INTO HERMETICS",
+      "bbox": [
+        634.0,
+        862.0,
+        726.0,
+        872.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Kybalion",
+      "texte_balise": "The Kybalion",
+      "bbox": [
+        254.0,
+        900.0,
+        342.0,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suggestive Inquiry",
+      "texte_balise": "Suggestive Inquiry",
+      "bbox": [
+        422.0,
+        900.0,
+        542.0,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Initiation into",
+      "texte_balise": "Initiation into",
+      "bbox": [
+        636.0,
+        900.0,
+        728.0,
+        914.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "into the Hermetic",
+      "texte_balise": "into the Hermetic",
+      "bbox": [
+        426.0,
+        916.0,
+        540.0,
+        930.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hermetics",
+      "texte_balise": "Hermetics",
+      "bbox": [
+        650.0,
+        916.0,
+        716.0,
+        930.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mystery",
+      "texte_balise": "Mystery",
+      "bbox": [
+        446.0,
+        934.0,
+        506.0,
+        948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic Practices",
+      "texte_balise": "Basic Practices",
+      "bbox": [
+        416.0,
+        994.0,
+        544.0,
+        1014.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CE PRE PENTASP",
+      "texte_balise": "CE PRE PENTASP",
+      "bbox": [
+        584.2,
+        1039.7,
+        668.2,
+        1082.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1179",
+      "texte_balise": "1179",
+      "bbox": [
+        590.0,
+        1070.0,
+        614.0,
+        1078.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alchemy",
+      "texte_balise": "Alchemy",
+      "bbox": [
+        146.0,
+        1236.0,
+        202.0,
+        1250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Astrology",
+      "texte_balise": "Astrology",
+      "bbox": [
+        368.0,
+        1236.0,
+        428.0,
+        1250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magic",
+      "texte_balise": "Magic",
+      "bbox": [
+        580.0,
+        1236.0,
+        622.0,
+        1250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Qabalah",
+      "texte_balise": "Qabalah",
+      "bbox": [
+        766.0,
+        1236.0,
+        820.0,
+        1250.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "12345678",
+      "texte_balise": "12345678",
+      "bbox": [
+        388.0,
+        1324.0,
+        522.0,
+        1340.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9",
+      "texte_balise": "9",
+      "bbox": [
+        524.0,
+        1324.0,
+        538.0,
+        1340.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ABCDEFGH",
+      "texte_balise": "ABCDEFGH",
+      "bbox": [
+        392.0,
+        1346.0,
+        522.0,
+        1360.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JKLMNOPQR",
+      "texte_balise": "JKLMNOPQR",
+      "bbox": [
+        388.0,
+        1366.0,
+        540.0,
+        1384.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "STUVWXYZ",
+      "texte_balise": "STUVWXYZ",
+      "bbox": [
+        390.0,
+        1386.0,
+        520.0,
+        1402.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE MAGICIAN",
+      "texte_balise": "THE MAGICIAN",
+      "bbox": [
+        222.0,
+        1442.0,
+        302.0,
+        1454.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tarot/Divination",
+      "texte_balise": "Tarot/Divination",
+      "bbox": [
+        218.0,
+        1476.0,
+        324.0,
+        1488.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "English Qabalah/Numerology",
+      "texte_balise": "English Qabalah/Numerology",
+      "bbox": [
+        374.0,
+        1476.0,
+        560.0,
+        1490.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meditation",
+      "texte_balise": "Meditation",
+      "bbox": [
+        650.0,
+        1476.0,
+        720.0,
+        1488.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Supplementary Texts",
+      "texte_balise": "Supplementary Texts",
+      "bbox": [
+        390.0,
+        1536.0,
+        570.0,
+        1554.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Til HERMETIC",
+      "texte_balise": "Til HERMETIC",
+      "bbox": [
+        658.0,
+        1592.0,
+        734.0,
+        1604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MODERN MAGICI",
+      "texte_balise": "MODERN MAGICI",
+      "bbox": [
+        89.8,
+        1601.1,
+        178.2,
+        1620.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GARDEN",
+      "texte_balise": "GARDEN",
+      "bbox": [
+        377.9,
+        1603.8,
+        472.1,
+        1638.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROTHERHOOD",
+      "texte_balise": "BROTHERHOOD",
+      "bbox": [
+        658.0,
+        1604.0,
+        736.0,
+        1616.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GOLDEN",
+      "texte_balise": "THE GOLDEN",
+      "bbox": [
+        524.0,
+        1612.0,
+        614.0,
+        1628.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or LUXOR",
+      "texte_balise": "or LUXOR",
+      "bbox": [
+        666.0,
+        1618.0,
+        718.0,
+        1628.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAWN",
+      "texte_balise": "DAWN",
+      "bbox": [
+        546.0,
+        1625.9,
+        592.0,
+        1642.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MYSTICAL &",
+      "texte_balise": "THE MYSTICAL &",
+      "bbox": [
+        802.0,
+        1630.0,
+        860.0,
+        1638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the A A.",
+      "texte_balise": "of the A A.",
+      "bbox": [
+        810.0,
+        1646.0,
+        850.0,
+        1656.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISRAEL",
+      "texte_balise": "ISRAEL",
+      "bbox": [
+        377.6,
+        1670.1,
+        472.4,
+        1697.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REGARDIE",
+      "texte_balise": "REGARDIE",
+      "bbox": [
+        378.0,
+        1696.0,
+        474.0,
+        1720.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cated sin sen Matesal by",
+      "texte_balise": "cated sin sen Matesal by",
+      "bbox": [
+        412.0,
+        1718.0,
+        470.0,
+        1728.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ISRAEL REGARDIE",
+      "texte_balise": "ISRAEL REGARDIE",
+      "bbox": [
+        536.0,
+        1720.0,
+        604.0,
+        1730.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chi: Come i& Sandy Touthe Cens",
+      "texte_balise": "Chi: Come i& Sandy Touthe Cens",
+      "bbox": [
+        380.0,
+        1726.0,
+        470.0,
+        1738.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Golden",
+      "texte_balise": "The Golden",
+      "bbox": [
+        533.9,
+        1761.3,
+        610.1,
+        1776.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern Magick",
+      "texte_balise": "Modern Magick",
+      "bbox": [
+        86.0,
+        1762.0,
+        190.0,
+        1776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magick in Theory",
+      "texte_balise": "Magick in Theory",
+      "bbox": [
+        226.0,
+        1762.0,
+        340.0,
+        1776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Garden of",
+      "texte_balise": "A Garden of",
+      "bbox": [
+        386.0,
+        1762.0,
+        466.0,
+        1774.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hermetic",
+      "texte_balise": "The Hermetic",
+      "bbox": [
+        654.0,
+        1762.0,
+        742.0,
+        1776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mystical",
+      "texte_balise": "The Mystical",
+      "bbox": [
+        788.0,
+        1762.0,
+        874.0,
+        1778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Magical",
+      "texte_balise": "and Magical",
+      "bbox": [
+        791.9,
+        1779.4,
+        872.1,
+        1794.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dawn",
+      "texte_balise": "Dawn",
+      "bbox": [
+        556.0,
+        1779.9,
+        594.0,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Practice",
+      "texte_balise": "and Practice",
+      "bbox": [
+        242.0,
+        1780.0,
+        324.0,
+        1792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pomegranates",
+      "texte_balise": "Pomegranates",
+      "bbox": [
+        384.0,
+        1780.0,
+        474.0,
+        1794.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brotherhood",
+      "texte_balise": "Brotherhood",
+      "bbox": [
+        658.0,
+        1780.0,
+        738.0,
+        1792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Luxor",
+      "texte_balise": "of Luxor",
+      "bbox": [
+        672.0,
+        1796.0,
+        730.0,
+        1808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "System of the",
+      "texte_balise": "System of the",
+      "bbox": [
+        788.0,
+        1796.0,
+        874.0,
+        1810.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A.A.",
+      "texte_balise": "A.A.",
+      "bbox": [
+        818.0,
+        1812.0,
+        848.0,
+        1826.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

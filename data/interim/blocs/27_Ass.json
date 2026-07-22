@@ -1,0 +1,793 @@
+{
+  "fichier": "27_Ass.jpeg",
+  "date": "2026-07-21T19:28:36.705472+00:00",
+  "taille_origine": [
+    800,
+    2694
+  ],
+  "hauteur_ligne_mediane": 18.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 28,
+  "nb_noeuds": 85,
+  "tiers": [
+    "ASS",
+    "EVERYONE",
+    "GRAVITY'S"
+  ],
+  "intitules_isoles": [
+    "fiction is a great place to start, it doesn't require",
+    "any special knowledge or attention to detail but",
+    "you'll find out pretty quickly if this genre is for you",
+    "layman's nonfiction is the next logical step in",
+    "your journey up shit creek. again there is",
+    "nothing here the average human can't",
+    "understand but you will need to pay attention.",
+    "academic works require study, and readers should",
+    "either take classes or read more introductory textbooks",
+    "beforehand."
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        185.1,
+        13.0,
+        533.3,
+        99.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "a /lit/ guide to",
+          "auteur": "asses and shit",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        108.0,
+        166.9,
+        595.0,
+        251.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "fiction is a great place to start, it doesn't require",
+          "auteur": "any special knowledge or attention to detail but",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        81.5,
+        279.7,
+        264.5,
+        304.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BEST-SELLING AUTHOR",
+          "auteur": "ANDY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ASS",
+      "bbox": [
+        465.0,
+        281.9,
+        663.4,
+        407.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "GOBLINS",
+          "auteur": null,
+          "tier": "ASS"
+        },
+        {
+          "titre": "OF AUSCHWITZ",
+          "auteur": null,
+          "tier": "ASS"
+        },
+        {
+          "titre": "CAMERON PIERCE",
+          "auteur": null,
+          "tier": "ASS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        70.2,
+        336.8,
+        280.2,
+        494.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE DAY MY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BUTT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WENT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PSYCHO!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BASED ON A TRUE STORY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        136.6,
+        548.3,
+        209.4,
+        561.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "\"SCHOLASTIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        55.1,
+        585.6,
+        304.1,
+        720.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "the day my butt went psycho:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the adventures of a buy as he",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "attempts to find his butt, radicalized",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by butt supremacists. themes include",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "family, transhumanism and it's",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "consequences, and the dangers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of a persuasive personality",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        454.0,
+        590.1,
+        685.4,
+        728.9
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "ass goblins from auschwitz:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a horror sci-fi blend, children",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "living an idyllic life are kidnapped",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by ass goblins and taken to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the planet of auschwitz. themes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "include technology, the meaning",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of evil and self sacrifice",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        149.9,
+        770.5,
+        643.5,
+        878.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "layman's nonfiction is the next logical step in",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "your journey up shit creek. again there is",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "nothing here the average human can't",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "understand but you will need to pay attention.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "EVERYONE",
+      "bbox": [
+        145.5,
+        1001.9,
+        279.9,
+        1068.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "POOPS",
+          "auteur": null,
+          "tier": "EVERYONE"
+        },
+        {
+          "titre": "By Taro Gomi",
+          "auteur": null,
+          "tier": "EVERYONE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        487.1,
+        1059.2,
+        667.9,
+        1174.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "GENTLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        498.1,
+        1197.9,
+        661.2,
+        1220.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A DIETARY GUIDE FOR YOUR",
+          "auteur": "PREPARATION AND AFTERCARE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        489.3,
+        1244.1,
+        667.8,
+        1275.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CARLA GREENSPAN ROTER, RPN",
+          "auteur": "WITH YVETTE FARKAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        458.4,
+        1347.6,
+        696.4,
+        1444.5
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "the gentle colonoscopy:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the gentle colonoscopy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a guide to eating right befor",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a guide to eating right before",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "being examined for cancer.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "following the previous book, this",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "assumes you've shed your prejudice",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "assumes you've she'd your prejudice",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "against discussion of defecation",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "gainst discussion of defecatio",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "order to gain valuable knowledg",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in order to gain valuable knowledge",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        114.6,
+        1356.1,
+        317.4,
+        1433.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "everybody poops:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a introduction to the taboos",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "surrounding defecation, this work",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "surroundina defecation, this work",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "aims to clear up misconceptions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "alms to clear up misconceptions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and create discussion.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        143.3,
+        1535.7,
+        676.6,
+        1626.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "academic works require study, and readers should",
+          "auteur": "either take classes or read more introductory textbooks",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        147.7,
+        1681.1,
+        174.1,
+        1700.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ASIN",
+          "auteur": "HUB",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        491.3,
+        1720.3,
+        606.1,
+        1868.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "COLON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND RECTAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SURGERY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ABDOMINAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OPERATIONS.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Steven D. Wexner",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James W. Reshman",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        169.7,
+        1854.6,
+        310.7,
+        1890.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANATOMY FLASHCARDS",
+          "auteur": "Large intestine",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        110.2,
+        2013.4,
+        398.9,
+        2121.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "anatomy flashcards large intestine:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "this functions as a quick refresher on the large",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "intestine specifically. you will need to be well",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "versed in the terms contained within to be able",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to go on. dont feel bad if you have to take breaks",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to go back and study again.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        429.8,
+        2015.4,
+        725.1,
+        2132.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "colon and rectal surgery:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the cutting edge of rectal research, this piece",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "will give you the same proficiency as a medical",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "doctorate in colon surgery. the information",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "contained within is invaluable and as such",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "multiple readings and supplementary books",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "are often needed.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        249.0,
+        2214.0,
+        553.2,
+        2249.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "pure undiluted shit, don't read",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        562.0,
+        2280.0,
+        720.7,
+        2398.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "INFINITE",
+          "auteur": "JEST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        134.4,
+        2321.9,
+        253.4,
+        2346.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ULYSSES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "GRAVITY'S",
+      "bbox": [
+        363.6,
+        2359.0,
+        460.7,
+        2408.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "RAINBOW",
+          "auteur": null,
+          "tier": "GRAVITY'S"
+        },
+        {
+          "titre": "THOMAS PYNCHON",
+          "auteur": null,
+          "tier": "GRAVITY'S"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        584.0,
+        2429.8,
+        707.4,
+        2454.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "NATURAL BESUSELEER",
+          "auteur": "DAVID FOSTER WALLACE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        149.9,
+        2440.8,
+        244.6,
+        2454.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JAMES JOYCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        112.4,
+        2539.9,
+        703.0,
+        2573.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "these dont even deserve separate reviews. read only by pretentious faggots and the tryhards who emulate them,",
+          "auteur": "these serve no purpose whatsoever. you'd be better off reading young adult fiction than any of this shit",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

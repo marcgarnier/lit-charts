@@ -1,0 +1,746 @@
+{
+  "fichier": "12_Christian History.jpeg",
+  "date": "2026-07-21T19:28:36.551356+00:00",
+  "taille_origine": [
+    1904,
+    1920
+  ],
+  "hauteur_ligne_mediane": 27.7,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 31,
+  "nb_noeuds": 69,
+  "tiers": [
+    "JOHN JULIUS",
+    "Reformation",
+    "Silence",
+    "E",
+    "Crusades"
+  ],
+  "intitules_isoles": [
+    "A History of",
+    "Diarmaid MacCulloch",
+    "Jonathan Riley Smith",
+    "Thomas Asbridge",
+    "Michael Haag"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        253.9,
+        55.6,
+        1547.0,
+        151.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Christian History",
+          "auteur": "Starter Kit for",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "JOHN JULIUS",
+      "bbox": [
+        1519.2,
+        234.8,
+        1732.4,
+        536.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "NORWICH",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "Glorious... Sharp, fun and",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "wonderfully erergetic",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "Scarstar",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "POPE",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "A HISTORY",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "\"A highly readable book!",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        },
+        {
+          "titre": "Sunday Times",
+          "auteur": null,
+          "tier": "JOHN JULIUS"
+        }
+      ]
+    },
+    {
+      "tier": "Reformation",
+      "bbox": [
+        1062.6,
+        237.0,
+        1264.8,
+        331.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "EUROPE'S HOUSE DIVIDED",
+          "auteur": null,
+          "tier": "Reformation"
+        },
+        {
+          "titre": "1490-1700",
+          "auteur": null,
+          "tier": "Reformation"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        578.2,
+        347.4,
+        811.1,
+        423.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A History of",
+          "auteur": "Chrisianity",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Silence",
+      "bbox": [
+        140.5,
+        444.1,
+        313.5,
+        580.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A Christian History",
+          "auteur": null,
+          "tier": "Silence"
+        },
+        {
+          "titre": "Diarmaid",
+          "auteur": null,
+          "tier": "Silence"
+        },
+        {
+          "titre": "MacCulloch",
+          "auteur": null,
+          "tier": "Silence"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1073.8,
+        491.7,
+        1256.4,
+        505.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DIARMAID MACCULLOCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        611.4,
+        535.7,
+        783.4,
+        592.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Diarmaid",
+          "auteur": "MacCulloch",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        44.3,
+        627.0,
+        398.5,
+        693.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Christian History",
+          "auteur": "Silence",
+          "tier": null
+        },
+        {
+          "titre": "Diarmaid MacCulloch",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1012.9,
+        627.0,
+        1358.8,
+        729.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Europe's",
+          "auteur": "Reformation",
+          "tier": null
+        },
+        {
+          "titre": "House Divided 1490-1700",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Diarmaid MacCulloch",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1494.4,
+        627.0,
+        1771.2,
+        693.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A History",
+          "auteur": "The Popes",
+          "tier": null
+        },
+        {
+          "titre": "John Julius Norwich",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        548.0,
+        629.8,
+        852.4,
+        699.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A History of Christianity",
+          "auteur": "Diarmaid MacCulloch",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        581.0,
+        820.0,
+        808.3,
+        975.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "WITH A NEW FOREWORD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Accaimed Author of The First Crusad",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THOMAS ASBRIDGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CRUSADES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE WAR FOR THE HOLY LAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1513.8,
+        831.0,
+        1718.6,
+        859.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "wil-knit naratime thronth an hormone had of bietore on",
+          "auteur": "MICHAEL HAAG",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.2,
+        842.0,
+        1259.2,
+        986.1
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Been the heeling ither of The Testand Hatern the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MICHAEL HAAG",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TH E",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRAGEDY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TEMPLARS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "E",
+      "bbox": [
+        1502.7,
+        947.7,
+        1746.3,
+        1050.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "TEMPLARS",
+          "auteur": null,
+          "tier": "E"
+        },
+        {
+          "titre": "HISTORY & MYTH",
+          "auteur": null,
+          "tier": "E"
+        },
+        {
+          "titre": "From Solomon's Temole to the Freemasons.",
+          "auteur": null,
+          "tier": "E"
+        },
+        {
+          "titre": "2 guide to Tempiat History, Culture and Locations",
+          "auteur": null,
+          "tier": "E"
+        }
+      ]
+    },
+    {
+      "tier": "Crusades",
+      "bbox": [
+        96.9,
+        968.8,
+        335.0,
+        1039.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "crusades",
+          "auteur": null,
+          "tier": "Crusades"
+        },
+        {
+          "titre": "A Historv",
+          "auteur": null,
+          "tier": "Crusades"
+        },
+        {
+          "titre": "A History",
+          "auteur": null,
+          "tier": "Crusades"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1090.4,
+        1024.8,
+        1239.8,
+        1055.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Rise and Foll",
+          "auteur": "of the Crusader States",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        91.3,
+        1094.0,
+        307.2,
+        1125.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Jonathan Riley Smith",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1447.4,
+        1207.0,
+        1832.0,
+        1287.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "History & Myth",
+          "auteur": "The Templars",
+          "tier": null
+        },
+        {
+          "titre": "Michael Haag",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.1,
+        1212.9,
+        371.4,
+        1290.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A History",
+          "auteur": "The Crusades",
+          "tier": null
+        },
+        {
+          "titre": "Jonathan Riley-Smith",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        517.4,
+        1212.9,
+        918.8,
+        1326.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The War for the",
+          "auteur": "The Crusades",
+          "tier": null
+        },
+        {
+          "titre": "Holy Land",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Thomas Asbridge",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        993.5,
+        1212.9,
+        1383.7,
+        1362.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Tragedy of the Templars:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Rise and Fall of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Crusader States",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Michael Haag",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        650.3,
+        1442.1,
+        686.3,
+        1461.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Proc",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        628.2,
+        1723.1,
+        752.7,
+        1763.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EUSEBIUS",
+          "auteur": "The History of the Church",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1560.8,
+        1729.0,
+        1693.7,
+        1770.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SAINT AUGUSTINE",
+          "auteur": "Confessions",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        155.0,
+        1732.0,
+        257.4,
+        1749.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Early Christian Lives",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.2,
+        1734.9,
+        1242.6,
+        1774.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JACOBUS DE VORAGINE",
+          "auteur": "The Golden Legend",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        72.0,
+        1815.0,
+        337.6,
+        1845.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Early Christian Lives",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        528.6,
+        1817.8,
+        863.4,
+        1884.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The History of the Chruch",
+          "auteur": "Eusebius",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1015.1,
+        1817.8,
+        1298.5,
+        1891.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Golden Legend",
+          "auteur": "Jacobus De Voragine",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1519.2,
+        1820.6,
+        1724.2,
+        1893.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Confessions",
+          "auteur": "Saint Augustine",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

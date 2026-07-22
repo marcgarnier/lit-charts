@@ -1,0 +1,879 @@
+{
+  "fichier": "10_.lit. canon.jpeg",
+  "date": "2026-07-21T19:28:36.521860+00:00",
+  "taille_origine": [
+    3000,
+    2529
+  ],
+  "hauteur_ligne_mediane": 22.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 44,
+  "nb_noeuds": 64,
+  "tiers": [
+    "CANON",
+    "THE"
+  ],
+  "intitules_isoles": [
+    "Fador Dostonste",
+    "The Coring o",
+    "McCARTHY",
+    "Don DeLillo",
+    "Ranking // #1 The Holy Bible (132) #2 Infinite Jest (128) #3 Moby Dick (94) #4 Lolita (87) #5 Blood Meridian (78) #6 Ulysses (74) #7 Gravity's Rainbow (67) #8 The Stranger (66) #9 The Brothers Karamazov (61) #10 Crime and Punishment (58) #11 Stoner (41) #12 The Trial (36) #13 A Portrait of the Artist as a Young Man (35) #14 The Metamorphosis, The Catcher in the Ryø",
+    "(34) #16 Don Quixote (33) #17 Naked Lunch, Los Ficciones (32) #19 The Divine Comedy (29) +20 One Hundred Years of Solitude, Catch-22 (28) #22 2666 (27) #23 Dubliners (26) #24 Siddharta (25) #25 The Sound and the Fury (24) #26 V. (23) *27 Summa Theologica (22) #28 Heart of Darkness, Notes from the Underground, Journey to the End of the Night, Steppenwolf, The Odysse",
+    "(20), #33 As I Lay Dying, Pale Fire, Hamlet, The Iliad (19) #37 Anna Karenina, East of Eden, White Noise (18) #40 The Idiot, The Great Gatsby, The Republic (17) #43 Paradise Lost, Confessions (16) #45 The Old Man and the Sea, Finnegans Wake (15) #47 The Ego and Its Own, In Search Of Lost Time, The Book of the New Sun, The Grapes of Wrath, Slaughterhouse-Five (14) #52 Candid",
+    "Suttree (13) #54 The Crying of Lot 49, Brave New World, A Confederacy of Dunces, War and Peace, Invisible Cities, The Sun Also Rises, The Picture of Dorian Gray (12) #61 The Count of Monte Cristo (11) #62 The Road, Fear and Laughing in Las Vegas, To The Lighthouse, Undervorld, The Pale King, If on a Winter's Night a Traveler, Solaris (10) #69 The Castle, Dead Souls, Fear and Tremblin",
+    "The Savage Detectives, Thus Spoke Zarathustra (9) #74 No Longer Human, Being and Time, Macbeth, Das Kapital (8) #78 1984, The Hobbit, One Flew Over the Cuckoo's Nest (3) #81 American Psycho, Confessions of a Mask, Tai Pei, Absalom, Absalom!, All Quiet On The Western Front, On the Road, Tess of the D'urbervilles (6) #88 A Farewell to Arms, Frankenstein, The Leopard, To Killa",
+    "Links // docs.google.com/spreadsheets/d/1SdTl1bFLDHffoJY_5GQNMFLJ2u_BIFm3V2_PkycJWyU Hot tips // You can get the majority of these titles on gen.lib.rus.ec (most reliable ebook tracker out there)"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        314.0,
+        96.0,
+        409.9,
+        187.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "INFINT",
+          "auteur": "JEST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        113.4,
+        126.0,
+        196.2,
+        148.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HOLY BIBLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1146.8,
+        130.9,
+        1225.3,
+        148.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ULYSSES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2603.2,
+        135.2,
+        2673.0,
+        152.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "James",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1561.0,
+        139.6,
+        1652.6,
+        165.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Stranger",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1975.3,
+        191.9,
+        2058.1,
+        218.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Fador Dostonste",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1766.0,
+        226.8,
+        1853.2,
+        236.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "YUDUR DUSIUEVON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1343.0,
+        318.4,
+        1439.0,
+        353.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CATCH-22",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1761.6,
+        327.1,
+        1861.9,
+        349.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DUBLINERS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2825.6,
+        392.6,
+        2869.2,
+        401.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NOTER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1347.4,
+        423.0,
+        1443.3,
+        445.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOSEPH HELLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.6,
+        427.0,
+        606.1,
+        436.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NAKED LUNCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        309.6,
+        532.0,
+        405.5,
+        541.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ICE LINE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2380.8,
+        532.2,
+        2481.2,
+        671.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "WHITE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NOISE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DELILLO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.7,
+        536.5,
+        1648.3,
+        558.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HAMLET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2808.1,
+        549.6,
+        2877.9,
+        571.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GATSBY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        928.8,
+        615.0,
+        1029.1,
+        641.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE ODYSSEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1146.8,
+        632.0,
+        1229.7,
+        659.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ts Lay Dying",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        587.5,
+        773.0,
+        2487.5,
+        973.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE LIT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        100.3,
+        828.8,
+        204.9,
+        881.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "REPUBLIC",
+          "auteur": "PLATO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CANON",
+      "bbox": [
+        587.5,
+        1068.7,
+        2407.0,
+        1505.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CANON",
+          "auteur": null,
+          "tier": "CANON"
+        },
+        {
+          "titre": "essential memes for entry-level dips",
+          "auteur": null,
+          "tier": "CANON"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2808.1,
+        1173.0,
+        2886.6,
+        1200.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Coring o",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2590.1,
+        1182.1,
+        2686.0,
+        1199.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "McCARTHY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.7,
+        1291.1,
+        204.9,
+        1313.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "VONNEGUT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        314.0,
+        1388.9,
+        405.5,
+        1428.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DUNDES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2611.9,
+        1397.6,
+        2659.9,
+        1419.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        732.6,
+        1589.0,
+        819.8,
+        1632.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CORMAC",
+          "auteur": "MCCARTHY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE",
+      "bbox": [
+        2786.3,
+        1589.0,
+        2899.8,
+        1724.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "SAVAGE",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "DETECTIVES",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "ROBERTO",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "BOLAÑO",
+          "auteur": null,
+          "tier": "THE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.7,
+        1593.4,
+        200.6,
+        1628.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AISO RISES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        937.5,
+        1597.7,
+        1016.0,
+        1606.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hunler S.Thompsi",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1761.6,
+        1606.4,
+        1840.1,
+        1702.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "IF ONA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WINTERS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NIGHTA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRAVELLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1979.7,
+        1628.2,
+        2062.5,
+        1650.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SOLARÍS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1351.7,
+        1710.6,
+        1443.3,
+        1732.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Don DeLillo",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.7,
+        1824.0,
+        196.2,
+        1841.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NIETZSCHE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.7,
+        1841.4,
+        1652.6,
+        1902.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OVER",
+          "auteur": "CUCKOOS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2598.8,
+        1867.5,
+        2681.7,
+        1915.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WESTERN",
+          "auteur": "FRONT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2389.5,
+        1876.2,
+        2468.0,
+        1893.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ARCALOM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        322.7,
+        1884.5,
+        401.2,
+        1902.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "IO LONGER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1351.7,
+        2002.4,
+        1443.3,
+        2028.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Goethé's",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1770.3,
+        2011.1,
+        1857.6,
+        2059.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Under the",
+          "auteur": "Volcano",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2385.2,
+        2019.9,
+        2472.4,
+        2054.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DÜNE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2594.5,
+        2024.2,
+        2681.7,
+        2102.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BEyOND",
+          "auteur": "GOOD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.7,
+        2072.1,
+        1652.6,
+        2102.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.7,
+        2246.1,
+        2912.8,
+        2411.5
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "Ranking // #1 The Holy Bible (132) #2 Infinite Jest (128) #3 Moby Dick (94) #4 Lolita (87) #5 Blood Meridian (78) #6 Ulysses (74) #7 Gravity's Rainbow (67) #8 The Stranger (66) #9 The Brothers Karamazov (61) #10 Crime and Punishment (58) #11 Stoner (41) #12 The Trial (36) #13 A Portrait of the Artist as a Young Man (35) #14 The Metamorphosis, The Catcher in the Ryø",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(34) #16 Don Quixote (33) #17 Naked Lunch, Los Ficciones (32) #19 The Divine Comedy (29) +20 One Hundred Years of Solitude, Catch-22 (28) #22 2666 (27) #23 Dubliners (26) #24 Siddharta (25) #25 The Sound and the Fury (24) #26 V. (23) *27 Summa Theologica (22) #28 Heart of Darkness, Notes from the Underground, Journey to the End of the Night, Steppenwolf, The Odysse",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(20), #33 As I Lay Dying, Pale Fire, Hamlet, The Iliad (19) #37 Anna Karenina, East of Eden, White Noise (18) #40 The Idiot, The Great Gatsby, The Republic (17) #43 Paradise Lost, Confessions (16) #45 The Old Man and the Sea, Finnegans Wake (15) #47 The Ego and Its Own, In Search Of Lost Time, The Book of the New Sun, The Grapes of Wrath, Slaughterhouse-Five (14) #52 Candid",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Suttree (13) #54 The Crying of Lot 49, Brave New World, A Confederacy of Dunces, War and Peace, Invisible Cities, The Sun Also Rises, The Picture of Dorian Gray (12) #61 The Count of Monte Cristo (11) #62 The Road, Fear and Laughing in Las Vegas, To The Lighthouse, Undervorld, The Pale King, If on a Winter's Night a Traveler, Solaris (10) #69 The Castle, Dead Souls, Fear and Tremblin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Savage Detectives, Thus Spoke Zarathustra (9) #74 No Longer Human, Being and Time, Macbeth, Das Kapital (8) #78 1984, The Hobbit, One Flew Over the Cuckoo's Nest (3) #81 American Psycho, Confessions of a Mask, Tai Pei, Absalom, Absalom!, All Quiet On The Western Front, On the Road, Tess of the D'urbervilles (6) #88 A Farewell to Arms, Frankenstein, The Leopard, To Killa",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mockingbird (5)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "#O A Clockwork Orange. Faust. Ham on Rve. Under The Volcano. Metamornhoses. Dune (4)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "#08 Wuthering Heights. Bevond Good and Evil. Leaves of Grass (2)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "This list is sourced from a /lit/ boll done in soring 2015. Votes gathered and counted by some other anon who published his results in a google docs sheet",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CAcknowledgement",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Links // docs.google.com/spreadsheets/d/1SdTl1bFLDHffoJY_5GQNMFLJ2u_BIFm3V2_PkycJWyU Hot tips // You can get the majority of these titles on gen.lib.rus.ec (most reliable ebook tracker out there)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

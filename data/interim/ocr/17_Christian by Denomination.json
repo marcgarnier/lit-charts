@@ -1,0 +1,2126 @@
+{
+  "fichier": "17_Christian by Denomination.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:30.983744+00:00",
+  "duree_s": 2.5,
+  "taille_origine": [
+    3000,
+    2900
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 192,
+  "lignes": [
+    {
+      "texte": "Catholic",
+      "texte_balise": "Catholic",
+      "bbox": [
+        1019.8,
+        28.4,
+        1247.6,
+        89.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orthodox",
+      "texte_balise": "Orthodox",
+      "bbox": [
+        1752.8,
+        30.1,
+        2005.9,
+        87.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protestant",
+      "texte_balise": "Protestant",
+      "bbox": [
+        2511.6,
+        34.6,
+        2777.7,
+        87.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Paradise Lost",
+      "texte_balise": "* Paradise Lost",
+      "bbox": [
+        2750.5,
+        97.2,
+        2944.2,
+        146.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIMOTHY WARE O",
+      "texte_balise": "TIMOTHY WARE O",
+      "bbox": [
+        2027.1,
+        122.5,
+        2185.2,
+        151.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN",
+      "texte_balise": "JOHN",
+      "bbox": [
+        2585.8,
+        126.5,
+        2681.7,
+        157.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATECHISM",
+      "texte_balise": "CATECHISM",
+      "bbox": [
+        819.7,
+        130.3,
+        981.2,
+        166.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "St. Thomas",
+      "texte_balise": "St. Thomas",
+      "bbox": [
+        1273.3,
+        130.8,
+        1443.3,
+        174.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2071.2,
+        143.9,
+        2119.2,
+        170.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORTHODO",
+      "texte_balise": "ORTHODO",
+      "bbox": [
+        1822.7,
+        148.3,
+        1914.2,
+        170.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESLEY'S",
+      "texte_balise": "WESLEY'S",
+      "bbox": [
+        2550.5,
+        150.7,
+        2717.0,
+        189.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the",
+      "texte_balise": "of the",
+      "bbox": [
+        867.7,
+        161.0,
+        933.1,
+        201.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aquinas",
+      "texte_balise": "Aquinas",
+      "bbox": [
+        1290.7,
+        165.7,
+        1430.2,
+        200.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1635.2,
+        165.7,
+        1687.5,
+        209.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORTHODOX",
+      "texte_balise": "ORTHODOX",
+      "bbox": [
+        2018.9,
+        165.7,
+        2175.9,
+        191.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY",
+      "texte_balise": "HOLY",
+      "bbox": [
+        109.0,
+        170.1,
+        187.5,
+        191.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEOLOG",
+      "texte_balise": "HEOLOG",
+      "bbox": [
+        1822.7,
+        170.1,
+        1905.5,
+        187.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SERMONS",
+      "texte_balise": "SERMONS",
+      "bbox": [
+        2555.2,
+        183.2,
+        2716.6,
+        209.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHURCH",
+      "texte_balise": "CHURCH",
+      "bbox": [
+        2036.2,
+        187.1,
+        2154.2,
+        227.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATHOLIC",
+      "texte_balise": "CATHOLIC",
+      "bbox": [
+        828.2,
+        190.9,
+        972.6,
+        227.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLE",
+      "texte_balise": "BIBLE",
+      "bbox": [
+        113.4,
+        191.9,
+        187.5,
+        213.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Summa Theologica",
+      "texte_balise": "Summa Theologica",
+      "bbox": [
+        1277.6,
+        191.9,
+        1439.0,
+        218.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Law of Goi",
+      "texte_balise": "Law of Goi",
+      "bbox": [
+        1587.2,
+        205.0,
+        1726.7,
+        257.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Antholog)",
+      "texte_balise": "An Antholog)",
+      "bbox": [
+        2581.4,
+        213.7,
+        2686.0,
+        236.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHURCH",
+      "texte_balise": "CHURCH",
+      "bbox": [
+        837.2,
+        222.3,
+        968.1,
+        257.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12X",
+      "texte_balise": "12X",
+      "bbox": [
+        1818.3,
+        222.4,
+        1875.0,
+        248.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THEOLOGIA",
+      "texte_balise": "THEOLOGIA",
+      "bbox": [
+        2350.3,
+        235.5,
+        2459.3,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON",
+      "texte_balise": "ON",
+      "bbox": [
+        527.6,
+        253.0,
+        558.1,
+        261.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GERMANICA",
+      "texte_balise": "GERMANICA",
+      "bbox": [
+        2354.7,
+        261.7,
+        2459.3,
+        287.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        527.6,
+        266.0,
+        575.6,
+        287.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARTIN",
+      "texte_balise": "MARTIN",
+      "bbox": [
+        2367.7,
+        292.2,
+        2441.9,
+        309.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the",
+      "texte_balise": "On the",
+      "bbox": [
+        335.8,
+        296.6,
+        414.2,
+        318.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYSTERY OF",
+      "texte_balise": "MYSTERY OF",
+      "bbox": [
+        527.6,
+        305.0,
+        649.7,
+        327.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LUTHER",
+      "texte_balise": "LUTHER",
+      "bbox": [
+        2367.7,
+        305.3,
+        2441.9,
+        327.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Incarnation",
+      "texte_balise": "Incarnation",
+      "bbox": [
+        309.6,
+        314.0,
+        440.4,
+        335.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An INTRODUCTION",
+      "texte_balise": "An INTRODUCTION",
+      "bbox": [
+        1055.2,
+        318.0,
+        1207.8,
+        340.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vladimir",
+      "texte_balise": "Vladimir",
+      "bbox": [
+        1883.7,
+        322.7,
+        1957.8,
+        344.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BESUS CHRIS!",
+      "texte_balise": "BESUS CHRIS!",
+      "bbox": [
+        527.6,
+        331.0,
+        658.4,
+        340.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to the DEVOUT LIFE",
+      "texte_balise": "to the DEVOUT LIFE",
+      "bbox": [
+        1059.6,
+        335.8,
+        1203.5,
+        358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lossky",
+      "texte_balise": "Lossky",
+      "bbox": [
+        1896.8,
+        344.6,
+        1957.8,
+        366.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Milton",
+      "texte_balise": "John Milton",
+      "bbox": [
+        2786.3,
+        353.0,
+        2939.0,
+        375.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AW. IOZER",
+      "texte_balise": "AW. IOZER",
+      "bbox": [
+        2328.4,
+        444.4,
+        2503.0,
+        488.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIFE of",
+      "texte_balise": "LIFE of",
+      "bbox": [
+        867.5,
+        448.5,
+        959.5,
+        476.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN DENYAN",
+      "texte_balise": "JOHN DENYAN",
+      "bbox": [
+        2590.1,
+        462.0,
+        2681.7,
+        471.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas à Kempis",
+      "texte_balise": "Thomas à Kempis",
+      "bbox": [
+        1072.7,
+        466.7,
+        1190.4,
+        488.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRIST",
+      "texte_balise": "CHRIST",
+      "bbox": [
+        823.7,
+        473.0,
+        994.6,
+        508.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PILGRIM'S",
+      "texte_balise": "THE PILGRIM'S",
+      "bbox": [
+        2581.2,
+        474.6,
+        2703.7,
+        502.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EUSEBIUS",
+      "texte_balise": "EUSEBIUS",
+      "bbox": [
+        536.3,
+        475.4,
+        675.9,
+        497.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE IMITATION OF",
+      "texte_balise": "THE IMITATION OF",
+      "bbox": [
+        1042.2,
+        484.0,
+        1220.9,
+        506.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TEMPIE",
+      "texte_balise": "THE TEMPIE",
+      "bbox": [
+        2790.7,
+        484.0,
+        2925.9,
+        497.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orthodox",
+      "texte_balise": "Orthodox",
+      "bbox": [
+        2023.1,
+        487.4,
+        2167.3,
+        515.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROGRESS",
+      "texte_balise": "PROGRESS",
+      "bbox": [
+        2594.5,
+        492.8,
+        2681.7,
+        514.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRIST",
+      "texte_balise": "CHRIST",
+      "bbox": [
+        1081.4,
+        510.3,
+        1181.7,
+        532.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Way",
+      "texte_balise": "Way",
+      "bbox": [
+        2084.3,
+        519.0,
+        2149.7,
+        545.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PURSur",
+      "texte_balise": "PURSur",
+      "bbox": [
+        2328.5,
+        558.3,
+        2489.8,
+        641.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1805.2,
+        575.7,
+        1848.8,
+        597.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIDACHE",
+      "texte_balise": "DIDACHE",
+      "bbox": [
+        327.0,
+        601.9,
+        440.4,
+        623.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON ACQUISITION",
+      "texte_balise": "ON ACQUISITION",
+      "bbox": [
+        1578.5,
+        601.9,
+        1739.8,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEANING OF",
+      "texte_balise": "MEANING OF",
+      "bbox": [
+        1805.2,
+        601.9,
+        1923.0,
+        619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the",
+      "texte_balise": "On the",
+      "bbox": [
+        109.0,
+        615.0,
+        183.1,
+        641.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE HOLY",
+      "texte_balise": "OF THE HOLY",
+      "bbox": [
+        1591.6,
+        619.0,
+        1722.4,
+        641.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORTHODOXY",
+      "texte_balise": "ORTHODOXY",
+      "bbox": [
+        1273.3,
+        623.7,
+        1382.3,
+        636.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Spirit",
+      "texte_balise": "Holy Spirit",
+      "bbox": [
+        87.2,
+        632.0,
+        204.9,
+        659.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SPIRIT",
+      "texte_balise": "SPIRIT",
+      "bbox": [
+        1626.5,
+        636.8,
+        1687.5,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOD",
+      "texte_balise": "GOD",
+      "bbox": [
+        2337.2,
+        641.1,
+        2494.2,
+        710.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ST BASIL THE GREAT",
+      "texte_balise": "ST BASIL THE GREAT",
+      "bbox": [
+        82.8,
+        658.6,
+        213.7,
+        680.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ULTON J. SHEEN",
+      "texte_balise": "ULTON J. SHEEN",
+      "bbox": [
+        828.5,
+        702.0,
+        989.8,
+        715.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bisnop nalistos war",
+      "texte_balise": "bisnop nalistos war",
+      "bbox": [
+        2027.6,
+        710.9,
+        2158.4,
+        720.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PATH TO",
+      "texte_balise": "THE PATH TO",
+      "bbox": [
+        1787.7,
+        771.2,
+        1966.7,
+        807.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1626.5,
+        785.1,
+        1691.9,
+        815.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Last",
+      "texte_balise": "The Last",
+      "bbox": [
+        527.6,
+        789.0,
+        693.3,
+        816.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2808.1,
+        798.1,
+        2864.8,
+        833.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SALVATION",
+      "texte_balise": "SALVATION",
+      "bbox": [
+        1792.0,
+        802.0,
+        1962.3,
+        842.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philokalia",
+      "texte_balise": "Philokalia",
+      "bbox": [
+        1591.6,
+        815.6,
+        1726.7,
+        846.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NTERIOR",
+      "texte_balise": "NTERIOR",
+      "bbox": [
+        1063.8,
+        819.3,
+        1221.1,
+        855.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Super-",
+      "texte_balise": "Super-",
+      "bbox": [
+        523.2,
+        824.0,
+        689.0,
+        859.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF CONCORD",
+      "texte_balise": "OF CONCORD",
+      "bbox": [
+        2585.8,
+        824.0,
+        2694.8,
+        842.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMMER",
+      "texte_balise": "HAMMER",
+      "bbox": [
+        2794.9,
+        828.2,
+        2947.8,
+        885.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Unseen",
+      "texte_balise": "Unseen",
+      "bbox": [
+        2018.9,
+        837.4,
+        2123.5,
+        872.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reasonable Faith",
+      "texte_balise": "Reasonable Faith",
+      "bbox": [
+        300.9,
+        846.0,
+        470.9,
+        872.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-CASTLE",
+      "texte_balise": "-CASTLE",
+      "bbox": [
+        1046.5,
+        846.0,
+        1199.1,
+        889.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RESCO MEDICI",
+      "texte_balise": "RESCO MEDICI",
+      "bbox": [
+        2341.6,
+        846.0,
+        2481.1,
+        855.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMME",
+      "texte_balise": "HAMME",
+      "bbox": [
+        2799.4,
+        846.0,
+        2930.2,
+        880.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE TEXT",
+      "texte_balise": "THE COMPLETE TEXT",
+      "bbox": [
+        1582.8,
+        850.0,
+        1726.7,
+        872.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CASTLE",
+      "texte_balise": "CASTLE",
+      "bbox": [
+        1068.3,
+        850.5,
+        1203.5,
+        889.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. s. Lewis",
+      "texte_balise": "C. s. Lewis",
+      "bbox": [
+        73.2,
+        863.1,
+        234.7,
+        924.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "stition",
+      "texte_balise": "stition",
+      "bbox": [
+        523.2,
+        863.3,
+        689.0,
+        898.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warfare",
+      "texte_balise": "Warfare",
+      "bbox": [
+        2053.8,
+        863.6,
+        2171.5,
+        902.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Se Nikodimes of the",
+      "texte_balise": "Se Nikodimes of the",
+      "bbox": [
+        1609.0,
+        885.0,
+        1700.6,
+        903.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        2886.6,
+        889.7,
+        2921.5,
+        924.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "as edited by",
+      "texte_balise": "as edited by",
+      "bbox": [
+        2014.5,
+        894.0,
+        2106.1,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Mountin",
+      "texte_balise": "Holy Mountin",
+      "bbox": [
+        1617.7,
+        902.6,
+        1696.2,
+        928.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "as cured",
+      "texte_balise": "as cured",
+      "bbox": [
+        2014.5,
+        902.6,
+        2079.9,
+        911.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Holy Mountar",
+      "texte_balise": "Holy Mountar",
+      "bbox": [
+        1622.1,
+        907.0,
+        1687.5,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOD",
+      "texte_balise": "GOD",
+      "bbox": [
+        2821.2,
+        920.3,
+        2943.3,
+        998.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Mountain b",
+      "texte_balise": "Holy Mountain b",
+      "bbox": [
+        2023.3,
+        937.5,
+        2167.2,
+        963.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Mountain",
+      "texte_balise": "Holy Mountain",
+      "bbox": [
+        2023.3,
+        937.7,
+        2145.3,
+        960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOLIME ONI",
+      "texte_balise": "VOLIME ONI",
+      "bbox": [
+        1609.0,
+        950.6,
+        1696.2,
+        959.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MER F",
+      "texte_balise": "MER F",
+      "bbox": [
+        126.5,
+        959.5,
+        174.4,
+        968.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theophan the Recluse",
+      "texte_balise": "Theophan the Recluse",
+      "bbox": [
+        2014.5,
+        959.5,
+        2175.9,
+        986.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANITY",
+      "texte_balise": "CHRISTIANITY",
+      "bbox": [
+        87.2,
+        977.0,
+        213.7,
+        985.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WIIAM LANE CRAIG",
+      "texte_balise": "WIIAM LANE CRAIG",
+      "bbox": [
+        318.3,
+        1011.9,
+        444.8,
+        1021.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ST. TERESA OF AVIL",
+      "texte_balise": "ST. TERESA OF AVIL",
+      "bbox": [
+        1046.5,
+        1011.9,
+        1203.5,
+        1034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selected Writing",
+      "texte_balise": "Selected Writing",
+      "bbox": [
+        872.1,
+        1028.8,
+        937.5,
+        1037.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bo Glertz",
+      "texte_balise": "Bo Glertz",
+      "bbox": [
+        2834.3,
+        1028.8,
+        2904.1,
+        1037.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bo Giertz",
+      "texte_balise": "Bo Giertz",
+      "bbox": [
+        2834.3,
+        1029.0,
+        2904.1,
+        1038.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SYSTEMATIC THEOLOGY",
+      "texte_balise": "SYSTEMATIC THEOLOGY",
+      "bbox": [
+        527.6,
+        1102.8,
+        684.6,
+        1133.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T.S.",
+      "texte_balise": "T.S.",
+      "bbox": [
+        344.5,
+        1111.8,
+        418.6,
+        1151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine",
+      "texte_balise": "The Divine",
+      "bbox": [
+        837.2,
+        1111.8,
+        972.4,
+        1133.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor",
+      "texte_balise": "Fyodor",
+      "bbox": [
+        1600.2,
+        1116.0,
+        1709.4,
+        1146.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Way",
+      "texte_balise": "The Way",
+      "bbox": [
+        1800.9,
+        1120.5,
+        1957.8,
+        1177.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SPURGEON",
+      "texte_balise": "SPURGEON",
+      "bbox": [
+        2572.7,
+        1120.5,
+        2699.1,
+        1142.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN CALVIN",
+      "texte_balise": "JOHN CALVIN",
+      "bbox": [
+        2332.8,
+        1137.8,
+        2489.8,
+        1159.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comedi",
+      "texte_balise": "Comedi",
+      "bbox": [
+        841.6,
+        1142.3,
+        954.9,
+        1164.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoyevsky",
+      "texte_balise": "Dostoyevsky",
+      "bbox": [
+        1565.4,
+        1146.7,
+        1748.5,
+        1177.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Around the",
+      "texte_balise": "Around the",
+      "bbox": [
+        2559.6,
+        1150.7,
+        2720.9,
+        1177.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELIOT",
+      "texte_balise": "ELIOT",
+      "bbox": [
+        318.3,
+        1155.4,
+        440.4,
+        1190.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T.R.R.",
+      "texte_balise": "T.R.R.",
+      "bbox": [
+        1321.2,
+        1159.7,
+        1391.0,
+        1181.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pilgrim",
+      "texte_balise": "Pilgrim",
+      "bbox": [
+        1818.3,
+        1159.7,
+        1949.1,
+        1225.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante Alighieri",
+      "texte_balise": "Dante Alighieri",
+      "bbox": [
+        828.5,
+        1176.7,
+        972.4,
+        1198.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSIC",
+      "texte_balise": "CLASSIC",
+      "bbox": [
+        527.1,
+        1179.1,
+        689.4,
+        1218.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wicket Gate",
+      "texte_balise": "Wicket Gate",
+      "bbox": [
+        2555.2,
+        1181.5,
+        2725.3,
+        1207.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. S. Lewis",
+      "texte_balise": "C. S. Lewis",
+      "bbox": [
+        68.6,
+        1182.0,
+        239.5,
+        1247.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIAN RELIGION",
+      "texte_balise": "CHRISTIAN RELIGION",
+      "bbox": [
+        2337.2,
+        1185.7,
+        2489.8,
+        1207.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        1277.6,
+        1190.0,
+        1439.0,
+        1225.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complet",
+      "texte_balise": "Complet",
+      "bbox": [
+        2834.3,
+        1190.2,
+        2891.0,
+        1212.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poetry & Prosi",
+      "texte_balise": "Poetry & Prosi",
+      "bbox": [
+        2821.2,
+        1207.7,
+        2908.4,
+        1229.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pilgrim Continucs",
+      "texte_balise": "Pilgrim Continucs",
+      "bbox": [
+        1796.5,
+        1216.4,
+        1909.9,
+        1246.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANITY",
+      "texte_balise": "CHRISTIANITY",
+      "bbox": [
+        527.6,
+        1220.7,
+        684.6,
+        1238.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LORD",
+      "texte_balise": "LORD",
+      "bbox": [
+        1299.4,
+        1229.5,
+        1412.8,
+        1268.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "foreword by Walter J. Cack, S).",
+      "texte_balise": "foreword by Walter J. Cack, S).",
+      "bbox": [
+        1818.3,
+        1242.5,
+        1936.0,
+        1260.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        2808.1,
+        1246.9,
+        2925.9,
+        1277.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOUR",
+      "texte_balise": "FOUR",
+      "bbox": [
+        344.5,
+        1251.2,
+        418.6,
+        1273.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RING",
+      "texte_balise": "RING",
+      "bbox": [
+        1299.4,
+        1260.0,
+        1404.1,
+        1312.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blake",
+      "texte_balise": "Blake",
+      "bbox": [
+        2816.9,
+        1273.0,
+        2912.8,
+        1312.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUARTETS",
+      "texte_balise": "QUARTETS",
+      "bbox": [
+        318.3,
+        1281.4,
+        444.8,
+        1308.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "True",
+      "texte_balise": "True",
+      "bbox": [
+        1046.5,
+        1294.8,
+        1103.2,
+        1321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete",
+      "texte_balise": "The Complete",
+      "bbox": [
+        1565.4,
+        1298.9,
+        1744.2,
+        1338.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORTHODOXY",
+      "texte_balise": "ORTHODOXY",
+      "bbox": [
+        2005.8,
+        1299.2,
+        2184.6,
+        1321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOMAS C. ODEN",
+      "texte_balise": "HOMAS C. ODEN",
+      "bbox": [
+        532.0,
+        1316.6,
+        680.2,
+        1325.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEVOTION",
+      "texte_balise": "DEVOTION",
+      "bbox": [
+        1033.4,
+        1316.6,
+        1216.6,
+        1351.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the Religion",
+      "texte_balise": "and the Religion",
+      "bbox": [
+        2001.5,
+        1325.3,
+        2184.6,
+        1351.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Works",
+      "texte_balise": "Works",
+      "bbox": [
+        1609.0,
+        1329.7,
+        1700.6,
+        1364.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO MARY",
+      "texte_balise": "TO MARY",
+      "bbox": [
+        1037.8,
+        1347.1,
+        1190.4,
+        1373.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Future",
+      "texte_balise": "of the Future",
+      "bbox": [
+        2023.3,
+        1351.5,
+        2167.2,
+        1373.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "›seph cardinal Katzinge",
+      "texte_balise": "›seph cardinal Katzinge",
+      "bbox": [
+        1055.2,
+        1451.5,
+        1212.2,
+        1460.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Apologia",
+      "texte_balise": "Apologia",
+      "bbox": [
+        854.7,
+        1469.1,
+        959.3,
+        1495.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J. G. HAMANN: A Study",
+      "texte_balise": "J. G. HAMANN: A Study",
+      "bbox": [
+        2786.3,
+        1482.2,
+        2943.3,
+        1504.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pro Vita Sua",
+      "texte_balise": "Pro Vita Sua",
+      "bbox": [
+        837.1,
+        1494.3,
+        976.9,
+        1518.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Works of",
+      "texte_balise": "The Works of",
+      "bbox": [
+        1312.5,
+        1499.5,
+        1408.4,
+        1521.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DESPONDENCY",
+      "texte_balise": "DESPONDENCY",
+      "bbox": [
+        1792.2,
+        1517.0,
+        1944.8,
+        1538.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "foseph",
+      "texte_balise": "foseph",
+      "bbox": [
+        1325.6,
+        1525.8,
+        1399.7,
+        1556.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOD",
+      "texte_balise": "GOD",
+      "bbox": [
+        1591.6,
+        1530.1,
+        1718.0,
+        1578.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ade yanstre",
+      "texte_balise": "ade yanstre",
+      "bbox": [
+        1303.8,
+        1556.3,
+        1417.2,
+        1582.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "True",
+      "texte_balise": "True",
+      "bbox": [
+        2380.8,
+        1556.3,
+        2450.6,
+        1582.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EING. CONSCIOUSNESS. BLIS",
+      "texte_balise": "EING. CONSCIOUSNESS. BLIS",
+      "bbox": [
+        1591.6,
+        1586.4,
+        1713.7,
+        1595.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity",
+      "texte_balise": "Christianity",
+      "bbox": [
+        2350.2,
+        1586.6,
+        2472.4,
+        1613.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANITY",
+      "texte_balise": "CHRISTIANITY",
+      "bbox": [
+        1037.3,
+        1619.7,
+        1225.8,
+        1675.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hn Henry Newman",
+      "texte_balise": "hn Henry Newman",
+      "bbox": [
+        841.6,
+        1700.1,
+        985.5,
+        1722.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DARK NIGHT",
+      "texte_balise": "DARK NIGHT",
+      "bbox": [
+        819.8,
+        1774.1,
+        981.1,
+        1800.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I SOUL",
+      "texte_balise": "I SOUL",
+      "bbox": [
+        819.8,
+        1795.9,
+        985.5,
+        1857.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE JOUL",
+      "texte_balise": "THE JOUL",
+      "bbox": [
+        815.4,
+        1813.0,
+        985.5,
+        1843.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CLOUD",
+      "texte_balise": "CLOUD",
+      "bbox": [
+        1098.8,
+        1870.0,
+        1164.2,
+        1887.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLOUE",
+      "texte_balise": "CLOUE",
+      "bbox": [
+        1098.8,
+        1873.9,
+        1155.5,
+        1886.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        819.8,
+        2026.9,
+        893.9,
+        2044.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catholic/Orthodox",
+      "texte_balise": "Catholic/Orthodox",
+      "bbox": [
+        8.7,
+        2100.0,
+        501.5,
+        2156.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protestant/Catholic",
+      "texte_balise": "Protestant/Catholic",
+      "bbox": [
+        1011.6,
+        2104.3,
+        1513.1,
+        2160.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orthodox/Protestant",
+      "texte_balise": "Orthodox/Protestant",
+      "bbox": [
+        2014.5,
+        2104.3,
+        2555.2,
+        2160.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F",
+      "texte_balise": "F",
+      "bbox": [
+        1303.8,
+        2221.7,
+        1329.9,
+        2243.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HAMLET",
+      "texte_balise": "HAMLET",
+      "bbox": [
+        1312.4,
+        2251.8,
+        1495.7,
+        2287.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Con",
+      "texte_balise": "Con",
+      "bbox": [
+        61.0,
+        2252.1,
+        122.1,
+        2282.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jobn Climacus V",
+      "texte_balise": "Jobn Climacus V",
+      "bbox": [
+        728.2,
+        2252.1,
+        771.8,
+        2491.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ETIENNE CISON",
+      "texte_balise": "ETIENNE CISON",
+      "bbox": [
+        1072.7,
+        2260.6,
+        1186.0,
+        2269.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "essions",
+      "texte_balise": "essions",
+      "bbox": [
+        135.2,
+        2260.8,
+        235.5,
+        2286.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ST JOHN CHRYSOSTON",
+      "texte_balise": "ST JOHN CHRYSOSTON",
+      "bbox": [
+        514.5,
+        2265.2,
+        667.2,
+        2273.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Spirit",
+      "texte_balise": "Spirit",
+      "bbox": [
+        1151.2,
+        2356.5,
+        1238.4,
+        2395.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Mediaeval",
+      "texte_balise": "of Mediaeval",
+      "bbox": [
+        1072.6,
+        2391.0,
+        1242.8,
+        2426.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Philosophy",
+      "texte_balise": "Philosophy",
+      "bbox": [
+        1068.3,
+        2426.1,
+        1207.8,
+        2469.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the Priesthood",
+      "texte_balise": "On the Priesthood",
+      "bbox": [
+        510.2,
+        2456.4,
+        675.9,
+        2478.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WITTANCHAKESDEARE",
+      "texte_balise": "WITTANCHAKESDEARE",
+      "bbox": [
+        1321.2,
+        2500.0,
+        1495.6,
+        2508.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "fear and Tremblin",
+      "texte_balise": "fear and Tremblin",
+      "bbox": [
+        2119.2,
+        2500.0,
+        2193.3,
+        2508.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ChE SAYINGS",
+      "texte_balise": "ChE SAYINGS",
+      "bbox": [
+        501.5,
+        2565.2,
+        610.5,
+        2587.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "che OESERT FACHERS",
+      "texte_balise": "che OESERT FACHERS",
+      "bbox": [
+        514.5,
+        2586.9,
+        680.2,
+        2604.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        832.8,
+        2600.0,
+        885.2,
+        2621.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RULE",
+      "texte_balise": "RULE",
+      "bbox": [
+        837.2,
+        2626.1,
+        893.9,
+        2647.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1980 OF",
+      "texte_balise": "1980 OF",
+      "bbox": [
+        758.7,
+        2643.2,
+        867.7,
+        2669.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIONYSILS",
+      "texte_balise": "DIONYSILS",
+      "bbox": [
+        91.6,
+        2647.8,
+        183.1,
+        2673.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE AREOPAGITE",
+      "texte_balise": "THE AREOPAGITE",
+      "bbox": [
+        87.2,
+        2669.2,
+        196.2,
+        2691.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ST. BENEDICT",
+      "texte_balise": "ST. BENEDICT",
+      "bbox": [
+        754.4,
+        2673.9,
+        889.5,
+        2695.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIVINE",
+      "texte_balise": "DIVINE",
+      "bbox": [
+        82.8,
+        2691.3,
+        135.2,
+        2717.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAMES",
+      "texte_balise": "NAMES",
+      "bbox": [
+        139.5,
+        2691.3,
+        187.5,
+        2713.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IN ENGLISH",
+      "texte_balise": "IN ENGLISH",
+      "bbox": [
+        750.0,
+        2700.0,
+        872.1,
+        2722.2
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

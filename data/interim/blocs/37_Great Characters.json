@@ -1,0 +1,51 @@
+{
+  "fichier": "37_Great Characters.jpeg",
+  "date": "2026-07-21T19:28:36.746090+00:00",
+  "taille_origine": [
+    2312,
+    3360
+  ],
+  "hauteur_ligne_mediane": 30.4,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 1,
+  "nb_noeuds": 4,
+  "tiers": [
+    "Penguin ( Claceios"
+  ],
+  "intitules_isoles": [
+    "Tove Jansion",
+    "Fyodor",
+    "Penguin ( Claceios",
+    "King Lear"
+  ],
+  "blocs": [
+    {
+      "tier": "Penguin ( Claceios",
+      "bbox": null,
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Michel and Bruno",
+          "auteur": "Atomised",
+          "tier": "Penguin ( Claceios"
+        },
+        {
+          "titre": "Grigory Pechorin",
+          "auteur": "A Hero of Our Time",
+          "tier": "Penguin ( Claceios"
+        },
+        {
+          "titre": "Meursault",
+          "auteur": "The Stranger",
+          "tier": "Penguin ( Claceios"
+        },
+        {
+          "titre": "Faust and Mephistofeles",
+          "auteur": "Faust",
+          "tier": "Penguin ( Claceios"
+        }
+      ]
+    }
+  ]
+}

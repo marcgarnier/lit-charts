@@ -1,0 +1,839 @@
+{
+  "fichier": "12_Uruguayan.jpeg",
+  "date": "2026-07-21T19:28:36.558949+00:00",
+  "taille_origine": [
+    1616,
+    2288
+  ],
+  "hauteur_ligne_mediane": 18.8,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 40,
+  "nb_noeuds": 67,
+  "tiers": [
+    "Horacio Quiroga",
+    "POETICS",
+    "EDUARDO"
+  ],
+  "intitules_isoles": [
+    "Benedetti",
+    "Ihe Iruce"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        75.2,
+        95.9,
+        1536.1,
+        250.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "URUGUAYAN /LITERATURE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        528.5,
+        360.7,
+        676.5,
+        372.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "\"A masterpiece SPECTATOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        195.0,
+        410.2,
+        429.8,
+        431.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LET THE WIND SPEAK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1256.6,
+        414.9,
+        1402.3,
+        534.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jungle",
+          "auteur": "Tales",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        518.8,
+        431.3,
+        775.4,
+        562.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Shipyard",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        227.8,
+        454.6,
+        394.6,
+        471.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JUAN CARLOS ONETTI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        873.8,
+        541.5,
+        1096.9,
+        635.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DECAPITATED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHICKEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND OTHER STORIES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        220.8,
+        698.5,
+        411.0,
+        726.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "\"The Graham Greene of Uruguay'",
+          "auteur": "Sunday Telegraph",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Horacio Quiroga",
+      "bbox": [
+        1270.6,
+        702.9,
+        1371.8,
+        750.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "asswan he ball Therala",
+          "auteur": null,
+          "tier": "Horacio Quiroga"
+        },
+        {
+          "titre": "lustrations by Bert want.",
+          "auteur": null,
+          "tier": "Horacio Quiroga"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1049.9,
+        717.3,
+        1108.7,
+        743.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ILLDSTRATED",
+          "auteur": "IN LINDENT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        944.2,
+        719.6,
+        1024.1,
+        752.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HORACIO",
+          "auteur": "QUIROGA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        199.5,
+        848.3,
+        435.2,
+        1139.6
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "EDUARDO GALEANO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OPEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VEINS OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LATIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FIVE CENTURIES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF THE PILLAGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF A CONTINENT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMERICA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FOREWORD BY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ISABEL ALLENDE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        641.2,
+        1050.2,
+        739.9,
+        1062.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "here te starch the sensibily.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1254.3,
+        1124.9,
+        1397.6,
+        1170.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CENTURY",
+          "auteur": "OF THE WIND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        589.6,
+        1137.0,
+        704.7,
+        1160.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GENESIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        897.3,
+        1139.1,
+        1075.8,
+        1165.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FACES & MASKS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        328.8,
+        1162.8,
+        434.5,
+        1200.3
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "*This book is a monument",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "*This book is a monumert",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in our Latin Americen history",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in our Latin American history.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hugo Chives, hose reseal!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hupo Chares, house visale",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        535.5,
+        1212.0,
+        761.0,
+        1226.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EDUARDO GALEANO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1212.0,
+        1212.0,
+        1439.8,
+        1226.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EDUARDO GALEANO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        873.8,
+        1218.8,
+        1099.3,
+        1230.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EDUARDO GALEANO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        948.9,
+        1338.6,
+        1059.3,
+        1404.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Mario",
+          "auteur": "Benedetti",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        237.2,
+        1362.0,
+        387.6,
+        1373.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FELISBERTO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1205.0,
+        1420.6,
+        1439.8,
+        1516.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Revised ecition including commentary on the 2002 World Cup",
+          "auteur": "SOCCER IN SUN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        570.8,
+        1462.8,
+        584.9,
+        1561.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ernández",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        223.1,
+        1622.2,
+        284.2,
+        1634.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "•AN O",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1280.1,
+        1662.1,
+        1439.8,
+        1692.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EDUARDO GALEANO",
+          "auteur": "TEDDY MARK FRIED",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        570.8,
+        1664.4,
+        584.9,
+        1694.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Fel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        552.0,
+        1800.4,
+        770.4,
+        1863.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BLOOD PACT",
+          "auteur": "OTHER STORIES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        880.8,
+        1826.2,
+        1096.9,
+        1894.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Book of",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1317.7,
+        1828.5,
+        1421.0,
+        1934.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SELECTED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETRY OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DELMIRA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AGUSTINI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        185.6,
+        1835.4,
+        429.8,
+        1863.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BITBIORDIMEL GERSSIES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        526.1,
+        1927.0,
+        622.4,
+        1964.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "\"Besoletti bleads intronger-",
+          "auteur": "tion, alres, and al, Lamor in",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        887.5,
+        1937.0,
+        1085.5,
+        1980.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Embraces",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        211.4,
+        1976.2,
+        420.4,
+        2072.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JUAN CARLOS",
+          "auteur": "ONETTI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "POETICS",
+      "bbox": [
+        1254.3,
+        1978.6,
+        1423.4,
+        2100.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "OF EROS",
+          "auteur": null,
+          "tier": "POETICS"
+        },
+        {
+          "titre": "CITED AND TRANSLATED BY ALCJANDRO CÍCERES",
+          "auteur": null,
+          "tier": "POETICS"
+        },
+        {
+          "titre": "WITH A FOREWORD DY WELLS BARNSTONE",
+          "auteur": null,
+          "tier": "POETICS"
+        },
+        {
+          "titre": "A BIC INQUAT COITION",
+          "auteur": null,
+          "tier": "POETICS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        540.2,
+        1992.2,
+        610.7,
+        2030.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "and things\"",
+          "auteur": "-Kirkor Roriewe-",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "EDUARDO",
+      "bbox": [
+        899.6,
+        2070.0,
+        1087.5,
+        2164.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "GALEANO",
+          "auteur": null,
+          "tier": "EDUARDO"
+        },
+        {
+          "titre": "AUTHOR OF MEMORY OF FIRE",
+          "auteur": null,
+          "tier": "EDUARDO"
+        },
+        {
+          "titre": "TRANSLATED BY CEDRIC BELFRAGE",
+          "auteur": null,
+          "tier": "EDUARDO"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        544.9,
+        2100.5,
+        765.7,
+        2159.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MARIO",
+          "auteur": "BENEDETTI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        213.7,
+        2138.0,
+        265.4,
+        2152.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The greatest li",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        267.8,
+        2138.0,
+        411.0,
+        2150.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ang urban novelst Martin Seymour-Smit",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

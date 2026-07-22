@@ -1,0 +1,454 @@
+{
+  "fichier": "08_Revolutionary.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:59.095183+00:00",
+  "duree_s": 0.6,
+  "taille_origine": [
+    1200,
+    838
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 40,
+  "lignes": [
+    {
+      "texte": "Victory Now",
+      "texte_balise": "Victory Now",
+      "bbox": [
+        365.1,
+        40.5,
+        838.9,
+        173.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A practical reading list for impatient revolutionaries",
+      "texte_balise": "A practical reading list for impatient revolutionaries",
+      "bbox": [
+        335.0,
+        174.6,
+        870.0,
+        224.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Georges Sorel",
+      "texte_balise": "Georges Sorel",
+      "bbox": [
+        105.9,
+        249.6,
+        172.1,
+        262.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MOST",
+      "texte_balise": "THE MOST",
+      "bbox": [
+        1022.0,
+        252.0,
+        1108.0,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Mason",
+      "texte_balise": "James Mason",
+      "bbox": [
+        568.0,
+        254.0,
+        638.0,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ART",
+      "texte_balise": "THE ART",
+      "bbox": [
+        328.0,
+        258.0,
+        416.0,
+        274.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIEGE",
+      "texte_balise": "SIEGE",
+      "bbox": [
+        564.0,
+        264.0,
+        642.0,
+        300.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANARCHIST",
+      "texte_balise": "ANARCHIST",
+      "bbox": [
+        750.8,
+        264.8,
+        901.6,
+        360.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANGEROUS",
+      "texte_balise": "DANGEROUS",
+      "bbox": [
+        1002.0,
+        268.0,
+        1128.0,
+        286.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIK",
+      "texte_balise": "THIK",
+      "bbox": [
+        790.0,
+        272.0,
+        840.0,
+        308.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "oF WAR",
+      "texte_balise": "oF WAR",
+      "bbox": [
+        339.8,
+        273.4,
+        404.2,
+        292.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COOKBOCK",
+      "texte_balise": "COOKBOCK",
+      "bbox": [
+        755.2,
+        284.9,
+        917.3,
+        384.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "GAME",
+      "texte_balise": "GAME",
+      "bbox": [
+        1005.9,
+        285.7,
+        1122.1,
+        316.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reflections",
+      "texte_balise": "Reflections",
+      "bbox": [
+        89.9,
+        305.5,
+        190.1,
+        324.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVANCED",
+      "texte_balise": "ADVANCED",
+      "bbox": [
+        1004.0,
+        322.0,
+        1056.0,
+        332.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on violence",
+      "texte_balise": "on violence",
+      "bbox": [
+        90.0,
+        324.0,
+        190.0,
+        340.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VAN TRAPPINC",
+      "texte_balise": "VAN TRAPPINC",
+      "bbox": [
+        1060.0,
+        324.0,
+        1124.0,
+        338.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SUN TZU",
+      "texte_balise": "SUN TZU",
+      "bbox": [
+        336.0,
+        398.0,
+        406.0,
+        412.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAGNAR BENSON",
+      "texte_balise": "RAGNAR BENSON",
+      "bbox": [
+        1020.0,
+        416.0,
+        1108.0,
+        428.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERNESTO CHE GUEVARA",
+      "texte_balise": "ERNESTO CHE GUEVARA",
+      "bbox": [
+        78.0,
+        542.0,
+        190.0,
+        552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIXAZUKI FULSHING HOUSETRISENTS",
+      "texte_balise": "MIXAZUKI FULSHING HOUSETRISENTS",
+      "bbox": [
+        1002.0,
+        542.0,
+        1134.0,
+        554.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Güerrilla",
+      "texte_balise": "Güerrilla",
+      "bbox": [
+        789.8,
+        551.5,
+        884.2,
+        586.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RISH",
+      "texte_balise": "RISH",
+      "bbox": [
+        1046.0,
+        552.0,
+        1098.0,
+        568.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guerrilla",
+      "texte_balise": "Guerrilla",
+      "bbox": [
+        75.8,
+        553.2,
+        172.2,
+        578.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK DONOVAN",
+      "texte_balise": "JACK DONOVAN",
+      "bbox": [
+        564.0,
+        558.0,
+        642.0,
+        570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPUBLICAN",
+      "texte_balise": "REPUBLICAN",
+      "bbox": [
+        1008.0,
+        566.0,
+        1130.0,
+        584.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WAY OF MEN",
+      "texte_balise": "THE WAY OF MEN",
+      "bbox": [
+        537.9,
+        571.6,
+        668.1,
+        598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warfare",
+      "texte_balise": "Warfare",
+      "bbox": [
+        75.9,
+        573.7,
+        164.1,
+        596.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARMY",
+      "texte_balise": "ARMY",
+      "bbox": [
+        1037.8,
+        581.5,
+        1096.2,
+        600.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARFARE",
+      "texte_balise": "WARFARE",
+      "bbox": [
+        792.0,
+        584.0,
+        880.0,
+        594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON WAR",
+      "texte_balise": "ON WAR",
+      "bbox": [
+        318.0,
+        586.0,
+        418.0,
+        606.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXTOR TOPOTR COReEeTIONE",
+      "texte_balise": "EXTOR TOPOTR COReEeTIONE",
+      "bbox": [
+        76.0,
+        594.0,
+        202.0,
+        604.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        1025.9,
+        597.7,
+        1112.1,
+        618.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUERRILLA",
+      "texte_balise": "GUERRILLA",
+      "bbox": [
+        1012.0,
+        624.0,
+        1122.0,
+        642.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOUL HOWAU e TIE PACI",
+      "texte_balise": "NOUL HOWAU e TIE PACI",
+      "bbox": [
+        312.0,
+        626.0,
+        422.0,
+        630.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "WARFARE",
+      "texte_balise": "WARFARE",
+      "bbox": [
+        1011.9,
+        635.5,
+        1128.1,
+        658.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STRATIGTES",
+      "texte_balise": "STRATIGTES",
+      "bbox": [
+        1048.0,
+        658.0,
+        1094.0,
+        668.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEFENSIVE",
+      "texte_balise": "DEFENSIVE",
+      "bbox": [
+        1050.0,
+        674.0,
+        1092.0,
+        682.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEFENSIVE",
+      "texte_balise": "DEFENSIVE",
+      "bbox": [
+        1050.0,
+        688.0,
+        1090.0,
+        698.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POREWORD BY HARPEY \"POMBO\" VELEGAS",
+      "texte_balise": "POREWORD BY HARPEY \"POMBO\" VELEGAS",
+      "bbox": [
+        76.0,
+        740.0,
+        192.0,
+        748.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

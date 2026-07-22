@@ -1,0 +1,3534 @@
+{
+  "fichier": "06_Great Poems.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:45.269889+00:00",
+  "duree_s": 4.9,
+  "taille_origine": [
+    3250,
+    4200
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 320,
+  "lignes": [
+    {
+      "texte": "ROLL",
+      "texte_balise": "ROLL",
+      "bbox": [
+        434.0,
+        16.2,
+        1068.2,
+        163.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR",
+      "texte_balise": "FOR",
+      "bbox": [
+        1204.6,
+        18.9,
+        1728.9,
+        160.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POEM",
+      "texte_balise": "POEM",
+      "bbox": [
+        2092.7,
+        18.9,
+        2829.6,
+        160.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There is a poetry anthology",
+      "texte_balise": "There is a poetry anthology",
+      "bbox": [
+        2886.3,
+        23.6,
+        3231.1,
+        61.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A",
+      "texte_balise": "A",
+      "bbox": [
+        1818.7,
+        28.3,
+        1974.6,
+        151.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "book associated with this",
+      "texte_balise": "book associated with this",
+      "bbox": [
+        2900.4,
+        52.0,
+        3216.9,
+        80.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "project. Check the /lit/ wiki",
+      "texte_balise": "project. Check the /lit/ wiki",
+      "bbox": [
+        2876.8,
+        84.9,
+        3235.8,
+        113.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or libgen for \"Poem of the Day",
+      "texte_balise": "or libgen for \"Poem of the Day",
+      "bbox": [
+        2867.4,
+        112.9,
+        3245.3,
+        146.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "/lit/ 2022",
+      "texte_balise": "/lit/ 2022",
+      "bbox": [
+        2984.5,
+        141.2,
+        3128.1,
+        170.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To Daffodils",
+      "texte_balise": "To Daffodils",
+      "bbox": [
+        0.0,
+        533.5,
+        80.3,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The More Loving One",
+      "texte_balise": "The More Loving One",
+      "bbox": [
+        321.2,
+        533.5,
+        472.4,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infanta Marina",
+      "texte_balise": "Infanta Marina",
+      "bbox": [
+        647.2,
+        533.5,
+        751.1,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Romney Marsh",
+      "texte_balise": "In Romney Marsh",
+      "bbox": [
+        973.1,
+        533.5,
+        1091.2,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beat! Beat! Drums!",
+      "texte_balise": "Beat! Beat! Drums!",
+      "bbox": [
+        1294.3,
+        533.5,
+        1421.9,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Wandered Lonely as a Cloud",
+      "texte_balise": "1 Wandered Lonely as a Cloud",
+      "bbox": [
+        1941.5,
+        533.5,
+        2149.3,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradoxes and Oxymorons",
+      "texte_balise": "Paradoxes and Oxymorons",
+      "bbox": [
+        2272.2,
+        533.5,
+        2446.9,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Idea 61: Since there's no help, come let...",
+      "texte_balise": "Idea 61: Since there's no help, come let...",
+      "bbox": [
+        2598.1,
+        533.5,
+        2857.9,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There's a certain Slant of light",
+      "texte_balise": "There's a certain Slant of light",
+      "bbox": [
+        2919.3,
+        533.5,
+        3117.7,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Good-Night",
+      "texte_balise": "Good-Night",
+      "bbox": [
+        1620.3,
+        533.8,
+        1705.3,
+        562.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Davidson",
+      "texte_balise": "John Davidson",
+      "bbox": [
+        971.0,
+        551.7,
+        1070.2,
+        587.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "W. H. Auden",
+      "texte_balise": "W. H. Auden",
+      "bbox": [
+        321.2,
+        552.5,
+        406.3,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wallace Stevens",
+      "texte_balise": "Wallace Stevens",
+      "bbox": [
+        647.2,
+        552.5,
+        760.5,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Percy Bysshe Shelley",
+      "texte_balise": "Percy Bysshe Shelley",
+      "bbox": [
+        1620.3,
+        552.5,
+        1757.3,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wiliam Wordsworth",
+      "texte_balise": "Wiliam Wordsworth",
+      "bbox": [
+        1946.2,
+        552.5,
+        2078.5,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Drayton",
+      "texte_balise": "Michael Drayton",
+      "bbox": [
+        2598.1,
+        552.5,
+        2711.5,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emily Dickinson",
+      "texte_balise": "Emily Dickinson",
+      "bbox": [
+        2919.3,
+        552.5,
+        3023.3,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Ashbery",
+      "texte_balise": "John Ashbery",
+      "bbox": [
+        2272.2,
+        557.4,
+        2361.9,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.org/lt/thread/S19737970",
+      "texte_balise": "varosu.org/lt/thread/S19737970",
+      "bbox": [
+        4.7,
+        576.3,
+        212.6,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20563993",
+      "texte_balise": "warosu.org/lt/thread/S20563993",
+      "bbox": [
+        321.2,
+        576.3,
+        538.5,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S19824922",
+      "texte_balise": "warosu.org/lt/thread/S19824922",
+      "bbox": [
+        647.2,
+        576.3,
+        859.7,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "su.org/lt/thread/S21332204",
+      "texte_balise": "su.org/lt/thread/S21332204",
+      "bbox": [
+        1006.2,
+        576.3,
+        1185.7,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ead/S20221672",
+      "texte_balise": "ead/S20221672",
+      "bbox": [
+        2050.1,
+        576.3,
+        2158.8,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "su.org/lt/thread/S20255451",
+      "texte_balise": "su.org/lt/thread/S20255451",
+      "bbox": [
+        2305.2,
+        576.3,
+        2484.7,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".org/lt/thread/S20929941",
+      "texte_balise": ".org/lt/thread/S20929941",
+      "bbox": [
+        2966.6,
+        576.3,
+        3131.9,
+        599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20367471",
+      "texte_balise": "warosu.org/lit/thread/S20367471",
+      "bbox": [
+        1299.1,
+        581.1,
+        1502.2,
+        595.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20315172",
+      "texte_balise": "warosu.org/lit/thread/S20315172",
+      "bbox": [
+        1625.0,
+        581.1,
+        1832.8,
+        595.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20877079",
+      "texte_balise": "warosu.org/lit/thread/S20877079",
+      "bbox": [
+        2598.1,
+        581.1,
+        2806.0,
+        595.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "10",
+      "texte_balise": "10",
+      "bbox": [
+        -0.0,
+        916.5,
+        23.6,
+        940.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The sea-shall",
+      "texte_balise": "The sea-shall",
+      "bbox": [
+        1941.5,
+        919.0,
+        2040.7,
+        961.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I felt a Funeral, in my Brain",
+      "texte_balise": "I felt a Funeral, in my Brain",
+      "bbox": [
+        321.2,
+        935.2,
+        500.7,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time does not bring relief; you all have...",
+      "texte_balise": "Time does not bring relief; you all have...",
+      "bbox": [
+        647.2,
+        935.2,
+        907.0,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Man He Killed",
+      "texte_balise": "The Man He Killed",
+      "bbox": [
+        973.1,
+        935.2,
+        1100.7,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In a Station of the Metro",
+      "texte_balise": "In a Station of the Metro",
+      "bbox": [
+        1620.3,
+        935.2,
+        1790.3,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sea-Shell",
+      "texte_balise": "The Sea-Shell",
+      "bbox": [
+        1946.2,
+        935.2,
+        2036.0,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To His Fairest Valentine, Mrs. A.L.",
+      "texte_balise": "To His Fairest Valentine, Mrs. A.L.",
+      "bbox": [
+        2598.1,
+        935.2,
+        2810.7,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Love Lies Bleeding",
+      "texte_balise": "Love Lies Bleeding",
+      "bbox": [
+        2919.3,
+        935.2,
+        3046.9,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgetfulness",
+      "texte_balise": "Forgetfulness",
+      "bbox": [
+        2272.2,
+        935.4,
+        2361.9,
+        959.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time does not bring relief; you all have..",
+      "texte_balise": "Time does not bring relief; you all have..",
+      "bbox": [
+        647.2,
+        937.9,
+        902.3,
+        957.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "After the War",
+      "texte_balise": "After the War",
+      "bbox": [
+        1294.3,
+        937.9,
+        1388.8,
+        957.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To His Fairest Valentine, Mrs. A.",
+      "texte_balise": "To His Fairest Valentine, Mrs. A.",
+      "bbox": [
+        2593.4,
+        937.9,
+        2801.2,
+        957.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Love Lies bleeding",
+      "texte_balise": "Love Lies bleeding",
+      "bbox": [
+        2914.6,
+        942.6,
+        3037.4,
+        957.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "oudden LIeni",
+      "texte_balise": "oudden LIeni",
+      "bbox": [
+        0.0,
+        944.8,
+        80.3,
+        954.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Atrer ine vy ar",
+      "texte_balise": "Atrer ine vy ar",
+      "bbox": [
+        1299.1,
+        944.8,
+        1388.8,
+        954.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Edna St. Vincent Millay",
+      "texte_balise": "Edna St. Vincent Millay",
+      "bbox": [
+        646.1,
+        955.7,
+        799.0,
+        982.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emily Dickinson",
+      "texte_balise": "Emily Dickinson",
+      "bbox": [
+        320.6,
+        960.0,
+        421.0,
+        977.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante Gabriel Rossetti",
+      "texte_balise": "Dante Gabriel Rossetti",
+      "bbox": [
+        0.0,
+        961.0,
+        146.4,
+        976.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Hardy",
+      "texte_balise": "Thomas Hardy",
+      "bbox": [
+        973.1,
+        961.0,
+        1062.9,
+        980.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "May Cannar",
+      "texte_balise": "May Cannar",
+      "bbox": [
+        1294.3,
+        961.0,
+        1384.1,
+        976.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ezra Poung",
+      "texte_balise": "Ezra Poung",
+      "bbox": [
+        1620.3,
+        961.0,
+        1695.9,
+        976.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hart Crane",
+      "texte_balise": "Hart Crane",
+      "bbox": [
+        2272.2,
+        961.0,
+        2347.7,
+        976.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kichard Lovelde",
+      "texte_balise": "Kichard Lovelde",
+      "bbox": [
+        2597.5,
+        961.0,
+        2702.3,
+        978.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante Gabriel KosseTTI",
+      "texte_balise": "Dante Gabriel KosseTTI",
+      "bbox": [
+        0.0,
+        963.7,
+        146.4,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cana st. Vincent Millay",
+      "texte_balise": "cana st. Vincent Millay",
+      "bbox": [
+        647.2,
+        963.7,
+        798.3,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "homas naray",
+      "texte_balise": "homas naray",
+      "bbox": [
+        977.8,
+        963.7,
+        1062.9,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "May Lannan",
+      "texte_balise": "May Lannan",
+      "bbox": [
+        1294.3,
+        963.7,
+        1384.1,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ezra rouna",
+      "texte_balise": "ezra rouna",
+      "bbox": [
+        1620.3,
+        963.7,
+        1695.9,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Allen Upwara",
+      "texte_balise": "Allen Upwara",
+      "bbox": [
+        1946.2,
+        963.7,
+        2036.0,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Han Crane",
+      "texte_balise": "Han Crane",
+      "bbox": [
+        2267.4,
+        963.7,
+        2347.7,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "kichard Lovelace",
+      "texte_balise": "kichard Lovelace",
+      "bbox": [
+        2593.4,
+        963.7,
+        2706.8,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "swinburne",
+      "texte_balise": "swinburne",
+      "bbox": [
+        2919.3,
+        966.2,
+        2990.2,
+        975.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19916467",
+      "texte_balise": "warosu.org/lit/thread/S19916467",
+      "bbox": [
+        1620.3,
+        973.1,
+        1837.6,
+        996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S21341440",
+      "texte_balise": "warosu.org/lit/thread/S21341440",
+      "bbox": [
+        647.2,
+        977.9,
+        859.7,
+        1001.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.org/lit/thread/S1977275",
+      "texte_balise": "varosu.org/lit/thread/S1977275",
+      "bbox": [
+        977.8,
+        977.9,
+        1176.2,
+        996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20017607",
+      "texte_balise": "warosu.org/lit/thread/S20017607",
+      "bbox": [
+        1294.3,
+        977.9,
+        1511.6,
+        996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/li/thread/S20083814",
+      "texte_balise": "warosu.org/li/thread/S20083814",
+      "bbox": [
+        1946.2,
+        977.9,
+        2158.8,
+        996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19715612",
+      "texte_balise": "warosu.org/lit/thread/S19715612",
+      "bbox": [
+        2267.4,
+        977.9,
+        2484.7,
+        1001.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20487275",
+      "texte_balise": "warosu.org/lit/thread/S20487275",
+      "bbox": [
+        2593.4,
+        977.9,
+        2810.7,
+        996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20063255",
+      "texte_balise": "warosu.org/lt/thread/S20063255",
+      "bbox": [
+        2919.3,
+        977.9,
+        3131.9,
+        1001.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.org/lit/thread/S19848394",
+      "texte_balise": "varosu.org/lit/thread/S19848394",
+      "bbox": [
+        4.7,
+        980.4,
+        207.8,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "/ht/throod/S20681087",
+      "texte_balise": "/ht/throod/S20681087",
+      "bbox": [
+        387.4,
+        980.4,
+        533.8,
+        989.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19772751",
+      "texte_balise": "warosu.org/lit/thread/S19772751",
+      "bbox": [
+        973.1,
+        980.4,
+        1181.0,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20083814",
+      "texte_balise": "warosu.org/lit/thread/S20083814",
+      "bbox": [
+        1946.2,
+        980.4,
+        2158.8,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20063255",
+      "texte_balise": "warosu.org/lit/thread/S20063255",
+      "bbox": [
+        2919.3,
+        980.4,
+        3127.2,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S|9848394",
+      "texte_balise": "warosu ora/lit/thread/S|9848394",
+      "bbox": [
+        0.0,
+        982.2,
+        207.8,
+        992.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S20681082",
+      "texte_balise": "warosu ora/lit/thread/S20681082",
+      "bbox": [
+        321.2,
+        982.2,
+        529.1,
+        992.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/iif/Thread/321541440",
+      "texte_balise": "warosu.org/iif/Thread/321541440",
+      "bbox": [
+        647.2,
+        985.1,
+        855.0,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lake Isle of Innisfree",
+      "texte_balise": "The Lake Isle of Innisfree",
+      "bbox": [
+        -0.0,
+        1339.0,
+        155.9,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stop all the clocks, cut off the telepho..",
+      "texte_balise": "Stop all the clocks, cut off the telepho..",
+      "bbox": [
+        321.2,
+        1339.0,
+        566.9,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hollow Men (3 threads]",
+      "texte_balise": "The Hollow Men (3 threads]",
+      "bbox": [
+        647.2,
+        1339.0,
+        826.7,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amoretti XXX: My Love is like to ice an.",
+      "texte_balise": "Amoretti XXX: My Love is like to ice an.",
+      "bbox": [
+        973.1,
+        1339.0,
+        1228.2,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La Figlia che Piange",
+      "texte_balise": "La Figlia che Piange",
+      "bbox": [
+        1294.3,
+        1339.0,
+        1426.6,
+        1358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There's a certain Slant of liaht",
+      "texte_balise": "There's a certain Slant of liaht",
+      "bbox": [
+        1625.0,
+        1339.0,
+        1814.0,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bitter-Sweet",
+      "texte_balise": "Bitter-Sweet",
+      "bbox": [
+        1946.2,
+        1339.0,
+        2031.2,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Second Coming",
+      "texte_balise": "The Second Coming",
+      "bbox": [
+        2272.2,
+        1339.0,
+        2399.7,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Lament",
+      "texte_balise": "A Lament",
+      "bbox": [
+        2598.1,
+        1343.7,
+        2659.5,
+        1353.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Percy Bysshe Shelley",
+      "texte_balise": "Percy Bysshe Shelley",
+      "bbox": [
+        2593.4,
+        1357.9,
+        2730.4,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William butler feats",
+      "texte_balise": "William butler feats",
+      "bbox": [
+        0.0,
+        1362.6,
+        127.5,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAH Auder",
+      "texte_balise": "WAH Auder",
+      "bbox": [
+        321.2,
+        1362.6,
+        401.5,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edmund Spense",
+      "texte_balise": "Edmund Spense",
+      "bbox": [
+        973.1,
+        1362.6,
+        1077.0,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "amily Dickinson",
+      "texte_balise": "amily Dickinson",
+      "bbox": [
+        1620.3,
+        1362.6,
+        1719.5,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "leorge Herber",
+      "texte_balise": "leorge Herber",
+      "bbox": [
+        1946.2,
+        1362.6,
+        2050.1,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William butler feats",
+      "texte_balise": "William butler feats",
+      "bbox": [
+        2267.4,
+        1362.6,
+        2399.7,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante gabriel Rossett",
+      "texte_balise": "Dante gabriel Rossett",
+      "bbox": [
+        2919.3,
+        1362.6,
+        3065.8,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosilorolitithreods0|4749",
+      "texte_balise": "warosilorolitithreods0|4749",
+      "bbox": [
+        0.0,
+        1381.5,
+        207.8,
+        1390.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosi orolitithreads7080/4",
+      "texte_balise": "warosi orolitithreads7080/4",
+      "bbox": [
+        321.2,
+        1381.5,
+        529.1,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosl orollitithreods0117344",
+      "texte_balise": "warosl orollitithreods0117344",
+      "bbox": [
+        973.1,
+        1381.5,
+        1181.0,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosh oralithreads 973000c",
+      "texte_balise": "warosh oralithreads 973000c",
+      "bbox": [
+        1294.3,
+        1381.5,
+        1502.2,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosu orolifithreads097994",
+      "texte_balise": "warosu orolifithreads097994",
+      "bbox": [
+        1620.3,
+        1381.5,
+        1828.1,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "waros oralit/threads 9964064",
+      "texte_balise": "waros oralit/threads 9964064",
+      "bbox": [
+        1946.2,
+        1381.5,
+        2154.1,
+        1391.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wares oralit threads 0088304",
+      "texte_balise": "wares oralit threads 0088304",
+      "bbox": [
+        2267.4,
+        1381.5,
+        2480.0,
+        1391.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "waroslorolitithread s09580",
+      "texte_balise": "waroslorolitithread s09580",
+      "bbox": [
+        2593.4,
+        1381.5,
+        2806.0,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosi orolitithreadls2040906",
+      "texte_balise": "warosi orolitithreadls2040906",
+      "bbox": [
+        2919.3,
+        1381.5,
+        3127.2,
+        1391.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Aeah Wishes for the Cloths of Heaven",
+      "texte_balise": "Aeah Wishes for the Cloths of Heaven",
+      "bbox": [
+        0.0,
+        1740.0,
+        240.9,
+        1754.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intorior Prom",
+      "texte_balise": "Intorior Prom",
+      "bbox": [
+        647.2,
+        1740.0,
+        732.2,
+        1750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Now Winter Nights Enlarge",
+      "texte_balise": "Now Winter Nights Enlarge",
+      "bbox": [
+        973.1,
+        1740.0,
+        1152.6,
+        1754.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "At the round earth's imagined corners (H..",
+      "texte_balise": "At the round earth's imagined corners (H..",
+      "bbox": [
+        1294.3,
+        1740.0,
+        1563.6,
+        1754.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To Dottodile",
+      "texte_balise": "To Dottodile",
+      "bbox": [
+        1620.3,
+        1740.0,
+        1700.6,
+        1750.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Twee",
+      "texte_balise": "The Twee",
+      "bbox": [
+        1946.2,
+        1740.0,
+        2007.6,
+        1750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To Autumr",
+      "texte_balise": "To Autumr",
+      "bbox": [
+        2267.4,
+        1740.0,
+        2338.3,
+        1750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "She Walks in Beauty",
+      "texte_balise": "She Walks in Beauty",
+      "bbox": [
+        2919.3,
+        1740.0,
+        3051.6,
+        1754.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chauce",
+      "texte_balise": "Chauce",
+      "bbox": [
+        2593.4,
+        1740.2,
+        2650.1,
+        1749.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Will Rod y",
+      "texte_balise": "Will Rod y",
+      "bbox": [
+        0.0,
+        1759.0,
+        122.8,
+        1768.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Edgar Allan Poe",
+      "texte_balise": "Edgar Allan Poe",
+      "bbox": [
+        321.2,
+        1759.0,
+        429.9,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hart Crane",
+      "texte_balise": "Hart Crane",
+      "bbox": [
+        642.4,
+        1759.0,
+        722.7,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Campion",
+      "texte_balise": "Thomas Campion",
+      "bbox": [
+        968.4,
+        1759.0,
+        1081.8,
+        1778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Donne",
+      "texte_balise": "John Donne",
+      "bbox": [
+        1294.3,
+        1759.0,
+        1374.6,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Herrick",
+      "texte_balise": "Robert Herrick",
+      "bbox": [
+        1620.3,
+        1759.0,
+        1714.8,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Blake",
+      "texte_balise": "William Blake",
+      "bbox": [
+        1946.2,
+        1759.0,
+        2036.0,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Keats",
+      "texte_balise": "John Keats",
+      "bbox": [
+        2267.4,
+        1759.0,
+        2343.0,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lord Byror",
+      "texte_balise": "Lord Byror",
+      "bbox": [
+        2919.3,
+        1759.0,
+        2990.2,
+        1773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lonafellov",
+      "texte_balise": "Lonafellov",
+      "bbox": [
+        2593.4,
+        1759.1,
+        2664.2,
+        1773.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "rost ora/lit/thread/S20216578",
+      "texte_balise": "rost ora/lit/thread/S20216578",
+      "bbox": [
+        18.9,
+        1777.9,
+        203.1,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu orallit/thread/S20482090",
+      "texte_balise": "warosu orallit/thread/S20482090",
+      "bbox": [
+        325.9,
+        1777.9,
+        529.1,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S|9969217",
+      "texte_balise": "warosu ora/lit/thread/S|9969217",
+      "bbox": [
+        647.2,
+        1777.9,
+        855.0,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S20338942",
+      "texte_balise": "warosu ora/lit/thread/S20338942",
+      "bbox": [
+        973.1,
+        1777.9,
+        1181.0,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu oralit/thread/S20686095",
+      "texte_balise": "warosu oralit/thread/S20686095",
+      "bbox": [
+        1299.1,
+        1777.9,
+        1506.9,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S19737970",
+      "texte_balise": "warosu ora/lit/thread/S19737970",
+      "bbox": [
+        1625.0,
+        1777.9,
+        1832.8,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S20280735",
+      "texte_balise": "warosu ora/lit/thread/S20280735",
+      "bbox": [
+        1946.2,
+        1777.9,
+        2154.1,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/lit/thread/S19800567",
+      "texte_balise": "warosu ora/lit/thread/S19800567",
+      "bbox": [
+        2598.1,
+        1777.9,
+        2806.0,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "waros orallit/thread/S20310080",
+      "texte_balise": "waros orallit/thread/S20310080",
+      "bbox": [
+        2924.1,
+        1777.9,
+        3127.2,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/it/thread 2030924",
+      "texte_balise": "warosu ora/it/thread 2030924",
+      "bbox": [
+        2272.2,
+        1782.7,
+        2480.0,
+        1792.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Clear Michight",
+      "texte_balise": "A Clear Michight",
+      "bbox": [
+        321.2,
+        2115.0,
+        439.3,
+        2158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sea Rose",
+      "texte_balise": "Sea Rose",
+      "bbox": [
+        0.0,
+        2134.0,
+        61.4,
+        2158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Bright star, would I were stedfast as ...",
+      "texte_balise": "\"Bright star, would I were stedfast as ...",
+      "bbox": [
+        973.1,
+        2134.0,
+        1228.2,
+        2158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morning af the Window",
+      "texte_balise": "Morning af the Window",
+      "bbox": [
+        1620.3,
+        2134.0,
+        1780.9,
+        2162.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sonnet 18: Shall I compare thee to a sum...",
+      "texte_balise": "Sonnet 18: Shall I compare thee to a sum...",
+      "bbox": [
+        1941.5,
+        2134.0,
+        2224.9,
+        2158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Possible Answers to Prayer",
+      "texte_balise": "Possible Answers to Prayer",
+      "bbox": [
+        2919.3,
+        2134.0,
+        3098.8,
+        2158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morning at the Windor",
+      "texte_balise": "Morning at the Windor",
+      "bbox": [
+        1624.8,
+        2135.1,
+        1771.6,
+        2157.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "And The Days Are Not Full Enough",
+      "texte_balise": "And The Days Are Not Full Enough",
+      "bbox": [
+        646.8,
+        2136.1,
+        869.4,
+        2155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sec Rose",
+      "texte_balise": "Sec Rose",
+      "bbox": [
+        0.0,
+        2136.6,
+        56.7,
+        2151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Clear Midnich",
+      "texte_balise": "A Clear Midnich",
+      "bbox": [
+        321.2,
+        2136.6,
+        434.6,
+        2151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Bright star would I were stedfest as t",
+      "texte_balise": "\"Bright star would I were stedfest as t",
+      "bbox": [
+        973.1,
+        2136.6,
+        1223.5,
+        2151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Happy the man",
+      "texte_balise": "Happy the man",
+      "bbox": [
+        1294.3,
+        2136.6,
+        1398.3,
+        2155.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sonnet 18: Shall I compare thee to a sum..",
+      "texte_balise": "Sonnet 18: Shall I compare thee to a sum..",
+      "bbox": [
+        1941.5,
+        2136.6,
+        2220.2,
+        2155.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Sonnets: Death, be not prouc",
+      "texte_balise": "Holy Sonnets: Death, be not prouc",
+      "bbox": [
+        2267.4,
+        2136.6,
+        2489.5,
+        2155.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sonnet 10. On His Blindnes",
+      "texte_balise": "Sonnet 10. On His Blindnes",
+      "bbox": [
+        2593.4,
+        2136.6,
+        2777.6,
+        2151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Possible Answers to Prover",
+      "texte_balise": "Possible Answers to Prover",
+      "bbox": [
+        2919.3,
+        2136.6,
+        3094.1,
+        2151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Sonnets: Death, be not proud",
+      "texte_balise": "Holy Sonnets: Death, be not proud",
+      "bbox": [
+        2267.4,
+        2138.9,
+        2494.2,
+        2153.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sonnet 19: On His Blindnes:",
+      "texte_balise": "Sonnet 19: On His Blindnes:",
+      "bbox": [
+        2593.4,
+        2138.9,
+        2777.6,
+        2153.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H. D.",
+      "texte_balise": "H. D.",
+      "bbox": [
+        0.0,
+        2150.8,
+        33.1,
+        2179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Walt Whitman",
+      "texte_balise": "Walt Whitman",
+      "bbox": [
+        321.2,
+        2150.8,
+        415.7,
+        2179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ezra Pound",
+      "texte_balise": "Ezra Pound",
+      "bbox": [
+        647.2,
+        2150.8,
+        727.5,
+        2179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Milton",
+      "texte_balise": "John Milton",
+      "bbox": [
+        2598.1,
+        2150.8,
+        2673.7,
+        2179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H.D.",
+      "texte_balise": "H.D.",
+      "bbox": [
+        0.0,
+        2153.1,
+        33.1,
+        2176.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Dryder",
+      "texte_balise": "John Dryder",
+      "bbox": [
+        1299.1,
+        2155.0,
+        1379.4,
+        2174.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "osu.org/it/thread/S20419023",
+      "texte_balise": "osu.org/it/thread/S20419023",
+      "bbox": [
+        23.6,
+        2176.7,
+        212.6,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".org/lit/thread/S20133503",
+      "texte_balise": ".org/lit/thread/S20133503",
+      "bbox": [
+        1015.6,
+        2176.7,
+        1185.7,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S20419023",
+      "texte_balise": "warosu.ora/lit/thread/S20419023",
+      "bbox": [
+        0.0,
+        2179.1,
+        207.8,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S20033650",
+      "texte_balise": "warosu.ora/lit/thread/S20033650",
+      "bbox": [
+        321.2,
+        2179.1,
+        529.1,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S19836708",
+      "texte_balise": "warosu.ora/lit/thread/S19836708",
+      "bbox": [
+        647.2,
+        2179.1,
+        855.0,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20133503",
+      "texte_balise": "warosu.org/lit/thread/S20133503",
+      "bbox": [
+        973.1,
+        2179.1,
+        1181.0,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S20389359",
+      "texte_balise": "warosu.ora/lit/thread/S20389359",
+      "bbox": [
+        1294.3,
+        2179.1,
+        1506.9,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S19933253",
+      "texte_balise": "warosu.ora/lit/thread/S19933253",
+      "bbox": [
+        1620.3,
+        2179.1,
+        1828.1,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "su.ora/lit/thread/S20294847",
+      "texte_balise": "su.ora/lit/thread/S20294847",
+      "bbox": [
+        2300.5,
+        2179.1,
+        2480.0,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S21062814",
+      "texte_balise": "warosu.ora/lit/thread/S21062814",
+      "bbox": [
+        2598.1,
+        2179.1,
+        2806.0,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "su.ora/lit/thread/S21439234",
+      "texte_balise": "su.ora/lit/thread/S21439234",
+      "bbox": [
+        2957.1,
+        2179.1,
+        3131.9,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "orc/it/thread/S2 429234",
+      "texte_balise": "orc/it/thread/S2 429234",
+      "bbox": [
+        2966.6,
+        2181.0,
+        3131.9,
+        2191.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20033650",
+      "texte_balise": "warosu.org/lit/thread/S20033650",
+      "bbox": [
+        321.2,
+        2181.4,
+        533.8,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19836708",
+      "texte_balise": "warosu.org/lit/thread/S19836708",
+      "bbox": [
+        647.2,
+        2181.4,
+        855.0,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20389359",
+      "texte_balise": "warosu.org/lit/thread/S20389359",
+      "bbox": [
+        1294.3,
+        2181.4,
+        1506.9,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "psllora/it/thread/S19932753",
+      "texte_balise": "psllora/it/thread/S19932753",
+      "bbox": [
+        1648.6,
+        2181.4,
+        1832.8,
+        2190.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosu.org/lit/thread/S21062814",
+      "texte_balise": "warosu.org/lit/thread/S21062814",
+      "bbox": [
+        2598.1,
+        2181.4,
+        2806.0,
+        2195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ToHie Coy Nisres,",
+      "texte_balise": "ToHie Coy Nisres,",
+      "bbox": [
+        2598.1,
+        2511.7,
+        2725.7,
+        2559.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "So Well Go No More a Roving",
+      "texte_balise": "So Well Go No More a Roving",
+      "bbox": [
+        1293.8,
+        2513.8,
+        1507.4,
+        2561.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Dreom Witin Dream",
+      "texte_balise": "A Dreom Witin Dream",
+      "bbox": [
+        1619.8,
+        2514.7,
+        1790.8,
+        2560.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Nymphis Reply to the Shepherd",
+      "texte_balise": "The Nymphis Reply to the Shepherd",
+      "bbox": [
+        321.2,
+        2516.0,
+        557.4,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fred Beouty",
+      "texte_balise": "Fred Beouty",
+      "bbox": [
+        1946.2,
+        2516.0,
+        2026.5,
+        2559.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Tihis londecape Before Me",
+      "texte_balise": "Tihis londecape Before Me",
+      "bbox": [
+        2919.3,
+        2516.0,
+        3098.8,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Red, Red Rose",
+      "texte_balise": "A Red, Red Rose",
+      "bbox": [
+        0.0,
+        2535.0,
+        108.6,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Astrophil and Stella 31: With how sad st...",
+      "texte_balise": "Astrophil and Stella 31: With how sad st...",
+      "bbox": [
+        647.2,
+        2535.0,
+        916.4,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Arundel Tomb",
+      "texte_balise": "An Arundel Tomb",
+      "bbox": [
+        973.1,
+        2535.0,
+        1091.2,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God's Grandeur",
+      "texte_balise": "God's Grandeur",
+      "bbox": [
+        2272.2,
+        2535.0,
+        2380.8,
+        2559.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sir Philip Sidney",
+      "texte_balise": "Sir Philip Sidney",
+      "bbox": [
+        647.2,
+        2558.9,
+        751.1,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nobert burns",
+      "texte_balise": "Nobert burns",
+      "bbox": [
+        0.0,
+        2563.6,
+        80.3,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sir wyalter waleah",
+      "texte_balise": "Sir wyalter waleah",
+      "bbox": [
+        321.2,
+        2563.6,
+        434.6,
+        2573.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "rhilip Larkin",
+      "texte_balise": "rhilip Larkin",
+      "bbox": [
+        968.4,
+        2563.6,
+        1048.7,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lord byror",
+      "texte_balise": "Lord byror",
+      "bbox": [
+        1294.3,
+        2563.6,
+        1365.2,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cagar Allan roe",
+      "texte_balise": "cagar Allan roe",
+      "bbox": [
+        1620.3,
+        2563.6,
+        1728.9,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hopkins",
+      "texte_balise": "Hopkins",
+      "bbox": [
+        1941.5,
+        2563.6,
+        1998.2,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hopkins",
+      "texte_balise": "Hopkins",
+      "bbox": [
+        2267.4,
+        2563.6,
+        2324.1,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andrew Marvel",
+      "texte_balise": "Andrew Marvel",
+      "bbox": [
+        2598.1,
+        2563.6,
+        2702.0,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jarah Mollana-bat",
+      "texte_balise": "Jarah Mollana-bat",
+      "bbox": [
+        2919.3,
+        2563.6,
+        3042.2,
+        2573.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/it/thread/S19883457",
+      "texte_balise": "warosu.org/it/thread/S19883457",
+      "bbox": [
+        1299.1,
+        2573.1,
+        1511.6,
+        2596.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu ora/lit/thread/S20636673",
+      "texte_balise": "varosu ora/lit/thread/S20636673",
+      "bbox": [
+        4.7,
+        2577.8,
+        207.8,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/it/thread/S1973219",
+      "texte_balise": "warosu ora/it/thread/S1973219",
+      "bbox": [
+        2272.2,
+        2577.8,
+        2475.3,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu oralitithread/S2029/0",
+      "texte_balise": "warosu oralitithread/S2029/0",
+      "bbox": [
+        321.2,
+        2582.5,
+        529.1,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu oralit/thread",
+      "texte_balise": "warosu oralit/thread",
+      "bbox": [
+        647.2,
+        2582.5,
+        855.0,
+        2592.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "warosu oralit/thread/s20084204",
+      "texte_balise": "warosu oralit/thread/s20084204",
+      "bbox": [
+        968.4,
+        2582.5,
+        1181.0,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/itithread/s00/430",
+      "texte_balise": "warosu ora/itithread/s00/430",
+      "bbox": [
+        1620.3,
+        2582.5,
+        1832.8,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu ora/it/thread/S2029020",
+      "texte_balise": "warosu ora/it/thread/S2029020",
+      "bbox": [
+        1946.2,
+        2582.5,
+        2154.1,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warosu orallit/thread/s20308003",
+      "texte_balise": "Warosu orallit/thread/s20308003",
+      "bbox": [
+        2598.1,
+        2582.5,
+        2806.0,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warosu oralitithread/s993930",
+      "texte_balise": "Warosu oralitithread/s993930",
+      "bbox": [
+        2919.3,
+        2582.5,
+        3127.2,
+        2592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sone 75",
+      "texte_balise": "Sone 75",
+      "bbox": [
+        2919.3,
+        2936.0,
+        2990.2,
+        2951.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "A Douahter ot Hve",
+      "texte_balise": "A Douahter ot Hve",
+      "bbox": [
+        -0.0,
+        2941.0,
+        118.1,
+        2951.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "O Contain Mv Contoinl",
+      "texte_balise": "O Contain Mv Contoinl",
+      "bbox": [
+        321.2,
+        2941.0,
+        486.6,
+        2951.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "On my First Son",
+      "texte_balise": "On my First Son",
+      "bbox": [
+        647.2,
+        2941.0,
+        751.1,
+        2951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oce on a Grecion Urn",
+      "texte_balise": "Oce on a Grecion Urn",
+      "bbox": [
+        973.1,
+        2941.0,
+        1119.5,
+        2951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hire andice",
+      "texte_balise": "Hire andice",
+      "bbox": [
+        1294.3,
+        2941.0,
+        1374.6,
+        2951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Composed upon Westminster Bridge",
+      "texte_balise": "Composed upon Westminster Bridge",
+      "bbox": [
+        1620.3,
+        2941.0,
+        1856.5,
+        2955.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-arewel. uncrotetu troitor",
+      "texte_balise": "-arewel. uncrotetu troitor",
+      "bbox": [
+        1946.2,
+        2941.0,
+        2121.0,
+        2951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Storm on the sand",
+      "texte_balise": "Storm on the sand",
+      "bbox": [
+        2272.2,
+        2941.0,
+        2395.0,
+        2951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blackberry-Picking",
+      "texte_balise": "Blackberry-Picking",
+      "bbox": [
+        2598.1,
+        2941.2,
+        2716.2,
+        2955.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seamus Heaney",
+      "texte_balise": "Seamus Heaney",
+      "bbox": [
+        2267.4,
+        2955.0,
+        2380.8,
+        2974.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seamus Heaney",
+      "texte_balise": "Seamus Heaney",
+      "bbox": [
+        2598.1,
+        2955.0,
+        2702.0,
+        2979.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christina Roccotti",
+      "texte_balise": "Christina Roccotti",
+      "bbox": [
+        0.0,
+        2960.0,
+        108.6,
+        2970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolt Whitmon",
+      "texte_balise": "Wolt Whitmon",
+      "bbox": [
+        321.2,
+        2960.0,
+        415.7,
+        2970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ron ancon",
+      "texte_balise": "Ron ancon",
+      "bbox": [
+        642.4,
+        2960.0,
+        722.7,
+        2970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lan Konte",
+      "texte_balise": "lan Konte",
+      "bbox": [
+        973.1,
+        2960.0,
+        1044.0,
+        2970.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "William Wordsworth",
+      "texte_balise": "William Wordsworth",
+      "bbox": [
+        1620.3,
+        2960.0,
+        1752.5,
+        2970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "inhn Drydor",
+      "texte_balise": "inhn Drydor",
+      "bbox": [
+        1946.2,
+        2960.0,
+        2026.5,
+        2970.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Fomun Sanser",
+      "texte_balise": "Fomun Sanser",
+      "bbox": [
+        2919.3,
+        2960.0,
+        3028.0,
+        2970.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "varosu.org/it/thread/S19806536",
+      "texte_balise": "varosu.org/it/thread/S19806536",
+      "bbox": [
+        4.7,
+        2974.2,
+        212.6,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20226835",
+      "texte_balise": "warosu.org/lt/thread/S20226835",
+      "bbox": [
+        321.2,
+        2974.2,
+        533.8,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20492275",
+      "texte_balise": "warosu.org/lit/thread/S20492275",
+      "bbox": [
+        647.2,
+        2974.2,
+        859.7,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S21371663",
+      "texte_balise": "warosu.org/lit/thread/S21371663",
+      "bbox": [
+        973.1,
+        2974.2,
+        1185.7,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20241346",
+      "texte_balise": "warosu.org/lt/thread/S20241346",
+      "bbox": [
+        1299.1,
+        2974.2,
+        1506.9,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19755332",
+      "texte_balise": "warosu.org/lit/thread/S19755332",
+      "bbox": [
+        1620.3,
+        2974.2,
+        1832.8,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20518699",
+      "texte_balise": "warosu.org/lt/thread/S20518699",
+      "bbox": [
+        1946.2,
+        2974.2,
+        2158.8,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20413744",
+      "texte_balise": "warosu.org/lit/thread/S20413744",
+      "bbox": [
+        2272.2,
+        2974.2,
+        2484.7,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/it/thread/S20333752",
+      "texte_balise": "warosu.org/it/thread/S20333752",
+      "bbox": [
+        2598.1,
+        2974.2,
+        2810.7,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lt/thread/S20276508",
+      "texte_balise": "warosu.org/lt/thread/S20276508",
+      "bbox": [
+        2924.1,
+        2974.2,
+        3131.9,
+        2997.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On His Seventy-fifth Birthday",
+      "texte_balise": "On His Seventy-fifth Birthday",
+      "bbox": [
+        0.0,
+        3340.2,
+        184.2,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Do not go gentle into that good nigh",
+      "texte_balise": "Do not go gentle into that good nigh",
+      "bbox": [
+        325.9,
+        3340.2,
+        557.4,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ion at Farth",
+      "texte_balise": "The Ion at Farth",
+      "bbox": [
+        647.2,
+        3340.2,
+        751.1,
+        3349.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sonnet 29: When, in disgrace with fortun.",
+      "texte_balise": "Sonnet 29: When, in disgrace with fortun.",
+      "bbox": [
+        973.1,
+        3340.2,
+        1237.6,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Emperor of Ice-Cream",
+      "texte_balise": "The Emperor of Ice-Cream",
+      "bbox": [
+        1294.3,
+        3340.2,
+        1469.1,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My prime of youth is but a frost of care..",
+      "texte_balise": "My prime of youth is but a frost of care..",
+      "bbox": [
+        1620.3,
+        3340.2,
+        1880.1,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stand Whose list",
+      "texte_balise": "Stand Whose list",
+      "bbox": [
+        1946.2,
+        3340.2,
+        2059.6,
+        3349.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My Last Duchess",
+      "texte_balise": "My Last Duchess",
+      "bbox": [
+        2598.1,
+        3340.2,
+        2706.8,
+        3354.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ring Out Your Balld",
+      "texte_balise": "Ring Out Your Balld",
+      "bbox": [
+        2919.3,
+        3340.2,
+        3046.9,
+        3349.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Walter Savage Landor",
+      "texte_balise": "Walter Savage Landor",
+      "bbox": [
+        0.0,
+        3354.4,
+        146.4,
+        3382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Shakespeare",
+      "texte_balise": "William Shakespeare",
+      "bbox": [
+        973.1,
+        3354.4,
+        1110.1,
+        3382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chidiock Tichborne",
+      "texte_balise": "Chidiock Tichborne",
+      "bbox": [
+        1620.3,
+        3354.4,
+        1747.8,
+        3378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sir Thomas Wyatt",
+      "texte_balise": "Sir Thomas Wyatt",
+      "bbox": [
+        1946.2,
+        3354.4,
+        2064.3,
+        3382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sir Philip Sidne",
+      "texte_balise": "Sir Philip Sidne",
+      "bbox": [
+        2924.1,
+        3358.7,
+        3018.5,
+        3378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".org/lit/thread/S20676127",
+      "texte_balise": ".org/lit/thread/S20676127",
+      "bbox": [
+        1015.6,
+        3378.0,
+        1181.0,
+        3396.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".ora/lit/thread/S20455660",
+      "texte_balise": ".ora/lit/thread/S20455660",
+      "bbox": [
+        1662.8,
+        3378.0,
+        1828.1,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S2040328",
+      "texte_balise": "warosu.org/lit/thread/S2040328",
+      "bbox": [
+        2924.1,
+        3378.0,
+        3122.5,
+        3396.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "osu.orq/lit/thread/S2060|246",
+      "texte_balise": "osu.orq/lit/thread/S2060|246",
+      "bbox": [
+        23.6,
+        3382.7,
+        207.8,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S20304941",
+      "texte_balise": "warosu.ora/lit/thread/S20304941",
+      "bbox": [
+        321.2,
+        3382.7,
+        529.1,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/5|9/10090",
+      "texte_balise": "warosu.ora/lit/thread/5|9/10090",
+      "bbox": [
+        647.2,
+        3382.7,
+        855.0,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.ora/lit/thread/S201/922",
+      "texte_balise": "varosu.ora/lit/thread/S201/922",
+      "bbox": [
+        1303.8,
+        3382.7,
+        1497.5,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.ora/lit/thread/S20324423",
+      "texte_balise": "warosu.ora/lit/thread/S20324423",
+      "bbox": [
+        1946.2,
+        3382.7,
+        2154.1,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".org/lit/thread/S20/ 22631",
+      "texte_balise": ".org/lit/thread/S20/ 22631",
+      "bbox": [
+        2314.7,
+        3382.7,
+        2475.3,
+        3392.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "arosu.ora/lit/thread/S2|3|3328",
+      "texte_balise": "arosu.ora/lit/thread/S2|3|3328",
+      "bbox": [
+        2607.6,
+        3382.7,
+        2801.2,
+        3392.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Girl",
+      "texte_balise": "& Girl",
+      "bbox": [
+        321.2,
+        3718.2,
+        368.5,
+        3760.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "no my heart on i the kills",
+      "texte_balise": "no my heart on i the kills",
+      "bbox": [
+        647.2,
+        3718.2,
+        836.1,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spring the sweet spring",
+      "texte_balise": "Spring the sweet spring",
+      "bbox": [
+        973.1,
+        3718.2,
+        1138.4,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "She Spring",
+      "texte_balise": "She Spring",
+      "bbox": [
+        1625.0,
+        3718.2,
+        1695.9,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Laughing Song",
+      "texte_balise": "Laughing Song",
+      "bbox": [
+        1941.5,
+        3718.2,
+        2050.1,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Piam Memoriam",
+      "texte_balise": "In Piam Memoriam",
+      "bbox": [
+        2272.2,
+        3732.3,
+        2399.7,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Slumber did my Spirit Seal",
+      "texte_balise": "A Slumber did my Spirit Seal",
+      "bbox": [
+        2593.4,
+        3732.3,
+        2782.3,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christ's Nativity",
+      "texte_balise": "Christ's Nativity",
+      "bbox": [
+        2919.3,
+        3732.3,
+        3028.0,
+        3760.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Carew",
+      "texte_balise": "Thomas Carew",
+      "bbox": [
+        1620.3,
+        3760.4,
+        1719.5,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geoffrey Hill",
+      "texte_balise": "Geoffrey Hill",
+      "bbox": [
+        2272.2,
+        3760.4,
+        2357.2,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "colerage",
+      "texte_balise": "colerage",
+      "bbox": [
+        -0.0,
+        3765.4,
+        61.4,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ezra round",
+      "texte_balise": "Ezra round",
+      "bbox": [
+        321.2,
+        3765.4,
+        396.8,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "_A. C. nousman",
+      "texte_balise": "_A. C. nousman",
+      "bbox": [
+        642.4,
+        3765.4,
+        741.6,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "inomas Ivasne",
+      "texte_balise": "inomas Ivasne",
+      "bbox": [
+        973.1,
+        3765.4,
+        1067.6,
+        3774.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Leonie Adams",
+      "texte_balise": "Leonie Adams",
+      "bbox": [
+        1294.3,
+        3765.4,
+        1388.8,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "nenry vaughan",
+      "texte_balise": "nenry vaughan",
+      "bbox": [
+        2919.3,
+        3765.4,
+        3023.3,
+        3774.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.org/lit/thread/S19789832",
+      "texte_balise": "varosu.org/lit/thread/S19789832",
+      "bbox": [
+        4.7,
+        3779.6,
+        207.8,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19778297",
+      "texte_balise": "warosu.org/lit/thread/S19778297",
+      "bbox": [
+        647.2,
+        3779.6,
+        855.0,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20079014",
+      "texte_balise": "warosu.org/lit/thread/S20079014",
+      "bbox": [
+        1946.2,
+        3779.6,
+        2158.8,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20057973",
+      "texte_balise": "warosu.org/lit/thread/S20057973",
+      "bbox": [
+        2267.4,
+        3779.6,
+        2480.0,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/Thread/szU3/000",
+      "texte_balise": "warosu.org/lit/Thread/szU3/000",
+      "bbox": [
+        321.2,
+        3784.3,
+        529.1,
+        3793.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Narosu.org/liT/Thread/sZ0/431",
+      "texte_balise": "Narosu.org/liT/Thread/sZ0/431",
+      "bbox": [
+        977.8,
+        3784.3,
+        1176.2,
+        3793.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "org/lit/Thread/s 19/04230",
+      "texte_balise": "org/lit/Thread/s 19/04230",
+      "bbox": [
+        1667.5,
+        3784.3,
+        1828.1,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/Thread/s|9Y2/.40z",
+      "texte_balise": "warosu.org/lit/Thread/s|9Y2/.40z",
+      "bbox": [
+        2598.1,
+        3784.3,
+        2806.0,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warosuorg/lit/Thread/s< | 431/02",
+      "texte_balise": "Warosuorg/lit/Thread/s< | 431/02",
+      "bbox": [
+        2919.3,
+        3784.3,
+        3131.9,
+        3793.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This Koom",
+      "texte_balise": "This Koom",
+      "bbox": [
+        0.0,
+        4143.0,
+        61.4,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Sonnets: batter my heart, three-per..",
+      "texte_balise": "Holy Sonnets: batter my heart, three-per..",
+      "bbox": [
+        316.5,
+        4143.0,
+        590.5,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Love and Sleep",
+      "texte_balise": "Love and Sleep",
+      "bbox": [
+        968.4,
+        4143.0,
+        1072.3,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stopping by Woods on a snowy Evening",
+      "texte_balise": "Stopping by Woods on a snowy Evening",
+      "bbox": [
+        1620.3,
+        4143.0,
+        1884.8,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ode on Solitude",
+      "texte_balise": "Ode on Solitude",
+      "bbox": [
+        1941.5,
+        4143.0,
+        2054.9,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "And death shall have no dominion",
+      "texte_balise": "And death shall have no dominion",
+      "bbox": [
+        2593.4,
+        4143.0,
+        2815.4,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daisy lime",
+      "texte_balise": "Daisy lime",
+      "bbox": [
+        2914.6,
+        4143.0,
+        2990.2,
+        4153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Choices",
+      "texte_balise": "Choices",
+      "bbox": [
+        647.2,
+        4143.3,
+        699.1,
+        4152.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Puritan:",
+      "texte_balise": "Puritan:",
+      "bbox": [
+        1294.3,
+        4143.3,
+        1346.3,
+        4152.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Uzymandias",
+      "texte_balise": "Uzymandias",
+      "bbox": [
+        2267.4,
+        4143.3,
+        2357.2,
+        4152.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Ashbery",
+      "texte_balise": "John Ashbery",
+      "bbox": [
+        0.0,
+        4162.0,
+        85.0,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Donne",
+      "texte_balise": "John Donne",
+      "bbox": [
+        321.2,
+        4162.0,
+        401.5,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ess ballaaher",
+      "texte_balise": "ess ballaaher",
+      "bbox": [
+        647.2,
+        4162.0,
+        741.6,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Wilbur",
+      "texte_balise": "Richard Wilbur",
+      "bbox": [
+        1294.3,
+        4162.0,
+        1388.8,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kobert Frost",
+      "texte_balise": "Kobert Frost",
+      "bbox": [
+        1620.3,
+        4162.0,
+        1700.6,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexander Pone",
+      "texte_balise": "Alexander Pone",
+      "bbox": [
+        1946.2,
+        4162.0,
+        2050.1,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Percy bysshe Shelley",
+      "texte_balise": "Percy bysshe Shelley",
+      "bbox": [
+        2267.4,
+        4162.0,
+        2404.4,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dylan thomas",
+      "texte_balise": "Dylan thomas",
+      "bbox": [
+        2593.4,
+        4162.0,
+        2687.9,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mariorie Picktha",
+      "texte_balise": "Mariorie Picktha",
+      "bbox": [
+        2919.3,
+        4162.0,
+        3032.7,
+        4172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Swinburne",
+      "texte_balise": "Swinburne",
+      "bbox": [
+        973.1,
+        4162.2,
+        1039.2,
+        4171.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "varosu.org/lit/thread/S20399090",
+      "texte_balise": "varosu.org/lit/thread/S20399090",
+      "bbox": [
+        4.7,
+        4181.1,
+        203.1,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20362802",
+      "texte_balise": "warosu.org/lit/thread/S20362802",
+      "bbox": [
+        321.2,
+        4181.1,
+        529.1,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20765416",
+      "texte_balise": "warosu.org/lit/thread/S20765416",
+      "bbox": [
+        647.2,
+        4181.1,
+        855.0,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20173781",
+      "texte_balise": "warosu.org/lit/thread/S20173781",
+      "bbox": [
+        973.1,
+        4181.1,
+        1181.0,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19704786",
+      "texte_balise": "warosu.org/lit/thread/S19704786",
+      "bbox": [
+        1299.1,
+        4181.1,
+        1506.9,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lif/thread/S19668629",
+      "texte_balise": "warosu.org/lif/thread/S19668629",
+      "bbox": [
+        1620.3,
+        4181.1,
+        1828.1,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S19921909",
+      "texte_balise": "warosu.org/lit/thread/S19921909",
+      "bbox": [
+        1946.2,
+        4181.1,
+        2154.1,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20211399",
+      "texte_balise": "warosu.org/lit/thread/S20211399",
+      "bbox": [
+        2272.2,
+        4181.1,
+        2480.0,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20394037",
+      "texte_balise": "warosu.org/lit/thread/S20394037",
+      "bbox": [
+        2598.1,
+        4181.1,
+        2801.2,
+        4195.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warosu.org/lit/thread/S20152791",
+      "texte_balise": "warosu.org/lit/thread/S20152791",
+      "bbox": [
+        2919.3,
+        4181.1,
+        3127.2,
+        4195.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

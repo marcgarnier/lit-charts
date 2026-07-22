@@ -1,0 +1,234 @@
+{
+  "fichier": "17_Meme Poetry.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:34.644515+00:00",
+  "duree_s": 0.3,
+  "taille_origine": [
+    905,
+    613
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 20,
+  "lignes": [
+    {
+      "texte": "official /lit/ meme trilogy",
+      "texte_balise": "official /lit/ meme trilogy",
+      "bbox": [
+        253.7,
+        20.0,
+        667.3,
+        57.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POETRY EDITION",
+      "texte_balise": "POETRY EDITION",
+      "bbox": [
+        101.9,
+        63.9,
+        787.1,
+        131.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POEMAS",
+      "texte_balise": "POEMAS",
+      "bbox": [
+        657.0,
+        172.8,
+        779.4,
+        206.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        34.0,
+        179.7,
+        157.8,
+        225.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETOS",
+      "texte_balise": "COMPLETOS",
+      "bbox": [
+        631.1,
+        204.8,
+        803.3,
+        240.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "STÉPHANE MALLARME",
+      "texte_balise": "STÉPHANE MALLARME",
+      "bbox": [
+        389.6,
+        233.6,
+        509.4,
+        243.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CANTOS",
+      "texte_balise": "CANTOS",
+      "bbox": [
+        32.0,
+        235.6,
+        277.7,
+        285.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DE ALBERTO",
+      "texte_balise": "DE ALBERTO",
+      "bbox": [
+        625.1,
+        238.3,
+        807.3,
+        270.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAEIRO",
+      "texte_balise": "CAEIRO",
+      "bbox": [
+        660.8,
+        267.7,
+        773.6,
+        301.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "UN COUP DE DÉS",
+      "texte_balise": "UN COUP DE DÉS",
+      "bbox": [
+        351.6,
+        271.6,
+        549.4,
+        293.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        32.0,
+        291.5,
+        111.9,
+        339.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JAMAIS N'ABOLIRA",
+      "texte_balise": "JAMAIS N'ABOLIRA",
+      "bbox": [
+        347.6,
+        295.5,
+        547.4,
+        313.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FERNANDO PESSON",
+      "texte_balise": "FERNANDO PESSON",
+      "bbox": [
+        663.3,
+        309.5,
+        769.2,
+        323.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE HASARD",
+      "texte_balise": "LE HASARD",
+      "bbox": [
+        389.6,
+        315.5,
+        511.4,
+        333.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEXTO INTEGRAL",
+      "texte_balise": "TEXTO INTEGRAL",
+      "bbox": [
+        687.2,
+        325.5,
+        747.2,
+        335.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "COM COMENTÁRIOS",
+      "texte_balise": "COM COMENTÁRIOS",
+      "bbox": [
+        681.2,
+        335.5,
+        751.2,
+        345.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EZRA",
+      "texte_balise": "EZRA",
+      "bbox": [
+        29.7,
+        346.7,
+        196.0,
+        398.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POÊME",
+      "texte_balise": "POÊME",
+      "bbox": [
+        433.5,
+        353.4,
+        467.5,
+        363.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POUND",
+      "texte_balise": "POUND",
+      "bbox": [
+        30.0,
+        405.3,
+        245.7,
+        455.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NOUVELLE REYCE FRANÇAIS",
+      "texte_balise": "NOUVELLE REYCE FRANÇAIS",
+      "bbox": [
+        379.6,
+        481.2,
+        519.4,
+        487.2
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

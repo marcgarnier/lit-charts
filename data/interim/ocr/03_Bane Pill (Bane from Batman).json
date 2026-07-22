@@ -1,0 +1,289 @@
+{
+  "fichier": "03_Bane Pill (Bane from Batman).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:42.949187+00:00",
+  "duree_s": 0.3,
+  "taille_origine": [
+    1000,
+    944
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 25,
+  "lignes": [
+    {
+      "texte": "BANE PILL",
+      "texte_balise": "BANE PILL",
+      "bbox": [
+        379.2,
+        95.6,
+        608.3,
+        133.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Starting",
+      "texte_balise": "Starting",
+      "bbox": [
+        66.0,
+        287.8,
+        180.0,
+        322.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nto tocke",
+      "texte_balise": "Nto tocke",
+      "bbox": [
+        508.0,
+        288.0,
+        546.0,
+        298.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BATMAN",
+      "texte_balise": "BATMAN",
+      "bbox": [
+        608.0,
+        288.0,
+        718.0,
+        334.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mbsb..",
+      "texte_balise": "Mbsb..",
+      "bbox": [
+        851.3,
+        289.1,
+        902.7,
+        302.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CIAS",
+      "texte_balise": "CIAS",
+      "bbox": [
+        246.0,
+        310.0,
+        364.0,
+        360.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Strength",
+      "texte_balise": "Strength",
+      "bbox": [
+        83.8,
+        313.3,
+        202.2,
+        350.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fundamentals of",
+      "texte_balise": "Fundamentals of",
+      "bbox": [
+        456.0,
+        314.0,
+        544.0,
+        326.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AERODYNAMICS",
+      "texte_balise": "AERODYNAMICS",
+      "bbox": [
+        416.0,
+        326.0,
+        546.0,
+        344.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic Barbell Training",
+      "texte_balise": "Basic Barbell Training",
+      "bbox": [
+        68.0,
+        346.0,
+        200.0,
+        362.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECRET",
+      "texte_balise": "SECRET",
+      "bbox": [
+        247.9,
+        357.6,
+        362.1,
+        394.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jed Edition",
+      "texte_balise": "Jed Edition",
+      "bbox": [
+        148.0,
+        360.0,
+        184.0,
+        368.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mark Ripperoe",
+      "texte_balise": "Mark Ripperoe",
+      "bbox": [
+        82.0,
+        372.0,
+        144.0,
+        384.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPERATIONS",
+      "texte_balise": "OPERATIONS",
+      "bbox": [
+        250.0,
+        391.9,
+        364.0,
+        416.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STRATEGIC",
+      "texte_balise": "STRATEGIC",
+      "bbox": [
+        766.0,
+        408.0,
+        884.0,
+        426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLANNING",
+      "texte_balise": "PLANNING",
+      "bbox": [
+        801.9,
+        423.4,
+        902.1,
+        442.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARRY ROSITZKE",
+      "texte_balise": "HARRY ROSITZKE",
+      "bbox": [
+        256.0,
+        430.0,
+        350.0,
+        446.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John D. Anderson, je",
+      "texte_balise": "John D. Anderson, je",
+      "bbox": [
+        418.0,
+        440.0,
+        486.0,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for Results",
+      "texte_balise": "for Results",
+      "bbox": [
+        848.0,
+        440.0,
+        904.0,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Whailodekely MuMSHeroek",
+      "texte_balise": "Whailodekely MuMSHeroek",
+      "bbox": [
+        250.0,
+        448.0,
+        362.0,
+        458.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "> Is a big guy",
+      "texte_balise": "> Is a big guy",
+      "bbox": [
+        402.0,
+        592.0,
+        548.0,
+        618.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "> Knows that what really matters is the plan",
+      "texte_balise": "> Knows that what really matters is the plan",
+      "bbox": [
+        402.0,
+        620.0,
+        874.0,
+        646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "> Not afraid of getting himself caught",
+      "texte_balise": "> Not afraid of getting himself caught",
+      "bbox": [
+        402.0,
+        646.0,
+        810.0,
+        674.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "> Expert plane-crasher",
+      "texte_balise": "> Expert plane-crasher",
+      "bbox": [
+        402.0,
+        676.0,
+        642.0,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "> Is in charge",
+      "texte_balise": "> Is in charge",
+      "bbox": [
+        401.7,
+        702.5,
+        548.3,
+        727.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "fichier": "05_Starter Kit 5.jpeg",
+  "date": "2026-07-21T19:28:36.398014+00:00",
+  "taille_origine": [
+    728,
+    2480
+  ],
+  "hauteur_ligne_mediane": 21.8,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 40,
+  "nb_noeuds": 74,
+  "tiers": [
+    "Initiate",
+    "CORMAC",
+    "James",
+    "Virginia",
+    "Master",
+    "WOMEN"
+  ],
+  "intitules_isoles": [
+    "Initiate",
+    "Soldier",
+    "Knight",
+    "Woolf",
+    "Master",
+    "(ascension)",
+    "James",
+    "Joyce",
+    "Finnegans"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        103.4,
+        74.9,
+        584.0,
+        176.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "a beginner's guide to",
+          "auteur": "/lit/core",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Initiate",
+      "bbox": [
+        241.3,
+        317.1,
+        472.5,
+        486.6
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "ANTHONY",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "BURGESS",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "A CLOCKWORK",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "ORANGE",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "CRIME",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "4- AND",
+          "auteur": null,
+          "tier": "Initiate"
+        },
+        {
+          "titre": "PUNISHMENT",
+          "auteur": null,
+          "tier": "Initiate"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        486.7,
+        360.9,
+        614.4,
+        425.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HESSE",
+          "auteur": "STEPPENWOLF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        168.3,
+        451.7,
+        225.1,
+        472.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Stranger",
+          "auteur": "ALDER CANUT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        231.2,
+        557.6,
+        354.9,
+        596.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRANEN WORLD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        127.8,
+        589.6,
+        200.8,
+        663.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CEONE DIVELL",
+          "auteur": "1984",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        361.0,
+        645.8,
+        611.5,
+        750.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ON THE ROAD",
+          "auteur": "-5",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        233.2,
+        727.5,
+        346.8,
+        752.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ALDOU HUXLEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        297.9,
+        785.8,
+        415.9,
+        818.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Soldier",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        125.7,
+        833.4,
+        192.6,
+        857.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FINA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        101.2,
+        913.7,
+        223.3,
+        1014.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DAVID",
+          "auteur": "FOSTER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        553.6,
+        932.7,
+        608.4,
+        977.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "•Dr",
+          "auteur": "49",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        352.8,
+        938.8,
+        476.5,
+        1101.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Vixeimir",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Nabokov",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Lolita",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "па",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CORMAC",
+      "bbox": [
+        480.4,
+        1029.9,
+        610.4,
+        1218.9
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "I CORTEY",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "BLOOD",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "MANDIAN",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "MERIDIAN",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "UNLIKE ANTTHING",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "HAVE READIN",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "RECENT YEARS",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "RECENT YEARS,",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "AN EXTRAGROIHARY",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "BATH TAKENG",
+          "auteur": null,
+          "tier": "CORMAC"
+        },
+        {
+          "titre": "SHEN BANTIES",
+          "auteur": null,
+          "tier": "CORMAC"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        131.8,
+        1050.2,
+        217.0,
+        1070.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jorge Luia Barges",
+          "auteur": "Labyrinths",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "James",
+      "bbox": [
+        222.9,
+        1090.3,
+        310.4,
+        1156.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Joyce",
+          "auteur": null,
+          "tier": "James"
+        },
+        {
+          "titre": "JOyce",
+          "auteur": null,
+          "tier": "James"
+        },
+        {
+          "titre": "Dubliners",
+          "auteur": null,
+          "tier": "James"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        393.4,
+        1164.1,
+        431.9,
+        1178.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SARTN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        304.2,
+        1251.0,
+        421.8,
+        1287.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Knight",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        484.7,
+        1312.1,
+        541.4,
+        1358.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        255.5,
+        1338.2,
+        326.5,
+        1395.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PALE",
+          "auteur": "PRE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        141.8,
+        1414.8,
+        196.9,
+        1428.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Moby Dick",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        369.0,
+        1441.7,
+        494.8,
+        1474.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "\"THOMAS PINCHON*",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        243.3,
+        1453.7,
+        336.6,
+        1464.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "VLADIMIR VAROKOY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        227.1,
+        1524.7,
+        348.9,
+        1568.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNDER THE»",
+          "auteur": "VOLCANO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.5,
+        1531.1,
+        190.6,
+        1596.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WAR",
+          "auteur": "Ttad.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Virginia",
+      "bbox": [
+        494.7,
+        1557.2,
+        616.6,
+        1634.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Woolf",
+          "auteur": null,
+          "tier": "Virginia"
+        },
+        {
+          "titre": "The Waves",
+          "auteur": null,
+          "tier": "Virginia"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        249.4,
+        1624.3,
+        326.5,
+        1650.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MALCOLM",
+          "auteur": "+ LOWRY +",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.5,
+        1638.5,
+        188.6,
+        1648.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LEO TOLSTOY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Master",
+      "bbox": [
+        214.8,
+        1721.2,
+        460.3,
+        1881.9
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "THOMAS MAN",
+          "auteur": null,
+          "tier": "Master"
+        },
+        {
+          "titre": "THE MAGIC",
+          "auteur": null,
+          "tier": "Master"
+        },
+        {
+          "titre": "MOUNIAIN",
+          "auteur": null,
+          "tier": "Master"
+        },
+        {
+          "titre": "GRADITT'S",
+          "auteur": null,
+          "tier": "Master"
+        },
+        {
+          "titre": "RAINBUW",
+          "auteur": null,
+          "tier": "Master"
+        },
+        {
+          "titre": "HOMAS PYNCHON",
+          "auteur": null,
+          "tier": "Master"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.3,
+        1798.5,
+        204.9,
+        1823.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ULYSSES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        504.9,
+        1869.7,
+        557.7,
+        1894.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ano:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Schmidt:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        575.9,
+        1869.7,
+        618.5,
+        1894.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Zettels",
+          "auteur": "Traum",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        107.5,
+        1914.3,
+        196.7,
+        1926.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JAMES JOYCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        364.6,
+        1967.8,
+        458.7,
+        1985.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Recognitions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WOMEN",
+      "bbox": [
+        91.0,
+        1975.1,
+        215.0,
+        2156.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "ANUMAN",
+          "auteur": null,
+          "tier": "WOMEN"
+        },
+        {
+          "titre": "A NOVELBY",
+          "auteur": null,
+          "tier": "WOMEN"
+        },
+        {
+          "titre": "*JOSEPHA",
+          "auteur": null,
+          "tier": "WOMEN"
+        },
+        {
+          "titre": "M-ELROY",
+          "auteur": null,
+          "tier": "WOMEN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        249.4,
+        1998.9,
+        332.6,
+        2046.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "§wonn'o Woy",
+          "auteur": "Marcel proust",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        361.0,
+        2033.9,
+        393.4,
+        2165.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILLIAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        393.4,
+        2046.1,
+        421.8,
+        2163.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GADDIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        271.7,
+        2201.8,
+        444.2,
+        2235.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "(ascension)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        298.7,
+        2293.8,
+        394.5,
+        2376.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "James",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Joyce",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Finnegans",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Wake",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

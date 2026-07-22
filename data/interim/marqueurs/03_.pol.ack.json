@@ -1,0 +1,71 @@
+{
+  "fichier": "03_.pol.ack.jpeg",
+  "date": "2026-07-21T19:30:37.327310+00:00",
+  "nb_lignes_texte": 298,
+  "nb_caracteres": 7669,
+  "registres_actifs": [
+    "niveaux_nommes",
+    "hierarchie_valeur",
+    "difficulte",
+    "recompense",
+    "injonction"
+  ],
+  "score_total": 14,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 4,
+      "extraits": [
+        "Tier 4: Choices, choices...",
+        "Tier 1: Books, how do they work?",
+        "Tier 2: Political Boogaloo",
+        "Tier 3: We Need To Go Deeper"
+      ]
+    },
+    "hierarchie_valeur": {
+      "occurrences": 1,
+      "extraits": [
+        "A.K.A. babby's first politics, these are accessible and fundamental works which can help introduce you to the political "
+      ]
+    },
+    "point_entree": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "difficulte": {
+      "occurrences": 2,
+      "extraits": [
+        "a little difficult.",
+        "A tip: since some of these books may be difficult to read unless you already have a good philosophical preparation, buy "
+      ]
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 3,
+      "extraits": [
+        "Congratulations, you are now a bona-fide politically conscious person! Now, it's time for you to start reading up on the",
+        "Congratulations, you are now a bona-fide politically conscious person! Now, it's time for you to start reading up on the",
+        "Dialectic of Enlightenment"
+      ]
+    },
+    "injonction": {
+      "occurrences": 4,
+      "extraits": [
+        "Western philosophical tradition: you don't have to read them all, but the more you read, the better.",
+        "By now, you should be literate enought when it comes to politics and philosophy to have formed an idea of your own about",
+        "However, it should be underlined that Marx's writings, and the",
+        "key Marxist concept of class struggle. But you should know this"
+      ]
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

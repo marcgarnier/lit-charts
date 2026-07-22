@@ -1,0 +1,2566 @@
+{
+  "fichier": "03_Beowulf.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:46.278927+00:00",
+  "duree_s": 3.3,
+  "taille_origine": [
+    1600,
+    2500
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 232,
+  "lignes": [
+    {
+      "texte": "WHICH VERSION OF BEOWULF SHOULD I READ?",
+      "texte_balise": "WHICH VERSION OF BEOWULF SHOULD I READ?",
+      "bbox": [
+        60.5,
+        20.9,
+        1537.2,
+        74.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Some common editions compared on lines 544-573",
+      "texte_balise": "Some common editions compared on lines 544-573",
+      "bbox": [
+        341.9,
+        99.9,
+        1241.9,
+        139.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recused",
+      "texte_balise": "Recused",
+      "bbox": [
+        323.2,
+        160.3,
+        371.9,
+        202.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        315.9,
+        173.0,
+        360.8,
+        212.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEOWULF",
+      "texte_balise": "BEOWULF",
+      "bbox": [
+        1218.2,
+        174.3,
+        1449.2,
+        220.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEAMUS HEANEY",
+      "texte_balise": "SEAMUS HEANEY",
+      "bbox": [
+        1241.9,
+        227.7,
+        1425.6,
+        244.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEOWULF",
+      "texte_balise": "BEOWULF",
+      "bbox": [
+        141.8,
+        341.4,
+        358.2,
+        388.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An EdITion",
+      "texte_balise": "An EdITion",
+      "bbox": [
+        197.7,
+        420.6,
+        297.7,
+        435.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bruce Minchell and Fred C. Rebinion",
+      "texte_balise": "Bruce Minchell and Fred C. Rebinion",
+      "bbox": [
+        158.1,
+        453.0,
+        337.2,
+        467.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEAMUS HEANEY",
+      "texte_balise": "SEAMUS HEANEY",
+      "bbox": [
+        1255.8,
+        560.0,
+        1427.9,
+        581.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MITCHELL & ROBINSON",
+      "texte_balise": "MITCHELL & ROBINSON",
+      "bbox": [
+        148.8,
+        562.0,
+        383.7,
+        583.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROY LIUZZA",
+      "texte_balise": "ROY LIUZZA",
+      "bbox": [
+        760.5,
+        564.7,
+        879.1,
+        583.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Old English edition with full glossary.",
+      "texte_balise": "Old English edition with full glossary.",
+      "bbox": [
+        90.7,
+        608.9,
+        446.5,
+        632.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The one everyone reads. Probably",
+      "texte_balise": "The one everyone reads. Probably",
+      "bbox": [
+        1179.1,
+        608.9,
+        1507.0,
+        630.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The most accurate translation available.",
+      "texte_balise": "The most accurate translation available.",
+      "bbox": [
+        632.6,
+        611.0,
+        1011.6,
+        632.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A dedicated student can probably learn to read",
+      "texte_balise": "A dedicated student can probably learn to read",
+      "bbox": [
+        46.5,
+        634.0,
+        490.7,
+        653.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "provides the most pleasure,",
+      "texte_balise": "provides the most pleasure,",
+      "bbox": [
+        1211.6,
+        634.0,
+        1479.1,
+        655.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A little less exciting to read than Heaney",
+      "texte_balise": "A little less exciting to read than Heaney",
+      "bbox": [
+        630.2,
+        636.8,
+        1011.6,
+        655.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "this level of OE after about 3-5 months of study.",
+      "texte_balise": "this level of OE after about 3-5 months of study.",
+      "bbox": [
+        39.5,
+        657.7,
+        497.7,
+        676.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "but not very accurate to the original.",
+      "texte_balise": "but not very accurate to the original.",
+      "bbox": [
+        1174.4,
+        657.7,
+        1518.6,
+        676.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "but preferable for close reading and",
+      "texte_balise": "but preferable for close reading and",
+      "bbox": [
+        648.8,
+        660.0,
+        990.7,
+        681.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For that, try Baker's Introduction to Old English",
+      "texte_balise": "For that, try Baker's Introduction to Old English",
+      "bbox": [
+        41.9,
+        680.9,
+        495.3,
+        704.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sometimes called \"the Heaney-Wulf\"",
+      "texte_balise": "Sometimes called \"the Heaney-Wulf\"",
+      "bbox": [
+        1172.1,
+        680.9,
+        1518.6,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "academic work. Good footnotes. Get this if you",
+      "texte_balise": "academic work. Good footnotes. Get this if you",
+      "bbox": [
+        595.3,
+        683.0,
+        1044.2,
+        704.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or M&R's Guide to Old English.",
+      "texte_balise": "or M&R's Guide to Old English.",
+      "bbox": [
+        118.6,
+        704.0,
+        416.3,
+        725.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by those who think Heaney's poetic stylings",
+      "texte_balise": "by those who think Heaney's poetic stylings",
+      "bbox": [
+        1137.2,
+        704.0,
+        1555.8,
+        727.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "want to be sure what the Beowulf poet actually said.",
+      "texte_balise": "want to be sure what the Beowulf poet actually said.",
+      "bbox": [
+        572.1,
+        708.8,
+        1069.8,
+        727.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(included for comparison purposes)",
+      "texte_balise": "(included for comparison purposes)",
+      "bbox": [
+        97.7,
+        729.7,
+        441.9,
+        751.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "distort or embellish too much.",
+      "texte_balise": "distort or embellish too much.",
+      "bbox": [
+        1204.7,
+        729.7,
+        1486.0,
+        746.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Đã wit tsomne on sa waeron",
+      "texte_balise": "Đã wit tsomne on sa waeron",
+      "bbox": [
+        120.9,
+        764.6,
+        407.0,
+        781.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "'We two were together on the sea",
+      "texte_balise": "'We two were together on the sea",
+      "bbox": [
+        648.8,
+        769.0,
+        918.6,
+        788.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Shoulder to shoulder, we struggled on",
+      "texte_balise": "\"Shoulder to shoulder, we struggled on",
+      "bbox": [
+        1174.4,
+        769.0,
+        1486.0,
+        788.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "op pat unc flod tödraf",
+      "texte_balise": "op pat unc flod tödraf",
+      "bbox": [
+        232.4,
+        785.4,
+        423.5,
+        806.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fif nihta fyrst",
+      "texte_balise": "fif nihta fyrst",
+      "bbox": [
+        97.7,
+        787.8,
+        204.7,
+        804.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for five nights, until the flood drove us apart,",
+      "texte_balise": "for five nights, until the flood drove us apart,",
+      "bbox": [
+        620.9,
+        787.8,
+        974.4,
+        806.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for five nights, until the long flow",
+      "texte_balise": "for five nights, until the long flow",
+      "bbox": [
+        1148.8,
+        790.0,
+        1409.3,
+        809.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wado weallende",
+      "texte_balise": "wado weallende",
+      "bbox": [
+        97.7,
+        806.0,
+        234.9,
+        823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wedera cealdost",
+      "texte_balise": "wedera cealdost",
+      "bbox": [
+        262.8,
+        806.0,
+        404.7,
+        823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "surging waves, coldest of weathers,",
+      "texte_balise": "surging waves, coldest of weathers,",
+      "bbox": [
+        623.3,
+        808.7,
+        911.6,
+        827.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and pitch of the waves, the perishing cold,",
+      "texte_balise": "and pitch of the waves, the perishing cold,",
+      "bbox": [
+        1148.8,
+        811.0,
+        1488.4,
+        827.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ond norbanwind",
+      "texte_balise": "ond norbanwind",
+      "bbox": [
+        241.9,
+        825.0,
+        379.1,
+        844.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "nipende niht,",
+      "texte_balise": "nipende niht,",
+      "bbox": [
+        97.5,
+        826.4,
+        211.8,
+        846.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "darkening night, and a northern wind,",
+      "texte_balise": "darkening night, and a northern wind,",
+      "bbox": [
+        623.3,
+        829.7,
+        918.6,
+        848.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "night falling and winds from the north",
+      "texte_balise": "night falling and winds from the north",
+      "bbox": [
+        1148.8,
+        829.7,
+        1444.2,
+        848.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "heaoogrim ondhwearf;",
+      "texte_balise": "heaoogrim ondhwearf;",
+      "bbox": [
+        97.7,
+        845.9,
+        286.0,
+        865.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hreo waron ypa.",
+      "texte_balise": "hreo waron ypa.",
+      "bbox": [
+        316.3,
+        845.9,
+        465.1,
+        865.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "knife-sharp, pushed against us. The seas were choppy;",
+      "texte_balise": "knife-sharp, pushed against us. The seas were choppy;",
+      "bbox": [
+        620.9,
+        848.0,
+        1069.8,
+        867.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "drove us apart. The deep boiled up",
+      "texte_balise": "drove us apart. The deep boiled up",
+      "bbox": [
+        1148.8,
+        848.0,
+        1430.2,
+        867.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Was merefixa",
+      "texte_balise": "Was merefixa",
+      "bbox": [
+        97.7,
+        866.8,
+        218.6,
+        881.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "möd onhrered;",
+      "texte_balise": "möd onhrered;",
+      "bbox": [
+        248.8,
+        866.8,
+        376.7,
+        883.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "the fishes of the sea were stirred up by it.",
+      "texte_balise": "the fishes of the sea were stirred up by it.",
+      "bbox": [
+        620.9,
+        869.0,
+        953.5,
+        888.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and its wallowing sent the sea-brutes wild.",
+      "texte_balise": "and its wallowing sent the sea-brutes wild.",
+      "bbox": [
+        1148.8,
+        869.0,
+        1488.4,
+        888.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bar me wio läoum licsyrce min",
+      "texte_balise": "bar me wio läoum licsyrce min",
+      "bbox": [
+        97.7,
+        885.0,
+        379.1,
+        904.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "There my coat of armor offered help,",
+      "texte_balise": "There my coat of armor offered help,",
+      "bbox": [
+        623.3,
+        887.8,
+        916.3,
+        906.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My armor helped me to hold out;",
+      "texte_balise": "My armor helped me to hold out;",
+      "bbox": [
+        1148.8,
+        890.0,
+        1409.3,
+        909.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "heard hondlocen",
+      "texte_balise": "heard hondlocen",
+      "bbox": [
+        97.7,
+        906.0,
+        241.9,
+        923.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "helpe gefremede,",
+      "texte_balise": "helpe gefremede,",
+      "bbox": [
+        239.5,
+        906.0,
+        420.9,
+        927.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hard, hand-locked, against those hostile ones,",
+      "texte_balise": "hard, hand-locked, against those hostile ones,",
+      "bbox": [
+        620.9,
+        908.7,
+        995.3,
+        927.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "my hard-ringed chain-mail, hand-forged and linked,",
+      "texte_balise": "my hard-ringed chain-mail, hand-forged and linked,",
+      "bbox": [
+        1148.8,
+        908.7,
+        1558.1,
+        930.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on breostum læg",
+      "texte_balise": "on breostum læg",
+      "bbox": [
+        295.3,
+        924.9,
+        437.2,
+        946.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "beadohrægl bröden",
+      "texte_balise": "beadohrægl bröden",
+      "bbox": [
+        97.7,
+        927.0,
+        265.1,
+        946.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "my woven battle-dress lay on my breast",
+      "texte_balise": "my woven battle-dress lay on my breast",
+      "bbox": [
+        623.3,
+        929.6,
+        939.5,
+        946.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a fine, close-fitting filigree of gold,",
+      "texte_balise": "a fine, close-fitting filigree of gold,",
+      "bbox": [
+        1148.8,
+        929.6,
+        1418.6,
+        948.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "golde gegyrwed.",
+      "texte_balise": "golde gegyrwed.",
+      "bbox": [
+        97.7,
+        945.9,
+        246.5,
+        964.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mé to grunde teah",
+      "texte_balise": "Mé to grunde teah",
+      "bbox": [
+        267.4,
+        945.9,
+        425.6,
+        964.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "adorned with gold. Down to the ocean floor",
+      "texte_balise": "adorned with gold. Down to the ocean floor",
+      "bbox": [
+        623.3,
+        948.0,
+        969.8,
+        967.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "kept my safe when some ocean creature",
+      "texte_balise": "kept my safe when some ocean creature",
+      "bbox": [
+        1148.8,
+        950.5,
+        1474.4,
+        967.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fæste hafde",
+      "texte_balise": "fæste hafde",
+      "bbox": [
+        253.5,
+        964.0,
+        374.4,
+        981.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "fah féondscaja, l",
+      "texte_balise": "fah féondscaja, l",
+      "bbox": [
+        97.4,
+        964.3,
+        246.8,
+        983.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "a grisly foe dragged me, gripped me fast",
+      "texte_balise": "a grisly foe dragged me, gripped me fast",
+      "bbox": [
+        623.3,
+        969.0,
+        946.5,
+        988.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pulled me to the bottom. Pinioned fast",
+      "texte_balise": "pulled me to the bottom. Pinioned fast",
+      "bbox": [
+        1148.8,
+        969.0,
+        1453.5,
+        988.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hwæbre me gyfebe wearo",
+      "texte_balise": "hwæbre me gyfebe wearo",
+      "bbox": [
+        248.8,
+        985.0,
+        469.8,
+        1004.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "grim on grape;",
+      "texte_balise": "grim on grape;",
+      "bbox": [
+        100.0,
+        987.7,
+        223.3,
+        1004.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in his grim grasp, yet it was given to me",
+      "texte_balise": "in his grim grasp, yet it was given to me",
+      "bbox": [
+        620.9,
+        987.7,
+        937.2,
+        1006.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and swathed in its grip, I was granted one",
+      "texte_balise": "and swathed in its grip, I was granted one",
+      "bbox": [
+        1148.8,
+        990.0,
+        1483.7,
+        1009.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bæt ic aglacan",
+      "texte_balise": "bæt ic aglacan",
+      "bbox": [
+        97.7,
+        1006.0,
+        230.2,
+        1023.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "orde gerahte",
+      "texte_balise": "orde gerahte",
+      "bbox": [
+        258.1,
+        1006.0,
+        376.7,
+        1023.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to stab that monster with the point of my sword,",
+      "texte_balise": "to stab that monster with the point of my sword,",
+      "bbox": [
+        620.9,
+        1008.6,
+        1002.3,
+        1027.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "final chance: my sword plunged",
+      "texte_balise": "final chance: my sword plunged",
+      "bbox": [
+        1148.8,
+        1010.9,
+        1402.3,
+        1027.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hildebille;",
+      "texte_balise": "hildebille;",
+      "bbox": [
+        97.5,
+        1024.0,
+        181.6,
+        1044.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "heaporas fornam",
+      "texte_balise": "heaporas fornam",
+      "bbox": [
+        209.3,
+        1024.9,
+        362.8,
+        1043.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "my war-blade; the storm of battle took away",
+      "texte_balise": "my war-blade; the storm of battle took away",
+      "bbox": [
+        623.3,
+        1029.5,
+        972.1,
+        1046.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the ordeal was over. Through my own hands,",
+      "texte_balise": "and the ordeal was over. Through my own hands,",
+      "bbox": [
+        1148.8,
+        1029.5,
+        1548.8,
+        1048.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mightig meredéor",
+      "texte_balise": "mightig meredéor",
+      "bbox": [
+        97.7,
+        1045.8,
+        244.2,
+        1064.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "purh mine hand.",
+      "texte_balise": "purh mine hand.",
+      "bbox": [
+        267.4,
+        1045.8,
+        416.3,
+        1064.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that mighty sea-beast, through my own hand.",
+      "texte_balise": "that mighty sea-beast, through my own hand.",
+      "bbox": [
+        620.9,
+        1048.0,
+        981.4,
+        1067.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the fury of battle had finished off the sea-beast.",
+      "texte_balise": "the fury of battle had finished off the sea-beast.",
+      "bbox": [
+        1146.5,
+        1048.0,
+        1525.6,
+        1067.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "laogeteonan",
+      "texte_balise": "laogeteonan",
+      "bbox": [
+        293.0,
+        1066.4,
+        400.1,
+        1085.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Swā mec gelöme",
+      "texte_balise": "Swā mec gelöme",
+      "bbox": [
+        120.9,
+        1066.7,
+        262.8,
+        1083.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "\"Time and time again those terrible enemies",
+      "texte_balise": "\"Time and time again those terrible enemies",
+      "bbox": [
+        648.8,
+        1066.7,
+        1000.0,
+        1088.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Time and time again, foul things attacked me,",
+      "texte_balise": "\"Time and time again, foul things attacked me,",
+      "bbox": [
+        1172.1,
+        1069.0,
+        1546.5,
+        1088.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "breatedon pearle.",
+      "texte_balise": "breatedon pearle.",
+      "bbox": [
+        97.7,
+        1085.0,
+        251.2,
+        1104.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ic him benode",
+      "texte_balise": "Ic him benode",
+      "bbox": [
+        276.7,
+        1085.0,
+        397.7,
+        1104.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sorely threatened me. I served them well",
+      "texte_balise": "sorely threatened me. I served them well",
+      "bbox": [
+        623.3,
+        1089.9,
+        946.5,
+        1106.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lurking and stalking, but I lashed out,",
+      "texte_balise": "lurking and stalking, but I lashed out,",
+      "bbox": [
+        1148.8,
+        1089.9,
+        1439.5,
+        1109.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preateuon Peane.",
+      "texte_balise": "Preateuon Peane.",
+      "bbox": [
+        97.7,
+        1094.0,
+        248.8,
+        1106.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "t pence",
+      "texte_balise": "t pence",
+      "bbox": [
+        276.7,
+        1094.0,
+        397.7,
+        1106.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "sorely inreatened me. I served them well",
+      "texte_balise": "sorely inreatened me. I served them well",
+      "bbox": [
+        620.9,
+        1094.0,
+        946.5,
+        1108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lurking and stalking, but lashed out,",
+      "texte_balise": "lurking and stalking, but lashed out,",
+      "bbox": [
+        1146.5,
+        1094.0,
+        1444.2,
+        1108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "swa hit gedefe was.",
+      "texte_balise": "swa hit gedefe was.",
+      "bbox": [
+        269.8,
+        1103.9,
+        441.9,
+        1125.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "swā hit gedefe wæs.",
+      "texte_balise": "swā hit gedefe wæs.",
+      "bbox": [
+        267.4,
+        1105.6,
+        441.9,
+        1124.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "déoran sweorde",
+      "texte_balise": "déoran sweorde",
+      "bbox": [
+        100.0,
+        1106.0,
+        234.9,
+        1120.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "with my dear sword, as they deserved.",
+      "texte_balise": "with my dear sword, as they deserved.",
+      "bbox": [
+        620.9,
+        1108.5,
+        927.9,
+        1127.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gave as good as I got with my sword.",
+      "texte_balise": "gave as good as I got with my sword.",
+      "bbox": [
+        1148.8,
+        1110.0,
+        1446.5,
+        1131.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gave as good as got with my sword.",
+      "texte_balise": "gave as good as got with my sword.",
+      "bbox": [
+        1148.8,
+        1110.9,
+        1446.5,
+        1129.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Næs hie öære fylle",
+      "texte_balise": "Næs hie öære fylle",
+      "bbox": [
+        97.7,
+        1124.0,
+        260.5,
+        1143.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Næs hie oære fylle",
+      "texte_balise": "Næs hie oære fylle",
+      "bbox": [
+        100.0,
+        1124.8,
+        260.5,
+        1143.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "geféan hæfdon",
+      "texte_balise": "geféan hæfdon",
+      "bbox": [
+        293.0,
+        1124.8,
+        420.9,
+        1143.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "gefean hæfdon",
+      "texte_balise": "gefean hæfdon",
+      "bbox": [
+        293.0,
+        1126.5,
+        420.9,
+        1145.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "They got no joy from their gluttony,",
+      "texte_balise": "They got no joy from their gluttony,",
+      "bbox": [
+        623.3,
+        1127.0,
+        902.3,
+        1146.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My flesh was not for feasting on,",
+      "texte_balise": "My flesh was not for feasting on,",
+      "bbox": [
+        1148.8,
+        1129.0,
+        1409.3,
+        1148.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mänfordædlan",
+      "texte_balise": "mänfordædlan",
+      "bbox": [
+        97.7,
+        1145.7,
+        220.9,
+        1162.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "bæt hie mē begon,",
+      "texte_balise": "bæt hie mē begon,",
+      "bbox": [
+        260.5,
+        1145.7,
+        418.6,
+        1164.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "pat hie me pegon,",
+      "texte_balise": "pat hie me pegon,",
+      "bbox": [
+        260.5,
+        1147.0,
+        420.9,
+        1166.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "those wicked maneaters, when they tasted me,",
+      "texte_balise": "those wicked maneaters, when they tasted me,",
+      "bbox": [
+        620.9,
+        1148.0,
+        1000.0,
+        1167.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "there would be no monsters gnawing and gloating",
+      "texte_balise": "there would be no monsters gnawing and gloating",
+      "bbox": [
+        1148.8,
+        1150.0,
+        1546.5,
+        1169.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "symbel ymbsaton",
+      "texte_balise": "symbel ymbsaton",
+      "bbox": [
+        97.7,
+        1166.6,
+        251.2,
+        1185.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "sægrunde neah",
+      "texte_balise": "sægrunde neah",
+      "bbox": [
+        283.7,
+        1166.6,
+        418.6,
+        1185.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "sat down to their feast on the ocean floor -",
+      "texte_balise": "sat down to their feast on the ocean floor -",
+      "bbox": [
+        620.9,
+        1169.0,
+        967.4,
+        1183.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "over their banquet at the bottom of the sea.",
+      "texte_balise": "over their banquet at the bottom of the sea.",
+      "bbox": [
+        1148.8,
+        1169.0,
+        1493.0,
+        1188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mēcum wunde",
+      "texte_balise": "mēcum wunde",
+      "bbox": [
+        272.1,
+        1187.5,
+        395.3,
+        1201.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "but in the morning, wounded by my blade,",
+      "texte_balise": "but in the morning, wounded by my blade,",
+      "bbox": [
+        623.3,
+        1187.5,
+        958.1,
+        1206.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ac on mergenne",
+      "texte_balise": "ac on mergenne",
+      "bbox": [
+        97.7,
+        1189.9,
+        234.9,
+        1204.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Instead, in the morning, mangled and sleeping",
+      "texte_balise": "Instead, in the morning, mangled and sleeping",
+      "bbox": [
+        1148.8,
+        1189.9,
+        1518.6,
+        1206.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "be yolafe",
+      "texte_balise": "be yolafe",
+      "bbox": [
+        95.2,
+        1205.5,
+        179.2,
+        1227.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "uppe lægon",
+      "texte_balise": "uppe lægon",
+      "bbox": [
+        211.6,
+        1206.0,
+        314.0,
+        1224.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "uppe lagon",
+      "texte_balise": "uppe lagon",
+      "bbox": [
+        211.6,
+        1207.6,
+        314.0,
+        1226.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "they were washed ashore by ocean waves,",
+      "texte_balise": "they were washed ashore by ocean waves,",
+      "bbox": [
+        620.9,
+        1208.0,
+        972.1,
+        1227.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the sleep of the sword, they slopped and floated",
+      "texte_balise": "the sleep of the sword, they slopped and floated",
+      "bbox": [
+        1146.5,
+        1210.8,
+        1534.9,
+        1227.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pat syopan nã",
+      "texte_balise": "pat syopan nã",
+      "bbox": [
+        299.8,
+        1225.6,
+        430.4,
+        1250.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "swordum aswefede",
+      "texte_balise": "swordum aswefede",
+      "bbox": [
+        97.7,
+        1227.0,
+        269.8,
+        1243.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "pæt syöpan nã",
+      "texte_balise": "pæt syöpan nã",
+      "bbox": [
+        304.7,
+        1227.0,
+        430.2,
+        1246.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "like the ocean's leavings. From now on",
+      "texte_balise": "like the ocean's leavings. From now on",
+      "bbox": [
+        1148.8,
+        1227.0,
+        1460.5,
+        1248.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dazed by sword-blows, and since that day",
+      "texte_balise": "dazed by sword-blows, and since that day",
+      "bbox": [
+        623.3,
+        1229.0,
+        958.1,
+        1248.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "brimliõende",
+      "texte_balise": "brimliõende",
+      "bbox": [
+        274.4,
+        1247.4,
+        374.4,
+        1263.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ymb brontne ford",
+      "texte_balise": "ymb brontne ford",
+      "bbox": [
+        97.7,
+        1248.0,
+        239.5,
+        1267.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "brimliöende",
+      "texte_balise": "brimliöende",
+      "bbox": [
+        274.4,
+        1248.0,
+        374.4,
+        1261.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "they never hindered the passage of any",
+      "texte_balise": "they never hindered the passage of any",
+      "bbox": [
+        620.9,
+        1248.0,
+        941.9,
+        1267.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sailors would be safe, the deep-sea raids",
+      "texte_balise": "sailors would be safe, the deep-sea raids",
+      "bbox": [
+        1148.8,
+        1250.0,
+        1479.1,
+        1267.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leoht éastan cõm",
+      "texte_balise": "Leoht éastan cõm",
+      "bbox": [
+        246.5,
+        1266.0,
+        400.0,
+        1282.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "läde ne letton.",
+      "texte_balise": "läde ne letton.",
+      "bbox": [
+        95.3,
+        1266.6,
+        220.9,
+        1283.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leoht eastan cõm",
+      "texte_balise": "Leoht eastan cõm",
+      "bbox": [
+        248.8,
+        1266.6,
+        400.0,
+        1283.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "lade ne letton.",
+      "texte_balise": "lade ne letton.",
+      "bbox": [
+        95.3,
+        1268.0,
+        218.6,
+        1285.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sea-voyager. Light shone from the east,",
+      "texte_balise": "sea-voyager. Light shone from the east,",
+      "bbox": [
+        623.3,
+        1268.9,
+        941.9,
+        1287.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "were over for good. Light came from the east,",
+      "texte_balise": "were over for good. Light came from the east,",
+      "bbox": [
+        1148.8,
+        1268.9,
+        1516.3,
+        1287.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "beorht beacen godes,",
+      "texte_balise": "beorht beacen godes,",
+      "bbox": [
+        100.0,
+        1285.0,
+        283.7,
+        1306.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "brimu swabredon",
+      "texte_balise": "brimu swabredon",
+      "bbox": [
+        314.0,
+        1285.0,
+        458.1,
+        1304.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God's bright beacon; the waves grew calm,",
+      "texte_balise": "God's bright beacon; the waves grew calm,",
+      "bbox": [
+        623.3,
+        1289.8,
+        967.4,
+        1306.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bright guarantee of God, and the waves",
+      "texte_balise": "bright guarantee of God, and the waves",
+      "bbox": [
+        1148.8,
+        1289.8,
+        1467.4,
+        1308.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "geséon mihte",
+      "texte_balise": "geséon mihte",
+      "bbox": [
+        283.6,
+        1305.2,
+        395.5,
+        1325.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "pæt ic sanassas",
+      "texte_balise": "pæt ic sanassas",
+      "bbox": [
+        97.7,
+        1306.0,
+        248.8,
+        1325.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pæt ic sanæssas",
+      "texte_balise": "pæt ic sanæssas",
+      "bbox": [
+        97.7,
+        1307.8,
+        248.8,
+        1324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "geseon mihte",
+      "texte_balise": "geseon mihte",
+      "bbox": [
+        283.7,
+        1307.8,
+        395.3,
+        1324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "so that I could see the sea-cliffs,",
+      "texte_balise": "so that I could see the sea-cliffs,",
+      "bbox": [
+        623.3,
+        1308.0,
+        881.4,
+        1327.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "went quiet; I could see headlands",
+      "texte_balise": "went quiet; I could see headlands",
+      "bbox": [
+        1148.8,
+        1310.7,
+        1418.6,
+        1327.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "windige weallas.",
+      "texte_balise": "windige weallas.",
+      "bbox": [
+        97.7,
+        1327.0,
+        241.9,
+        1346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wyrd oft nere",
+      "texte_balise": "Wyrd oft nere",
+      "bbox": [
+        269.8,
+        1327.0,
+        393.0,
+        1346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the windswept capes. Wyrd often spares",
+      "texte_balise": "the windswept capes. Wyrd often spares",
+      "bbox": [
+        620.9,
+        1329.0,
+        951.2,
+        1346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and buffeted cliffs. Often, for undaunted courage,",
+      "texte_balise": "and buffeted cliffs. Often, for undaunted courage,",
+      "bbox": [
+        1148.8,
+        1329.0,
+        1546.5,
+        1348.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "unfægne eorl",
+      "texte_balise": "unfægne eorl",
+      "bbox": [
+        97.6,
+        1345.4,
+        211.7,
+        1364.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "bonne his ellen deah.",
+      "texte_balise": "bonne his ellen deah.",
+      "bbox": [
+        248.8,
+        1345.6,
+        432.6,
+        1364.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "unfagne eorl",
+      "texte_balise": "unfagne eorl",
+      "bbox": [
+        97.7,
+        1347.0,
+        211.6,
+        1366.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ponne his ellen deah.",
+      "texte_balise": "ponne his ellen deah.",
+      "bbox": [
+        251.2,
+        1347.0,
+        432.6,
+        1366.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "an undoomed man, when his courage endures!",
+      "texte_balise": "an undoomed man, when his courage endures!",
+      "bbox": [
+        623.3,
+        1347.9,
+        1000.0,
+        1366.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fate spares the man it has not already marked.",
+      "texte_balise": "fate spares the man it has not already marked.",
+      "bbox": [
+        1146.5,
+        1350.0,
+        1523.3,
+        1366.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R.",
+      "texte_balise": "J.R.R.",
+      "bbox": [
+        358.1,
+        1428.7,
+        439.5,
+        1461.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEOWULF",
+      "texte_balise": "BEOWULF",
+      "bbox": [
+        1097.6,
+        1432.9,
+        1262.9,
+        1463.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        304.5,
+        1460.3,
+        497.9,
+        1501.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A PROSE TRANSLATION",
+      "texte_balise": "A PROSE TRANSLATION",
+      "bbox": [
+        1088.4,
+        1482.0,
+        1272.1,
+        1498.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEOWULF",
+      "texte_balise": "BEOWULF",
+      "bbox": [
+        318.5,
+        1502.6,
+        486.1,
+        1533.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TRANSLATION AN",
+      "texte_balise": "A TRANSLATION AN",
+      "bbox": [
+        323.3,
+        1533.0,
+        404.7,
+        1547.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEAKY",
+      "texte_balise": "NEAKY",
+      "bbox": [
+        448.8,
+        1533.2,
+        481.4,
+        1544.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TRAXALSTED SI E. TALEOT DONILOSOX",
+      "texte_balise": "TRAXALSTED SI E. TALEOT DONILOSOX",
+      "bbox": [
+        1088.4,
+        1716.8,
+        1272.1,
+        1728.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SELLIC SPELL",
+      "texte_balise": "SELLIC SPELL",
+      "bbox": [
+        351.2,
+        1728.0,
+        453.5,
+        1742.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITED EY NiCHOLAS HONE",
+      "texte_balise": "EDITED EY NiCHOLAS HONE",
+      "bbox": [
+        1114.0,
+        1728.0,
+        1246.5,
+        1740.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exited by CHRISTOPHER TOLKIEN",
+      "texte_balise": "Exited by CHRISTOPHER TOLKIEN",
+      "bbox": [
+        311.6,
+        1754.0,
+        495.3,
+        1768.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I NORTON CHITICAL EDITION",
+      "texte_balise": "I NORTON CHITICAL EDITION",
+      "bbox": [
+        1086.0,
+        1774.9,
+        1274.4,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R. TOLKIEN",
+      "texte_balise": "J.R.R. TOLKIEN",
+      "bbox": [
+        327.9,
+        1812.0,
+        481.4,
+        1835.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E. TALBOT DONALDSON",
+      "texte_balise": "E. TALBOT DONALDSON",
+      "bbox": [
+        1055.8,
+        1835.0,
+        1297.7,
+        1856.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Never intended for publication by Tolkien himself,",
+      "texte_balise": "Never intended for publication by Tolkien himself,",
+      "bbox": [
+        167.4,
+        1858.6,
+        641.9,
+        1882.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "this may still be the preferred version for fans who",
+      "texte_balise": "this may still be the preferred version for fans who",
+      "bbox": [
+        162.8,
+        1881.8,
+        644.2,
+        1903.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A reliable prose translation. Word-for-word, it's the easiest",
+      "texte_balise": "A reliable prose translation. Word-for-word, it's the easiest",
+      "bbox": [
+        900.0,
+        1881.8,
+        1458.1,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "enjoy his prose style. Does not attempt to",
+      "texte_balise": "enjoy his prose style. Does not attempt to",
+      "bbox": [
+        204.7,
+        1905.0,
+        604.7,
+        1928.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of these editions to read, but I think it lacks flavor.",
+      "texte_balise": "of these editions to read, but I think it lacks flavor.",
+      "bbox": [
+        937.2,
+        1905.0,
+        1416.3,
+        1926.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "reproduce alliterative meter. Word choice is \"heroic,\" not modern,",
+      "texte_balise": "reproduce alliterative meter. Word choice is \"heroic,\" not modern,",
+      "bbox": [
+        90.7,
+        1923.7,
+        716.3,
+        1949.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Like most Norton Critical Editions, includes good",
+      "texte_balise": "Like most Norton Critical Editions, includes good",
+      "bbox": [
+        946.5,
+        1928.0,
+        1411.6,
+        1949.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and word order is often inverted for archaic effect.",
+      "texte_balise": "and word order is often inverted for archaic effect.",
+      "bbox": [
+        162.8,
+        1949.0,
+        639.5,
+        1968.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "critical essays and backup material.",
+      "texte_balise": "critical essays and backup material.",
+      "bbox": [
+        1009.3,
+        1951.5,
+        1348.8,
+        1970.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Then we two were together in the",
+      "texte_balise": "\"Then we two were together in the",
+      "bbox": [
+        327.9,
+        1998.0,
+        602.3,
+        2017.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Thus we were together on the sea for the time of five nights",
+      "texte_balise": "\"Thus we were together on the sea for the time of five nights",
+      "bbox": [
+        909.3,
+        2005.0,
+        1390.7,
+        2026.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sea five nights' space, until the tide drove us asunder, and",
+      "texte_balise": "sea five nights' space, until the tide drove us asunder, and",
+      "bbox": [
+        162.8,
+        2016.6,
+        630.2,
+        2038.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "until the flood drove us apart, the swelling sea, coldest of weathers,",
+      "texte_balise": "until the flood drove us apart, the swelling sea, coldest of weathers,",
+      "bbox": [
+        890.7,
+        2025.9,
+        1430.2,
+        2047.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the boiling waters. The coldest of storms, glooming night,",
+      "texte_balise": "the boiling waters. The coldest of storms, glooming night,",
+      "bbox": [
+        160.5,
+        2039.9,
+        620.9,
+        2058.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "darkening night, and the north wind battle-grim turned against us:",
+      "texte_balise": "darkening night, and the north wind battle-grim turned against us:",
+      "bbox": [
+        890.7,
+        2046.8,
+        1411.6,
+        2065.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a wind from the north came with cruel onslaught against",
+      "texte_balise": "a wind from the north came with cruel onslaught against",
+      "bbox": [
+        162.8,
+        2058.0,
+        609.3,
+        2077.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rough were the waves. The anger of the sea-fishes was roused.",
+      "texte_balise": "rough were the waves. The anger of the sea-fishes was roused.",
+      "bbox": [
+        888.4,
+        2067.7,
+        1402.3,
+        2086.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "us; rough were the waves. The hearts of the fishes of the sea",
+      "texte_balise": "us; rough were the waves. The hearts of the fishes of the sea",
+      "bbox": [
+        162.8,
+        2077.0,
+        653.5,
+        2098.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Then my body-mail, hard and hand-linked, gave me help against",
+      "texte_balise": "Then my body-mail, hard and hand-linked, gave me help against",
+      "bbox": [
+        890.7,
+        2086.0,
+        1404.7,
+        2110.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "were stirred, and there the corslet on my flesh, links stoutly",
+      "texte_balise": "were stirred, and there the corslet on my flesh, links stoutly",
+      "bbox": [
+        162.8,
+        2098.0,
+        632.6,
+        2117.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "my foes; the woven war-garment, gold-adorned, covered my breast.",
+      "texte_balise": "my foes; the woven war-garment, gold-adorned, covered my breast.",
+      "bbox": [
+        890.7,
+        2104.9,
+        1430.2,
+        2126.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wrought by hand, gave me aid against my foes; my woven",
+      "texte_balise": "wrought by hand, gave me aid against my foes; my woven",
+      "bbox": [
+        162.8,
+        2118.9,
+        625.6,
+        2137.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A fierce cruel attacker dragged me to the bottom, held me",
+      "texte_balise": "A fierce cruel attacker dragged me to the bottom, held me",
+      "bbox": [
+        890.7,
+        2125.8,
+        1346.5,
+        2144.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "raiment of battle lapped my breast adorned with gold. To the",
+      "texte_balise": "raiment of battle lapped my breast adorned with gold. To the",
+      "bbox": [
+        162.8,
+        2137.0,
+        644.2,
+        2156.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "grim in his grasp, but it was granted to me to reach the monster",
+      "texte_balise": "grim in his grasp, but it was granted to me to reach the monster",
+      "bbox": [
+        890.7,
+        2146.8,
+        1395.3,
+        2165.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "abyss drew me a destroying foe accurséd, fast the grim thing",
+      "texte_balise": "abyss drew me a destroying foe accurséd, fast the grim thing",
+      "bbox": [
+        162.8,
+        2158.0,
+        648.8,
+        2177.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with my sword-point, my battle-blade. The war-stroke destroyed",
+      "texte_balise": "with my sword-point, my battle-blade. The war-stroke destroyed",
+      "bbox": [
+        886.0,
+        2165.0,
+        1400.0,
+        2186.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "held me in its gripe. Nonetheless, it was granted to me to find",
+      "texte_balise": "held me in its gripe. Nonetheless, it was granted to me to find",
+      "bbox": [
+        162.8,
+        2179.0,
+        651.2,
+        2198.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the mighty sea-beast - through my hand.",
+      "texte_balise": "the mighty sea-beast - through my hand.",
+      "bbox": [
+        888.4,
+        2186.0,
+        1214.0,
+        2205.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that fell slayer with point of warlike sword; the battle's onset",
+      "texte_balise": "that fell slayer with point of warlike sword; the battle's onset",
+      "bbox": [
+        160.5,
+        2197.9,
+        639.5,
+        2216.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Thus often loathsome assailants pressed me hard. I served them",
+      "texte_balise": "\"Thus often loathsome assailants pressed me hard. I served them",
+      "bbox": [
+        914.0,
+        2204.9,
+        1437.2,
+        2223.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "destroyed that strong beast of the sea through this my hand.",
+      "texte_balise": "destroyed that strong beast of the sea through this my hand.",
+      "bbox": [
+        162.8,
+        2218.8,
+        646.5,
+        2237.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with my good sword, as the right was. They had no joy at all of the feast,",
+      "texte_balise": "with my good sword, as the right was. They had no joy at all of the feast,",
+      "bbox": [
+        888.4,
+        2225.8,
+        1469.8,
+        2244.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Thus many a time deadly assailants menaced me grievously.",
+      "texte_balise": "\"Thus many a time deadly assailants menaced me grievously.",
+      "bbox": [
+        188.4,
+        2237.0,
+        681.4,
+        2256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the malice-workers, that they should eat me, sit around a banquet",
+      "texte_balise": "the malice-workers, that they should eat me, sit around a banquet",
+      "bbox": [
+        888.4,
+        2246.7,
+        1414.0,
+        2265.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "With my beloved sword I ministered to them, as it was meet.",
+      "texte_balise": "With my beloved sword I ministered to them, as it was meet.",
+      "bbox": [
+        162.8,
+        2258.0,
+        641.9,
+        2277.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "near the sea-bottom. But in the morning, sword-wounded",
+      "texte_balise": "near the sea-bottom. But in the morning, sword-wounded",
+      "bbox": [
+        890.7,
+        2267.6,
+        1346.5,
+        2284.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In no wise had they joy in that banqueting, foul doers of ill",
+      "texte_balise": "In no wise had they joy in that banqueting, foul doers of ill",
+      "bbox": [
+        162.8,
+        2279.0,
+        623.3,
+        2295.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "they lay on the shore, left behind by the waves, put to sleep by",
+      "texte_balise": "they lay on the shore, left behind by the waves, put to sleep by",
+      "bbox": [
+        888.4,
+        2286.0,
+        1388.4,
+        2305.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "deeds, that they should devour me sitting round in feast nigh",
+      "texte_balise": "deeds, that they should devour me sitting round in feast nigh",
+      "bbox": [
+        162.8,
+        2297.8,
+        646.5,
+        2316.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the blade, so that thereafter they would never hinder the passage",
+      "texte_balise": "the blade, so that thereafter they would never hinder the passage",
+      "bbox": [
+        888.4,
+        2307.0,
+        1411.6,
+        2326.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to the bottoms of the sea; nay, upon the morrow they lay",
+      "texte_balise": "to the bottoms of the sea; nay, upon the morrow they lay",
+      "bbox": [
+        160.5,
+        2318.7,
+        611.6,
+        2337.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of sea-voyagers over the deep water. Light came from the east,",
+      "texte_balise": "of sea-voyagers over the deep water. Light came from the east,",
+      "bbox": [
+        890.7,
+        2325.7,
+        1397.7,
+        2344.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "upon the shore in the flotsam of the waves, wounded with",
+      "texte_balise": "upon the shore in the flotsam of the waves, wounded with",
+      "bbox": [
+        162.8,
+        2337.0,
+        623.3,
+        2358.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bright signal of God, the sea became still so that I might see",
+      "texte_balise": "bright signal of God, the sea became still so that I might see",
+      "bbox": [
+        890.7,
+        2346.6,
+        1367.4,
+        2365.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sword-thrusts, by blades done to death, so that never there-",
+      "texte_balise": "sword-thrusts, by blades done to death, so that never there-",
+      "bbox": [
+        162.8,
+        2358.0,
+        641.9,
+        2377.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the headlands, the windy walls of the sea. Fate often saves",
+      "texte_balise": "the headlands, the windy walls of the sea. Fate often saves",
+      "bbox": [
+        888.4,
+        2365.0,
+        1365.1,
+        2386.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "after might they about the steep straits molest the passage",
+      "texte_balise": "after might they about the steep straits molest the passage",
+      "bbox": [
+        162.8,
+        2379.0,
+        630.2,
+        2398.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "an undoomed man when his courage is good.",
+      "texte_balise": "an undoomed man when his courage is good.",
+      "bbox": [
+        895.3,
+        2386.0,
+        1260.5,
+        2405.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of seafaring men. Light came from the East, God's beacon",
+      "texte_balise": "of seafaring men. Light came from the East, God's beacon",
+      "bbox": [
+        162.8,
+        2397.7,
+        627.9,
+        2416.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bright; the waves were lulled, so that I could descry the",
+      "texte_balise": "bright; the waves were lulled, so that I could descry the",
+      "bbox": [
+        162.8,
+        2418.7,
+        602.3,
+        2437.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "headlands out to sea and windy cliffs. Fate off saveth a man",
+      "texte_balise": "headlands out to sea and windy cliffs. Fate off saveth a man",
+      "bbox": [
+        162.8,
+        2437.0,
+        644.2,
+        2456.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "not doomed to die, when his valour fails not.",
+      "texte_balise": "not doomed to die, when his valour fails not.",
+      "bbox": [
+        162.8,
+        2458.0,
+        516.3,
+        2477.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

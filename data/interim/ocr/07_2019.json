@@ -1,0 +1,5910 @@
+{
+  "fichier": "07_2019.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:09.243808+00:00",
+  "duree_s": 4.9,
+  "taille_origine": [
+    2000,
+    3700
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 536,
+  "lignes": [
+    {
+      "texte": "/lit/'s Top 100 Books",
+      "texte_balise": "/lit/'s Top 100 Books",
+      "bbox": [
+        630.8,
+        72.5,
+        1383.7,
+        174.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2019",
+      "texte_balise": "2019",
+      "bbox": [
+        907.0,
+        206.0,
+        1090.1,
+        275.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "10.",
+      "texte_balise": "10.",
+      "bbox": [
+        1831.4,
+        354.0,
+        1863.4,
+        371.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E",
+      "texte_balise": "E",
+      "bbox": [
+        1689.0,
+        377.2,
+        1706.4,
+        394.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• BROTHERS",
+      "texte_balise": "• BROTHERS",
+      "bbox": [
+        453.4,
+        379.9,
+        616.3,
+        418.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARAMAZOV",
+      "texte_balise": "KARAMAZOV",
+      "bbox": [
+        444.8,
+        414.9,
+        613.4,
+        452.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ULYSSES",
+      "texte_balise": "ULYSSES",
+      "bbox": [
+        837.2,
+        417.6,
+        968.1,
+        444.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY BIBLE",
+      "texte_balise": "HOLY BIBLE",
+      "bbox": [
+        299.4,
+        417.7,
+        395.3,
+        432.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOLITA",
+      "texte_balise": "LOLITA",
+      "bbox": [
+        1407.0,
+        446.9,
+        1532.0,
+        467.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAVITY'S",
+      "texte_balise": "GRAVITY'S",
+      "bbox": [
+        1773.2,
+        455.2,
+        1895.4,
+        482.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAINBOW",
+      "texte_balise": "RAINBOW",
+      "bbox": [
+        1776.1,
+        478.4,
+        1892.5,
+        502.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DON QUIXOTE",
+      "texte_balise": "DON QUIXOTE",
+      "bbox": [
+        1011.6,
+        496.2,
+        1177.3,
+        522.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS PYNCHON",
+      "texte_balise": "THOMAS PYNCHON",
+      "bbox": [
+        1784.9,
+        498.6,
+        1895.3,
+        510.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ILIAD",
+      "texte_balise": "THE ILIAD",
+      "bbox": [
+        1593.0,
+        519.4,
+        1720.9,
+        545.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIVINE COMEDY",
+      "texte_balise": "DIVINE COMEDY",
+      "bbox": [
+        1200.6,
+        533.6,
+        1363.4,
+        548.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES JOYCE",
+      "texte_balise": "JAMES JOYCE",
+      "bbox": [
+        851.7,
+        545.5,
+        962.2,
+        560.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIERNO • PURGATORIO • PARADISO",
+      "texte_balise": "NIERNO • PURGATORIO • PARADISO",
+      "bbox": [
+        1215.1,
+        551.3,
+        1351.7,
+        560.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMAN MELVILLE",
+      "texte_balise": "HERMAN MELVILLE",
+      "bbox": [
+        104.7,
+        557.1,
+        203.5,
+        568.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOYEVSK",
+      "texte_balise": "FYODOR DOSTOYEVSK",
+      "bbox": [
+        651.2,
+        562.6,
+        776.2,
+        571.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIGUELDE CERVANTES",
+      "texte_balise": "MIGUELDE CERVANTES",
+      "bbox": [
+        1023.3,
+        562.6,
+        1159.9,
+        568.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOEVSKY",
+      "texte_balise": "FYODOR DOSTOEVSKY",
+      "bbox": [
+        444.8,
+        565.6,
+        613.4,
+        589.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby-Dick",
+      "texte_balise": "Moby-Dick",
+      "bbox": [
+        127.9,
+        574.5,
+        180.2,
+        586.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime and Panishmen",
+      "texte_balise": "Crime and Panishmen",
+      "bbox": [
+        677.3,
+        580.3,
+        755.8,
+        586.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby Dick",
+      "texte_balise": "Moby Dick",
+      "bbox": [
+        116.2,
+        609.1,
+        186.1,
+        624.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bible",
+      "texte_balise": "The Bible",
+      "bbox": [
+        313.9,
+        609.2,
+        375.0,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Brothers Karamazov",
+      "texte_balise": "The Brothers Karamazov",
+      "bbox": [
+        456.4,
+        609.4,
+        604.7,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime and Punishment",
+      "texte_balise": "Crime and Punishment",
+      "bbox": [
+        648.3,
+        609.4,
+        787.8,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ulysses",
+      "texte_balise": "Ulysses",
+      "bbox": [
+        883.7,
+        609.4,
+        930.2,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote",
+      "texte_balise": "Don Quixote",
+      "bbox": [
+        1058.1,
+        609.4,
+        1133.7,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine Comedy",
+      "texte_balise": "The Divine Comedy",
+      "bbox": [
+        1223.8,
+        609.4,
+        1343.0,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lolita",
+      "texte_balise": "Lolita",
+      "bbox": [
+        1447.7,
+        609.4,
+        1485.5,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Iliad",
+      "texte_balise": "The Iliad",
+      "bbox": [
+        1627.9,
+        609.4,
+        1683.1,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gravity's Rainbow",
+      "texte_balise": "Gravity's Rainbow",
+      "bbox": [
+        1793.6,
+        609.4,
+        1898.3,
+        623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        886.6,
+        626.8,
+        921.5,
+        641.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nabokov",
+      "texte_balise": "Nabokov",
+      "bbox": [
+        1436.0,
+        626.8,
+        1488.4,
+        635.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pynchon",
+      "texte_balise": "Pynchon",
+      "bbox": [
+        1814.0,
+        626.8,
+        1869.2,
+        641.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Me ville",
+      "texte_balise": "Me ville",
+      "bbox": [
+        125.0,
+        629.5,
+        174.4,
+        635.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoevsky",
+      "texte_balise": "Dostoevsky",
+      "bbox": [
+        491.3,
+        629.7,
+        558.1,
+        638.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoevsky",
+      "texte_balise": "Dostoevsky",
+      "bbox": [
+        680.2,
+        629.7,
+        744.2,
+        638.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cervantes",
+      "texte_balise": "cervantes",
+      "bbox": [
+        1064.0,
+        629.7,
+        1125.0,
+        635.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bante",
+      "texte_balise": "bante",
+      "bbox": [
+        1261.6,
+        629.7,
+        1299.4,
+        635.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homer",
+      "texte_balise": "Homer",
+      "bbox": [
+        1630.8,
+        629.7,
+        1671.5,
+        635.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "14.",
+      "texte_balise": "14.",
+      "bbox": [
+        703.5,
+        681.9,
+        735.5,
+        702.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "15.",
+      "texte_balise": "15.",
+      "bbox": [
+        892.4,
+        681.9,
+        924.4,
+        699.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "16.",
+      "texte_balise": "16.",
+      "bbox": [
+        1078.5,
+        681.9,
+        1110.5,
+        702.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "11.",
+      "texte_balise": "11.",
+      "bbox": [
+        139.5,
+        684.8,
+        168.6,
+        702.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12",
+      "texte_balise": "12",
+      "bbox": [
+        328.5,
+        684.8,
+        351.7,
+        699.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "17.",
+      "texte_balise": "17.",
+      "bbox": [
+        1264.5,
+        684.8,
+        1299.4,
+        708.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "18.",
+      "texte_balise": "18.",
+      "bbox": [
+        1456.4,
+        684.8,
+        1482.6,
+        699.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "19.",
+      "texte_balise": "19.",
+      "bbox": [
+        1642.4,
+        684.8,
+        1674.4,
+        699.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "20.",
+      "texte_balise": "20.",
+      "bbox": [
+        1831.4,
+        684.8,
+        1860.5,
+        702.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFINITE",
+      "texte_balise": "INFINITE",
+      "bbox": [
+        58.1,
+        708.0,
+        250.0,
+        786.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOD",
+      "texte_balise": "BLOOD",
+      "bbox": [
+        1235.5,
+        713.8,
+        1334.3,
+        737.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MERIDIAN",
+      "texte_balise": "MERIDIAN",
+      "bbox": [
+        1209.3,
+        737.0,
+        1357.6,
+        760.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        863.4,
+        745.7,
+        941.9,
+        768.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEST",
+      "texte_balise": "JEST",
+      "bbox": [
+        95.9,
+        760.2,
+        235.5,
+        841.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "And",
+      "texte_balise": "And",
+      "bbox": [
+        877.9,
+        774.7,
+        933.1,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fernando",
+      "texte_balise": "Fernando",
+      "bbox": [
+        1008.7,
+        777.6,
+        1165.7,
+        806.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pessoa",
+      "texte_balise": "Pessoa",
+      "bbox": [
+        1008.7,
+        800.7,
+        1136.7,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEACE",
+      "texte_balise": "PEACE",
+      "bbox": [
+        854.7,
+        800.9,
+        962.2,
+        821.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES",
+      "texte_balise": "NOTES",
+      "bbox": [
+        1439.0,
+        824.1,
+        1514.5,
+        838.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book",
+      "texte_balise": "The Book",
+      "bbox": [
+        1008.7,
+        827.0,
+        1125.0,
+        850.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Disquiet",
+      "texte_balise": "of Disquiet",
+      "bbox": [
+        1008.7,
+        844.4,
+        1139.5,
+        870.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ODYSSEY",
+      "texte_balise": "THE ODYSSEY",
+      "bbox": [
+        255.8,
+        853.1,
+        427.3,
+        879.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FROM",
+      "texte_balise": "FROM",
+      "bbox": [
+        1447.5,
+        855.2,
+        1508.9,
+        871.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oxford Shakespeare",
+      "texte_balise": "The Oxford Shakespeare",
+      "bbox": [
+        1770.3,
+        867.4,
+        1877.9,
+        882.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SATIAME GESTENED",
+      "texte_balise": "SATIAME GESTENED",
+      "bbox": [
+        139.5,
+        870.4,
+        232.6,
+        876.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LEO TOLSTOY",
+      "texte_balise": "LEO TOLSTOY",
+      "bbox": [
+        851.7,
+        873.4,
+        959.3,
+        888.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID FOSTER WALLACE",
+      "texte_balise": "DAVID FOSTER WALLACE",
+      "bbox": [
+        87.2,
+        885.0,
+        238.4,
+        908.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDERGROUND",
+      "texte_balise": "UNDERGROUND",
+      "bbox": [
+        1386.6,
+        887.9,
+        1555.2,
+        902.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORMAC",
+      "texte_balise": "CORMAC",
+      "bbox": [
+        1238.4,
+        890.8,
+        1325.6,
+        919.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEO TOLSTOY",
+      "texte_balise": "LEO TOLSTOY",
+      "bbox": [
+        680.2,
+        896.4,
+        752.9,
+        908.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT FAGLES",
+      "texte_balise": "ROBERT FAGLES",
+      "bbox": [
+        279.1,
+        911.1,
+        404.1,
+        925.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anna Karenine",
+      "texte_balise": "Anna Karenine",
+      "bbox": [
+        689.0,
+        911.1,
+        747.1,
+        922.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MCCARTHY",
+      "texte_balise": "MCCARTHY",
+      "bbox": [
+        1229.5,
+        913.4,
+        1337.3,
+        937.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infinite Jest",
+      "texte_balise": "Infinite Jest",
+      "bbox": [
+        119.1,
+        939.6,
+        189.1,
+        955.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Odyssey",
+      "texte_balise": "The Odyssey",
+      "bbox": [
+        293.6,
+        940.1,
+        372.1,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stoner",
+      "texte_balise": "Stoner",
+      "bbox": [
+        505.8,
+        940.1,
+        549.4,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anna Karenina",
+      "texte_balise": "Anna Karenina",
+      "bbox": [
+        668.6,
+        940.1,
+        758.7,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "War and Peace",
+      "texte_balise": "War and Peace",
+      "bbox": [
+        860.5,
+        940.1,
+        950.6,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of Disquiet",
+      "texte_balise": "The Book of Disquiet",
+      "bbox": [
+        1026.2,
+        940.1,
+        1154.1,
+        957.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blood Meridian",
+      "texte_balise": "Blood Meridian",
+      "bbox": [
+        1232.6,
+        940.1,
+        1328.5,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Notes from Underground",
+      "texte_balise": "Notes from Underground",
+      "bbox": [
+        1392.4,
+        940.1,
+        1543.6,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thus Spoke Zarathustra",
+      "texte_balise": "Thus Spoke Zarathustra",
+      "bbox": [
+        1587.2,
+        940.1,
+        1729.7,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hamlet",
+      "texte_balise": "Hamlet",
+      "bbox": [
+        1816.9,
+        940.1,
+        1863.4,
+        954.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Williams",
+      "texte_balise": "Williams",
+      "bbox": [
+        497.1,
+        954.7,
+        555.2,
+        969.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolstoy",
+      "texte_balise": "Tolstoy",
+      "bbox": [
+        689.0,
+        954.7,
+        735.5,
+        972.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shakespeare",
+      "texte_balise": "Shakespeare",
+      "bbox": [
+        1799.4,
+        954.7,
+        1877.9,
+        972.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietrecha",
+      "texte_balise": "Nietrecha",
+      "bbox": [
+        1625.0,
+        957.6,
+        1683.1,
+        966.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hostete ar",
+      "texte_balise": "hostete ar",
+      "bbox": [
+        1433.1,
+        960.3,
+        1502.9,
+        966.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Wallace",
+      "texte_balise": "Wallace",
+      "bbox": [
+        127.9,
+        960.5,
+        177.3,
+        966.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homer",
+      "texte_balise": "Homer",
+      "bbox": [
+        308.1,
+        960.5,
+        351.7,
+        966.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolstoy",
+      "texte_balise": "Tolstoy",
+      "bbox": [
+        877.9,
+        960.5,
+        921.5,
+        969.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pascon",
+      "texte_balise": "Pascon",
+      "bbox": [
+        1066.9,
+        960.5,
+        1107.6,
+        966.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "McCarthy",
+      "texte_balise": "McCarthy",
+      "bbox": [
+        1244.2,
+        960.5,
+        1305.2,
+        969.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "21.",
+      "texte_balise": "21.",
+      "bbox": [
+        139.5,
+        1015.6,
+        171.5,
+        1033.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "22",
+      "texte_balise": "22",
+      "bbox": [
+        328.5,
+        1015.6,
+        354.7,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "23.",
+      "texte_balise": "23.",
+      "bbox": [
+        514.5,
+        1015.6,
+        543.6,
+        1033.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "24.",
+      "texte_balise": "24.",
+      "bbox": [
+        703.5,
+        1015.6,
+        735.5,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "25.",
+      "texte_balise": "25.",
+      "bbox": [
+        892.4,
+        1015.6,
+        921.5,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "26.",
+      "texte_balise": "26.",
+      "bbox": [
+        1078.5,
+        1015.6,
+        1110.5,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "27.",
+      "texte_balise": "27.",
+      "bbox": [
+        1267.4,
+        1015.6,
+        1302.3,
+        1035.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "28.",
+      "texte_balise": "28.",
+      "bbox": [
+        1456.4,
+        1015.6,
+        1482.6,
+        1033.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "30.",
+      "texte_balise": "30.",
+      "bbox": [
+        1831.4,
+        1015.6,
+        1860.5,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Process",
+      "texte_balise": "Process",
+      "bbox": [
+        1601.5,
+        1040.9,
+        1715.3,
+        1071.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RE",
+      "texte_balise": "THE RE",
+      "bbox": [
+        1383.6,
+        1044.1,
+        1558.2,
+        1082.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN SEARCH OF",
+      "texte_balise": "IN SEARCH OF",
+      "bbox": [
+        657.0,
+        1044.2,
+        776.2,
+        1059.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONE HUNDRED VEARS SOLITUDE",
+      "texte_balise": "ONE HUNDRED VEARS SOLITUDE",
+      "bbox": [
+        819.8,
+        1047.2,
+        985.5,
+        1053.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAUST",
+      "texte_balise": "FAUST",
+      "bbox": [
+        1778.9,
+        1058.3,
+        1907.1,
+        1088.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOST TIME",
+      "texte_balise": "LOST TIME",
+      "bbox": [
+        671.5,
+        1062.0,
+        764.5,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Reality",
+      "texte_balise": "and Reality",
+      "bbox": [
+        1572.5,
+        1069.7,
+        1741.5,
+        1103.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and healty",
+      "texte_balise": "and healty",
+      "bbox": [
+        1572.7,
+        1079.0,
+        1741.3,
+        1102.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE ORWELL",
+      "texte_balise": "GEORGE ORWELL",
+      "bbox": [
+        290.6,
+        1079.1,
+        389.6,
+        1102.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COGNI",
+      "texte_balise": "COGNI",
+      "bbox": [
+        1386.6,
+        1085.2,
+        1558.1,
+        1125.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE MASTERPIECE",
+      "texte_balise": "THE COMPLETE MASTERPIECE",
+      "bbox": [
+        657.0,
+        1091.0,
+        779.1,
+        1102.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UR FAUST",
+      "texte_balise": "UR FAUST",
+      "bbox": [
+        1802.3,
+        1093.9,
+        1886.6,
+        1108.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "URFAUST",
+      "texte_balise": "URFAUST",
+      "bbox": [
+        1802.3,
+        1096.4,
+        1886.6,
+        1110.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        287.8,
+        1099.7,
+        395.3,
+        1160.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        1197.5,
+        1116.2,
+        1317.1,
+        1144.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIONS",
+      "texte_balise": "TIONS",
+      "bbox": [
+        1389.0,
+        1123.5,
+        1547.1,
+        1168.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        1200.6,
+        1140.4,
+        1308.1,
+        1169.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranser",
+      "texte_balise": "The Stranser",
+      "bbox": [
+        157.0,
+        1152.0,
+        229.7,
+        1158.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dancer",
+      "texte_balise": "The Dancer",
+      "bbox": [
+        157.0,
+        1154.5,
+        229.7,
+        1160.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AL REPT CAMIS",
+      "texte_balise": "AL REPT CAMIS",
+      "bbox": [
+        157.0,
+        1166.2,
+        226.7,
+        1172.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners",
+      "texte_balise": "Dubliners",
+      "bbox": [
+        1197.6,
+        1166.3,
+        1314.0,
+        1192.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALBERT CAMUS",
+      "texte_balise": "ALBERT CAMUS",
+      "bbox": [
+        157.0,
+        1168.9,
+        226.7,
+        1174.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL BY",
+      "texte_balise": "A NOVEL BY",
+      "bbox": [
+        1386.6,
+        1172.2,
+        1552.3,
+        1195.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM",
+      "texte_balise": "WILLIAM",
+      "bbox": [
+        1386.5,
+        1198.0,
+        1552.4,
+        1233.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARL MARX",
+      "texte_balise": "KARL MARX",
+      "bbox": [
+        1064.0,
+        1224.1,
+        1125.0,
+        1236.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARCEL PROUST",
+      "texte_balise": "MARCEL PROUST",
+      "bbox": [
+        654.1,
+        1230.1,
+        779.1,
+        1245.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alfred North Whitehead",
+      "texte_balise": "Alfred North Whitehead",
+      "bbox": [
+        1575.6,
+        1230.1,
+        1741.3,
+        1248.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GADDIS",
+      "texte_balise": "GADDIS",
+      "bbox": [
+        1395.1,
+        1231.9,
+        1546.8,
+        1266.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capital Volume",
+      "texte_balise": "Capital Volume",
+      "bbox": [
+        1061.0,
+        1244.4,
+        1122.1,
+        1250.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GABRIEL GARCÍA MÁRQUEZ",
+      "texte_balise": "GABRIEL GARCÍA MÁRQUEZ",
+      "bbox": [
+        819.8,
+        1255.9,
+        988.4,
+        1267.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Search offost Time",
+      "texte_balise": "In Search offost Time",
+      "bbox": [
+        651.2,
+        1268.0,
+        787.8,
+        1282.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Hundred Years of Solitude",
+      "texte_balise": "One Hundred Years of Solitude",
+      "bbox": [
+        816.9,
+        1268.0,
+        997.1,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Search of Lost Time",
+      "texte_balise": "In Search of Lost Time",
+      "bbox": [
+        648.3,
+        1270.5,
+        787.8,
+        1285.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranger",
+      "texte_balise": "The Stranger",
+      "bbox": [
+        116.3,
+        1270.9,
+        194.8,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nineteen Eighty-Four",
+      "texte_balise": "Nineteen Eighty-Four",
+      "bbox": [
+        273.3,
+        1270.9,
+        401.2,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Republic",
+      "texte_balise": "Republic",
+      "bbox": [
+        497.1,
+        1270.9,
+        552.3,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capital",
+      "texte_balise": "Capital",
+      "bbox": [
+        1069.8,
+        1270.9,
+        1116.3,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners",
+      "texte_balise": "Dubliners",
+      "bbox": [
+        1250.0,
+        1270.9,
+        1314.0,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Recognitions",
+      "texte_balise": "The Recognitions",
+      "bbox": [
+        1412.8,
+        1270.9,
+        1520.3,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Process and Reality",
+      "texte_balise": "Process and Reality",
+      "bbox": [
+        1598.8,
+        1270.9,
+        1712.2,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faust",
+      "texte_balise": "Faust",
+      "bbox": [
+        1822.7,
+        1270.9,
+        1857.6,
+        1285.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The stranger",
+      "texte_balise": "The stranger",
+      "bbox": [
+        116.3,
+        1275.9,
+        191.9,
+        1285.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he kecoonitons",
+      "texte_balise": "he kecoonitons",
+      "bbox": [
+        1412.8,
+        1275.9,
+        1517.4,
+        1282.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Process and Keality",
+      "texte_balise": "Process and Keality",
+      "bbox": [
+        1598.8,
+        1275.9,
+        1709.3,
+        1285.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "canital",
+      "texte_balise": "canital",
+      "bbox": [
+        1069.8,
+        1276.3,
+        1113.4,
+        1282.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Camus",
+      "texte_balise": "Camus",
+      "bbox": [
+        136.6,
+        1285.0,
+        180.2,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orwell",
+      "texte_balise": "Orwell",
+      "bbox": [
+        316.9,
+        1285.0,
+        360.5,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato",
+      "texte_balise": "Plato",
+      "bbox": [
+        505.8,
+        1285.0,
+        540.7,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Márquez",
+      "texte_balise": "Márquez",
+      "bbox": [
+        875.0,
+        1285.0,
+        930.2,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marx",
+      "texte_balise": "Marx",
+      "bbox": [
+        1072.7,
+        1285.0,
+        1110.5,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaddis",
+      "texte_balise": "Gaddis",
+      "bbox": [
+        1441.9,
+        1285.0,
+        1488.4,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Whitehead",
+      "texte_balise": "Whitehead",
+      "bbox": [
+        1622.1,
+        1285.0,
+        1691.9,
+        1299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        1264.5,
+        1285.4,
+        1299.4,
+        1299.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plota",
+      "texte_balise": "Plota",
+      "bbox": [
+        505.8,
+        1288.3,
+        537.8,
+        1294.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Drone",
+      "texte_balise": "Drone",
+      "bbox": [
+        697.7,
+        1288.3,
+        735.5,
+        1294.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary",
+      "texte_balise": "Mary",
+      "bbox": [
+        1072.7,
+        1288.3,
+        1107.6,
+        1294.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "whitehood",
+      "texte_balise": "whitehood",
+      "bbox": [
+        1622.1,
+        1288.3,
+        1686.0,
+        1294.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Coatho",
+      "texte_balise": "Coatho",
+      "bbox": [
+        1816.9,
+        1288.3,
+        1857.6,
+        1294.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HOUSE",
+      "texte_balise": "HOUSE",
+      "bbox": [
+        697.7,
+        1290.9,
+        738.4,
+        1296.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "36.",
+      "texte_balise": "36.",
+      "bbox": [
+        1075.6,
+        1343.5,
+        1113.4,
+        1369.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "32.",
+      "texte_balise": "32.",
+      "bbox": [
+        325.6,
+        1346.4,
+        354.7,
+        1366.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "33",
+      "texte_balise": "33",
+      "bbox": [
+        514.5,
+        1346.4,
+        540.7,
+        1366.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "34.",
+      "texte_balise": "34.",
+      "bbox": [
+        703.5,
+        1346.4,
+        735.5,
+        1363.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "35.",
+      "texte_balise": "35.",
+      "bbox": [
+        892.4,
+        1346.4,
+        921.5,
+        1363.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "37.",
+      "texte_balise": "37.",
+      "bbox": [
+        1267.4,
+        1346.4,
+        1302.3,
+        1366.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "38.",
+      "texte_balise": "38.",
+      "bbox": [
+        1456.4,
+        1346.4,
+        1482.6,
+        1363.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "39.",
+      "texte_balise": "39.",
+      "bbox": [
+        1642.4,
+        1346.4,
+        1671.5,
+        1363.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "33.",
+      "texte_balise": "33.",
+      "bbox": [
+        514.5,
+        1348.9,
+        549.4,
+        1369.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "40.",
+      "texte_balise": "40.",
+      "bbox": [
+        1831.4,
+        1348.9,
+        1860.5,
+        1366.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "31.",
+      "texte_balise": "31.",
+      "bbox": [
+        139.5,
+        1349.3,
+        171.5,
+        1363.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CELIN",
+      "texte_balise": "CELIN",
+      "bbox": [
+        1572.7,
+        1372.1,
+        1712.2,
+        1392.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E",
+      "texte_balise": "E",
+      "bbox": [
+        1729.7,
+        1375.0,
+        1744.2,
+        1392.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEINBECK",
+      "texte_balise": "STEINBECK",
+      "bbox": [
+        1206.4,
+        1377.9,
+        1366.3,
+        1404.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FELLOWSHIP",
+      "texte_balise": "THE FELLOWSHIP",
+      "bbox": [
+        1392.4,
+        1383.7,
+        1549.4,
+        1398.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        282.0,
+        1389.5,
+        322.7,
+        1401.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VICT",
+      "texte_balise": "VICT",
+      "bbox": [
+        843.0,
+        1389.5,
+        880.8,
+        1404.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TUCO",
+      "texte_balise": "TUCO",
+      "bbox": [
+        918.6,
+        1389.5,
+        968.0,
+        1404.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF THE RING",
+      "texte_balise": "OF THE RING",
+      "bbox": [
+        1389.5,
+        1397.8,
+        1549.4,
+        1418.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOoK",
+      "texte_balise": "BOoK",
+      "bbox": [
+        267.4,
+        1398.0,
+        337.3,
+        1418.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les",
+      "texte_balise": "Les",
+      "bbox": [
+        880.8,
+        1406.9,
+        927.3,
+        1433.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EAST",
+      "texte_balise": "EAST",
+      "bbox": [
+        1203.2,
+        1411.6,
+        1363.7,
+        1463.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        264.5,
+        1412.7,
+        325.6,
+        1430.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Misérables",
+      "texte_balise": "Misérables",
+      "bbox": [
+        837.1,
+        1424.0,
+        971.0,
+        1453.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEw SU",
+      "texte_balise": "NEw SU",
+      "bbox": [
+        264.4,
+        1426.6,
+        357.7,
+        1445.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O5AM",
+      "texte_balise": "O5AM",
+      "bbox": [
+        636.6,
+        1436.0,
+        700.6,
+        1459.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AZNI",
+      "texte_balise": "AZNI",
+      "bbox": [
+        738.4,
+        1436.0,
+        796.5,
+        1459.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "dof the nicht",
+      "texte_balise": "dof the nicht",
+      "bbox": [
+        1659.9,
+        1467.7,
+        1738.4,
+        1473.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        1258.7,
+        1467.9,
+        1314.0,
+        1499.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IDIOT",
+      "texte_balise": "IDIOT",
+      "bbox": [
+        491.3,
+        1482.4,
+        540.7,
+        1496.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDEN",
+      "texte_balise": "EDEN",
+      "bbox": [
+        1203.5,
+        1502.7,
+        1363.4,
+        1543.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NO LONGER",
+      "texte_balise": "NO LONGER",
+      "bbox": [
+        636.6,
+        1522.7,
+        793.7,
+        1552.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions",
+      "texte_balise": "Confessions",
+      "bbox": [
+        81.4,
+        1546.2,
+        133.7,
+        1560.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J•R-R• TOLKIEN",
+      "texte_balise": "J•R-R• TOLKIEN",
+      "bbox": [
+        1389.5,
+        1557.7,
+        1549.4,
+        1578.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMAN",
+      "texte_balise": "HUMAN",
+      "bbox": [
+        662.8,
+        1563.6,
+        773.3,
+        1592.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GENE WOLFE",
+      "texte_balise": "GENE WOLFE",
+      "bbox": [
+        311.0,
+        1572.4,
+        427.3,
+        1586.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Count of Monie Criste",
+      "texte_balise": "The Count of Monie Criste",
+      "bbox": [
+        1046.5,
+        1572.4,
+        1139.5,
+        1586.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LARISSA WORKERIT",
+      "texte_balise": "LARISSA WORKERIT",
+      "bbox": [
+        447.7,
+        1575.3,
+        529.1,
+        1589.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE LORE RINGS",
+      "texte_balise": "THE LORE RINGS",
+      "bbox": [
+        1409.9,
+        1575.3,
+        1532.0,
+        1595.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Idiot",
+      "texte_balise": "The Idiot",
+      "bbox": [
+        494.1,
+        1601.2,
+        552.4,
+        1616.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of the New Sun",
+      "texte_balise": "The Book of the New Sun",
+      "bbox": [
+        264.5,
+        1601.4,
+        412.8,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "No Longer Human",
+      "texte_balise": "No Longer Human",
+      "bbox": [
+        651.2,
+        1601.4,
+        767.4,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Misérables",
+      "texte_balise": "Les Misérables",
+      "bbox": [
+        860.5,
+        1601.4,
+        947.7,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Count of Monte Cristo",
+      "texte_balise": "The Count of Monte Cristo",
+      "bbox": [
+        1017.4,
+        1601.4,
+        1174.4,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "East of Eden",
+      "texte_balise": "East of Eden",
+      "bbox": [
+        1244.2,
+        1601.4,
+        1316.9,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lord of the Rings",
+      "texte_balise": "The Lord of the Rings",
+      "bbox": [
+        1401.2,
+        1601.4,
+        1532.0,
+        1618.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journey to the End of the Night",
+      "texte_balise": "Journey to the End of the Night",
+      "bbox": [
+        1569.8,
+        1601.4,
+        1750.0,
+        1618.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meditations",
+      "texte_balise": "Meditations",
+      "bbox": [
+        1814.0,
+        1601.4,
+        1889.5,
+        1615.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steinbeck",
+      "texte_balise": "Steinbeck",
+      "bbox": [
+        1247.0,
+        1615.6,
+        1311.1,
+        1630.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Augustine",
+      "texte_balise": "Augustine",
+      "bbox": [
+        119.2,
+        1615.9,
+        180.2,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolfe",
+      "texte_balise": "Wolfe",
+      "bbox": [
+        316.9,
+        1615.9,
+        354.7,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoevsky",
+      "texte_balise": "Dostoevsky",
+      "bbox": [
+        488.4,
+        1615.9,
+        558.1,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dazai",
+      "texte_balise": "Dazai",
+      "bbox": [
+        691.9,
+        1615.9,
+        732.6,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hugo",
+      "texte_balise": "Hugo",
+      "bbox": [
+        886.6,
+        1615.9,
+        924.4,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dumas",
+      "texte_balise": "Dumas",
+      "bbox": [
+        1066.9,
+        1615.9,
+        1113.4,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolkien",
+      "texte_balise": "Tolkien",
+      "bbox": [
+        1444.8,
+        1615.9,
+        1491.3,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Céline",
+      "texte_balise": "Céline",
+      "bbox": [
+        1633.7,
+        1615.9,
+        1674.4,
+        1630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "45.",
+      "texte_balise": "45.",
+      "bbox": [
+        892.4,
+        1679.7,
+        921.5,
+        1694.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "50.",
+      "texte_balise": "50.",
+      "bbox": [
+        1831.4,
+        1679.7,
+        1863.4,
+        1697.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "42.",
+      "texte_balise": "42.",
+      "bbox": [
+        328.5,
+        1682.6,
+        354.7,
+        1697.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "43.",
+      "texte_balise": "43.",
+      "bbox": [
+        514.5,
+        1682.6,
+        546.5,
+        1697.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "47.",
+      "texte_balise": "47.",
+      "bbox": [
+        1267.4,
+        1682.6,
+        1299.4,
+        1700.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "49.",
+      "texte_balise": "49.",
+      "bbox": [
+        1642.4,
+        1682.6,
+        1674.4,
+        1700.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the CATCHER",
+      "texte_balise": "the CATCHER",
+      "bbox": [
+        441.9,
+        1708.6,
+        616.3,
+        1734.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Confederacy of",
+      "texte_balise": "A Confederacy of",
+      "bbox": [
+        1017.4,
+        1708.6,
+        1174.4,
+        1723.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATCH-22",
+      "texte_balise": "CATCH-22",
+      "bbox": [
+        814.0,
+        1714.6,
+        988.4,
+        1775.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEGEL'S",
+      "texte_balise": "HEGEL'S",
+      "bbox": [
+        633.4,
+        1715.9,
+        808.5,
+        1756.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORM",
+      "texte_balise": "STORM",
+      "bbox": [
+        1404.0,
+        1720.2,
+        1529.1,
+        1746.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNCES",
+      "texte_balise": "DUNCES",
+      "bbox": [
+        1046.4,
+        1725.2,
+        1145.5,
+        1738.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "metamorphosis",
+      "texte_balise": "metamorphosis",
+      "bbox": [
+        258.7,
+        1725.9,
+        421.6,
+        1758.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ficciones",
+      "texte_balise": "Ficciones",
+      "bbox": [
+        87.2,
+        1726.2,
+        215.1,
+        1752.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the RYE",
+      "texte_balise": "in the RYE",
+      "bbox": [
+        441.8,
+        1737.6,
+        569.8,
+        1764.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WINNER OF THE PULITZER PRIZE",
+      "texte_balise": "WINNER OF THE PULITZER PRIZE",
+      "bbox": [
+        1005.8,
+        1737.6,
+        1183.1,
+        1752.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF STEEL",
+      "texte_balise": "OF STEEL",
+      "bbox": [
+        1386.6,
+        1746.5,
+        1552.3,
+        1772.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN KENNEDY TOOLE",
+      "texte_balise": "JOHN KENNEDY TOOLE",
+      "bbox": [
+        1011.6,
+        1752.3,
+        1177.3,
+        1766.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phenomenolog?",
+      "texte_balise": "Phenomenolog?",
+      "bbox": [
+        636.6,
+        1755.2,
+        799.4,
+        1775.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Spirit",
+      "texte_balise": "of Spirit",
+      "bbox": [
+        633.7,
+        1772.5,
+        726.7,
+        1792.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1892.4,
+        1845.1,
+        1933.1,
+        1868.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Master",
+      "texte_balise": "Master",
+      "bbox": [
+        1834.2,
+        1859.3,
+        1927.4,
+        1886.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERNST JUNGER",
+      "texte_balise": "ERNST JUNGER",
+      "bbox": [
+        1386.6,
+        1882.5,
+        1552.3,
+        1903.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        1866.3,
+        1882.9,
+        1907.0,
+        1900.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "¡JOSEPH HELLER",
+      "texte_balise": "¡JOSEPH HELLER",
+      "bbox": [
+        816.7,
+        1888.1,
+        985.6,
+        1921.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "trans katka",
+      "texte_balise": "trans katka",
+      "bbox": [
+        290.7,
+        1888.5,
+        372.1,
+        1903.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Margarita",
+      "texte_balise": "Margarita",
+      "bbox": [
+        1796.3,
+        1893.8,
+        1933.3,
+        1930.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• BORGES",
+      "texte_balise": "• BORGES",
+      "bbox": [
+        63.8,
+        1899.5,
+        241.4,
+        1933.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "a novel by J. D/SALINGER",
+      "texte_balise": "a novel by J. D/SALINGER",
+      "bbox": [
+        441.9,
+        1917.5,
+        616.3,
+        1932.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ficciones",
+      "texte_balise": "Ficciones",
+      "bbox": [
+        122.1,
+        1935.1,
+        180.2,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Metamorphosis",
+      "texte_balise": "The Metamorphosis",
+      "bbox": [
+        282.0,
+        1935.1,
+        401.2,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Catcher in the Rye",
+      "texte_balise": "The Catcher in the Rye",
+      "bbox": [
+        465.1,
+        1935.1,
+        601.7,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phenomenology of Spirit",
+      "texte_balise": "Phenomenology of Spirit",
+      "bbox": [
+        642.4,
+        1935.1,
+        787.8,
+        1952.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catch-22",
+      "texte_balise": "Catch-22",
+      "bbox": [
+        872.1,
+        1935.1,
+        927.3,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Confederacy of Dunces",
+      "texte_balise": "A Confederacy of Dunces",
+      "bbox": [
+        1017.4,
+        1935.1,
+        1168.6,
+        1952.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sailor Who Fell from Grace...",
+      "texte_balise": "The Sailor Who Fell from Grace...",
+      "bbox": [
+        1189.0,
+        1935.1,
+        1380.8,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Storm of Steel",
+      "texte_balise": "Storm of Steel",
+      "bbox": [
+        1430.2,
+        1935.1,
+        1511.6,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Man Without Qualities",
+      "texte_balise": "The Man Without Qualities",
+      "bbox": [
+        1575.6,
+        1935.1,
+        1735.5,
+        1949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Master and Margarita",
+      "texte_balise": "The Master and Margarita",
+      "bbox": [
+        1770.3,
+        1935.1,
+        1924.4,
+        1952.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mishima",
+      "texte_balise": "Mishima",
+      "bbox": [
+        1249.8,
+        1948.9,
+        1305.4,
+        1964.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bulgakov",
+      "texte_balise": "Bulgakov",
+      "bbox": [
+        1819.6,
+        1948.9,
+        1878.1,
+        1964.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Borges",
+      "texte_balise": "Borges",
+      "bbox": [
+        130.8,
+        1949.6,
+        171.5,
+        1967.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kafka",
+      "texte_balise": "Kafka",
+      "bbox": [
+        322.7,
+        1949.6,
+        360.5,
+        1964.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Salinger",
+      "texte_balise": "Salinger",
+      "bbox": [
+        502.9,
+        1949.6,
+        558.1,
+        1964.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hegel",
+      "texte_balise": "Hegel",
+      "bbox": [
+        694.8,
+        1949.6,
+        732.6,
+        1964.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heller",
+      "texte_balise": "Heller",
+      "bbox": [
+        875.0,
+        1949.6,
+        918.6,
+        1961.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Toole",
+      "texte_balise": "Toole",
+      "bbox": [
+        1072.7,
+        1949.6,
+        1110.5,
+        1964.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Musil",
+      "texte_balise": "Musil",
+      "bbox": [
+        1630.8,
+        1949.6,
+        1668.6,
+        1961.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "54.",
+      "texte_balise": "54.",
+      "bbox": [
+        700.6,
+        2010.6,
+        735.5,
+        2033.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "55.",
+      "texte_balise": "55.",
+      "bbox": [
+        892.4,
+        2010.6,
+        921.5,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "51.",
+      "texte_balise": "51.",
+      "bbox": [
+        139.5,
+        2013.5,
+        171.5,
+        2030.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "52.",
+      "texte_balise": "52.",
+      "bbox": [
+        328.5,
+        2013.5,
+        354.7,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "53.",
+      "texte_balise": "53.",
+      "bbox": [
+        514.5,
+        2013.5,
+        546.5,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "57.",
+      "texte_balise": "57.",
+      "bbox": [
+        1267.4,
+        2013.5,
+        1299.4,
+        2030.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "58.",
+      "texte_balise": "58.",
+      "bbox": [
+        1456.4,
+        2013.5,
+        1485.5,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "59.",
+      "texte_balise": "59.",
+      "bbox": [
+        1642.4,
+        2013.5,
+        1674.4,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "60.",
+      "texte_balise": "60.",
+      "bbox": [
+        1831.4,
+        2013.5,
+        1863.4,
+        2030.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM H GASS",
+      "texte_balise": "WILLIAM H GASS",
+      "bbox": [
+        1404.1,
+        2039.4,
+        1549.4,
+        2057.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMER I-",
+      "texte_balise": "AMER I-",
+      "bbox": [
+        1767.4,
+        2039.4,
+        1927.3,
+        2065.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIRGINIA",
+      "texte_balise": "VIRGINIA",
+      "bbox": [
+        630.8,
+        2039.6,
+        802.3,
+        2059.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRAVENENWORLD",
+      "texte_balise": "BRAVENENWORLD",
+      "bbox": [
+        1572.7,
+        2039.6,
+        1738.4,
+        2083.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEART OF DARKNESS",
+      "texte_balise": "HEART OF DARKNESS",
+      "bbox": [
+        1203.5,
+        2042.4,
+        1360.5,
+        2060.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUSTAVE FLAUBERT",
+      "texte_balise": "GUSTAVE FLAUBERT",
+      "bbox": [
+        101.7,
+        2054.1,
+        203.5,
+        2068.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TUNNEL",
+      "texte_balise": "THE TUNNEL",
+      "bbox": [
+        1401.2,
+        2054.1,
+        1549.4,
+        2080.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WooLF",
+      "texte_balise": "WooLF",
+      "bbox": [
+        650.9,
+        2067.2,
+        779.4,
+        2096.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAN",
+      "texte_balise": "CAN",
+      "bbox": [
+        1761.6,
+        2077.3,
+        1848.8,
+        2103.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOO",
+      "texte_balise": "NOO",
+      "bbox": [
+        1125.0,
+        2083.1,
+        1180.2,
+        2263.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hopscotch +",
+      "texte_balise": "Hopscotch +",
+      "bbox": [
+        293.6,
+        2088.9,
+        404.1,
+        2103.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PSYCHO",
+      "texte_balise": "PSYCHO",
+      "bbox": [
+        1761.6,
+        2117.6,
+        1930.3,
+        2147.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AB T",
+      "texte_balise": "AB T",
+      "bbox": [
+        1834.3,
+        2158.3,
+        1927.3,
+        2182.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGHTHOUSE",
+      "texte_balise": "AGHTHOUSE",
+      "bbox": [
+        651.2,
+        2164.4,
+        790.7,
+        2178.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IS Cortes",
+      "texte_balise": "IS Cortes",
+      "bbox": [
+        276.2,
+        2193.3,
+        395.3,
+        2208.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "EASTON",
+      "texte_balise": "EASTON",
+      "bbox": [
+        1764.5,
+        2196.0,
+        1927.4,
+        2225.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OSEPH",
+      "texte_balise": "OSEPH",
+      "bbox": [
+        1229.7,
+        2205.0,
+        1351.7,
+        2234.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONRAD",
+      "texte_balise": "CONRAD",
+      "bbox": [
+        1212.2,
+        2231.0,
+        1351.8,
+        2260.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aquinse Nature (A Rebouns)",
+      "texte_balise": "Aquinse Nature (A Rebouns)",
+      "bbox": [
+        476.7,
+        2234.0,
+        584.3,
+        2248.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALDOUSHUXLEY",
+      "texte_balise": "ALDOUSHUXLEY",
+      "bbox": [
+        1575.6,
+        2234.0,
+        1729.7,
+        2260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "S",
+      "texte_balise": "S",
+      "bbox": [
+        1907.0,
+        2236.9,
+        1927.3,
+        2265.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Madame Borary",
+      "texte_balise": "Madame Borary",
+      "bbox": [
+        95.9,
+        2263.0,
+        186.0,
+        2277.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Against Nature",
+      "texte_balise": "Against Nature",
+      "bbox": [
+        485.5,
+        2265.9,
+        575.6,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To The Lighthouse",
+      "texte_balise": "To The Lighthouse",
+      "bbox": [
+        659.9,
+        2265.9,
+        770.3,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise Lost",
+      "texte_balise": "Paradise Lost",
+      "bbox": [
+        863.4,
+        2265.9,
+        944.8,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2666",
+      "texte_balise": "2666",
+      "bbox": [
+        1075.6,
+        2265.9,
+        1107.6,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heart of Darkness",
+      "texte_balise": "Heart of Darkness",
+      "bbox": [
+        1229.7,
+        2265.9,
+        1340.1,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tunnel",
+      "texte_balise": "The Tunnel",
+      "bbox": [
+        1415.7,
+        2265.9,
+        1488.4,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brave New World",
+      "texte_balise": "Brave New World",
+      "bbox": [
+        1598.8,
+        2265.9,
+        1703.5,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "American Psycho",
+      "texte_balise": "American Psycho",
+      "bbox": [
+        1790.7,
+        2265.9,
+        1895.3,
+        2280.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hopscotch",
+      "texte_balise": "Hopscotch",
+      "bbox": [
+        305.2,
+        2268.8,
+        366.3,
+        2283.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tanher",
+      "texte_balise": "Tanher",
+      "bbox": [
+        113.1,
+        2276.9,
+        160.3,
+        2287.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Woolf",
+      "texte_balise": "Woolf",
+      "bbox": [
+        697.7,
+        2277.6,
+        735.5,
+        2292.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Milton",
+      "texte_balise": "Milton",
+      "bbox": [
+        880.8,
+        2277.6,
+        924.4,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ellis",
+      "texte_balise": "Ellis",
+      "bbox": [
+        1825.6,
+        2277.6,
+        1857.6,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bolaño",
+      "texte_balise": "Bolaño",
+      "bbox": [
+        1066.9,
+        2280.5,
+        1113.4,
+        2292.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Conrad",
+      "texte_balise": "Conrad",
+      "bbox": [
+        1258.7,
+        2280.5,
+        1308.1,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gass",
+      "texte_balise": "Gass",
+      "bbox": [
+        1439.0,
+        2280.5,
+        1468.0,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Huxley",
+      "texte_balise": "Huxley",
+      "bbox": [
+        1627.9,
+        2280.5,
+        1674.4,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cortazer",
+      "texte_balise": "Cortazer",
+      "bbox": [
+        308.1,
+        2283.4,
+        360.5,
+        2292.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "61.",
+      "texte_balise": "61.",
+      "bbox": [
+        139.5,
+        2344.3,
+        171.5,
+        2361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "63.",
+      "texte_balise": "63.",
+      "bbox": [
+        517.4,
+        2344.3,
+        543.6,
+        2358.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "65.",
+      "texte_balise": "65.",
+      "bbox": [
+        892.4,
+        2344.3,
+        921.5,
+        2358.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "66.",
+      "texte_balise": "66.",
+      "bbox": [
+        1078.5,
+        2344.3,
+        1110.5,
+        2358.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "67.",
+      "texte_balise": "67.",
+      "bbox": [
+        1267.4,
+        2344.3,
+        1302.3,
+        2364.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "68.",
+      "texte_balise": "68.",
+      "bbox": [
+        1456.4,
+        2344.3,
+        1485.5,
+        2361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "69.",
+      "texte_balise": "69.",
+      "bbox": [
+        1645.3,
+        2344.3,
+        1674.4,
+        2361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "70.",
+      "texte_balise": "70.",
+      "bbox": [
+        1831.4,
+        2344.3,
+        1863.4,
+        2361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIDDHARTHA",
+      "texte_balise": "SIDDHARTHA",
+      "bbox": [
+        255.6,
+        2369.5,
+        430.4,
+        2409.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SOUND",
+      "texte_balise": "THE SOUND",
+      "bbox": [
+        653.9,
+        2381.3,
+        776.3,
+        2405.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VINTAGE MANN",
+      "texte_balise": "VINTAGE MANN",
+      "bbox": [
+        142.4,
+        2382.0,
+        232.6,
+        2393.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FEAR",
+      "texte_balise": "FEAR",
+      "bbox": [
+        1444.8,
+        2384.9,
+        1491.3,
+        2399.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIE RED AND",
+      "texte_balise": "TIE RED AND",
+      "bbox": [
+        1790.5,
+        2386.5,
+        1915.9,
+        2414.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kokoro",
+      "texte_balise": "Kokoro",
+      "bbox": [
+        1700.6,
+        2387.8,
+        1744.2,
+        2402.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND TREMBLING",
+      "texte_balise": "AND TREMBLING",
+      "bbox": [
+        1395.3,
+        2402.1,
+        1540.7,
+        2417.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMANN",
+      "texte_balise": "HERMANN",
+      "bbox": [
+        270.3,
+        2402.3,
+        412.8,
+        2434.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE FURY",
+      "texte_balise": "AND THE FURY",
+      "bbox": [
+        645.3,
+        2405.1,
+        784.9,
+        2428.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        819.6,
+        2413.3,
+        939.1,
+        2443.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"HE BLACK",
+      "texte_balise": "\"HE BLACK",
+      "bbox": [
+        1793.6,
+        2414.0,
+        1904.1,
+        2428.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BLACK",
+      "texte_balise": "THE BLACK",
+      "bbox": [
+        1796.5,
+        2416.5,
+        1904.1,
+        2431.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPETITION",
+      "texte_balise": "REPETITION",
+      "bbox": [
+        1415.7,
+        2422.7,
+        1520.3,
+        2437.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HESSE",
+      "texte_balise": "HESSE",
+      "bbox": [
+        296.2,
+        2427.6,
+        389.8,
+        2461.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILHAM FAULKNER",
+      "texte_balise": "WILHAM FAULKNER",
+      "bbox": [
+        668.6,
+        2428.0,
+        758.7,
+        2434.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        819.8,
+        2440.1,
+        930.2,
+        2472.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Portrait",
+      "texte_balise": "A Portrait",
+      "bbox": [
+        822.5,
+        2468.4,
+        933.3,
+        2493.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the MAGIC MOUNTAIN",
+      "texte_balise": "the MAGIC MOUNTAIN",
+      "bbox": [
+        75.6,
+        2486.0,
+        191.9,
+        2495.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Artist",
+      "texte_balise": "of the Artist",
+      "bbox": [
+        819.7,
+        2488.9,
+        962.3,
+        2510.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas",
+      "texte_balise": "Thomas",
+      "bbox": [
+        1061.0,
+        2492.1,
+        1165.7,
+        2521.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moa Young",
+      "texte_balise": "Moa Young",
+      "bbox": [
+        816.9,
+        2506.8,
+        962.2,
+        2553.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "as a Young",
+      "texte_balise": "as a Young",
+      "bbox": [
+        819.8,
+        2512.0,
+        956.4,
+        2536.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bernhard",
+      "texte_balise": "Bernhard",
+      "bbox": [
+        1020.2,
+        2517.8,
+        1180.4,
+        2551.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Soren Kierkeyaand",
+      "texte_balise": "Soren Kierkeyaand",
+      "bbox": [
+        1421.5,
+        2526.9,
+        1508.7,
+        2533.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Man",
+      "texte_balise": "Man",
+      "bbox": [
+        822.7,
+        2529.8,
+        880.8,
+        2553.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Correction",
+      "texte_balise": "Correction",
+      "bbox": [
+        1055.2,
+        2555.9,
+        1157.0,
+        2570.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHEL DE MONTAIGNE",
+      "texte_balise": "MICHEL DE MONTAIGNE",
+      "bbox": [
+        468.0,
+        2556.0,
+        590.1,
+        2562.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capacion",
+      "texte_balise": "Capacion",
+      "bbox": [
+        1055.2,
+        2556.2,
+        1154.1,
+        2564.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MIKHAI EPMONTON",
+      "texte_balise": "MIKHAI EPMONTON",
+      "bbox": [
+        1223.8,
+        2559.0,
+        1337.2,
+        2565.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MIKHAIL LEKMONTOY",
+      "texte_balise": "MIKHAIL LEKMONTOY",
+      "bbox": [
+        1223.8,
+        2561.7,
+        1337.2,
+        2568.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Hero of Our Time",
+      "texte_balise": "A Hero of Our Time",
+      "bbox": [
+        1244.2,
+        2567.8,
+        1319.8,
+        2582.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Red and the Blac",
+      "texte_balise": "The Red and the Blac",
+      "bbox": [
+        1782.0,
+        2593.9,
+        1909.9,
+        2608.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fear and Trembling",
+      "texte_balise": "Fear and Trembling",
+      "bbox": [
+        1406.9,
+        2596.4,
+        1526.2,
+        2617.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Red and the Black",
+      "texte_balise": "The Red and the Black",
+      "bbox": [
+        1782.0,
+        2596.6,
+        1909.9,
+        2611.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Magic Mountain",
+      "texte_balise": "The Magic Mountain",
+      "bbox": [
+        87.2,
+        2596.8,
+        212.2,
+        2617.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Siddhartha",
+      "texte_balise": "Siddhartha",
+      "bbox": [
+        299.4,
+        2596.8,
+        369.2,
+        2611.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays",
+      "texte_balise": "Essays",
+      "bbox": [
+        502.9,
+        2596.8,
+        546.5,
+        2614.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sound and the Fury",
+      "texte_balise": "The Sound and the Fury",
+      "bbox": [
+        645.3,
+        2596.8,
+        790.7,
+        2617.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Portrait of the Artist as a Young Man",
+      "texte_balise": "A Portrait of the Artist as a Young Man",
+      "bbox": [
+        793.6,
+        2596.8,
+        1017.4,
+        2617.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Correction",
+      "texte_balise": "Correction",
+      "bbox": [
+        1055.2,
+        2596.8,
+        1122.1,
+        2617.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Hero of Our Time",
+      "texte_balise": "A Hero of Our Time",
+      "bbox": [
+        1220.9,
+        2596.8,
+        1340.1,
+        2614.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kokoro",
+      "texte_balise": "Kokoro",
+      "bbox": [
+        1625.0,
+        2599.5,
+        1671.5,
+        2614.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stendhal",
+      "texte_balise": "Stendhal",
+      "bbox": [
+        1816.9,
+        2611.1,
+        1872.1,
+        2622.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hesse",
+      "texte_balise": "Hesse",
+      "bbox": [
+        314.0,
+        2614.0,
+        351.7,
+        2625.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faulkner",
+      "texte_balise": "Faulkner",
+      "bbox": [
+        689.0,
+        2614.0,
+        747.1,
+        2628.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bernhard",
+      "texte_balise": "Bernhard",
+      "bbox": [
+        1058.1,
+        2614.0,
+        1116.3,
+        2625.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kierkegaard",
+      "texte_balise": "Kierkegaard",
+      "bbox": [
+        1427.3,
+        2614.0,
+        1502.9,
+        2628.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Söseki",
+      "texte_balise": "Söseki",
+      "bbox": [
+        1627.9,
+        2614.0,
+        1671.5,
+        2628.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mann",
+      "texte_balise": "Mann",
+      "bbox": [
+        127.9,
+        2616.9,
+        162.8,
+        2625.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Montaigne",
+      "texte_balise": "Montaigne",
+      "bbox": [
+        488.4,
+        2616.9,
+        552.3,
+        2625.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        883.7,
+        2616.9,
+        918.6,
+        2628.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEEHORLOV",
+      "texte_balise": "LEEHORLOV",
+      "bbox": [
+        1247.1,
+        2619.8,
+        1311.0,
+        2625.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "74.",
+      "texte_balise": "74.",
+      "bbox": [
+        703.5,
+        2675.0,
+        735.5,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "76.",
+      "texte_balise": "76.",
+      "bbox": [
+        1078.5,
+        2675.0,
+        1113.4,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "71",
+      "texte_balise": "71",
+      "bbox": [
+        139.5,
+        2677.9,
+        162.8,
+        2692.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "72.",
+      "texte_balise": "72.",
+      "bbox": [
+        325.6,
+        2677.9,
+        354.7,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "73.",
+      "texte_balise": "73.",
+      "bbox": [
+        514.5,
+        2677.9,
+        543.6,
+        2692.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "75.",
+      "texte_balise": "75.",
+      "bbox": [
+        892.4,
+        2677.9,
+        921.5,
+        2692.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "77.",
+      "texte_balise": "77.",
+      "bbox": [
+        1267.4,
+        2677.9,
+        1299.4,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "78.",
+      "texte_balise": "78.",
+      "bbox": [
+        1453.5,
+        2677.9,
+        1482.6,
+        2692.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "79.",
+      "texte_balise": "79.",
+      "bbox": [
+        1642.4,
+        2677.9,
+        1674.4,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "80.",
+      "texte_balise": "80.",
+      "bbox": [
+        1831.4,
+        2677.9,
+        1863.4,
+        2695.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        69.1,
+        2696.4,
+        242.0,
+        2766.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SOIL",
+      "texte_balise": "THE SOIL",
+      "bbox": [
+        1023.3,
+        2704.0,
+        1154.1,
+        2742.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WTH O",
+      "texte_balise": "WTH O",
+      "bbox": [
+        1061.0,
+        2704.0,
+        1162.8,
+        2724.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        819.8,
+        2706.9,
+        991.3,
+        2759.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SUN G",
+      "texte_balise": "THE SUN G",
+      "bbox": [
+        1776.2,
+        2706.9,
+        1921.5,
+        2727.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Aquinas",
+      "texte_balise": "Thomas Aquinas",
+      "bbox": [
+        642.4,
+        2709.8,
+        793.6,
+        2727.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCHOPENHAVER",
+      "texte_balise": "SCHOPENHAVER",
+      "bbox": [
+        1625.0,
+        2709.8,
+        1694.8,
+        2730.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RISES",
+      "texte_balise": "RISES",
+      "bbox": [
+        1848.8,
+        2724.3,
+        1918.6,
+        2741.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALSO",
+      "texte_balise": "ALSO",
+      "bbox": [
+        1776.0,
+        2726.6,
+        1846.1,
+        2745.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The World as Will and",
+      "texte_balise": "The World as Will and",
+      "bbox": [
+        1607.6,
+        2735.9,
+        1712.2,
+        2750.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTI",
+      "texte_balise": "FYODOR DOSTI",
+      "bbox": [
+        1409.9,
+        2741.8,
+        1482.6,
+        2753.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "kepresentation",
+      "texte_balise": "kepresentation",
+      "bbox": [
+        1622.1,
+        2753.4,
+        1691.9,
+        2759.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PALE FIRE",
+      "texte_balise": "PALE FIRE",
+      "bbox": [
+        255.8,
+        2762.0,
+        430.2,
+        2835.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOLUME Y",
+      "texte_balise": "VOLUME Y",
+      "bbox": [
+        1639.5,
+        2765.0,
+        1680.2,
+        2771.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Finnegans",
+      "texte_balise": "Finnegans",
+      "bbox": [
+        820.6,
+        2775.3,
+        980.9,
+        2818.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEMONS",
+      "texte_balise": "DEMONS",
+      "bbox": [
+        1436.0,
+        2811.3,
+        1514.6,
+        2829.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wake",
+      "texte_balise": "Wake",
+      "bbox": [
+        851.7,
+        2811.4,
+        944.8,
+        2843.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TH E",
+      "texte_balise": "TH E",
+      "bbox": [
+        1215.1,
+        2834.7,
+        1261.6,
+        2849.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A NEW NOVEL BY",
+      "texte_balise": "A NEW NOVEL BY",
+      "bbox": [
+        308.0,
+        2839.9,
+        380.9,
+        2855.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ECHAND PETER LESSA VOLDERONSKY",
+      "texte_balise": "ECHAND PETER LESSA VOLDERONSKY",
+      "bbox": [
+        1409.9,
+        2846.0,
+        1523.3,
+        2852.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ELEMENTAR",
+      "texte_balise": "ELEMENTAR",
+      "bbox": [
+        1197.7,
+        2849.2,
+        1345.9,
+        2863.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        825.3,
+        2857.3,
+        982.8,
+        2925.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VLADIMIR NABOKOV",
+      "texte_balise": "VLADIMIR NABOKOV",
+      "bbox": [
+        261.6,
+        2857.9,
+        427.3,
+        2881.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PART",
+      "texte_balise": "PART",
+      "bbox": [
+        1212.2,
+        2860.8,
+        1279.1,
+        2878.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Summa",
+      "texte_balise": "Summa",
+      "bbox": [
+        677.2,
+        2863.2,
+        755.9,
+        2881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF LOLITA",
+      "texte_balise": "AUTHOR OF LOLITA",
+      "bbox": [
+        308.1,
+        2884.0,
+        383.7,
+        2896.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theologica",
+      "texte_balise": "Theologica",
+      "bbox": [
+        659.8,
+        2886.7,
+        773.3,
+        2910.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "7 Rhamma",
+      "texte_balise": "7 Rhamma",
+      "bbox": [
+        494.2,
+        2898.6,
+        564.0,
+        2904.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "HEMINGWAY",
+      "texte_balise": "HEMINGWAY",
+      "bbox": [
+        1831.4,
+        2910.2,
+        1927.3,
+        2924.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Finnegans Wake",
+      "texte_balise": "Finnegans Wake",
+      "bbox": [
+        854.4,
+        2929.3,
+        950.8,
+        2949.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dune",
+      "texte_balise": "Dune",
+      "bbox": [
+        127.9,
+        2930.5,
+        165.7,
+        2945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pale Fire",
+      "texte_balise": "Pale Fire",
+      "bbox": [
+        314.0,
+        2930.5,
+        369.2,
+        2948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bhagavad Gita",
+      "texte_balise": "The Bhagavad Gita",
+      "bbox": [
+        476.7,
+        2930.5,
+        587.2,
+        2948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Summa Theologica",
+      "texte_balise": "Summa Theologica",
+      "bbox": [
+        662.8,
+        2930.5,
+        779.1,
+        2948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Growth of the Soil",
+      "texte_balise": "Growth of the Soil",
+      "bbox": [
+        1034.9,
+        2930.5,
+        1142.4,
+        2945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Elementary Particles",
+      "texte_balise": "The Elementary Particles",
+      "bbox": [
+        1203.5,
+        2930.5,
+        1351.7,
+        2948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Demons",
+      "texte_balise": "Demons",
+      "bbox": [
+        1439.0,
+        2930.5,
+        1491.3,
+        2945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The World as Will and Representation",
+      "texte_balise": "The World as Will and Representation",
+      "bbox": [
+        1546.5,
+        2930.5,
+        1770.3,
+        2948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sun Also Rises",
+      "texte_balise": "The Sun Also Rises",
+      "bbox": [
+        1790.7,
+        2930.5,
+        1907.0,
+        2945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herbert",
+      "texte_balise": "Herbert",
+      "bbox": [
+        122.1,
+        2945.0,
+        171.5,
+        2959.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nabokov",
+      "texte_balise": "Nabokov",
+      "bbox": [
+        311.0,
+        2945.0,
+        369.2,
+        2959.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Houellebeca",
+      "texte_balise": "Houellebeca",
+      "bbox": [
+        1241.3,
+        2945.0,
+        1319.8,
+        2959.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Schopenhauer®",
+      "texte_balise": "Schopenhauer®",
+      "bbox": [
+        1610.5,
+        2945.0,
+        1697.7,
+        2962.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hemingway",
+      "texte_balise": "Hemingway",
+      "bbox": [
+        1811.0,
+        2945.0,
+        1883.7,
+        2962.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comsuln",
+      "texte_balise": "Comsuln",
+      "bbox": [
+        1057.9,
+        2947.4,
+        1108.0,
+        2957.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        883.7,
+        2947.9,
+        918.6,
+        2959.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoevsky",
+      "texte_balise": "Dostoevsky",
+      "bbox": [
+        1430.2,
+        2947.9,
+        1497.1,
+        2956.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "81.",
+      "texte_balise": "81.",
+      "bbox": [
+        136.6,
+        3006.0,
+        174.4,
+        3032.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "85.",
+      "texte_balise": "85.",
+      "bbox": [
+        886.6,
+        3006.0,
+        921.5,
+        3026.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "86.",
+      "texte_balise": "86.",
+      "bbox": [
+        1075.6,
+        3006.0,
+        1107.6,
+        3026.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "87.",
+      "texte_balise": "87.",
+      "bbox": [
+        1264.5,
+        3006.0,
+        1299.4,
+        3032.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "89.",
+      "texte_balise": "89.",
+      "bbox": [
+        1642.4,
+        3006.0,
+        1674.4,
+        3026.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "90.",
+      "texte_balise": "90.",
+      "bbox": [
+        1828.5,
+        3006.0,
+        1863.4,
+        3029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "82.",
+      "texte_balise": "82.",
+      "bbox": [
+        325.6,
+        3008.9,
+        357.6,
+        3029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "83",
+      "texte_balise": "83",
+      "bbox": [
+        514.5,
+        3008.9,
+        540.7,
+        3023.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "88.",
+      "texte_balise": "88.",
+      "bbox": [
+        1456.4,
+        3008.9,
+        1482.6,
+        3026.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1063.7,
+        3031.6,
+        1186.3,
+        3082.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1816.9,
+        3032.1,
+        1875.0,
+        3061.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CRYING OF",
+      "texte_balise": "THE CRYING OF",
+      "bbox": [
+        1199.1,
+        3033.5,
+        1353.0,
+        3068.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAPES -WRATH",
+      "texte_balise": "GRAPES -WRATH",
+      "bbox": [
+        633.7,
+        3043.7,
+        802.3,
+        3061.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DECUNE",
+      "texte_balise": "DECUNE",
+      "bbox": [
+        1761.6,
+        3049.6,
+        1927.3,
+        3096.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LOT 49",
+      "texte_balise": "LOT 49",
+      "bbox": [
+        1296.5,
+        3058.0,
+        1366.3,
+        3084.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Steinbeck",
+      "texte_balise": "John Steinbeck",
+      "bbox": [
+        648.1,
+        3060.5,
+        779.2,
+        3093.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "invisible",
+      "texte_balise": "invisible",
+      "bbox": [
+        851.7,
+        3064.1,
+        898.3,
+        3069.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHEKPRTAMES",
+      "texte_balise": "SHEKPRTAMES",
+      "bbox": [
+        1619.2,
+        3064.1,
+        1697.7,
+        3069.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SAVAGE",
+      "texte_balise": "SAVAGE",
+      "bbox": [
+        997.1,
+        3078.6,
+        1186.0,
+        3136.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        1799.4,
+        3087.0,
+        1892.4,
+        3113.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WEST",
+      "texte_balise": "WEST",
+      "bbox": [
+        1784.9,
+        3104.7,
+        1915.7,
+        3142.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Under the",
+      "texte_balise": "Under the",
+      "bbox": [
+        261.3,
+        3132.2,
+        421.8,
+        3170.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DETECTIVES",
+      "texte_balise": "DETECTIVES",
+      "bbox": [
+        1000.0,
+        3133.8,
+        1183.1,
+        3162.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Alley Bane",
+      "texte_balise": "An Alley Bane",
+      "bbox": [
+        1811.0,
+        3145.0,
+        1877.9,
+        3154.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Volcano",
+      "texte_balise": "Volcano",
+      "bbox": [
+        261.6,
+        3168.6,
+        407.0,
+        3200.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERTO",
+      "texte_balise": "ROBERTO",
+      "bbox": [
+        1014.4,
+        3182.4,
+        1183.3,
+        3218.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL",
+      "texte_balise": "A NOVEL",
+      "bbox": [
+        284.9,
+        3197.6,
+        345.9,
+        3215.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "calvino",
+      "texte_balise": "calvino",
+      "bbox": [
+        822.7,
+        3200.6,
+        991.3,
+        3241.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Malcolm Lowry",
+      "texte_balise": "Malcolm Lowry",
+      "bbox": [
+        264.5,
+        3215.0,
+        421.5,
+        3238.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOLAÑO",
+      "texte_balise": "BOLAÑO",
+      "bbox": [
+        1034.9,
+        3215.1,
+        1186.0,
+        3252.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OSWALD SPENGLER",
+      "texte_balise": "OSWALD SPENGLER",
+      "bbox": [
+        1761.6,
+        3232.0,
+        1927.3,
+        3250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS PYNCHON",
+      "texte_balise": "THOMAS PYNCHON",
+      "bbox": [
+        1197.7,
+        3238.0,
+        1366.3,
+        3262.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden Bowl",
+      "texte_balise": "The Golden Bowl",
+      "bbox": [
+        1604.7,
+        3258.6,
+        1703.5,
+        3273.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions of a Mask",
+      "texte_balise": "Confessions of a Mask",
+      "bbox": [
+        87.2,
+        3261.5,
+        218.0,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tristram Shandy",
+      "texte_balise": "Tristram Shandy",
+      "bbox": [
+        473.8,
+        3261.5,
+        572.7,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Grapes of Wrath",
+      "texte_balise": "The Grapes of Wrath",
+      "bbox": [
+        648.3,
+        3261.5,
+        776.2,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Invisible Cities",
+      "texte_balise": "Invisible Cities",
+      "bbox": [
+        854.7,
+        3261.5,
+        941.9,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Savage Detectives",
+      "texte_balise": "The Savage Detectives",
+      "bbox": [
+        1026.2,
+        3261.5,
+        1157.0,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Crying of Lot 49",
+      "texte_balise": "The Crying of Lot 49",
+      "bbox": [
+        1218.0,
+        3261.5,
+        1340.1,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arcades Project",
+      "texte_balise": "Arcades Project",
+      "bbox": [
+        1418.6,
+        3261.5,
+        1514.5,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Decline of the West",
+      "texte_balise": "The Decline of the West",
+      "bbox": [
+        1773.3,
+        3261.5,
+        1915.7,
+        3276.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mishima",
+      "texte_balise": "Mishima",
+      "bbox": [
+        122.1,
+        3273.1,
+        177.3,
+        3287.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sterne",
+      "texte_balise": "Sterne",
+      "bbox": [
+        500.0,
+        3273.1,
+        543.6,
+        3287.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steinbeck",
+      "texte_balise": "Steinbeck",
+      "bbox": [
+        683.1,
+        3273.1,
+        747.1,
+        3287.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Calvino",
+      "texte_balise": "Calvino",
+      "bbox": [
+        872.1,
+        3273.1,
+        921.5,
+        3287.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rolano",
+      "texte_balise": "Rolano",
+      "bbox": [
+        1066.9,
+        3273.1,
+        1113.4,
+        3287.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pynchon",
+      "texte_balise": "Pynchon",
+      "bbox": [
+        1250.0,
+        3273.1,
+        1308.1,
+        3290.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Benjamin",
+      "texte_balise": "Benjamin",
+      "bbox": [
+        1436.0,
+        3273.1,
+        1497.1,
+        3290.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lowry",
+      "texte_balise": "Lowry",
+      "bbox": [
+        316.9,
+        3276.1,
+        357.6,
+        3290.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tames",
+      "texte_balise": "Tames",
+      "bbox": [
+        1636.6,
+        3276.1,
+        1674.4,
+        3284.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spengler",
+      "texte_balise": "Spengler",
+      "bbox": [
+        1816.9,
+        3276.1,
+        1875.0,
+        3290.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "91.",
+      "texte_balise": "91.",
+      "bbox": [
+        139.5,
+        3339.9,
+        171.5,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "92.",
+      "texte_balise": "92.",
+      "bbox": [
+        328.5,
+        3339.9,
+        354.7,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "93.",
+      "texte_balise": "93.",
+      "bbox": [
+        514.5,
+        3339.9,
+        543.6,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "94.",
+      "texte_balise": "94.",
+      "bbox": [
+        703.5,
+        3339.9,
+        735.5,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "95.",
+      "texte_balise": "95.",
+      "bbox": [
+        889.5,
+        3339.9,
+        921.5,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "97.",
+      "texte_balise": "97.",
+      "bbox": [
+        1267.4,
+        3339.9,
+        1299.4,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "98.",
+      "texte_balise": "98.",
+      "bbox": [
+        1456.4,
+        3339.9,
+        1482.6,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "100.",
+      "texte_balise": "100.",
+      "bbox": [
+        1825.6,
+        3339.9,
+        1866.3,
+        3357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEYOND",
+      "texte_balise": "BEYOND",
+      "bbox": [
+        1020.3,
+        3371.9,
+        1139.5,
+        3389.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Immanuel Kant",
+      "texte_balise": "Immanuel Kant",
+      "bbox": [
+        517.4,
+        3395.0,
+        593.0,
+        3410.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOOD",
+      "texte_balise": "GOOD",
+      "bbox": [
+        1023.3,
+        3398.0,
+        1130.8,
+        3424.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critique of",
+      "texte_balise": "Critique of",
+      "bbox": [
+        517.4,
+        3406.7,
+        595.9,
+        3424.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "&EVIL",
+      "texte_balise": "&EVIL",
+      "bbox": [
+        1061.0,
+        3424.1,
+        1183.1,
+        3488.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Do Poncon",
+      "texte_balise": "Do Poncon",
+      "bbox": [
+        514.5,
+        3427.0,
+        601.7,
+        3433.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OH THE",
+      "texte_balise": "OH THE",
+      "bbox": [
+        880.8,
+        3444.0,
+        933.1,
+        3456.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAME S",
+      "texte_balise": "NAME S",
+      "bbox": [
+        1587.2,
+        3453.0,
+        1738.4,
+        3479.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"ROSE",
+      "texte_balise": "\"ROSE",
+      "bbox": [
+        1576.9,
+        3486.3,
+        1722.4,
+        3523.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Quran",
+      "texte_balise": "The Quran",
+      "bbox": [
+        78.5,
+        3522.9,
+        151.2,
+        3543.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Walter",
+      "texte_balise": "Walter",
+      "bbox": [
+        1125.0,
+        3525.8,
+        1162.8,
+        3531.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oxford Chakegnann",
+      "texte_balise": "The Oxford Chakegnann",
+      "bbox": [
+        1395.3,
+        3525.8,
+        1500.0,
+        3532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kaufmann",
+      "texte_balise": "Kaufmann",
+      "bbox": [
+        1122.1,
+        3534.5,
+        1183.1,
+        3549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King lean",
+      "texte_balise": "King lean",
+      "bbox": [
+        1395.3,
+        3537.0,
+        1439.0,
+        3543.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NICCOLO MACHIAVELLI",
+      "texte_balise": "NICCOLO MACHIAVELLI",
+      "bbox": [
+        279.1,
+        3549.0,
+        407.0,
+        3564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARY SHELLEY",
+      "texte_balise": "MARY SHELLEY",
+      "bbox": [
+        1808.1,
+        3549.0,
+        1886.6,
+        3564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH",
+      "texte_balise": "FRIEDRICH",
+      "bbox": [
+        1017.4,
+        3554.8,
+        1183.1,
+        3572.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TECO",
+      "texte_balise": "TECO",
+      "bbox": [
+        1593.0,
+        3554.8,
+        1700.6,
+        3583.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HARUKI MURAKAMI",
+      "texte_balise": "HARUKI MURAKAMI",
+      "bbox": [
+        828.5,
+        3563.5,
+        985.5,
+        3581.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamarthan",
+      "texte_balise": "Metamarthan",
+      "bbox": [
+        689.0,
+        3566.4,
+        741.3,
+        3572.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Frontenstal",
+      "texte_balise": "Frontenstal",
+      "bbox": [
+        1822.7,
+        3566.4,
+        1866.3,
+        3572.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "DOVER PHILOSOPHICAL CLASSICS",
+      "texte_balise": "DOVER PHILOSOPHICAL CLASSICS",
+      "bbox": [
+        465.1,
+        3572.0,
+        610.5,
+        3587.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        1017.4,
+        3572.2,
+        1183.1,
+        3589.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "thor of The Win.",
+      "texte_balise": "thor of The Win.",
+      "bbox": [
+        837.2,
+        3583.8,
+        904.1,
+        3590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ouran",
+      "texte_balise": "The Ouran",
+      "bbox": [
+        107.6,
+        3592.6,
+        174.4,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Prince",
+      "texte_balise": "The Prince",
+      "bbox": [
+        305.1,
+        3594.6,
+        372.3,
+        3610.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critique of Pure Reason",
+      "texte_balise": "Critique of Pure Reason",
+      "bbox": [
+        468.0,
+        3595.0,
+        607.6,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kafka on the Shore",
+      "texte_balise": "Kafka on the Shore",
+      "bbox": [
+        848.8,
+        3595.0,
+        962.2,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beyond Good and Evil",
+      "texte_balise": "Beyond Good and Evil",
+      "bbox": [
+        1029.1,
+        3595.0,
+        1159.9,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King Lear",
+      "texte_balise": "King Lear",
+      "bbox": [
+        1436.0,
+        3595.0,
+        1497.1,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Name of the Rose",
+      "texte_balise": "The Name of the Rose",
+      "bbox": [
+        1593.0,
+        3595.0,
+        1723.8,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamorphoses",
+      "texte_balise": "Metamorphoses",
+      "bbox": [
+        665.7,
+        3595.5,
+        764.5,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Candide",
+      "texte_balise": "Candide",
+      "bbox": [
+        1244.2,
+        3595.5,
+        1299.4,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frankenstein",
+      "texte_balise": "Frankenstein",
+      "bbox": [
+        1808.1,
+        3595.5,
+        1886.6,
+        3610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machiavelli",
+      "texte_balise": "Machiavelli",
+      "bbox": [
+        302.3,
+        3610.0,
+        375.0,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kant",
+      "texte_balise": "Kant",
+      "bbox": [
+        517.4,
+        3610.0,
+        549.4,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ovid",
+      "texte_balise": "Ovid",
+      "bbox": [
+        700.6,
+        3610.0,
+        735.5,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Murakami",
+      "texte_balise": "Murakami",
+      "bbox": [
+        875.0,
+        3610.0,
+        941.9,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        1061.0,
+        3610.0,
+        1122.1,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Voltaire",
+      "texte_balise": "Voltaire",
+      "bbox": [
+        1250.0,
+        3610.0,
+        1296.5,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shakespeare",
+      "texte_balise": "Shakespeare",
+      "bbox": [
+        1424.4,
+        3610.0,
+        1502.9,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eco",
+      "texte_balise": "Eco",
+      "bbox": [
+        1645.3,
+        3610.0,
+        1674.4,
+        3624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shelley",
+      "texte_balise": "Shelley",
+      "bbox": [
+        1825.6,
+        3610.0,
+        1872.1,
+        3624.5
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "fichier": "biz_Business 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:34.345188+00:00",
+  "duree_s": 1.0,
+  "taille_origine": [
+    1939,
+    1384
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 79,
+  "lignes": [
+    {
+      "texte": "INTRODUCTION TO /BIZ/-/LIT/",
+      "texte_balise": "INTRODUCTION TO /BIZ/-/LIT/",
+      "bbox": [
+        372.0,
+        53.6,
+        1561.3,
+        152.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW YORK TIMES BESTSELLER",
+      "texte_balise": "THE NEW YORK TIMES BESTSELLER",
+      "bbox": [
+        126.8,
+        200.0,
+        450.9,
+        214.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORE THAN ONE MILLION COPIES SOLD:",
+      "texte_balise": "MORE THAN ONE MILLION COPIES SOLD:",
+      "bbox": [
+        1496.5,
+        208.6,
+        1789.6,
+        225.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVISED AND UPDATED FOR THE 2IN CENTURY",
+      "texte_balise": "REVISED AND UPDATED FOR THE 2IN CENTURY",
+      "bbox": [
+        603.1,
+        211.0,
+        882.1,
+        225.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVISED AND EXPANDED EDITION",
+      "texte_balise": "REVISED AND EXPANDED EDITION",
+      "bbox": [
+        1037.1,
+        211.0,
+        1352.8,
+        228.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Mr. Lynch'» investmeat record pots him in a leacue byl",
+      "texte_balise": "\"Mr. Lynch'» investmeat record pots him in a leacue byl",
+      "bbox": [
+        143.7,
+        231.0,
+        394.6,
+        240.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRI",
+      "texte_balise": "TRI",
+      "bbox": [
+        1724.8,
+        253.7,
+        1786.8,
+        284.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NEW YORK TIMES BESTSELLER",
+      "texte_balise": "NEW YORK TIMES BESTSELLER",
+      "bbox": [
+        603.1,
+        256.5,
+        879.3,
+        273.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW YORK",
+      "texte_balise": "NEW YORK",
+      "bbox": [
+        1290.8,
+        265.0,
+        1333.1,
+        276.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONE UP",
+      "texte_balise": "ONE UP",
+      "bbox": [
+        253.6,
+        267.4,
+        451.0,
+        313.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1696.6,
+        273.4,
+        1795.3,
+        332.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIME",
+      "texte_balise": "TIME",
+      "bbox": [
+        1299.2,
+        281.9,
+        1321.8,
+        287.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BESTSELLE",
+      "texte_balise": "BESTSELLE",
+      "bbox": [
+        1288.0,
+        293.1,
+        1330.2,
+        298.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOUR",
+      "texte_balise": "YOUR",
+      "bbox": [
+        698.9,
+        295.8,
+        780.7,
+        321.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON",
+      "texte_balise": "ON",
+      "bbox": [
+        377.7,
+        324.2,
+        448.1,
+        360.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MONEY",
+      "texte_balise": "MONEY",
+      "bbox": [
+        614.2,
+        329.2,
+        871.0,
+        398.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PREDICTABLY",
+      "texte_balise": "PREDICTABLY",
+      "bbox": [
+        1022.9,
+        331.8,
+        1367.0,
+        398.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MILLIONAIRE",
+      "texte_balise": "MILLIONAIRE",
+      "bbox": [
+        1490.8,
+        357.6,
+        1798.2,
+        428.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALL",
+      "texte_balise": "WALL",
+      "bbox": [
+        307.2,
+        363.6,
+        450.9,
+        411.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OR YOUR",
+      "texte_balise": "OR YOUR",
+      "bbox": [
+        673.4,
+        407.7,
+        806.3,
+        438.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STREET",
+      "texte_balise": "STREET",
+      "bbox": [
+        267.7,
+        414.4,
+        450.9,
+        453.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SURPRINIG",
+      "texte_balise": "THE SURPRINIG",
+      "bbox": [
+        1496.5,
+        436.9,
+        1682.5,
+        451.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIFE",
+      "texte_balise": "LIFE",
+      "bbox": [
+        693.3,
+        442.5,
+        882.1,
+        518.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEXT",
+      "texte_balise": "NEXT",
+      "bbox": [
+        1668.0,
+        461.2,
+        1795.7,
+        519.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECERTS OF",
+      "texte_balise": "SECERTS OF",
+      "bbox": [
+        1499.3,
+        479.0,
+        1629.0,
+        493.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How to Use",
+      "texte_balise": "How to Use",
+      "bbox": [
+        369.2,
+        484.8,
+        450.9,
+        499.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hidden Forces That Shape Our Decisions",
+      "texte_balise": "The Hidden Forces That Shape Our Decisions",
+      "bbox": [
+        1040.0,
+        487.6,
+        1347.2,
+        505.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What You",
+      "texte_balise": "What You",
+      "bbox": [
+        383.2,
+        501.3,
+        451.0,
+        519.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Already Know",
+      "texte_balise": "Already Know",
+      "bbox": [
+        355.1,
+        521.0,
+        450.9,
+        538.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Make Money",
+      "texte_balise": "to Make Money",
+      "bbox": [
+        343.8,
+        541.0,
+        450.9,
+        558.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOOR",
+      "texte_balise": "DOOR",
+      "bbox": [
+        1662.8,
+        552.5,
+        1795.3,
+        608.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9 STEPS",
+      "texte_balise": "9 STEPS",
+      "bbox": [
+        698.9,
+        554.9,
+        783.6,
+        572.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the Market",
+      "texte_balise": "in the Market",
+      "bbox": [
+        355.1,
+        558.0,
+        450.9,
+        575.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO TRANSFORUING YOUR RELATIONSHIP",
+      "texte_balise": "TO TRANSFORUING YOUR RELATIONSHIP",
+      "bbox": [
+        617.2,
+        575.0,
+        862.4,
+        583.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH MONEY AND ACHIEVING",
+      "texte_balise": "WITH MONEY AND ACHIEVING",
+      "bbox": [
+        651.0,
+        591.9,
+        825.8,
+        598.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More Than",
+      "texte_balise": "More Than",
+      "bbox": [
+        367.6,
+        595.4,
+        427.4,
+        620.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FINANCIAL INO PENO NO",
+      "texte_balise": "FINANCIAL INO PENO NO",
+      "bbox": [
+        656.7,
+        606.0,
+        820.1,
+        612.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Million",
+      "texte_balise": "One Million",
+      "bbox": [
+        369.5,
+        607.3,
+        430.8,
+        635.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Copies Sold",
+      "texte_balise": "Copies Sold",
+      "bbox": [
+        369.2,
+        619.0,
+        434.8,
+        652.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas. Stanley Phi",
+      "texte_balise": "Thomas. Stanley Phi",
+      "bbox": [
+        1496.5,
+        622.9,
+        1699.4,
+        631.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAN ARIELY",
+      "texte_balise": "DAN ARIELY",
+      "bbox": [
+        1096.3,
+        625.6,
+        1285.2,
+        668.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William D. Danko, Ph.D.",
+      "texte_balise": "William D. Danko, Ph.D.",
+      "bbox": [
+        1499.3,
+        634.0,
+        1699.4,
+        648.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vicki Robin & Joe Dominguez",
+      "texte_balise": "Vicki Robin & Joe Dominguez",
+      "bbox": [
+        611.6,
+        639.9,
+        870.9,
+        662.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETER LYNCH",
+      "texte_balise": "PETER LYNCH",
+      "bbox": [
+        121.2,
+        656.8,
+        456.6,
+        693.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with Monique Tilford",
+      "texte_balise": "with Monique Tilford",
+      "bbox": [
+        682.0,
+        665.0,
+        800.4,
+        682.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOREWORD BY WARREN E. BUFFETT",
+      "texte_balise": "FOREWORD BY WARREN E. BUFFETT",
+      "bbox": [
+        1073.8,
+        820.0,
+        1321.8,
+        843.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"BY FAR THE BEST BOOK ON INVESTING EVER WRITTEN.\"",
+      "texte_balise": "\"BY FAR THE BEST BOOK ON INVESTING EVER WRITTEN.\"",
+      "bbox": [
+        169.1,
+        845.6,
+        431.2,
+        860.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORE THAN TWO",
+      "texte_balise": "MORE THAN TWO",
+      "bbox": [
+        1564.2,
+        848.0,
+        1755.8,
+        865.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a sia sore treas sistering",
+      "texte_balise": "a sia sore treas sistering",
+      "bbox": [
+        645.4,
+        851.0,
+        842.7,
+        857.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BENJAMIN GRAHAM",
+      "texte_balise": "BENJAMIN GRAHAM",
+      "bbox": [
+        1076.6,
+        851.0,
+        1324.6,
+        888.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MILLION BOOKS SOLD",
+      "texte_balise": "MILLION BOOKS SOLD",
+      "bbox": [
+        1538.8,
+        865.0,
+        1778.4,
+        882.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID L. DODD",
+      "texte_balise": "DAVID L. DODD",
+      "bbox": [
+        1110.3,
+        887.6,
+        1290.9,
+        930.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SUCCESS SECRETS OF THE ANCIENTS",
+      "texte_balise": "THE SUCCESS SECRETS OF THE ANCIENTS",
+      "bbox": [
+        1516.3,
+        890.7,
+        1784.0,
+        905.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        259.3,
+        896.4,
+        332.6,
+        941.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THINKING,",
+      "texte_balise": "THINKING,",
+      "bbox": [
+        622.8,
+        899.2,
+        870.9,
+        935.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-THE MOS INSPIRING BOOK ON",
+      "texte_balise": "-THE MOS INSPIRING BOOK ON",
+      "bbox": [
+        1552.9,
+        907.6,
+        1758.6,
+        916.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WEALTH EVER WRITTEN",
+      "texte_balise": "WEALTH EVER WRITTEN",
+      "bbox": [
+        1578.3,
+        916.0,
+        1736.1,
+        930.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE S.",
+      "texte_balise": "GEORGE S.",
+      "bbox": [
+        1533.1,
+        935.6,
+        1778.4,
+        989.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECURITY",
+      "texte_balise": "SECURITY",
+      "bbox": [
+        1042.6,
+        940.9,
+        1355.7,
+        1023.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTELLIGENT",
+      "texte_balise": "INTELLIGENT",
+      "bbox": [
+        166.2,
+        955.1,
+        425.7,
+        1003.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAST. SLOW",
+      "texte_balise": "FAST. SLOW",
+      "bbox": [
+        620.0,
+        969.6,
+        865.2,
+        1001.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASON",
+      "texte_balise": "CLASON",
+      "bbox": [
+        1558.2,
+        982.4,
+        1747.7,
+        1032.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INVESTOR",
+      "texte_balise": "INVESTOR",
+      "bbox": [
+        191.4,
+        1019.3,
+        397.6,
+        1069.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANALYSIS",
+      "texte_balise": "ANALYSIS",
+      "bbox": [
+        1039.5,
+        1021.5,
+        1356.0,
+        1106.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1586.7,
+        1045.8,
+        1724.8,
+        1104.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DEFINITIVE BOOK ON VALUE INVESTING",
+      "texte_balise": "THE DEFINITIVE BOOK ON VALUE INVESTING",
+      "bbox": [
+        169.1,
+        1090.9,
+        428.4,
+        1105.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANIEL",
+      "texte_balise": "DANIEL",
+      "bbox": [
+        665.1,
+        1102.1,
+        822.9,
+        1130.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHEST",
+      "texte_balise": "RICHEST",
+      "bbox": [
+        1512.7,
+        1106.8,
+        1793.2,
+        1176.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIXTH EDITION •",
+      "texte_balise": "SIXTH EDITION •",
+      "bbox": [
+        1102.0,
+        1107.8,
+        1319.0,
+        1130.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVISED EDITION",
+      "texte_balise": "REVISED EDITION",
+      "bbox": [
+        242.4,
+        1141.6,
+        355.1,
+        1156.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KAHNEMAN",
+      "texte_balise": "KAHNEMAN",
+      "bbox": [
+        625.7,
+        1164.1,
+        865.2,
+        1192.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAN IN",
+      "texte_balise": "MAN IN",
+      "bbox": [
+        1524.4,
+        1173.8,
+        1781.5,
+        1236.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BENJAMIN GRAHAM",
+      "texte_balise": "BENJAMIN GRAHAM",
+      "bbox": [
+        171.9,
+        1192.0,
+        422.7,
+        1221.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UPDATED WITH NEW COMMENTARY BY",
+      "texte_balise": "UPDATED WITH NEW COMMENTARY BY",
+      "bbox": [
+        1085.1,
+        1234.6,
+        1310.5,
+        1249.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BABYLON",
+      "texte_balise": "BABYLON",
+      "bbox": [
+        1504.8,
+        1236.6,
+        1801.1,
+        1303.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preface and Appendix by Warren E. Buffett",
+      "texte_balise": "Preface and Appendix by Warren E. Buffett",
+      "bbox": [
+        197.3,
+        1245.9,
+        400.2,
+        1260.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SETH A. KLARMAN, JAMES GRANT,",
+      "texte_balise": "SETH A. KLARMAN, JAMES GRANT,",
+      "bbox": [
+        1056.9,
+        1251.5,
+        1335.9,
+        1277.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Updated with new commentary by Jison Zweig",
+      "texte_balise": "Updated with new commentary by Jison Zweig",
+      "bbox": [
+        188.8,
+        1262.8,
+        408.7,
+        1277.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRUCE GREENWALD AND OTHERS",
+      "texte_balise": "BRUCE GREENWALD AND OTHERS",
+      "bbox": [
+        1071.0,
+        1276.9,
+        1327.4,
+        1297.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

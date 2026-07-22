@@ -1,0 +1,1455 @@
+{
+  "fichier": "10_Nietzchean.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:43.887009+00:00",
+  "duree_s": 1.3,
+  "taille_origine": [
+    1452,
+    1348
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 131,
+  "lignes": [
+    {
+      "texte": "Nietzschean /lit/",
+      "texte_balise": "Nietzschean /lit/",
+      "bbox": [
+        515.0,
+        10.5,
+        1000.4,
+        70.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cambridge",
+      "texte_balise": "Cambridge",
+      "bbox": [
+        1397.1,
+        107.6,
+        1428.8,
+        118.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PORTABLE",
+      "texte_balise": "THE PORTABLE",
+      "bbox": [
+        960.3,
+        111.8,
+        1108.0,
+        127.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH NIETZSCHE",
+      "texte_balise": "FRIEDRICH NIETZSCHE",
+      "bbox": [
+        645.8,
+        113.9,
+        751.3,
+        127.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH NIETZSCHE",
+      "texte_balise": "FRIEDRICH NIETZSCHE",
+      "bbox": [
+        470.6,
+        116.0,
+        580.4,
+        129.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carbride",
+      "texte_balise": "Carbride",
+      "bbox": [
+        407.3,
+        118.1,
+        439.0,
+        128.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        799.9,
+        120.2,
+        934.9,
+        139.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Test in the",
+      "texte_balise": "Test in the",
+      "bbox": [
+        1399.2,
+        122.0,
+        1428.8,
+        131.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHER",
+      "texte_balise": "NIETZSCHER",
+      "bbox": [
+        957.9,
+        123.1,
+        1108.2,
+        153.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THUS SPOKE ZARATHUSTRA",
+      "texte_balise": "THUS SPOKE ZARATHUSTRA",
+      "bbox": [
+        639.5,
+        128.7,
+        759.8,
+        141.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Totsinte",
+      "texte_balise": "Totsinte",
+      "bbox": [
+        407.3,
+        130.8,
+        439.0,
+        141.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "On the Genealogy",
+      "texte_balise": "On the Genealogy",
+      "bbox": [
+        470.6,
+        137.0,
+        557.2,
+        150.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Istoryor",
+      "texte_balise": "Istoryor",
+      "bbox": [
+        405.2,
+        141.3,
+        434.8,
+        154.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "my lacke by min Pite",
+      "texte_balise": "my lacke by min Pite",
+      "bbox": [
+        656.4,
+        143.0,
+        738.7,
+        148.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of Morality",
+      "texte_balise": "of Morality",
+      "bbox": [
+        470.6,
+        147.7,
+        527.6,
+        160.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMAN",
+      "texte_balise": "HUMAN",
+      "bbox": [
+        799.9,
+        147.7,
+        932.8,
+        175.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phitsaptry",
+      "texte_balise": "Phitsaptry",
+      "bbox": [
+        1395.0,
+        149.8,
+        1428.8,
+        160.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "*Basie",
+      "texte_balise": "*Basie",
+      "bbox": [
+        1141.8,
+        156.1,
+        1251.5,
+        192.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        1295.8,
+        160.3,
+        1342.3,
+        175.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        310.2,
+        168.8,
+        354.6,
+        179.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALL TOO",
+      "texte_balise": "ALL TOO",
+      "bbox": [
+        801.9,
+        179.2,
+        935.0,
+        206.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wrings",
+      "texte_balise": "Wrings",
+      "bbox": [
+        1131.2,
+        185.6,
+        1270.5,
+        227.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Writings from the",
+      "texte_balise": "Writings from the",
+      "bbox": [
+        1295.8,
+        194.0,
+        1403.5,
+        211.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beyond Good",
+      "texte_balise": "Beyond Good",
+      "bbox": [
+        310.2,
+        196.1,
+        392.6,
+        211.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Niet sche",
+      "texte_balise": "Niet sche",
+      "bbox": [
+        1124.5,
+        209.8,
+        1279.4,
+        271.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMAN",
+      "texte_balise": "HUMAN",
+      "bbox": [
+        802.0,
+        211.0,
+        930.7,
+        238.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Evil",
+      "texte_balise": "and Evil",
+      "bbox": [
+        306.0,
+        213.0,
+        358.8,
+        230.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Late Notebooks",
+      "texte_balise": "Late Notebooks",
+      "bbox": [
+        1293.7,
+        213.0,
+        1392.9,
+        230.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Book jor Free Spirits",
+      "texte_balise": "A Book jor Free Spirits",
+      "bbox": [
+        799.9,
+        253.0,
+        888.5,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pol-Peer Hastarn and",
+      "texte_balise": "Pol-Peer Hastarn and",
+      "bbox": [
+        371.4,
+        305.9,
+        439.0,
+        316.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edited by",
+      "texte_balise": "Edited by",
+      "bbox": [
+        1378.1,
+        305.9,
+        1426.7,
+        321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rüdiger Bittner",
+      "texte_balise": "Rüdiger Bittner",
+      "bbox": [
+        1348.6,
+        324.8,
+        1426.7,
+        339.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALTER KAUFMANN",
+      "texte_balise": "WALTER KAUFMANN",
+      "bbox": [
+        966.6,
+        337.5,
+        1103.8,
+        354.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Матейаки: Сіяк вол Ас). З9Eх-",
+      "texte_balise": "Матейаки: Сіяк вол Ас). З9Eх-",
+      "bbox": [
+        479.1,
+        339.6,
+        609.9,
+        350.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Kaufmann",
+      "texte_balise": "Kaufmann",
+      "bbox": [
+        1129.0,
+        341.4,
+        1198.8,
+        356.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Horstmann & Norman)",
+      "texte_balise": "(Horstmann & Norman)",
+      "bbox": [
+        295.5,
+        360.7,
+        453.8,
+        375.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Clark & Swensen)",
+      "texte_balise": "(Clark & Swensen)",
+      "bbox": [
+        470.6,
+        362.8,
+        595.2,
+        378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(trans. Graham Parkes)",
+      "texte_balise": "(trans. Graham Parkes)",
+      "bbox": [
+        628.9,
+        362.8,
+        776.7,
+        378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Faber & Lehmann)",
+      "texte_balise": "(Faber & Lehmann)",
+      "bbox": [
+        804.1,
+        362.8,
+        932.8,
+        378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Twilight of the idols",
+      "texte_balise": "- Twilight of the idols",
+      "bbox": [
+        960.3,
+        367.0,
+        1103.8,
+        384.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- The birth of tragedy",
+      "texte_balise": "- The birth of tragedy",
+      "bbox": [
+        1131.2,
+        369.0,
+        1272.6,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- The antichrist",
+      "texte_balise": "- The antichrist",
+      "bbox": [
+        960.3,
+        383.9,
+        1063.7,
+        397.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Aphorisms",
+      "texte_balise": "- Aphorisms",
+      "bbox": [
+        1133.3,
+        385.9,
+        1213.6,
+        403.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Notes and letters",
+      "texte_balise": "- Notes and letters",
+      "bbox": [
+        960.3,
+        400.8,
+        1082.7,
+        413.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Ecce homo",
+      "texte_balise": "- Ecce homo",
+      "bbox": [
+        1133.3,
+        402.6,
+        1217.8,
+        418.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Biographies",
+      "texte_balise": "Biographies",
+      "bbox": [
+        14.8,
+        409.3,
+        156.2,
+        436.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- The case of Wagner",
+      "texte_balise": "- The case of Wagner",
+      "bbox": [
+        1133.3,
+        419.8,
+        1272.6,
+        437.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Philosoph cal Biegraphy",
+      "texte_balise": "A Philosoph cal Biegraphy",
+      "bbox": [
+        204.7,
+        449.0,
+        320.8,
+        464.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NETZSCHE",
+      "texte_balise": "NETZSCHE",
+      "bbox": [
+        12.6,
+        457.4,
+        166.8,
+        498.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Conversations",
+      "texte_balise": "Conversations",
+      "bbox": [
+        1063.7,
+        457.8,
+        1188.2,
+        474.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich Nietasche",
+      "texte_balise": "Friedrich Nietasche",
+      "bbox": [
+        189.9,
+        459.4,
+        348.3,
+        487.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NETZSCHE",
+      "texte_balise": "NETZSCHE",
+      "bbox": [
+        701.8,
+        459.4,
+        853.0,
+        507.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        884.3,
+        468.3,
+        1015.1,
+        483.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        371.4,
+        481.0,
+        451.6,
+        491.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with Nietzsche",
+      "texte_balise": "with Nietzsche",
+      "bbox": [
+        1061.6,
+        481.0,
+        1192.4,
+        498.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN TURIN",
+      "texte_balise": "IN TURIN",
+      "bbox": [
+        892.7,
+        489.0,
+        1004.6,
+        508.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CURT HAUL JANZ",
+      "texte_balise": "CURT HAUL JANZ",
+      "bbox": [
+        16.7,
+        492.8,
+        99.4,
+        511.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Life a Use Bled if Slit Contengarain.",
+      "texte_balise": "A Life a Use Bled if Slit Contengarain.",
+      "bbox": [
+        1061.6,
+        497.9,
+        1179.7,
+        508.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FRIEDRICH",
+      "texte_balise": "FRIEDRICH",
+      "bbox": [
+        19.0,
+        504.0,
+        76.0,
+        517.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        19.0,
+        516.8,
+        76.0,
+        527.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REvilED CamoN",
+      "texte_balise": "REvilED CamoN",
+      "bbox": [
+        749.2,
+        518.9,
+        814.6,
+        529.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIOGRAPHTE",
+      "texte_balise": "BIOGRAPHTE",
+      "bbox": [
+        21.1,
+        527.2,
+        82.3,
+        538.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KINDHEIT/",
+      "texte_balise": "KINDHEIT/",
+      "bbox": [
+        19.0,
+        537.9,
+        76.0,
+        550.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUGEND/ DIE",
+      "texte_balise": "JUGEND/ DIE",
+      "bbox": [
+        19.0,
+        548.3,
+        84.5,
+        561.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASLER JAHRE",
+      "texte_balise": "BASLER JAHRE",
+      "bbox": [
+        19.0,
+        559.0,
+        92.9,
+        574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BANDI",
+      "texte_balise": "BANDI",
+      "bbox": [
+        109.7,
+        597.0,
+        147.7,
+        611.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANSER",
+      "texte_balise": "HANSER",
+      "bbox": [
+        109.7,
+        607.5,
+        152.0,
+        620.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARDANER",
+      "texte_balise": "CARDANER",
+      "bbox": [
+        365.1,
+        613.9,
+        439.0,
+        620.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        536.0,
+        628.4,
+        681.7,
+        656.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hon Intimate",
+      "texte_balise": "Hon Intimate",
+      "bbox": [
+        924.4,
+        651.8,
+        981.4,
+        665.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosopher, Psychologist, Antichrist",
+      "texte_balise": "Philosopher, Psychologist, Antichrist",
+      "bbox": [
+        538.2,
+        658.0,
+        679.6,
+        671.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sander Gilman",
+      "texte_balise": "Sander Gilman",
+      "bbox": [
+        1063.7,
+        662.0,
+        1137.5,
+        667.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Begreply",
+      "texte_balise": "Begreply",
+      "bbox": [
+        930.7,
+        662.4,
+        979.3,
+        677.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Walter Kautmann",
+      "texte_balise": "Walter Kautmann",
+      "bbox": [
+        536.1,
+        672.9,
+        679.6,
+        690.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David 1. Parent",
+      "texte_balise": "David 1. Parent",
+      "bbox": [
+        1063.7,
+        675.0,
+        1129.1,
+        692.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julian Young",
+      "texte_balise": "Julian Young",
+      "bbox": [
+        234.3,
+        677.0,
+        291.2,
+        690.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "R.J. HOLLINGDALE",
+      "texte_balise": "R.J. HOLLINGDALE",
+      "bbox": [
+        715.4,
+        679.0,
+        852.6,
+        692.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LESLEY CHAMBERLAIN",
+      "texte_balise": "LESLEY CHAMBERLAIN",
+      "bbox": [
+        873.7,
+        683.0,
+        1029.9,
+        696.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Ger)",
+      "texte_balise": "(Ger)",
+      "bbox": [
+        59.1,
+        702.5,
+        101.3,
+        719.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophy",
+      "texte_balise": "Philosophy",
+      "bbox": [
+        8.3,
+        741.8,
+        141.6,
+        772.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        1278.9,
+        803.7,
+        1365.5,
+        816.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GILLES DELEUZE",
+      "texte_balise": "GILLES DELEUZE",
+      "bbox": [
+        390.4,
+        808.0,
+        512.8,
+        819.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietasche's",
+      "texte_balise": "Nietasche's",
+      "bbox": [
+        924.4,
+        808.0,
+        1036.2,
+        841.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Canstridse Comparsion",
+      "texte_balise": "Canstridse Comparsion",
+      "bbox": [
+        1105.9,
+        810.0,
+        1211.4,
+        823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Martin Heidegger",
+      "texte_balise": "by Martin Heidegger",
+      "bbox": [
+        67.5,
+        829.0,
+        168.8,
+        842.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche G Philosophy",
+      "texte_balise": "Nietzsche G Philosophy",
+      "bbox": [
+        367.2,
+        829.0,
+        510.7,
+        844.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TUE INBCOSTANBING",
+      "texte_balise": "TUE INBCOSTANBING",
+      "bbox": [
+        1278.9,
+        831.0,
+        1361.2,
+        835.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Modern",
+      "texte_balise": "Modern",
+      "bbox": [
+        825.2,
+        831.2,
+        852.6,
+        839.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        1093.2,
+        833.3,
+        1217.7,
+        852.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "European",
+      "texte_balise": "European",
+      "bbox": [
+        821.0,
+        839.6,
+        856.8,
+        850.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SYSTEM",
+      "texte_balise": "SYSTEM",
+      "bbox": [
+        941.3,
+        841.7,
+        1013.0,
+        860.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Volumes One and Two",
+      "texte_balise": "Volumes One and Two",
+      "bbox": [
+        69.6,
+        845.9,
+        143.5,
+        856.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosople",
+      "texte_balise": "Philosople",
+      "bbox": [
+        818.9,
+        848.0,
+        859.0,
+        858.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "....",
+      "texte_balise": "....",
+      "bbox": [
+        1278.9,
+        848.0,
+        1361.2,
+        852.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        736.6,
+        879.7,
+        875.8,
+        911.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on Truth and Philosophy",
+      "texte_balise": "on Truth and Philosophy",
+      "bbox": [
+        736.6,
+        913.0,
+        871.6,
+        930.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bataille",
+      "texte_balise": "Bataille",
+      "bbox": [
+        189.8,
+        930.0,
+        350.4,
+        981.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CON NIETZSCHE",
+      "texte_balise": "CON NIETZSCHE",
+      "bbox": [
+        258.5,
+        952.9,
+        353.5,
+        979.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KARL JASPERS",
+      "texte_balise": "KARL JASPERS",
+      "bbox": [
+        1276.8,
+        980.9,
+        1363.4,
+        991.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What Nietasche Really Said",
+      "texte_balise": "What Nietasche Really Said",
+      "bbox": [
+        544.5,
+        993.6,
+        707.0,
+        1010.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERND MAGNUS AN",
+      "texte_balise": "ERND MAGNUS AN",
+      "bbox": [
+        1114.3,
+        995.7,
+        1200.9,
+        1004.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "тект вссі",
+      "texte_balise": "тект вссі",
+      "bbox": [
+        1112.2,
+        1002.0,
+        1200.9,
+        1010.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Mizhael Hardr",
+      "texte_balise": "Mizhael Hardr",
+      "bbox": [
+        443.2,
+        1014.7,
+        515.0,
+        1027.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT C. SOLOMON",
+      "texte_balise": "ROBERT C. SOLOMON",
+      "bbox": [
+        540.3,
+        1014.7,
+        666.9,
+        1025.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN RICHARDSON",
+      "texte_balise": "JOHN RICHARDSON",
+      "bbox": [
+        928.6,
+        1018.9,
+        1032.0,
+        1036.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND KATHIFFN M. HIGGINSS",
+      "texte_balise": "AND KATHIFFN M. HIGGINSS",
+      "bbox": [
+        542.4,
+        1027.0,
+        702.8,
+        1040.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE'S TEACHING",
+      "texte_balise": "NIETZSCHE'S TEACHING",
+      "bbox": [
+        152.0,
+        1054.8,
+        179.4,
+        1297.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHAPING",
+      "texte_balise": "SHAPING",
+      "bbox": [
+        1086.9,
+        1069.5,
+        1179.8,
+        1086.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GIANNI VATTIMO",
+      "texte_balise": "GIANNI VATTIMO",
+      "bbox": [
+        945.5,
+        1073.8,
+        1048.9,
+        1084.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1137.5,
+        1086.4,
+        1181.9,
+        1103.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        555.1,
+        1090.6,
+        692.2,
+        1111.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A COMPANION TO",
+      "texte_balise": "A COMPANION TO",
+      "bbox": [
+        738.7,
+        1099.0,
+        871.6,
+        1114.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FUTURE",
+      "texte_balise": "FUTURE",
+      "bbox": [
+        1097.4,
+        1100.9,
+        1181.9,
+        1118.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        761.8,
+        1113.3,
+        848.5,
+        1129.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche's task",
+      "texte_balise": "Nietzsche's task",
+      "bbox": [
+        193.1,
+        1114.8,
+        347.3,
+        1203.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dialogue with",
+      "texte_balise": "dialogue with",
+      "bbox": [
+        907.5,
+        1122.0,
+        968.7,
+        1137.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Ethics of an Immoralist",
+      "texte_balise": "The Ethics of an Immoralist",
+      "bbox": [
+        557.2,
+        1126.0,
+        692.2,
+        1139.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        964.4,
+        1130.5,
+        1061.6,
+        1160.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        375.6,
+        1193.7,
+        519.2,
+        1230.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Netsche: New",
+      "texte_balise": "Netsche: New",
+      "bbox": [
+        1107.7,
+        1221.0,
+        1180.1,
+        1234.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIFE AS LITERATURE",
+      "texte_balise": "LIFE AS LITERATURE",
+      "bbox": [
+        375.7,
+        1238.0,
+        517.1,
+        1253.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Ite Ascatic",
+      "texte_balise": "and Ite Ascatic",
+      "bbox": [
+        1114.3,
+        1242.5,
+        1181.9,
+        1253.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CROICE",
+      "texte_balise": "CROICE",
+      "bbox": [
+        1139.7,
+        1257.3,
+        1177.6,
+        1261.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KEITH",
+      "texte_balise": "KEITH",
+      "bbox": [
+        780.8,
+        1263.4,
+        831.6,
+        1276.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETER BERKOWITZ",
+      "texte_balise": "PETER BERKOWITZ",
+      "bbox": [
+        555.1,
+        1265.7,
+        694.3,
+        1278.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexander Nebamas",
+      "texte_balise": "Alexander Nebamas",
+      "bbox": [
+        415.8,
+        1272.0,
+        517.1,
+        1285.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANSELL",
+      "texte_balise": "ANSELL",
+      "bbox": [
+        736.6,
+        1276.3,
+        799.9,
+        1286.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEARSON",
+      "texte_balise": "PEARSON",
+      "bbox": [
+        797.8,
+        1276.3,
+        875.8,
+        1286.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAURENCE LAMPERT",
+      "texte_balise": "SAURENCE LAMPERT",
+      "bbox": [
+        240.6,
+        1291.0,
+        306.0,
+        1302.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUTTER",
+      "texte_balise": "HUTTER",
+      "bbox": [
+        1194.5,
+        1293.2,
+        1232.5,
+        1303.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RILEY-BLACKWELL",
+      "texte_balise": "RILEY-BLACKWELL",
+      "bbox": [
+        774.5,
+        1297.4,
+        835.7,
+        1307.9
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

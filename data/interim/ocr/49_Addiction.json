@@ -1,0 +1,1180 @@
+{
+  "fichier": "49_Addiction.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:15.935524+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    1200,
+    925
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 106,
+  "lignes": [
+    {
+      "texte": "Essential Addiction /lit/",
+      "texte_balise": "Essential Addiction /lit/",
+      "bbox": [
+        428.0,
+        12.0,
+        776.0,
+        42.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Willam s",
+      "texte_balise": "Willam s",
+      "bbox": [
+        573.9,
+        67.7,
+        624.1,
+        82.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORDSVORTH CLASSICA",
+      "texte_balise": "WORDSVORTH CLASSICA",
+      "bbox": [
+        1062.0,
+        67.9,
+        1142.0,
+        75.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOSTOEVSKY",
+      "texte_balise": "DOSTOEVSKY",
+      "bbox": [
+        214.5,
+        75.7,
+        303.4,
+        144.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Burroughs",
+      "texte_balise": "Burroughs",
+      "bbox": [
+        576.0,
+        77.9,
+        632.0,
+        89.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anna Karenina",
+      "texte_balise": "Anna Karenina",
+      "bbox": [
+        1056.0,
+        83.9,
+        1146.0,
+        95.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lunch",
+      "texte_balise": "Lunch",
+      "bbox": [
+        578.0,
+        99.9,
+        612.0,
+        109.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KUE CATT",
+      "texte_balise": "KUE CATT",
+      "bbox": [
+        710.0,
+        99.9,
+        740.0,
+        103.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hubert",
+      "texte_balise": "Hubert",
+      "bbox": [
+        362.0,
+        125.7,
+        454.0,
+        154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES",
+      "texte_balise": "CHARLES",
+      "bbox": [
+        697.9,
+        135.5,
+        758.1,
+        160.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PORTIS",
+      "texte_balise": "PORTIS",
+      "bbox": [
+        784.0,
+        135.9,
+        832.0,
+        157.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selby Jr",
+      "texte_balise": "Selby Jr",
+      "bbox": [
+        362.0,
+        153.8,
+        460.0,
+        177.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEUROMANCER",
+      "texte_balise": "NEUROMANCER",
+      "bbox": [
+        82.0,
+        154.6,
+        138.8,
+        191.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Williams",
+      "texte_balise": "Williams",
+      "bbox": [
+        77.5,
+        164.4,
+        112.9,
+        192.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GAMBLER,",
+      "texte_balise": "GAMBLER,",
+      "bbox": [
+        200.1,
+        165.8,
+        329.8,
+        252.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        236.0,
+        169.8,
+        270.0,
+        193.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        732.0,
+        171.8,
+        788.0,
+        187.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gibson",
+      "texte_balise": "Gibson",
+      "bbox": [
+        79.2,
+        176.2,
+        112.0,
+        201.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LasT EXIT 1O",
+      "texte_balise": "LasT EXIT 1O",
+      "bbox": [
+        362.0,
+        179.5,
+        466.0,
+        196.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOG",
+      "texte_balise": "DOG",
+      "bbox": [
+        696.0,
+        187.8,
+        834.0,
+        229.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brooklyn",
+      "texte_balise": "Brooklyn",
+      "bbox": [
+        362.0,
+        193.8,
+        454.0,
+        219.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas De Quincey",
+      "texte_balise": "Thomas De Quincey",
+      "bbox": [
+        868.0,
+        215.8,
+        946.0,
+        225.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confensions of an English Opium-fater",
+      "texte_balise": "Confensions of an English Opium-fater",
+      "bbox": [
+        868.0,
+        225.8,
+        996.0,
+        235.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        722.0,
+        229.7,
+        808.0,
+        247.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOUTH",
+      "texte_balise": "SOUTH",
+      "bbox": [
+        698.0,
+        247.7,
+        834.0,
+        275.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Last Exit to Brooklyn",
+      "texte_balise": "Last Exit to Brooklyn",
+      "bbox": [
+        356.0,
+        291.7,
+        508.0,
+        309.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Naked Lunch",
+      "texte_balise": "Naked Lunch",
+      "bbox": [
+        521.9,
+        293.0,
+        622.1,
+        312.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Gambler",
+      "texte_balise": "The Gambler",
+      "bbox": [
+        188.0,
+        293.7,
+        290.0,
+        311.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions of an English",
+      "texte_balise": "Confessions of an English",
+      "bbox": [
+        856.0,
+        293.7,
+        1008.0,
+        309.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dog Of The South",
+      "texte_balise": "The Dog Of The South",
+      "bbox": [
+        690.0,
+        295.7,
+        834.0,
+        311.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neuromancer",
+      "texte_balise": "Neuromancer",
+      "bbox": [
+        24.0,
+        297.7,
+        130.0,
+        311.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anna Karenina",
+      "texte_balise": "Anna Karenina",
+      "bbox": [
+        1026.0,
+        297.7,
+        1136.0,
+        313.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Opium-Eater",
+      "texte_balise": "Opium-Eater",
+      "bbox": [
+        859.9,
+        311.2,
+        936.1,
+        326.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hubert Selby Jr.",
+      "texte_balise": "Hubert Selby Jr.",
+      "bbox": [
+        356.0,
+        313.7,
+        476.0,
+        331.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles Portis",
+      "texte_balise": "Charles Portis",
+      "bbox": [
+        692.0,
+        313.7,
+        780.0,
+        327.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor Dostoevsky",
+      "texte_balise": "Fyodor Dostoevsky",
+      "bbox": [
+        188.0,
+        315.7,
+        336.0,
+        335.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William S. Burroughs",
+      "texte_balise": "William S. Burroughs",
+      "bbox": [
+        520.0,
+        315.7,
+        680.0,
+        335.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Gibson",
+      "texte_balise": "William Gibson",
+      "bbox": [
+        20.0,
+        319.7,
+        138.0,
+        335.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo Tolstoy",
+      "texte_balise": "Leo Tolstoy",
+      "bbox": [
+        1024.0,
+        319.7,
+        1110.0,
+        339.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas De Quincey",
+      "texte_balise": "Thomas De Quincey",
+      "bbox": [
+        856.0,
+        327.6,
+        978.0,
+        341.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        924.0,
+        361.6,
+        964.0,
+        377.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RENTON SPUD SICK BOY BEOBIE",
+      "texte_balise": "RENTON SPUD SICK BOY BEOBIE",
+      "bbox": [
+        1030.0,
+        361.6,
+        1164.0,
+        371.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David",
+      "texte_balise": "David",
+      "bbox": [
+        376.0,
+        375.5,
+        416.0,
+        389.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NELSON ALGREN",
+      "texte_balise": "NELSON ALGREN",
+      "bbox": [
+        48.0,
+        377.6,
+        146.0,
+        389.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIDNIGHT BEI",
+      "texte_balise": "MIDNIGHT BEI",
+      "bbox": [
+        860.0,
+        379.6,
+        1012.0,
+        403.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Innnite",
+      "texte_balise": "Innnite",
+      "bbox": [
+        432.4,
+        381.2,
+        466.8,
+        510.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Foster",
+      "texte_balise": "Foster",
+      "bbox": [
+        390.0,
+        391.6,
+        438.0,
+        407.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wallace",
+      "texte_balise": "Wallace",
+      "bbox": [
+        378.0,
+        407.6,
+        436.0,
+        421.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOG",
+      "texte_balise": "BLOG",
+      "bbox": [
+        702.0,
+        417.5,
+        840.0,
+        455.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lest",
+      "texte_balise": "lest",
+      "bbox": [
+        407.2,
+        443.5,
+        441.3,
+        525.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "le Man with",
+      "texte_balise": "le Man with",
+      "bbox": [
+        48.0,
+        477.5,
+        116.0,
+        489.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden",
+      "texte_balise": "The Golden",
+      "bbox": [
+        46.0,
+        493.5,
+        110.0,
+        505.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LeAVE",
+      "texte_balise": "LeAVE",
+      "bbox": [
+        594.0,
+        495.5,
+        654.0,
+        527.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Williams",
+      "texte_balise": "Williams",
+      "bbox": [
+        238.0,
+        527.4,
+        292.0,
+        539.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAINSPOTTING",
+      "texte_balise": "TRAINSPOTTING",
+      "bbox": [
+        1030.0,
+        527.4,
+        1164.0,
+        543.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Burroughs",
+      "texte_balise": "Burroughs",
+      "bbox": [
+        240.0,
+        537.4,
+        304.0,
+        549.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRVINE WELSH",
+      "texte_balise": "IRVINE WELSH",
+      "bbox": [
+        1038.0,
+        545.4,
+        1158.0,
+        561.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Junky",
+      "texte_balise": "Junky",
+      "bbox": [
+        234.0,
+        549.4,
+        278.0,
+        563.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Man with The",
+      "texte_balise": "The Man with The",
+      "bbox": [
+        22.0,
+        575.4,
+        158.0,
+        591.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Junky",
+      "texte_balise": "Junky",
+      "bbox": [
+        186.0,
+        581.4,
+        232.0,
+        597.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infinite Jest",
+      "texte_balise": "Infinite Jest",
+      "bbox": [
+        358.0,
+        581.4,
+        446.0,
+        597.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Midnight Bell",
+      "texte_balise": "The Midnight Bell",
+      "bbox": [
+        856.0,
+        581.4,
+        992.0,
+        601.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fear And Loathing",
+      "texte_balise": "Fear And Loathing",
+      "bbox": [
+        522.0,
+        583.4,
+        638.0,
+        597.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trainspotting",
+      "texte_balise": "Trainspotting",
+      "bbox": [
+        1024.0,
+        585.2,
+        1126.0,
+        605.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Live Blog",
+      "texte_balise": "Live Blog",
+      "bbox": [
+        688.0,
+        589.2,
+        760.0,
+        609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Golden Arm",
+      "texte_balise": "Golden Arm",
+      "bbox": [
+        22.0,
+        597.4,
+        116.0,
+        613.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William S. Burroughs",
+      "texte_balise": "William S. Burroughs",
+      "bbox": [
+        186.0,
+        601.3,
+        344.0,
+        621.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David Foster Wallace",
+      "texte_balise": "David Foster Wallace",
+      "bbox": [
+        356.0,
+        601.3,
+        512.0,
+        619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Las Vegas",
+      "texte_balise": "in Las Vegas",
+      "bbox": [
+        522.0,
+        601.3,
+        598.0,
+        615.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Patrick Hamilton",
+      "texte_balise": "Patrick Hamilton",
+      "bbox": [
+        856.0,
+        601.3,
+        982.0,
+        619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Irvine Welsh",
+      "texte_balise": "Irvine Welsh",
+      "bbox": [
+        1021.9,
+        607.0,
+        1118.1,
+        625.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Megan Boyle",
+      "texte_balise": "Megan Boyle",
+      "bbox": [
+        690.0,
+        609.1,
+        790.0,
+        629.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hunter s. Thompson",
+      "texte_balise": "Hunter s. Thompson",
+      "bbox": [
+        524.0,
+        617.3,
+        648.0,
+        633.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nelson Algren",
+      "texte_balise": "Nelson Algren",
+      "bbox": [
+        22.0,
+        619.1,
+        130.0,
+        639.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Man Booker Pite 2012",
+      "texte_balise": "The Man Booker Pite 2012",
+      "bbox": [
+        200.0,
+        645.3,
+        302.0,
+        661.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHERRY",
+      "texte_balise": "CHERRY",
+      "bbox": [
+        874.0,
+        657.2,
+        994.0,
+        683.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T you mod this be cord..:",
+      "texte_balise": "T you mod this be cord..:",
+      "bbox": [
+        362.0,
+        657.3,
+        460.0,
+        671.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NARCOPOLIS",
+      "texte_balise": "NARCOPOLIS",
+      "bbox": [
+        199.9,
+        662.8,
+        326.1,
+        689.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEET THAYIL",
+      "texte_balise": "JEET THAYIL",
+      "bbox": [
+        216.0,
+        693.2,
+        302.0,
+        713.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hubert",
+      "texte_balise": "Hubert",
+      "bbox": [
+        361.9,
+        705.0,
+        456.1,
+        733.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAZAI",
+      "texte_balise": "DAZAI",
+      "bbox": [
+        768.0,
+        709.2,
+        832.0,
+        731.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TOM KRISTENSEN",
+      "texte_balise": "TOM KRISTENSEN",
+      "bbox": [
+        1064.0,
+        711.2,
+        1124.0,
+        721.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selby",
+      "texte_balise": "Selby",
+      "bbox": [
+        360.0,
+        729.2,
+        434.0,
+        757.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Requiem for",
+      "texte_balise": "Requiem for",
+      "bbox": [
+        362.0,
+        755.2,
+        486.0,
+        777.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morphine",
+      "texte_balise": "Morphine",
+      "bbox": [
+        610.0,
+        757.2,
+        654.0,
+        767.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Denis Johnson",
+      "texte_balise": "Denis Johnson",
+      "bbox": [
+        82.0,
+        759.2,
+        170.0,
+        771.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a Dream",
+      "texte_balise": "a Dream",
+      "bbox": [
+        361.9,
+        774.4,
+        456.1,
+        795.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NO LONGER",
+      "texte_balise": "NO LONGER",
+      "bbox": [
+        700.0,
+        781.2,
+        828.0,
+        801.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail",
+      "texte_balise": "Mikhail",
+      "bbox": [
+        562.0,
+        793.1,
+        600.0,
+        803.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bulgakov",
+      "texte_balise": "Bulgakov",
+      "bbox": [
+        562.0,
+        805.1,
+        608.0,
+        815.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMAN",
+      "texte_balise": "HUMAN",
+      "bbox": [
+        721.9,
+        812.8,
+        812.1,
+        835.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JESUS' SON",
+      "texte_balise": "JESUS' SON",
+      "bbox": [
+        41.9,
+        816.5,
+        104.1,
+        829.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Havoc",
+      "texte_balise": "Havoc",
+      "bbox": [
+        1026.0,
+        871.0,
+        1074.0,
+        885.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "No Longer Human",
+      "texte_balise": "No Longer Human",
+      "bbox": [
+        688.0,
+        873.1,
+        824.0,
+        891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cherry",
+      "texte_balise": "Cherry",
+      "bbox": [
+        858.4,
+        873.9,
+        915.2,
+        896.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morphine",
+      "texte_balise": "Morphine",
+      "bbox": [
+        521.9,
+        874.5,
+        598.1,
+        895.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Narcopolis",
+      "texte_balise": "Narcopolis",
+      "bbox": [
+        191.9,
+        876.8,
+        274.1,
+        899.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Requiem for a Dream",
+      "texte_balise": "Requiem for a Dream",
+      "bbox": [
+        356.0,
+        877.1,
+        510.0,
+        897.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jesus' Son",
+      "texte_balise": "Jesus' Son",
+      "bbox": [
+        21.9,
+        878.3,
+        100.1,
+        893.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Osamu Dazai",
+      "texte_balise": "Osamu Dazai",
+      "bbox": [
+        683.9,
+        892.7,
+        788.1,
+        913.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tom Kristensen",
+      "texte_balise": "Tom Kristensen",
+      "bbox": [
+        1024.0,
+        893.0,
+        1142.0,
+        907.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail Bulgakov",
+      "texte_balise": "Mikhail Bulgakov",
+      "bbox": [
+        521.9,
+        894.7,
+        654.1,
+        917.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nico Walker",
+      "texte_balise": "Nico Walker",
+      "bbox": [
+        860.0,
+        894.8,
+        954.0,
+        913.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jeet Thayil",
+      "texte_balise": "Jeet Thayil",
+      "bbox": [
+        189.9,
+        898.7,
+        274.1,
+        919.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hubert Selby Jr.",
+      "texte_balise": "Hubert Selby Jr.",
+      "bbox": [
+        355.9,
+        898.7,
+        472.1,
+        919.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Denis Johnson",
+      "texte_balise": "Denis Johnson",
+      "bbox": [
+        24.0,
+        899.0,
+        134.0,
+        915.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

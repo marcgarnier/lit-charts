@@ -1,0 +1,18 @@
+{
+  "fichier": "04_NPR Top 100 Sci-Fi.jpeg",
+  "modele": "qwen2.5vl:3b",
+  "date": "2026-07-21T20:19:05.310927+00:00",
+  "duree_s": 135.5,
+  "taille_envoyee": [
+    900,
+    545
+  ],
+  "extraction": {
+    "layout_type": "sectioned_grid",
+    "has_arrows": true,
+    "colors": [
+      "white",
+      "light grey"
+    ]
+  }
+}

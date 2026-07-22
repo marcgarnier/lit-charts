@@ -1,0 +1,982 @@
+{
+  "fichier": "08_Ancient Origins.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:37.027301+00:00",
+  "duree_s": 0.9,
+  "taille_origine": [
+    585,
+    2048
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 88,
+  "lignes": [
+    {
+      "texte": "/mystic literature general/",
+      "texte_balise": "/mystic literature general/",
+      "bbox": [
+        187.7,
+        8.0,
+        389.3,
+        26.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(ancient origins of western esotericism edition)",
+      "texte_balise": "(ancient origins of western esotericism edition)",
+      "bbox": [
+        109.8,
+        28.0,
+        465.2,
+        50.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WEBER-ORYSON",
+      "texte_balise": "WEBER-ORYSON",
+      "bbox": [
+        397.0,
+        93.7,
+        463.5,
+        106.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLIA SACRA",
+      "texte_balise": "BIBLIA SACRA",
+      "bbox": [
+        371.4,
+        114.0,
+        483.2,
+        132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VULGATA",
+      "texte_balise": "VULGATA",
+      "bbox": [
+        391.3,
+        129.8,
+        467.2,
+        148.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Hekror-Geod Alle",
+      "texte_balise": "The Complete Hekror-Geod Alle",
+      "bbox": [
+        155.3,
+        141.4,
+        274.0,
+        159.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E45o quists",
+      "texte_balise": "E45o quists",
+      "bbox": [
+        409.3,
+        160.0,
+        451.2,
+        170.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BOTAX",
+      "texte_balise": "BOTAX",
+      "bbox": [
+        81.9,
+        238.0,
+        109.8,
+        250.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hóc Nh N miA",
+      "texte_balise": "Hóc Nh N miA",
+      "bbox": [
+        152.5,
+        247.5,
+        218.7,
+        266.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ISTCOTT",
+      "texte_balise": "ISTCOTT",
+      "bbox": [
+        78.5,
+        260.9,
+        118.9,
+        277.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "COMPETE",
+      "texte_balise": "COMPETE",
+      "bbox": [
+        289.5,
+        382.0,
+        333.4,
+        394.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        59.8,
+        409.7,
+        159.8,
+        436.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristotle",
+      "texte_balise": "Aristotle",
+      "bbox": [
+        289.5,
+        412.0,
+        335.4,
+        424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristotle",
+      "texte_balise": "Aristotle",
+      "bbox": [
+        223.6,
+        416.0,
+        269.5,
+        428.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLOTINUS",
+      "texte_balise": "PLOTINUS",
+      "bbox": [
+        411.3,
+        418.0,
+        481.2,
+        432.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ENNEADS",
+      "texte_balise": "THE ENNEADS",
+      "bbox": [
+        413.3,
+        432.0,
+        481.2,
+        442.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE WORKS",
+      "texte_balise": "COMPLETE WORKS",
+      "bbox": [
+        59.9,
+        442.0,
+        157.7,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Wha",
+      "texte_balise": "The Wha",
+      "bbox": [
+        45.9,
+        598.0,
+        103.8,
+        618.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILO",
+      "texte_balise": "PHILO",
+      "bbox": [
+        41.8,
+        611.6,
+        183.8,
+        656.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORIGEN",
+      "texte_balise": "ORIGEN",
+      "bbox": [
+        235.6,
+        626.0,
+        335.4,
+        642.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lamblichus",
+      "texte_balise": "lamblichus",
+      "bbox": [
+        397.3,
+        768.0,
+        455.2,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the Mysteries",
+      "texte_balise": "On the Mysteries",
+      "bbox": [
+        397.3,
+        782.0,
+        481.2,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forewora by David M. Scholer",
+      "texte_balise": "Forewora by David M. Scholer",
+      "bbox": [
+        93.8,
+        810.0,
+        181.7,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATONIC COMMENTARIES",
+      "texte_balise": "PLATONIC COMMENTARIES",
+      "bbox": [
+        414.5,
+        853.0,
+        529.8,
+        874.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SIX BOOKS OF",
+      "texte_balise": "THE SIX BOOKS OF",
+      "bbox": [
+        424.6,
+        874.6,
+        517.9,
+        892.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WAV OF",
+      "texte_balise": "THE WAV OF",
+      "bbox": [
+        227.6,
+        876.0,
+        343.4,
+        890.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROCLUS",
+      "texte_balise": "PROCLUS",
+      "bbox": [
+        441.2,
+        890.0,
+        501.1,
+        904.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMES",
+      "texte_balise": "HERMES",
+      "bbox": [
+        225.6,
+        892.0,
+        343.4,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROCLA",
+      "texte_balise": "PROCLA",
+      "bbox": [
+        441.2,
+        896.0,
+        501.1,
+        904.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Chaidean Oracies",
+      "texte_balise": "The Chaidean Oracies",
+      "bbox": [
+        55.9,
+        900.0,
+        153.7,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Chaldean Oracies",
+      "texte_balise": "The Chaldean Oracies",
+      "bbox": [
+        55.9,
+        900.0,
+        153.7,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "oN nit.",
+      "texte_balise": "oN nit.",
+      "bbox": [
+        455.2,
+        906.0,
+        485.2,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "oN mit.",
+      "texte_balise": "oN mit.",
+      "bbox": [
+        455.2,
+        906.0,
+        485.2,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEOLOGY OF",
+      "texte_balise": "THEOLOGY OF",
+      "bbox": [
+        413.3,
+        913.7,
+        529.1,
+        934.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        443.1,
+        933.4,
+        497.3,
+        950.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ELEMENTS",
+      "texte_balise": "THE ELEMENTS",
+      "bbox": [
+        435.3,
+        960.0,
+        509.1,
+        970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THEOLOGY",
+      "texte_balise": "OF THEOLOGY",
+      "bbox": [
+        437.2,
+        967.7,
+        509.2,
+        982.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ruth Maiercik",
+      "texte_balise": "Ruth Maiercik",
+      "bbox": [
+        73.9,
+        972.0,
+        135.8,
+        982.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ruth Malercik",
+      "texte_balise": "Ruth Malercik",
+      "bbox": [
+        73.9,
+        972.0,
+        135.8,
+        982.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS TAYLOR",
+      "texte_balise": "THOMAS TAYLOR",
+      "bbox": [
+        431.3,
+        1092.0,
+        519.1,
+        1104.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMMENTARY",
+      "texte_balise": "COMMENTARY",
+      "bbox": [
+        39.9,
+        1124.0,
+        163.7,
+        1150.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Se One of the oldest,",
+      "texte_balise": "Se One of the oldest,",
+      "bbox": [
+        453.2,
+        1128.0,
+        555.1,
+        1142.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sefec",
+      "texte_balise": "Sefec",
+      "bbox": [
+        213.4,
+        1135.4,
+        363.6,
+        1188.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "most Important.",
+      "texte_balise": "most Important.",
+      "bbox": [
+        481.2,
+        1140.0,
+        555.1,
+        1150.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "most important.",
+      "texte_balise": "most important.",
+      "bbox": [
+        479.2,
+        1142.0,
+        555.1,
+        1152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and most carefully",
+      "texte_balise": "and most carefully",
+      "bbox": [
+        469.2,
+        1150.0,
+        557.0,
+        1162.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on the",
+      "texte_balise": "on the",
+      "bbox": [
+        41.9,
+        1154.0,
+        81.9,
+        1172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "preserved of",
+      "texte_balise": "preserved of",
+      "bbox": [
+        495.2,
+        1162.0,
+        555.1,
+        1174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DREAM OF SCIPIO",
+      "texte_balise": "DREAM OF SCIPIO",
+      "bbox": [
+        41.9,
+        1169.8,
+        165.8,
+        1194.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Babie",
+      "texte_balise": "Babie",
+      "bbox": [
+        383.3,
+        1176.0,
+        557.0,
+        1294.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "by MACROBIUS",
+      "texte_balise": "by MACROBIUS",
+      "bbox": [
+        41.7,
+        1193.1,
+        163.9,
+        1226.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Translated with an",
+      "texte_balise": "Translated with an",
+      "bbox": [
+        47.9,
+        1230.0,
+        121.8,
+        1240.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of Creation",
+      "texte_balise": "The Book of Creation",
+      "bbox": [
+        239.6,
+        1230.0,
+        375.4,
+        1242.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Theory",
+      "texte_balise": "In Theory",
+      "bbox": [
+        215.6,
+        1262.0,
+        273.5,
+        1276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        213.6,
+        1278.0,
+        239.6,
+        1288.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Practice",
+      "texte_balise": "Practice",
+      "bbox": [
+        213.6,
+        1292.0,
+        265.5,
+        1302.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "master of the first",
+      "texte_balise": "master of the first",
+      "bbox": [
+        471.2,
+        1298.0,
+        557.0,
+        1310.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "century esoteric school",
+      "texte_balise": "century esoteric school",
+      "bbox": [
+        447.2,
+        1308.0,
+        557.0,
+        1320.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Revised",
+      "texte_balise": "Revised",
+      "bbox": [
+        213.5,
+        1323.6,
+        255.7,
+        1336.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAN HARRIS STAHL",
+      "texte_balise": "WILLIAN HARRIS STAHL",
+      "bbox": [
+        43.9,
+        1329.8,
+        161.8,
+        1354.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        213.6,
+        1338.0,
+        251.6,
+        1348.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Transation, Introduction.",
+      "texte_balise": "Transation, Introduction.",
+      "bbox": [
+        439.2,
+        1338.0,
+        559.0,
+        1354.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Commortary",
+      "texte_balise": "and Commortary",
+      "bbox": [
+        487.1,
+        1349.9,
+        559.1,
+        1364.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PyAryeh Kaplan",
+      "texte_balise": "PyAryeh Kaplan",
+      "bbox": [
+        461.2,
+        1362.0,
+        555.1,
+        1378.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ARYEH KAPLAN",
+      "texte_balise": "ARYEH KAPLAN",
+      "bbox": [
+        213.6,
+        1366.0,
+        291.5,
+        1378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIDRASH",
+      "texte_balise": "MIDRASH",
+      "bbox": [
+        425.2,
+        1457.9,
+        491.2,
+        1476.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RABBAH",
+      "texte_balise": "RABBAH",
+      "bbox": [
+        429.2,
+        1475.7,
+        489.3,
+        1496.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LHI",
+      "texte_balise": "LHI",
+      "bbox": [
+        115.8,
+        1506.0,
+        155.7,
+        1534.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE HOLY",
+      "texte_balise": "THE HOLY",
+      "bbox": [
+        91.8,
+        1533.7,
+        151.8,
+        1546.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QURAN",
+      "texte_balise": "QURAN",
+      "bbox": [
+        85.7,
+        1545.5,
+        157.9,
+        1566.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*ZOHAR",
+      "texte_balise": "*ZOHAR",
+      "bbox": [
+        269.5,
+        1602.0,
+        281.5,
+        1668.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"ZOHAR",
+      "texte_balise": "\"ZOHAR",
+      "bbox": [
+        297.5,
+        1602.0,
+        309.5,
+        1678.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YVHOZ",
+      "texte_balise": "YVHOZ",
+      "bbox": [
+        321.5,
+        1604.0,
+        333.4,
+        1684.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SOW DIPS",
+      "texte_balise": "SOW DIPS",
+      "bbox": [
+        111.8,
+        1786.0,
+        169.7,
+        1798.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HESIOD",
+      "texte_balise": "HESIOD",
+      "bbox": [
+        441.1,
+        1793.0,
+        525.3,
+        1813.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        281.5,
+        1794.0,
+        305.5,
+        1804.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAG",
+      "texte_balise": "NAG",
+      "bbox": [
+        249.6,
+        1810.0,
+        337.4,
+        1836.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Now Translation",
+      "texte_balise": "Now Translation",
+      "bbox": [
+        18.0,
+        1826.0,
+        79.9,
+        1832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOMERIC HYMNS",
+      "texte_balise": "HOMERIC HYMNS",
+      "bbox": [
+        421.3,
+        1826.0,
+        549.1,
+        1838.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The DEAD SEA",
+      "texte_balise": "The DEAD SEA",
+      "bbox": [
+        16.0,
+        1840.0,
+        199.7,
+        1864.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMMADI",
+      "texte_balise": "HAMMADI",
+      "bbox": [
+        229.6,
+        1842.0,
+        355.4,
+        1862.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCROLLS",
+      "texte_balise": "SCROLLS",
+      "bbox": [
+        47.9,
+        1864.0,
+        167.7,
+        1888.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCRIPTURES",
+      "texte_balise": "SCRIPTURES",
+      "bbox": [
+        227.6,
+        1868.0,
+        357.4,
+        1884.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE REVISED AND",
+      "texte_balise": "THE REVISED AND",
+      "bbox": [
+        253.6,
+        1900.0,
+        333.4,
+        1910.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UPDATED TRANSTATION",
+      "texte_balise": "UPDATED TRANSTATION",
+      "bbox": [
+        241.6,
+        1910.0,
+        347.4,
+        1920.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF SACRED GNOSTIC TEXTS",
+      "texte_balise": "OF SACRED GNOSTIC TEXTS",
+      "bbox": [
+        225.6,
+        1922.0,
+        363.4,
+        1932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE A CHE VOLUME",
+      "texte_balise": "COMPLETE A CHE VOLUME",
+      "bbox": [
+        253.6,
+        1932.0,
+        327.4,
+        1942.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARVIN MEYER",
+      "texte_balise": "MARVIN MEYER",
+      "bbox": [
+        253.6,
+        1964.0,
+        333.4,
+        1974.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

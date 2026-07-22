@@ -1,0 +1,61 @@
+{
+  "fichier": "49_Addiction.jpeg",
+  "date": "2026-07-21T19:28:36.771359+00:00",
+  "taille_origine": [
+    1200,
+    925
+  ],
+  "hauteur_ligne_mediane": 18.0,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 1,
+  "nb_noeuds": 6,
+  "tiers": [
+    "Havoc"
+  ],
+  "intitules_isoles": [
+    "Foster",
+    "Wallace",
+    "The Golden",
+    "Havoc"
+  ],
+  "blocs": [
+    {
+      "tier": "Havoc",
+      "bbox": null,
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Jesus' Son",
+          "auteur": "Denis Johnson",
+          "tier": "Havoc"
+        },
+        {
+          "titre": "Narcopolis",
+          "auteur": "Jeet Thayil",
+          "tier": "Havoc"
+        },
+        {
+          "titre": "Requiem for a Dream",
+          "auteur": "Hubert Selby Jr.",
+          "tier": "Havoc"
+        },
+        {
+          "titre": "Morphine",
+          "auteur": "Mikhail Bulgakov",
+          "tier": "Havoc"
+        },
+        {
+          "titre": "No Longer Human",
+          "auteur": "Osamu Dazai",
+          "tier": "Havoc"
+        },
+        {
+          "titre": "Cherry",
+          "auteur": "Nico Walker",
+          "tier": "Havoc"
+        }
+      ]
+    }
+  ]
+}

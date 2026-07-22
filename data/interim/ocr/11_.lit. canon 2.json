@@ -1,0 +1,1620 @@
+{
+  "fichier": "11_.lit. canon 2.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:49.722321+00:00",
+  "duree_s": 2.4,
+  "taille_origine": [
+    2096,
+    4154
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 146,
+  "lignes": [
+    {
+      "texte": "THE /LIT/ERARY CANON",
+      "texte_balise": "THE /LIT/ERARY CANON",
+      "bbox": [
+        478.3,
+        72.9,
+        1508.0,
+        158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILIAD",
+      "texte_balise": "ILIAD",
+      "bbox": [
+        91.4,
+        218.8,
+        182.8,
+        246.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        1739.4,
+        230.6,
+        1794.5,
+        249.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOMER",
+      "texte_balise": "HOMER",
+      "bbox": [
+        85.3,
+        249.1,
+        219.4,
+        279.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE REPUBLIC",
+      "texte_balise": "THE REPUBLIC",
+      "bbox": [
+        1712.1,
+        255.3,
+        1824.9,
+        273.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOPHOCLES",
+      "texte_balise": "SOPHOCLES",
+      "bbox": [
+        1063.2,
+        273.5,
+        1230.8,
+        294.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHMOND LATTIME",
+      "texte_balise": "RICHMOND LATTIME",
+      "bbox": [
+        91.4,
+        294.7,
+        210.2,
+        316.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DEDIPUS CYCLE",
+      "texte_balise": "THE DEDIPUS CYCLE",
+      "bbox": [
+        1069.3,
+        309.7,
+        1224.7,
+        325.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oedipus Rex",
+      "texte_balise": "Oedipus Rex",
+      "bbox": [
+        1108.9,
+        352.5,
+        1185.1,
+        367.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        609.3,
+        361.6,
+        652.0,
+        373.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ded pas at Colonis",
+      "texte_balise": "Ded pas at Colonis",
+      "bbox": [
+        1087.6,
+        370.7,
+        1203.4,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ODYSSEY",
+      "texte_balise": "ODYSSEY",
+      "bbox": [
+        536.2,
+        386.0,
+        722.0,
+        413.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anticone",
+      "texte_balise": "Anticone",
+      "bbox": [
+        1118.1,
+        395.1,
+        1169.9,
+        404.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        618.4,
+        422.4,
+        642.8,
+        437.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOMER",
+      "texte_balise": "HOMER",
+      "bbox": [
+        551.4,
+        449.8,
+        706.8,
+        477.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "richmond lattimore",
+      "texte_balise": "richmond lattimore",
+      "bbox": [
+        527.0,
+        516.6,
+        740.3,
+        531.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Iliad - Homer (Lattimore Trans.)",
+      "texte_balise": "The Iliad - Homer (Lattimore Trans.)",
+      "bbox": [
+        27.4,
+        556.1,
+        362.5,
+        577.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oedipus Cycle (At least read Oedipus Rex) -",
+      "texte_balise": "The Oedipus Cycle (At least read Oedipus Rex) -",
+      "bbox": [
+        947.5,
+        562.2,
+        1395.3,
+        586.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Odyssey - Homer (Lattimore Trans.)",
+      "texte_balise": "The Odyssey - Homer (Lattimore Trans.)",
+      "bbox": [
+        457.0,
+        565.3,
+        828.7,
+        589.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Republic - Plato (Bloom Trans.)",
+      "texte_balise": "The Republic - Plato (Bloom Trans.)",
+      "bbox": [
+        1617.7,
+        571.3,
+        1946.7,
+        595.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sophocles (Fitzgerald Trans.)",
+      "texte_balise": "Sophocles (Fitzgerald Trans.)",
+      "bbox": [
+        947.5,
+        592.5,
+        1215.6,
+        616.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PANGLIN @CLASSICS",
+      "texte_balise": "PANGLIN @CLASSICS",
+      "bbox": [
+        566.7,
+        689.4,
+        709.8,
+        708.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        158.4,
+        689.9,
+        185.8,
+        705.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AENEID",
+      "texte_balise": "AENEID",
+      "bbox": [
+        109.7,
+        705.1,
+        243.7,
+        741.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARCUS AURELIUS",
+      "texte_balise": "MARCUS AURELIUS",
+      "bbox": [
+        560.6,
+        711.1,
+        709.8,
+        729.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEDITATIONS",
+      "texte_balise": "MEDITATIONS",
+      "bbox": [
+        578.8,
+        735.5,
+        691.6,
+        753.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy",
+      "texte_balise": "Holy",
+      "bbox": [
+        1069.3,
+        735.5,
+        1166.8,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIRGIL",
+      "texte_balise": "VIRGIL",
+      "bbox": [
+        118.8,
+        741.5,
+        234.6,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bible",
+      "texte_balise": "Bible",
+      "bbox": [
+        1087.6,
+        771.9,
+        1188.1,
+        811.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSI ATED BY",
+      "texte_balise": "TRANSI ATED BY",
+      "bbox": [
+        128.0,
+        775.0,
+        219.3,
+        790.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT FITZCERALD",
+      "texte_balise": "ROBERT FITZCERALD",
+      "bbox": [
+        82.3,
+        793.2,
+        265.0,
+        811.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King James Version",
+      "texte_balise": "King James Version",
+      "bbox": [
+        1063.2,
+        835.3,
+        1191.2,
+        854.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VINE COMEDY",
+      "texte_balise": "VINE COMEDY",
+      "bbox": [
+        1684.7,
+        914.8,
+        1818.8,
+        948.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIVINE COMEDY",
+      "texte_balise": "DIVINE COMEDY",
+      "bbox": [
+        1666.4,
+        920.8,
+        1818.8,
+        945.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Holy Bible, King James Version (At least",
+      "texte_balise": "The Holy Bible, King James Version (At least",
+      "bbox": [
+        938.3,
+        1042.1,
+        1346.6,
+        1070.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Aeneid - Virgil (Fitzgerald Trans.)",
+      "texte_balise": "The Aeneid - Virgil (Fitzgerald Trans.)",
+      "bbox": [
+        3.0,
+        1048.1,
+        347.3,
+        1073.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Meditations - Marcus Aurelius (Hays",
+      "texte_balise": "The Meditations - Marcus Aurelius (Hays",
+      "bbox": [
+        481.3,
+        1060.6,
+        865.2,
+        1082.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine Comedy - Dante (Mandelbaum,",
+      "texte_balise": "The Divine Comedy - Dante (Mandelbaum,",
+      "bbox": [
+        1538.5,
+        1060.6,
+        1937.6,
+        1085.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read Genesis, Exodus, Psalms, Job, The Four",
+      "texte_balise": "read Genesis, Exodus, Psalms, Job, The Four",
+      "bbox": [
+        935.3,
+        1072.8,
+        1346.6,
+        1097.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trans.)",
+      "texte_balise": "Trans.)",
+      "bbox": [
+        484.4,
+        1091.0,
+        548.4,
+        1109.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Musa, or Longfellow Trans.)",
+      "texte_balise": "Musa, or Longfellow Trans.)",
+      "bbox": [
+        1538.5,
+        1091.0,
+        1797.4,
+        1115.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gosnels)",
+      "texte_balise": "Gosnels)",
+      "bbox": [
+        938.3,
+        1103.2,
+        1017.5,
+        1121.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gospels)",
+      "texte_balise": "Gospels)",
+      "bbox": [
+        938.2,
+        1106.2,
+        1017.7,
+        1125.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Canterbury Tales",
+      "texte_balise": "The Canterbury Tales",
+      "bbox": [
+        76.2,
+        1136.6,
+        271.1,
+        1164.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Geoffrey Chaucer",
+      "texte_balise": "by Geoffrey Chaucer",
+      "bbox": [
+        112.6,
+        1164.2,
+        237.7,
+        1186.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHAKESPEARES",
+      "texte_balise": "SHAKESPEARES",
+      "bbox": [
+        1072.4,
+        1176.9,
+        1264.3,
+        1204.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•7:bbIEM",
+      "texte_balise": "•7:bbIEM",
+      "bbox": [
+        1154.6,
+        1180.0,
+        1209.5,
+        1186.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ANATIN CLASSICS",
+      "texte_balise": "ANATIN CLASSICS",
+      "bbox": [
+        600.2,
+        1191.8,
+        731.2,
+        1201.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOVER • THRIFT • EDITIONS",
+      "texte_balise": "DOVER • THRIFT • EDITIONS",
+      "bbox": [
+        1562.9,
+        1194.8,
+        1757.8,
+        1210.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COME DISS,",
+      "texte_balise": "COME DISS,",
+      "bbox": [
+        1127.2,
+        1204.3,
+        1197.3,
+        1219.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOIN MILTON",
+      "texte_balise": "JOIN MILTON",
+      "bbox": [
+        609.3,
+        1210.4,
+        712.9,
+        1228.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor Dostoyevsky",
+      "texte_balise": "Fyodor Dostoyevsky",
+      "bbox": [
+        1575.0,
+        1216.5,
+        1742.6,
+        1234.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAGEDIES",
+      "texte_balise": "TRAGEDIES",
+      "bbox": [
+        1133.3,
+        1225.6,
+        1203.4,
+        1237.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARADISE LOST",
+      "texte_balise": "PARADISE LOST",
+      "bbox": [
+        606.3,
+        1231.7,
+        715.9,
+        1247.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRIME AND",
+      "texte_balise": "CRIME AND",
+      "bbox": [
+        1599.2,
+        1237.1,
+        1721.5,
+        1269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PUNISHMENT",
+      "texte_balise": "PUNISHMENT",
+      "bbox": [
+        1593.3,
+        1268.3,
+        1724.3,
+        1295.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nicely tun",
+      "texte_balise": "Nicely tun",
+      "bbox": [
+        1093.7,
+        1484.4,
+        1142.4,
+        1499.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Complete Works of William Shakespeare (At",
+      "texte_balise": "The Complete Works of William Shakespeare (At",
+      "bbox": [
+        938.3,
+        1530.1,
+        1392.3,
+        1551.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Canterbury Tales - Chaucer",
+      "texte_balise": "The Canterbury Tales - Chaucer",
+      "bbox": [
+        21.3,
+        1533.1,
+        319.9,
+        1557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise Lost - Milton",
+      "texte_balise": "Paradise Lost - Milton",
+      "bbox": [
+        536.2,
+        1545.3,
+        743.3,
+        1566.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime and Punishment - Dostoevsky (McDuff",
+      "texte_balise": "Crime and Punishment - Dostoevsky (McDuff",
+      "bbox": [
+        1477.6,
+        1557.5,
+        1898.0,
+        1581.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "least read Hamlet, Macbeth, Othello, Romeo and",
+      "texte_balise": "least read Hamlet, Macbeth, Othello, Romeo and",
+      "bbox": [
+        935.3,
+        1560.5,
+        1395.3,
+        1581.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or P&V trans. avoid Garnett)",
+      "texte_balise": "or P&V trans. avoid Garnett)",
+      "bbox": [
+        1477.6,
+        1587.5,
+        1742.6,
+        1609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Juliet, and King Lear) - Shakespeare",
+      "texte_balise": "Juliet, and King Lear) - Shakespeare",
+      "bbox": [
+        938.3,
+        1591.0,
+        1270.4,
+        1615.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REW YORK JINE, BESTSELLET",
+      "texte_balise": "REW YORK JINE, BESTSELLET",
+      "bbox": [
+        581.9,
+        1670.2,
+        767.7,
+        1682.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUIN(& CLASSICS",
+      "texte_balise": "PENGUIN(& CLASSICS",
+      "bbox": [
+        124.9,
+        1685.4,
+        246.8,
+        1694.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOYEVSKY",
+      "texte_balise": "FYODOR DOSTOYEVSKY",
+      "bbox": [
+        106.6,
+        1700.4,
+        268.1,
+        1718.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUIS @CLASSICS",
+      "texte_balise": "PENGUIS @CLASSICS",
+      "bbox": [
+        1593.3,
+        1703.4,
+        1721.3,
+        1718.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BROTHERS",
+      "texte_balise": "THE BROTHERS",
+      "bbox": [
+        134.0,
+        1721.9,
+        240.7,
+        1740.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH NIETZSCHE",
+      "texte_balise": "FRIEDRICH NIETZSCHE",
+      "bbox": [
+        1578.1,
+        1721.9,
+        1736.5,
+        1737.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1032.8,
+        1725.0,
+        1087.6,
+        1749.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EGO",
+      "texte_balise": "EGO",
+      "bbox": [
+        1035.8,
+        1743.2,
+        1176.0,
+        1807.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THUS SPOKE",
+      "texte_balise": "THUS SPOKE",
+      "bbox": [
+        1614.7,
+        1746.3,
+        1703.0,
+        1758.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZARATHUSTRA",
+      "texte_balise": "ZARATHUSTRA",
+      "bbox": [
+        1605.5,
+        1758.4,
+        1712.1,
+        1773.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND HIS OWN",
+      "texte_balise": "AND HIS OWN",
+      "bbox": [
+        1035.8,
+        1804.1,
+        1212.5,
+        1831.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DON QUIXOTE",
+      "texte_balise": "DON QUIXOTE",
+      "bbox": [
+        575.5,
+        1827.2,
+        777.1,
+        1869.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Case of the Individual",
+      "texte_balise": "The Case of the Individual",
+      "bbox": [
+        1038.9,
+        1834.3,
+        1212.5,
+        1853.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Against Authority",
+      "texte_balise": "Against Authority",
+      "bbox": [
+        1038.9,
+        1849.8,
+        1157.7,
+        1868.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIGUEL DE CERVANTES",
+      "texte_balise": "MIGUEL DE CERVANTES",
+      "bbox": [
+        597.1,
+        1922.9,
+        758.6,
+        1938.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TAKELAHON BE LUNCHERO SWAN",
+      "texte_balise": "A TAKELAHON BE LUNCHERO SWAN",
+      "bbox": [
+        581.9,
+        1944.2,
+        767.7,
+        1950.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Max Stirner",
+      "texte_balise": "Max Stirner",
+      "bbox": [
+        1038.8,
+        1956.1,
+        1157.7,
+        1977.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Brothers Karamazov - Dostoevsky (McDuff",
+      "texte_balise": "The Brothers Karamazov - Dostoevsky (McDuff",
+      "bbox": [
+        12.2,
+        2035.1,
+        444.8,
+        2057.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote - Cervantes",
+      "texte_balise": "Don Quixote - Cervantes",
+      "bbox": [
+        548.4,
+        2035.1,
+        779.9,
+        2057.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thus Spoke Zarathustra - Nietzsche",
+      "texte_balise": "Thus Spoke Zarathustra - Nietzsche",
+      "bbox": [
+        1471.5,
+        2053.8,
+        1803.5,
+        2078.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ego and His Own - Stirner",
+      "texte_balise": "The Ego and His Own - Stirner",
+      "bbox": [
+        971.8,
+        2056.8,
+        1258.2,
+        2081.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or P&V trans. avoid Garnett)",
+      "texte_balise": "or P&V trans. avoid Garnett)",
+      "bbox": [
+        12.2,
+        2065.9,
+        274.2,
+        2084.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Trans. Grossman)",
+      "texte_balise": "(Trans. Grossman)",
+      "bbox": [
+        548.4,
+        2065.9,
+        719.0,
+        2087.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Hollingdale Trans.)",
+      "texte_balise": "(Hollingdale Trans.)",
+      "bbox": [
+        1471.5,
+        2084.1,
+        1651.2,
+        2108.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Martin Trans.)",
+      "texte_balise": "(Martin Trans.)",
+      "bbox": [
+        971.8,
+        2087.1,
+        1112.0,
+        2108.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOVER THRIFTEE DITIONS",
+      "texte_balise": "DOVER THRIFTEE DITIONS",
+      "bbox": [
+        1532.4,
+        2187.7,
+        1748.7,
+        2203.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOVER THRIFT EDITIONS",
+      "texte_balise": "DOVER THRIFT EDITIONS",
+      "bbox": [
+        1532.4,
+        2188.0,
+        1748.7,
+        2201.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oscar Wilde",
+      "texte_balise": "Oscar Wilde",
+      "bbox": [
+        1584.2,
+        2215.7,
+        1700.0,
+        2237.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PICTURE OF",
+      "texte_balise": "THE PICTURE OF",
+      "bbox": [
+        1535.4,
+        2243.0,
+        1742.6,
+        2264.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DORIAN GRAY",
+      "texte_balise": "DORIAN GRAY",
+      "bbox": [
+        1538.5,
+        2267.0,
+        1739.6,
+        2292.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        69.8,
+        2293.9,
+        219.6,
+        2335.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        1032.6,
+        2306.5,
+        1182.2,
+        2353.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        72.7,
+        2333.2,
+        207.5,
+        2381.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        1029.7,
+        2346.5,
+        1166.8,
+        2395.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners",
+      "texte_balise": "Dubliners",
+      "bbox": [
+        73.1,
+        2373.9,
+        213.3,
+        2404.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ulysses",
+      "texte_balise": "Ulysses",
+      "bbox": [
+        1029.6,
+        2382.7,
+        1148.7,
+        2423.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "...",
+      "texte_balise": "...",
+      "bbox": [
+        600.2,
+        2422.6,
+        740.3,
+        2431.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES JOYCE",
+      "texte_balise": "JAMES JOYCE",
+      "bbox": [
+        624.5,
+        2462.0,
+        709.8,
+        2471.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Portrait of the Artist as a loung Man",
+      "texte_balise": "A Portrait of the Artist as a loung Man",
+      "bbox": [
+        569.7,
+        2480.0,
+        764.7,
+        2496.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners - Joyce",
+      "texte_balise": "Dubliners - Joyce",
+      "bbox": [
+        79.2,
+        2547.0,
+        240.7,
+        2572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Portrait of the Artist as a Young",
+      "texte_balise": "A Portrait of the Artist as a Young",
+      "bbox": [
+        530.1,
+        2547.0,
+        843.9,
+        2572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ulysses - Joyce",
+      "texte_balise": "Ulysses - Joyce",
+      "bbox": [
+        1050.9,
+        2574.1,
+        1191.3,
+        2599.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Man - Joyce",
+      "texte_balise": "Man - Joyce",
+      "bbox": [
+        530.0,
+        2580.4,
+        649.0,
+        2602.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Picture of Dorian Gray - Wilde",
+      "texte_balise": "The Picture of Dorian Gray - Wilde",
+      "bbox": [
+        1477.6,
+        2583.8,
+        1800.5,
+        2605.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SOUND",
+      "texte_balise": "THE SOUND",
+      "bbox": [
+        106.5,
+        2635.0,
+        249.9,
+        2663.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ficciones",
+      "texte_balise": "Ficciones",
+      "bbox": [
+        584.9,
+        2641.6,
+        746.4,
+        2678.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE FURY",
+      "texte_balise": "AND THE FURY",
+      "bbox": [
+        94.3,
+        2662.2,
+        259.1,
+        2694.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILHAM FAULKNER",
+      "texte_balise": "WILHAM FAULKNER",
+      "bbox": [
+        118.8,
+        2690.0,
+        231.5,
+        2706.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Metamorphosin",
+      "texte_balise": "The Metamorphosin",
+      "bbox": [
+        1577.4,
+        2702.1,
+        1727.8,
+        2731.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1136.3,
+        2717.6,
+        1182.1,
+        2736.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stranger",
+      "texte_balise": "Stranger",
+      "bbox": [
+        1065.0,
+        2735.0,
+        1249.6,
+        2782.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by ALBERT CAMUS",
+      "texte_balise": "by ALBERT CAMUS",
+      "bbox": [
+        1072.4,
+        2894.0,
+        1246.0,
+        2912.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F. Kafka",
+      "texte_balise": "F. Kafka",
+      "bbox": [
+        1629.9,
+        2924.6,
+        1678.6,
+        2940.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sound and the Fury - Faulkner",
+      "texte_balise": "The Sound and the Fury - Faulkner",
+      "bbox": [
+        9.1,
+        2970.0,
+        332.1,
+        2991.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ficciones - Borges (Kerrigan Trans.)",
+      "texte_balise": "Ficciones - Borges (Kerrigan Trans.)",
+      "bbox": [
+        490.5,
+        2988.0,
+        816.5,
+        3013.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranger - Camus (Ward Trans.)",
+      "texte_balise": "The Stranger - Camus (Ward Trans.)",
+      "bbox": [
+        974.9,
+        2991.0,
+        1310.0,
+        3013.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Metamorphosis and Other",
+      "texte_balise": "The Metamorphosis and Other",
+      "bbox": [
+        1505.0,
+        3031.0,
+        1794.4,
+        3052.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stories (At least read The",
+      "texte_balise": "Stories (At least read The",
+      "bbox": [
+        1505.0,
+        3061.0,
+        1739.6,
+        3080.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamorphosis, The Trial, and The",
+      "texte_balise": "Metamorphosis, The Trial, and The",
+      "bbox": [
+        1508.0,
+        3091.9,
+        1831.0,
+        3113.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Castle) - Kafka (Edge trans.)",
+      "texte_balise": "Castle) - Kafka (Edge trans.)",
+      "bbox": [
+        1505.0,
+        3119.0,
+        1763.9,
+        3144.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMERICAN CYCHO",
+      "texte_balise": "AMERICAN CYCHO",
+      "bbox": [
+        57.9,
+        3219.7,
+        304.7,
+        3241.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMERICAN PSYCHO",
+      "texte_balise": "AMERICAN PSYCHO",
+      "bbox": [
+        57.9,
+        3223.0,
+        304.7,
+        3251.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRET EASTON ELLIS",
+      "texte_balise": "BRET EASTON ELLIS",
+      "bbox": [
+        88.3,
+        3250.6,
+        271.1,
+        3275.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CRYING OF",
+      "texte_balise": "THE CRYING OF",
+      "bbox": [
+        577.0,
+        3251.6,
+        751.3,
+        3292.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOT 49",
+      "texte_balise": "LOT 49",
+      "bbox": [
+        703.7,
+        3281.0,
+        786.0,
+        3321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS PYNCHON",
+      "texte_balise": "THOMAS PYNCHON",
+      "bbox": [
+        575.8,
+        3530.0,
+        783.0,
+        3555.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pladimin No lon",
+      "texte_balise": "Pladimin No lon",
+      "bbox": [
+        1562.9,
+        3551.8,
+        1645.1,
+        3558.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Crying of Lot 49 - Pynchon",
+      "texte_balise": "The Crying of Lot 49 - Pynchon",
+      "bbox": [
+        496.6,
+        3633.9,
+        789.0,
+        3658.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "American Psycho - Ellis",
+      "texte_balise": "American Psycho - Ellis",
+      "bbox": [
+        45.7,
+        3640.0,
+        262.0,
+        3661.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gravity's Rainbow - Pynchon",
+      "texte_balise": "Gravity's Rainbow - Pynchon",
+      "bbox": [
+        1020.6,
+        3640.0,
+        1288.7,
+        3661.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lolita - Nabokov",
+      "texte_balise": "Lolita - Nabokov",
+      "bbox": [
+        1562.9,
+        3649.0,
+        1721.3,
+        3667.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNCINIT",
+      "texte_balise": "UNCINIT",
+      "bbox": [
+        566.7,
+        3728.2,
+        792.1,
+        3831.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cormac",
+      "texte_balise": "Cormac",
+      "bbox": [
+        112.6,
+        3745.7,
+        268.2,
+        3780.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McCarthy",
+      "texte_balise": "McCarthy",
+      "bbox": [
+        91.2,
+        3791.2,
+        289.6,
+        3832.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEST",
+      "texte_balise": "JEST",
+      "bbox": [
+        609.3,
+        3807.3,
+        789.0,
+        3928.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOD",
+      "texte_balise": "BLOOD",
+      "bbox": [
+        118.8,
+        3877.2,
+        262.0,
+        3904.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MERIDIAN",
+      "texte_balise": "MERIDIAN",
+      "bbox": [
+        88.3,
+        3913.7,
+        295.5,
+        3941.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NATIONAL BESTSELLER",
+      "texte_balise": "NATIONAL BESTSELLER",
+      "bbox": [
+        667.2,
+        3968.0,
+        789.0,
+        3984.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID FOSTER WALLACE",
+      "texte_balise": "DAVID FOSTER WALLACE",
+      "bbox": [
+        600.2,
+        3995.8,
+        789.0,
+        4011.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*I TORO ONE BEGERS",
+      "texte_balise": "*I TORO ONE BEGERS",
+      "bbox": [
+        676.3,
+        4011.0,
+        789.0,
+        4026.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Blood Meridian - McCarthy",
+      "texte_balise": "Blood Meridian - McCarthy",
+      "bbox": [
+        64.0,
+        4090.0,
+        316.8,
+        4114.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infinite Jest - DW",
+      "texte_balise": "Infinite Jest - DW",
+      "bbox": [
+        606.3,
+        4102.0,
+        783.0,
+        4124.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

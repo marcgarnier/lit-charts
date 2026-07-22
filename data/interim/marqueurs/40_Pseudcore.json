@@ -1,0 +1,50 @@
+{
+  "fichier": "40_Pseudcore.jpeg",
+  "date": "2026-07-21T19:30:37.839758+00:00",
+  "nb_lignes_texte": 583,
+  "nb_caracteres": 6741,
+  "registres_actifs": [
+    "prerequis"
+  ],
+  "score_total": 1,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 1,
+      "extraits": [
+        "on the Foundations"
+      ]
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

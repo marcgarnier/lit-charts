@@ -1,0 +1,195 @@
+{
+  "fichier": "03_Western Occultism.jpeg",
+  "date": "2026-07-21T19:28:36.337387+00:00",
+  "taille_origine": [
+    780,
+    1200
+  ],
+  "hauteur_ligne_mediane": 12.0,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 3,
+  "nb_noeuds": 30,
+  "tiers": [
+    "Budhism",
+    "Yates"
+  ],
+  "intitules_isoles": [
+    "Esoleric",
+    "Budhism",
+    "Yates"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": null,
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Prometheus Rising",
+          "auteur": "Robert Anton Wilson",
+          "tier": null
+        },
+        {
+          "titre": "The Secret Teachings of All Ages",
+          "auteur": "Manly P. Hall",
+          "tier": null
+        },
+        {
+          "titre": "The Kybalion",
+          "auteur": "Three Initiates",
+          "tier": null
+        },
+        {
+          "titre": "Lectures on Ancient Philosophy",
+          "auteur": "Manly P. Hall",
+          "tier": null
+        },
+        {
+          "titre": "Alchemy & Mysticism",
+          "auteur": "Alexander Roob",
+          "tier": null
+        },
+        {
+          "titre": "Initiation Into Hermetics",
+          "auteur": "Franz Bardon",
+          "tier": null
+        },
+        {
+          "titre": "The Chicken Qabalah",
+          "auteur": "Lon Milo Duquette",
+          "tier": null
+        },
+        {
+          "titre": "The Middle Pillar",
+          "auteur": "Israel Regardie",
+          "tier": null
+        },
+        {
+          "titre": "Three Books of Occult Philosophy",
+          "auteur": "Heinrich Cornelius Agrippa",
+          "tier": null
+        },
+        {
+          "titre": "The Secret Doctrine",
+          "auteur": "HP Blavatsky",
+          "tier": null
+        },
+        {
+          "titre": "A New Model of The Universe",
+          "auteur": "PD Ouspensky",
+          "tier": null
+        },
+        {
+          "titre": "Man and His Symbols",
+          "auteur": "CG Jung",
+          "tier": null
+        },
+        {
+          "titre": "The History of Magic",
+          "auteur": "Eliphas Levi",
+          "tier": null
+        },
+        {
+          "titre": "The Golden Dawn",
+          "auteur": "Israel Regardie",
+          "tier": null
+        },
+        {
+          "titre": "Experience of Eternity",
+          "auteur": "Jean Dubuis",
+          "tier": null
+        },
+        {
+          "titre": "The Red Book",
+          "auteur": "CG Jung",
+          "tier": null
+        },
+        {
+          "titre": "The Gnostic Gospels",
+          "auteur": "Elaine Pagels",
+          "tier": null
+        },
+        {
+          "titre": "The Nag Hammadi Library",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "How To Know Higher Worlds",
+          "auteur": "Rudolf Steiner",
+          "tier": null
+        },
+        {
+          "titre": "Beelzebub's Tales To His Grandson",
+          "auteur": "GI Gurdjietf",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Budhism",
+      "bbox": null,
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Magick in Theory and Practice",
+          "auteur": "Aleister Crowley",
+          "tier": "Budhism"
+        },
+        {
+          "titre": "Esoteric Buddhism",
+          "auteur": "AP Sinnet",
+          "tier": "Budhism"
+        },
+        {
+          "titre": "Esoteric Christianity",
+          "auteur": "Annie Besant",
+          "tier": "Budhism"
+        },
+        {
+          "titre": "The Perennial Philosophy",
+          "auteur": "Aldous Huxley",
+          "tier": "Budhism"
+        },
+        {
+          "titre": "The Hero With A Thousand Faaces",
+          "auteur": "Joseph Campbell",
+          "tier": "Budhism"
+        }
+      ]
+    },
+    {
+      "tier": "Yates",
+      "bbox": null,
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The Rosicrucian Enlightenment",
+          "auteur": "Frances A Yates",
+          "tier": "Yates"
+        },
+        {
+          "titre": "Qabalistic Tarot",
+          "auteur": "Robert Wang",
+          "tier": "Yates"
+        },
+        {
+          "titre": "Heaven and Hell",
+          "auteur": "Emanuel Swedenborg",
+          "tier": "Yates"
+        },
+        {
+          "titre": "Intro To Magic",
+          "auteur": "Julius Evola",
+          "tier": "Yates"
+        },
+        {
+          "titre": "The Mystical Oablah",
+          "auteur": "Dion Fortune",
+          "tier": "Yates"
+        }
+      ]
+    }
+  ]
+}

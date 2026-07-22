@@ -1,0 +1,982 @@
+{
+  "fichier": "12_Uruguayan.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:19.007801+00:00",
+  "duree_s": 1.4,
+  "taille_origine": [
+    1616,
+    2288
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 88,
+  "lignes": [
+    {
+      "texte": "URUGUAYAN /LITERATURE",
+      "texte_balise": "URUGUAYAN /LITERATURE",
+      "bbox": [
+        75.2,
+        95.9,
+        1536.1,
+        250.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A masterpiece SPECTATOR",
+      "texte_balise": "\"A masterpiece SPECTATOR",
+      "bbox": [
+        528.5,
+        360.7,
+        676.5,
+        372.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LET THE WIND SPEAK",
+      "texte_balise": "LET THE WIND SPEAK",
+      "bbox": [
+        195.0,
+        410.2,
+        429.8,
+        431.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jungle",
+      "texte_balise": "Jungle",
+      "bbox": [
+        1256.6,
+        414.9,
+        1402.3,
+        480.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        519.1,
+        431.3,
+        629.5,
+        473.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUAN CARLOS ONETTI",
+      "texte_balise": "JUAN CARLOS ONETTI",
+      "bbox": [
+        227.8,
+        454.6,
+        394.6,
+        471.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shipyard",
+      "texte_balise": "Shipyard",
+      "bbox": [
+        518.8,
+        469.9,
+        775.4,
+        526.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tales",
+      "texte_balise": "Tales",
+      "bbox": [
+        1282.5,
+        485.3,
+        1392.9,
+        534.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Juan Carlos Onetti",
+      "texte_balise": "Juan Carlos Onetti",
+      "bbox": [
+        528.5,
+        525.1,
+        709.3,
+        562.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        958.3,
+        541.5,
+        1005.3,
+        560.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DECAPITATED",
+      "texte_balise": "DECAPITATED",
+      "bbox": [
+        873.8,
+        557.9,
+        1096.9,
+        588.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHICKEN",
+      "texte_balise": "CHICKEN",
+      "bbox": [
+        892.4,
+        585.2,
+        1071.3,
+        626.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND OTHER STORIES",
+      "texte_balise": "AND OTHER STORIES",
+      "bbox": [
+        930.1,
+        623.5,
+        1038.2,
+        635.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Graham Greene of Uruguay'",
+      "texte_balise": "\"The Graham Greene of Uruguay'",
+      "bbox": [
+        220.8,
+        698.5,
+        411.0,
+        712.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Horacio Quiroga",
+      "texte_balise": "Horacio Quiroga",
+      "bbox": [
+        1270.6,
+        702.9,
+        1371.8,
+        724.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sunday Telegraph",
+      "texte_balise": "Sunday Telegraph",
+      "bbox": [
+        270.1,
+        712.4,
+        364.1,
+        726.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILLDSTRATED",
+      "texte_balise": "ILLDSTRATED",
+      "bbox": [
+        1049.9,
+        717.3,
+        1108.7,
+        729.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HORACIO",
+      "texte_balise": "HORACIO",
+      "bbox": [
+        946.6,
+        719.6,
+        1024.1,
+        733.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "asswan he ball Therala",
+      "texte_balise": "asswan he ball Therala",
+      "bbox": [
+        1280.1,
+        731.4,
+        1369.4,
+        736.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "QUIROGA",
+      "texte_balise": "QUIROGA",
+      "bbox": [
+        944.2,
+        733.8,
+        1024.1,
+        752.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN LINDENT",
+      "texte_balise": "IN LINDENT",
+      "bbox": [
+        1057.0,
+        738.4,
+        1101.6,
+        743.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "lustrations by Bert want.",
+      "texte_balise": "lustrations by Bert want.",
+      "bbox": [
+        1275.4,
+        738.4,
+        1362.3,
+        750.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUARDO GALEANO",
+      "texte_balise": "EDUARDO GALEANO",
+      "bbox": [
+        202.0,
+        848.3,
+        413.4,
+        867.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPEN",
+      "texte_balise": "OPEN",
+      "bbox": [
+        227.8,
+        876.6,
+        368.8,
+        933.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VEINS OF",
+      "texte_balise": "VEINS OF",
+      "bbox": [
+        199.5,
+        937.0,
+        408.9,
+        985.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        225.5,
+        984.6,
+        340.6,
+        1033.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIVE CENTURIES",
+      "texte_balise": "FIVE CENTURIES",
+      "bbox": [
+        347.6,
+        991.2,
+        429.8,
+        1003.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIN",
+      "texte_balise": "LIN",
+      "bbox": [
+        227.8,
+        1001.0,
+        338.2,
+        1033.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF THE PILLAGE",
+      "texte_balise": "OF THE PILLAGE",
+      "bbox": [
+        347.6,
+        1001.0,
+        429.8,
+        1015.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF A CONTINENT",
+      "texte_balise": "OF A CONTINENT",
+      "bbox": [
+        350.0,
+        1012.7,
+        429.8,
+        1024.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMERICA",
+      "texte_balise": "AMERICA",
+      "bbox": [
+        202.0,
+        1031.5,
+        394.6,
+        1087.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "here te starch the sensibily.",
+      "texte_balise": "here te starch the sensibily.",
+      "bbox": [
+        641.2,
+        1050.2,
+        739.9,
+        1062.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOREWORD BY",
+      "texte_balise": "FOREWORD BY",
+      "bbox": [
+        331.2,
+        1108.8,
+        429.8,
+        1120.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISABEL ALLENDE",
+      "texte_balise": "ISABEL ALLENDE",
+      "bbox": [
+        326.0,
+        1117.8,
+        435.2,
+        1139.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CENTURY",
+      "texte_balise": "CENTURY",
+      "bbox": [
+        1275.4,
+        1124.9,
+        1376.5,
+        1144.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GENESIS",
+      "texte_balise": "GENESIS",
+      "bbox": [
+        589.6,
+        1137.0,
+        704.7,
+        1160.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FACES & MASKS",
+      "texte_balise": "FACES & MASKS",
+      "bbox": [
+        897.3,
+        1139.1,
+        1075.8,
+        1165.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE WIND",
+      "texte_balise": "OF THE WIND",
+      "bbox": [
+        1254.3,
+        1151.0,
+        1397.6,
+        1170.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*This book is a monument",
+      "texte_balise": "*This book is a monument",
+      "bbox": [
+        335.9,
+        1162.8,
+        425.1,
+        1174.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*This book is a monumert",
+      "texte_balise": "*This book is a monumert",
+      "bbox": [
+        335.9,
+        1164.9,
+        425.1,
+        1176.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in our Latin Americen history",
+      "texte_balise": "in our Latin Americen history",
+      "bbox": [
+        328.8,
+        1174.1,
+        427.5,
+        1186.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in our Latin American history.",
+      "texte_balise": "in our Latin American history.",
+      "bbox": [
+        328.8,
+        1178.9,
+        429.8,
+        1186.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hugo Chives, hose reseal!",
+      "texte_balise": "Hugo Chives, hose reseal!",
+      "bbox": [
+        328.8,
+        1185.9,
+        434.5,
+        1200.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hupo Chares, house visale",
+      "texte_balise": "Hupo Chares, house visale",
+      "bbox": [
+        331.2,
+        1186.1,
+        434.5,
+        1198.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EDUARDO GALEANO",
+      "texte_balise": "EDUARDO GALEANO",
+      "bbox": [
+        535.5,
+        1212.0,
+        761.0,
+        1226.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUARDO GALEANO",
+      "texte_balise": "EDUARDO GALEANO",
+      "bbox": [
+        1212.0,
+        1212.0,
+        1439.8,
+        1226.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUARDO GALEANO",
+      "texte_balise": "EDUARDO GALEANO",
+      "bbox": [
+        873.8,
+        1218.8,
+        1099.3,
+        1230.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mario",
+      "texte_balise": "Mario",
+      "bbox": [
+        948.9,
+        1338.6,
+        1014.7,
+        1362.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Benedetti",
+      "texte_balise": "Benedetti",
+      "bbox": [
+        948.9,
+        1359.7,
+        1059.3,
+        1383.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FELISBERTO",
+      "texte_balise": "FELISBERTO",
+      "bbox": [
+        237.2,
+        1362.0,
+        387.6,
+        1373.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ihe Iruce",
+      "texte_balise": "Ihe Iruce",
+      "bbox": [
+        953.6,
+        1385.5,
+        1054.6,
+        1404.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Revised ecition including commentary on the 2002 World Cup",
+      "texte_balise": "Revised ecition including commentary on the 2002 World Cup",
+      "bbox": [
+        1207.3,
+        1420.6,
+        1439.8,
+        1432.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOCCER IN SUN",
+      "texte_balise": "SOCCER IN SUN",
+      "bbox": [
+        1205.0,
+        1443.7,
+        1437.5,
+        1474.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ernández",
+      "texte_balise": "ernández",
+      "bbox": [
+        570.8,
+        1462.8,
+        584.9,
+        1561.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND SHADOW",
+      "texte_balise": "AND SHADOW",
+      "bbox": [
+        1233.1,
+        1486.3,
+        1437.5,
+        1516.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•AN O",
+      "texte_balise": "•AN O",
+      "bbox": [
+        223.1,
+        1622.2,
+        284.2,
+        1634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUARDO GALEANO",
+      "texte_balise": "EDUARDO GALEANO",
+      "bbox": [
+        1280.1,
+        1662.1,
+        1437.5,
+        1678.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fel",
+      "texte_balise": "Fel",
+      "bbox": [
+        570.8,
+        1664.4,
+        584.9,
+        1694.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEDDY MARK FRIED",
+      "texte_balise": "TEDDY MARK FRIED",
+      "bbox": [
+        1367.0,
+        1680.5,
+        1439.8,
+        1692.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOD PACT",
+      "texte_balise": "BLOOD PACT",
+      "bbox": [
+        552.0,
+        1800.4,
+        770.4,
+        1840.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of",
+      "texte_balise": "The Book of",
+      "bbox": [
+        880.8,
+        1826.2,
+        1096.9,
+        1894.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SELECTED",
+      "texte_balise": "SELECTED",
+      "bbox": [
+        1317.7,
+        1828.5,
+        1407.0,
+        1849.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BITBIORDIMEL GERSSIES",
+      "texte_balise": "BITBIORDIMEL GERSSIES",
+      "bbox": [
+        185.6,
+        1835.4,
+        429.8,
+        1863.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OTHER STORIES",
+      "texte_balise": "OTHER STORIES",
+      "bbox": [
+        608.3,
+        1849.3,
+        768.1,
+        1863.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY OF",
+      "texte_balise": "POETRY OF",
+      "bbox": [
+        1320.0,
+        1856.3,
+        1421.0,
+        1877.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELMIRA",
+      "texte_balise": "DELMIRA",
+      "bbox": [
+        1320.0,
+        1884.5,
+        1400.0,
+        1906.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGUSTINI",
+      "texte_balise": "AGUSTINI",
+      "bbox": [
+        1319.9,
+        1912.4,
+        1402.4,
+        1934.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Besoletti bleads intronger-",
+      "texte_balise": "\"Besoletti bleads intronger-",
+      "bbox": [
+        528.5,
+        1927.0,
+        622.4,
+        1938.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Embraces",
+      "texte_balise": "Embraces",
+      "bbox": [
+        887.5,
+        1937.0,
+        1085.5,
+        1980.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tion, alres, and al, Lamor in",
+      "texte_balise": "tion, alres, and al, Lamor in",
+      "bbox": [
+        526.1,
+        1943.3,
+        620.1,
+        1950.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "regrant perelations of ther",
+      "texte_balise": "regrant perelations of ther",
+      "bbox": [
+        533.2,
+        1952.8,
+        617.7,
+        1964.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUAN CARLOS",
+      "texte_balise": "JUAN CARLOS",
+      "bbox": [
+        263.1,
+        1976.2,
+        350.0,
+        1990.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETICS",
+      "texte_balise": "POETICS",
+      "bbox": [
+        1320.0,
+        1978.6,
+        1392.9,
+        1999.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and things\"",
+      "texte_balise": "and things\"",
+      "bbox": [
+        554.3,
+        1992.2,
+        594.3,
+        2004.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONETTI",
+      "texte_balise": "ONETTI",
+      "bbox": [
+        211.4,
+        2004.3,
+        420.4,
+        2072.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF EROS",
+      "texte_balise": "OF EROS",
+      "bbox": [
+        1320.0,
+        2006.5,
+        1400.0,
+        2028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Kirkor Roriewe-",
+      "texte_balise": "-Kirkor Roriewe-",
+      "bbox": [
+        540.2,
+        2018.2,
+        610.7,
+        2030.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CITED AND TRANSLATED BY ALCJANDRO CÍCERES",
+      "texte_balise": "CITED AND TRANSLATED BY ALCJANDRO CÍCERES",
+      "bbox": [
+        1256.6,
+        2046.2,
+        1423.4,
+        2058.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH A FOREWORD DY WELLS BARNSTONE",
+      "texte_balise": "WITH A FOREWORD DY WELLS BARNSTONE",
+      "bbox": [
+        1254.3,
+        2063.0,
+        1397.6,
+        2075.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUARDO",
+      "texte_balise": "EDUARDO",
+      "bbox": [
+        902.0,
+        2070.0,
+        1082.8,
+        2100.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A BIC INQUAT COITION",
+      "texte_balise": "A BIC INQUAT COITION",
+      "bbox": [
+        1254.3,
+        2088.7,
+        1322.4,
+        2100.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GALEANO",
+      "texte_balise": "GALEANO",
+      "bbox": [
+        904.2,
+        2100.0,
+        1078.2,
+        2133.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARIO",
+      "texte_balise": "MARIO",
+      "bbox": [
+        662.4,
+        2100.5,
+        761.0,
+        2123.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BENEDETTI",
+      "texte_balise": "BENEDETTI",
+      "bbox": [
+        544.9,
+        2121.6,
+        765.7,
+        2159.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF MEMORY OF FIRE",
+      "texte_balise": "AUTHOR OF MEMORY OF FIRE",
+      "bbox": [
+        937.2,
+        2133.1,
+        1049.9,
+        2147.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The greatest li",
+      "texte_balise": "The greatest li",
+      "bbox": [
+        213.7,
+        2138.0,
+        265.4,
+        2152.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ang urban novelst Martin Seymour-Smit",
+      "texte_balise": "Ang urban novelst Martin Seymour-Smit",
+      "bbox": [
+        267.8,
+        2138.0,
+        411.0,
+        2150.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSLATED BY CEDRIC BELFRAGE",
+      "texte_balise": "TRANSLATED BY CEDRIC BELFRAGE",
+      "bbox": [
+        899.6,
+        2149.7,
+        1087.5,
+        2164.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

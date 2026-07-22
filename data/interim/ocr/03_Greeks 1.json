@@ -1,0 +1,1367 @@
+{
+  "fichier": "03_Greeks 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:59.086518+00:00",
+  "duree_s": 2.7,
+  "taille_origine": [
+    3672,
+    3024
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 123,
+  "lignes": [
+    {
+      "texte": "START WITH THE GREEKS:",
+      "texte_balise": "START WITH THE GREEKS:",
+      "bbox": [
+        1550.1,
+        66.0,
+        2249.5,
+        128.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Guide to Starting With the Greeks",
+      "texte_balise": "The Guide to Starting With the Greeks",
+      "bbox": [
+        1380.0,
+        141.8,
+        2414.9,
+        203.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "START HERE",
+      "texte_balise": "START HERE",
+      "bbox": [
+        1361.1,
+        236.0,
+        1526.5,
+        265.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITH HAMILTON",
+      "texte_balise": "EDITH HAMILTON",
+      "bbox": [
+        1299.6,
+        330.8,
+        1559.5,
+        373.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Mythology\" by Edith Hamilton",
+      "texte_balise": "\"Mythology\" by Edith Hamilton",
+      "bbox": [
+        1621.0,
+        330.8,
+        2065.2,
+        369.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Greek Epic Fragments\" by Martin L. West",
+      "texte_balise": "\"Greek Epic Fragments\" by Martin L. West",
+      "bbox": [
+        2863.9,
+        378.0,
+        3473.5,
+        416.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frequently used to teach ancient mythologies and beliefs,",
+      "texte_balise": "Frequently used to teach ancient mythologies and beliefs,",
+      "bbox": [
+        1621.0,
+        406.0,
+        2410.2,
+        439.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPIC FRAGMENTS",
+      "texte_balise": "EPIC FRAGMENTS",
+      "bbox": [
+        2594.5,
+        430.0,
+        2774.1,
+        454.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mythology by Edith Hamilton retells the story of many",
+      "texte_balise": "Mythology by Edith Hamilton retells the story of many",
+      "bbox": [
+        1616.2,
+        444.0,
+        2358.2,
+        472.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Want more epic Trojan War poems? Well, too bad.",
+      "texte_balise": "Want more epic Trojan War poems? Well, too bad.",
+      "bbox": [
+        2863.9,
+        453.6,
+        3534.9,
+        487.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greek myths, as well as some of Roman and Norse.",
+      "texte_balise": "Greek myths, as well as some of Roman and Norse.",
+      "bbox": [
+        1621.0,
+        477.0,
+        2310.9,
+        510.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The only Ancient Greek epic poems about the Trojan",
+      "texte_balise": "The only Ancient Greek epic poems about the Trojan",
+      "bbox": [
+        2863.9,
+        486.7,
+        3582.2,
+        520.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Knwoing Ancient Greek mythology is the most essential",
+      "texte_balise": "Knwoing Ancient Greek mythology is the most essential",
+      "bbox": [
+        1621.0,
+        515.0,
+        2367.7,
+        543.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "War are the Homeric ones. The rest survive in",
+      "texte_balise": "War are the Homeric ones. The rest survive in",
+      "bbox": [
+        2863.9,
+        524.0,
+        3492.4,
+        553.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "step in being able to understand al of the following texts.",
+      "texte_balise": "step in being able to understand al of the following texts.",
+      "bbox": [
+        1616.2,
+        548.0,
+        2400.7,
+        581.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fragments. They are collected here alongside",
+      "texte_balise": "fragments. They are collected here alongside",
+      "bbox": [
+        2863.9,
+        562.0,
+        3483.0,
+        591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hamilton makes mention of many poets and philosophers",
+      "texte_balise": "Hamilton makes mention of many poets and philosophers",
+      "bbox": [
+        1616.2,
+        585.9,
+        2396.0,
+        619.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "helpful notes and historical context. However,",
+      "texte_balise": "helpful notes and historical context. However,",
+      "bbox": [
+        2863.9,
+        595.0,
+        3497.1,
+        628.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that will be shown throughout this chart, which provides",
+      "texte_balise": "that will be shown throughout this chart, which provides",
+      "bbox": [
+        1621.0,
+        623.7,
+        2391.3,
+        657.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Virgil's Aeneid is a Latin poem that deals with the",
+      "texte_balise": "Virgil's Aeneid is a Latin poem that deals with the",
+      "bbox": [
+        2863.9,
+        633.0,
+        3544.4,
+        666.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHOLOGY",
+      "texte_balise": "MYTHOLOGY",
+      "bbox": [
+        1304.3,
+        637.9,
+        1427.2,
+        666.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a small introduction into their work as well.",
+      "texte_balise": "a small introduction into their work as well.",
+      "bbox": [
+        1616.2,
+        656.8,
+        2216.4,
+        685.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trojan War.",
+      "texte_balise": "Trojan War.",
+      "bbox": [
+        2868.5,
+        670.5,
+        3024.6,
+        699.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E",
+      "texte_balise": "E",
+      "bbox": [
+        1488.6,
+        836.3,
+        1517.0,
+        864.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BARRY STRAUSS",
+      "texte_balise": "BARRY STRAUSS",
+      "bbox": [
+        879.0,
+        874.0,
+        1129.5,
+        902.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Iliad\" by Homer, Translated by Robert Fagles",
+      "texte_balise": "\"The Iliad\" by Homer, Translated by Robert Fagles",
+      "bbox": [
+        1625.7,
+        911.9,
+        2339.3,
+        950.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Odyssey\" by Homer, Translated by Robert Fagles",
+      "texte_balise": "\"The Odyssey\" by Homer, Translated by Robert Fagles",
+      "bbox": [
+        2878.1,
+        921.0,
+        3648.4,
+        959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Trojan War: A New History\" by Barry Strauss",
+      "texte_balise": "\"The Trojan War: A New History\" by Barry Strauss",
+      "bbox": [
+        146.5,
+        963.9,
+        850.7,
+        1002.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ATHE",
+      "texte_balise": "ATHE",
+      "bbox": [
+        912.1,
+        982.8,
+        1035.0,
+        1034.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An epic poem set during the final weeks of the Trojan",
+      "texte_balise": "An epic poem set during the final weeks of the Trojan",
+      "bbox": [
+        1625.7,
+        982.8,
+        2358.2,
+        1016.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A 'sequel' to The Iliad following the Greek warrior,",
+      "texte_balise": "A 'sequel' to The Iliad following the Greek warrior,",
+      "bbox": [
+        2878.1,
+        997.0,
+        3582.2,
+        1030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "War, the ten-year siege of the city of Troy by the",
+      "texte_balise": "War, the ten-year siege of the city of Troy by the",
+      "bbox": [
+        1625.7,
+        1015.9,
+        2292.0,
+        1054.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Odysseus as he attempts to go back home from",
+      "texte_balise": "Odysseus as he attempts to go back home from",
+      "bbox": [
+        2878.1,
+        1030.0,
+        3520.8,
+        1063.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TROLAN",
+      "texte_balise": "TROLAN",
+      "bbox": [
+        893.2,
+        1030.1,
+        1096.4,
+        1086.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TROJAN",
+      "texte_balise": "TROJAN",
+      "bbox": [
+        891.8,
+        1034.3,
+        1096.4,
+        1081.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Supplementary reading before you begin The Iliad,",
+      "texte_balise": "Supplementary reading before you begin The Iliad,",
+      "bbox": [
+        146.5,
+        1039.5,
+        836.5,
+        1073.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greek coalition of city-states. Although it takes place",
+      "texte_balise": "Greek coalition of city-states. Although it takes place",
+      "bbox": [
+        1630.4,
+        1053.7,
+        2358.2,
+        1091.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Trojan War. Considered by many to be the",
+      "texte_balise": "the Trojan War. Considered by many to be the",
+      "bbox": [
+        2878.1,
+        1067.8,
+        3501.9,
+        1101.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Strauss' The Trojan War provides the reader with",
+      "texte_balise": "Strauss' The Trojan War provides the reader with",
+      "bbox": [
+        174.9,
+        1077.0,
+        841.2,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "near the end of the war, The Iliad regularily mentions",
+      "texte_balise": "near the end of the war, The Iliad regularily mentions",
+      "bbox": [
+        1625.7,
+        1091.0,
+        2362.9,
+        1125.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        931.0,
+        1091.5,
+        1063.3,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ODYSSEY",
+      "texte_balise": "THE ODYSSEY",
+      "bbox": [
+        2523.6,
+        1096.0,
+        2840.2,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "more important to the two Homeric epics because",
+      "texte_balise": "more important to the two Homeric epics because",
+      "bbox": [
+        2878.1,
+        1105.6,
+        3563.3,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "more background knowledge on the war, as well as",
+      "texte_balise": "more background knowledge on the war, as well as",
+      "bbox": [
+        157.4,
+        1113.0,
+        844.6,
+        1144.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ILIAD",
+      "texte_balise": "THE ILIAD",
+      "bbox": [
+        1316.6,
+        1123.0,
+        1542.4,
+        1176.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and alludes to earlier events, as well as the many",
+      "texte_balise": "and alludes to earlier events, as well as the many",
+      "bbox": [
+        1620.9,
+        1128.8,
+        2302.9,
+        1166.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the prevalent themes, including the strong",
+      "texte_balise": "of the prevalent themes, including the strong",
+      "bbox": [
+        2874.7,
+        1144.5,
+        3498.9,
+        1176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "exploring the myth and reality of this event.",
+      "texte_balise": "exploring the myth and reality of this event.",
+      "bbox": [
+        241.3,
+        1149.8,
+        844.6,
+        1187.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warriors, from both sides, and their personal quarrels.",
+      "texte_balise": "warriors, from both sides, and their personal quarrels.",
+      "bbox": [
+        1626.2,
+        1165.5,
+        2360.6,
+        1202.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "themes of hospitality and temptation.",
+      "texte_balise": "themes of hospitality and temptation.",
+      "bbox": [
+        2874.7,
+        1176.0,
+        3394.0,
+        1213.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KOBERI PAGLES",
+      "texte_balise": "KOBERI PAGLES",
+      "bbox": [
+        1321.9,
+        1249.5,
+        1537.0,
+        1260.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE OEDIPUS PLAYS OF",
+      "texte_balise": "THE OEDIPUS PLAYS OF",
+      "bbox": [
+        1316.7,
+        1438.5,
+        1552.7,
+        1465.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Oedipus Plays of Sophocles\" Translated by Paul Roche",
+      "texte_balise": "\"The Oedipus Plays of Sophocles\" Translated by Paul Roche",
+      "bbox": [
+        1620.9,
+        1443.7,
+        2465.5,
+        1480.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOPHOCLES",
+      "texte_balise": "SOPHOCLES",
+      "bbox": [
+        1358.6,
+        1470.0,
+        1510.8,
+        1496.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Histories\" by Herodotus (Penguin Classics)",
+      "texte_balise": "\"The Histories\" by Herodotus (Penguin Classics)",
+      "bbox": [
+        2906.1,
+        1485.7,
+        3588.1,
+        1522.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Cambridge Companion to Greek and Roman Theater\"",
+      "texte_balise": "\"The Cambridge Companion to Greek and Roman Theater\"",
+      "bbox": [
+        15.7,
+        1506.8,
+        849.8,
+        1543.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contains the three Threban plays written by Sophocles,",
+      "texte_balise": "Contains the three Threban plays written by Sophocles,",
+      "bbox": [
+        1620.9,
+        1522.5,
+        2376.3,
+        1559.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "including: Oediups Rex, Oedipus at Colonus, and",
+      "texte_balise": "including: Oediups Rex, Oedipus at Colonus, and",
+      "bbox": [
+        1620.9,
+        1559.0,
+        2287.1,
+        1591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Considered to be the first 'history' book, The",
+      "texte_balise": "Considered to be the first 'history' book, The",
+      "bbox": [
+        2906.1,
+        1559.0,
+        3519.9,
+        1591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A series of essays by prominent Greek historians which",
+      "texte_balise": "A series of essays by prominent Greek historians which",
+      "bbox": [
+        104.9,
+        1580.0,
+        849.8,
+        1617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Antigone. It is recommended you read them in that order.",
+      "texte_balise": "Antigone. It is recommended you read them in that order.",
+      "bbox": [
+        1620.9,
+        1596.0,
+        2407.8,
+        1627.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histories is to be seen more as a narrative of",
+      "texte_balise": "Histories is to be seen more as a narrative of",
+      "bbox": [
+        2900.9,
+        1596.0,
+        3514.6,
+        1627.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "investigate the many Greek plays and how they were",
+      "texte_balise": "investigate the many Greek plays and how they were",
+      "bbox": [
+        125.9,
+        1617.0,
+        844.6,
+        1648.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sophocles supposedly wrote over 100 poems, but only seven",
+      "texte_balise": "Sophocles supposedly wrote over 100 poems, but only seven",
+      "bbox": [
+        1620.9,
+        1632.8,
+        2439.3,
+        1664.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herodotus traveling across Greece, recollecting",
+      "texte_balise": "Herodotus traveling across Greece, recollecting",
+      "bbox": [
+        2900.9,
+        1632.8,
+        3551.3,
+        1664.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "performed. Greek plays are formulaic and this book",
+      "texte_balise": "performed. Greek plays are formulaic and this book",
+      "bbox": [
+        141.6,
+        1653.7,
+        849.8,
+        1685.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "survive. For the four others, I recommend Penguin Classic's",
+      "texte_balise": "survive. For the four others, I recommend Penguin Classic's",
+      "bbox": [
+        1620.9,
+        1664.0,
+        2434.0,
+        1696.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the many city-state's legends and folk tales, then",
+      "texte_balise": "the many city-state's legends and folk tales, then",
+      "bbox": [
+        2900.9,
+        1669.5,
+        3577.6,
+        1701.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "delves into the formula's traditions and conventions.",
+      "texte_balise": "delves into the formula's traditions and conventions.",
+      "bbox": [
+        131.1,
+        1690.5,
+        839.3,
+        1717.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Electra and Other Poems\". There are actually two books",
+      "texte_balise": "\"Electra and Other Poems\". There are actually two books",
+      "bbox": [
+        1620.9,
+        1695.7,
+        2402.5,
+        1738.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "piecing them together to tell a myth-inspired",
+      "texte_balise": "piecing them together to tell a myth-inspired",
+      "bbox": [
+        2906.1,
+        1706.0,
+        3525.1,
+        1738.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with that title. The other one is by another Greek poet at",
+      "texte_balise": "with that title. The other one is by another Greek poet at",
+      "bbox": [
+        1620.9,
+        1737.7,
+        2407.8,
+        1769.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "version of the origin of the Persian war.",
+      "texte_balise": "version of the origin of the Persian war.",
+      "bbox": [
+        2900.9,
+        1743.0,
+        3441.2,
+        1774.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "this time, Euripides, which I also recommend.",
+      "texte_balise": "this time, Euripides, which I also recommend.",
+      "bbox": [
+        1620.9,
+        1774.5,
+        2245.2,
+        1806.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Histories",
+      "texte_balise": "The Histories",
+      "bbox": [
+        2664.8,
+        1779.7,
+        2738.3,
+        1801.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FORD WORLDS CLASSIC",
+      "texte_balise": "FORD WORLDS CLASSIC",
+      "bbox": [
+        902.6,
+        2003.0,
+        1086.9,
+        2013.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FIRST",
+      "texte_balise": "THE FIRST",
+      "bbox": [
+        945.2,
+        2031.8,
+        1035.0,
+        2055.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HIRST",
+      "texte_balise": "THE HIRST",
+      "bbox": [
+        944.2,
+        2037.0,
+        1028.2,
+        2047.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"History of the Peloponnesian War\" by Thucydides",
+      "texte_balise": "\"History of the Peloponnesian War\" by Thucydides",
+      "bbox": [
+        2890.4,
+        2052.8,
+        3614.3,
+        2089.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILOSOPHERS",
+      "texte_balise": "PHILOSOPHERS",
+      "bbox": [
+        923.2,
+        2058.0,
+        1049.1,
+        2068.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The First Philosophers\" (Oxworld World's Classic)",
+      "texte_balise": "\"The First Philosophers\" (Oxworld World's Classic)",
+      "bbox": [
+        73.4,
+        2073.7,
+        797.3,
+        2110.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRESOCRA",
+      "texte_balise": "THE PRESOCRA",
+      "bbox": [
+        897.0,
+        2079.0,
+        970.5,
+        2089.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRESOCRATICS AND THE SOPHISTS",
+      "texte_balise": "THE PRESOCRATICS AND THE SOPHISTS",
+      "bbox": [
+        897.9,
+        2079.0,
+        1077.5,
+        2093.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Penguin Classics)",
+      "texte_balise": "(Penguin Classics)",
+      "bbox": [
+        2890.4,
+        2089.5,
+        3147.4,
+        2126.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Hesiod and Theognis\" (Penguin Classics)",
+      "texte_balise": "\"Hesiod and Theognis\" (Penguin Classics)",
+      "bbox": [
+        1641.9,
+        2110.5,
+        2229.4,
+        2137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxword World's The First Philosophers: The Presocratics",
+      "texte_balise": "Oxword World's The First Philosophers: The Presocratics",
+      "bbox": [
+        28.4,
+        2149.9,
+        793.9,
+        2178.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Standing in sharp contrast to Herodotus, Thucydides'",
+      "texte_balise": "Standing in sharp contrast to Herodotus, Thucydides'",
+      "bbox": [
+        2897.0,
+        2159.0,
+        3620.0,
+        2192.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the Sophists is a great introduction into both Ancient",
+      "texte_balise": "and the Sophists is a great introduction into both Ancient",
+      "bbox": [
+        14.2,
+        2182.9,
+        793.9,
+        2216.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rounding out the final of the classic Greek poems is",
+      "texte_balise": "Rounding out the final of the classic Greek poems is",
+      "bbox": [
+        1644.6,
+        2182.9,
+        2348.8,
+        2216.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History is more of an actual historical account of",
+      "texte_balise": "History is more of an actual historical account of",
+      "bbox": [
+        2897.0,
+        2197.0,
+        3568.0,
+        2230.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greek philosophy and philosophy in general. Beginning",
+      "texte_balise": "Greek philosophy and philosophy in general. Beginning",
+      "bbox": [
+        52.0,
+        2220.7,
+        793.9,
+        2254.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Penguin's collection of Hesiod's poetry, including",
+      "texte_balise": "Penguin's collection of Hesiod's poetry, including",
+      "bbox": [
+        1644.6,
+        2220.7,
+        2310.9,
+        2254.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the war between Pelopnnesian League (led by",
+      "texte_balise": "the war between Pelopnnesian League (led by",
+      "bbox": [
+        2897.0,
+        2234.9,
+        3525.5,
+        2268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with the Milesians and ending with Thrasymachus,",
+      "texte_balise": "with the Milesians and ending with Thrasymachus,",
+      "bbox": [
+        113.4,
+        2253.8,
+        789.2,
+        2287.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theogeny, Work and Days and Elegies.",
+      "texte_balise": "Theogeny, Work and Days and Elegies.",
+      "bbox": [
+        1644.6,
+        2253.8,
+        2159.7,
+        2287.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sparta) against the Delian League (led by Athens).",
+      "texte_balise": "Sparta) against the Delian League (led by Athens).",
+      "bbox": [
+        2897.0,
+        2268.0,
+        3582.2,
+        2301.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "each philosopher and what he brought to his field",
+      "texte_balise": "each philosopher and what he brought to his field",
+      "bbox": [
+        118.1,
+        2291.6,
+        793.9,
+        2325.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "is described in depth.",
+      "texte_balise": "is described in depth.",
+      "bbox": [
+        496.2,
+        2329.0,
+        793.9,
+        2358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THUCYDIDES",
+      "texte_balise": "THUCYDIDES",
+      "bbox": [
+        2655.9,
+        2334.2,
+        2759.9,
+        2353.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HESIOD",
+      "texte_balise": "HESIOD",
+      "bbox": [
+        1398.9,
+        2338.9,
+        1460.3,
+        2357.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theogony and Works and Days",
+      "texte_balise": "Theogony and Works and Days",
+      "bbox": [
+        1351.6,
+        2353.0,
+        1512.3,
+        2377.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History of the Pelobonnesian Wal",
+      "texte_balise": "History of the Pelobonnesian Wal",
+      "bbox": [
+        2604.0,
+        2367.0,
+        2807.2,
+        2381.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEOGNIS",
+      "texte_balise": "THEOGNIS",
+      "bbox": [
+        1384.7,
+        2371.9,
+        1474.5,
+        2395.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elegies",
+      "texte_balise": "Elegies",
+      "bbox": [
+        1408.3,
+        2395.6,
+        1446.1,
+        2409.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1403.6,
+        2560.9,
+        1441.4,
+        2584.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE WORKS",
+      "texte_balise": "COMPLETE WORKS",
+      "bbox": [
+        1309.1,
+        2579.8,
+        1535.9,
+        2603.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        878.9,
+        2607.7,
+        1096.5,
+        2665.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Plato: Complete Works\" Edited by John M. Cooper",
+      "texte_balise": "\"Plato: Complete Works\" Edited by John M. Cooper",
+      "bbox": [
+        56.7,
+        2612.9,
+        784.5,
+        2651.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARISTOTLE",
+      "texte_balise": "ARISTOTLE",
+      "bbox": [
+        1309.1,
+        2622.4,
+        1531.2,
+        2660.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Complete Works of Aristotle\" (Revised Oxford)",
+      "texte_balise": "\"The Complete Works of Aristotle\" (Revised Oxford)",
+      "bbox": [
+        1635.2,
+        2636.5,
+        2377.1,
+        2670.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPT WORKS",
+      "texte_balise": "COMPT WORKS",
+      "bbox": [
+        888.5,
+        2683.8,
+        1082.2,
+        2693.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE REVISED OXFORD TRANSLATION",
+      "texte_balise": "THE REVISED OXFORD TRANSLATION",
+      "bbox": [
+        1309.1,
+        2683.8,
+        1526.5,
+        2693.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This massive collection of Plato's dialogues comes with",
+      "texte_balise": "This massive collection of Plato's dialogues comes with",
+      "bbox": [
+        37.8,
+        2688.5,
+        789.2,
+        2722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A two volume set comprised of the complete work of",
+      "texte_balise": "A two volume set comprised of the complete work of",
+      "bbox": [
+        1635.2,
+        2712.0,
+        2358.2,
+        2745.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aditional material, including an essay from the editor,",
+      "texte_balise": "aditional material, including an essay from the editor,",
+      "bbox": [
+        52.0,
+        2726.0,
+        784.5,
+        2759.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristotle. This set has ben universally recognized as the",
+      "texte_balise": "Aristotle. This set has ben universally recognized as the",
+      "bbox": [
+        1635.2,
+        2749.9,
+        2391.3,
+        2783.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and a guide on how to read and understand these",
+      "texte_balise": "and a guide on how to read and understand these",
+      "bbox": [
+        113.4,
+        2759.0,
+        784.5,
+        2792.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "standard English translation of Aristotle. Among the works,",
+      "texte_balise": "standard English translation of Aristotle. Among the works,",
+      "bbox": [
+        1630.4,
+        2783.0,
+        2433.8,
+        2816.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works. Do not read The Republic first. Instead, read",
+      "texte_balise": "works. Do not read The Republic first. Instead, read",
+      "bbox": [
+        75.6,
+        2797.0,
+        784.5,
+        2830.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the ones suggested for reading are Aristotle's Metaphysics",
+      "texte_balise": "the ones suggested for reading are Aristotle's Metaphysics",
+      "bbox": [
+        1635.2,
+        2820.8,
+        2424.4,
+        2854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the earlier dialogues and attempt to get a good grasp",
+      "texte_balise": "the earlier dialogues and attempt to get a good grasp",
+      "bbox": [
+        56.7,
+        2835.0,
+        784.5,
+        2863.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and The Nicomachean Ethics.",
+      "texte_balise": "and The Nicomachean Ethics.",
+      "bbox": [
+        1635.2,
+        2858.6,
+        2032.1,
+        2887.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on Socrates and his beliefs first.",
+      "texte_balise": "on Socrates and his beliefs first.",
+      "bbox": [
+        345.0,
+        2868.0,
+        789.2,
+        2901.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

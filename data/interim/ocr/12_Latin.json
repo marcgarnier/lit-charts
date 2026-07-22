@@ -1,0 +1,1796 @@
+{
+  "fichier": "12_Latin.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:12.209011+00:00",
+  "duree_s": 5.9,
+  "taille_origine": [
+    6535,
+    6535
+  ],
+  "nb_bandes": 6,
+  "nb_lignes": 162,
+  "lignes": [
+    {
+      "texte": "LATIN CHART",
+      "texte_balise": "LATIN CHART",
+      "bbox": [
+        122.5,
+        163.3,
+        1240.6,
+        296.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Start here",
+      "texte_balise": "Start here",
+      "bbox": [
+        1061.7,
+        432.3,
+        1526.8,
+        517.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Г",
+      "texte_balise": "Г",
+      "bbox": [
+        3905.7,
+        525.7,
+        3951.6,
+        561.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dictionary",
+      "texte_balise": "Dictionary",
+      "bbox": [
+        4063.6,
+        585.1,
+        4421.7,
+        665.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meta",
+      "texte_balise": "Meta",
+      "bbox": [
+        5457.7,
+        587.0,
+        5636.4,
+        653.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Textbook",
+      "texte_balise": "Textbook",
+      "bbox": [
+        2517.0,
+        627.8,
+        2838.6,
+        689.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Learn about the language that",
+      "texte_balise": "Learn about the language that",
+      "bbox": [
+        5289.3,
+        693.5,
+        5804.9,
+        729.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The textbooks include",
+      "texte_balise": "The textbooks include",
+      "bbox": [
+        4028.2,
+        719.4,
+        4385.6,
+        750.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Most people will benefit from",
+      "texte_balise": "Most people will benefit from",
+      "bbox": [
+        2420.0,
+        729.2,
+        2899.9,
+        771.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vou are learnina.",
+      "texte_balise": "vou are learnina.",
+      "bbox": [
+        5289.3,
+        729.2,
+        5565.0,
+        760.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vocabularies, but thereafter a",
+      "texte_balise": "vocabularies, but thereafter a",
+      "bbox": [
+        4023.1,
+        755.1,
+        4513.2,
+        791.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lingua Latina series",
+      "texte_balise": "Lingua Latina series",
+      "bbox": [
+        255.3,
+        770.7,
+        944.5,
+        842.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "following a school book alongside",
+      "texte_balise": "following a school book alongside",
+      "bbox": [
+        2409.8,
+        770.7,
+        2976.5,
+        811.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "good reference dictionary is",
+      "texte_balise": "good reference dictionary is",
+      "bbox": [
+        4028.2,
+        790.7,
+        4482.6,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Lingua Latina readers,",
+      "texte_balise": "the Lingua Latina readers,",
+      "bbox": [
+        2414.9,
+        806.5,
+        2848.9,
+        847.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History",
+      "texte_balise": "History",
+      "bbox": [
+        5040.3,
+        808.1,
+        5299.0,
+        897.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "especially if you are unfamiliar",
+      "texte_balise": "especially if you are unfamiliar",
+      "bbox": [
+        2414.9,
+        842.2,
+        2925.4,
+        883.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latin linguistics",
+      "texte_balise": "Latin linguistics",
+      "bbox": [
+        5565.0,
+        852.3,
+        6106.1,
+        934.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LINGVA",
+      "texte_balise": "LINGVA",
+      "bbox": [
+        1067.0,
+        867.5,
+        1230.5,
+        903.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with inflected languages. Pick one.",
+      "texte_balise": "with inflected languages. Pick one.",
+      "bbox": [
+        2414.9,
+        877.9,
+        2986.7,
+        918.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Latin",
+      "texte_balise": "of Latin",
+      "bbox": [
+        5043.9,
+        902.5,
+        5309.9,
+        975.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATINA",
+      "texte_balise": "LATINA",
+      "bbox": [
+        1072.0,
+        902.9,
+        1215.2,
+        934.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Series of illustrated readers with",
+      "texte_balise": "Series of illustrated readers with",
+      "bbox": [
+        291.0,
+        933.3,
+        822.0,
+        969.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PER SE ILLVSTRATA",
+      "texte_balise": "PER SE ILLVSTRATA",
+      "bbox": [
+        1067.0,
+        939.2,
+        1230.4,
+        964.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ruoulcu icuuclo vill",
+      "texte_balise": "ruoulcu icuuclo vill",
+      "bbox": [
+        436.8,
+        953.0,
+        816.9,
+        964.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "notes and exercises, entirely in",
+      "texte_balise": "notes and exercises, entirely in",
+      "bbox": [
+        291.0,
+        969.8,
+        791.3,
+        1011.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latin. There are about a dozen",
+      "texte_balise": "Latin. There are about a dozen",
+      "bbox": [
+        291.0,
+        1010.6,
+        796.5,
+        1041.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHEELOCK'S LATIN",
+      "texte_balise": "WHEELOCK'S LATIN",
+      "bbox": [
+        1975.8,
+        1030.6,
+        2333.2,
+        1087.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pocket",
+      "texte_balise": "Pocket",
+      "bbox": [
+        4114.8,
+        1035.6,
+        4273.4,
+        1082.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHEELOCK'S LATI",
+      "texte_balise": "WHEELOCK'S LATI",
+      "bbox": [
+        1974.1,
+        1038.1,
+        2308.8,
+        1089.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "maller volumes with difficulty ir",
+      "texte_balise": "maller volumes with difficulty ir",
+      "bbox": [
+        301.2,
+        1046.4,
+        822.0,
+        1082.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "smaller volumes with diftıculty ın",
+      "texte_balise": "smaller volumes with diftıculty ın",
+      "bbox": [
+        289.3,
+        1049.4,
+        828.2,
+        1077.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CAMBRIDGE",
+      "texte_balise": "CAMBRIDGE",
+      "bbox": [
+        3099.0,
+        1061.7,
+        3287.9,
+        1087.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "between Familia Romana and",
+      "texte_balise": "between Familia Romana and",
+      "bbox": [
+        301.2,
+        1077.0,
+        781.1,
+        1113.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxford",
+      "texte_balise": "Oxford",
+      "bbox": [
+        4111.8,
+        1080.2,
+        4386.0,
+        1171.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxtord",
+      "texte_balise": "Oxtord",
+      "bbox": [
+        4109.4,
+        1090.6,
+        4386.1,
+        1170.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LATIN COURSE",
+      "texte_balise": "LATIN COURSE",
+      "bbox": [
+        3078.6,
+        1092.1,
+        3308.3,
+        1122.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        5757.8,
+        1094.8,
+        5837.3,
+        1128.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THI",
+      "texte_balise": "THI",
+      "bbox": [
+        5764.1,
+        1097.4,
+        5825.3,
+        1138.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roma Aeterna.",
+      "texte_balise": "Roma Aeterna.",
+      "bbox": [
+        291.0,
+        1122.9,
+        536.1,
+        1153.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AD",
+      "texte_balise": "AD",
+      "bbox": [
+        5197.4,
+        1128.0,
+        5268.8,
+        1163.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        5753.9,
+        1128.0,
+        5835.6,
+        1163.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNIT 1",
+      "texte_balise": "UNIT 1",
+      "bbox": [
+        3155.2,
+        1148.4,
+        3231.8,
+        1174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGUAGE",
+      "texte_balise": "LANGUAGE",
+      "bbox": [
+        5702.8,
+        1168.9,
+        5896.8,
+        1199.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFINITVM",
+      "texte_balise": "INFINITVM",
+      "bbox": [
+        5105.5,
+        1174.0,
+        5355.6,
+        1214.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latin",
+      "texte_balise": "Latin",
+      "bbox": [
+        4107.1,
+        1174.2,
+        4322.6,
+        1247.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dictionary",
+      "texte_balise": "Dictionary",
+      "bbox": [
+        4111.5,
+        1259.7,
+        4363.6,
+        1315.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LEARN TO READ",
+      "texte_balise": "LEARN TO READ",
+      "bbox": [
+        2535.7,
+        1321.6,
+        2830.7,
+        1361.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L.R. PALMER",
+      "texte_balise": "L.R. PALMER",
+      "bbox": [
+        5729.5,
+        1332.9,
+        5865.6,
+        1355.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A BIOGRAPHY OF",
+      "texte_balise": "A BIOGRAPHY OF",
+      "bbox": [
+        5122.5,
+        1367.0,
+        5343.7,
+        1406.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        2586.8,
+        1372.6,
+        2796.7,
+        1435.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        5167.4,
+        1393.5,
+        5298.8,
+        1431.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND EDITION",
+      "texte_balise": "SECOND EDITION",
+      "bbox": [
+        2586.8,
+        1457.7,
+        2785.3,
+        1491.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The workd's most trusted dictionarics",
+      "texte_balise": "The workd's most trusted dictionarics",
+      "bbox": [
+        4118.4,
+        1491.7,
+        4351.0,
+        1520.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NICHOLAS OSTLER",
+      "texte_balise": "NICHOLAS OSTLER",
+      "bbox": [
+        5088.5,
+        1508.7,
+        5372.1,
+        1537.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HANS H ORBERC",
+      "texte_balise": "HANS H ORBERC",
+      "bbox": [
+        1043.8,
+        1554.1,
+        1134.5,
+        1582.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LINGVA",
+      "texte_balise": "LINGVA",
+      "bbox": [
+        1037.9,
+        1581.7,
+        1219.8,
+        1628.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LATINA",
+      "texte_balise": "LATINA",
+      "bbox": [
+        1037.9,
+        1632.8,
+        1219.8,
+        1679.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROMANI",
+      "texte_balise": "ROMANI",
+      "bbox": [
+        521.9,
+        1633.5,
+        669.4,
+        1661.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COL OOVA",
+      "texte_balise": "COL OOVA",
+      "bbox": [
+        1038.1,
+        1735.6,
+        1145.9,
+        1746.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PERSONARVM",
+      "texte_balise": "PERSONARVM",
+      "bbox": [
+        1043.8,
+        1746.9,
+        1174.3,
+        1775.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Story of a World Language",
+      "texte_balise": "Story of a World Language",
+      "bbox": [
+        5060.1,
+        1871.7,
+        5355.1,
+        1900.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        5071.4,
+        1934.1,
+        5372.1,
+        2002.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        5706.8,
+        2143.9,
+        5979.1,
+        2217.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advanced Grammar",
+      "texte_balise": "Advanced Grammar",
+      "bbox": [
+        2365.5,
+        2177.9,
+        3069.0,
+        2245.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A LINGUISTIC",
+      "texte_balise": "A LINGUISTIC",
+      "bbox": [
+        5718.1,
+        2217.6,
+        5973.4,
+        2251.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "INTRODUCTION",
+      "texte_balise": "INTRODUCTION",
+      "bbox": [
+        5706.8,
+        2251.6,
+        5973.4,
+        2280.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "For reference, and clarification",
+      "texte_balise": "For reference, and clarification",
+      "bbox": [
+        2393.9,
+        2274.3,
+        2898.8,
+        2308.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TATARA",
+      "texte_balise": "TATARA",
+      "bbox": [
+        1072.1,
+        2291.3,
+        1202.6,
+        2308.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Renato Oniga",
+      "texte_balise": "Renato Oniga",
+      "bbox": [
+        5763.5,
+        2297.2,
+        5922.3,
+        2331.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of difficult constructions.",
+      "texte_balise": "of difficult constructions.",
+      "bbox": [
+        2399.6,
+        2308.5,
+        2808.0,
+        2342.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATINA",
+      "texte_balise": "LATINA",
+      "bbox": [
+        1071.9,
+        2330.3,
+        1202.9,
+        2366.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aw Norma Cahiland",
+      "texte_balise": "aw Norma Cahiland",
+      "bbox": [
+        5803.2,
+        2331.2,
+        5956.4,
+        2342.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CAESAR",
+      "texte_balise": "CAESAR",
+      "bbox": [
+        464.8,
+        2346.4,
+        596.0,
+        2378.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PER SE ILEYS IRAI?",
+      "texte_balise": "PER SE ILEYS IRAI?",
+      "bbox": [
+        1072.1,
+        2370.9,
+        1202.6,
+        2382.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "(autism warning)",
+      "texte_balise": "(autism warning)",
+      "bbox": [
+        2456.3,
+        2370.9,
+        2751.3,
+        2404.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE BELLO GALLICO VI",
+      "texte_balise": "DE BELLO GALLICO VI",
+      "bbox": [
+        470.8,
+        2376.6,
+        686.4,
+        2404.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOX LATINA",
+      "texte_balise": "VOX LATINA",
+      "bbox": [
+        5649.8,
+        2647.4,
+        6053.1,
+        2723.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        2626.5,
+        2660.1,
+        2739.9,
+        2688.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Etymological Dictionary of",
+      "texte_balise": "Etymological Dictionary of",
+      "bbox": [
+        4101.4,
+        2660.1,
+        4430.4,
+        2699.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAMMAR",
+      "texte_balise": "GRAMMAR",
+      "bbox": [
+        2592.3,
+        2687.6,
+        2779.8,
+        2723.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latin",
+      "texte_balise": "Latin",
+      "bbox": [
+        4175.1,
+        2705.5,
+        4351.0,
+        2784.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRONUNCIATION",
+      "texte_balise": "THE PRONUNCIATION",
+      "bbox": [
+        5661.4,
+        2733.8,
+        6047.1,
+        2767.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORY OF THE",
+      "texte_balise": "HISTORY OF THE",
+      "bbox": [
+        5156.5,
+        2750.3,
+        5377.8,
+        2774.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF CLASSICAL LATIN",
+      "texte_balise": "OF CLASSICAL LATIN",
+      "bbox": [
+        5661.4,
+        2762.2,
+        6047.1,
+        2801.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATIN",
+      "texte_balise": "LATIN",
+      "bbox": [
+        5150.5,
+        2772.1,
+        5383.8,
+        2837.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the other Italic Languages",
+      "texte_balise": "and the other Italic Languages",
+      "bbox": [
+        4101.4,
+        2801.9,
+        4430.4,
+        2841.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "B.L. GILDERSLEEVE",
+      "texte_balise": "B.L. GILDERSLEEVE",
+      "bbox": [
+        2603.8,
+        2813.2,
+        2785.3,
+        2841.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "W.SIDNEY ALLEN",
+      "texte_balise": "W.SIDNEY ALLEN",
+      "bbox": [
+        5655.7,
+        2813.2,
+        6041.5,
+        2864.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGUAGE",
+      "texte_balise": "LANGUAGE",
+      "bbox": [
+        5150.8,
+        2829.8,
+        5383.5,
+        2876.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONZALEZ LODGE",
+      "texte_balise": "CONZALEZ LODGE",
+      "bbox": [
+        2598.1,
+        2858.6,
+        2785.3,
+        2887.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Clackson and Geoffrey Homocks",
+      "texte_balise": "James Clackson and Geoffrey Homocks",
+      "bbox": [
+        5156.5,
+        2909.6,
+        5372.1,
+        2926.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michid e Vaur",
+      "texte_balise": "Michid e Vaur",
+      "bbox": [
+        4220.5,
+        3062.8,
+        4305.6,
+        3074.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Easy bilingual texts",
+      "texte_balise": "Easy bilingual texts",
+      "bbox": [
+        487.9,
+        3386.2,
+        1151.6,
+        3465.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Read the English first. Then read",
+      "texte_balise": "Read the English first. Then read",
+      "bbox": [
+        516.2,
+        3533.6,
+        1049.5,
+        3573.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Latin, referring to the facing",
+      "texte_balise": "the Latin, referring to the facing",
+      "bbox": [
+        510.5,
+        3567.7,
+        1038.1,
+        3613.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "page to check meanings or",
+      "texte_balise": "page to check meanings or",
+      "bbox": [
+        510.5,
+        3607.3,
+        964.4,
+        3647.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "words. Repeat until you can read",
+      "texte_balise": "words. Repeat until you can read",
+      "bbox": [
+        510.5,
+        3641.4,
+        1055.1,
+        3686.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Latin unaided.",
+      "texte_balise": "the Latin unaided.",
+      "bbox": [
+        510.5,
+        3681.1,
+        811.2,
+        3715.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latin literature",
+      "texte_balise": "Latin literature",
+      "bbox": [
+        2172.7,
+        3856.9,
+        2683.2,
+        3919.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORNELIUS NEPOS",
+      "texte_balise": "CORNELIUS NEPOS",
+      "bbox": [
+        414.1,
+        3924.9,
+        669.4,
+        3953.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLORUS",
+      "texte_balise": "FLORUS",
+      "bbox": [
+        970.0,
+        3924.9,
+        1083.5,
+        3947.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poetry",
+      "texte_balise": "Poetry",
+      "bbox": [
+        5116.8,
+        3947.6,
+        5355.1,
+        4032.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPITOME OF",
+      "texte_balise": "EPITOME OF",
+      "bbox": [
+        958.7,
+        3958.9,
+        1083.5,
+        3970.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROMAN HISTORY",
+      "texte_balise": "ROMAN HISTORY",
+      "bbox": [
+        936.0,
+        3981.6,
+        1106.2,
+        3993.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophy/Politics",
+      "texte_balise": "Philosophy/Politics",
+      "bbox": [
+        3613.5,
+        3981.6,
+        4277.2,
+        4066.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ou can now read the Romans ir",
+      "texte_balise": "ou can now read the Romans ir",
+      "bbox": [
+        2189.7,
+        3987.3,
+        2705.9,
+        4022.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Note: Tacitus and Virgil are the",
+      "texte_balise": "Note: Tacitus and Virgil are the",
+      "bbox": [
+        2802.3,
+        3993.0,
+        3318.6,
+        4049.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "heir original glorious language",
+      "texte_balise": "heir original glorious language",
+      "bbox": [
+        2189.7,
+        4021.3,
+        2700.2,
+        4055.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pinnacles of classical prose and",
+      "texte_balise": "pinnacles of classical prose and",
+      "bbox": [
+        2808.0,
+        4032.7,
+        3329.9,
+        4078.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "You should eventually read the",
+      "texte_balise": "You should eventually read the",
+      "bbox": [
+        2178.3,
+        4055.3,
+        2688.9,
+        4095.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "verse respectively. If you can",
+      "texte_balise": "verse respectively. If you can",
+      "bbox": [
+        2808.0,
+        4072.4,
+        3273.2,
+        4106.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "entire extant canon, thouah",
+      "texte_balise": "entire extant canon, thouah",
+      "bbox": [
+        2189.7,
+        4095.0,
+        2632.2,
+        4123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read them, you have achievea",
+      "texte_balise": "read them, you have achievea",
+      "bbox": [
+        2813.7,
+        4112.1,
+        3290.2,
+        4146.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "beware that some authors are",
+      "texte_balise": "beware that some authors are",
+      "bbox": [
+        2189.7,
+        4129.1,
+        2666.2,
+        4163.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "advanced fluency in the",
+      "texte_balise": "advanced fluency in the",
+      "bbox": [
+        2819.4,
+        4140.4,
+        3188.1,
+        4174.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "significantly more difficult than",
+      "texte_balise": "significantly more difficult than",
+      "bbox": [
+        2178.3,
+        4163.1,
+        2694.6,
+        4208.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "language.",
+      "texte_balise": "language.",
+      "bbox": [
+        2807.8,
+        4179.0,
+        2972.8,
+        4220.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "others. Here is a summary of the",
+      "texte_balise": "others. Here is a summary of the",
+      "bbox": [
+        2178.3,
+        4202.8,
+        2717.2,
+        4242.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "P. OVIDI NASONIS",
+      "texte_balise": "P. OVIDI NASONIS",
+      "bbox": [
+        5309.7,
+        4219.8,
+        5587.7,
+        4248.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "P. OVIDI NASONIS I",
+      "texte_balise": "P. OVIDI NASONIS I",
+      "bbox": [
+        5309.7,
+        4220.0,
+        5610.3,
+        4259.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "highlights.",
+      "texte_balise": "highlights.",
+      "bbox": [
+        2178.0,
+        4241.1,
+        2354.5,
+        4283.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MACKON",
+      "texte_balise": "MACKON",
+      "bbox": [
+        3522.8,
+        4242.5,
+        3772.4,
+        4253.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ORAONES",
+      "texte_balise": "ORAONES",
+      "bbox": [
+        4090.0,
+        4242.5,
+        4243.2,
+        4253.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MAKKONS",
+      "texte_balise": "MAKKONS",
+      "bbox": [
+        3522.8,
+        4242.7,
+        3766.7,
+        4254.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "METAMORPHOSES",
+      "texte_balise": "METAMORPHOSES",
+      "bbox": [
+        5315.4,
+        4248.4,
+        5582.0,
+        4276.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. ROLFE",
+      "texte_balise": "C. ROLFE",
+      "bbox": [
+        499.2,
+        4253.8,
+        578.6,
+        4265.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPISTVLAE",
+      "texte_balise": "EPISTVLAE",
+      "bbox": [
+        3579.5,
+        4259.5,
+        3721.3,
+        4287.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IETANUKTHUDED",
+      "texte_balise": "IETANUKTHUDED",
+      "bbox": [
+        5315.4,
+        4259.5,
+        5576.3,
+        4270.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LISTENE",
+      "texte_balise": "LISTENE",
+      "bbox": [
+        3579.5,
+        4271.0,
+        3715.6,
+        4282.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "KPIGRAMMAA",
+      "texte_balise": "KPIGRAMMAA",
+      "bbox": [
+        4923.9,
+        4299.2,
+        5077.1,
+        4310.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EPIGRAMMAA",
+      "texte_balise": "EPIGRAMMAA",
+      "bbox": [
+        4923.9,
+        4299.4,
+        5077.1,
+        4310.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOER CLACCICAL IRRARI",
+      "texte_balise": "TOER CLACCICAL IRRARI",
+      "bbox": [
+        919.0,
+        4531.9,
+        1117.5,
+        4543.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "QUINTUS CURTIUS",
+      "texte_balise": "QUINTUS CURTIUS",
+      "bbox": [
+        408.4,
+        4571.6,
+        658.0,
+        4594.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History",
+      "texte_balise": "History",
+      "bbox": [
+        2524.4,
+        4588.6,
+        2774.0,
+        4668.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD CLASSICAL TENTS",
+      "texte_balise": "OXFORD CLASSICAL TENTS",
+      "bbox": [
+        4056.0,
+        4588.6,
+        4277.2,
+        4599.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORY OF ALFYANDER",
+      "texte_balise": "HISTORY OF ALFYANDER",
+      "bbox": [
+        402.8,
+        4605.6,
+        652.4,
+        4617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXERRAZZE",
+      "texte_balise": "EXERRAZZE",
+      "bbox": [
+        4033.3,
+        4804.1,
+        4339.6,
+        4832.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "P. VERGILI",
+      "texte_balise": "P. VERGILI",
+      "bbox": [
+        5394.4,
+        4813.7,
+        5531.3,
+        4845.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D2222222251",
+      "texte_balise": "D2222222251",
+      "bbox": [
+        3477.4,
+        4821.1,
+        3851.8,
+        4832.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Q. HORATI FLACCI",
+      "texte_balise": "Q. HORATI FLACCI",
+      "bbox": [
+        4867.2,
+        4821.1,
+        5133.8,
+        4849.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L.ANNAEI SENECAE H",
+      "texte_balise": "L.ANNAEI SENECAE H",
+      "bbox": [
+        3500.1,
+        4838.1,
+        3857.5,
+        4883.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARONIS",
+      "texte_balise": "MARONIS",
+      "bbox": [
+        5400.5,
+        4849.5,
+        5519.6,
+        4877.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TITI LIVI",
+      "texte_balise": "TITI LIVI",
+      "bbox": [
+        2853.4,
+        4866.5,
+        2989.5,
+        4889.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPERA",
+      "texte_balise": "OPERA",
+      "bbox": [
+        4958.0,
+        4866.5,
+        5043.1,
+        4877.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. CAESARIS",
+      "texte_balise": "C. CAESARIS",
+      "bbox": [
+        2314.5,
+        4877.8,
+        2569.8,
+        4894.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHRA",
+      "texte_balise": "PHRA",
+      "bbox": [
+        5411.8,
+        4889.2,
+        5502.6,
+        4900.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "COMMENTARIORVM",
+      "texte_balise": "COMMENTARIORVM",
+      "bbox": [
+        2337.2,
+        4900.5,
+        2552.7,
+        4928.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AD VADE GUNDILA",
+      "texte_balise": "AD VADE GUNDILA",
+      "bbox": [
+        2808.0,
+        4906.2,
+        3029.2,
+        4917.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIBRI DVODECIM",
+      "texte_balise": "LIBRI DVODECIM",
+      "bbox": [
+        3579.5,
+        4923.2,
+        3749.7,
+        4934.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD CLASSICAL TEXTS",
+      "texte_balise": "OXFORD CLASSICAL TEXTS",
+      "bbox": [
+        2348.5,
+        5229.4,
+        2535.7,
+        5240.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "=======!",
+      "texte_balise": "=======!",
+      "bbox": [
+        2308.8,
+        5246.4,
+        2603.8,
+        5303.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD CLASSICAL TEYTS",
+      "texte_balise": "OXFORD CLASSICAL TEYTS",
+      "bbox": [
+        3551.1,
+        5246.4,
+        3778.0,
+        5257.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0===xxx=",
+      "texte_balise": "0===xxx=",
+      "bbox": [
+        2280.4,
+        5467.6,
+        2649.2,
+        5495.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "dexxxxxerl",
+      "texte_balise": "dexxxxxerl",
+      "bbox": [
+        3487.0,
+        5472.5,
+        3834.2,
+        5498.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "C. SVETONI TRANQVILLI",
+      "texte_balise": "C. SVETONI TRANQVILLI",
+      "bbox": [
+        2303.1,
+        5512.9,
+        2626.5,
+        5541.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There is also much great Latin",
+      "texte_balise": "There is also much great Latin",
+      "bbox": [
+        4714.0,
+        5513.0,
+        5213.3,
+        5552.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "literature from other neriods No",
+      "texte_balise": "literature from other neriods No",
+      "bbox": [
+        4714.0,
+        5552.6,
+        5258.6,
+        5575.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "====",
+      "texte_balise": "====",
+      "bbox": [
+        3487.0,
+        5799.4,
+        3517.7,
+        5947.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAIN LICE",
+      "texte_balise": "MAIN LICE",
+      "bbox": [
+        1123.2,
+        5947.5,
+        1276.4,
+        5973.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "0xxxxxzz=0",
+      "texte_balise": "0xxxxxzz=0",
+      "bbox": [
+        2277.0,
+        5968.0,
+        2644.6,
+        5998.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SEXE IVOISSYTO G80SXO",
+      "texte_balise": "SEXE IVOISSYTO G80SXO",
+      "bbox": [
+        4089.5,
+        6228.5,
+        4273.3,
+        6238.7
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

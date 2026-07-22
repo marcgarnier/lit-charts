@@ -1,0 +1,1598 @@
+{
+  "fichier": "14_Poetry Chart.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:43.883119+00:00",
+  "duree_s": 3.0,
+  "taille_origine": [
+    2800,
+    2800
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 144,
+  "lignes": [
+    {
+      "texte": "METER",
+      "texte_balise": "METER",
+      "bbox": [
+        -0.1,
+        7.9,
+        122.2,
+        73.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LEARN FORM. IT'LL HELP",
+      "texte_balise": "LEARN FORM. IT'LL HELP",
+      "bbox": [
+        940.1,
+        24.0,
+        1420.3,
+        69.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary",
+      "texte_balise": "Mary",
+      "bbox": [
+        504.7,
+        52.9,
+        659.3,
+        117.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Hollander",
+      "texte_balise": "John Hollander",
+      "bbox": [
+        728.5,
+        60.9,
+        879.1,
+        85.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "&",
+      "texte_balise": "&",
+      "bbox": [
+        20.3,
+        73.2,
+        122.1,
+        166.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOUR UNDERSTANDING OF",
+      "texte_balise": "YOUR UNDERSTANDING OF",
+      "bbox": [
+        936.0,
+        80.9,
+        1477.3,
+        122.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oliver",
+      "texte_balise": "Oliver",
+      "bbox": [
+        475.9,
+        100.9,
+        688.0,
+        163.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rhyme's",
+      "texte_balise": "Rhyme's",
+      "bbox": [
+        711.9,
+        104.9,
+        899.7,
+        171.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN WIND",
+      "texte_balise": "WESTERN WIND",
+      "bbox": [
+        236.0,
+        133.9,
+        447.7,
+        158.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY, AND FURTHER",
+      "texte_balise": "POETRY, AND FURTHER",
+      "bbox": [
+        940.1,
+        133.9,
+        1383.7,
+        178.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POF",
+      "texte_balise": "POF",
+      "bbox": [
+        0.0,
+        158.6,
+        57.0,
+        191.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "C FORM",
+      "texte_balise": "C FORM",
+      "bbox": [
+        97.7,
+        158.6,
+        215.7,
+        195.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "START",
+      "texte_balise": "START",
+      "bbox": [
+        10.9,
+        170.6,
+        465.3,
+        325.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reasor",
+      "texte_balise": "Reasor",
+      "bbox": [
+        720.2,
+        174.2,
+        883.3,
+        224.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Poetry",
+      "texte_balise": "A Poetry",
+      "bbox": [
+        491.1,
+        179.4,
+        665.3,
+        224.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOUR ABILITY TO WRITE",
+      "texte_balise": "YOUR ABILITY TO WRITE",
+      "bbox": [
+        936.0,
+        190.8,
+        1448.8,
+        235.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Handbook",
+      "texte_balise": "Handbook",
+      "bbox": [
+        459.9,
+        223.6,
+        683.7,
+        256.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IT",
+      "texte_balise": "IT",
+      "bbox": [
+        944.2,
+        244.0,
+        993.0,
+        288.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOMER",
+      "texte_balise": "HOMER",
+      "bbox": [
+        1534.1,
+        263.6,
+        1685.1,
+        305.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HORACE",
+      "texte_balise": "HORACE",
+      "bbox": [
+        2010.2,
+        287.5,
+        2189.8,
+        338.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HESIOD",
+      "texte_balise": "HESIOD",
+      "bbox": [
+        1762.1,
+        292.4,
+        1929.2,
+        337.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND WAITING POETAT",
+      "texte_balise": "AND WAITING POETAT",
+      "bbox": [
+        520.9,
+        292.7,
+        634.9,
+        300.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OVID",
+      "texte_balise": "OVID",
+      "bbox": [
+        2592.4,
+        300.9,
+        2714.5,
+        345.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAUL FUSSELL",
+      "texte_balise": "PAUL FUSSELL",
+      "bbox": [
+        -0.0,
+        316.7,
+        134.3,
+        337.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIRGIL",
+      "texte_balise": "VIRGIL",
+      "bbox": [
+        2307.6,
+        357.8,
+        2462.2,
+        398.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GREEKS (AND ROMANS). SO MANY POETS REFERENCE AND",
+      "texte_balise": "THE GREEKS (AND ROMANS). SO MANY POETS REFERENCE AND",
+      "bbox": [
+        1546.5,
+        406.6,
+        2791.9,
+        455.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALLUDE TO GRECO-ROMAN MYTHOLOGY THAT YOU'LL MISS",
+      "texte_balise": "ALLUDE TO GRECO-ROMAN MYTHOLOGY THAT YOU'LL MISS",
+      "bbox": [
+        1546.5,
+        463.5,
+        2751.2,
+        512.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        956.4,
+        496.0,
+        1204.7,
+        609.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IF YOU ALREADY KNOW",
+      "texte_balise": "IF YOU ALREADY KNOW",
+      "bbox": [
+        142.4,
+        512.3,
+        618.6,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OUT ON A LOT IF YOU'RE NOT FAMILIAR WITH IT. FOR A",
+      "texte_balise": "OUT ON A LOT IF YOU'RE NOT FAMILIAR WITH IT. FOR A",
+      "bbox": [
+        1542.4,
+        524.5,
+        2686.0,
+        565.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ABOUT MYTHOLOGY, YOU",
+      "texte_balise": "ABOUT MYTHOLOGY, YOU",
+      "bbox": [
+        142.4,
+        569.2,
+        659.3,
+        614.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CURSORY OVERVIEW OF THE MYTHOLOGY, IVE INCLUDED A",
+      "texte_balise": "CURSORY OVERVIEW OF THE MYTHOLOGY, IVE INCLUDED A",
+      "bbox": [
+        1542.4,
+        581.4,
+        2751.2,
+        622.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAN USE THESE AS A",
+      "texte_balise": "CAN USE THESE AS A",
+      "bbox": [
+        142.4,
+        626.1,
+        573.8,
+        666.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SELECTION OF THE MOST NOTABLE GREEK AND ROMAN",
+      "texte_balise": "SELECTION OF THE MOST NOTABLE GREEK AND ROMAN",
+      "bbox": [
+        1542.4,
+        638.3,
+        2661.6,
+        679.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GREEKS",
+      "texte_balise": "GREEKS",
+      "bbox": [
+        842.3,
+        670.5,
+        1322.8,
+        785.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REFERENCE GUIDE",
+      "texte_balise": "REFERENCE GUIDE",
+      "bbox": [
+        146.5,
+        683.1,
+        508.7,
+        723.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHORS",
+      "texte_balise": "AUTHORS",
+      "bbox": [
+        1546.4,
+        686.7,
+        1746.0,
+        732.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHOLOGY PLAYS A LARGE ROLE IN MANY POETIC TRADITIONS,",
+      "texte_balise": "MYTHOLOGY PLAYS A LARGE ROLE IN MANY POETIC TRADITIONS,",
+      "bbox": [
+        1461.0,
+        735.9,
+        2795.9,
+        776.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT GRAVES",
+      "texte_balise": "ROBERT GRAVES",
+      "bbox": [
+        252.3,
+        752.2,
+        496.5,
+        776.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND ROMANS",
+      "texte_balise": "AND ROMANS",
+      "bbox": [
+        898.3,
+        780.9,
+        1260.0,
+        851.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GODS and HEROES",
+      "texte_balise": "GODS and HEROES",
+      "bbox": [
+        520.9,
+        792.8,
+        793.6,
+        817.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND ITEXISTS OUTSIDE THE GRECO-ROMAN MYTHOS",
+      "texte_balise": "AND ITEXISTS OUTSIDE THE GRECO-ROMAN MYTHOS",
+      "bbox": [
+        1469.2,
+        792.8,
+        2555.8,
+        833.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND ROMANS",
+      "texte_balise": "AND ROMANS",
+      "bbox": [
+        903.5,
+        817.0,
+        1257.6,
+        850.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IIIL",
+      "texte_balise": "IIIL",
+      "bbox": [
+        1977.9,
+        817.0,
+        2043.0,
+        829.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of Ancient Greece",
+      "texte_balise": "of Ancient Greece",
+      "bbox": [
+        586.0,
+        825.0,
+        728.5,
+        841.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DON'T FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+      "texte_balise": "DON'T FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+      "bbox": [
+        1388.3,
+        828.6,
+        2636.7,
+        886.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DONT FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+      "texte_balise": "DONT FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+      "bbox": [
+        1395.9,
+        837.2,
+        2616.9,
+        882.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BACKGROUND OF THE POET YOU'RE READING, LIKE IRISH MYTHS AND",
+      "texte_balise": "BACKGROUND OF THE POET YOU'RE READING, LIKE IRISH MYTHS AND",
+      "bbox": [
+        1395.9,
+        894.1,
+        2795.9,
+        943.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YEATS",
+      "texte_balise": "YEATS",
+      "bbox": [
+        1395.9,
+        947.4,
+        1526.2,
+        992.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        317.4,
+        983.9,
+        427.3,
+        1020.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The WINGED HORSE",
+      "texte_balise": "The WINGED HORSE",
+      "bbox": [
+        1961.6,
+        999.7,
+        2234.3,
+        1036.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The WINGED HORS",
+      "texte_balise": "The WINGED HORS",
+      "bbox": [
+        1965.7,
+        1000.0,
+        2218.0,
+        1041.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC KES SELLER",
+      "texte_balise": "THE CLASSIC KES SELLER",
+      "bbox": [
+        44.8,
+        1007.8,
+        227.9,
+        1015.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC BESSELEER",
+      "texte_balise": "THE CLASSIC BESSELEER",
+      "bbox": [
+        40.7,
+        1008.0,
+        227.9,
+        1016.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GREEK",
+      "texte_balise": "GREEK",
+      "bbox": [
+        264.3,
+        1019.0,
+        484.5,
+        1073.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        2340.1,
+        1020.0,
+        2380.8,
+        1044.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHOLOGY",
+      "texte_balise": "MYTHOLOGY",
+      "bbox": [
+        32.6,
+        1024.6,
+        232.0,
+        1044.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTHOLOGY",
+      "texte_balise": "ANTHOLOGY",
+      "bbox": [
+        1977.9,
+        1032.1,
+        2218.0,
+        1072.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1461.0,
+        1032.7,
+        1522.1,
+        1044.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Margaret Ferguson",
+      "texte_balise": "Margaret Ferguson",
+      "bbox": [
+        1802.9,
+        1035.8,
+        1933.1,
+        1056.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEBEST",
+      "texte_balise": "THEBEST",
+      "bbox": [
+        1465.1,
+        1036.2,
+        1611.6,
+        1044.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW",
+      "texte_balise": "THE NEW",
+      "bbox": [
+        2665.6,
+        1040.0,
+        2763.4,
+        1064.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "meless Tales of Gods and Heroes",
+      "texte_balise": "meless Tales of Gods and Heroes",
+      "bbox": [
+        44.8,
+        1052.4,
+        223.8,
+        1060.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary Jo Salter",
+      "texte_balise": "Mary Jo Salter",
+      "bbox": [
+        1827.3,
+        1056.5,
+        1933.1,
+        1076.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD",
+      "texte_balise": "OXFORD",
+      "bbox": [
+        2258.7,
+        1060.6,
+        2470.3,
+        1089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD",
+      "texte_balise": "OXFORD",
+      "bbox": [
+        2653.5,
+        1064.6,
+        2775.6,
+        1089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHS",
+      "texte_balise": "MYTHS",
+      "bbox": [
+        252.2,
+        1068.3,
+        500.7,
+        1121.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jon Stallworthy",
+      "texte_balise": "Jon Stallworthy",
+      "bbox": [
+        1819.2,
+        1084.8,
+        1929.1,
+        1097.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOK OF",
+      "texte_balise": "BOOK OF",
+      "bbox": [
+        2665.7,
+        1088.8,
+        2763.4,
+        1109.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edith Hamilton",
+      "texte_balise": "Edith Hamilton",
+      "bbox": [
+        105.8,
+        1096.8,
+        223.8,
+        1105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENGLISH",
+      "texte_balise": "ENGLISH",
+      "bbox": [
+        2649.3,
+        1108.8,
+        2775.7,
+        1138.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOK",
+      "texte_balise": "BOOK",
+      "bbox": [
+        2295.3,
+        1109.3,
+        2433.7,
+        1133.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "y ce ENGLISH",
+      "texte_balise": "y ce ENGLISH",
+      "bbox": [
+        1416.3,
+        1113.3,
+        1623.8,
+        1149.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VERSE",
+      "texte_balise": "VERSE",
+      "bbox": [
+        2669.8,
+        1137.7,
+        2759.3,
+        1158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANANTHOLODCIE",
+      "texte_balise": "LANANTHOLODCIE",
+      "bbox": [
+        1387.8,
+        1149.9,
+        2551.7,
+        1296.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POETS",
+      "texte_balise": "POETS",
+      "bbox": [
+        165.4,
+        1213.8,
+        681.1,
+        1370.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAROLD",
+      "texte_balise": "HAROLD",
+      "bbox": [
+        1395.9,
+        1287.9,
+        1644.2,
+        1336.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The NORTON",
+      "texte_balise": "The NORTON",
+      "bbox": [
+        1672.7,
+        1316.3,
+        1843.6,
+        1340.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOM",
+      "texte_balise": "BLOOM",
+      "bbox": [
+        1419.9,
+        1334.7,
+        1616.2,
+        1391.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chosen and Edited by",
+      "texte_balise": "Chosen and Edited by",
+      "bbox": [
+        2299.4,
+        1336.6,
+        2429.7,
+        1356.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTHOLOGY of",
+      "texte_balise": "ANTHOLOGY of",
+      "bbox": [
+        1721.2,
+        1351.9,
+        1933.7,
+        1381.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sir Arthur Quiller-Couch",
+      "texte_balise": "Sir Arthur Quiller-Couch",
+      "bbox": [
+        2234.3,
+        1373.1,
+        2494.8,
+        1397.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AFTER YOUVE LOOKED THROUGH AN ANTHOLOGY AND",
+      "texte_balise": "AFTER YOUVE LOOKED THROUGH AN ANTHOLOGY AND",
+      "bbox": [
+        0.0,
+        1381.2,
+        907.6,
+        1417.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY JOSEPH AUSLANDER",
+      "texte_balise": "BY JOSEPH AUSLANDER",
+      "bbox": [
+        1982.0,
+        1385.3,
+        2222.1,
+        1405.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lica by",
+      "texte_balise": "lica by",
+      "bbox": [
+        2730.8,
+        1385.3,
+        2767.4,
+        1393.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POETRY",
+      "texte_balise": "POETRY",
+      "bbox": [
+        1721.3,
+        1392.6,
+        1831.6,
+        1418.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HELEN",
+      "texte_balise": "HELEN",
+      "bbox": [
+        2681.8,
+        1396.7,
+        2747.3,
+        1418.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND FRANK ERNEST HILL",
+      "texte_balise": "AND FRANK ERNEST HILL",
+      "bbox": [
+        1977.9,
+        1401.5,
+        2222.1,
+        1425.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GARDNER",
+      "texte_balise": "GARDNER",
+      "bbox": [
+        2665.5,
+        1416.6,
+        2763.6,
+        1439.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDERSTAND BETTER YOUR OWN PREFERENCES, YOU CAN",
+      "texte_balise": "UNDERSTAND BETTER YOUR OWN PREFERENCES, YOU CAN",
+      "bbox": [
+        0.0,
+        1425.5,
+        944.2,
+        1462.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A GOOD PLACE TO BEGIN READING POETRY AFTER ONE HAS BECOME FAMILIAR WITH FORM AND HISTORY IS WITH AN",
+      "texte_balise": "A GOOD PLACE TO BEGIN READING POETRY AFTER ONE HAS BECOME FAMILIAR WITH FORM AND HISTORY IS WITH AN",
+      "bbox": [
+        1200.6,
+        1450.2,
+        2714.5,
+        1482.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PICK THROUGH THE POETS YOU ENJOYED AND STUDY",
+      "texte_balise": "PICK THROUGH THE POETS YOU ENJOYED AND STUDY",
+      "bbox": [
+        -0.0,
+        1470.4,
+        887.2,
+        1507.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTHOLOGY. AN ANTHOLOGY OFFERS A COMPREHENSIVE OVERVIEW OF ENGLISH POEMS FROM THE BEGINNING TO",
+      "texte_balise": "ANTHOLOGY. AN ANTHOLOGY OFFERS A COMPREHENSIVE OVERVIEW OF ENGLISH POEMS FROM THE BEGINNING TO",
+      "bbox": [
+        1204.7,
+        1486.4,
+        2665.7,
+        1515.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEM FURTHER INDIVIDUALLY, THEN BRANCH BACK OUT BY",
+      "texte_balise": "THEM FURTHER INDIVIDUALLY, THEN BRANCH BACK OUT BY",
+      "bbox": [
+        0.0,
+        1515.2,
+        960.5,
+        1555.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONTEMPORARY THAT YOU CAN SKIM THROUGH TO GET A FEEL FOR YOUR TASTE THERE ARE ALSO COLLECTIONS OF POETRY",
+      "texte_balise": "CONTEMPORARY THAT YOU CAN SKIM THROUGH TO GET A FEEL FOR YOUR TASTE THERE ARE ALSO COLLECTIONS OF POETRY",
+      "bbox": [
+        1200.6,
+        1519.2,
+        2795.9,
+        1551.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THAT FOCUS ON SPECIFIC PERIODS AND MOVEMENTS, SO IF YOU HAVE AN IDEA OF WHAT ERA OF POETRY IN",
+      "texte_balise": "THAT FOCUS ON SPECIFIC PERIODS AND MOVEMENTS, SO IF YOU HAVE AN IDEA OF WHAT ERA OF POETRY IN",
+      "bbox": [
+        1200.6,
+        1555.4,
+        2592.4,
+        1588.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "READING POETS SIMILAR TO THEM, READING ABOUT THEIR",
+      "texte_balise": "READING POETS SIMILAR TO THEM, READING ABOUT THEIR",
+      "bbox": [
+        0.0,
+        1559.4,
+        964.5,
+        1600.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARTICULAR YOU LIKE YOU MIGHT START WITH ONE OF THOSE",
+      "texte_balise": "PARTICULAR YOU LIKE YOU MIGHT START WITH ONE OF THOSE",
+      "bbox": [
+        1208.7,
+        1592.3,
+        2010.5,
+        1616.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERIOD AND OTHERS IN THE PERIOD, READ THOSE THEY",
+      "texte_balise": "PERIOD AND OTHERS IN THE PERIOD, READ THOSE THEY",
+      "bbox": [
+        -0.0,
+        1608.3,
+        927.9,
+        1645.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFLUENCED OR WERE INFLUENCED BY, AND SO ON",
+      "texte_balise": "INFLUENCED OR WERE INFLUENCED BY, AND SO ON",
+      "bbox": [
+        4.1,
+        1653.2,
+        858.7,
+        1694.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A DEFENCE OF",
+      "texte_balise": "A DEFENCE OF",
+      "bbox": [
+        2148.8,
+        1665.3,
+        2380.8,
+        1694.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE",
+      "texte_balise": "HE",
+      "bbox": [
+        2490.7,
+        1677.6,
+        2551.7,
+        1710.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY AND",
+      "texte_balise": "POETRY AND",
+      "bbox": [
+        2161.0,
+        1693.8,
+        2364.5,
+        1722.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A",
+      "texte_balise": "A",
+      "bbox": [
+        1359.3,
+        1718.1,
+        1391.9,
+        1754.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTHER ESSAYS",
+      "texte_balise": "OTHER ESSAYS",
+      "bbox": [
+        2148.8,
+        1722.2,
+        2380.8,
+        1750.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRINCETON",
+      "texte_balise": "THE PRINCETON",
+      "bbox": [
+        1640.1,
+        1730.2,
+        1807.0,
+        1750.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANXIETY",
+      "texte_balise": "ANXIETY",
+      "bbox": [
+        2461.8,
+        1736.6,
+        2649.8,
+        1780.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENCYCLOPEDIA OF",
+      "texte_balise": "ENCYCLOPEDIA OF",
+      "bbox": [
+        1619.8,
+        1754.2,
+        1807.0,
+        1779.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POET'S",
+      "texte_balise": "POET'S",
+      "bbox": [
+        1281.9,
+        1782.8,
+        1477.4,
+        1832.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY &",
+      "texte_balise": "POETRY &",
+      "bbox": [
+        1623.8,
+        1783.1,
+        1794.8,
+        1819.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY &",
+      "texte_balise": "POETRY &",
+      "bbox": [
+        1607.4,
+        1786.0,
+        1807.1,
+        1823.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        2454.1,
+        1807.5,
+        2519.2,
+        1844.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETICS",
+      "texte_balise": "POETICS",
+      "bbox": [
+        1640.1,
+        1823.7,
+        1807.0,
+        1860.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GLOSSARY",
+      "texte_balise": "GLOSSARY",
+      "bbox": [
+        1261.5,
+        1855.3,
+        1497.8,
+        1897.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourth Edition",
+      "texte_balise": "Fourth Edition",
+      "bbox": [
+        1729.7,
+        1860.1,
+        1798.8,
+        1880.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourth baitto.",
+      "texte_balise": "Fourth baitto.",
+      "bbox": [
+        1725.6,
+        1872.0,
+        1794.8,
+        1880.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFLUENCE",
+      "texte_balise": "INFLUENCE",
+      "bbox": [
+        2454.1,
+        1872.4,
+        2706.4,
+        1908.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NFLUENCE",
+      "texte_balise": "NFLUENCE",
+      "bbox": [
+        2470.3,
+        1876.2,
+        2706.4,
+        1912.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDWARD HIRSCH",
+      "texte_balise": "EDWARD HIRSCH",
+      "bbox": [
+        1277.9,
+        1945.0,
+        1481.4,
+        1970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEOR",
+      "texte_balise": "THEOR",
+      "bbox": [
+        2580.2,
+        1945.5,
+        2726.7,
+        1969.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A",
+      "texte_balise": "A",
+      "bbox": [
+        2519.2,
+        1949.4,
+        2547.7,
+        1973.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEORY",
+      "texte_balise": "THEORY",
+      "bbox": [
+        2580.2,
+        1949.4,
+        2755.2,
+        1973.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXTRAS",
+      "texte_balise": "EXTRAS",
+      "bbox": [
+        972.7,
+        1982.0,
+        1550.6,
+        2120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF POETRY",
+      "texte_balise": "OF POETRY",
+      "bbox": [
+        2519.2,
+        1982.0,
+        2755.2,
+        2010.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAINER MARIA RILKE",
+      "texte_balise": "RAINER MARIA RILKE",
+      "bbox": [
+        1888.4,
+        1998.0,
+        2039.0,
+        2019.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERCY BYSSHE",
+      "texte_balise": "PERCY BYSSHE",
+      "bbox": [
+        2173.3,
+        2002.0,
+        2356.4,
+        2023.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HELLEY",
+      "texte_balise": "HELLEY",
+      "bbox": [
+        2218.0,
+        2022.7,
+        2315.7,
+        2043.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Letters to a loung Poci",
+      "texte_balise": "Letters to a loung Poci",
+      "bbox": [
+        1900.6,
+        2026.7,
+        2022.7,
+        2039.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "R",
+      "texte_balise": "R",
+      "bbox": [
+        2755.2,
+        2108.1,
+        2795.9,
+        2152.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THERE'S AN UNLIMITED AMOUNT OF SECONDARY TEXTS",
+      "texte_balise": "THERE'S AN UNLIMITED AMOUNT OF SECONDARY TEXTS",
+      "bbox": [
+        801.7,
+        2226.0,
+        1851.7,
+        2267.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THAT'LL CONTRIBUTE TO YOUR APPRECIATION OF",
+      "texte_balise": "THAT'LL CONTRIBUTE TO YOUR APPRECIATION OF",
+      "bbox": [
+        801.7,
+        2279.0,
+        1750.0,
+        2320.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY. ESSAYS, LETTERS, HANDBOOKS, COMMENTARIES.",
+      "texte_balise": "POETRY. ESSAYS, LETTERS, HANDBOOKS, COMMENTARIES.",
+      "bbox": [
+        801.7,
+        2332.0,
+        1855.8,
+        2373.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETICS, CONVERSATIONS, ALL SORTS OF THINGS",
+      "texte_balise": "POETICS, CONVERSATIONS, ALL SORTS OF THINGS",
+      "bbox": [
+        801.7,
+        2384.9,
+        1766.3,
+        2426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ODDS ARE IF YOU HAVE A FAVORITE POET THEY'VE",
+      "texte_balise": "ODDS ARE IF YOU HAVE A FAVORITE POET THEY'VE",
+      "bbox": [
+        801.7,
+        2433.7,
+        1766.3,
+        2478.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAD SOMETHING TO SAY ABOUT THE MEDIUM. A FEW",
+      "texte_balise": "HAD SOMETHING TO SAY ABOUT THE MEDIUM. A FEW",
+      "bbox": [
+        801.7,
+        2490.7,
+        1815.1,
+        2531.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ROUTLEDGE",
+      "texte_balise": "THE ROUTLEDGE",
+      "bbox": [
+        2555.8,
+        2523.0,
+        2771.5,
+        2548.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOOGLE SEARCHES WILL SURELY PROVIDE YOU WITH",
+      "texte_balise": "GOOGLE SEARCHES WILL SURELY PROVIDE YOU WITH",
+      "bbox": [
+        801.7,
+        2543.6,
+        1839.5,
+        2584.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anthology of",
+      "texte_balise": "Anthology of",
+      "bbox": [
+        2555.7,
+        2551.1,
+        2771.6,
+        2593.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETS",
+      "texte_balise": "POETS",
+      "bbox": [
+        2551.4,
+        2582.6,
+        2771.8,
+        2630.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOMETHING TO READ-IF YOURE INTERESTED",
+      "texte_balise": "SOMETHING TO READ-IF YOURE INTERESTED",
+      "bbox": [
+        805.8,
+        2596.5,
+        1644.2,
+        2637.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on",
+      "texte_balise": "on",
+      "bbox": [
+        2641.3,
+        2629.1,
+        2677.9,
+        2657.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETS",
+      "texte_balise": "POETS",
+      "bbox": [
+        2551.7,
+        2649.0,
+        2775.7,
+        2698.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HTTP://4CHANLIT.WIKIA.COM/WIKI/POETRY",
+      "texte_balise": "HTTP://4CHANLIT.WIKIA.COM/WIKI/POETRY",
+      "bbox": [
+        573.8,
+        2694.2,
+        2006.4,
+        2779.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "David Hopkins",
+      "texte_balise": "David Hopkins",
+      "bbox": [
+        2555.8,
+        2743.0,
+        2771.5,
+        2772.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

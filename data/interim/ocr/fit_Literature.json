@@ -1,0 +1,2335 @@
+{
+  "fichier": "fit_Literature.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:44.744035+00:00",
+  "duree_s": 4.1,
+  "taille_origine": [
+    4961,
+    3508
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 211,
+  "lignes": [
+    {
+      "texte": "/Fit/'s approved reading list",
+      "texte_balise": "/Fit/'s approved reading list",
+      "bbox": [
+        0.0,
+        104.1,
+        1534.9,
+        268.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A superior gentleman guide to cultivating his mind",
+      "texte_balise": "A superior gentleman guide to cultivating his mind",
+      "bbox": [
+        0.0,
+        257.5,
+        1606.2,
+        361.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sound of Waves by Yukio",
+      "texte_balise": "The Sound of Waves by Yukio",
+      "bbox": [
+        4012.7,
+        514.9,
+        4527.9,
+        553.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Miserables by Victor Hugo",
+      "texte_balise": "Les Miserables by Victor Hugo",
+      "bbox": [
+        1732.2,
+        530.9,
+        2253.0,
+        564.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meditations by Marcus Aurelius",
+      "texte_balise": "Meditations by Marcus Aurelius",
+      "bbox": [
+        2883.4,
+        530.9,
+        3437.1,
+        570.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Life Is a Dream by Calderón de la",
+      "texte_balise": "Life Is a Dream by Calderón de la",
+      "bbox": [
+        597.5,
+        537.0,
+        1173.1,
+        575.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mishima",
+      "texte_balise": "Mishima",
+      "bbox": [
+        4012.7,
+        553.4,
+        4160.7,
+        586.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pedro Calderón",
+      "texte_balise": "Pedro Calderón",
+      "bbox": [
+        153.5,
+        575.2,
+        433.1,
+        613.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barca.",
+      "texte_balise": "Barca.",
+      "bbox": [
+        597.5,
+        575.3,
+        707.1,
+        608.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de la Barca",
+      "texte_balise": "de la Barca",
+      "bbox": [
+        153.5,
+        608.2,
+        350.8,
+        646.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The story of ex-convict, Jean Valjean, and",
+      "texte_balise": "The story of ex-convict, Jean Valjean, and",
+      "bbox": [
+        1732.2,
+        608.2,
+        2296.9,
+        646.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stirring reflections on the human condi-",
+      "texte_balise": "Stirring reflections on the human condi-",
+      "bbox": [
+        2877.9,
+        613.3,
+        3426.1,
+        646.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A coming of age story detailing the",
+      "texte_balise": "A coming of age story detailing the",
+      "bbox": [
+        4012.7,
+        635.4,
+        4489.6,
+        673.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "his valiant struggle to redeem his past. A",
+      "texte_balise": "his valiant struggle to redeem his past. A",
+      "bbox": [
+        1726.8,
+        646.4,
+        2285.9,
+        684.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tion from a warrior and emperor provi-",
+      "texte_balise": "tion from a warrior and emperor provi-",
+      "bbox": [
+        2877.9,
+        652.0,
+        3426.1,
+        684.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La vida es sueño",
+      "texte_balise": "La vida es sueño",
+      "bbox": [
+        148.0,
+        657.5,
+        537.2,
+        706.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The story focuses on the fictional Segis-",
+      "texte_balise": "The story focuses on the fictional Segis-",
+      "bbox": [
+        597.5,
+        657.5,
+        1140.2,
+        690.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "maturity of protagonist Shinji and his",
+      "texte_balise": "maturity of protagonist Shinji and his",
+      "bbox": [
+        4007.2,
+        673.5,
+        4511.5,
+        712.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "potent social document of the poverty, ig-",
+      "texte_balise": "potent social document of the poverty, ig-",
+      "bbox": [
+        1732.2,
+        690.4,
+        2307.8,
+        723.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de a fascinating glimpse into the mind",
+      "texte_balise": "de a fascinating glimpse into the mind",
+      "bbox": [
+        2877.9,
+        690.4,
+        3393.2,
+        728.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mundo, Prince of Poland, who has been",
+      "texte_balise": "mundo, Prince of Poland, who has been",
+      "bbox": [
+        592.0,
+        695.6,
+        1140.2,
+        728.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introducción y notas",
+      "texte_balise": "Introducción y notas",
+      "bbox": [
+        148.0,
+        706.7,
+        400.2,
+        739.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "romance with Hatsue, the beautiful",
+      "texte_balise": "romance with Hatsue, the beautiful",
+      "bbox": [
+        4007.2,
+        712.3,
+        4495.0,
+        745.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "norance, and brutality of man,",
+      "texte_balise": "norance, and brutality of man,",
+      "bbox": [
+        1726.8,
+        728.7,
+        2143.4,
+        762.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and personality of a highly principled",
+      "texte_balise": "and personality of a highly principled",
+      "bbox": [
+        2877.9,
+        728.7,
+        3382.3,
+        767.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de Domingo Induráin",
+      "texte_balise": "de Domingo Induráin",
+      "bbox": [
+        148.0,
+        733.7,
+        422.1,
+        762.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "imprisoned in a tower by his father fo-",
+      "texte_balise": "imprisoned in a tower by his father fo-",
+      "bbox": [
+        592.0,
+        733.7,
+        1123.8,
+        773.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "daughter of the wealthy ship owner",
+      "texte_balise": "daughter of the wealthy ship owner",
+      "bbox": [
+        4007.2,
+        755.8,
+        4500.5,
+        789.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roman of the 2nd century. Recognizing",
+      "texte_balise": "Roman of the 2nd century. Recognizing",
+      "bbox": [
+        2877.9,
+        772.6,
+        3420.6,
+        805.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "llowing a dire prophecy that the prince",
+      "texte_balise": "llowing a dire prophecy that the prince",
+      "bbox": [
+        592.0,
+        777.9,
+        1129.2,
+        811.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terukichi. Some of the major themes",
+      "texte_balise": "Terukichi. Some of the major themes",
+      "bbox": [
+        4012.7,
+        793.9,
+        4522.5,
+        827.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that suffering is at the core of life, he",
+      "texte_balise": "that suffering is at the core of life, he",
+      "bbox": [
+        2877.9,
+        810.9,
+        3387.7,
+        849.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "would bring disaster to the country and",
+      "texte_balise": "would bring disaster to the country and",
+      "bbox": [
+        597.5,
+        816.0,
+        1140.2,
+        849.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "are: coming of age, first love, social",
+      "texte_balise": "are: coming of age, first love, social",
+      "bbox": [
+        4007.2,
+        832.8,
+        4489.6,
+        871.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meditation",
+      "texte_balise": "Meditation",
+      "bbox": [
+        2642.2,
+        838.3,
+        2751.8,
+        849.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "counsels stoic detachment in the face of",
+      "texte_balise": "counsels stoic detachment in the face of",
+      "bbox": [
+        2877.9,
+        849.2,
+        3431.6,
+        882.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "death to the King. Basilio briefly frees Se-",
+      "texte_balise": "death to the King. Basilio briefly frees Se-",
+      "bbox": [
+        592.0,
+        854.8,
+        1156.7,
+        893.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "class, power of nature, kknowledge vs.",
+      "texte_balise": "class, power of nature, kknowledge vs.",
+      "bbox": [
+        4007.2,
+        876.3,
+        4538.9,
+        909.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARCIS AURELLIG",
+      "texte_balise": "MARCIS AURELLIG",
+      "bbox": [
+        2614.8,
+        887.3,
+        2779.3,
+        898.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "inevitable pain, loss and death.",
+      "texte_balise": "inevitable pain, loss and death.",
+      "bbox": [
+        2877.9,
+        887.3,
+        3294.5,
+        926.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gismundo, but when the prince goes on a",
+      "texte_balise": "gismundo, but when the prince goes on a",
+      "bbox": [
+        592.0,
+        898.4,
+        1162.1,
+        931.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ignorance and mind vs. body",
+      "texte_balise": "ignorance and mind vs. body",
+      "bbox": [
+        4012.7,
+        915.0,
+        4401.9,
+        947.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rampage, the king imprisons him again,",
+      "texte_balise": "rampage, the king imprisons him again,",
+      "bbox": [
+        592.0,
+        936.5,
+        1123.8,
+        969.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASTL*#4",
+      "texte_balise": "FASTL*#4",
+      "bbox": [
+        3667.1,
+        963.1,
+        3925.2,
+        1014.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "persuading him that it was all a dream.",
+      "texte_balise": "persuading him that it was all a dream.",
+      "bbox": [
+        592.0,
+        975.3,
+        1118.3,
+        1013.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E8**OW",
+      "texte_balise": "E8**OW",
+      "bbox": [
+        3541.2,
+        1013.6,
+        3733.1,
+        1046.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "28HRO110",
+      "texte_balise": "28HRO110",
+      "bbox": [
+        3542.7,
+        1023.0,
+        3731.4,
+        1047.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LES MISÉRABLES",
+      "texte_balise": "LES MISÉRABLES",
+      "bbox": [
+        1321.1,
+        1035.6,
+        1589.7,
+        1068.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES MISERABLES",
+      "texte_balise": "LES MISERABLES",
+      "bbox": [
+        1320.9,
+        1041.3,
+        1594.8,
+        1078.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The play's central theme is the conflict",
+      "texte_balise": "The play's central theme is the conflict",
+      "bbox": [
+        597.5,
+        1052.0,
+        1123.8,
+        1090.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "10:90",
+      "texte_balise": "10:90",
+      "bbox": [
+        3661.8,
+        1057.5,
+        3842.7,
+        1145.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "between free will and fate. Other themes",
+      "texte_balise": "between free will and fate. Other themes",
+      "bbox": [
+        592.0,
+        1095.8,
+        1162.1,
+        1128.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VICTOR HUGO",
+      "texte_balise": "VICTOR HUGO",
+      "bbox": [
+        1337.6,
+        1101.2,
+        1578.7,
+        1128.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "include dreams vs. reality and the conflict",
+      "texte_balise": "include dreams vs. reality and the conflict",
+      "bbox": [
+        592.0,
+        1134.2,
+        1167.6,
+        1167.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A 210 M",
+      "texte_balise": "A 210 M",
+      "bbox": [
+        3563.1,
+        1156.1,
+        3689.2,
+        1183.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "between father and son.",
+      "texte_balise": "between father and son.",
+      "bbox": [
+        592.0,
+        1172.4,
+        926.4,
+        1205.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journey to the End of the Night",
+      "texte_balise": "Journey to the End of the Night",
+      "bbox": [
+        2872.4,
+        1259.7,
+        3426.1,
+        1299.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOURNEY",
+      "texte_balise": "JOURNEY",
+      "bbox": [
+        2395.5,
+        1260.2,
+        2576.4,
+        1287.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Antigone by Sophocles",
+      "texte_balise": "Antigone by Sophocles",
+      "bbox": [
+        4012.7,
+        1270.8,
+        4401.9,
+        1310.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "War and Peace by Leo Tolstoy",
+      "texte_balise": "War and Peace by Leo Tolstoy",
+      "bbox": [
+        597.5,
+        1276.6,
+        1123.8,
+        1310.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby Dick by Herman Melville",
+      "texte_balise": "Moby Dick by Herman Melville",
+      "bbox": [
+        1732.2,
+        1276.6,
+        2258.5,
+        1310.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO",
+      "texte_balise": "TO",
+      "bbox": [
+        2398.3,
+        1296.9,
+        2459.2,
+        1327.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Celine",
+      "texte_balise": "by Celine",
+      "bbox": [
+        2879.1,
+        1302.7,
+        3049.7,
+        1339.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The tragedy of Antigone and her fate",
+      "texte_balise": "The tragedy of Antigone and her fate",
+      "bbox": [
+        4011.4,
+        1315.2,
+        4522.7,
+        1351.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2398.3,
+        1333.5,
+        2483.5,
+        1363.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR AND",
+      "texte_balise": "WAR AND",
+      "bbox": [
+        146.0,
+        1338.9,
+        517.5,
+        1413.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOPHOCLES",
+      "texte_balise": "SOPHOCLES",
+      "bbox": [
+        3640.1,
+        1345.6,
+        3804.4,
+        1376.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "when she decides to bury her dead",
+      "texte_balise": "when she decides to bury her dead",
+      "bbox": [
+        4011.4,
+        1351.4,
+        4498.4,
+        1394.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The book delineates in graphic detail",
+      "texte_balise": "The book delineates in graphic detail",
+      "bbox": [
+        596.5,
+        1357.5,
+        1101.8,
+        1394.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A novel that narrates the monomania-",
+      "texte_balise": "A novel that narrates the monomania-",
+      "bbox": [
+        1734.8,
+        1357.5,
+        2258.3,
+        1388.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CÉLINE",
+      "texte_balise": "CÉLINE",
+      "bbox": [
+        2629.5,
+        1369.6,
+        2788.0,
+        1413.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "END",
+      "texte_balise": "END",
+      "bbox": [
+        2398.3,
+        1370.0,
+        2483.5,
+        1406.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTIGONE",
+      "texte_balise": "ANTIGONE",
+      "bbox": [
+        3572.9,
+        1380.8,
+        3889.9,
+        1450.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The story of the improbable yet convin-",
+      "texte_balise": "The story of the improbable yet convin-",
+      "bbox": [
+        2879.2,
+        1382.1,
+        3427.0,
+        1419.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "brother Polyneices.",
+      "texte_balise": "brother Polyneices.",
+      "bbox": [
+        4011.4,
+        1394.3,
+        4279.2,
+        1431.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "events surrounding the French invasion",
+      "texte_balise": "events surrounding the French invasion",
+      "bbox": [
+        596.5,
+        1400.4,
+        1138.3,
+        1431.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cal quest of Ahab, captain of the whaler",
+      "texte_balise": "cal quest of Ahab, captain of the whaler",
+      "bbox": [
+        1734.8,
+        1400.4,
+        2276.6,
+        1431.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        2398.3,
+        1406.5,
+        2459.2,
+        1443.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEACE",
+      "texte_balise": "PEACE",
+      "bbox": [
+        206.8,
+        1418.1,
+        456.7,
+        1492.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cingly described travels of the petit-",
+      "texte_balise": "cingly described travels of the petit-",
+      "bbox": [
+        2879.2,
+        1424.8,
+        3372.3,
+        1461.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Russia, and the impact of the Napo-",
+      "texte_balise": "of Russia, and the impact of the Napo-",
+      "bbox": [
+        596.5,
+        1437.0,
+        1120.0,
+        1473.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pequod, for revenge on the albino",
+      "texte_balise": "Pequod, for revenge on the albino",
+      "bbox": [
+        1728.7,
+        1437.0,
+        2203.5,
+        1473.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2398.3,
+        1443.0,
+        2483.5,
+        1479.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bourgeois (and largely autobiographical)",
+      "texte_balise": "bourgeois (and largely autobiographical)",
+      "bbox": [
+        2879.2,
+        1460.8,
+        3427.0,
+        1503.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "leonic era on Tsarist society, as seen",
+      "texte_balise": "leonic era on Tsarist society, as seen",
+      "bbox": [
+        590.5,
+        1473.1,
+        1101.8,
+        1510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sperm whale Moby Dick, which on a",
+      "texte_balise": "sperm whale Moby Dick, which on a",
+      "bbox": [
+        1728.7,
+        1473.1,
+        2234.0,
+        1516.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Major themes: Individual versus State;",
+      "texte_balise": "Major themes: Individual versus State;",
+      "bbox": [
+        4011.4,
+        1473.1,
+        4528.8,
+        1510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIGHT",
+      "texte_balise": "NIGHT",
+      "bbox": [
+        2398.1,
+        1484.9,
+        2520.2,
+        1516.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMAN",
+      "texte_balise": "HERMAN",
+      "bbox": [
+        1296.3,
+        1490.5,
+        1467.3,
+        1529.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEO TOLSTOY",
+      "texte_balise": "LEO TOLSTOY",
+      "bbox": [
+        261.7,
+        1497.7,
+        401.7,
+        1528.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "antihero, Bardamu, from the trenches of",
+      "texte_balise": "antihero, Bardamu, from the trenches of",
+      "bbox": [
+        2879.2,
+        1503.9,
+        3433.1,
+        1534.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Conscience versus Law; Moral or",
+      "texte_balise": "Conscience versus Law; Moral or",
+      "bbox": [
+        4011.4,
+        1510.0,
+        4474.0,
+        1546.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "through the eyes of five Russian aristo-",
+      "texte_balise": "through the eyes of five Russian aristo-",
+      "bbox": [
+        596.5,
+        1516.1,
+        1132.2,
+        1553.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "previous voyage destroyed Ahab's ship",
+      "texte_balise": "previous voyage destroyed Ahab's ship",
+      "bbox": [
+        1728.7,
+        1516.1,
+        2264.4,
+        1553.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MELVILLE",
+      "texte_balise": "MELVILLE",
+      "bbox": [
+        1296.5,
+        1528.0,
+        1473.1,
+        1571.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "World War I, to the African jungle, to",
+      "texte_balise": "World War I, to the African jungle, to",
+      "bbox": [
+        2879.2,
+        1540.4,
+        3402.7,
+        1577.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Divine Law versus Human Law,",
+      "texte_balise": "Divine Law versus Human Law,",
+      "bbox": [
+        4011.4,
+        1552.6,
+        4443.6,
+        1589.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cratic families.",
+      "texte_balise": "cratic families.",
+      "bbox": [
+        590.5,
+        1558.7,
+        791.3,
+        1589.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and severed his leg at the knee.",
+      "texte_balise": "and severed his leg at the knee.",
+      "bbox": [
+        1728.7,
+        1558.7,
+        2160.9,
+        1595.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby",
+      "texte_balise": "Moby",
+      "bbox": [
+        1296.6,
+        1577.0,
+        1400.0,
+        1619.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "New York and Detroit, and finally to life",
+      "texte_balise": "New York and Detroit, and finally to life",
+      "bbox": [
+        2879.2,
+        1582.6,
+        3439.2,
+        1619.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inaction/Lack of Agency versus",
+      "texte_balise": "Inaction/Lack of Agency versus",
+      "bbox": [
+        4011.4,
+        1594.9,
+        4437.5,
+        1631.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dick",
+      "texte_balise": "Dick",
+      "bbox": [
+        1296.5,
+        1619.4,
+        1381.8,
+        1650.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "as a failed doctor in Paris, takes the rea-",
+      "texte_balise": "as a failed doctor in Paris, takes the rea-",
+      "bbox": [
+        2873.1,
+        1619.5,
+        3433.1,
+        1656.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Agency, The Threat of Tyranny",
+      "texte_balise": "Agency, The Threat of Tyranny",
+      "bbox": [
+        4011.4,
+        1631.7,
+        4443.6,
+        1674.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Within these pages, you'll find family",
+      "texte_balise": "Within these pages, you'll find family",
+      "bbox": [
+        596.5,
+        1637.8,
+        1095.7,
+        1674.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The detailed and realistic descriptions",
+      "texte_balise": "The detailed and realistic descriptions",
+      "bbox": [
+        1734.8,
+        1637.8,
+        2252.2,
+        1674.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ders by the scruff and hurtles them",
+      "texte_balise": "ders by the scruff and hurtles them",
+      "bbox": [
+        2879.2,
+        1662.2,
+        3366.2,
+        1698.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "drama, trenchant social observation, mili-",
+      "texte_balise": "drama, trenchant social observation, mili-",
+      "bbox": [
+        596.5,
+        1674.4,
+        1162.6,
+        1710.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of whale hunting and of extracting",
+      "texte_balise": "of whale hunting and of extracting",
+      "bbox": [
+        1734.8,
+        1674.4,
+        2203.5,
+        1710.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "toward the novel's inevitable, sad con-",
+      "texte_balise": "toward the novel's inevitable, sad con-",
+      "bbox": [
+        2879.2,
+        1704.3,
+        3408.8,
+        1735.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tary history, brilliant discourse on the",
+      "texte_balise": "tary history, brilliant discourse on the",
+      "bbox": [
+        596.5,
+        1716.6,
+        1113.9,
+        1753.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "whale oil as well as life aboard ship are",
+      "texte_balise": "whale oil as well as life aboard ship are",
+      "bbox": [
+        1728.7,
+        1716.6,
+        2276.6,
+        1753.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "clusion. Some of the themes are violen-",
+      "texte_balise": "clusion. Some of the themes are violen-",
+      "bbox": [
+        2879.2,
+        1741.2,
+        3427.0,
+        1778.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mixed with exploration of class and",
+      "texte_balise": "mixed with exploration of class and",
+      "bbox": [
+        1728.7,
+        1753.5,
+        2221.8,
+        1790.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "question of free will, and a love story for",
+      "texte_balise": "question of free will, and a love story for",
+      "bbox": [
+        590.5,
+        1759.6,
+        1156.6,
+        1796.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ce, cruelty and nihilism.",
+      "texte_balise": "ce, cruelty and nihilism.",
+      "bbox": [
+        2879.2,
+        1783.9,
+        3201.8,
+        1820.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the ages.",
+      "texte_balise": "the ages.",
+      "bbox": [
+        590.5,
+        1796.1,
+        718.3,
+        1832.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "social status, good and evil, and the",
+      "texte_balise": "social status, good and evil, and the",
+      "bbox": [
+        1728.7,
+        1796.1,
+        2215.7,
+        1832.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "existence of God.",
+      "texte_balise": "existence of God.",
+      "bbox": [
+        1728.7,
+        1832.2,
+        1978.3,
+        1869.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Great Expectations by Charles",
+      "texte_balise": "Great Expectations by Charles",
+      "bbox": [
+        4011.4,
+        1990.9,
+        4534.9,
+        2027.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Notes from Underground by",
+      "texte_balise": "Notes from Underground by",
+      "bbox": [
+        1734.8,
+        2003.1,
+        2227.9,
+        2040.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art of War by Sun Tzu",
+      "texte_balise": "The Art of War by Sun Tzu",
+      "bbox": [
+        596.5,
+        2009.2,
+        1065.2,
+        2052.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thus Spoke Zarathustra: by",
+      "texte_balise": "Thus Spoke Zarathustra: by",
+      "bbox": [
+        2879.2,
+        2021.4,
+        3360.1,
+        2057.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dickens",
+      "texte_balise": "Dickens",
+      "bbox": [
+        4011.4,
+        2033.5,
+        4151.4,
+        2064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUING CLASSICS",
+      "texte_balise": "PENGUING CLASSICS",
+      "bbox": [
+        3585.3,
+        2039.6,
+        3847.1,
+        2070.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor Dostoyevsky.",
+      "texte_balise": "Fyodor Dostoyevsky.",
+      "bbox": [
+        1734.8,
+        2045.7,
+        2100.1,
+        2082.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUIN CLASSIC",
+      "texte_balise": "PENGUIN CLASSIC",
+      "bbox": [
+        2477.5,
+        2057.9,
+        2720.9,
+        2076.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich Nietzsche",
+      "texte_balise": "Friedrich Nietzsche",
+      "bbox": [
+        2879.2,
+        2057.9,
+        3220.1,
+        2094.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES DICKENS",
+      "texte_balise": "CHARLES DICKENS",
+      "bbox": [
+        3591.4,
+        2075.7,
+        3841.0,
+        2112.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The text is composed of 13 chapters,",
+      "texte_balise": "The text is composed of 13 chapters,",
+      "bbox": [
+        596.5,
+        2088.0,
+        1107.9,
+        2124.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH NIETZSCHE",
+      "texte_balise": "FRIEDRICH NIETZSCHE",
+      "bbox": [
+        2447.0,
+        2088.0,
+        2757.5,
+        2118.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In this unflaggingly suspenseful story of",
+      "texte_balise": "In this unflaggingly suspenseful story of",
+      "bbox": [
+        4011.4,
+        2112.6,
+        4541.0,
+        2155.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Considered by many to be the first",
+      "texte_balise": "Considered by many to be the first",
+      "bbox": [
+        1734.8,
+        2124.8,
+        2215.7,
+        2161.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GREAT EXPECTATIONS",
+      "texte_balise": "GREAT EXPECTATIONS",
+      "bbox": [
+        3561.0,
+        2124.8,
+        3865.3,
+        2155.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "each of which is devoted to one aspect of",
+      "texte_balise": "each of which is devoted to one aspect of",
+      "bbox": [
+        596.5,
+        2130.9,
+        1168.7,
+        2167.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FY ODOR",
+      "texte_balise": "FY ODOR",
+      "bbox": [
+        1400.0,
+        2130.9,
+        1509.6,
+        2143.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Much of the work deals with ideas such",
+      "texte_balise": "Much of the work deals with ideas such",
+      "bbox": [
+        2879.2,
+        2143.1,
+        3427.0,
+        2174.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOSTOEVSKY",
+      "texte_balise": "DOSTOEVSKY",
+      "bbox": [
+        1369.6,
+        2155.3,
+        1540.0,
+        2167.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aspirations and moral redemption,",
+      "texte_balise": "aspirations and moral redemption,",
+      "bbox": [
+        4005.3,
+        2155.3,
+        4480.1,
+        2185.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZARATHUSTRA",
+      "texte_balise": "ZARATHUSTRA",
+      "bbox": [
+        2501.8,
+        2161.4,
+        2714.9,
+        2191.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "existentialist novel. It presents itself as",
+      "texte_balise": "existentialist novel. It presents itself as",
+      "bbox": [
+        1728.7,
+        2167.4,
+        2258.3,
+        2197.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warfare. It is commonly known to be the",
+      "texte_balise": "warfare. It is commonly known to be the",
+      "bbox": [
+        596.5,
+        2173.5,
+        1156.6,
+        2204.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "as the \"eternal recurrence of the same\",",
+      "texte_balise": "as the \"eternal recurrence of the same\",",
+      "bbox": [
+        2873.1,
+        2179.6,
+        3433.1,
+        2216.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "humble, orphaned Pip, a ward of his",
+      "texte_balise": "humble, orphaned Pip, a ward of his",
+      "bbox": [
+        4011.4,
+        2191.3,
+        4504.5,
+        2228.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "as the",
+      "texte_balise": "as the",
+      "bbox": [
+        2877.9,
+        2192.0,
+        2971.1,
+        2214.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "eternal recurrence of the same,",
+      "texte_balise": "eternal recurrence of the same,",
+      "bbox": [
+        2965.6,
+        2192.0,
+        3431.6,
+        2219.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "an excerpt from the rambling memoirs",
+      "texte_balise": "an excerpt from the rambling memoirs",
+      "bbox": [
+        1728.7,
+        2203.6,
+        2264.4,
+        2240.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "definitive work on military strategy and",
+      "texte_balise": "definitive work on military strategy and",
+      "bbox": [
+        596.5,
+        2209.8,
+        1138.3,
+        2246.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the parable on the \"death of God\", and",
+      "texte_balise": "the parable on the \"death of God\", and",
+      "bbox": [
+        2879.2,
+        2215.9,
+        3421.0,
+        2258.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "short-tempered older sister and her",
+      "texte_balise": "short-tempered older sister and her",
+      "bbox": [
+        4011.4,
+        2234.4,
+        4510.6,
+        2271.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of a bitter, isolated, unnamed narrator",
+      "texte_balise": "of a bitter, isolated, unnamed narrator",
+      "bbox": [
+        1734.8,
+        2246.6,
+        2258.3,
+        2277.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tactics of its time. It has had an influence",
+      "texte_balise": "tactics of its time. It has had an influence",
+      "bbox": [
+        596.5,
+        2252.7,
+        1156.6,
+        2283.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the \"prophecy\" of the Übermensch.",
+      "texte_balise": "the \"prophecy\" of the Übermensch.",
+      "bbox": [
+        2879.2,
+        2258.8,
+        3372.3,
+        2295.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the \"prophecy\" of the Ubermensch.",
+      "texte_balise": "the \"prophecy\" of the Ubermensch.",
+      "bbox": [
+        2877.9,
+        2263.3,
+        3365.8,
+        2301.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUN TZU",
+      "texte_balise": "SUN TZU",
+      "bbox": [
+        267.8,
+        2264.9,
+        389.6,
+        2289.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "husband, Joe, is apprenticed to the",
+      "texte_balise": "husband, Joe, is apprenticed to the",
+      "bbox": [
+        4011.4,
+        2270.9,
+        4486.2,
+        2307.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "who is a retired civil servant living in St.",
+      "texte_balise": "who is a retired civil servant living in St.",
+      "bbox": [
+        1728.7,
+        2283.1,
+        2276.6,
+        2325.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on Eastern and Western military thinking,",
+      "texte_balise": "on Eastern and Western military thinking,",
+      "bbox": [
+        590.5,
+        2289.2,
+        1162.6,
+        2331.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ART OF WAR",
+      "texte_balise": "THE ART OF WAR",
+      "bbox": [
+        176.5,
+        2301.4,
+        480.9,
+        2331.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dirty work of the forge but dares to",
+      "texte_balise": "dirty work of the forge but dares to",
+      "bbox": [
+        4011.4,
+        2313.1,
+        4510.6,
+        2350.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Petersburg.",
+      "texte_balise": "Petersburg.",
+      "bbox": [
+        1728.7,
+        2325.7,
+        1893.1,
+        2362.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "business tactics, legal strategy and beyond.",
+      "texte_balise": "business tactics, legal strategy and beyond.",
+      "bbox": [
+        590.5,
+        2331.5,
+        1174.8,
+        2368.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW ILLUSTRATED EDITION",
+      "texte_balise": "THE NEW ILLUSTRATED EDITION",
+      "bbox": [
+        169.6,
+        2344.3,
+        488.2,
+        2373.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW LUSTRATED EDITION",
+      "texte_balise": "THE NEW LUSTRATED EDITION",
+      "bbox": [
+        170.4,
+        2350.0,
+        487.0,
+        2362.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dream of becoming a gentleman. And,",
+      "texte_balise": "dream of becoming a gentleman. And,",
+      "bbox": [
+        4011.4,
+        2350.0,
+        4528.8,
+        2386.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "indeed, it seems as though that dream",
+      "texte_balise": "indeed, it seems as though that dream",
+      "bbox": [
+        4011.4,
+        2392.7,
+        4534.9,
+        2429.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "it",
+      "texte_balise": "it",
+      "bbox": [
+        252.2,
+        2400.4,
+        400.2,
+        2553.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES",
+      "texte_balise": "NOTES",
+      "bbox": [
+        1326.6,
+        2400.4,
+        1458.2,
+        2427.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Some of the major themes are: egoism,",
+      "texte_balise": "Some of the major themes are: egoism,",
+      "bbox": [
+        1728.7,
+        2404.9,
+        2270.5,
+        2441.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "is destined to come to pass - becau-",
+      "texte_balise": "is destined to come to pass - becau-",
+      "bbox": [
+        4011.4,
+        2434.8,
+        4528.8,
+        2465.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "existentialism, nihilism and free will.",
+      "texte_balise": "existentialism, nihilism and free will.",
+      "bbox": [
+        1728.7,
+        2447.1,
+        2221.8,
+        2477.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDERG",
+      "texte_balise": "UNDERG",
+      "bbox": [
+        1299.2,
+        2449.7,
+        1458.2,
+        2477.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDER",
+      "texte_balise": "UNDER",
+      "bbox": [
+        1296.6,
+        2453.6,
+        1430.5,
+        2471.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "se one day, under sudden and enigma-",
+      "texte_balise": "se one day, under sudden and enigma-",
+      "bbox": [
+        4007.2,
+        2477.1,
+        4533.4,
+        2510.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tic circumstances, he finds himself in",
+      "texte_balise": "tic circumstances, he finds himself in",
+      "bbox": [
+        4007.2,
+        2515.5,
+        4506.0,
+        2548.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "possession of \"great expectations.",
+      "texte_balise": "possession of \"great expectations.",
+      "bbox": [
+        4007.2,
+        2553.6,
+        4473.1,
+        2592.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Major themes: Exclusion and hope",
+      "texte_balise": "Major themes: Exclusion and hope",
+      "bbox": [
+        4007.2,
+        2591.7,
+        4484.1,
+        2631.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAMUEL B. GRIFFITH",
+      "texte_balise": "SAMUEL B. GRIFFITH",
+      "bbox": [
+        202.8,
+        2630.7,
+        449.5,
+        2647.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The old man and the sea byE.",
+      "texte_balise": "The old man and the sea byE.",
+      "bbox": [
+        4012.7,
+        2756.5,
+        4522.5,
+        2789.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote by Miguel de Cer-",
+      "texte_balise": "Don Quixote by Miguel de Cer-",
+      "bbox": [
+        2872.4,
+        2778.7,
+        3409.7,
+        2811.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hemingway",
+      "texte_balise": "Hemingway",
+      "bbox": [
+        4012.1,
+        2797.6,
+        4215.9,
+        2831.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERNEST HEMINGWAY",
+      "texte_balise": "ERNEST HEMINGWAY",
+      "bbox": [
+        3513.8,
+        2800.7,
+        3793.4,
+        2828.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vantes",
+      "texte_balise": "vantes",
+      "bbox": [
+        2872.3,
+        2816.6,
+        2987.7,
+        2845.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The story of a battle between an old,",
+      "texte_balise": "The story of a battle between an old,",
+      "bbox": [
+        4012.7,
+        2871.9,
+        4517.0,
+        2910.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Why read literature instead of self help books?",
+      "texte_balise": "Why read literature instead of self help books?",
+      "bbox": [
+        -0.2,
+        2888.2,
+        1118.5,
+        2954.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote has become so entranced",
+      "texte_balise": "Don Quixote has become so entranced",
+      "bbox": [
+        2872.4,
+        2899.2,
+        3415.1,
+        2926.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "experienced fisherman, Santiago, and a",
+      "texte_balise": "experienced fisherman, Santiago, and a",
+      "bbox": [
+        4007.2,
+        2915.8,
+        4538.9,
+        2948.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "reading tales of chivalry that he decides",
+      "texte_balise": "reading tales of chivalry that he decides",
+      "bbox": [
+        2867.0,
+        2937.3,
+        3409.7,
+        2976.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "large marlin. Major themes: The",
+      "texte_balise": "large marlin. Major themes: The",
+      "bbox": [
+        4012.7,
+        2954.2,
+        4445.7,
+        2987.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        3744.0,
+        2965.2,
+        3831.8,
+        3009.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to turn knight errant himself. In the",
+      "texte_balise": "to turn knight errant himself. In the",
+      "bbox": [
+        2867.0,
+        2976.1,
+        3360.3,
+        3009.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Honor in Struggle, Defeat & Death",
+      "texte_balise": "Honor in Struggle, Defeat & Death",
+      "bbox": [
+        4012.7,
+        2992.6,
+        4484.1,
+        3030.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OLD MAN",
+      "texte_balise": "OLD MAN",
+      "bbox": [
+        3700.1,
+        3014.3,
+        3881.1,
+        3053.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "company of his faithful squire, Sancho",
+      "texte_balise": "company of his faithful squire, Sancho",
+      "bbox": [
+        2867.0,
+        3014.5,
+        3382.3,
+        3052.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Most self help books are watered-down pop psychology intended for people who are not very",
+      "texte_balise": "Most self help books are watered-down pop psychology intended for people who are not very",
+      "bbox": [
+        0.0,
+        3030.8,
+        2258.5,
+        3091.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Panza, these exploits blossom in all",
+      "texte_balise": "Panza, these exploits blossom in all",
+      "bbox": [
+        2867.0,
+        3057.9,
+        3354.8,
+        3091.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        3749.3,
+        3068.7,
+        3832.0,
+        3102.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sorts of wonderful ways. While",
+      "texte_balise": "sorts of wonderful ways. While",
+      "bbox": [
+        2867.0,
+        3096.8,
+        3305.5,
+        3129.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "well educated and desperate to change their lives. Instead, literary fiction, enhances ours ability",
+      "texte_balise": "well educated and desperate to change their lives. Instead, literary fiction, enhances ours ability",
+      "bbox": [
+        -0.0,
+        3102.1,
+        2253.0,
+        3162.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SEA",
+      "texte_balise": "THE SEA",
+      "bbox": [
+        3705.6,
+        3118.1,
+        3875.7,
+        3152.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Quixote's fancy often leads him",
+      "texte_balise": "Quixote's fancy often leads him",
+      "bbox": [
+        2872.4,
+        3135.1,
+        3305.5,
+        3173.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to detect and understand other people's emotions (a crucial skill in navigating complex social",
+      "texte_balise": "to detect and understand other people's emotions (a crucial skill in navigating complex social",
+      "bbox": [
+        0.0,
+        3168.0,
+        2203.7,
+        3233.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "astray—he tilts at windmills, imagining",
+      "texte_balise": "astray—he tilts at windmills, imagining",
+      "bbox": [
+        2872.4,
+        3173.5,
+        3393.2,
+        3211.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "them to be giants-Sancho acquires",
+      "texte_balise": "them to be giants-Sancho acquires",
+      "bbox": [
+        2872.4,
+        3217.4,
+        3365.8,
+        3250.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "relationships), broadens our knowledge of the world and make us wiser, as reading can give us",
+      "texte_balise": "relationships), broadens our knowledge of the world and make us wiser, as reading can give us",
+      "bbox": [
+        0.0,
+        3239.3,
+        2242.0,
+        3305.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cunning and a certain sagacity.",
+      "texte_balise": "cunning and a certain sagacity.",
+      "bbox": [
+        2867.0,
+        3255.8,
+        3283.6,
+        3294.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CERVANTES",
+      "texte_balise": "CERVANTES",
+      "bbox": [
+        2516.1,
+        3283.2,
+        2669.6,
+        3310.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a base of experience on which to make other decisions.",
+      "texte_balise": "a base of experience on which to make other decisions.",
+      "bbox": [
+        0.0,
+        3305.1,
+        1332.1,
+        3371.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote",
+      "texte_balise": "Don Quixote",
+      "bbox": [
+        2527.1,
+        3332.1,
+        2658.7,
+        3360.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tl;dr: reading literature is both uselful an healthy, now stop being a faggot and pick a book.",
+      "texte_balise": "tl;dr: reading literature is both uselful an healthy, now stop being a faggot and pick a book.",
+      "bbox": [
+        -0.0,
+        3447.7,
+        2126.9,
+        3503.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

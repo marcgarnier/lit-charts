@@ -1,0 +1,971 @@
+{
+  "fichier": "18_Distributism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:42.631983+00:00",
+  "duree_s": 1.0,
+  "taille_origine": [
+    1080,
+    1525
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 87,
+  "lignes": [
+    {
+      "texte": "THE DISTRIBUTIST",
+      "texte_balise": "THE DISTRIBUTIST",
+      "bbox": [
+        208.5,
+        119.7,
+        747.4,
+        170.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HILAIRE BELLOC",
+      "texte_balise": "HILAIRE BELLOC",
+      "bbox": [
+        341.5,
+        214.9,
+        501.2,
+        235.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Outline of Sanity",
+      "texte_balise": "The Outline of Sanity",
+      "bbox": [
+        113.1,
+        216.9,
+        297.2,
+        239.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Essay on",
+      "texte_balise": "An Essay on",
+      "bbox": [
+        818.3,
+        243.8,
+        873.8,
+        254.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ECONOMIC EFFECTS",
+      "texte_balise": "THE ECONOMIC EFFECTS",
+      "bbox": [
+        760.7,
+        259.3,
+        931.4,
+        272.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE REFORMATION",
+      "texte_balise": "OF THE REFORMATION",
+      "bbox": [
+        767.3,
+        276.8,
+        922.5,
+        290.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ECONOMICS",
+      "texte_balise": "ECONOMICS",
+      "bbox": [
+        565.5,
+        279.3,
+        632.0,
+        290.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for Holen",
+      "texte_balise": "for Holen",
+      "bbox": [
+        561.1,
+        292.6,
+        632.0,
+        314.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY HILARE BELLOC",
+      "texte_balise": "BY HILARE BELLOC",
+      "bbox": [
+        565.5,
+        310.3,
+        632.0,
+        321.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forrawnd by Dr. Alberte",
+      "texte_balise": "Forrawnd by Dr. Alberte",
+      "bbox": [
+        572.2,
+        336.8,
+        667.5,
+        348.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIEF OUTE",
+      "texte_balise": "BRIEF OUTE",
+      "bbox": [
+        563.3,
+        349.8,
+        609.9,
+        365.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANESSAY ON THE",
+      "texte_balise": "ANESSAY ON THE",
+      "bbox": [
+        381.4,
+        403.4,
+        463.5,
+        414.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RESTORATION",
+      "texte_balise": "RESTORATION",
+      "bbox": [
+        339.3,
+        416.7,
+        503.4,
+        438.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROPERTY",
+      "texte_balise": "PROPERTY",
+      "bbox": [
+        361.4,
+        447.3,
+        481.3,
+        472.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George O' Brien",
+      "texte_balise": "George O' Brien",
+      "bbox": [
+        805.0,
+        465.5,
+        889.3,
+        476.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G. K. Chesterton",
+      "texte_balise": "G. K. Chesterton",
+      "bbox": [
+        135.3,
+        476.6,
+        277.2,
+        496.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De. EdwandA. MePhad",
+      "texte_balise": "De. EdwandA. MePhad",
+      "bbox": [
+        809.4,
+        485.4,
+        882.6,
+        494.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BEYOND",
+      "texte_balise": "BEYOND",
+      "bbox": [
+        326.0,
+        529.6,
+        465.7,
+        556.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STATEMENT",
+      "texte_balise": "STATEMENT",
+      "bbox": [
+        470.1,
+        538.6,
+        512.3,
+        547.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "capitalism",
+      "texte_balise": "capitalism",
+      "bbox": [
+        330.4,
+        556.4,
+        423.6,
+        576.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DED IDEAL",
+      "texte_balise": "DED IDEAL",
+      "bbox": [
+        474.6,
+        556.4,
+        510.1,
+        565.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ethics",
+      "texte_balise": "Ethics",
+      "bbox": [
+        117.5,
+        558.6,
+        268.3,
+        616.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& socialism",
+      "texte_balise": "& socialism",
+      "bbox": [
+        361.5,
+        569.5,
+        461.3,
+        589.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOBLASLLAN",
+      "texte_balise": "TOBLASLLAN",
+      "bbox": [
+        470.1,
+        580.7,
+        514.5,
+        585.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        157.5,
+        620.6,
+        248.4,
+        649.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DISTRIBUTIST",
+      "texte_balise": "DISTRIBUTIST",
+      "bbox": [
+        556.6,
+        625.1,
+        716.3,
+        649.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DISTRIBUTIST",
+      "texte_balise": "DISTRIBUTIST",
+      "bbox": [
+        767.3,
+        629.5,
+        931.4,
+        653.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERSPECTIVES",
+      "texte_balise": "PERSPECTIVES",
+      "bbox": [
+        554.4,
+        649.5,
+        716.3,
+        673.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERSPECTIVES",
+      "texte_balise": "PERSPECTIVES",
+      "bbox": [
+        769.5,
+        651.7,
+        933.6,
+        676.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        179.6,
+        658.3,
+        226.2,
+        680.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Volume 11",
+      "texte_balise": "Volume 11",
+      "bbox": [
+        831.6,
+        675.6,
+        871.5,
+        687.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "National",
+      "texte_balise": "National",
+      "bbox": [
+        115.2,
+        680.0,
+        228.5,
+        705.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays on the Economics of",
+      "texte_balise": "Essays on the Economics of",
+      "bbox": [
+        565.5,
+        684.6,
+        703.0,
+        698.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays on the Economics of",
+      "texte_balise": "Essays on the Economics of",
+      "bbox": [
+        785.1,
+        689.4,
+        918.1,
+        700.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Justice and Charity",
+      "texte_balise": "Justice and Charity",
+      "bbox": [
+        589.9,
+        698.2,
+        680.8,
+        709.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Justice and Charity",
+      "texte_balise": "Justice and Charity",
+      "bbox": [
+        805.0,
+        700.4,
+        895.9,
+        713.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Economy",
+      "texte_balise": "Economy",
+      "bbox": [
+        166.2,
+        705.7,
+        293.0,
+        728.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hey or ten Sonia t Or Mermen",
+      "texte_balise": "Hey or ten Sonia t Or Mermen",
+      "bbox": [
+        780.6,
+        718.2,
+        922.5,
+        729.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Fr. Heinrich Pesch, S.J.",
+      "texte_balise": "Fr. Heinrich Pesch, S.J.",
+      "bbox": [
+        117.5,
+        760.3,
+        290.5,
+        775.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONSERVATVE /II BOOK CLUE Selection",
+      "texte_balise": "CONSERVATVE /II BOOK CLUE Selection",
+      "bbox": [
+        141.9,
+        802.4,
+        277.2,
+        813.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amintore Fanfani",
+      "texte_balise": "Amintore Fanfani",
+      "bbox": [
+        144.1,
+        857.4,
+        255.0,
+        871.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        337.1,
+        862.2,
+        392.5,
+        888.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Gauntlet",
+      "texte_balise": "The Gauntlet",
+      "bbox": [
+        780.6,
+        875.4,
+        922.5,
+        897.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLEE TO THE FIELDS",
+      "texte_balise": "FLEE TO THE FIELDS",
+      "bbox": [
+        550.0,
+        884.4,
+        731.8,
+        904.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Church",
+      "texte_balise": "Church",
+      "bbox": [
+        338.7,
+        886.9,
+        439.7,
+        921.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fank and Works of me",
+      "texte_balise": "The Fank and Works of me",
+      "bbox": [
+        601.0,
+        913.2,
+        680.8,
+        919.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the",
+      "texte_balise": "and the",
+      "bbox": [
+        337.0,
+        917.2,
+        439.2,
+        944.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catholic Land Movement",
+      "texte_balise": "Catholic Land Movement",
+      "bbox": [
+        565.5,
+        922.1,
+        718.5,
+        937.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Challenge",
+      "texte_balise": "A Challenge",
+      "bbox": [
+        849.3,
+        930.5,
+        935.9,
+        946.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lands",
+      "texte_balise": "Lands",
+      "bbox": [
+        339.3,
+        944.3,
+        419.1,
+        970.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12o the Myth",
+      "texte_balise": "12o the Myth",
+      "bbox": [
+        838.3,
+        948.4,
+        933.6,
+        962.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or Progress",
+      "texte_balise": "or Progress",
+      "bbox": [
+        849.4,
+        962.0,
+        933.6,
+        977.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "With an eriginal Proface by Milaine Belle",
+      "texte_balise": "With an eriginal Proface by Milaine Belle",
+      "bbox": [
+        578.8,
+        964.2,
+        703.0,
+        975.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catholicism,",
+      "texte_balise": "Catholicism,",
+      "bbox": [
+        146.3,
+        1023.6,
+        252.9,
+        1046.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protestantism,",
+      "texte_balise": "Protestantism,",
+      "bbox": [
+        139.3,
+        1044.1,
+        259.8,
+        1064.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        184.1,
+        1059.5,
+        215.1,
+        1077.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capitalism",
+      "texte_balise": "Capitalism",
+      "bbox": [
+        153.0,
+        1075.0,
+        243.9,
+        1095.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arthur J. Penty",
+      "texte_balise": "Arthur J. Penty",
+      "bbox": [
+        802.8,
+        1083.9,
+        900.4,
+        1101.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fr. Vincent",
+      "texte_balise": "Fr. Vincent",
+      "bbox": [
+        401.3,
+        1085.7,
+        512.4,
+        1108.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preface by",
+      "texte_balise": "Preface by",
+      "bbox": [
+        339.3,
+        1092.3,
+        383.7,
+        1106.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A First Anthology",
+      "texte_balise": "A First Anthology",
+      "bbox": [
+        811.7,
+        1101.3,
+        889.3,
+        1115.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Fahey",
+      "texte_balise": "William Fahey",
+      "bbox": [
+        332.6,
+        1106.1,
+        390.3,
+        1117.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McNabb",
+      "texte_balise": "McNabb",
+      "bbox": [
+        403.6,
+        1108.1,
+        490.2,
+        1130.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fondly De. Charles MA. Clark",
+      "texte_balise": "Fondly De. Charles MA. Clark",
+      "bbox": [
+        141.9,
+        1112.3,
+        255.0,
+        1124.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduced by Dr. Peter Chojnoreski",
+      "texte_balise": "Introduced by Dr. Peter Chojnoreski",
+      "bbox": [
+        782.8,
+        1119.3,
+        920.3,
+        1130.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "eword by Roger McCain, Ph.D. • Introduced by Acthony Cooney",
+      "texte_balise": "eword by Roger McCain, Ph.D. • Introduced by Acthony Cooney",
+      "bbox": [
+        117.5,
+        1174.8,
+        301.6,
+        1186.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEAN OUSSET",
+      "texte_balise": "JEAN OUSSET",
+      "bbox": [
+        791.7,
+        1183.2,
+        911.5,
+        1199.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PARTY SYSTEM",
+      "texte_balise": "THE PARTY SYSTEM",
+      "bbox": [
+        343.7,
+        1188.1,
+        503.4,
+        1206.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G. R.S, TAYLOR'S",
+      "texte_balise": "G. R.S, TAYLOR'S",
+      "bbox": [
+        130.8,
+        1203.2,
+        286.1,
+        1223.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HILAIRE BELLOC",
+      "texte_balise": "HILAIRE BELLOC",
+      "bbox": [
+        359.3,
+        1223.2,
+        487.9,
+        1237.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ACTION",
+      "texte_balise": "ACTION",
+      "bbox": [
+        771.7,
+        1223.2,
+        929.3,
+        1255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUILD",
+      "texte_balise": "GUILD",
+      "bbox": [
+        133.1,
+        1230.2,
+        259.5,
+        1279.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "&",
+      "texte_balise": "&",
+      "bbox": [
+        416.9,
+        1234.6,
+        430.2,
+        1247.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CECIL CHESTERTON",
+      "texte_balise": "I CECIL CHESTERTON",
+      "bbox": [
+        330.4,
+        1245.7,
+        499.0,
+        1259.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN SENTOR",
+      "texte_balise": "JOHN SENTOR",
+      "bbox": [
+        563.3,
+        1252.2,
+        718.6,
+        1281.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STATE",
+      "texte_balise": "STATE",
+      "bbox": [
+        161.8,
+        1263.1,
+        283.9,
+        1292.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the restoration of",
+      "texte_balise": "the restoration of",
+      "bbox": [
+        609.9,
+        1283.2,
+        716.3,
+        1297.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIAN",
+      "texte_balise": "CHRISTIAN",
+      "bbox": [
+        609.9,
+        1296.7,
+        716.3,
+        1312.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CULTURE",
+      "texte_balise": "CULTURE",
+      "bbox": [
+        609.8,
+        1314.2,
+        716.4,
+        1334.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "forewerd by ANDREW SENIOR",
+      "texte_balise": "forewerd by ANDREW SENIOR",
+      "bbox": [
+        601.0,
+        1334.1,
+        716.3,
+        1345.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "introductien by Or. DAVID ALLEN WHITE",
+      "texte_balise": "introductien by Or. DAVID ALLEN WHITE",
+      "bbox": [
+        567.7,
+        1345.1,
+        716.3,
+        1359.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A MANUAL FOR THE",
+      "texte_balise": "A MANUAL FOR THE",
+      "bbox": [
+        782.8,
+        1396.1,
+        918.1,
+        1414.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RECONSTRUCTION OF",
+      "texte_balise": "RECONSTRUCTION OF",
+      "bbox": [
+        771.7,
+        1412.0,
+        924.8,
+        1432.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\\CHRISTENDOM",
+      "texte_balise": "\\CHRISTENDOM",
+      "bbox": [
+        791.7,
+        1427.5,
+        902.6,
+        1438.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Toravd by CONGRESSMAN RON PAUL",
+      "texte_balise": "Toravd by CONGRESSMAN RON PAUL",
+      "bbox": [
+        350.4,
+        1431.9,
+        496.8,
+        1443.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dardection ly PRINCE SPORZA RUSPOLI",
+      "texte_balise": "Dardection ly PRINCE SPORZA RUSPOLI",
+      "bbox": [
+        350.4,
+        1449.6,
+        499.0,
+        1461.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ITS PRINCIPLES AND POSSIBILITIES",
+      "texte_balise": "ITS PRINCIPLES AND POSSIBILITIES",
+      "bbox": [
+        117.5,
+        1451.9,
+        299.4,
+        1463.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

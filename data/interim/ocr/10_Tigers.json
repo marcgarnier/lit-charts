@@ -1,0 +1,608 @@
+{
+  "fichier": "10_Tigers.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:45.981335+00:00",
+  "duree_s": 0.6,
+  "taille_origine": [
+    1500,
+    1100
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 54,
+  "lignes": [
+    {
+      "texte": "ALFREDO",
+      "texte_balise": "ALFREDO",
+      "bbox": [
+        534.2,
+        91.5,
+        647.5,
+        111.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TIGER",
+      "texte_balise": "A TIGER",
+      "bbox": [
+        701.7,
+        96.8,
+        837.5,
+        134.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SONGS",
+      "texte_balise": "SONGS",
+      "bbox": [
+        63.1,
+        99.9,
+        229.0,
+        155.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ESTER",
+      "texte_balise": "ESTER",
+      "bbox": [
+        630.1,
+        106.7,
+        647.5,
+        187.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE JUNGLE BOOK",
+      "texte_balise": "THE JUNGLE BOOK",
+      "bbox": [
+        281.2,
+        117.6,
+        423.0,
+        142.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR",
+      "texte_balise": "FOR",
+      "bbox": [
+        730.4,
+        132.9,
+        808.9,
+        167.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MALOUDI",
+      "texte_balise": "MALOUDI",
+      "bbox": [
+        693.3,
+        165.4,
+        846.0,
+        200.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EXPERIENCE",
+      "texte_balise": "EXPERIENCE",
+      "bbox": [
+        52.3,
+        200.4,
+        233.3,
+        228.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STAR'SI",
+      "texte_balise": "STAR'SI",
+      "bbox": [
+        473.1,
+        237.4,
+        614.8,
+        285.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RATION",
+      "texte_balise": "RATION",
+      "bbox": [
+        477.5,
+        302.8,
+        654.1,
+        368.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "/Sit/ guide",
+      "texte_balise": "/Sit/ guide",
+      "bbox": [
+        1146.3,
+        320.7,
+        1339.1,
+        380.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RUDYARD KIPLING",
+      "texte_balise": "RUDYARD KIPLING",
+      "bbox": [
+        303.1,
+        326.7,
+        401.2,
+        340.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A novEl By",
+      "texte_balise": "A novEl By",
+      "bbox": [
+        728.1,
+        337.1,
+        809.0,
+        355.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "R.K. MARAYAN",
+      "texte_balise": "R.K. MARAYAN",
+      "bbox": [
+        704.1,
+        352.3,
+        835.1,
+        379.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Autior & Printer W Blake",
+      "texte_balise": "The Autior & Printer W Blake",
+      "bbox": [
+        67.6,
+        372.0,
+        220.2,
+        388.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "to",
+      "texte_balise": "to",
+      "bbox": [
+        1216.6,
+        398.6,
+        1249.3,
+        420.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BEAITIGERS",
+      "texte_balise": "BEAITIGERS",
+      "bbox": [
+        52.3,
+        407.3,
+        224.6,
+        490.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        715.1,
+        407.3,
+        756.5,
+        422.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK",
+      "texte_balise": "FRANK",
+      "bbox": [
+        802.3,
+        409.4,
+        848.1,
+        420.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LADY STOCKTON",
+      "texte_balise": "LADY STOCKTON",
+      "bbox": [
+        684.6,
+        422.6,
+        861.2,
+        455.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Liféòf Pi",
+      "texte_balise": "Liféòf Pi",
+      "bbox": [
+        475.3,
+        435.6,
+        645.3,
+        490.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Tiger Literuture",
+      "texte_balise": "Tiger Literuture",
+      "bbox": [
+        1092.3,
+        437.8,
+        1397.5,
+        499.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OR THE",
+      "texte_balise": "OR THE",
+      "bbox": [
+        699.8,
+        457.3,
+        769.6,
+        475.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TIGER,",
+      "texte_balise": "TIGER,",
+      "bbox": [
+        677.8,
+        474.0,
+        793.8,
+        506.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "YANN MI",
+      "texte_balise": "YANN MI",
+      "bbox": [
+        481.8,
+        479.0,
+        534.2,
+        490.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JORGE LUIS BORGES",
+      "texte_balise": "JORGE LUIS BORGES",
+      "bbox": [
+        69.8,
+        496.6,
+        209.3,
+        512.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        721.7,
+        507.5,
+        750.0,
+        520.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTHER STORIES",
+      "texte_balise": "OTHER STORIES",
+      "bbox": [
+        689.0,
+        516.0,
+        791.4,
+        529.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "v 1.1",
+      "texte_balise": "v 1.1",
+      "bbox": [
+        1353.9,
+        570.7,
+        1397.5,
+        584.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ALFRED ASSOLANT",
+      "texte_balise": "ALFRED ASSOLANT",
+      "bbox": [
+        261.6,
+        614.0,
+        436.0,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les aventures",
+      "texte_balise": "Les aventures",
+      "bbox": [
+        261.6,
+        633.9,
+        364.1,
+        647.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "du Capitaine Corcoran",
+      "texte_balise": "du Capitaine Corcoran",
+      "bbox": [
+        261.6,
+        649.0,
+        416.4,
+        660.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A terrific book... fresh, original, smart,",
+      "texte_balise": "\"A terrific book... fresh, original, smart,",
+      "bbox": [
+        484.0,
+        657.8,
+        647.5,
+        671.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "volune",
+      "texte_balise": "volune",
+      "bbox": [
+        261.6,
+        664.4,
+        296.5,
+        668.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EDITIONS JOELLE LOSFELD",
+      "texte_balise": "EDITIONS JOELLE LOSFELD",
+      "bbox": [
+        259.4,
+        681.8,
+        446.9,
+        693.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Richad",
+      "texte_balise": "Richad",
+      "bbox": [
+        257.3,
+        718.8,
+        446.9,
+        755.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Brautigan",
+      "texte_balise": "Brautigan",
+      "bbox": [
+        258.0,
+        752.0,
+        450.3,
+        798.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "in Watermelon",
+      "texte_balise": "in Watermelon",
+      "bbox": [
+        270.3,
+        808.0,
+        440.4,
+        832.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HODbES",
+      "texte_balise": "HODbES",
+      "bbox": [
+        1022.5,
+        816.7,
+        1092.3,
+        838.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Cer Disneye",
+      "texte_balise": "Cer Disneye",
+      "bbox": [
+        1367.0,
+        819.0,
+        1419.3,
+        832.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Winnie the Pooh !",
+      "texte_balise": "Winnie the Pooh !",
+      "bbox": [
+        1329.9,
+        832.0,
+        1471.7,
+        852.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Sugar",
+      "texte_balise": "Sugar",
+      "bbox": [
+        348.8,
+        832.1,
+        438.2,
+        864.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gerontion",
+      "texte_balise": "Gerontion",
+      "bbox": [
+        87.0,
+        837.9,
+        196.4,
+        869.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "and Tigger too",
+      "texte_balise": "and Tigger too",
+      "bbox": [
+        1340.8,
+        849.1,
+        1445.6,
+        869.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Tigers in the Snow",
+      "texte_balise": "Tigers in the Snow",
+      "bbox": [
+        510.2,
+        853.9,
+        617.0,
+        869.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIDE THE TIGER",
+      "texte_balise": "RIDE THE TIGER",
+      "bbox": [
+        673.7,
+        912.7,
+        863.4,
+        943.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "love",
+      "texte_balise": "love",
+      "bbox": [
+        1179.5,
+        945.3,
+        1268.9,
+        993.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A Survival Manual",
+      "texte_balise": "A Survival Manual",
+      "bbox": [
+        728.2,
+        949.7,
+        819.8,
+        961.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETER MATTHIESSEN",
+      "texte_balise": "PETER MATTHIESSEN",
+      "bbox": [
+        468.7,
+        951.9,
+        654.1,
+        965.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "for the Aristocrats of the Soul",
+      "texte_balise": "for the Aristocrats of the Soul",
+      "bbox": [
+        697.7,
+        962.8,
+        848.1,
+        974.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by T.S. Eliot",
+      "texte_balise": "by T.S. Eliot",
+      "bbox": [
+        82.7,
+        979.5,
+        198.5,
+        1004.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TULIUS EVOLA",
+      "texte_balise": "TULIUS EVOLA",
+      "bbox": [
+        712.9,
+        982.0,
+        824.1,
+        993.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MAURICE HORNOCKER",
+      "texte_balise": "MAURICE HORNOCKER",
+      "bbox": [
+        470.9,
+        988.9,
+        654.1,
+        1002.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "very felpfultigers",
+      "texte_balise": "very felpfultigers",
+      "bbox": [
+        351.0,
+        995.0,
+        444.8,
+        1009.0
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

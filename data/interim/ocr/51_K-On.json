@@ -1,0 +1,498 @@
+{
+  "fichier": "51_K-On.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:20.112130+00:00",
+  "duree_s": 0.3,
+  "taille_origine": [
+    720,
+    556
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 44,
+  "lignes": [
+    {
+      "texte": "AN INTRODUCTION TO: K-ON!",
+      "texte_balise": "AN INTRODUCTION TO: K-ON!",
+      "bbox": [
+        9.6,
+        3.2,
+        636.4,
+        112.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended readings:",
+      "texte_balise": "Recommended readings:",
+      "bbox": [
+        202.0,
+        106.0,
+        488.0,
+        132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of",
+      "texte_balise": "The Book of",
+      "bbox": [
+        158.0,
+        162.0,
+        224.0,
+        174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEGEL'S",
+      "texte_balise": "HEGEL'S",
+      "bbox": [
+        13.9,
+        169.7,
+        96.1,
+        190.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Five Rings",
+      "texte_balise": "Five Rings",
+      "bbox": [
+        158.0,
+        176.0,
+        220.0,
+        188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phenomenology",
+      "texte_balise": "Phenomenology",
+      "bbox": [
+        16.0,
+        190.0,
+        96.0,
+        202.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of'Spirit",
+      "texte_balise": "of'Spirit",
+      "bbox": [
+        14.0,
+        198.0,
+        60.0,
+        212.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO GATTERSS GATE",
+      "texte_balise": "TO GATTERSS GATE",
+      "bbox": [
+        326.0,
+        232.0,
+        386.0,
+        242.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Phenomenology of",
+      "texte_balise": "Phenomenology of",
+      "bbox": [
+        10.0,
+        296.0,
+        94.0,
+        308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of Five Rings",
+      "texte_balise": "The Book of Five Rings",
+      "bbox": [
+        152.0,
+        296.0,
+        254.0,
+        308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Gateless Gate",
+      "texte_balise": "The Gateless Gate",
+      "bbox": [
+        310.0,
+        296.0,
+        392.0,
+        306.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thus Spoke Zarathustra",
+      "texte_balise": "Thus Spoke Zarathustra",
+      "bbox": [
+        458.0,
+        296.0,
+        564.0,
+        306.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ethics",
+      "texte_balise": "Ethics",
+      "bbox": [
+        612.0,
+        296.0,
+        642.0,
+        306.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spirit",
+      "texte_balise": "Spirit",
+      "bbox": [
+        10.0,
+        310.0,
+        36.0,
+        322.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G. W. F. Hegel",
+      "texte_balise": "G. W. F. Hegel",
+      "bbox": [
+        9.9,
+        323.6,
+        72.1,
+        336.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Miyamoto Musashi",
+      "texte_balise": "Miyamoto Musashi",
+      "bbox": [
+        152.0,
+        324.0,
+        238.0,
+        336.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mumon",
+      "texte_balise": "Mumon",
+      "bbox": [
+        310.0,
+        324.0,
+        346.0,
+        334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich Nietzsche",
+      "texte_balise": "Friedrich Nietzsche",
+      "bbox": [
+        458.0,
+        324.0,
+        544.0,
+        334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Benedict de Spinoza",
+      "texte_balise": "Benedict de Spinoza",
+      "bbox": [
+        612.0,
+        324.0,
+        702.0,
+        334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AION",
+      "texte_balise": "AION",
+      "bbox": [
+        482.0,
+        360.0,
+        520.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUFI POETS",
+      "texte_balise": "SUFI POETS",
+      "bbox": [
+        328.0,
+        364.0,
+        390.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complete Mantrated",
+      "texte_balise": "Complete Mantrated",
+      "bbox": [
+        618.0,
+        370.0,
+        696.0,
+        382.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OR THE ELEVENTH CENTURY",
+      "texte_balise": "OR THE ELEVENTH CENTURY",
+      "bbox": [
+        322.0,
+        372.0,
+        396.0,
+        384.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roenches nos the",
+      "texte_balise": "Roenches nos the",
+      "bbox": [
+        478.0,
+        374.0,
+        526.0,
+        382.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Messenko if sar",
+      "texte_balise": "Messenko if sar",
+      "bbox": [
+        468.0,
+        380.0,
+        538.0,
+        390.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Kama Sutra",
+      "texte_balise": "Kama Sutra",
+      "bbox": [
+        616.0,
+        382.0,
+        698.0,
+        398.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        156.0,
+        410.0,
+        236.0,
+        438.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or book of changes",
+      "texte_balise": "or book of changes",
+      "bbox": [
+        164.0,
+        438.0,
+        230.0,
+        448.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Socil Elion",
+      "texte_balise": "Socil Elion",
+      "bbox": [
+        482.0,
+        470.0,
+        522.0,
+        478.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "C. G. JUNG",
+      "texte_balise": "C. G. JUNG",
+      "bbox": [
+        480.0,
+        476.0,
+        526.0,
+        488.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sufi Poets of the",
+      "texte_balise": "Sufi Poets of the",
+      "bbox": [
+        312.0,
+        494.0,
+        386.0,
+        504.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nagarjuna on the Six",
+      "texte_balise": "Nagarjuna on the Six",
+      "bbox": [
+        10.0,
+        498.0,
+        104.0,
+        510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Ching or Book of",
+      "texte_balise": "1 Ching or Book of",
+      "bbox": [
+        150.0,
+        498.0,
+        232.0,
+        510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aion",
+      "texte_balise": "Aion",
+      "bbox": [
+        456.0,
+        498.0,
+        482.0,
+        508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete",
+      "texte_balise": "The Complete",
+      "bbox": [
+        610.0,
+        498.0,
+        674.0,
+        508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eleventh Century",
+      "texte_balise": "Eleventh Century",
+      "bbox": [
+        312.0,
+        508.0,
+        388.0,
+        518.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Illustrated Kama Sutra",
+      "texte_balise": "Illustrated Kama Sutra",
+      "bbox": [
+        610.0,
+        510.0,
+        710.0,
+        522.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Changes",
+      "texte_balise": "Changes",
+      "bbox": [
+        152.0,
+        511.9,
+        192.0,
+        524.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Perfections",
+      "texte_balise": "Perfections",
+      "bbox": [
+        10.0,
+        512.0,
+        64.0,
+        522.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ibn Sina",
+      "texte_balise": "Ibn Sina",
+      "bbox": [
+        312.0,
+        522.0,
+        350.0,
+        532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C.G. Jung",
+      "texte_balise": "C.G. Jung",
+      "bbox": [
+        456.0,
+        523.9,
+        502.0,
+        536.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mallanaga Vatsyayana",
+      "texte_balise": "Mallanaga Vatsyayana",
+      "bbox": [
+        610.0,
+        524.0,
+        712.0,
+        536.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arya Nagarjuna",
+      "texte_balise": "Arya Nagarjuna",
+      "bbox": [
+        10.0,
+        526.0,
+        80.0,
+        538.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Wilhelm",
+      "texte_balise": "Richard Wilhelm",
+      "bbox": [
+        152.0,
+        526.0,
+        224.0,
+        536.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

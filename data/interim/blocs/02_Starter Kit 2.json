@@ -1,0 +1,480 @@
+{
+  "fichier": "02_Starter Kit 2.jpeg",
+  "date": "2026-07-21T19:28:36.305285+00:00",
+  "taille_origine": [
+    483,
+    960
+  ],
+  "hauteur_ligne_mediane": 16.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 25,
+  "nb_noeuds": 31,
+  "tiers": [],
+  "intitules_isoles": [
+    "the CATCHER",
+    "Kurt",
+    "Vonnegui,",
+    "The GREAT",
+    "Hesse",
+    "Siddhartha",
+    "Lalita"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        141.7,
+        12.0,
+        343.3,
+        40.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/lit/ Starter Kit",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        365.1,
+        51.3,
+        481.1,
+        94.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "the CATCHER",
+          "auteur": "in the RYE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        133.7,
+        90.0,
+        185.6,
+        100.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE STRANGER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        269.4,
+        130.0,
+        359.3,
+        192.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NOTES",
+          "auteur": "FROM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.0,
+        162.0,
+        117.8,
+        182.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE ODYSSEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -1.0,
+        206.0,
+        119.8,
+        265.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ROBERT FAGLES",
+          "auteur": "THE CRYING OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        363.2,
+        206.0,
+        481.0,
+        218.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "a novel by J.D. SALINGER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        123.5,
+        316.0,
+        239.6,
+        478.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Kurt",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Vonnegui,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Slaughter.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "House",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Five",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DUBLINERS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JAMES JOYCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        271.3,
+        349.9,
+        333.4,
+        374.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Death",
+          "auteur": "of Ivan llych",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        387.2,
+        356.0,
+        461.0,
+        394.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE PICTURE",
+          "auteur": "OF DORIAN GRAY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        0.0,
+        384.0,
+        117.8,
+        400.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THOMAS PYNCHON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        373.2,
+        414.0,
+        475.0,
+        456.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The GREAT",
+          "auteur": "GATSBY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.5,
+        440.0,
+        345.3,
+        454.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Metamorphionis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.0,
+        504.0,
+        107.8,
+        514.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILLIAM FAULKNER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        371.2,
+        584.0,
+        479.0,
+        596.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "F-SCOTT FITZGERALD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        253.3,
+        602.0,
+        355.4,
+        644.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BLOOD",
+          "auteur": "MERIDIAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        401.2,
+        652.0,
+        449.1,
+        670.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "STONER",
+          "auteur": "TONN MILLIAMS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        121.7,
+        654.0,
+        235.5,
+        716.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Hermann",
+          "auteur": "Hesse",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.9,
+        732.0,
+        79.8,
+        752.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lalita",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        277.4,
+        748.0,
+        331.3,
+        758.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CRUCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        363.2,
+        786.0,
+        481.0,
+        802.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GRAPES -WRATH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5.6,
+        788.0,
+        116.1,
+        839.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TRE CLASSIC BESTSELLER",
+          "auteur": "CATCH-22",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        163.7,
+        830.0,
+        203.6,
+        834.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CARRITI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        133.7,
+        874.0,
+        229.5,
+        890.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "USE BONDRED TAX",
+          "auteur": "OF SOLITUDE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        7.9,
+        915.8,
+        113.8,
+        944.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOSEPH HELLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+{
+  "fichier": "06_Gothic.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:40.364287+00:00",
+  "duree_s": 1.7,
+  "taille_origine": [
+    833,
+    3980
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 136,
+  "lignes": [
+    {
+      "texte": "Gothic",
+      "texte_balise": "Gothic",
+      "bbox": [
+        375.5,
+        40.0,
+        459.4,
+        65.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAMES TITHE",
+      "texte_balise": "SAMES TITHE",
+      "bbox": [
+        641.2,
+        123.9,
+        701.2,
+        133.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANN RADCLIFFE",
+      "texte_balise": "ANN RADCLIFFE",
+      "bbox": [
+        611.3,
+        139.9,
+        729.1,
+        151.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Castles of",
+      "texte_balise": "The Castles of",
+      "bbox": [
+        629.2,
+        157.9,
+        707.2,
+        169.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Athlin and Dunbayne",
+      "texte_balise": "Athlin and Dunbayne",
+      "bbox": [
+        609.3,
+        171.8,
+        729.1,
+        187.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Becklord",
+      "texte_balise": "William Becklord",
+      "bbox": [
+        351.6,
+        283.7,
+        425.5,
+        293.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vathek",
+      "texte_balise": "Vathek",
+      "bbox": [
+        349.6,
+        293.7,
+        383.5,
+        303.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Horace Walpole",
+      "texte_balise": "Horace Walpole",
+      "bbox": [
+        97.9,
+        305.7,
+        183.8,
+        317.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Castle of Otranto",
+      "texte_balise": "The Castle of Otranto",
+      "bbox": [
+        97.9,
+        317.7,
+        211.7,
+        327.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Castle of Otranto",
+      "texte_balise": "The Castle of Otranto",
+      "bbox": [
+        93.9,
+        389.7,
+        247.7,
+        403.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vathek",
+      "texte_balise": "Vathek",
+      "bbox": [
+        393.5,
+        389.7,
+        447.5,
+        405.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Castles of Athlin and Dunbayne",
+      "texte_balise": "The Castles of Athlin and Dunbayne",
+      "bbox": [
+        545.3,
+        389.7,
+        799.0,
+        405.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        623.3,
+        451.6,
+        649.2,
+        463.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CASTLE OF",
+      "texte_balise": "CASTLE OF",
+      "bbox": [
+        607.3,
+        465.6,
+        663.2,
+        475.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOLFENBACH",
+      "texte_balise": "WOLFENBACH",
+      "bbox": [
+        599.3,
+        475.6,
+        673.2,
+        487.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELIZA PARSONS",
+      "texte_balise": "ELIZA PARSONS",
+      "bbox": [
+        609.3,
+        497.6,
+        663.2,
+        505.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ann Radcliffe",
+      "texte_balise": "Ann Radcliffe",
+      "bbox": [
+        349.6,
+        619.4,
+        407.5,
+        629.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ann Radcliffe",
+      "texte_balise": "Ann Radcliffe",
+      "bbox": [
+        99.9,
+        625.4,
+        169.8,
+        637.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Romance of the Forest",
+      "texte_balise": "The Romance of the Forest",
+      "bbox": [
+        347.6,
+        631.4,
+        459.4,
+        639.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Sicilian Romance",
+      "texte_balise": "A Sicilian Romance",
+      "bbox": [
+        99.9,
+        637.4,
+        197.8,
+        647.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hore Long bevel",
+      "texte_balise": "hore Long bevel",
+      "bbox": [
+        643.2,
+        665.4,
+        701.2,
+        675.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Sicilian Romance",
+      "texte_balise": "A Sicilian Romance",
+      "bbox": [
+        97.9,
+        723.4,
+        233.7,
+        739.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Romance of The Forest",
+      "texte_balise": "The Romance of The Forest",
+      "bbox": [
+        321.6,
+        723.4,
+        515.4,
+        739.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Castle of Wolfenbach",
+      "texte_balise": "The Castle of Wolfenbach",
+      "bbox": [
+        583.3,
+        723.4,
+        763.1,
+        737.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ann Radclitte",
+      "texte_balise": "Ann Radclitte",
+      "bbox": [
+        95.9,
+        947.2,
+        153.8,
+        957.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mysteries of Udolpho",
+      "texte_balise": "The Mysteries of Udolpho",
+      "bbox": [
+        95.9,
+        957.1,
+        201.8,
+        969.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Matthew Lewis",
+      "texte_balise": "Matthew Lewis",
+      "bbox": [
+        583.3,
+        961.1,
+        665.2,
+        969.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Monk",
+      "texte_balise": "The Monk",
+      "bbox": [
+        581.3,
+        971.1,
+        639.2,
+        981.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mysterious Warning",
+      "texte_balise": "The Mysterious Warning",
+      "bbox": [
+        375.5,
+        977.1,
+        481.4,
+        989.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mysteries of Udolpho",
+      "texte_balise": "The Mysteries of Udolpho",
+      "bbox": [
+        75.9,
+        1039.1,
+        255.7,
+        1055.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mysterious Warning",
+      "texte_balise": "The Mysterious Warning",
+      "bbox": [
+        323.6,
+        1039.1,
+        495.4,
+        1055.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Monk",
+      "texte_balise": "The Monk",
+      "bbox": [
+        627.2,
+        1041.1,
+        697.2,
+        1053.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        395.5,
+        1222.7,
+        417.5,
+        1232.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Midnight",
+      "texte_balise": "Midnight",
+      "bbox": [
+        365.6,
+        1236.7,
+        419.5,
+        1250.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bell",
+      "texte_balise": "Bell",
+      "bbox": [
+        393.5,
+        1252.7,
+        421.5,
+        1262.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles Maturin",
+      "texte_balise": "Charles Maturin",
+      "bbox": [
+        599.3,
+        1272.7,
+        669.2,
+        1284.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An scanel",
+      "texte_balise": "An scanel",
+      "bbox": [
+        95.9,
+        1274.7,
+        151.8,
+        1278.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Italian",
+      "texte_balise": "The Italian",
+      "bbox": [
+        93.9,
+        1282.7,
+        141.8,
+        1292.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Melmoth the Wanderer",
+      "texte_balise": "Melmoth the Wanderer",
+      "bbox": [
+        599.3,
+        1284.7,
+        699.2,
+        1294.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Francis Lathom",
+      "texte_balise": "Francis Lathom",
+      "bbox": [
+        355.6,
+        1286.7,
+        417.5,
+        1296.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Midnight Bell",
+      "texte_balise": "The Midnight Bell",
+      "bbox": [
+        359.6,
+        1366.6,
+        485.4,
+        1384.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Italian",
+      "texte_balise": "The Italian",
+      "bbox": [
+        133.8,
+        1368.6,
+        209.7,
+        1380.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Melmoth the Wanderer",
+      "texte_balise": "Melmoth the Wanderer",
+      "bbox": [
+        583.3,
+        1368.6,
+        747.1,
+        1380.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sasten de Blondeville",
+      "texte_balise": "Sasten de Blondeville",
+      "bbox": [
+        609.3,
+        1446.5,
+        737.1,
+        1464.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANN RADCUFFE",
+      "texte_balise": "ANN RADCUFFE",
+      "bbox": [
+        633.2,
+        1464.5,
+        713.1,
+        1476.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary Shelley",
+      "texte_balise": "Mary Shelley",
+      "bbox": [
+        345.6,
+        1594.4,
+        401.5,
+        1608.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jane Austen",
+      "texte_balise": "Jane Austen",
+      "bbox": [
+        97.9,
+        1600.4,
+        157.8,
+        1610.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frankenstein",
+      "texte_balise": "Frankenstein",
+      "bbox": [
+        345.6,
+        1606.4,
+        403.5,
+        1616.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Northanger Abbey",
+      "texte_balise": "Northanger Abbey",
+      "bbox": [
+        97.9,
+        1610.4,
+        187.8,
+        1622.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Esena ev",
+      "texte_balise": "Esena ev",
+      "bbox": [
+        653.2,
+        1614.4,
+        693.2,
+        1624.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Laty Suzan, Ter Worsens and Sanditue",
+      "texte_balise": "Laty Suzan, Ter Worsens and Sanditue",
+      "bbox": [
+        97.9,
+        1622.4,
+        221.7,
+        1632.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VALANCOURT BOOKS",
+      "texte_balise": "VALANCOURT BOOKS",
+      "bbox": [
+        627.2,
+        1644.4,
+        719.1,
+        1654.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Northanger Abbey",
+      "texte_balise": "Northanger Abbey",
+      "bbox": [
+        91.9,
+        1684.3,
+        221.7,
+        1700.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frankenstein",
+      "texte_balise": "Frankenstein",
+      "bbox": [
+        369.6,
+        1684.3,
+        461.4,
+        1700.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaston de Blondeville",
+      "texte_balise": "Gaston de Blondeville",
+      "bbox": [
+        593.3,
+        1684.3,
+        747.1,
+        1698.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaston Leroux",
+      "texte_balise": "Gaston Leroux",
+      "bbox": [
+        603.3,
+        1908.0,
+        663.2,
+        1918.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "james Hogg",
+      "texte_balise": "james Hogg",
+      "bbox": [
+        353.6,
+        1910.2,
+        403.5,
+        1920.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bram Stoker",
+      "texte_balise": "Bram Stoker",
+      "bbox": [
+        99.9,
+        1914.2,
+        161.8,
+        1924.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Private Memoirs and",
+      "texte_balise": "The Private Memoirs and",
+      "bbox": [
+        353.6,
+        1920.2,
+        455.5,
+        1930.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Phantom of the Opera",
+      "texte_balise": "The Phantom of the Opera",
+      "bbox": [
+        601.3,
+        1920.2,
+        709.1,
+        1930.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dracula",
+      "texte_balise": "Dracula",
+      "bbox": [
+        99.9,
+        1924.2,
+        141.8,
+        1934.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions of a Justified Sinner",
+      "texte_balise": "Confessions of a Justified Sinner",
+      "bbox": [
+        353.6,
+        1932.1,
+        483.4,
+        1942.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dracula",
+      "texte_balise": "Dracula",
+      "bbox": [
+        135.8,
+        1996.1,
+        191.8,
+        2008.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Private Memoirs and",
+      "texte_balise": "The Private Memoirs and",
+      "bbox": [
+        329.6,
+        1998.1,
+        505.4,
+        2012.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Phantom of the Opera",
+      "texte_balise": "The Phantom of the Opera",
+      "bbox": [
+        575.3,
+        2004.1,
+        763.1,
+        2020.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions of a Justified",
+      "texte_balise": "Confessions of a Justified",
+      "bbox": [
+        329.6,
+        2014.1,
+        505.4,
+        2030.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sinner",
+      "texte_balise": "Sinner",
+      "bbox": [
+        393.5,
+        2031.9,
+        441.5,
+        2044.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ibe",
+      "texte_balise": "Ibe",
+      "bbox": [
+        411.5,
+        2078.0,
+        431.5,
+        2090.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pecromancer",
+      "texte_balise": "Pecromancer",
+      "bbox": [
+        379.5,
+        2091.8,
+        465.4,
+        2105.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Plecromancer",
+      "texte_balise": "Plecromancer",
+      "bbox": [
+        379.5,
+        2092.0,
+        465.4,
+        2106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emily Bronte",
+      "texte_balise": "Emily Bronte",
+      "bbox": [
+        605.3,
+        2237.7,
+        663.2,
+        2247.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hustic Sepulchre",
+      "texte_balise": "The Hustic Sepulchre",
+      "bbox": [
+        97.9,
+        2243.7,
+        211.7,
+        2257.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wuthering Heights",
+      "texte_balise": "Wuthering Heights",
+      "bbox": [
+        605.3,
+        2247.7,
+        687.2,
+        2259.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Palmer, Jun.",
+      "texte_balise": "John Palmer, Jun.",
+      "bbox": [
+        95.9,
+        2259.7,
+        167.8,
+        2269.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Peter Teuthold",
+      "texte_balise": "Peter Teuthold",
+      "bbox": [
+        383.5,
+        2273.7,
+        457.5,
+        2285.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bully Jely Con",
+      "texte_balise": "Bully Jely Con",
+      "bbox": [
+        393.5,
+        2289.7,
+        449.5,
+        2299.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Mystic Sepulchre",
+      "texte_balise": "The Mystic Sepulchre",
+      "bbox": [
+        83.9,
+        2359.6,
+        237.7,
+        2377.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Necromancer",
+      "texte_balise": "The Necromancer",
+      "bbox": [
+        341.6,
+        2359.6,
+        469.4,
+        2375.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wuthering Heights",
+      "texte_balise": "Wuthering Heights",
+      "bbox": [
+        605.3,
+        2359.6,
+        739.1,
+        2377.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anthologies",
+      "texte_balise": "Anthologies",
+      "bbox": [
+        347.5,
+        2445.0,
+        501.5,
+        2476.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAY RUSSELL",
+      "texte_balise": "RAY RUSSELL",
+      "bbox": [
+        639.2,
+        2707.3,
+        701.2,
+        2717.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hounted Costles",
+      "texte_balise": "Hounted Costles",
+      "bbox": [
+        639.2,
+        2723.3,
+        701.2,
+        2733.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Crapion Cochir Serine",
+      "texte_balise": "The Crapion Cochir Serine",
+      "bbox": [
+        633.2,
+        2731.3,
+        709.1,
+        2741.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELIZABETH GASKELL",
+      "texte_balise": "ELIZABETH GASKELL",
+      "bbox": [
+        369.6,
+        2733.3,
+        467.4,
+        2743.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic Teles",
+      "texte_balise": "Gothic Teles",
+      "bbox": [
+        397.5,
+        2747.3,
+        439.5,
+        2757.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dracula's Guest and Other Wind Stories",
+      "texte_balise": "Dracula's Guest and Other Wind Stories",
+      "bbox": [
+        101.9,
+        2749.3,
+        227.7,
+        2761.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "boranel braise seen",
+      "texte_balise": "boranel braise seen",
+      "bbox": [
+        635.2,
+        2749.3,
+        703.2,
+        2753.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Dracula's Guest",
+      "texte_balise": "Dracula's Guest",
+      "bbox": [
+        113.9,
+        2781.3,
+        229.7,
+        2797.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ghotic Tales (eLizabeth Gaskell)",
+      "texte_balise": "Ghotic Tales (eLizabeth Gaskell)",
+      "bbox": [
+        301.6,
+        2781.3,
+        529.4,
+        2799.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Haunted Castles",
+      "texte_balise": "Haunted Castles",
+      "bbox": [
+        613.3,
+        2781.3,
+        733.1,
+        2797.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Other Weird Stories",
+      "texte_balise": "and Other Weird Stories",
+      "bbox": [
+        85.9,
+        2797.3,
+        257.7,
+        2811.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Gothic Stories",
+      "texte_balise": "The Complete Gothic Stories",
+      "bbox": [
+        571.3,
+        2797.3,
+        777.1,
+        2813.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complete Stories and Poems of",
+      "texte_balise": "Complete Stories and Poems of",
+      "bbox": [
+        87.9,
+        2887.2,
+        245.7,
+        2903.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDGAR",
+      "texte_balise": "EDGAR",
+      "bbox": [
+        149.7,
+        2900.7,
+        243.8,
+        2927.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic",
+      "texte_balise": "Gothic",
+      "bbox": [
+        595.1,
+        2914.6,
+        751.3,
+        2963.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALLAN",
+      "texte_balise": "ALLAN",
+      "bbox": [
+        151.7,
+        2924.6,
+        243.9,
+        2951.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POE",
+      "texte_balise": "POE",
+      "bbox": [
+        183.8,
+        2951.1,
+        247.7,
+        2981.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Short Stories",
+      "texte_balise": "Short Stories",
+      "bbox": [
+        595.3,
+        2961.1,
+        751.1,
+        2987.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Schehrace",
+      "texte_balise": "Schehrace",
+      "bbox": [
+        393.5,
+        3042.9,
+        437.5,
+        3059.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Schubrace",
+      "texte_balise": "Schubrace",
+      "bbox": [
+        395.5,
+        3044.8,
+        437.5,
+        3056.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Tie Tan) Maily Mann",
+      "texte_balise": "Tie Tan) Maily Mann",
+      "bbox": [
+        395.5,
+        3066.8,
+        487.4,
+        3076.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tie Taểi) Meilly Mann",
+      "texte_balise": "Tie Taểi) Meilly Mann",
+      "bbox": [
+        395.5,
+        3067.0,
+        485.4,
+        3077.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Edgar Allan Poe",
+      "texte_balise": "Edgar Allan Poe",
+      "bbox": [
+        111.9,
+        3142.7,
+        223.7,
+        3158.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Schabraco and other Gothic Tales",
+      "texte_balise": "Schabraco and other Gothic Tales",
+      "bbox": [
+        297.6,
+        3142.7,
+        535.4,
+        3156.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic Short Stories",
+      "texte_balise": "Gothic Short Stories",
+      "bbox": [
+        597.3,
+        3142.7,
+        739.1,
+        3156.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(any complete anthology)",
+      "texte_balise": "(any complete anthology)",
+      "bbox": [
+        73.9,
+        3158.7,
+        259.7,
+        3174.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "from the Ladies' Monthly Museum",
+      "texte_balise": "from the Ladies' Monthly Museum",
+      "bbox": [
+        295.6,
+        3158.7,
+        537.4,
+        3174.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oxford Book of",
+      "texte_balise": "The Oxford Book of",
+      "bbox": [
+        337.6,
+        3272.6,
+        417.5,
+        3284.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic Tales",
+      "texte_balise": "Gothic Tales",
+      "bbox": [
+        337.6,
+        3326.6,
+        403.5,
+        3336.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oxford Book of Gothic Tales",
+      "texte_balise": "The Oxford Book of Gothic Tales",
+      "bbox": [
+        303.6,
+        3472.5,
+        529.4,
+        3486.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Books on Gothic",
+      "texte_balise": "Books on Gothic",
+      "bbox": [
+        321.6,
+        3532.4,
+        525.4,
+        3554.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic",
+      "texte_balise": "Gothic",
+      "bbox": [
+        634.9,
+        3639.7,
+        713.4,
+        3680.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tated by",
+      "texte_balise": "tated by",
+      "bbox": [
+        399.5,
+        3668.3,
+        431.5,
+        3678.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "writing",
+      "texte_balise": "writing",
+      "bbox": [
+        625.3,
+        3670.0,
+        720.7,
+        3712.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ruth Robbins and Jollan Wolfreys",
+      "texte_balise": "Ruth Robbins and Jollan Wolfreys",
+      "bbox": [
+        357.6,
+        3676.3,
+        475.4,
+        3688.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VICTORIAN GOTHIC",
+      "texte_balise": "VICTORIAN GOTHIC",
+      "bbox": [
+        363.6,
+        3700.3,
+        469.4,
+        3710.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1750-1820",
+      "texte_balise": "1750-1820",
+      "bbox": [
+        637.2,
+        3709.9,
+        707.2,
+        3726.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Literary and Cultural",
+      "texte_balise": "Literary and Cultural",
+      "bbox": [
+        371.6,
+        3714.2,
+        461.4,
+        3726.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifestations in the",
+      "texte_balise": "Manifestations in the",
+      "bbox": [
+        369.6,
+        3722.2,
+        463.4,
+        3734.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A GENEALOGY",
+      "texte_balise": "A GENEALOGY",
+      "bbox": [
+        631.2,
+        3726.2,
+        715.1,
+        3738.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nineteenth Century",
+      "texte_balise": "Nineteenth Century",
+      "bbox": [
+        373.3,
+        3734.0,
+        459.7,
+        3746.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HISTORY OF",
+      "texte_balise": "THE HISTORY OF",
+      "bbox": [
+        107.9,
+        3790.2,
+        225.7,
+        3808.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOTHIC PUBLISHING,",
+      "texte_balise": "GOTHIC PUBLISHING,",
+      "bbox": [
+        89.9,
+        3806.2,
+        243.7,
+        3824.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1800-1835",
+      "texte_balise": "1800-1835",
+      "bbox": [
+        131.8,
+        3821.8,
+        199.8,
+        3838.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exhuming the Trade",
+      "texte_balise": "Exhuming the Trade",
+      "bbox": [
+        119.9,
+        3838.1,
+        213.7,
+        3850.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Franz J. Potter",
+      "texte_balise": "Franz J. Potter",
+      "bbox": [
+        131.8,
+        3852.1,
+        203.8,
+        3864.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rabert Miles",
+      "texte_balise": "Rabert Miles",
+      "bbox": [
+        647.2,
+        3860.1,
+        699.2,
+        3872.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Victorian Gothic",
+      "texte_balise": "Victorian Gothic",
+      "bbox": [
+        355.6,
+        3910.1,
+        475.4,
+        3928.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gothic Writing",
+      "texte_balise": "Gothic Writing",
+      "bbox": [
+        631.2,
+        3910.1,
+        733.1,
+        3928.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History",
+      "texte_balise": "The History",
+      "bbox": [
+        117.9,
+        3912.1,
+        199.8,
+        3926.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Literary and Cultural",
+      "texte_balise": "Literary and Cultural",
+      "bbox": [
+        343.6,
+        3926.0,
+        491.4,
+        3944.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Gothic Publishing",
+      "texte_balise": "of Gothic Publishing",
+      "bbox": [
+        87.9,
+        3928.0,
+        229.7,
+        3944.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1750-1820",
+      "texte_balise": "1750-1820",
+      "bbox": [
+        643.2,
+        3928.0,
+        723.1,
+        3940.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1800-1835",
+      "texte_balise": "1800-1835",
+      "bbox": [
+        117.8,
+        3943.6,
+        197.9,
+        3960.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifestation in the",
+      "texte_balise": "Manifestation in the",
+      "bbox": [
+        343.6,
+        3944.0,
+        487.4,
+        3960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nineteenth Century",
+      "texte_balise": "Nineteenth Century",
+      "bbox": [
+        345.6,
+        3960.0,
+        487.4,
+        3978.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

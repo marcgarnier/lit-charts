@@ -1,0 +1,729 @@
+{
+  "fichier": "09_Autodidactism.jpeg",
+  "date": "2026-07-21T19:28:36.490536+00:00",
+  "taille_origine": [
+    720,
+    2277
+  ],
+  "hauteur_ligne_mediane": 16.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 37,
+  "nb_noeuds": 49,
+  "tiers": [
+    "Oxford",
+    "Self-Improvement"
+  ],
+  "intitules_isoles": [
+    "(BASICS Of STUDYING)",
+    "of ideas you think about.",
+    "Guide to",
+    "What are you doing when you think?",
+    "How do you take your thinking beyond",
+    "the limits of your biology?",
+    "Thinking, Fast and Slow",
+    "The Discourses",
+    "Habits to become a better thinker.",
+    "Overcoming emotions that impede",
+    "your ability to see things as they are.",
+    "A Primer in Positive Psychology",
+    "These books are for understanding the purpose of a",
+    "(BASICS Of SUBJECTS)",
+    "Stepping stones to more sophisticated kinds of thinking",
+    "and subjects that combine multiple forms of thought.",
+    "(BASICS Of COMMUNICATION)",
+    "An investigation into how others think.",
+    "misunderstanding people and neglecting"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        18.0,
+        18.0,
+        78.0,
+        64.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "/lit/",
+          "auteur": "GUIDES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        148.0,
+        86.0,
+        584.0,
+        168.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Learning to Learn",
+          "auteur": "(A Brief Reading Guide)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        588.0,
+        256.0,
+        674.0,
+        280.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HOWTO READ",
+          "auteur": "NA BOOK ~",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        396.0,
+        270.0,
+        568.0,
+        310.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "How to Read a Book",
+          "auteur": "MORTIMER J. ADLER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        48.0,
+        322.0,
+        282.0,
+        374.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Autodidact Core",
+          "auteur": "(BASICS Of STUDYING)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        591.9,
+        360.0,
+        664.1,
+        436.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRIVIUM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE LIBERAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ARTS OF LOGIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND RHETORIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        394.0,
+        376.0,
+        562.0,
+        414.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Trivium",
+          "auteur": "SISTER MIRIAM JOSEPH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        410.0,
+        332.0,
+        450.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The basics of thinking and the structure",
+          "auteur": "of ideas you think about.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Oxford",
+      "bbox": [
+        592.0,
+        467.9,
+        672.0,
+        545.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SSENTIAL",
+          "auteur": null,
+          "tier": "Oxford"
+        },
+        {
+          "titre": "Guide to",
+          "auteur": null,
+          "tier": "Oxford"
+        },
+        {
+          "titre": "Writing",
+          "auteur": null,
+          "tier": "Oxford"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        395.9,
+        476.0,
+        556.0,
+        540.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Oxford Essential",
+          "auteur": "Guide to Writing",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.0,
+        692.0,
+        304.0,
+        746.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Critical Thinking",
+          "auteur": "(BASICS Of COGNITION)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        403.7,
+        704.1,
+        672.3,
+        744.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Creative and Critical Thinking",
+          "auteur": "W. EDGAR MOORE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.0,
+        780.0,
+        326.0,
+        848.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "What are you doing when you think?",
+          "auteur": "How do you take your thinking beyond",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        510.0,
+        846.0,
+        568.0,
+        854.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KAHNEMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        432.0,
+        882.0,
+        642.0,
+        918.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Thinking, Fast and Slow",
+          "auteur": "DANIEL KAHNEMAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Self-Improvement",
+      "bbox": [
+        50.0,
+        1056.0,
+        312.0,
+        1106.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "(BASICS of PSYCHOLOGY)",
+          "auteur": null,
+          "tier": "Self-Improvement"
+        },
+        {
+          "titre": "(BASICS Of PSYCHOLOGY)",
+          "auteur": null,
+          "tier": "Self-Improvement"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        468.0,
+        1068.0,
+        604.0,
+        1106.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Discourses",
+          "auteur": "EPICTETUS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.0,
+        1142.0,
+        304.0,
+        1206.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Habits to become a better thinker.",
+          "auteur": "Overcoming emotions that impede",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        402.0,
+        1244.0,
+        674.0,
+        1283.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Primer in Positive Psychology",
+          "auteur": "CHRISTOPHER PETERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        290.0,
+        1381.7,
+        656.0,
+        1423.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "These books are for understanding the purpose of a",
+          "auteur": "subject and the fundamentals that govern it.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        1397.7,
+        226.0,
+        1453.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Liberal Arts",
+          "auteur": "(BASICS Of SUBJECTS)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        290.0,
+        1453.6,
+        684.0,
+        1495.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Stepping stones to more sophisticated kinds of thinking",
+          "auteur": "and subjects that combine multiple forms of thought.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        94.0,
+        1577.5,
+        240.0,
+        1609.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Art of Fiction",
+          "auteur": "DAVID LODGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        360.0,
+        1577.5,
+        534.0,
+        1609.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Atlas of World History",
+          "auteur": "PATRICK O'BRIEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.8,
+        1644.7,
+        192.1,
+        1683.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Bible",
+          "auteur": "(KJV OR NKJV)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        362.0,
+        1645.5,
+        602.0,
+        1677.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Interpretation of Cultures",
+          "auteur": "CLIFFORD GEERTZ",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        94.0,
+        1709.4,
+        250.0,
+        1745.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Pre-Calculus",
+          "auteur": "C. STITZ AND J. ZEAGER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        359.6,
+        1709.4,
+        628.0,
+        1745.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An Anthology",
+          "auteur": "Western Philosophy",
+          "tier": null
+        },
+        {
+          "titre": "JOHN COTTINGHAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        96.0,
+        1779.4,
+        326.0,
+        1811.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Music in Theory and Practice",
+          "auteur": "BRUCE BENWARD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        360.0,
+        1779.4,
+        626.0,
+        1813.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Introductory College Textbook in:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PHYSICS / CHEMISTRY / BIOLOGY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        516.0,
+        1903.3,
+        560.0,
+        1945.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "IMPROVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "YOUR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SOCIAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SKILLS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.0,
+        1985.2,
+        266.0,
+        2037.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Social Skills",
+          "auteur": "(BASICS Of COMMUNICATION)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        420.0,
+        1999.2,
+        650.0,
+        2039.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Improve Your Social Skills",
+          "auteur": "DANIEL WENDLER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        2073.2,
+        328.0,
+        2089.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "An investigation into how others think.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        2121.1,
+        340.0,
+        2185.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "These books aim to prevent you from",
+          "auteur": "misunderstanding people and neglecting",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        526.0,
+        2125.1,
+        560.0,
+        2143.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WTO",
+          "auteur": "listen",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        414.0,
+        2175.1,
+        660.0,
+        2217.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "How to Speak, How to Listen",
+          "auteur": "MORTIMER J. ADLER",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

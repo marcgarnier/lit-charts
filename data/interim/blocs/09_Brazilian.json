@@ -1,0 +1,774 @@
+{
+  "fichier": "09_Brazilian.jpeg",
+  "date": "2026-07-21T19:28:36.494784+00:00",
+  "taille_origine": [
+    1452,
+    2297
+  ],
+  "hauteur_ligne_mediane": 21.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 37,
+  "nb_noeuds": 60,
+  "tiers": [
+    "Memórias",
+    "JUAURIST"
+  ],
+  "intitules_isoles": [
+    "Memórias",
+    "Dom Casmurro",
+    "Raul Pompeia",
+    "Macunaima",
+    "Passion",
+    "According",
+    "to G.H.",
+    "Captains of the Sands",
+    "Sagarana"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        386.2,
+        25.0,
+        1032.0,
+        71.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/lit/ Brazilian literature classics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Memórias",
+      "bbox": [
+        630.9,
+        166.6,
+        755.5,
+        253.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Postumas de",
+          "auteur": null,
+          "tier": "Memórias"
+        },
+        {
+          "titre": "Brás Cubas",
+          "auteur": null,
+          "tier": "Memórias"
+        },
+        {
+          "titre": "Machado de Assis",
+          "auteur": null,
+          "tier": "Memórias"
+        },
+        {
+          "titre": "AVA PARA CORDIC",
+          "auteur": null,
+          "tier": "Memórias"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1177.5,
+        221.5,
+        1317.0,
+        274.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DOM",
+          "auteur": "CASMURRO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        54.9,
+        250.9,
+        263.8,
+        379.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "JOÃO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOIMARÃES ROSA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GRANDE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VEREDAS",
+          "auteur": "SERIAO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1129.1,
+        371.3,
+        1308.5,
+        457.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "MACHADO DE ASSIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OREWONG BY ROTABETH HARDWICI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dom Casmurro",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Machado de Assis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.0,
+        419.7,
+        875.8,
+        459.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Posthumous Memoirs of Bras Cubas",
+          "auteur": "Machado de Assis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.7,
+        425.7,
+        331.3,
+        466.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Devil to Pay in the Backlands",
+          "auteur": "João Guimarães Rosa",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        80.2,
+        569.6,
+        234.3,
+        609.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OATENEU",
+          "auteur": "Raul Pompeia",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.0,
+        582.2,
+        698.6,
+        592.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MARIO DE ANDRADE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        561.4,
+        626.5,
+        751.3,
+        662.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MACUNAIMA",
+          "auteur": "O REBOI SEM NENHUM CARATER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1226.2,
+        656.0,
+        1287.4,
+        666.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Vidas socas",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        586.7,
+        820.5,
+        717.6,
+        862.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Macunaima",
+          "auteur": "Mário de Andrade",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1162.7,
+        836.6,
+        1289.5,
+        877.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Barren Lives",
+          "auteur": "Graciliano Ramos",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        48.5,
+        841.3,
+        284.9,
+        884.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "a Novel",
+          "auteur": "The Athenaeum",
+          "tier": null
+        },
+        {
+          "titre": "Raul Pompeia",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        62.9,
+        948.9,
+        247.4,
+        1136.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "JORGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMADO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Capitães",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Capitaes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "da Arela",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "dd Arela",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        552.9,
+        1046.2,
+        757.7,
+        1074.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JORGE AMADO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1200.8,
+        1089.4,
+        1308.5,
+        1209.1
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Clarice",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Clanca",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Lispector",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Passion",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "According",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to G.H.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        48.5,
+        1229.8,
+        259.6,
+        1272.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Captains of the Sands",
+          "auteur": "Jorge Amado",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        498.0,
+        1234.0,
+        854.7,
+        1274.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Two Deaths of Quincas Wateryell",
+          "auteur": "Jorge Amado",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1086.9,
+        1238.0,
+        1373.9,
+        1278.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Passion According to G.H.",
+          "auteur": "Clarice Lispector",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1162.5,
+        1340.7,
+        1311.0,
+        1414.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Time and",
+          "auteur": "the Wind",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.7,
+        1363.9,
+        189.9,
+        1435.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "U",
+          "auteur": "CORTIÇO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        107.6,
+        1499.0,
+        189.9,
+        1530.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AZEVEDO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1198.7,
+        1530.7,
+        1274.7,
+        1541.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Verissimo. Erico",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        601.5,
+        1579.0,
+        738.7,
+        1594.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Sad End of Policarpo Quaresme",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1205.1,
+        1594.0,
+        1327.5,
+        1605.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "This is nee the actual book cone:",
+          "auteur": "Note",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1129.1,
+        1632.0,
+        1310.6,
+        1670.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Time and the Wind",
+          "auteur": "Erico Verissimo",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        97.0,
+        1635.9,
+        213.2,
+        1674.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Slum",
+          "auteur": "Aluísio Azevedo",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        506.5,
+        1636.0,
+        848.4,
+        1674.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Sad End of Policarpo Quaresma",
+          "auteur": "Lima Barreto",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        18.9,
+        1757.7,
+        1034.2,
+        1786.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The following three books contain severe wordplay or creation of entire dialects which get lost in translation",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        614.0,
+        1870.2,
+        728.2,
+        1936.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "OSWALDDE",
+          "auteur": "ANDRADE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "JUAURIST",
+      "bbox": [
+        46.4,
+        2014.1,
+        247.1,
+        2162.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HU MARRES",
+          "auteur": null,
+          "tier": "JUAURIST"
+        },
+        {
+          "titre": "• SAGARANA",
+          "auteur": null,
+          "tier": "JUAURIST"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1118.5,
+        2047.9,
+        1312.7,
+        2096.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CARLOS DRUMMOND",
+          "auteur": "DE ANDRADE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        595.2,
+        2126.0,
+        747.1,
+        2137.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SERAFIM PONTE GRANDE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        45.9,
+        2193.3,
+        202.6,
+        2229.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Sagarana",
+          "auteur": "João Guimarães Rosa",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        561.4,
+        2204.0,
+        776.7,
+        2244.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Serafim Ponde Grande",
+          "auteur": "Oswald de Andrade",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1057.3,
+        2212.6,
+        1405.6,
+        2253.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Selected Poems",
+          "auteur": "Multitudinous Heart",
+          "tier": null
+        },
+        {
+          "titre": "Carlos Drummond de Andrade",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

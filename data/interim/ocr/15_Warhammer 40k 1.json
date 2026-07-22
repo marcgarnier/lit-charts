@@ -1,0 +1,1708 @@
+{
+  "fichier": "15_Warhammer 40k 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:08.161281+00:00",
+  "duree_s": 3.2,
+  "taille_origine": [
+    4500,
+    4024
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 154,
+  "lignes": [
+    {
+      "texte": "God-Emperor Tier",
+      "texte_balise": "God-Emperor Tier",
+      "bbox": [
+        1493.7,
+        8.9,
+        1795.3,
+        42.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A * Refers to a general Novel Series",
+      "texte_balise": "A * Refers to a general Novel Series",
+      "bbox": [
+        1809.4,
+        8.9,
+        2148.7,
+        33.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORM OFIRON",
+      "texte_balise": "STORM OFIRON",
+      "bbox": [
+        607.8,
+        84.6,
+        777.5,
+        132.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAN ABNETT",
+      "texte_balise": "DAN ABNETT",
+      "bbox": [
+        2412.3,
+        107.1,
+        2582.5,
+        152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIGHT LORDS",
+      "texte_balise": "NIGHT LORDS",
+      "bbox": [
+        2600.7,
+        116.7,
+        2780.4,
+        170.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HELSREACH",
+      "texte_balise": "HELSREACH",
+      "bbox": [
+        1738.7,
+        127.2,
+        1903.7,
+        155.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANABNETT DAN ABNETT DAN ARNETT",
+      "texte_balise": "DANABNETT DAN ABNETT DAN ARNETT",
+      "bbox": [
+        2096.9,
+        174.0,
+        2403.1,
+        203.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE EMPERDES LEGION",
+      "texte_balise": "THE EMPERDES LEGION",
+      "bbox": [
+        1201.6,
+        245.1,
+        1361.8,
+        287.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE EMPERORS GIFT",
+      "texte_balise": "HE EMPERORS GIFT",
+      "bbox": [
+        1404.2,
+        249.8,
+        1540.8,
+        273.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIFTEEN HOURS",
+      "texte_balise": "FIFTEEN HOURS",
+      "bbox": [
+        791.6,
+        277.7,
+        966.0,
+        311.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FOUNDING THE SAINT",
+      "texte_balise": "THE FOUNDING THE SAINT",
+      "bbox": [
+        2096.9,
+        282.8,
+        2299.5,
+        311.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAHAM MCNEILL",
+      "texte_balise": "GRAHAM MCNEILL",
+      "bbox": [
+        607.9,
+        287.5,
+        777.5,
+        330.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRE CASTE",
+      "texte_balise": "FIRE CASTE",
+      "bbox": [
+        1927.2,
+        287.5,
+        2078.0,
+        315.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EISENHORN",
+      "texte_balise": "EISENHORN",
+      "bbox": [
+        2412.5,
+        291.8,
+        2582.3,
+        334.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AARON DEMBSKI-BOWDEN",
+      "texte_balise": "AARON DEMBSKI-BOWDEN",
+      "bbox": [
+        2615.2,
+        301.2,
+        2761.3,
+        325.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Good Tier",
+      "texte_balise": "Good Tier",
+      "bbox": [
+        1555.0,
+        640.9,
+        1719.9,
+        673.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOD or ASAHEIM",
+      "texte_balise": "BLOOD or ASAHEIM",
+      "bbox": [
+        2610.5,
+        697.1,
+        2766.0,
+        721.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AHRIMAN EXILE",
+      "texte_balise": "AHRIMAN EXILE",
+      "bbox": [
+        2968.6,
+        702.2,
+        3147.6,
+        739.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROTEERS",
+      "texte_balise": "BROTEERS",
+      "bbox": [
+        2431.4,
+        711.6,
+        2568.1,
+        744.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRIESTS OF MARS",
+      "texte_balise": "PRIESTS OF MARS",
+      "bbox": [
+        3157.1,
+        716.1,
+        3331.4,
+        739.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ETERNAL",
+      "texte_balise": "THE ETERNAL",
+      "bbox": [
+        1192.1,
+        725.7,
+        1333.5,
+        749.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE SNAKE",
+      "texte_balise": "OF THE SNAKE",
+      "bbox": [
+        2412.6,
+        739.5,
+        2586.9,
+        773.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAN ABNETI",
+      "texte_balise": "DAN ABNETI",
+      "bbox": [
+        3981.7,
+        739.5,
+        4141.9,
+        777.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRUSADER",
+      "texte_balise": "CRUSADER",
+      "bbox": [
+        1182.6,
+        744.2,
+        1352.4,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOUBIE EAGLE",
+      "texte_balise": "DOUBIE EAGLE",
+      "bbox": [
+        2242.9,
+        744.6,
+        2407.9,
+        810.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GFAHAN McMEll",
+      "texte_balise": "GFAHAN McMEll",
+      "bbox": [
+        3204.2,
+        744.6,
+        3279.6,
+        763.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LABNET",
+      "texte_balise": "LABNET",
+      "bbox": [
+        683.2,
+        749.3,
+        777.5,
+        791.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BATTLE OF",
+      "texte_balise": "BATTLE OF",
+      "bbox": [
+        1927.1,
+        758.3,
+        2031.0,
+        782.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FANG",
+      "texte_balise": "THE FANG",
+      "bbox": [
+        1922.2,
+        776.4,
+        2035.9,
+        807.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TITANICUS",
+      "texte_balise": "TITANICUS",
+      "bbox": [
+        622.0,
+        791.7,
+        810.5,
+        848.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOUL DRINKER",
+      "texte_balise": "SOUL DRINKER",
+      "bbox": [
+        1578.5,
+        866.7,
+        1710.5,
+        904.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HORUS HERESY",
+      "texte_balise": "THE HORUS HERESY",
+      "bbox": [
+        3576.4,
+        871.8,
+        3741.4,
+        895.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAEMUN WURLI",
+      "texte_balise": "DAEMUN WURLI",
+      "bbox": [
+        2068.6,
+        876.5,
+        2224.1,
+        919.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YA CAN ON TERR",
+      "texte_balise": "YA CAN ON TERR",
+      "bbox": [
+        2794.2,
+        885.6,
+        2949.7,
+        923.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DAN ABNETT",
+      "texte_balise": "DAN ABNETT",
+      "bbox": [
+        2422.0,
+        895.4,
+        2577.5,
+        933.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRIMARCHS",
+      "texte_balise": "PRIMARCHS",
+      "bbox": [
+        3552.9,
+        900.1,
+        3764.9,
+        937.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RESURRECTION,",
+      "texte_balise": "RESURRECTION,",
+      "bbox": [
+        83.6,
+        901.0,
+        246.1,
+        934.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RESURRECTEON",
+      "texte_balise": "RESURRECTEON",
+      "bbox": [
+        84.8,
+        904.8,
+        240.3,
+        928.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAVENOR",
+      "texte_balise": "RAVENOR",
+      "bbox": [
+        3981.7,
+        904.8,
+        4137.2,
+        942.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CADIAN BLOOD",
+      "texte_balise": "CADIAN BLOOD",
+      "bbox": [
+        3812.0,
+        909.0,
+        3991.1,
+        938.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASURMEN",
+      "texte_balise": "ASURMEN",
+      "bbox": [
+        4159.9,
+        911.1,
+        4331.2,
+        964.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE INQUISITION WAR",
+      "texte_balise": "THE INQUISITION WAR",
+      "bbox": [
+        834.0,
+        914.2,
+        975.4,
+        942.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LASURMEN",
+      "texte_balise": "LASURMEN",
+      "bbox": [
+        4154.7,
+        917.6,
+        4337.8,
+        964.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF BAAL",
+      "texte_balise": "OF BAAL",
+      "bbox": [
+        99.4,
+        1210.7,
+        214.5,
+        1258.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MPERIAL GUARD",
+      "texte_balise": "MPERIAL GUARD",
+      "bbox": [
+        3437.8,
+        1314.9,
+        3668.0,
+        1388.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Average Tier",
+      "texte_balise": "Average Tier",
+      "bbox": [
+        1543.5,
+        1320.2,
+        1753.0,
+        1357.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BANEBLADE",
+      "texte_balise": "BANEBLADE",
+      "bbox": [
+        3673.3,
+        1346.8,
+        3861.6,
+        1388.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHADOWSUN",
+      "texte_balise": "SHADOWSUN",
+      "bbox": [
+        1350.0,
+        1362.5,
+        1533.1,
+        1393.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BLOOD ANGELS",
+      "texte_balise": "THE BLOOD ANGELS",
+      "bbox": [
+        2888.4,
+        1362.5,
+        3050.6,
+        1388.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEVENTH",
+      "texte_balise": "SEVENTH",
+      "bbox": [
+        2427.9,
+        1367.7,
+        2543.0,
+        1388.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        3244.2,
+        1367.7,
+        3291.3,
+        1409.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARINES",
+      "texte_balise": "MARINES",
+      "bbox": [
+        3348.8,
+        1367.7,
+        3427.3,
+        1414.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OMNTRUTS",
+      "texte_balise": "OMNTRUTS",
+      "bbox": [
+        2919.8,
+        1393.9,
+        3014.0,
+        1404.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE SIFGEO",
+      "texte_balise": "THE SIFGEO",
+      "bbox": [
+        1930.8,
+        1419.8,
+        2030.2,
+        1430.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAMOCLES",
+      "texte_balise": "DAMOCLES",
+      "bbox": [
+        994.2,
+        1430.5,
+        1135.5,
+        1472.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CASTELLAX",
+      "texte_balise": "CASTELLAX",
+      "bbox": [
+        1925.6,
+        1430.5,
+        2045.9,
+        1456.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENDY HOA",
+      "texte_balise": "ENDY HOA",
+      "bbox": [
+        2265.7,
+        1519.0,
+        2339.0,
+        1530.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE EVE OF",
+      "texte_balise": "THE EVE OF",
+      "bbox": [
+        4097.1,
+        1524.6,
+        4212.2,
+        1545.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STRAKEN",
+      "texte_balise": "STRAKEN",
+      "bbox": [
+        3887.8,
+        1524.7,
+        4034.3,
+        1587.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KHARN",
+      "texte_balise": "KHARN",
+      "bbox": [
+        465.7,
+        1529.9,
+        559.9,
+        1577.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RENMI",
+      "texte_balise": "THE RENMI",
+      "bbox": [
+        2794.2,
+        1529.9,
+        2867.4,
+        1540.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMMISSAR",
+      "texte_balise": "COMMISSAR",
+      "bbox": [
+        2223.7,
+        1534.8,
+        2391.4,
+        1577.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HY OT UL HMA",
+      "texte_balise": "HY OT UL HMA",
+      "bbox": [
+        245.9,
+        1540.2,
+        340.1,
+        1551.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SAVAGE SC",
+      "texte_balise": "SAVAGE SC",
+      "bbox": [
+        617.4,
+        1540.2,
+        748.3,
+        1582.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARCHARODONS",
+      "texte_balise": "CARCHARODONS",
+      "bbox": [
+        31.4,
+        1540.4,
+        188.4,
+        1577.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ARISES",
+      "texte_balise": "ARISES",
+      "bbox": [
+        2789.0,
+        1545.6,
+        2867.4,
+        1577.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEDUSA",
+      "texte_balise": "MEDUSA",
+      "bbox": [
+        4102.3,
+        1545.6,
+        4212.2,
+        1577.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LACH",
+      "texte_balise": "LACH",
+      "bbox": [
+        695.9,
+        1550.9,
+        769.2,
+        1587.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CADIA STANDS",
+      "texte_balise": "CADIA STANDS",
+      "bbox": [
+        2590.1,
+        1555.8,
+        2757.6,
+        1587.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GHOST WARRIOR",
+      "texte_balise": "GHOST WARRIOR",
+      "bbox": [
+        245.9,
+        1561.3,
+        371.5,
+        1592.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAMES SWALLOW",
+      "texte_balise": "TAMES SWALLOW",
+      "bbox": [
+        2904.1,
+        1561.3,
+        3034.9,
+        1582.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'GUY HALEY",
+      "texte_balise": "'GUY HALEY",
+      "bbox": [
+        3688.7,
+        1565.6,
+        3841.0,
+        1609.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RED TITHE",
+      "texte_balise": "RED TITHE",
+      "bbox": [
+        31.4,
+        1571.5,
+        188.4,
+        1603.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COUNTER",
+      "texte_balise": "COUNTER",
+      "bbox": [
+        3118.6,
+        1571.8,
+        3233.7,
+        1592.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGEL OF FIRE",
+      "texte_balise": "LANGEL OF FIRE",
+      "bbox": [
+        4259.3,
+        1577.0,
+        4468.6,
+        1619.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARA EBOOM",
+      "texte_balise": "ARA EBOOM",
+      "bbox": [
+        1077.9,
+        1728.7,
+        1172.1,
+        1781.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "RAGNA",
+      "texte_balise": "RAGNA",
+      "bbox": [
+        523.3,
+        1854.4,
+        659.3,
+        1896.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "R",
+      "texte_balise": "R",
+      "bbox": [
+        654.1,
+        1854.4,
+        685.5,
+        1891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YARRICK",
+      "texte_balise": "YARRICK",
+      "bbox": [
+        910.5,
+        1859.6,
+        1036.0,
+        1906.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROGUE STAR",
+      "texte_balise": "ROGUE STAR",
+      "bbox": [
+        198.8,
+        1869.9,
+        340.2,
+        1901.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHRIKE",
+      "texte_balise": "SHRIKE",
+      "bbox": [
+        732.0,
+        1873.6,
+        869.1,
+        1918.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENFORCER",
+      "texte_balise": "ENFORCER",
+      "bbox": [
+        355.5,
+        1879.4,
+        502.6,
+        1918.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK MAN'I",
+      "texte_balise": "BLACK MAN'I",
+      "bbox": [
+        518.0,
+        1887.0,
+        680.2,
+        1918.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SiKiKE",
+      "texte_balise": "SiKiKE",
+      "bbox": [
+        732.6,
+        1887.0,
+        863.4,
+        1918.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mediocre Tier",
+      "texte_balise": "Mediocre Tier",
+      "bbox": [
+        1543.6,
+        2373.3,
+        1773.8,
+        2405.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SONS",
+      "texte_balise": "SONS",
+      "bbox": [
+        936.4,
+        2414.8,
+        1104.3,
+        2473.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        1151.2,
+        2431.3,
+        1282.0,
+        2462.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Ề*ỀČÜ™ÖŃ",
+      "texte_balise": "Ề*ỀČÜ™ÖŃ",
+      "bbox": [
+        743.0,
+        2447.0,
+        873.8,
+        2483.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE LAST",
+      "texte_balise": "THE LAST",
+      "bbox": [
+        2731.2,
+        2456.5,
+        2904.3,
+        2500.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEDUSAN WINGS",
+      "texte_balise": "MEDUSAN WINGS",
+      "bbox": [
+        1125.0,
+        2462.6,
+        1308.1,
+        2494.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EVIL SUN RISING",
+      "texte_balise": "EVIL SUN RISING",
+      "bbox": [
+        3306.9,
+        2467.4,
+        3464.1,
+        2499.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF DORN",
+      "texte_balise": "OF DORN",
+      "bbox": [
+        941.8,
+        2467.7,
+        1098.9,
+        2499.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FORCE",
+      "texte_balise": "FORCE",
+      "bbox": [
+        779.7,
+        2483.6,
+        868.6,
+        2515.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MATT WES",
+      "texte_balise": "MATT WES",
+      "bbox": [
+        1172.1,
+        2493.8,
+        1224.4,
+        2505.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHANCERS",
+      "texte_balise": "CHANCERS",
+      "bbox": [
+        2726.2,
+        2494.1,
+        2904.1,
+        2535.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WARMASON",
+      "texte_balise": "WARMASON",
+      "bbox": [
+        3908.7,
+        2530.7,
+        4050.0,
+        2577.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "FAITTI & FIRE",
+      "texte_balise": "FAITTI & FIRE",
+      "bbox": [
+        3505.8,
+        2593.1,
+        3668.0,
+        2625.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ПАРК",
+      "texte_balise": "ПАРК",
+      "bbox": [
+        2391.3,
+        2604.0,
+        2464.5,
+        2630.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LUCIUS",
+      "texte_balise": "LUCIUS",
+      "bbox": [
+        2187.2,
+        2619.7,
+        2291.9,
+        2651.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SKITARIUS",
+      "texte_balise": "SKITARIUS",
+      "bbox": [
+        376.5,
+        2629.3,
+        507.8,
+        2672.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LAST HUNT",
+      "texte_balise": "LAST HUNT",
+      "bbox": [
+        559.7,
+        2629.3,
+        711.8,
+        2662.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANTE",
+      "texte_balise": "DANTE",
+      "bbox": [
+        1783.9,
+        2633.9,
+        1926.0,
+        2678.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MPERIIIM",
+      "texte_balise": "MPERIIIM",
+      "bbox": [
+        2401.7,
+        2635.4,
+        2516.9,
+        2661.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CASTELLĂN",
+      "texte_balise": "CASTELLĂN",
+      "bbox": [
+        162.1,
+        2640.2,
+        298.4,
+        2688.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CASSIUS",
+      "texte_balise": "CASSIUS",
+      "bbox": [
+        3694.2,
+        2640.6,
+        3845.9,
+        2682.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEPHISTON",
+      "texte_balise": "MEPHISTON",
+      "bbox": [
+        1575.0,
+        2645.8,
+        1737.2,
+        2672.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "KINGSBLADE",
+      "texte_balise": "KINGSBLADE",
+      "bbox": [
+        2569.2,
+        2651.1,
+        2731.4,
+        2687.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MEPHISTON",
+      "texte_balise": "MEPHISTON",
+      "bbox": [
+        3118.6,
+        2651.1,
+        3286.0,
+        2682.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "GAV THORPE",
+      "texte_balise": "GAV THORPE",
+      "bbox": [
+        2741.9,
+        2656.3,
+        2888.4,
+        2682.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bad Tier",
+      "texte_balise": "Bad Tier",
+      "bbox": [
+        1595.8,
+        3085.0,
+        1737.3,
+        3117.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        1376.2,
+        3122.1,
+        1491.3,
+        3132.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SPACE HULK",
+      "texte_balise": "SPACE HULK",
+      "bbox": [
+        1569.1,
+        3138.1,
+        1771.7,
+        3166.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASSAULT ON",
+      "texte_balise": "ASSAULT ON",
+      "bbox": [
+        1347.6,
+        3156.9,
+        1531.4,
+        3180.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        2431.4,
+        3156.9,
+        2525.7,
+        3166.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK REACH",
+      "texte_balise": "BLACK REACH",
+      "bbox": [
+        1338.2,
+        3180.5,
+        1540.8,
+        3204.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-SAL",
+      "texte_balise": "-SAL",
+      "bbox": [
+        292.1,
+        3189.9,
+        334.6,
+        3227.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C3 THE NOVEL",
+      "texte_balise": "C3 THE NOVEL",
+      "bbox": [
+        1366.5,
+        3213.1,
+        1489.0,
+        3223.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELDAR PROPHECY,",
+      "texte_balise": "ELDAR PROPHECY,",
+      "bbox": [
+        1795.3,
+        3265.3,
+        1955.5,
+        3293.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SONS OF",
+      "texte_balise": "SONS OF",
+      "bbox": [
+        2799.0,
+        3326.5,
+        2897.9,
+        3354.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARSIGHT",
+      "texte_balise": "FARSIGHT",
+      "bbox": [
+        2007.3,
+        3336.0,
+        2134.6,
+        3378.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHROUD",
+      "texte_balise": "SHROUD",
+      "bbox": [
+        2219.4,
+        3336.0,
+        2332.5,
+        3364.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RED PATH",
+      "texte_balise": "THE RED PATH",
+      "bbox": [
+        2388.8,
+        3349.2,
+        2568.3,
+        3393.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HIRSET",
+      "texte_balise": "HIRSET",
+      "bbox": [
+        1159.0,
+        3354.1,
+        1277.1,
+        3379.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CORAX",
+      "texte_balise": "CORAX",
+      "bbox": [
+        2794.2,
+        3354.8,
+        2897.9,
+        3392.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF NIGHT",
+      "texte_balise": "OF NIGHT",
+      "bbox": [
+        2214.7,
+        3359.2,
+        2332.5,
+        3397.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REDEMPTION CORPS",
+      "texte_balise": "REDEMPTION CORPS",
+      "bbox": [
+        2591.6,
+        3369.0,
+        2742.4,
+        3392.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMPEST",
+      "texte_balise": "EMPEST",
+      "bbox": [
+        2978.0,
+        3369.0,
+        3095.8,
+        3397.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WULFEN",
+      "texte_balise": "WULFEN",
+      "bbox": [
+        1159.2,
+        3383.1,
+        1286.4,
+        3411.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LEMARTES",
+      "texte_balise": "LEMARTES",
+      "bbox": [
+        3152.4,
+        3383.1,
+        3284.3,
+        3420.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-NECROMUNDA E",
+      "texte_balise": "-NECROMUNDA E",
+      "bbox": [
+        480.6,
+        3387.8,
+        711.5,
+        3430.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SONS OF",
+      "texte_balise": "SONS OF",
+      "bbox": [
+        933.0,
+        3392.5,
+        1013.1,
+        3416.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUDY CLATH",
+      "texte_balise": "AUDY CLATH",
+      "bbox": [
+        2242.9,
+        3401.6,
+        2299.5,
+        3411.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HYDRA SANDERS",
+      "texte_balise": "THE HYDRA SANDERS",
+      "bbox": [
+        933.0,
+        3416.1,
+        1083.8,
+        3439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NICK KYME",
+      "texte_balise": "NICK KYME",
+      "bbox": [
+        1385.3,
+        3434.9,
+        1489.0,
+        3458.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heresy Tier",
+      "texte_balise": "Heresy Tier",
+      "bbox": [
+        1531.1,
+        3645.5,
+        1729.6,
+        3686.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMPEROR'S MERCY",
+      "texte_balise": "EMPEROR'S MERCY",
+      "bbox": [
+        871.2,
+        3663.4,
+        1041.9,
+        3706.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        2035.6,
+        3670.6,
+        2111.0,
+        3694.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PANDORAX",
+      "texte_balise": "PANDORAX",
+      "bbox": [
+        2186.3,
+        3675.1,
+        2351.4,
+        3708.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRE WARMOR",
+      "texte_balise": "FIRE WARMOR",
+      "bbox": [
+        1814.1,
+        3693.8,
+        1964.9,
+        3722.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CZ DUNN",
+      "texte_balise": "CZ DUNN",
+      "bbox": [
+        2238.2,
+        3708.3,
+        2304.2,
+        3731.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALGAR'S",
+      "texte_balise": "CALGAR'S",
+      "bbox": [
+        1997.8,
+        3712.4,
+        2148.8,
+        3751.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOOD GORGONS",
+      "texte_balise": "HOOD GORGONS",
+      "bbox": [
+        2761.3,
+        3717.3,
+        2883.8,
+        3755.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLI",
+      "texte_balise": "BLI",
+      "bbox": [
+        2742.4,
+        3717.7,
+        2770.7,
+        3746.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        1550.3,
+        3727.1,
+        1710.5,
+        3750.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARHAMMER",
+      "texte_balise": "WARHAMMER",
+      "bbox": [
+        1286.4,
+        3746.0,
+        1371.2,
+        3755.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "40,000",
+      "texte_balise": "40,000",
+      "bbox": [
+        1597.4,
+        3746.0,
+        1653.9,
+        3760.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FURY",
+      "texte_balise": "FURY",
+      "bbox": [
+        2049.7,
+        3746.0,
+        2096.9,
+        3769.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARH VENGEANCE",
+      "texte_balise": "MARH VENGEANCE",
+      "bbox": [
+        1262.8,
+        3764.8,
+        1399.5,
+        3793.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CZ DUNN",
+      "texte_balise": "CZ DUNN",
+      "bbox": [
+        1305.2,
+        3816.5,
+        1361.8,
+        3840.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Most of them anyway)",
+      "texte_balise": "(Most of them anyway)",
+      "bbox": [
+        1555.0,
+        3849.6,
+        1767.0,
+        3873.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HENRY ZOU",
+      "texte_balise": "HENRY ZOU",
+      "bbox": [
+        890.6,
+        3873.2,
+        1017.8,
+        3911.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORTARS",
+      "texte_balise": "MORTARS",
+      "bbox": [
+        2379.6,
+        3892.1,
+        2558.6,
+        3934.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HENRY ZOU",
+      "texte_balise": "HENRY ZOU",
+      "bbox": [
+        2733.0,
+        3896.8,
+        2869.6,
+        3934.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAUL NEAKNE",
+      "texte_balise": "PAUL NEAKNE",
+      "bbox": [
+        2030.9,
+        3910.9,
+        2106.3,
+        3920.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

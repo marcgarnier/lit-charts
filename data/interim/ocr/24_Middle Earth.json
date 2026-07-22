@@ -1,0 +1,1422 @@
+{
+  "fichier": "24_Middle Earth.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:46.438465+00:00",
+  "duree_s": 1.1,
+  "taille_origine": [
+    1440,
+    1331
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 128,
+  "lignes": [
+    {
+      "texte": "how dO I GET INTO MId&LE-EaRTh?",
+      "texte_balise": "how dO I GET INTO MId&LE-EaRTh?",
+      "bbox": [
+        20.9,
+        16.7,
+        1172.1,
+        79.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R.",
+      "texte_balise": "J.R.R.",
+      "bbox": [
+        1151.2,
+        123.3,
+        1190.9,
+        140.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        803.7,
+        127.5,
+        824.7,
+        137.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The LORd",
+      "texte_balise": "The LORd",
+      "bbox": [
+        491.7,
+        129.0,
+        594.5,
+        153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The ChiLdREN",
+      "texte_balise": "The ChiLdREN",
+      "bbox": [
+        1228.6,
+        129.5,
+        1375.1,
+        152.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        123.5,
+        131.6,
+        165.3,
+        150.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOBBIT",
+      "texte_balise": "HOBBIT",
+      "bbox": [
+        35.6,
+        133.6,
+        108.9,
+        152.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        864.4,
+        133.7,
+        906.3,
+        152.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SILMARILLION",
+      "texte_balise": "SILMARILLION",
+      "bbox": [
+        774.4,
+        135.8,
+        854.0,
+        148.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        1140.7,
+        139.8,
+        1207.7,
+        152.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hOBBIT",
+      "texte_balise": "hOBBIT",
+      "bbox": [
+        121.4,
+        152.4,
+        196.8,
+        171.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of The",
+      "texte_balise": "of The",
+      "bbox": [
+        491.7,
+        154.0,
+        567.4,
+        176.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "oF haRIN",
+      "texte_balise": "oF haRIN",
+      "bbox": [
+        1226.4,
+        154.0,
+        1327.1,
+        178.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIL MARILLION",
+      "texte_balise": "SIL MARILLION",
+      "bbox": [
+        864.4,
+        154.6,
+        1013.0,
+        173.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        399.8,
+        162.9,
+        475.1,
+        179.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RINGS",
+      "texte_balise": "RINGS",
+      "bbox": [
+        491.9,
+        177.6,
+        554.7,
+        194.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J-R-R. TOLKIEN",
+      "texte_balise": "J-R-R. TOLKIEN",
+      "bbox": [
+        33.5,
+        223.6,
+        113.0,
+        234.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J-R-R- TOLKIEN",
+      "texte_balise": "J-R-R- TOLKIEN",
+      "bbox": [
+        774.4,
+        223.6,
+        851.9,
+        236.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Try the Silmarillion again. It is is the most",
+      "texte_balise": "Try the Silmarillion again. It is is the most",
+      "bbox": [
+        705.3,
+        260.8,
+        979.5,
+        280.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Start with The Hobbit. It's the",
+      "texte_balise": "Start with The Hobbit. It's the",
+      "bbox": [
+        54.4,
+        262.8,
+        249.1,
+        280.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Can't finish the Silmarillion?",
+      "texte_balise": "Can't finish the Silmarillion?",
+      "bbox": [
+        1155.3,
+        262.8,
+        1343.7,
+        277.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "accessible chronicle of the First Age after",
+      "texte_balise": "accessible chronicle of the First Age after",
+      "bbox": [
+        703.3,
+        281.8,
+        973.3,
+        300.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "first book Tolkien published",
+      "texte_balise": "first book Tolkien published",
+      "bbox": [
+        54.4,
+        283.8,
+        240.7,
+        303.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Children of Hurin features",
+      "texte_balise": "Children of Hurin features",
+      "bbox": [
+        1153.3,
+        283.8,
+        1331.2,
+        300.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Children of Hurin. Consider skimming /",
+      "texte_balise": "Children of Hurin. Consider skimming /",
+      "bbox": [
+        705.3,
+        302.8,
+        973.3,
+        319.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in this world. Short, easy and",
+      "texte_balise": "in this world. Short, easy and",
+      "bbox": [
+        52.3,
+        304.8,
+        247.0,
+        323.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "one of the later chapters,",
+      "texte_balise": "one of the later chapters,",
+      "bbox": [
+        1153.3,
+        304.8,
+        1314.4,
+        321.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "skipping to Chapter 6 \"Of Feanor and the",
+      "texte_balise": "skipping to Chapter 6 \"Of Feanor and the",
+      "bbox": [
+        705.3,
+        323.8,
+        977.4,
+        340.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Of Turin Turambar\" as a",
+      "texte_balise": "\"Of Turin Turambar\" as a",
+      "bbox": [
+        1153.3,
+        323.8,
+        1322.8,
+        340.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a wonderful prelude to Lord",
+      "texte_balise": "a wonderful prelude to Lord",
+      "bbox": [
+        52.3,
+        325.8,
+        240.7,
+        344.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Unchaining of Melkor\" if the creation of Arda",
+      "texte_balise": "Unchaining of Melkor\" if the creation of Arda",
+      "bbox": [
+        703.3,
+        344.7,
+        1004.7,
+        363.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Rings.",
+      "texte_balise": "of the Rings.",
+      "bbox": [
+        52.2,
+        346.4,
+        138.2,
+        366.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "standalone work.",
+      "texte_balise": "standalone work.",
+      "bbox": [
+        1153.3,
+        346.7,
+        1268.4,
+        361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(the world) doesn't interest you, or Chapter",
+      "texte_balise": "(the world) doesn't interest you, or Chapter",
+      "bbox": [
+        705.3,
+        365.7,
+        990.0,
+        382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "13 \"Of the Return of the Noldor\" if you want",
+      "texte_balise": "13 \"Of the Return of the Noldor\" if you want",
+      "bbox": [
+        703.3,
+        384.5,
+        996.3,
+        405.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to skip to the battles.",
+      "texte_balise": "to skip to the battles.",
+      "bbox": [
+        703.3,
+        407.4,
+        839.3,
+        424.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R. Tolkien",
+      "texte_balise": "J.R.R. Tolkien",
+      "bbox": [
+        395.6,
+        419.7,
+        470.9,
+        434.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BILBO'S",
+      "texte_balise": "BILBO'S",
+      "bbox": [
+        487.6,
+        419.8,
+        563.1,
+        439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAST SONG",
+      "texte_balise": "LAST SONG",
+      "bbox": [
+        487.7,
+        440.7,
+        604.9,
+        459.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tharbad",
+      "texte_balise": "Tharbad",
+      "bbox": [
+        180.0,
+        476.4,
+        257.4,
+        493.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aBaNdON hOpE ALL YE WhO ENTER HERE, OF",
+      "texte_balise": "aBaNdON hOpE ALL YE WhO ENTER HERE, OF",
+      "bbox": [
+        699.1,
+        480.6,
+        1174.2,
+        507.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "READING ANYThING EVEN CLOSE TO FINIShEd.",
+      "texte_balise": "READING ANYThING EVEN CLOSE TO FINIShEd.",
+      "bbox": [
+        699.1,
+        503.6,
+        1174.2,
+        528.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRA, TOLKIEN",
+      "texte_balise": "TRA, TOLKIEN",
+      "bbox": [
+        50.2,
+        507.6,
+        110.9,
+        518.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The hISTORY",
+      "texte_balise": "The hISTORY",
+      "bbox": [
+        123.4,
+        511.4,
+        257.5,
+        535.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BILBO'S",
+      "texte_balise": "BILBO'S",
+      "bbox": [
+        408.1,
+        511.8,
+        460.5,
+        524.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAST SONG",
+      "texte_balise": "LAST SONG",
+      "bbox": [
+        399.8,
+        524.5,
+        466.7,
+        534.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of The hOBBIT",
+      "texte_balise": "of The hOBBIT",
+      "bbox": [
+        121.4,
+        532.6,
+        276.3,
+        555.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HATO YOR",
+      "texte_balise": "THE HATO YOR",
+      "bbox": [
+        52.3,
+        538.6,
+        106.7,
+        543.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Some poems",
+      "texte_balise": "Some poems",
+      "bbox": [
+        376.6,
+        576.1,
+        462.7,
+        594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNFINIShEd",
+      "texte_balise": "UNFINIShEd",
+      "bbox": [
+        821.7,
+        596.9,
+        947.0,
+        626.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ThE",
+      "texte_balise": "ThE",
+      "bbox": [
+        1226.5,
+        599.7,
+        1266.3,
+        620.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNFINISHED",
+      "texte_balise": "UNFINISHED",
+      "bbox": [
+        734.7,
+        605.9,
+        793.3,
+        616.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TALES",
+      "texte_balise": "TALES",
+      "bbox": [
+        745.1,
+        616.4,
+        782.8,
+        626.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AdVENTURES OF",
+      "texte_balise": "AdVENTURES OF",
+      "bbox": [
+        487.3,
+        617.8,
+        651.5,
+        644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LETTERS OF",
+      "texte_balise": "LETTERS OF",
+      "bbox": [
+        1226.4,
+        622.1,
+        1343.8,
+        642.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TALES",
+      "texte_balise": "TALES",
+      "bbox": [
+        822.6,
+        622.7,
+        883.3,
+        641.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "].R.R. TOLKIEN",
+      "texte_balise": "].R.R. TOLKIEN",
+      "bbox": [
+        1221.9,
+        641.2,
+        1365.0,
+        666.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of Middle-Earth,",
+      "texte_balise": "The History of Middle-Earth,",
+      "bbox": [
+        52.3,
+        641.5,
+        249.1,
+        662.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOM BOMBAOIL",
+      "texte_balise": "TOM BOMBAOIL",
+      "bbox": [
+        487.7,
+        641.5,
+        653.0,
+        662.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "but for the Hobbit. This book",
+      "texte_balise": "but for the Hobbit. This book",
+      "bbox": [
+        52.3,
+        662.4,
+        249.1,
+        681.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEREN &",
+      "texte_balise": "BEREN &",
+      "bbox": [
+        916.7,
+        666.2,
+        1002.6,
+        683.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R.",
+      "texte_balise": "J.R.R.",
+      "bbox": [
+        845.6,
+        668.6,
+        879.1,
+        681.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Letters of",
+      "texte_balise": "The Letters of",
+      "bbox": [
+        1142.8,
+        677.0,
+        1203.5,
+        687.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        828.8,
+        679.1,
+        893.7,
+        695.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LUThIEN",
+      "texte_balise": "LUThIEN",
+      "bbox": [
+        916.7,
+        683.3,
+        1008.8,
+        704.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wasn't written by any Tolkien,",
+      "texte_balise": "wasn't written by any Tolkien,",
+      "bbox": [
+        54.4,
+        685.4,
+        253.3,
+        702.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRR",
+      "texte_balise": "IRR",
+      "bbox": [
+        1159.5,
+        687.4,
+        1186.7,
+        697.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TOLKIEN",
+      "texte_balise": "TOLKIEN",
+      "bbox": [
+        1144.8,
+        697.7,
+        1201.4,
+        712.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J-R-R-TOLKIEN",
+      "texte_balise": "J-R-R-TOLKIEN",
+      "bbox": [
+        724.2,
+        702.1,
+        801.6,
+        712.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "but Christopher Tolkien",
+      "texte_balise": "but Christopher Tolkien",
+      "bbox": [
+        52.3,
+        704.2,
+        215.6,
+        725.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "reviewed and approved it",
+      "texte_balise": "reviewed and approved it",
+      "bbox": [
+        54.4,
+        725.1,
+        221.9,
+        743.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Letters of Tolkien contains",
+      "texte_balise": "Letters of Tolkien contains",
+      "bbox": [
+        1155.3,
+        741.4,
+        1329.1,
+        756.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "before publication.",
+      "texte_balise": "before publication.",
+      "bbox": [
+        54.4,
+        745.9,
+        180.0,
+        764.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "letters by him on a myriad of",
+      "texte_balise": "letters by him on a myriad of",
+      "bbox": [
+        1153.3,
+        762.4,
+        1345.8,
+        781.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "subjects, but most relate to",
+      "texte_balise": "subjects, but most relate to",
+      "bbox": [
+        1153.3,
+        783.4,
+        1329.1,
+        800.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Middle-Earth.",
+      "texte_balise": "Middle-Earth.",
+      "bbox": [
+        1153.3,
+        804.5,
+        1249.5,
+        821.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ThE hISTORY OF MIdLE EARTh",
+      "texte_balise": "ThE hISTORY OF MIdLE EARTh",
+      "bbox": [
+        502.3,
+        896.3,
+        912.6,
+        927.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE STARING",
+      "texte_balise": "THE STARING",
+      "bbox": [
+        315.9,
+        1014.9,
+        370.6,
+        1028.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PEOPLES",
+      "texte_balise": "THE PEOPLES",
+      "bbox": [
+        1278.8,
+        1015.2,
+        1333.3,
+        1028.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORGETS",
+      "texte_balise": "MORGETS",
+      "bbox": [
+        985.8,
+        1019.7,
+        1042.3,
+        1040.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "HE BOOKO",
+      "texte_balise": "HE BOOKO",
+      "bbox": [
+        48.1,
+        1021.8,
+        92.1,
+        1032.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTHERING",
+      "texte_balise": "OTHERING",
+      "bbox": [
+        736.7,
+        1021.8,
+        797.4,
+        1040.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HE BOOKO!",
+      "texte_balise": "HE BOOKO!",
+      "bbox": [
+        136.0,
+        1025.9,
+        186.3,
+        1036.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MY BRANTH",
+      "texte_balise": "MY BRANTH",
+      "bbox": [
+        314.0,
+        1030.1,
+        374.7,
+        1038.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MIDDL BRARTH",
+      "texte_balise": "MIDDL BRARTH",
+      "bbox": [
+        1274.7,
+        1030.1,
+        1335.3,
+        1038.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LOST TALES",
+      "texte_balise": "LOST TALES",
+      "bbox": [
+        136.0,
+        1034.2,
+        186.3,
+        1045.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRR TOLKIEN",
+      "texte_balise": "IRR TOLKIEN",
+      "bbox": [
+        309.8,
+        1048.9,
+        374.7,
+        1059.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IR.R. TOLKIEN",
+      "texte_balise": "IR.R. TOLKIEN",
+      "bbox": [
+        399.8,
+        1048.9,
+        464.7,
+        1059.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A.R.R.TOLKIEN",
+      "texte_balise": "A.R.R.TOLKIEN",
+      "bbox": [
+        552.6,
+        1048.9,
+        617.4,
+        1059.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1R.R TOLKIEN",
+      "texte_balise": "1R.R TOLKIEN",
+      "bbox": [
+        644.7,
+        1048.9,
+        709.5,
+        1059.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1R.R. TOLKIEN",
+      "texte_balise": "1R.R. TOLKIEN",
+      "bbox": [
+        37.7,
+        1051.0,
+        102.6,
+        1061.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IR.R. TOLKIEN",
+      "texte_balise": "IR.R. TOLKIEN",
+      "bbox": [
+        129.8,
+        1051.0,
+        192.6,
+        1061.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IR.R.TOL KIEN",
+      "texte_balise": "IR.R.TOL KIEN",
+      "bbox": [
+        217.7,
+        1051.0,
+        284.7,
+        1061.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LR.R. TOL KIEN",
+      "texte_balise": "LR.R. TOL KIEN",
+      "bbox": [
+        826.7,
+        1051.0,
+        893.7,
+        1061.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRR TOLKIEN",
+      "texte_balise": "IRR TOLKIEN",
+      "bbox": [
+        981.6,
+        1051.0,
+        1050.7,
+        1061.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IR R TOLKIEN",
+      "texte_balise": "IR R TOLKIEN",
+      "bbox": [
+        1272.6,
+        1051.0,
+        1337.4,
+        1061.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R. TOLKIEN",
+      "texte_balise": "J.R.R. TOLKIEN",
+      "bbox": [
+        1075.8,
+        1053.1,
+        1142.8,
+        1063.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOKS 6-9",
+      "texte_balise": "BOOKS 6-9",
+      "bbox": [
+        671.6,
+        1090.6,
+        787.5,
+        1114.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOKS 1-5",
+      "texte_balise": "BOOKS 1-5",
+      "bbox": [
+        192.6,
+        1094.9,
+        299.3,
+        1114.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOKS 10-11",
+      "texte_balise": "BOOKS 10-11",
+      "bbox": [
+        1002.6,
+        1094.9,
+        1126.0,
+        1109.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOK 12",
+      "texte_balise": "BOOK 12",
+      "bbox": [
+        1262.1,
+        1094.9,
+        1345.8,
+        1109.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Return of",
+      "texte_balise": "The Return of",
+      "bbox": [
+        533.7,
+        1122.1,
+        646.7,
+        1141.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morgoth's Ring",
+      "texte_balise": "Morgoth's Ring",
+      "bbox": [
+        960.7,
+        1124.0,
+        1082.1,
+        1145.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lost Tales Vol. I & II",
+      "texte_balise": "Lost Tales Vol. I & II",
+      "bbox": [
+        31.4,
+        1124.1,
+        190.5,
+        1141.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Peoples of Middle Earth",
+      "texte_balise": "The Peoples of Middle Earth",
+      "bbox": [
+        1193.0,
+        1124.1,
+        1412.8,
+        1145.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These chronicle the writing of",
+      "texte_balise": "These chronicle the writing of",
+      "bbox": [
+        247.0,
+        1145.0,
+        445.8,
+        1162.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These chronicle the writing of",
+      "texte_balise": "These chronicle the writing of",
+      "bbox": [
+        688.6,
+        1145.0,
+        887.4,
+        1164.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Shadow",
+      "texte_balise": "the Shadow",
+      "bbox": [
+        533.5,
+        1146.2,
+        626.0,
+        1166.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lays of Beleriand",
+      "texte_balise": "The Lays of Beleriand",
+      "bbox": [
+        31.4,
+        1155.1,
+        196.7,
+        1176.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The War of the Jewels",
+      "texte_balise": "The War of the Jewels",
+      "bbox": [
+        960.7,
+        1155.1,
+        1128.1,
+        1174.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lord of the Rings.",
+      "texte_balise": "Lord of the Rings.",
+      "bbox": [
+        686.5,
+        1165.8,
+        807.9,
+        1187.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Silmarillion. before the",
+      "texte_balise": "the Silmarillion. before the",
+      "bbox": [
+        247.0,
+        1165.9,
+        424.9,
+        1180.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This chronicles the writing",
+      "texte_balise": "This chronicles the writing",
+      "bbox": [
+        1209.5,
+        1170.0,
+        1386.0,
+        1191.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Treason",
+      "texte_balise": "The Treason",
+      "bbox": [
+        533.6,
+        1178.0,
+        630.1,
+        1197.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Shaping of",
+      "texte_balise": "The Shaping of",
+      "bbox": [
+        31.3,
+        1184.2,
+        150.8,
+        1208.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hobbit and Lord of the Rings",
+      "texte_balise": "Hobbit and Lord of the Rings",
+      "bbox": [
+        244.9,
+        1186.8,
+        441.6,
+        1208.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Appendices of Lord",
+      "texte_balise": "of the Appendices of Lord",
+      "bbox": [
+        1207.7,
+        1193.1,
+        1381.4,
+        1214.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These chronicle his return to",
+      "texte_balise": "These chronicle his return to",
+      "bbox": [
+        967.0,
+        1199.1,
+        1155.3,
+        1214.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Isengard",
+      "texte_balise": "of Isengard",
+      "bbox": [
+        533.7,
+        1201.1,
+        621.6,
+        1224.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "were written.",
+      "texte_balise": "were written.",
+      "bbox": [
+        247.0,
+        1207.7,
+        334.9,
+        1222.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Middle Earth",
+      "texte_balise": "Middle Earth",
+      "bbox": [
+        31.4,
+        1209.8,
+        140.2,
+        1229.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Rings.",
+      "texte_balise": "of the Rings.",
+      "bbox": [
+        1207.5,
+        1213.3,
+        1293.6,
+        1235.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the First Age after finishing",
+      "texte_balise": "the First Age after finishing",
+      "bbox": [
+        962.8,
+        1220.1,
+        1147.0,
+        1241.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The War of the Ring",
+      "texte_balise": "The War of the Ring",
+      "bbox": [
+        533.7,
+        1232.8,
+        690.7,
+        1256.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lost Road",
+      "texte_balise": "The Lost Road",
+      "bbox": [
+        31.4,
+        1241.1,
+        144.4,
+        1260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lord of the Rings, up to his",
+      "texte_balise": "Lord of the Rings, up to his",
+      "bbox": [
+        967.0,
+        1241.1,
+        1144.9,
+        1260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sauron Defeated",
+      "texte_balise": "Sauron Defeated",
+      "bbox": [
+        533.7,
+        1264.1,
+        663.5,
+        1283.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "passing.",
+      "texte_balise": "passing.",
+      "bbox": [
+        962.8,
+        1264.1,
+        1019.3,
+        1282.9
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

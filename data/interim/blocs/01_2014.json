@@ -1,0 +1,578 @@
+{
+  "fichier": "01_2014.jpeg",
+  "date": "2026-07-21T19:28:36.192449+00:00",
+  "taille_origine": [
+    1820,
+    4348
+  ],
+  "hauteur_ligne_mediane": 16.4,
+  "regime": "grille",
+  "regime_source": "vlm:grid",
+  "nb_blocs": 7,
+  "nb_noeuds": 98,
+  "tiers": [
+    "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget...",
+    "Camus",
+    "Mason & Dixon",
+    "of Solitude",
+    "Golden Pavilion",
+    "novel",
+    "Thc Author S. M."
+  ],
+  "intitules_isoles": [
+    "survey. «That's a good number, but 137 would've been better», mused Anonymous while reviewing the forms.",
+    "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget...",
+    "of the Night",
+    "Camus",
+    "Crusade",
+    "Mason & Dixon",
+    "of Solitude",
+    "Golden Pavilion",
+    "Wonderland",
+    "novel",
+    "to the Galaxy",
+    "Thc Author S. M.",
+    "Monte Cristo"
+  ],
+  "blocs": [
+    {
+      "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget...",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Infinite Jest",
+          "auteur": "Wallace",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "The Stranger",
+          "auteur": null,
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "The Brothers Karamazov",
+          "auteur": "Dostoevsky",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Blood Meridian",
+          "auteur": "McCarthy",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Lolita",
+          "auteur": "Nabokov",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Moby Dick",
+          "auteur": "Mellville",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Gravity's Rainbow",
+          "auteur": "Pynchon",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Don Quixote",
+          "auteur": "Cervantes",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "The Trial",
+          "auteur": "Kafka",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        },
+        {
+          "titre": "Journey to the End",
+          "auteur": "Céline",
+          "tier": "It was Friday, the 3rd of April, and a day that pollster Anonymous, of the Four Leaves district, would not easily forget..."
+        }
+      ]
+    },
+    {
+      "tier": "Camus",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Ficciones",
+          "auteur": "Borges",
+          "tier": "Camus"
+        },
+        {
+          "titre": "Ulysses",
+          "auteur": "Joyce",
+          "tier": "Camus"
+        },
+        {
+          "titre": "Crime and Punishment",
+          "auteur": "Dostoevsky",
+          "tier": "Camus"
+        },
+        {
+          "titre": "Catch-22",
+          "auteur": "Heller",
+          "tier": "Camus"
+        },
+        {
+          "titre": "2666",
+          "auteur": "Bolaño",
+          "tier": "Camus"
+        },
+        {
+          "titre": "The Picture of",
+          "auteur": "Wilde",
+          "tier": "Camus"
+        },
+        {
+          "titre": "The Catcher in the Rye",
+          "auteur": "Salinger",
+          "tier": "Camus"
+        },
+        {
+          "titre": "The Sound and",
+          "auteur": "Faulkner",
+          "tier": "Camus"
+        },
+        {
+          "titre": "Nineteen Eighty-Four",
+          "auteur": "Orwell",
+          "tier": "Camus"
+        },
+        {
+          "titre": "The Great Gatsby",
+          "auteur": "Fitzgerald",
+          "tier": "Camus"
+        }
+      ]
+    },
+    {
+      "tier": "Mason & Dixon",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Hamlet",
+          "auteur": "Shakespeare",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Invisible Cities",
+          "auteur": "Calvino",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "One Hundred Years",
+          "auteur": "García Márquez",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Slaughterhouse-Five",
+          "auteur": "Vonnegut",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Mason & Dixon",
+          "auteur": "Pynchon",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Notes from Underground",
+          "auteur": "Dostoevsky",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Siddhartha",
+          "auteur": "Hesse",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Anna Karenina",
+          "auteur": "Tolstoy",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "Dune",
+          "auteur": "Herbert",
+          "tier": "Mason & Dixon"
+        },
+        {
+          "titre": "V.",
+          "auteur": "Pynchon",
+          "tier": "Mason & Dixon"
+        }
+      ]
+    },
+    {
+      "tier": "of Solitude",
+      "bbox": null,
+      "nb_lignes": 30,
+      "noeuds": [
+        {
+          "titre": "The Odyssey",
+          "auteur": "Homer",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Divine Comedy",
+          "auteur": "Alighieri, Dante",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Waves",
+          "auteur": "Woolf",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Master and Margarita",
+          "auteur": "Bulgakov",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Plague",
+          "auteur": "Camus",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "War and Peace",
+          "auteur": "Tolstoy",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "White Noise",
+          "auteur": "DeLillo",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Stoner",
+          "auteur": "Williams, J.",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Wuthering Heights",
+          "auteur": "Bronte, E.",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Dubliners",
+          "auteur": "Joyce",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Book of Disquiet",
+          "auteur": "Pessoa",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Silmarillion",
+          "auteur": "Tolkien",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Heart of Darkness",
+          "auteur": "Conrad",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Hobbit",
+          "auteur": "Tolkien",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "In Search of Lost Time",
+          "auteur": "Proust",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "A Farewell to Arms",
+          "auteur": "Hemmmingway",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Crying of Lot 49",
+          "auteur": "Pynchon",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "As I Lay Dying",
+          "auteur": "Faulkner",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Metamorphosis",
+          "auteur": "Kafka",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Naked Lunch",
+          "auteur": "Burroughs",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "American Psycho",
+          "auteur": "Ellis",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Sun Also Rises",
+          "auteur": "Hemmmingway",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Leaves of Grass",
+          "auteur": "Whitman",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Harry Potter series",
+          "auteur": "Rowling",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "A Clockwork Orange",
+          "auteur": "Burgess",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Grapes of Wrath",
+          "auteur": "Steinbeck",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "On the Road",
+          "auteur": "Kerouac",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "The Temple of the",
+          "auteur": "Mishima",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Fear and Loathing in",
+          "auteur": "Thompson",
+          "tier": "of Solitude"
+        },
+        {
+          "titre": "Do Androids Dream",
+          "auteur": "Dick",
+          "tier": "of Solitude"
+        }
+      ]
+    },
+    {
+      "tier": "Golden Pavilion",
+      "bbox": null,
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Ubil",
+          "auteur": "Dick",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Solaris",
+          "auteur": "Lem",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "The Savage Detectives",
+          "auteur": "Bolaño",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "The Bible",
+          "auteur": null,
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Faust",
+          "auteur": "Goethe",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Lord of the Flies",
+          "auteur": "Golding",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "A Portrait of the Artist as",
+          "auteur": "Joyce",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Adventures of",
+          "auteur": "Twain",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "The Pale King",
+          "auteur": "Wallace",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Light in August",
+          "auteur": "Faulkner",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Dead Souls",
+          "auteur": "Gogol",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Hunger",
+          "auteur": "Hamenr",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Alice's Adventures in",
+          "auteur": "Carroll",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Suttree",
+          "auteur": "McCarthy",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "To the Lighthouse",
+          "auteur": "Woolf",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Malone Dies",
+          "auteur": "Beckett",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Dandelion Wine",
+          "auteur": "Bradbury",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "VALIS",
+          "auteur": "Dick",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "Absalom, Absalom!",
+          "auteur": "Faulkner",
+          "tier": "Golden Pavilion"
+        },
+        {
+          "titre": "The Wasp Factory",
+          "auteur": "Banks",
+          "tier": "Golden Pavilion"
+        }
+      ]
+    },
+    {
+      "tier": "novel",
+      "bbox": null,
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Pale Fire",
+          "auteur": "Nabokov",
+          "tier": "novel"
+        },
+        {
+          "titre": "Thus Spoke Zarathustra",
+          "auteur": "Nietzsche",
+          "tier": "novel"
+        },
+        {
+          "titre": "Animal Farm",
+          "auteur": "Orwell",
+          "tier": "novel"
+        },
+        {
+          "titre": "East of Eden",
+          "auteur": "Steinbeck i",
+          "tier": "novel"
+        },
+        {
+          "titre": "Roadside Picnic",
+          "auteur": "Strugatsky A. & B.",
+          "tier": "novel"
+        },
+        {
+          "titre": "Hopscotch",
+          "auteur": "Cortazar",
+          "tier": "novel"
+        },
+        {
+          "titre": "Walden",
+          "auteur": "Thoreau",
+          "tier": "novel"
+        },
+        {
+          "titre": "Hitchhiker's Guide",
+          "auteur": "Douglas, A.",
+          "tier": "novel"
+        }
+      ]
+    },
+    {
+      "tier": "Thc Author S. M.",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "The Fall",
+          "auteur": "Camus",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "A Tale of Two Cities",
+          "auteur": "Dickens",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "Steppenwolf",
+          "auteur": "Hesse",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "The Iliad",
+          "auteur": "Homer",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "The Illuminatus! trilogy",
+          "auteur": "Wilson: Shea",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "The Good Earth",
+          "auteur": "Buck",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "The Old Man and the Sea",
+          "auteur": "Hemmmingway",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "Paradise Lost",
+          "auteur": "Milton",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "I Am a Cat",
+          "auteur": "Soseki",
+          "tier": "Thc Author S. M."
+        },
+        {
+          "titre": "The Count of",
+          "auteur": "Dumas",
+          "tier": "Thc Author S. M."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "fichier": "27_Political Philosophy.jpeg",
+  "date": "2026-07-21T19:30:37.782177+00:00",
+  "nb_lignes_texte": 523,
+  "nb_caracteres": 7307,
+  "registres_actifs": [
+    "point_entree",
+    "prerequis",
+    "recompense",
+    "injonction"
+  ],
+  "score_total": 7,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 2,
+      "extraits": [
+        "start with Kymlicka (2002) and Held (2006), as they are textbook",
+        "special distinction are bolded. Beginners are encouraged to"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 1,
+      "extraits": [
+        "Moral Foundations for"
+      ]
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 2,
+      "extraits": [
+        "- ENLIGHTENMENT",
+        "Enlightenment"
+      ]
+    },
+    "injonction": {
+      "occurrences": 2,
+      "extraits": [
+        "politics, and what should be done about it",
+        "politics, and what should be done about"
+      ]
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

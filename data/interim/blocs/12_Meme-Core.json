@@ -1,0 +1,253 @@
+{
+  "fichier": "12_Meme-Core.jpeg",
+  "date": "2026-07-21T19:28:36.555704+00:00",
+  "taille_origine": [
+    720,
+    548
+  ],
+  "hauteur_ligne_mediane": 18.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 10,
+  "nb_noeuds": 22,
+  "tiers": [
+    "EGO",
+    "Negative"
+  ],
+  "intitules_isoles": [
+    "Michael Bakunin",
+    "Civilization,"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        48.0,
+        20.0,
+        696.0,
+        58.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/leftypol/'s Essential list of Leftist MEME-CORE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "EGO",
+      "bbox": [
+        56.0,
+        96.0,
+        188.0,
+        208.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AND ITS OWN",
+          "auteur": null,
+          "tier": "EGO"
+        },
+        {
+          "titre": "MAX STIRNER",
+          "auteur": null,
+          "tier": "EGO"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        206.0,
+        98.0,
+        282.0,
+        124.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE HIERARCHIES",
+          "auteur": "OF CUCKOLDRY AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        349.8,
+        106.0,
+        434.2,
+        186.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "FIRST AS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRAGEDY,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEN AS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FARCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        506.0,
+        156.0,
+        622.0,
+        288.0
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "GOD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STATE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Michael Bakunin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "With a New latroduction",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and indes of Persons",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by Paul Avriche",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        57.9,
+        313.7,
+        184.1,
+        402.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Communist",
+          "auteur": "Manifesto",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.0,
+        316.0,
+        482.0,
+        436.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MICHEL FOUCALLE",
+          "auteur": "Madness",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Negative",
+      "bbox": [
+        210.0,
+        317.8,
+        326.1,
+        394.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Dialectics",
+          "auteur": null,
+          "tier": "Negative"
+        },
+        {
+          "titre": "Theodor W. Adorno",
+          "auteur": null,
+          "tier": "Negative"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        504.0,
+        317.9,
+        616.0,
+        368.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HOMAGE 10",
+          "auteur": "CATALONIA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        56.0,
+        480.0,
+        188.0,
+        490.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KARL MARX A FREDERICK ENGELS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

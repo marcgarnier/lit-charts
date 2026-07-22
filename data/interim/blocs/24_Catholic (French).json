@@ -1,0 +1,2061 @@
+{
+  "fichier": "24_Catholic (French).jpeg",
+  "date": "2026-07-21T19:28:36.688352+00:00",
+  "taille_origine": [
+    2975,
+    4860
+  ],
+  "hauteur_ligne_mediane": 26.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 97,
+  "nb_noeuds": 169,
+  "tiers": [
+    "Le Guide du Catholique",
+    "CATÉCHISME",
+    "Catéchisme",
+    "Saint Augustin",
+    "LES SENTENCES DES",
+    "L'ORDRE",
+    "LA RÈGLE",
+    "Histoire de",
+    "Gemma",
+    "SaiSie matherine",
+    "Jésus-Christ",
+    "CRISTIANI",
+    "DE LANCRE"
+  ],
+  "intitules_isoles": [
+    "Ces conseils de lecture, s'ils sont importants pour tout Catholique, ne sauraient en aucun cas remplacer un entretien avec un prêtre",
+    "ou un religieux pour toute personne se questionnant sur une possible future conversion. Parlez plutôt à un prêtre de votre chemin et posez lui vos questions.",
+    "Choisissez vos Bibles avec imprimatur,",
+    "le don de",
+    "Les quatre",
+    "de langue française",
+    "Le Symbole des Apôtre:",
+    "Clons",
+    "Dialogues philosophiques",
+    "à l'année liturgique",
+    "RP. Augustin Berthk",
+    "Vies de saints pour toute l'année",
+    "saint Dominique",
+    "er histoire | ingraphie",
+    "Calgani",
+    "Le livre des visions",
+    "Le cantique",
+    "Exercices Spirituels",
+    "Rosaire",
+    "Jacques Collin de Plancy"
+  ],
+  "blocs": [
+    {
+      "tier": "Le Guide du Catholique",
+      "bbox": [
+        549.2,
+        30.0,
+        2551.2,
+        255.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Ces conseils de lecture, s'ils sont importants pour tout Catholique, ne sauraient en aucun cas remplacer un entretien avec un prêtre",
+          "auteur": null,
+          "tier": "Le Guide du Catholique"
+        },
+        {
+          "titre": "ou un religieux pour toute personne se questionnant sur une possible future conversion. Parlez plutôt à un prêtre de votre chemin et posez lui vos questions.",
+          "auteur": null,
+          "tier": "Le Guide du Catholique"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1353.3,
+        353.7,
+        1647.7,
+        450.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LA BIBLE",
+          "auteur": "TRADUCTION OFFICIELLE LITURGIQUE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        791.2,
+        354.0,
+        925.4,
+        497.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Va sainte",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BIBLE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "d'après les",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "textes originaux",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "силиоте Ана",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CRAMPON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        73.5,
+        505.8,
+        614.0,
+        579.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Choisissez vos Bibles avec imprimatur,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Les suivantes l'ont :",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2144.7,
+        540.2,
+        2265.9,
+        674.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Si tu savais",
+          "auteur": "le don de",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2019.4,
+        618.0,
+        2101.5,
+        674.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Les quatre",
+          "auteur": "Évangiles",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        843.2,
+        752.2,
+        873.5,
+        760.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "1(02",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1651.8,
+        929.0,
+        1850.7,
+        972.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Catéchisme catholique",
+          "auteur": "populaire.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CATÉCHISME",
+      "bbox": [
+        2127.5,
+        938.0,
+        2365.3,
+        1037.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "pour les diocèses",
+          "auteur": null,
+          "tier": "CATÉCHISME"
+        },
+        {
+          "titre": "de langue française",
+          "auteur": null,
+          "tier": "CATÉCHISME"
+        }
+      ]
+    },
+    {
+      "tier": "Catéchisme",
+      "bbox": [
+        626.9,
+        941.9,
+        873.5,
+        1055.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "concile de Trente",
+          "auteur": null,
+          "tier": "Catéchisme"
+        },
+        {
+          "titre": "Le Symbole des Apôtre:",
+          "auteur": null,
+          "tier": "Catéchisme"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1128.6,
+        951.0,
+        1327.5,
+        1016.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Catéchisme",
+          "auteur": "saint Pie X",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2222.6,
+        1262.3,
+        2274.5,
+        1283.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Clons",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2633.4,
+        1426.8,
+        2862.6,
+        1548.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "S THOMAR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Doctoris Angelici, Ordinis Pracdicatorum",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SUMMA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEOLOGICA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cura Fratrum ciusdem Ordinis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        229.2,
+        1427.0,
+        475.7,
+        1448.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PATRIMOINES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2750.1,
+        1427.0,
+        2858.2,
+        1435.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AQUINATIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1474.5,
+        1439.8,
+        1621.5,
+        1448.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GREGOIRE LE GRAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1868.0,
+        1448.7,
+        2006.4,
+        1457.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BASILE DE CESAREE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2274.5,
+        1478.7,
+        2417.2,
+        1487.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JEAN CHRYSOSTOME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1842.1,
+        1508.7,
+        2036.7,
+        1530.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SUR LE SAINT-ESPRIT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1024.8,
+        1513.5,
+        1284.3,
+        1565.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TROIS VIES DE MOINES",
+          "auteur": "(PAUL, MALCHUS, HILARION)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1461.6,
+        1521.7,
+        1630.2,
+        1530.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MORALES SUR IOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.0,
+        1530.7,
+        198.9,
+        1630.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Pères",
+          "auteur": "de N'Église",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2235.6,
+        1530.7,
+        2460.4,
+        1552.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SUR LA PROVIDENCE DE DIEU",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Saint Augustin",
+      "bbox": [
+        657.3,
+        1552.4,
+        838.9,
+        1630.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Les Confessions",
+          "auteur": null,
+          "tier": "Saint Augustin"
+        },
+        {
+          "titre": "Dialogues philosophiques",
+          "auteur": null,
+          "tier": "Saint Augustin"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        246.5,
+        1569.7,
+        454.0,
+        1622.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "AMBROISE DE MILAN",
+          "auteur": "hymnes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2637.7,
+        1764.2,
+        2858.2,
+        1772.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BIBLIOTECA DE AUTORES CRISTIANO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        618.4,
+        1911.1,
+        877.8,
+        1980.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HISTOIRR INIVERSELLE",
+          "auteur": "LEGLISE CATHOLIQUE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.4,
+        1924.1,
+        1245.3,
+        2019.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ENCYCLOPEDIE DELA FOI",
+          "auteur": "Histoire",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.8,
+        1932.4,
+        480.4,
+        2020.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AVE ROULENGER",
+          "auteur": "Histoire abrégée",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2646.4,
+        1937.0,
+        2780.4,
+        1958.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dom Guéranger",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1846.4,
+        1945.4,
+        2036.7,
+        1981.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PETITS BOLLANDISTES",
+          "auteur": "VIES DES SAINTS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.0,
+        1983.6,
+        198.9,
+        2084.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Histoire",
+          "auteur": "de l'Église",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2646.4,
+        1997.5,
+        2862.6,
+        2049.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Introduction",
+          "auteur": "à l'année liturgique",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1872.3,
+        2023.4,
+        2010.7,
+        2032.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PAR ME PAUL GUFRIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.3,
+        2131.3,
+        168.6,
+        2222.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Vies de",
+          "auteur": "saints",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1405.3,
+        2148.8,
+        1677.8,
+        2252.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "RP. Augustin Berthk",
+          "auteur": "Jesus-Christ",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        665.9,
+        2222.2,
+        834.6,
+        2261.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LIBRAINE LOUIS VIVES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2188.0,
+        2308.7,
+        2525.3,
+        2365.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Vies de saints pour toute l'année",
+          "auteur": "Mgr Paul Guérin)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LES SENTENCES DES",
+      "bbox": [
+        203.2,
+        2412.1,
+        480.0,
+        2521.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PERES DU DESERT",
+          "auteur": null,
+          "tier": "LES SENTENCES DES"
+        },
+        {
+          "titre": "& tables.",
+          "auteur": null,
+          "tier": "LES SENTENCES DES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2231.3,
+        2416.8,
+        2460.4,
+        2529.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "François d'Assise",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Écrits, Vies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "témoignages",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ÉDITION DU VIlle CENTENAIRE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1876.7,
+        2434.1,
+        2019.4,
+        2460.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HUMBERT. MARIE",
+          "auteur": "HUMBERT MARIE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "L'ORDRE",
+      "bbox": [
+        1452.9,
+        2451.3,
+        1656.1,
+        2555.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DU TEMPLE",
+          "auteur": null,
+          "tier": "L'ORDRE"
+        },
+        {
+          "titre": "LES TEXTES FONDATEURS",
+          "auteur": null,
+          "tier": "L'ORDRE"
+        },
+        {
+          "titre": "TES TEYTES FONDATRITRS",
+          "auteur": null,
+          "tier": "L'ORDRE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        640.0,
+        2455.7,
+        873.5,
+        2555.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "La Vie",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "et la Règle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de saint Benoit",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de saint Benoît",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.1,
+        2537.8,
+        199.0,
+        2629.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Vie",
+          "auteur": "monastique",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1024.8,
+        2542.0,
+        1279.9,
+        2559.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DES PREMIERS CHARTREUX",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LA RÈGLE",
+      "bbox": [
+        2633.4,
+        2633.4,
+        2862.6,
+        2724.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DU CARMEL",
+          "auteur": null,
+          "tier": "LA RÈGLE"
+        },
+        {
+          "titre": "Structure et esprit",
+          "auteur": null,
+          "tier": "LA RÈGLE"
+        },
+        {
+          "titre": "inu panome anod ala ep эолea",
+          "auteur": null,
+          "tier": "LA RÈGLE"
+        }
+      ]
+    },
+    {
+      "tier": "Histoire de",
+      "bbox": [
+        1829.1,
+        2676.1,
+        2062.6,
+        2797.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "saint Dominique",
+          "auteur": null,
+          "tier": "Histoire de"
+        },
+        {
+          "titre": "er histoire | ingraphie",
+          "auteur": null,
+          "tier": "Histoire de"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1478.9,
+        2758.7,
+        1625.9,
+        2780.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Guy Trédaniel Editeur",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        687.5,
+        2771.7,
+        808.6,
+        2780.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PIERRE TEOUl editeui",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2201.0,
+        2909.6,
+        2486.4,
+        3052.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SAINTE THERESE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HISTOIRE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "D'UNE AME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "manuscrits autobiographiques",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        224.9,
+        2927.3,
+        462.7,
+        3009.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Hildegarde de Bingen",
+          "auteur": "La symphonie",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2754.5,
+        2935.9,
+        2836.6,
+        2979.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Bernard",
+          "auteur": "Gallizia",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1560.9,
+        2944.6,
+        1695.1,
+        3039.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THÉRÈSE",
+          "auteur": "Le Château",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Gemma",
+      "bbox": [
+        2754.5,
+        3022.4,
+        2875.5,
+        3186.6
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Calgani",
+          "auteur": null,
+          "tier": "Gemma"
+        },
+        {
+          "titre": "Ba Salte Cue",
+          "auteur": null,
+          "tier": "Gemma"
+        },
+        {
+          "titre": "Pacre Pio",
+          "auteur": null,
+          "tier": "Gemma"
+        },
+        {
+          "titre": "priait chaque",
+          "auteur": null,
+          "tier": "Gemma"
+        },
+        {
+          "titre": "jour",
+          "auteur": null,
+          "tier": "Gemma"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        16.9,
+        3072.9,
+        190.6,
+        3123.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Mystique",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        618.4,
+        3143.4,
+        877.8,
+        3251.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Angèle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de Foligno",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Le livre des visions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "et instructions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "SaiSie matherine",
+      "bbox": [
+        1007.5,
+        3169.0,
+        1258.3,
+        3299.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Le livre",
+          "auteur": null,
+          "tier": "SaiSie matherine"
+        },
+        {
+          "titre": "des dialogues",
+          "auteur": null,
+          "tier": "SaiSie matherine"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1824.8,
+        3173.4,
+        2041.0,
+        3294.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Saint Jean",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de la Croix",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Le cantique",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "spirituel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2702.6,
+        3273.0,
+        2793.4,
+        3299.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SALVATOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2239.9,
+        3411.3,
+        2464.8,
+        3493.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PETIT",
+          "auteur": "CATÉCHISME",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        237.7,
+        3414.9,
+        458.5,
+        3455.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "L'imitation",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1915.6,
+        3415.3,
+        1976.1,
+        3441.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PIE XII",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1422.6,
+        3423.7,
+        1664.8,
+        3710.1
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Le secret",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "admirable",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "du très saint",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rosaire",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de saint",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Louis-Marie",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Grignion",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de Montfort",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        657.3,
+        3428.2,
+        838.9,
+        3498.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "IGNACE DE LOYOLA",
+          "auteur": "Exercices Spirituels",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1024.8,
+        3433.0,
+        1107.0,
+        3484.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ligueni",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1811.8,
+        3493.2,
+        2084.2,
+        3602.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Culte et dévotion",
+          "auteur": "Sacré-Coeur",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Jésus-Christ",
+      "bbox": [
+        203.2,
+        3515.1,
+        488.6,
+        3614.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Pierre Corneille",
+          "auteur": null,
+          "tier": "Jésus-Christ"
+        },
+        {
+          "titre": "(16=6)",
+          "auteur": null,
+          "tier": "Jésus-Christ"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.1,
+        3540.6,
+        190.3,
+        3632.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dévotions",
+          "auteur": "et messe",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1024.8,
+        3596.4,
+        1275.6,
+        3783.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "L'ART",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "D'AIMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JESUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHRIST",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EDITIONS SAINT.PAUL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        726.5,
+        3636.7,
+        765.4,
+        3662.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ihs",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2616.0,
+        3643.5,
+        2858.5,
+        3753.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Explication",
+          "auteur": "de la Messe",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1833.1,
+        3644.7,
+        2063.0,
+        3705.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LETTRE ENCYCLIQUE",
+          "auteur": "« Haurietis aquas in Gaudio »",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        696.2,
+        3757.0,
+        800.0,
+        3779.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DESCLE DE ROUVER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1885.3,
+        3761.0,
+        2010.7,
+        3783.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PIERRE TEQUIl, éditeur",
+          "auteur": "PIERRE lEQuI, editeur",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1820.5,
+        3913.0,
+        2010.7,
+        3991.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Abbé Guy PAGES",
+          "auteur": "Je FADELLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CRISTIANI",
+      "bbox": [
+        2624.7,
+        3917.4,
+        2875.5,
+        4068.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "LUTHÉRANISME",
+          "auteur": null,
+          "tier": "CRISTIANI"
+        },
+        {
+          "titre": "ALI",
+          "auteur": null,
+          "tier": "CRISTIANI"
+        },
+        {
+          "titre": "PROTESTANTISME",
+          "auteur": null,
+          "tier": "CRISTIANI"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        609.5,
+        3939.2,
+        847.5,
+        4155.4
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "THOMAS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "D'AQUIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SOMME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONTRE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LES GENTILS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Contra Gentiles",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        268.1,
+        3952.0,
+        423.8,
+        3961.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JEAN DAMASCEND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1461.6,
+        3956.5,
+        1643.2,
+        4013.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "NICOLAS DE CUES",
+          "auteur": "Le Coran tamisé",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1059.4,
+        3965.0,
+        1228.1,
+        3974.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MANUET II PATPOLOCUF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        229.2,
+        4012.7,
+        467.0,
+        4034.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ÉCRITS SUR L'ISLAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.8,
+        4025.7,
+        1254.0,
+        4047.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ENTRETIENS AVEC UN MUSULMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.0,
+        4038.7,
+        203.2,
+        4142.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Islam",
+          "auteur": "et",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1816.1,
+        4064.6,
+        2049.6,
+        4224.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "1501",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "QUESTIONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MUSULMANS!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INTERROGER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "L'ISLAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2776.1,
+        4116.0,
+        2875.5,
+        4164.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EVOLUTION DE",
+          "auteur": "DE 1517 À 1528",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2239.8,
+        4177.0,
+        2456.2,
+        4255.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LE VRAI VISAGE DE",
+          "auteur": "LUTHER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1427.0,
+        4406.0,
+        1673.4,
+        4518.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Jacques Collin de Plancy",
+          "auteur": "Dictionnaire",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1820.5,
+        4410.0,
+        2075.6,
+        4466.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PERE GABRIELE AMORTH",
+          "auteur": "CONFESSIONS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2252.7,
+        4423.0,
+        2434.6,
+        4527.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Ange Rodriguez",
+          "auteur": "Enquête",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DE LANCRE",
+      "bbox": [
+        605.4,
+        4427.7,
+        886.4,
+        4609.3
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "TABLEAU",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "DE L'INCONSTANCE",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "DES MAUVAIS ANGES",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "ET DÉMONS",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "OU IL EST AMPLEMENT TRAITE",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "DES SORCIERS",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        },
+        {
+          "titre": "ET DE LA SORCELLERIE",
+          "auteur": null,
+          "tier": "DE LANCRE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1020.5,
+        4427.7,
+        1275.6,
+        4523.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Ton Incenh Surin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Triomphe de l'amour divin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sur les nuissanees",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "de l'Enfer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        259.4,
+        4505.5,
+        445.4,
+        4531.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DESA DEMONOMANIE",
+          "auteur": "DES SORCIERS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2646.4,
+        4514.2,
+        2858.2,
+        4575.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PAULON",
+          "auteur": "SE LIBÉRER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.1,
+        4557.0,
+        1232.4,
+        4566.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "des choses de l'autre vie",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.1,
+        4565.7,
+        194.7,
+        4605.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Démonologie",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        614.0,
+        4700.0,
+        873.5,
+        4722.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ET NOTES PAR NICOLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1906.9,
+        4764.9,
+        1984.8,
+        4790.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CAREND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

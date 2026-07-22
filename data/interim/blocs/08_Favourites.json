@@ -1,0 +1,732 @@
+{
+  "fichier": "08_Favourites.jpeg",
+  "date": "2026-07-21T19:28:36.472905+00:00",
+  "taille_origine": [
+    1600,
+    2400
+  ],
+  "hauteur_ligne_mediane": 19.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 31,
+  "nb_noeuds": 66,
+  "tiers": [
+    "A CANTICLE",
+    "The Carpet Makers",
+    "Heart",
+    "ROADSIDE PICNIC",
+    "THE INVENTION"
+  ],
+  "intitules_isoles": [
+    "An Epic Science Fiction Poem",
+    "Winner of the Nobel Prize",
+    "\"Powerful... vivid",
+    "Dhaigren",
+    "Two outstanding short novels by",
+    "today's most popular Russian SF writers"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        251.2,
+        60.0,
+        1304.7,
+        204.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SELECTED SCIENCE",
+          "auteur": "FICTION FAVORITES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "A CANTICLE",
+      "bbox": [
+        493.3,
+        285.8,
+        740.0,
+        397.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "FOR LEIBOWITZ",
+          "auteur": null,
+          "tier": "A CANTICLE"
+        },
+        {
+          "titre": "WALTER M. MILLER, JK.",
+          "auteur": null,
+          "tier": "A CANTICLE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        151.2,
+        292.8,
+        362.8,
+        372.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Stanislav Lem",
+          "auteur": "SOLARIS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1190.6,
+        299.2,
+        1465.2,
+        379.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANIARA",
+          "auteur": "An Epic Science Fiction Poem",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        848.7,
+        299.7,
+        1076.9,
+        469.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SHADOW",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TORTURER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BY GENE WOLFE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1183.7,
+        697.0,
+        1469.8,
+        739.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HARRY MARTINSON",
+          "auteur": "Winner of the Nobel Prize",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.3,
+        813.0,
+        1104.7,
+        867.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MICHAEL SWANWICK",
+          "auteur": "author of Jack Faust",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1211.6,
+        815.6,
+        1395.3,
+        830.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "24330|754",
+          "auteur": "ANACE SCENCETICTION SPECUL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1181.4,
+        857.0,
+        1444.2,
+        878.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FOURTH MANSIONS by RA. LAFFERTY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        888.4,
+        896.9,
+        1041.9,
+        948.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "\"Powerful... vivid",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a novel of great",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ingenuity and panache.\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Washington Post Book World",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        186.0,
+        936.0,
+        330.2,
+        1015.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE SLYNX",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TATYANA TOLSTAYA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRANSLATED BY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JAMEY GAMBRELL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Carpet Makers",
+      "bbox": [
+        481.4,
+        1171.0,
+        746.5,
+        1245.2
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "ANDREAS",
+          "auteur": null,
+          "tier": "The Carpet Makers"
+        },
+        {
+          "titre": "ESCHBACH",
+          "auteur": null,
+          "tier": "The Carpet Makers"
+        },
+        {
+          "titre": "ANDREAS ESCHBACH",
+          "auteur": null,
+          "tier": "The Carpet Makers"
+        },
+        {
+          "titre": "With an introduction by ORsON SCOTT CARO",
+          "auteur": null,
+          "tier": "The Carpet Makers"
+        },
+        {
+          "titre": "With an introduction by ORson ScotT CAro",
+          "auteur": null,
+          "tier": "The Carpet Makers"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.0,
+        1184.8,
+        1109.6,
+        1258.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "NEBULA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NEBULA AWARD WINNER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AWARD WINNER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STATIONS OF THE TIDE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        841.9,
+        1345.0,
+        1074.4,
+        1368.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ursula ko le guin",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1297.6,
+        1345.1,
+        1444.3,
+        1480.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DYING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EARTH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jack Vance",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "-An exotic unild",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hovering on the edge of time",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        555.8,
+        1347.0,
+        755.8,
+        1382.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Mikhail Bulgakos",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        866.3,
+        1517.0,
+        1053.7,
+        1609.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "LATHE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        130.2,
+        1584.4,
+        386.0,
+        1684.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "nova",
+          "auteur": "samuel r. delany",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Heart",
+      "bbox": [
+        458.1,
+        1630.3,
+        765.1,
+        1798.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "ofa Dog",
+          "auteur": null,
+          "tier": "Heart"
+        },
+        {
+          "titre": "-The author of The Master and Margarita and Hearraf » Doz",
+          "auteur": null,
+          "tier": "Heart"
+        },
+        {
+          "titre": "is one ofbefew truly great writers produced by",
+          "auteur": null,
+          "tier": "Heart"
+        },
+        {
+          "titre": "the Soviet Uaion.\"Saturday Rerien",
+          "auteur": null,
+          "tier": "Heart"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        946.5,
+        1635.5,
+        981.4,
+        1663.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "0 F",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        872.0,
+        1690.6,
+        1049.0,
+        1729.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HEAVEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        941.9,
+        1761.0,
+        983.7,
+        1766.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A NOVE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1179.1,
+        1863.0,
+        1467.4,
+        1903.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Last Question",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        490.7,
+        1865.6,
+        734.9,
+        1889.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "\"A page-turner and a heartbreaker, a tour de force of knotted",
+          "auteur": "teasion and buried angash.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ROADSIDE PICNIC",
+      "bbox": [
+        130.2,
+        1870.0,
+        407.0,
+        2024.2
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Two outstanding short novels by",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        },
+        {
+          "titre": "today's most popular Russian SF writers",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        },
+        {
+          "titre": "TALE OF THE TROIKA",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        },
+        {
+          "titre": "Arkady and Boris Strugalsky",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        },
+        {
+          "titre": "Introduction by",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        },
+        {
+          "titre": "theodore Sturgcon",
+          "auteur": null,
+          "tier": "ROADSIDE PICNIC"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1186.0,
+        1926.0,
+        1265.1,
+        2211.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ASIMOV",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE INVENTION",
+      "bbox": [
+        902.3,
+        1977.0,
+        1025.6,
+        2096.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "OF MOREL",
+          "auteur": null,
+          "tier": "THE INVENTION"
+        },
+        {
+          "titre": "ADOLFO BIOY",
+          "auteur": null,
+          "tier": "THE INVENTION"
+        },
+        {
+          "titre": "CASARES",
+          "auteur": null,
+          "tier": "THE INVENTION"
+        },
+        {
+          "titre": "PROLOGUE BY",
+          "auteur": null,
+          "tier": "THE INVENTION"
+        },
+        {
+          "titre": "¡ORGE LUIS GORGES",
+          "auteur": null,
+          "tier": "THE INVENTION"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        481.4,
+        1991.0,
+        746.5,
+        2079.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Never Let Me",
+          "auteur": "Go",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        634.9,
+        2121.0,
+        695.3,
+        2133.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "I NOVEL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        472.1,
+        2209.0,
+        762.8,
+        2251.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Kazuo Ishiguro",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1230.2,
+        2271.9,
+        1407.1,
+        2312.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "& Nightfall",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

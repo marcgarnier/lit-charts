@@ -1,0 +1,1829 @@
+{
+  "fichier": "03_Foundational Mathematics.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:56.383691+00:00",
+  "duree_s": 5.4,
+  "taille_origine": [
+    5000,
+    8000
+  ],
+  "nb_bandes": 7,
+  "nb_lignes": 165,
+  "lignes": [
+    {
+      "texte": "Mathematics Study Guide:",
+      "texte_balise": "Mathematics Study Guide:",
+      "bbox": [
+        1691.6,
+        122.7,
+        2821.2,
+        224.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Foundational Approach",
+      "texte_balise": "Foundational Approach",
+      "bbox": [
+        1691.6,
+        224.3,
+        2682.0,
+        321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fail Safe",
+      "texte_balise": "Fail Safe",
+      "bbox": [
+        2087.4,
+        522.3,
+        2495.1,
+        611.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How to Prove It",
+      "texte_balise": "How to Prove It",
+      "bbox": [
+        3404.7,
+        711.4,
+        3763.4,
+        759.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art And Craft of",
+      "texte_balise": "The Art And Craft of",
+      "bbox": [
+        2853.3,
+        722.3,
+        3324.4,
+        770.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic Geometry A transition to advanced Naive Set Theory",
+      "texte_balise": "Basic Geometry A transition to advanced Naive Set Theory",
+      "bbox": [
+        833.3,
+        724.8,
+        2250.0,
+        787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALCULUS by",
+      "texte_balise": "CALCULUS by",
+      "bbox": [
+        2366.2,
+        743.6,
+        2703.4,
+        797.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Velleman",
+      "texte_balise": "by Velleman",
+      "bbox": [
+        3404.5,
+        812.2,
+        3688.6,
+        867.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Problem Solving",
+      "texte_balise": "Problem Solving",
+      "bbox": [
+        2853.3,
+        823.9,
+        3238.8,
+        877.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Birkhoff",
+      "texte_balise": "by Birkhoff",
+      "bbox": [
+        850.9,
+        833.2,
+        1119.1,
+        889.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mathematics by",
+      "texte_balise": "mathematics by",
+      "bbox": [
+        1242.0,
+        834.1,
+        1611.3,
+        888.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Paul R. Halmos",
+      "texte_balise": "by Paul R. Halmos",
+      "bbox": [
+        1852.2,
+        834.1,
+        2280.5,
+        888.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Spivak",
+      "texte_balise": "Michael Spivak",
+      "bbox": [
+        2360.8,
+        840.0,
+        2719.5,
+        893.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Paul Zeitz",
+      "texte_balise": "by Paul Zeitz",
+      "bbox": [
+        2853.0,
+        923.8,
+        3158.8,
+        980.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "douglas smith",
+      "texte_balise": "douglas smith",
+      "bbox": [
+        1242.0,
+        935.7,
+        1573.9,
+        990.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rove It",
+      "texte_balise": "rove It",
+      "bbox": [
+        3586.7,
+        995.1,
+        3683.1,
+        1048.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Prove Il",
+      "texte_balise": "Prove Il",
+      "bbox": [
+        3577.4,
+        1000.0,
+        3678.6,
+        1047.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Undergraduate lexts in Mathematic:",
+      "texte_balise": "Undergraduate lexts in Mathematic:",
+      "bbox": [
+        1934.5,
+        1053.3,
+        2178.6,
+        1065.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Undereraduate Texts in Mathematic.",
+      "texte_balise": "Undereraduate Texts in Mathematic.",
+      "bbox": [
+        1937.9,
+        1053.5,
+        2178.8,
+        1064.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL DIVAK",
+      "texte_balise": "MICHAEL DIVAK",
+      "bbox": [
+        2585.7,
+        1059.3,
+        2746.3,
+        1070.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Structured Approach",
+      "texte_balise": "A Structured Approach",
+      "bbox": [
+        3474.3,
+        1059.3,
+        3688.4,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL SPIVAK",
+      "texte_balise": "MICHAEL SPIVAK",
+      "bbox": [
+        2583.3,
+        1059.5,
+        2744.0,
+        1071.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paul R. Halmos",
+      "texte_balise": "Paul R. Halmos",
+      "bbox": [
+        1937.9,
+        1080.7,
+        2130.6,
+        1113.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art and Craft",
+      "texte_balise": "The Art and Craft",
+      "bbox": [
+        2901.5,
+        1096.8,
+        3265.5,
+        1145.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SO ADVANCED",
+      "texte_balise": "SO ADVANCED",
+      "bbox": [
+        1359.7,
+        1123.5,
+        1482.9,
+        1134.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Naive Set Theory",
+      "texte_balise": "Naive Set Theory",
+      "bbox": [
+        1937.9,
+        1123.5,
+        2152.0,
+        1155.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALCULUS",
+      "texte_balise": "CALCULUS",
+      "bbox": [
+        2387.6,
+        1123.5,
+        2767.7,
+        1182.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASIC GEOMETRY",
+      "texte_balise": "BASIC GEOMETRY",
+      "bbox": [
+        872.6,
+        1139.0,
+        1108.1,
+        1166.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATHEMATIG",
+      "texte_balise": "MATHEMATIG",
+      "bbox": [
+        1357.1,
+        1142.7,
+        1476.2,
+        1154.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Problem Solving",
+      "texte_balise": "of Problem Solving",
+      "bbox": [
+        2901.5,
+        1144.9,
+        3260.2,
+        1203.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD EDTION",
+      "texte_balise": "THIRD EDTION",
+      "bbox": [
+        934.5,
+        1178.4,
+        1041.7,
+        1208.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD EDITION",
+      "texte_balise": "THIRD EDITION",
+      "bbox": [
+        936.8,
+        1187.3,
+        1038.5,
+        1198.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "valve oct tooly",
+      "texte_balise": "valve oct tooly",
+      "bbox": [
+        1959.3,
+        1230.5,
+        2061.0,
+        1241.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "APH BEAT",
+      "texte_balise": "APH BEAT",
+      "bbox": [
+        958.3,
+        1267.6,
+        1017.9,
+        1279.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Springel",
+      "texte_balise": "• Springel",
+      "bbox": [
+        1934.5,
+        1445.9,
+        2017.9,
+        1463.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAUL ZEITZ",
+      "texte_balise": "PAUL ZEITZ",
+      "bbox": [
+        2982.1,
+        1451.9,
+        3184.5,
+        1488.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daniel J",
+      "texte_balise": "Daniel J",
+      "bbox": [
+        3494.0,
+        1451.9,
+        3571.4,
+        1475.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic",
+      "texte_balise": "Basic",
+      "bbox": [
+        2446.2,
+        1647.4,
+        2708.6,
+        1738.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intro Algebra",
+      "texte_balise": "Intro Algebra",
+      "bbox": [
+        3476.2,
+        1689.7,
+        3785.7,
+        1743.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intro Analysis",
+      "texte_balise": "Intro Analysis",
+      "bbox": [
+        1297.6,
+        1713.5,
+        1625.0,
+        1767.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geometry",
+      "texte_balise": "Geometry",
+      "bbox": [
+        4480.0,
+        1826.5,
+        4705.2,
+        1887.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Linear algebra by",
+      "texte_balise": "Linear algebra by",
+      "bbox": [
+        2261.9,
+        1838.4,
+        2660.7,
+        1885.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis I by",
+      "texte_balise": "Analysis I by",
+      "bbox": [
+        1583.3,
+        1844.0,
+        1881.0,
+        1904.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Calculus I by",
+      "texte_balise": "Calculus I by",
+      "bbox": [
+        1006.0,
+        1868.1,
+        1303.6,
+        1915.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A First Course in",
+      "texte_balise": "A First Course in",
+      "bbox": [
+        3767.9,
+        1903.8,
+        4154.8,
+        1945.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hoffman and Kunze",
+      "texte_balise": "Hoffman and Kunze",
+      "bbox": [
+        2261.9,
+        1933.5,
+        2714.3,
+        1981.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by David A. Brannan",
+      "texte_balise": "by David A. Brannan",
+      "bbox": [
+        4476.2,
+        1933.5,
+        4952.4,
+        1981.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terence Tao",
+      "texte_balise": "Terence Tao",
+      "bbox": [
+        1583.3,
+        1945.1,
+        1863.1,
+        1987.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tom Apostol",
+      "texte_balise": "Tom Apostol",
+      "bbox": [
+        1005.6,
+        1961.2,
+        1303.9,
+        2018.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abstract Algebra by",
+      "texte_balise": "Abstract Algebra by",
+      "bbox": [
+        3190.5,
+        1981.1,
+        3654.8,
+        2034.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abstract Algebra by",
+      "texte_balise": "Abstract Algebra by",
+      "bbox": [
+        3761.9,
+        2004.6,
+        4226.2,
+        2058.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hungerford",
+      "texte_balise": "Hungerford",
+      "bbox": [
+        3196.3,
+        2075.8,
+        3464.4,
+        2130.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Fraleigh",
+      "texte_balise": "John Fraleigh",
+      "bbox": [
+        3761.9,
+        2105.9,
+        4101.2,
+        2159.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALCULUS",
+      "texte_balise": "CALCULUS",
+      "bbox": [
+        1065.4,
+        2135.5,
+        1291.7,
+        2183.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EAR ALGE",
+      "texte_balise": "EAR ALGE",
+      "bbox": [
+        2607.1,
+        2141.6,
+        2654.8,
+        2421.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EAR",
+      "texte_balise": "EAR",
+      "bbox": [
+        2607.1,
+        2148.9,
+        2660.7,
+        2267.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND EDITION",
+      "texte_balise": "SECOND EDITION",
+      "bbox": [
+        1089.3,
+        2255.7,
+        1256.0,
+        2268.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGEBRA",
+      "texte_balise": "ALGEBRA",
+      "bbox": [
+        2607.1,
+        2256.0,
+        2660.7,
+        2541.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analveich",
+      "texte_balise": "Analveich",
+      "bbox": [
+        1702.4,
+        2260.5,
+        1821.4,
+        2272.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        1702.4,
+        2261.9,
+        1821.4,
+        2273.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Abstract",
+      "texte_balise": "Abstract",
+      "bbox": [
+        3232.0,
+        2271.9,
+        3434.6,
+        2320.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A First Course In",
+      "texte_balise": "A First Course In",
+      "bbox": [
+        3791.7,
+        2284.3,
+        3958.3,
+        2314.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abstract Algebra",
+      "texte_balise": "Abstract Algebra",
+      "bbox": [
+        3797.6,
+        2301.9,
+        4131.0,
+        2350.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra",
+      "texte_balise": "Algebra",
+      "bbox": [
+        3231.8,
+        2318.8,
+        3417.0,
+        2374.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geometry",
+      "texte_balise": "Geometry",
+      "bbox": [
+        4523.7,
+        2403.8,
+        4785.9,
+        2453.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOM M. APOSTOL",
+      "texte_balise": "TOM M. APOSTOL",
+      "bbox": [
+        1083.3,
+        2481.9,
+        1267.9,
+        2512.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas W. Hungerford",
+      "texte_balise": "Thomas W. Hungerford",
+      "bbox": [
+        3232.1,
+        2642.2,
+        3434.5,
+        2672.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis Basic",
+      "texte_balise": "Analysis Basic",
+      "bbox": [
+        1256.0,
+        2731.4,
+        1607.1,
+        2791.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra Basic",
+      "texte_balise": "Algebra Basic",
+      "bbox": [
+        3476.2,
+        2898.1,
+        3809.5,
+        2951.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis Il by",
+      "texte_balise": "Analysis Il by",
+      "bbox": [
+        1226.0,
+        2926.9,
+        1541.8,
+        2988.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Mathematical",
+      "texte_balise": "Real Mathematical",
+      "bbox": [
+        761.9,
+        2933.3,
+        1190.5,
+        2975.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Principles of Mathematical",
+      "texte_balise": "Principles of Mathematical",
+      "bbox": [
+        1613.1,
+        2945.7,
+        2226.2,
+        2993.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis by Pugh",
+      "texte_balise": "Analysis by Pugh",
+      "bbox": [
+        756.0,
+        3028.7,
+        1160.7,
+        3088.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terence Tao",
+      "texte_balise": "Terence Tao",
+      "bbox": [
+        1232.1,
+        3028.7,
+        1511.9,
+        3070.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abstract Algebra",
+      "texte_balise": "Abstract Algebra",
+      "bbox": [
+        3756.0,
+        3028.7,
+        4148.8,
+        3082.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra",
+      "texte_balise": "Algebra",
+      "bbox": [
+        3172.5,
+        3034.2,
+        3357.3,
+        3083.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis by Rudin",
+      "texte_balise": "Analysis by Rudin",
+      "bbox": [
+        1607.1,
+        3040.8,
+        2035.7,
+        3100.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Dummit Foote",
+      "texte_balise": "by Dummit Foote",
+      "bbox": [
+        3767.9,
+        3124.1,
+        4172.6,
+        3177.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Michael Artin",
+      "texte_balise": "by Michael Artin",
+      "bbox": [
+        3166.7,
+        3136.0,
+        3547.6,
+        3189.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Principles of",
+      "texte_balise": "Principles of",
+      "bbox": [
+        1714.1,
+        3164.7,
+        1946.6,
+        3208.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEXT AATRENATIGS 38",
+      "texte_balise": "TEXT AATRENATIGS 38",
+      "bbox": [
+        1363.1,
+        3165.7,
+        1541.7,
+        3201.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mathematical",
+      "texte_balise": "Mathematical",
+      "bbox": [
+        1714.3,
+        3207.3,
+        1964.3,
+        3243.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        1713.2,
+        3245.9,
+        1876.1,
+        3311.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles C. Pugh",
+      "texte_balise": "Charles C. Pugh",
+      "bbox": [
+        756.0,
+        3260.3,
+        863.1,
+        3290.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ABSTRACT",
+      "texte_balise": "ABSTRACT",
+      "bbox": [
+        3797.6,
+        3266.8,
+        4023.8,
+        3296.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real",
+      "texte_balise": "Real",
+      "bbox": [
+        750.0,
+        3308.4,
+        851.2,
+        3367.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGEBRA",
+      "texte_balise": "ALGEBRA",
+      "bbox": [
+        3797.6,
+        3326.2,
+        3994.0,
+        3355.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis Il",
+      "texte_balise": "Analysis Il",
+      "bbox": [
+        1351.2,
+        3327.6,
+        1470.2,
+        3357.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analvsis IT",
+      "texte_balise": "Analvsis IT",
+      "bbox": [
+        1351.2,
+        3332.2,
+        1470.2,
+        3350.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mathematical",
+      "texte_balise": "Mathematical",
+      "bbox": [
+        749.9,
+        3373.0,
+        1047.8,
+        3428.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGEBRA",
+      "texte_balise": "ALGEBRA",
+      "bbox": [
+        3208.3,
+        3385.7,
+        3529.8,
+        3468.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        750.0,
+        3433.2,
+        928.6,
+        3498.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID S. DUMMIT",
+      "texte_balise": "DAVID S. DUMMIT",
+      "bbox": [
+        3958.3,
+        3570.9,
+        4148.8,
+        3583.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Springer",
+      "texte_balise": "Springer",
+      "bbox": [
+        970.2,
+        3583.3,
+        1059.5,
+        3613.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD M. FOOTE",
+      "texte_balise": "RICHARD M. FOOTE",
+      "bbox": [
+        3946.4,
+        3630.4,
+        4148.8,
+        3642.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second Edition",
+      "texte_balise": "Second Edition",
+      "bbox": [
+        3410.7,
+        3678.4,
+        3529.8,
+        3690.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Medium",
+      "texte_balise": "Medium",
+      "bbox": [
+        2077.3,
+        3761.2,
+        2440.6,
+        3845.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functions of One",
+      "texte_balise": "Functions of One",
+      "bbox": [
+        1154.8,
+        4112.2,
+        1553.6,
+        4160.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ordinary Differential",
+      "texte_balise": "Ordinary Differential",
+      "bbox": [
+        2369.0,
+        4189.8,
+        2845.2,
+        4243.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Topology by",
+      "texte_balise": "Topology by",
+      "bbox": [
+        589.2,
+        4213.2,
+        881.0,
+        4273.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complex Variable I",
+      "texte_balise": "Complex Variable I",
+      "bbox": [
+        1148.8,
+        4213.5,
+        1589.3,
+        4267.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functional Analysis by",
+      "texte_balise": "Functional Analysis by",
+      "bbox": [
+        1678.6,
+        4213.6,
+        2202.4,
+        4267.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Equations by Arnold",
+      "texte_balise": "Equations by Arnold",
+      "bbox": [
+        2369.0,
+        4290.6,
+        2845.2,
+        4344.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James R. Munkes",
+      "texte_balise": "James R. Munkes",
+      "bbox": [
+        595.2,
+        4314.1,
+        1006.0,
+        4356.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by John Conway",
+      "texte_balise": "by John Conway",
+      "bbox": [
+        1148.8,
+        4314.1,
+        1541.7,
+        4368.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George Banchman",
+      "texte_balise": "George Banchman",
+      "bbox": [
+        1678.6,
+        4314.1,
+        2107.1,
+        4362.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graduate Texts",
+      "texte_balise": "Graduate Texts",
+      "bbox": [
+        1214.1,
+        4379.0,
+        1530.0,
+        4446.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOPOLOGY",
+      "texte_balise": "TOPOLOGY",
+      "bbox": [
+        618.9,
+        4397.0,
+        940.7,
+        4470.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arnol'd",
+      "texte_balise": "Arnol'd",
+      "bbox": [
+        2458.3,
+        4397.9,
+        2529.8,
+        4427.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Mathematics",
+      "texte_balise": "in Mathematics",
+      "bbox": [
+        1213.3,
+        4423.2,
+        1530.8,
+        4509.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TUTULUDI",
+      "texte_balise": "TUTULUDI",
+      "bbox": [
+        619.0,
+        4429.0,
+        934.5,
+        4476.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "in Math",
+      "texte_balise": "in Math",
+      "bbox": [
+        1226.2,
+        4434.9,
+        1363.1,
+        4500.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ordinary",
+      "texte_balise": "Ordinary",
+      "bbox": [
+        2458.3,
+        4445.4,
+        2636.9,
+        4510.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "amenalds",
+      "texte_balise": "amenalds",
+      "bbox": [
+        1303.6,
+        4458.7,
+        1517.9,
+        4500.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SECOND EDITION",
+      "texte_balise": "SECOND EDITION",
+      "bbox": [
+        654.0,
+        4468.3,
+        899.5,
+        4506.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functional",
+      "texte_balise": "Functional",
+      "bbox": [
+        1779.4,
+        4497.2,
+        2071.8,
+        4560.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Differential",
+      "texte_balise": "Differential",
+      "bbox": [
+        2458.2,
+        4504.2,
+        2702.5,
+        4565.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John B. Conway",
+      "texte_balise": "John B. Conway",
+      "bbox": [
+        1279.8,
+        4516.8,
+        1458.3,
+        4552.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonn B. Conway",
+      "texte_balise": "Jonn B. Conway",
+      "bbox": [
+        1279.8,
+        4530.1,
+        1452.4,
+        4547.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        1779.4,
+        4550.9,
+        2006.4,
+        4613.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functions of",
+      "texte_balise": "Functions of",
+      "bbox": [
+        1279.8,
+        4564.4,
+        1452.4,
+        4594.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Equations",
+      "texte_balise": "Equations",
+      "bbox": [
+        2452.2,
+        4569.9,
+        2666.8,
+        4642.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Complex",
+      "texte_balise": "One Complex",
+      "bbox": [
+        1285.7,
+        4587.9,
+        1458.3,
+        4623.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "eorge Bachman anc",
+      "texte_balise": "eorge Bachman anc",
+      "bbox": [
+        1797.6,
+        4617.6,
+        1946.4,
+        4647.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Variable",
+      "texte_balise": "Variable",
+      "bbox": [
+        1279.8,
+        4617.9,
+        1404.8,
+        4641.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George Bachman and",
+      "texte_balise": "George Bachman and",
+      "bbox": [
+        1785.7,
+        4619.3,
+        1958.3,
+        4649.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lawrence Narici",
+      "texte_balise": "Lawrence Narici",
+      "bbox": [
+        1785.7,
+        4643.0,
+        1916.7,
+        4673.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second Edition",
+      "texte_balise": "Second Edition",
+      "bbox": [
+        1279.8,
+        4659.5,
+        1422.6,
+        4695.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second edition",
+      "texte_balise": "Second edition",
+      "bbox": [
+        1279.8,
+        4672.8,
+        1416.7,
+        4684.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES R. MUNKRES",
+      "texte_balise": "JAMES R. MUNKRES",
+      "bbox": [
+        654.8,
+        4791.7,
+        892.9,
+        4821.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Springer",
+      "texte_balise": "• Springer",
+      "bbox": [
+        1279.8,
+        4821.4,
+        1375.0,
+        4851.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advance",
+      "texte_balise": "Advance",
+      "bbox": [
+        1958.3,
+        5094.9,
+        2369.0,
+        5178.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra by",
+      "texte_balise": "Algebra by",
+      "bbox": [
+        3577.4,
+        5130.1,
+        3833.3,
+        5190.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Serge Lang",
+      "texte_balise": "Serge Lang",
+      "bbox": [
+        3583.1,
+        5230.4,
+        3845.5,
+        5286.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to Smooth",
+      "texte_balise": "Introduction to Smooth",
+      "bbox": [
+        750.0,
+        5243.6,
+        1291.7,
+        5285.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functions of One",
+      "texte_balise": "Functions of One",
+      "bbox": [
+        1970.2,
+        5285.0,
+        2369.0,
+        5333.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifolds by",
+      "texte_balise": "Manifolds by",
+      "bbox": [
+        744.0,
+        5344.4,
+        1047.6,
+        5398.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complex Variable II",
+      "texte_balise": "Complex Variable II",
+      "bbox": [
+        1970.2,
+        5386.3,
+        2416.7,
+        5433.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analisys by",
+      "texte_balise": "Real Analisys by",
+      "bbox": [
+        2809.5,
+        5386.3,
+        3196.4,
+        5439.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John M. Lee",
+      "texte_balise": "John M. Lee",
+      "bbox": [
+        756.0,
+        5445.7,
+        1035.7,
+        5487.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Royden",
+      "texte_balise": "Royden",
+      "bbox": [
+        2809.5,
+        5481.4,
+        2994.0,
+        5540.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by John Conway",
+      "texte_balise": "by John Conway",
+      "bbox": [
+        1970.2,
+        5486.9,
+        2357.1,
+        5535.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GTM",
+      "texte_balise": "GTM",
+      "bbox": [
+        1035.7,
+        5570.6,
+        1172.6,
+        5641.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "L",
+      "texte_balise": "L",
+      "bbox": [
+        1357.1,
+        5572.0,
+        1440.5,
+        5649.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graduate Texts",
+      "texte_balise": "Graduate Texts",
+      "bbox": [
+        2029.6,
+        5587.7,
+        2327.5,
+        5654.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graduate Texts",
+      "texte_balise": "Graduate Texts",
+      "bbox": [
+        3547.5,
+        5599.9,
+        3821.5,
+        5654.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Mathematics",
+      "texte_balise": "in Mathematics",
+      "bbox": [
+        2022.8,
+        5637.5,
+        2328.4,
+        5717.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Mathematics",
+      "texte_balise": "in Mathematics",
+      "bbox": [
+        3535.5,
+        5652.5,
+        3821.7,
+        5708.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REAL",
+      "texte_balise": "REAL",
+      "bbox": [
+        2821.2,
+        5659.0,
+        3006.2,
+        5725.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANALYSIS",
+      "texte_balise": "ANALYSIS",
+      "bbox": [
+        2815.2,
+        5724.1,
+        3149.0,
+        5797.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John M. Lee",
+      "texte_balise": "John M. Lee",
+      "bbox": [
+        785.7,
+        5732.5,
+        898.8,
+        5762.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John B. Conway",
+      "texte_balise": "John B. Conway",
+      "bbox": [
+        2077.4,
+        5737.1,
+        2250.0,
+        5766.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Serge Lang",
+      "texte_balise": "Serge Lang",
+      "bbox": [
+        3660.7,
+        5754.4,
+        3785.7,
+        5790.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functions of",
+      "texte_balise": "Functions of",
+      "bbox": [
+        2077.4,
+        5784.2,
+        2244.0,
+        5814.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to",
+      "texte_balise": "Introduction to",
+      "bbox": [
+        779.4,
+        5788.4,
+        1077.8,
+        5846.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra",
+      "texte_balise": "Algebra",
+      "bbox": [
+        3696.2,
+        5801.8,
+        3821.6,
+        5838.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Complex",
+      "texte_balise": "One Complex",
+      "bbox": [
+        2077.4,
+        5813.9,
+        2250.0,
+        5844.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H.L. Royden • P.M. Fitzpatrick",
+      "texte_balise": "H.L. Royden • P.M. Fitzpatrick",
+      "bbox": [
+        2821.4,
+        5820.1,
+        3065.5,
+        5844.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourth",
+      "texte_balise": "Fourth",
+      "bbox": [
+        3077.4,
+        5820.3,
+        3142.9,
+        5850.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H. Royden . P.M. Fitzpatrick",
+      "texte_balise": "H. Royden . P.M. Fitzpatrick",
+      "bbox": [
+        2821.4,
+        5827.2,
+        3053.6,
+        5839.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Variable li",
+      "texte_balise": "Variable li",
+      "bbox": [
+        2077.4,
+        5839.6,
+        2208.3,
+        5869.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Smooth Manifolds",
+      "texte_balise": "Smooth Manifolds",
+      "bbox": [
+        779.8,
+        5845.5,
+        1142.9,
+        5905.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Springer",
+      "texte_balise": "• Springer",
+      "bbox": [
+        3547.5,
+        6029.2,
+        3678.7,
+        6066.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My Springer",
+      "texte_balise": "My Springer",
+      "bbox": [
+        2065.5,
+        6029.8,
+        2154.8,
+        6071.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Springer",
+      "texte_balise": "• Springer",
+      "bbox": [
+        1035.7,
+        6183.9,
+        1154.8,
+        6214.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

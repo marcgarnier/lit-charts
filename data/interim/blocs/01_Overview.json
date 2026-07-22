@@ -1,0 +1,1186 @@
+{
+  "fichier": "01_Overview.jpg",
+  "date": "2026-07-21T19:28:36.218020+00:00",
+  "taille_origine": [
+    2048,
+    1437
+  ],
+  "hauteur_ligne_mediane": 15.7,
+  "regime": "blocs",
+  "regime_source": "vlm:list",
+  "nb_blocs": 18,
+  "nb_noeuds": 185,
+  "tiers": [
+    "The Greeks",
+    "Optional Christian Works",
+    "Christian Thinkers",
+    "Greco-Roman",
+    "Rationalists",
+    "Islamic Thinkers",
+    "Empiricists",
+    "Political Philosophy",
+    "Asian Thinkers",
+    "Logical Empiricism",
+    "Existentialism",
+    "Idealism",
+    "Hegel",
+    "Analytic Philosophy"
+  ],
+  "intitules_isoles": [
+    "Luther: 95 Thesis",
+    "Christian Thinkers",
+    "Augustine: The Confessions",
+    "Buridan: Summulae de dialectica",
+    "NPNF: St. Basil",
+    "Scotus: Philosphical Writings",
+    "Malebranche: Treatise on Nature",
+    "Malebranche: The Search after Truth",
+    "Montaigne: Essays",
+    "Price: Dynamism, Containment and Change",
+    "Heidegger: Concerning Technology",
+    "Postscript"
+  ],
+  "blocs": [
+    {
+      "tier": "The Greeks",
+      "bbox": [
+        604.2,
+        49.0,
+        833.5,
+        241.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "The Pre-Socratic Philosophers",
+          "auteur": null,
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Iliad",
+          "auteur": "Homer",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Odyssey",
+          "auteur": "Homer",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Plato",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Aristotle",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Fragments",
+          "auteur": "Heraclitus",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Fragments",
+          "auteur": "Parmenides",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "On Nature",
+          "auteur": "Epicurus",
+          "tier": "The Greeks"
+        },
+        {
+          "titre": "Persians and Other Plays",
+          "auteur": "Aeschylus",
+          "tier": "The Greeks"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        35.7,
+        68.0,
+        372.1,
+        151.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Barring Islamic, I was able to find",
+          "auteur": "English version of all of these on",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Optional Christian Works",
+      "bbox": [
+        1232.4,
+        79.9,
+        1598.5,
+        258.8
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Complete Works",
+          "auteur": "Dionysius",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "Theophany",
+          "auteur": "Pearl",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "The Unknown God",
+          "auteur": "Carabine",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Eckhart",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "Theologica Germanica",
+          "auteur": "Anon",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "Through Faith Alone",
+          "auteur": "Luther",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "Commentary on St. Paul's Epistle to the Galatians",
+          "auteur": "Luther",
+          "tier": "Optional Christian Works"
+        },
+        {
+          "titre": "95 Thesis",
+          "auteur": "Luther",
+          "tier": "Optional Christian Works"
+        }
+      ]
+    },
+    {
+      "tier": "Christian Thinkers",
+      "bbox": [
+        964.5,
+        270.7,
+        1309.8,
+        615.9
+      ],
+      "nb_lignes": 18,
+      "noeuds": [
+        {
+          "titre": "The Confessions",
+          "auteur": "Augustine",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "The City of God",
+          "auteur": "Augustine",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Consolation of Philosophy",
+          "auteur": "Boethius",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Major Works",
+          "auteur": "Anselm",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Summa Theologica",
+          "auteur": "Aquinas",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Letter to the Friars Minor and Other Writings",
+          "auteur": "Ockham",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Theory of Terms",
+          "auteur": "Ockham",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Summulae de dialectica",
+          "auteur": "Buridan",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Philokalia",
+          "auteur": "Various",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "First Century Thinkers",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Second Century Thinkers",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Third Century Thinkers",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "St. Basil",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "St. Cyril",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "St. Gregory",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "St. Chrysostom",
+          "auteur": "NPNF",
+          "tier": "Christian Thinkers"
+        },
+        {
+          "titre": "Philosphical Writings",
+          "auteur": "Scotus",
+          "tier": "Christian Thinkers"
+        }
+      ]
+    },
+    {
+      "tier": "Greco-Roman",
+      "bbox": [
+        601.3,
+        309.4,
+        863.3,
+        523.6
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "Handbook",
+          "auteur": "Epictetus",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Discourse",
+          "auteur": "Epictetus",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Meditations",
+          "auteur": "Aurelius",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "On the Commonwealth and Laws",
+          "auteur": "Cicero",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "On Morals",
+          "auteur": "Cicero",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Letters",
+          "auteur": "Cicero",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Moralia",
+          "auteur": "Plutarch",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Enneads",
+          "auteur": "Plotinus",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "The Elements of Theology",
+          "auteur": "Proclus",
+          "tier": "Greco-Roman"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Seneca",
+          "tier": "Greco-Roman"
+        }
+      ]
+    },
+    {
+      "tier": "Rationalists",
+      "bbox": [
+        1488.4,
+        443.2,
+        1753.3,
+        678.5
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "The Philosophical Writings I",
+          "auteur": "Descartes",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "The Philosophical Writings II",
+          "auteur": "Descartes",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "The Philosophical Writings III",
+          "auteur": "Descartes",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Spinoza",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Philosophical Essays",
+          "auteur": "Leibniz",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Monadology",
+          "auteur": "Leibniz",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "The Guide for the Perplexed",
+          "auteur": "Maimonides",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Teatise on Ethics",
+          "auteur": "Malebranche",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Treatise on Nature",
+          "auteur": "Malebranche",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "The Search after Truth",
+          "auteur": "Malebranche",
+          "tier": "Rationalists"
+        },
+        {
+          "titre": "Essays",
+          "auteur": "Montaigne",
+          "tier": "Rationalists"
+        }
+      ]
+    },
+    {
+      "tier": "Islamic Thinkers",
+      "bbox": [
+        41.7,
+        505.6,
+        440.6,
+        621.8
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "The Book of Healing",
+          "auteur": "Avicenna",
+          "tier": "Islamic Thinkers"
+        },
+        {
+          "titre": "Al-isharat wa al-tanbihat (Remarks and Admonitions)",
+          "auteur": "Avicenna",
+          "tier": "Islamic Thinkers"
+        },
+        {
+          "titre": "Kitab al-Najat (The Book of Salvation)",
+          "auteur": "Avicenna",
+          "tier": "Islamic Thinkers"
+        },
+        {
+          "titre": "The Incoherence of the Philosophers",
+          "auteur": "Al-Ghazali",
+          "tier": "Islamic Thinkers"
+        },
+        {
+          "titre": "The Incoherence of the Incoherence",
+          "auteur": "Averroes",
+          "tier": "Islamic Thinkers"
+        }
+      ]
+    },
+    {
+      "tier": "Empiricists",
+      "bbox": [
+        967.3,
+        695.3,
+        1247.3,
+        946.3
+      ],
+      "nb_lignes": 13,
+      "noeuds": [
+        {
+          "titre": "Concerning Education",
+          "auteur": "Locke",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Concerning Tolerance",
+          "auteur": "Locke",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Two Treatises of Government",
+          "auteur": "Locke",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Human Understanding",
+          "auteur": "Locke",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Reasonability of Christianity",
+          "auteur": "Locke",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Philosophical Writings",
+          "auteur": "Berkeley",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "A Treatise of Human Nature",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Concerning Human Understanding",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Concerning Natural Religion",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Essays, Moral, Political, and Literary",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Natural History of Religion",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        },
+        {
+          "titre": "Principles of Morals",
+          "auteur": "Hume",
+          "tier": "Empiricists"
+        }
+      ]
+    },
+    {
+      "tier": "Political Philosophy",
+      "bbox": [
+        1372.3,
+        699.2,
+        1687.8,
+        952.3
+      ],
+      "nb_lignes": 13,
+      "noeuds": [
+        {
+          "titre": "Discourses on Livy",
+          "auteur": "Machiavelli",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "The Prince",
+          "auteur": "Machiavelli",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Leviathan",
+          "auteur": "Hobbes",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Rousseau and the Well Ordered Society",
+          "auteur": "Viroli",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "A Discourse on the Origin of Inequality",
+          "auteur": "Rousseau",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Confessions",
+          "auteur": "Rousseau",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Emile",
+          "auteur": "Rousseau",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "The Spirit of Laws",
+          "auteur": "Montesquieu",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Persian Letters",
+          "auteur": "Montesquieu",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Candide",
+          "auteur": "Voltaire",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Principal Questions in Morals",
+          "auteur": "Price",
+          "tier": "Political Philosophy"
+        },
+        {
+          "titre": "Dynamism, Containment and Change",
+          "auteur": "Price",
+          "tier": "Political Philosophy"
+        }
+      ]
+    },
+    {
+      "tier": "Asian Thinkers",
+      "bbox": [
+        250.0,
+        708.1,
+        488.2,
+        862.8
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Mencius",
+          "auteur": "Various",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "Zhuangzi",
+          "auteur": "Zhuang Zhou",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "Zhan Guo Ce",
+          "auteur": "Anon",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "Four Books and Five Classics",
+          "auteur": "Various",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "Tao Te Ching",
+          "auteur": "Laozi",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "The Analects",
+          "auteur": "Confucius",
+          "tier": "Asian Thinkers"
+        },
+        {
+          "titre": "Mozi",
+          "auteur": "Mozi",
+          "tier": "Asian Thinkers"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1693.8,
+        717.0,
+        2039.1,
+        943.3
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "Origin of our Ideas of the Sublime and Beautiful",
+          "auteur": "Burke",
+          "tier": null
+        },
+        {
+          "titre": "Pre-Revolutionary Writings",
+          "auteur": "Burke",
+          "tier": null
+        },
+        {
+          "titre": "Reflections on the Revolution",
+          "auteur": "Burke",
+          "tier": null
+        },
+        {
+          "titre": "Common Sense",
+          "auteur": "Paine",
+          "tier": null
+        },
+        {
+          "titre": "Essay on Religion",
+          "auteur": "Paine",
+          "tier": null
+        },
+        {
+          "titre": "Age of Reason",
+          "auteur": "Paine",
+          "tier": null
+        },
+        {
+          "titre": "The Rights of Man",
+          "auteur": "Paine",
+          "tier": null
+        },
+        {
+          "titre": "Considerations on France",
+          "auteur": "Maistre",
+          "tier": null
+        },
+        {
+          "titre": "Communist Manifesto",
+          "auteur": "Marx/Engels",
+          "tier": null
+        },
+        {
+          "titre": "Condition of the Working Class in London",
+          "auteur": "Engels",
+          "tier": null
+        },
+        {
+          "titre": "The Holy Family",
+          "auteur": "Marx/Engels",
+          "tier": null
+        },
+        {
+          "titre": "The Origin of the Family",
+          "auteur": "Engels",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Logical Empiricism",
+      "bbox": [
+        637.0,
+        746.5,
+        940.7,
+        868.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Ethics and the Will: Essays",
+          "auteur": "Schlick",
+          "tier": "Logical Empiricism"
+        },
+        {
+          "titre": "General Theory of Knowledge",
+          "auteur": "Schlick",
+          "tier": "Logical Empiricism"
+        },
+        {
+          "titre": "Problem of Ethics",
+          "auteur": "Schlick",
+          "tier": "Logical Empiricism"
+        },
+        {
+          "titre": "Philosophy between Science and",
+          "auteur": "Otto Neurath",
+          "tier": "Logical Empiricism"
+        },
+        {
+          "titre": "Politics",
+          "auteur": null,
+          "tier": "Logical Empiricism"
+        }
+      ]
+    },
+    {
+      "tier": "Existentialism",
+      "bbox": [
+        1764.9,
+        1026.4,
+        2042.0,
+        1409.3
+      ],
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Untimely Meditations",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Beyond Good and Evil",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Philosophy of the Greeks",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Geneology of Morals",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "On Truth and Lies in a Nonmoral",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Sense",
+          "auteur": null,
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "The Gay Science",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "The Birth of Tragedy",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "The Antichrist",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Human, All Too Human",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Thus Spoke Zarathustra",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Ecce Homo",
+          "auteur": "Nietzsche",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Either/Or",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Fear and Trembling",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Works of Love",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "The Sickness unto Death",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Purity of Heart",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Concluding Unscientific",
+          "auteur": "Kierkegaard",
+          "tier": "Existentialism"
+        },
+        {
+          "titre": "Postscript",
+          "auteur": null,
+          "tier": "Existentialism"
+        }
+      ]
+    },
+    {
+      "tier": "Idealism",
+      "bbox": [
+        970.4,
+        1029.4,
+        1336.6,
+        1351.1
+      ],
+      "nb_lignes": 17,
+      "noeuds": [
+        {
+          "titre": "Prolegomena to Any Future Metaphysics",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Critique of Pure Reason",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Critique of Practical Reason",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Critique of Judgement",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Groundwork for the Metaphysics of Morals",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Universal Natural History",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Religion within the Limits of Reason",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Argument for God",
+          "auteur": "Kant",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Attempt at a Critique of All Revelation",
+          "auteur": "Fichte",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Foundation of Natural Right",
+          "auteur": "Fichte",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "System of Ethics",
+          "auteur": "Fichte",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "The Science of Knowing",
+          "auteur": "Fichte",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Schopenhauer:Principle of Sufficient Reason",
+          "auteur": null,
+          "tier": "Idealism"
+        },
+        {
+          "titre": "The World as Will and Representation",
+          "auteur": "Schopenhauer",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "The Two Fundamental Problem with Ethics",
+          "auteur": "Schopenhauer",
+          "tier": "Idealism"
+        },
+        {
+          "titre": "Schopenhauer:Parerga and Paralipomena",
+          "auteur": null,
+          "tier": "Idealism"
+        }
+      ]
+    },
+    {
+      "tier": "Hegel",
+      "bbox": [
+        619.2,
+        1044.3,
+        824.6,
+        1273.4
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "Faith and Knowledge",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Philosophy of Nature",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Philosophy of the Mind",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Phenomenology of spirit",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Phemenology of Mind",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Science of Logic",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Philosophy of the Right",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "On Christianity",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "History of Philosophy",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Philosophy of History",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        },
+        {
+          "titre": "Lectures on Fine Art",
+          "auteur": "Hegel",
+          "tier": "Hegel"
+        }
+      ]
+    },
+    {
+      "tier": "Analytic Philosophy",
+      "bbox": [
+        229.2,
+        1050.2,
+        523.9,
+        1318.1
+      ],
+      "nb_lignes": 14,
+      "noeuds": [
+        {
+          "titre": "Freedom and Morality and other Essays",
+          "auteur": "Ayer",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Hume",
+          "auteur": "Ayer",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Kant",
+          "auteur": "Ayer",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Language, Truth and Logic",
+          "auteur": "Ayer",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Philosophical Investigations",
+          "auteur": "Wittgenstein",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Tractacus",
+          "auteur": "Wittgenstein",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Sense and Reference",
+          "auteur": "Frege",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Function and Concept",
+          "auteur": "Frege",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Concept and Object",
+          "auteur": "Frege",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "An Inquiry into meaning and Truth",
+          "auteur": "Russell",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "Authority and the Individual",
+          "auteur": "Russell",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "The Conquest of Happiness",
+          "auteur": "Russell",
+          "tier": "Analytic Philosophy"
+        },
+        {
+          "titre": "The Analysis of Mind",
+          "auteur": "Russell",
+          "tier": "Analytic Philosophy"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1288.9,
+        1050.2,
+        1687.8,
+        1291.2
+      ],
+      "nb_lignes": 13,
+      "noeuds": [
+        {
+          "titre": "Ideas for a Philosophy of Nature",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "System of Transcendental Idealism",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "First Outline of a System of the Philosophy of Nature",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "Philosophy and Religion",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "Investigations into the Essence of Human Freedom",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "The Abyss of Freedom",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "The Ages of the World (Fragment)",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "Philosophy of Art",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "Berlin Lectures",
+          "auteur": "Schelling",
+          "tier": null
+        },
+        {
+          "titre": "Aurora",
+          "auteur": "Boehme",
+          "tier": null
+        },
+        {
+          "titre": "The Supersensual Life",
+          "auteur": "Boehme",
+          "tier": null
+        },
+        {
+          "titre": "The Forty Questions of the Soul",
+          "auteur": "Boehme",
+          "tier": null
+        },
+        {
+          "titre": "Mysterium Magnum",
+          "auteur": "Boehme",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1503.3,
+        1332.9,
+        1756.3,
+        1404.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Introduction to Metaphysics",
+          "auteur": "Heidegger",
+          "tier": null
+        },
+        {
+          "titre": "Being and Time",
+          "auteur": "Heidegger",
+          "tier": null
+        },
+        {
+          "titre": "Concerning Technology",
+          "auteur": "Heidegger",
+          "tier": null
+        },
+        {
+          "titre": "On the Essence of Truth",
+          "auteur": "Heidegger",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

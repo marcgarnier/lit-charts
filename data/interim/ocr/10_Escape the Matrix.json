@@ -1,0 +1,2181 @@
+{
+  "fichier": "10_Escape the Matrix.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:41.462573+00:00",
+  "duree_s": 2.2,
+  "taille_origine": [
+    1440,
+    3004
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 197,
+  "lignes": [
+    {
+      "texte": "Escape the Matrix",
+      "texte_balise": "Escape the Matrix",
+      "bbox": [
+        445.8,
+        113.0,
+        990.0,
+        188.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended texts",
+      "texte_balise": "Recommended texts",
+      "bbox": [
+        607.0,
+        207.0,
+        833.0,
+        230.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TACQUES LACARRIERE",
+      "texte_balise": "TACQUES LACARRIERE",
+      "bbox": [
+        627.9,
+        378.8,
+        787.0,
+        393.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE INTERNATIONAL EDITION",
+      "texte_balise": "THE INTERNATIONAL EDITION",
+      "bbox": [
+        910.5,
+        395.6,
+        1052.8,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phaedo",
+      "texte_balise": "Phaedo",
+      "bbox": [
+        121.2,
+        411.8,
+        192.7,
+        435.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Timaeus",
+      "texte_balise": "Timaeus",
+      "bbox": [
+        385.0,
+        414.1,
+        471.0,
+        435.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        969.1,
+        433.2,
+        992.1,
+        441.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILIP K DICK",
+      "texte_balise": "PHILIP K DICK",
+      "bbox": [
+        1237.0,
+        435.0,
+        1299.8,
+        444.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAG",
+      "texte_balise": "NAG",
+      "bbox": [
+        933.5,
+        445.8,
+        1025.6,
+        473.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMMADI",
+      "texte_balise": "HAMMADI",
+      "bbox": [
+        918.8,
+        475.1,
+        1044.4,
+        493.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES",
+      "texte_balise": "LES",
+      "bbox": [
+        766.0,
+        489.7,
+        799.5,
+        504.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCRIPTURES",
+      "texte_balise": "SCRIPTURES",
+      "bbox": [
+        914.7,
+        500.2,
+        1044.4,
+        517.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GNOSTIQUES",
+      "texte_balise": "GNOSTIQUES",
+      "bbox": [
+        640.5,
+        504.4,
+        799.5,
+        529.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COITED BY",
+      "texte_balise": "COITED BY",
+      "bbox": [
+        960.7,
+        548.0,
+        998.4,
+        555.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARVIN MEYER",
+      "texte_balise": "MARVIN MEYER",
+      "bbox": [
+        944.0,
+        554.6,
+        1019.3,
+        565.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        138.1,
+        565.1,
+        175.8,
+        575.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        408.1,
+        565.1,
+        445.8,
+        575.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVISORY BOARD",
+      "texte_balise": "ADVISORY BOARD",
+      "bbox": [
+        948.1,
+        573.0,
+        1013.0,
+        584.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES M. ROBINSON",
+      "texte_balise": "JAMES M. ROBINSON",
+      "bbox": [
+        946.0,
+        594.0,
+        1015.1,
+        603.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PKD",
+      "texte_balise": "PKD",
+      "bbox": [
+        1151.2,
+        602.8,
+        1318.6,
+        659.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "PURI DOMAN",
+      "texte_balise": "PURI DOMAN",
+      "bbox": [
+        406.0,
+        627.9,
+        452.1,
+        645.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "métailie",
+      "texte_balise": "métailie",
+      "bbox": [
+        759.8,
+        640.4,
+        799.5,
+        653.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Timaeus",
+      "texte_balise": "Timaeus",
+      "bbox": [
+        378.8,
+        692.4,
+        475.2,
+        716.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Phaedo",
+      "texte_balise": "Phaedo",
+      "bbox": [
+        115.0,
+        692.5,
+        198.9,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Gnostics",
+      "texte_balise": "The Gnostics",
+      "bbox": [
+        630.0,
+        692.8,
+        780.7,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Nag Hammadi",
+      "texte_balise": "The Nag Hammadi",
+      "bbox": [
+        872.8,
+        692.8,
+        1086.3,
+        720.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Valis trilogy",
+      "texte_balise": "The Valis trilogy",
+      "bbox": [
+        1155.3,
+        692.8,
+        1343.7,
+        722.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CIA",
+      "texte_balise": "CIA",
+      "bbox": [
+        674.0,
+        786.9,
+        736.7,
+        812.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLOGRAPHIC",
+      "texte_balise": "HOLOGRAPHIC",
+      "bbox": [
+        339.0,
+        788.7,
+        519.2,
+        847.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PASSPORT TO MAGONIA",
+      "texte_balise": "PASSPORT TO MAGONIA",
+      "bbox": [
+        1170.0,
+        795.0,
+        1337.4,
+        810.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Limitless",
+      "texte_balise": "Limitless",
+      "bbox": [
+        887.3,
+        807.2,
+        1042.5,
+        839.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        642.4,
+        811.2,
+        726.4,
+        827.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "20",
+      "texte_balise": "20",
+      "bbox": [
+        75.3,
+        812.1,
+        119.3,
+        845.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        728.4,
+        812.1,
+        766.0,
+        824.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOONORS SYNG COSS",
+      "texte_balise": "SOONORS SYNG COSS",
+      "bbox": [
+        1176.3,
+        816.0,
+        1327.0,
+        820.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Assessment of",
+      "texte_balise": "Assessment of",
+      "bbox": [
+        638.4,
+        826.7,
+        770.2,
+        839.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIND",
+      "texte_balise": "MIND",
+      "bbox": [
+        920.9,
+        839.3,
+        1065.3,
+        868.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GATEWAY PROCESS",
+      "texte_balise": "GATEWAY PROCESS",
+      "bbox": [
+        611.2,
+        843.0,
+        795.3,
+        869.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNIVERSE",
+      "texte_balise": "UNIVERSE",
+      "bbox": [
+        345.3,
+        847.6,
+        512.8,
+        866.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Twenty Cases",
+      "texte_balise": "Twenty Cases",
+      "bbox": [
+        79.5,
+        851.8,
+        163.3,
+        869.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suggestive of Reincarnation",
+      "texte_balise": "Suggestive of Reincarnation",
+      "bbox": [
+        79.5,
+        872.8,
+        238.6,
+        889.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suggestive of Keincarnation",
+      "texte_balise": "Suggestive of Keincarnation",
+      "bbox": [
+        77.4,
+        876.0,
+        238.6,
+        891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND ANTION, REVIED AND EXLARSED",
+      "texte_balise": "SECOND ANTION, REVIED AND EXLARSED",
+      "bbox": [
+        77.4,
+        892.7,
+        190.5,
+        903.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND LATION, SAVED AND EXLARGAR",
+      "texte_balise": "SECOND LATION, SAVED AND EXLARGAR",
+      "bbox": [
+        77.4,
+        895.8,
+        186.3,
+        900.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Windal Aliked",
+      "texte_balise": "The Windal Aliked",
+      "bbox": [
+        424.9,
+        902.0,
+        491.9,
+        919.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "lan Stevenson, MD",
+      "texte_balise": "lan Stevenson, MD",
+      "bbox": [
+        77.4,
+        905.0,
+        138.1,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lan Stranson, MD.",
+      "texte_balise": "lan Stranson, MD.",
+      "bbox": [
+        77.4,
+        906.0,
+        136.0,
+        913.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "i Prodiesel Vender",
+      "texte_balise": "i Prodiesel Vender",
+      "bbox": [
+        442.0,
+        916.8,
+        518.5,
+        943.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "How Consciousness functions",
+      "texte_balise": "How Consciousness functions",
+      "bbox": [
+        619.5,
+        982.7,
+        791.2,
+        991.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How consciousness _unctions",
+      "texte_balise": "How consciousness _unctions",
+      "bbox": [
+        619.5,
+        983.7,
+        791.2,
+        990.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "under the Influence of",
+      "texte_balise": "under the Influence of",
+      "bbox": [
+        636.3,
+        992.0,
+        778.6,
+        1003.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brain Hemisphere",
+      "texte_balise": "Brain Hemisphere",
+      "bbox": [
+        655.1,
+        1004.6,
+        759.8,
+        1015.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Synchronization",
+      "texte_balise": "Synchronization",
+      "bbox": [
+        657.2,
+        1017.2,
+        755.6,
+        1027.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RUSSELL TARG",
+      "texte_balise": "RUSSELL TARG",
+      "bbox": [
+        897.9,
+        1025.5,
+        1065.3,
+        1046.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUSSELL TABG",
+      "texte_balise": "BUSSELL TABG",
+      "bbox": [
+        897.9,
+        1026.6,
+        1065.3,
+        1047.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1983",
+      "texte_balise": "1983",
+      "bbox": [
+        688.6,
+        1038.1,
+        724.2,
+        1050.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL TALBOT",
+      "texte_balise": "MICHAEL TALBOT",
+      "bbox": [
+        345.3,
+        1042.0,
+        514.9,
+        1063.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR of Miracles of Mind",
+      "texte_balise": "AUTHOR of Miracles of Mind",
+      "bbox": [
+        908.4,
+        1042.9,
+        1057.0,
+        1058.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "литнов of Miracles of Mind",
+      "texte_balise": "литнов of Miracles of Mind",
+      "bbox": [
+        908.4,
+        1044.0,
+        1057.0,
+        1057.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACQUES VALLEE",
+      "texte_balise": "JACQUES VALLEE",
+      "bbox": [
+        1203.5,
+        1048.6,
+        1306.0,
+        1061.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "torerord by jean Houston",
+      "texte_balise": "torerord by jean Houston",
+      "bbox": [
+        929.3,
+        1056.9,
+        1036.0,
+        1069.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "torerord by jcan Houston",
+      "texte_balise": "torerord by jcan Houston",
+      "bbox": [
+        927.2,
+        1057.9,
+        1036.0,
+        1070.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Twenty Cases Suggestive",
+      "texte_balise": "Twenty Cases Suggestive",
+      "bbox": [
+        14.7,
+        1094.6,
+        301.4,
+        1122.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Holographic",
+      "texte_balise": "The Holographic",
+      "bbox": [
+        332.8,
+        1094.6,
+        523.3,
+        1122.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Project Stargate",
+      "texte_balise": "Project Stargate",
+      "bbox": [
+        617.4,
+        1096.7,
+        795.3,
+        1124.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magonia",
+      "texte_balise": "Magonia",
+      "bbox": [
+        1268.3,
+        1106.9,
+        1366.8,
+        1124.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Passport to Magonia",
+      "texte_balise": "Passport to Magonia",
+      "bbox": [
+        1138.6,
+        1107.8,
+        1366.7,
+        1137.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Timitlece Mind",
+      "texte_balise": "Timitlece Mind",
+      "bbox": [
+        895.8,
+        1109.0,
+        1065.3,
+        1124.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paschart to",
+      "texte_balise": "Paschart to",
+      "bbox": [
+        1138.6,
+        1109.0,
+        1262.1,
+        1124.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Limitless Mind",
+      "texte_balise": "Limitless Mind",
+      "bbox": [
+        895.8,
+        1109.8,
+        1067.4,
+        1133.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Universe",
+      "texte_balise": "Universe",
+      "bbox": [
+        378.8,
+        1126.7,
+        479.4,
+        1152.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "documents",
+      "texte_balise": "documents",
+      "bbox": [
+        646.6,
+        1128.5,
+        768.3,
+        1152.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Reincarnation",
+      "texte_balise": "of Reincarnation",
+      "bbox": [
+        64.9,
+        1128.8,
+        251.2,
+        1152.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT A. MONROE",
+      "texte_balise": "ROBERT A. MONROE",
+      "bbox": [
+        343.3,
+        1212.7,
+        519.1,
+        1227.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PORTABLE",
+      "texte_balise": "THE PORTABLE",
+      "bbox": [
+        897.9,
+        1212.7,
+        1069.5,
+        1229.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tibetan",
+      "texte_balise": "The Tibetan",
+      "bbox": [
+        1199.3,
+        1223.0,
+        1301.9,
+        1242.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A VOYAGE TO ARCTURUS",
+      "texte_balise": "A VOYAGE TO ARCTURUS",
+      "bbox": [
+        75.3,
+        1227.5,
+        240.7,
+        1244.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUNG",
+      "texte_balise": "JUNG",
+      "bbox": [
+        929.3,
+        1227.5,
+        1027.7,
+        1258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book of The Dead",
+      "texte_balise": "Book of The Dead",
+      "bbox": [
+        1172.1,
+        1246.3,
+        1329.1,
+        1267.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The cornerstone of Tibetan thought",
+      "texte_balise": "The cornerstone of Tibetan thought",
+      "bbox": [
+        1188.8,
+        1287.7,
+        1320.7,
+        1298.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exploring",
+      "texte_balise": "Exploring",
+      "bbox": [
+        674.0,
+        1321.6,
+        772.3,
+        1355.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the World of",
+      "texte_balise": "the World of",
+      "bbox": [
+        659.0,
+        1351.8,
+        781.0,
+        1387.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lucid",
+      "texte_balise": "Lucid",
+      "bbox": [
+        661.4,
+        1382.3,
+        738.8,
+        1422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dreaming",
+      "texte_balise": "Dreaming",
+      "bbox": [
+        638.0,
+        1417.6,
+        781.6,
+        1454.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTION BY JOHN CLUTE",
+      "texte_balise": "INTRODUCTION BY JOHN CLUTE",
+      "bbox": [
+        77.4,
+        1442.5,
+        238.6,
+        1451.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOURN YE OUT",
+      "texte_balise": "JOURN YE OUT",
+      "bbox": [
+        341.2,
+        1444.5,
+        519.1,
+        1468.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID LINDSAY",
+      "texte_balise": "DAVID LINDSAY",
+      "bbox": [
+        81.6,
+        1453.4,
+        232.3,
+        1472.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen LaBerge, Pú.D.",
+      "texte_balise": "Stephen LaBerge, Pú.D.",
+      "bbox": [
+        667.7,
+        1455.5,
+        778.6,
+        1468.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITED BY",
+      "texte_balise": "EDITED BY",
+      "bbox": [
+        941.9,
+        1455.5,
+        1019.3,
+        1468.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPH CAMPBELL",
+      "texte_balise": "JOSEPH CAMPBELL",
+      "bbox": [
+        891.6,
+        1461.5,
+        1069.5,
+        1488.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE BODY",
+      "texte_balise": "OF THE BODY",
+      "bbox": [
+        353.7,
+        1465.5,
+        506.5,
+        1491.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Howard Rheingold",
+      "texte_balise": "& Howard Rheingold",
+      "bbox": [
+        667.7,
+        1468.0,
+        766.0,
+        1480.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Padmasambhava",
+      "texte_balise": "Padmasambhava",
+      "bbox": [
+        1211.9,
+        1468.0,
+        1297.7,
+        1480.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AFTERWORD BY LOREN EISELEY",
+      "texte_balise": "AFTERWORD BY LOREN EISELEY",
+      "bbox": [
+        77.4,
+        1472.2,
+        238.6,
+        1482.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exploring the World",
+      "texte_balise": "Exploring the World",
+      "bbox": [
+        590.2,
+        1518.2,
+        818.4,
+        1545.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bardo Thödol",
+      "texte_balise": "The Bardo Thödol",
+      "bbox": [
+        1161.6,
+        1530.5,
+        1368.8,
+        1555.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Voyage to Arcturus",
+      "texte_balise": "A Voyage to Arcturus",
+      "bbox": [
+        35.6,
+        1532.5,
+        276.3,
+        1562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Journeys trilogy",
+      "texte_balise": "The Journeys trilogy",
+      "bbox": [
+        314.0,
+        1532.5,
+        544.2,
+        1560.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Portable Jung",
+      "texte_balise": "The Portable Jung",
+      "bbox": [
+        879.1,
+        1532.5,
+        1082.1,
+        1560.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Lucid Dreaming",
+      "texte_balise": "of Lucid Dreaming",
+      "bbox": [
+        598.6,
+        1551.5,
+        812.1,
+        1578.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARLOS CASTANEDA®",
+      "texte_balise": "CARLOS CASTANEDA®",
+      "bbox": [
+        343.2,
+        1654.0,
+        512.8,
+        1683.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magical Passes",
+      "texte_balise": "Magical Passes",
+      "bbox": [
+        613.1,
+        1655.4,
+        795.5,
+        1686.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOLUME I",
+      "texte_balise": "VOLUME I",
+      "bbox": [
+        952.3,
+        1666.4,
+        1008.8,
+        1677.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ART OF",
+      "texte_balise": "THE ART OF",
+      "bbox": [
+        376.7,
+        1687.4,
+        481.5,
+        1713.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DREAMING",
+      "texte_balise": "DREAMING",
+      "bbox": [
+        376.7,
+        1712.8,
+        479.3,
+        1735.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        140.2,
+        1727.4,
+        177.9,
+        1746.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTION",
+      "texte_balise": "INTRODUCTION",
+      "bbox": [
+        918.8,
+        1744.2,
+        1040.2,
+        1756.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIBETAN YOGAS",
+      "texte_balise": "TIBETAN YOGAS",
+      "bbox": [
+        90.0,
+        1750.3,
+        230.2,
+        1769.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO",
+      "texte_balise": "TO",
+      "bbox": [
+        969.1,
+        1760.9,
+        992.1,
+        1773.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF DREAM",
+      "texte_balise": "OF DREAM",
+      "bbox": [
+        112.9,
+        1773.1,
+        207.3,
+        1792.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAGIC",
+      "texte_balise": "MAGIC",
+      "bbox": [
+        924.7,
+        1776.0,
+        1036.5,
+        1808.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BETWEEN",
+      "texte_balise": "BETWEEN",
+      "bbox": [
+        1205.5,
+        1787.8,
+        1322.8,
+        1809.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND SLEEP",
+      "texte_balise": "AND SLEEP",
+      "bbox": [
+        113.0,
+        1796.4,
+        207.2,
+        1815.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the GATES",
+      "texte_balise": "the GATES",
+      "bbox": [
+        1203.4,
+        1812.8,
+        1322.9,
+        1834.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rituals and Practical",
+      "texte_balise": "Rituals and Practical",
+      "bbox": [
+        933.5,
+        1817.2,
+        1025.6,
+        1830.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carlos",
+      "texte_balise": "Carlos",
+      "bbox": [
+        646.7,
+        1823.7,
+        761.9,
+        1863.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Techniques for the Magus",
+      "texte_balise": "Techniques for the Magus",
+      "bbox": [
+        923.0,
+        1829.9,
+        1038.1,
+        1842.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lucid Dreaming, Astral Projection, and",
+      "texte_balise": "Lucid Dreaming, Astral Projection, and",
+      "bbox": [
+        1195.1,
+        1842.2,
+        1335.3,
+        1853.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Body of Light in Westem Esotericism",
+      "texte_balise": "the Body of Light in Westem Esotericism",
+      "bbox": [
+        1193.0,
+        1853.0,
+        1337.4,
+        1863.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        939.8,
+        1855.0,
+        1015.1,
+        1865.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Castaneda",
+      "texte_balise": "Castaneda",
+      "bbox": [
+        613.2,
+        1863.2,
+        797.5,
+        1899.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE UR GROUP",
+      "texte_balise": "AND THE UR GROUP",
+      "bbox": [
+        931.4,
+        1865.2,
+        1029.8,
+        1876.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "uastaneda",
+      "texte_balise": "uastaneda",
+      "bbox": [
+        615.3,
+        1877.0,
+        795.3,
+        1897.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARK STAVISH",
+      "texte_balise": "MARK STAVISH",
+      "bbox": [
+        1226.5,
+        1882.2,
+        1301.9,
+        1888.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tenzin Wangyal Rinpoche",
+      "texte_balise": "Tenzin Wangyal Rinpoche",
+      "bbox": [
+        110.9,
+        1890.2,
+        209.3,
+        1901.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suedeeties be John Michael Green,",
+      "texte_balise": "Suedeeties be John Michael Green,",
+      "bbox": [
+        1207.7,
+        1892.7,
+        1318.6,
+        1899.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sorber of Learsing Ritaal Magic",
+      "texte_balise": "sorber of Learsing Ritaal Magic",
+      "bbox": [
+        1214.0,
+        1899.0,
+        1314.4,
+        1909.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FINOS OF DON JUAN",
+      "texte_balise": "FINOS OF DON JUAN",
+      "bbox": [
+        703.3,
+        1900.0,
+        791.2,
+        1910.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHINGS OF DON JUAN",
+      "texte_balise": "CHINGS OF DON JUAN",
+      "bbox": [
+        694.9,
+        1901.1,
+        791.2,
+        1911.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mahar rate Kilmal Maran",
+      "texte_balise": "Mahar rate Kilmal Maran",
+      "bbox": [
+        1214.0,
+        1902.0,
+        1314.4,
+        1906.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Tibetan Yogas",
+      "texte_balise": "The Tibetan Yogas",
+      "bbox": [
+        50.2,
+        1947.1,
+        259.5,
+        1974.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to Magic",
+      "texte_balise": "Introduction to Magic",
+      "bbox": [
+        859.8,
+        1956.9,
+        1105.6,
+        1991.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art of Dreaming",
+      "texte_balise": "The Art of Dreaming",
+      "bbox": [
+        311.9,
+        1961.7,
+        546.3,
+        1989.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magical Passes",
+      "texte_balise": "Magical Passes",
+      "bbox": [
+        621.6,
+        1963.6,
+        793.3,
+        1991.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Between the Gates",
+      "texte_balise": "Between the Gates",
+      "bbox": [
+        1159.5,
+        1963.8,
+        1368.8,
+        1989.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Dream and Sleep",
+      "texte_balise": "of Dream and Sleep",
+      "bbox": [
+        44.0,
+        1978.1,
+        265.8,
+        2008.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tame dans of Matanatalya Arina Abilanatastr",
+      "texte_balise": "Tame dans of Matanatalya Arina Abilanatastr",
+      "bbox": [
+        627.9,
+        2089.8,
+        787.0,
+        2094.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KUNDALINI",
+      "texte_balise": "KUNDALINI",
+      "bbox": [
+        368.4,
+        2099.8,
+        489.8,
+        2118.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SECRET",
+      "texte_balise": "THE SECRET",
+      "bbox": [
+        98.4,
+        2104.0,
+        209.3,
+        2125.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PSYCHOLOGY",
+      "texte_balise": "PSYCHOLOGY",
+      "bbox": [
+        1190.9,
+        2110.3,
+        1306.0,
+        2124.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        964.9,
+        2119.5,
+        998.4,
+        2136.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OFTHE",
+      "texte_balise": "OFTHE",
+      "bbox": [
+        119.2,
+        2121.3,
+        188.5,
+        2140.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TANTRA",
+      "texte_balise": "TANTRA",
+      "bbox": [
+        380.9,
+        2125.6,
+        473.1,
+        2146.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sri Tantraloka",
+      "texte_balise": "Sri Tantraloka",
+      "bbox": [
+        632.1,
+        2125.8,
+        784.9,
+        2146.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        1230.7,
+        2130.0,
+        1266.3,
+        2148.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Active Side",
+      "texte_balise": "Active Side",
+      "bbox": [
+        933.5,
+        2138.4,
+        1025.6,
+        2157.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOLDEN FLOWER",
+      "texte_balise": "GOLDEN FLOWER",
+      "bbox": [
+        75.3,
+        2140.5,
+        232.3,
+        2159.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "legarattes Vireka Comm",
+      "texte_balise": "legarattes Vireka Comm",
+      "bbox": [
+        621.6,
+        2148.8,
+        690.7,
+        2159.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "mary, Sarverari Engith Communtary:",
+      "texte_balise": "mary, Sarverari Engith Communtary:",
+      "bbox": [
+        690.7,
+        2148.8,
+        797.4,
+        2159.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALCHEMY",
+      "texte_balise": "ALCHEMY",
+      "bbox": [
+        1205.5,
+        2152.5,
+        1293.6,
+        2170.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Coatral Idea of each Stoky and Clemary of Technical Tena",
+      "texte_balise": "Coatral Idea of each Stoky and Clemary of Technical Tena",
+      "bbox": [
+        632.1,
+        2156.8,
+        784.9,
+        2165.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        973.3,
+        2161.4,
+        992.1,
+        2176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A CHINESE BOOK OF LIFE",
+      "texte_balise": "A CHINESE BOOK OF LIFE",
+      "bbox": [
+        94.2,
+        2163.5,
+        211.4,
+        2176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infinity",
+      "texte_balise": "Infinity",
+      "bbox": [
+        950.2,
+        2178.1,
+        1010.9,
+        2196.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carlos",
+      "texte_balise": "Carlos",
+      "bbox": [
+        933.2,
+        2231.5,
+        1030.1,
+        2264.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Castaneda",
+      "texte_balise": "Castaneda",
+      "bbox": [
+        894.0,
+        2254.7,
+        1074.0,
+        2296.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Author of THE TEACHINGS OF DoN JUAN",
+      "texte_balise": "Author of THE TEACHINGS OF DoN JUAN",
+      "bbox": [
+        912.6,
+        2292.6,
+        1052.8,
+        2301.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSLATED AND EXPLAINED BY",
+      "texte_balise": "TRANSLATED AND EXPLAINED BY",
+      "bbox": [
+        85.8,
+        2311.6,
+        221.9,
+        2322.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SWAMI SATYANANDA SARASWATI",
+      "texte_balise": "SWAMI SATYANANDA SARASWATI",
+      "bbox": [
+        357.9,
+        2318.2,
+        502.3,
+        2328.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second Edition",
+      "texte_balise": "Second Edition",
+      "bbox": [
+        1216.0,
+        2320.0,
+        1283.1,
+        2333.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD WILHELM",
+      "texte_balise": "RICHARD WILHELM",
+      "bbox": [
+        113.0,
+        2320.3,
+        194.7,
+        2330.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WTTH A COMMENTARY BY CG. JING",
+      "texte_balise": "WTTH A COMMENTARY BY CG. JING",
+      "bbox": [
+        77.4,
+        2332.6,
+        228.1,
+        2345.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C.G.JUNG",
+      "texte_balise": "C.G.JUNG",
+      "bbox": [
+        1222.3,
+        2332.8,
+        1276.7,
+        2343.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Giriratna Misra",
+      "texte_balise": "Giriratna Misra",
+      "bbox": [
+        682.3,
+        2343.3,
+        732.6,
+        2349.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Secret of the",
+      "texte_balise": "The Secret of the",
+      "bbox": [
+        58.6,
+        2393.5,
+        249.1,
+        2416.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Active Side",
+      "texte_balise": "The Active Side",
+      "bbox": [
+        889.5,
+        2393.5,
+        1071.6,
+        2416.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Psychology and",
+      "texte_balise": "Psychology and",
+      "bbox": [
+        1159.5,
+        2393.5,
+        1337.4,
+        2420.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kundalini Tantra",
+      "texte_balise": "Kundalini Tantra",
+      "bbox": [
+        334.9,
+        2408.1,
+        523.3,
+        2431.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tantraloka",
+      "texte_balise": "Tantraloka",
+      "bbox": [
+        646.7,
+        2408.1,
+        768.1,
+        2431.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Infinity",
+      "texte_balise": "of Infinity",
+      "bbox": [
+        923.0,
+        2422.5,
+        1040.2,
+        2454.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alchemy",
+      "texte_balise": "Alchemy",
+      "bbox": [
+        1197.2,
+        2424.8,
+        1299.8,
+        2454.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Golden Flower",
+      "texte_balise": "Golden Flower",
+      "bbox": [
+        69.1,
+        2426.5,
+        238.6,
+        2449.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AION",
+      "texte_balise": "AION",
+      "bbox": [
+        113.0,
+        2539.8,
+        184.2,
+        2564.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BOOKS OF JEU AND THE",
+      "texte_balise": "THE BOOKS OF JEU AND THE",
+      "bbox": [
+        923.0,
+        2541.4,
+        1063.3,
+        2552.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNTITLED TEXT IN THE",
+      "texte_balise": "UNTITLED TEXT IN THE",
+      "bbox": [
+        923.0,
+        2554.4,
+        1042.3,
+        2567.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRUCE CODEX",
+      "texte_balise": "BRUCE CODEX",
+      "bbox": [
+        923.0,
+        2567.0,
+        996.3,
+        2577.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Researches into the",
+      "texte_balise": "Researches into the",
+      "bbox": [
+        100.5,
+        2573.3,
+        196.7,
+        2585.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phenomenology of the Self",
+      "texte_balise": "Phenomenology of the Self",
+      "bbox": [
+        81.6,
+        2585.4,
+        217.7,
+        2602.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        692.8,
+        2585.8,
+        722.1,
+        2598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RED BOOK",
+      "texte_balise": "RED BOOK",
+      "bbox": [
+        638.4,
+        2600.4,
+        774.4,
+        2623.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIBER NOVUS",
+      "texte_balise": "LIBER NOVUS",
+      "bbox": [
+        669.8,
+        2627.3,
+        745.1,
+        2638.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILIP K DICK",
+      "texte_balise": "PHILIP K DICK",
+      "bbox": [
+        376.7,
+        2644.3,
+        477.2,
+        2659.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C•G JUNG",
+      "texte_balise": "C•G JUNG",
+      "bbox": [
+        655.1,
+        2667.2,
+        757.7,
+        2688.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAMELA JACKSON",
+      "texte_balise": "PAMELA JACKSON",
+      "bbox": [
+        395.6,
+        2675.3,
+        458.4,
+        2684.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OMAIMAM LETHEM",
+      "texte_balise": "OMAIMAM LETHEM",
+      "bbox": [
+        395.6,
+        2692.3,
+        456.3,
+        2696.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SONU SHANDASAN",
+      "texte_balise": "SONU SHANDASAN",
+      "bbox": [
+        655.1,
+        2717.4,
+        759.8,
+        2736.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "C. Schmid",
+      "texte_balise": "C. Schmid",
+      "bbox": [
+        923.0,
+        2725.9,
+        958.6,
+        2736.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".....",
+      "texte_balise": ".....",
+      "bbox": [
+        1257.9,
+        2725.9,
+        1322.8,
+        2732.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEDRO CALDERÓN DE LA BARCA",
+      "texte_balise": "PEDRO CALDERÓN DE LA BARCA",
+      "bbox": [
+        1182.6,
+        2755.2,
+        1350.0,
+        2765.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second Edition",
+      "texte_balise": "Second Edition",
+      "bbox": [
+        110.9,
+        2763.2,
+        188.4,
+        2776.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Life Is a Dream",
+      "texte_balise": "Life Is a Dream",
+      "bbox": [
+        1232.8,
+        2774.0,
+        1297.7,
+        2784.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. G. JUNG",
+      "texte_balise": "C. G. JUNG",
+      "bbox": [
+        102.6,
+        2778.2,
+        194.7,
+        2795.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Red Book",
+      "texte_balise": "The Red Book",
+      "bbox": [
+        625.8,
+        2853.1,
+        791.2,
+        2876.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Life is a Dream",
+      "texte_balise": "Life is a Dream",
+      "bbox": [
+        1178.4,
+        2853.1,
+        1350.0,
+        2876.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Exegesis of PKD",
+      "texte_balise": "The Exegesis of PKD",
+      "bbox": [
+        307.7,
+        2855.1,
+        548.4,
+        2883.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Books of Jeu",
+      "texte_balise": "The Books of Jeu",
+      "bbox": [
+        883.3,
+        2855.1,
+        1077.9,
+        2878.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aion",
+      "texte_balise": "Aion",
+      "bbox": [
+        127.7,
+        2855.5,
+        184.2,
+        2878.5
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,3248 @@
+{
+  "fichier": "09_Bowden.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:13.996433+00:00",
+  "duree_s": 3.5,
+  "taille_origine": [
+    3672,
+    3024
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 294,
+  "lignes": [
+    {
+      "texte": "The Bowden Pill: A Reading Guide",
+      "texte_balise": "The Bowden Pill: A Reading Guide",
+      "bbox": [
+        1450.8,
+        80.0,
+        2698.5,
+        156.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "START HERE",
+      "texte_balise": "START HERE",
+      "bbox": [
+        1361.1,
+        236.0,
+        1526.5,
+        265.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Western Civilization Bites Back",
+      "texte_balise": "Western Civilization Bites Back",
+      "bbox": [
+        1611.5,
+        288.0,
+        2207.0,
+        321.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pulp Fascism",
+      "texte_balise": "Pulp Fascism",
+      "bbox": [
+        2845.0,
+        344.9,
+        3095.4,
+        383.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Western Civilization Bites Back, the late Jonathan",
+      "texte_balise": "In Western Civilization Bites Back, the late Jonathan",
+      "bbox": [
+        1611.5,
+        373.0,
+        2400.7,
+        406.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden argues that the ultimate root of Western",
+      "texte_balise": "Bowden argues that the ultimate root of Western",
+      "bbox": [
+        1611.5,
+        411.0,
+        2400.7,
+        444.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan",
+      "texte_balise": "Jonathan",
+      "bbox": [
+        3246.1,
+        421.7,
+        3398.5,
+        457.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pulp",
+      "texte_balise": "Pulp",
+      "bbox": [
+        2845.0,
+        430.0,
+        2915.9,
+        463.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fascism",
+      "texte_balise": "Fascism",
+      "bbox": [
+        2944.2,
+        430.0,
+        3076.5,
+        453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "collects",
+      "texte_balise": "collects",
+      "bbox": [
+        3104.9,
+        430.0,
+        3223.0,
+        453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden's",
+      "texte_balise": "Bowden's",
+      "bbox": [
+        3431.0,
+        430.0,
+        3572.8,
+        453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "decline is a collapse in moral self-confidence. But the",
+      "texte_balise": "decline is a collapse in moral self-confidence. But the",
+      "bbox": [
+        1611.5,
+        444.0,
+        2400.7,
+        477.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "principal statements on Right-wing",
+      "texte_balise": "principal statements on Right-wing",
+      "bbox": [
+        2845.0,
+        463.0,
+        3402.6,
+        496.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "themes in",
+      "texte_balise": "themes in",
+      "bbox": [
+        3397.9,
+        463.0,
+        3572.8,
+        491.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "West can recover its pride, glory, and destiny. With",
+      "texte_balise": "West can recover its pride, glory, and destiny. With",
+      "bbox": [
+        1611.5,
+        481.9,
+        2400.7,
+        515.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "popular culture drawn from his essays, lectures,",
+      "texte_balise": "popular culture drawn from his essays, lectures,",
+      "bbox": [
+        2845.0,
+        500.8,
+        3572.8,
+        534.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "transcripts of seven of Bowden's volcanic orations, his",
+      "texte_balise": "transcripts of seven of Bowden's volcanic orations, his",
+      "bbox": [
+        1606.8,
+        515.0,
+        2400.7,
+        548.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PULP",
+      "texte_balise": "PULP",
+      "bbox": [
+        2556.2,
+        518.2,
+        2807.7,
+        601.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN",
+      "texte_balise": "WESTERN",
+      "bbox": [
+        1356.3,
+        533.9,
+        1517.0,
+        562.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and interviews.",
+      "texte_balise": "and interviews.",
+      "bbox": [
+        2840.2,
+        533.9,
+        3095.4,
+        562.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These",
+      "texte_balise": "These",
+      "bbox": [
+        3100.2,
+        533.9,
+        3199.4,
+        562.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "high-brow analyses of",
+      "texte_balise": "high-brow analyses of",
+      "bbox": [
+        3199.4,
+        533.9,
+        3577.5,
+        567.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Western",
+      "texte_balise": "Western",
+      "bbox": [
+        2268.3,
+        552.4,
+        2400.8,
+        581.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "last interview, and",
+      "texte_balise": "last interview, and",
+      "bbox": [
+        1606.8,
+        552.8,
+        1914.0,
+        586.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "three shorter pieces,",
+      "texte_balise": "three shorter pieces,",
+      "bbox": [
+        1914.0,
+        552.8,
+        2263.7,
+        586.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CIVILIZATION",
+      "texte_balise": "CIVILIZATION",
+      "bbox": [
+        1318.5,
+        567.0,
+        1545.4,
+        604.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "low-brow",
+      "texte_balise": "low-brow",
+      "bbox": [
+        2840.0,
+        570.5,
+        2987.0,
+        601.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "culture reveal",
+      "texte_balise": "culture reveal",
+      "bbox": [
+        2991.5,
+        571.7,
+        3232.5,
+        600.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "just how",
+      "texte_balise": "just how",
+      "bbox": [
+        3237.2,
+        571.7,
+        3402.6,
+        600.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "deep",
+      "texte_balise": "deep",
+      "bbox": [
+        3402.6,
+        571.7,
+        3492.4,
+        604.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        3492.4,
+        571.7,
+        3572.8,
+        600.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Civilization Bites Back is an ideal introduction to one",
+      "texte_balise": "Civilization Bites Back is an ideal introduction to one",
+      "bbox": [
+        1611.5,
+        590.6,
+        2400.7,
+        619.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASCISM",
+      "texte_balise": "FASCISM",
+      "bbox": [
+        2561.3,
+        594.9,
+        2802.5,
+        643.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BITES BACK",
+      "texte_balise": "BITES BACK",
+      "bbox": [
+        1342.0,
+        604.2,
+        1531.3,
+        638.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "serious",
+      "texte_balise": "serious",
+      "bbox": [
+        2840.2,
+        604.8,
+        2958.4,
+        637.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "entertainment",
+      "texte_balise": "entertainment",
+      "bbox": [
+        3161.6,
+        604.8,
+        3379.0,
+        633.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "shallow",
+      "texte_balise": "shallow",
+      "bbox": [
+        2996.2,
+        609.5,
+        3119.1,
+        637.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "be.",
+      "texte_balise": "be.",
+      "bbox": [
+        3520.8,
+        609.5,
+        3572.8,
+        633.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the leading voices of the Anglophone New Right.",
+      "texte_balise": "of the leading voices of the Anglophone New Right.",
+      "bbox": [
+        1606.8,
+        623.7,
+        2400.7,
+        657.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Bowden",
+      "texte_balise": "Jonathan Bowden",
+      "bbox": [
+        1346.9,
+        647.0,
+        1526.5,
+        671.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JONATHAN BOWDEN",
+      "texte_balise": "JONATHAN BOWDEN",
+      "bbox": [
+        2561.4,
+        685.0,
+        2807.2,
+        709.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Works of Friedrich Nietzsche",
+      "texte_balise": "The Complete Works of Friedrich Nietzsche",
+      "bbox": [
+        1625.7,
+        826.9,
+        2448.0,
+        865.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine and the Decay",
+      "texte_balise": "The Divine and the Decay",
+      "bbox": [
+        2878.1,
+        836.0,
+        3364.8,
+        874.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine and",
+      "texte_balise": "The Divine and",
+      "bbox": [
+        2523.6,
+        850.5,
+        2826.1,
+        888.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE WORKS",
+      "texte_balise": "THE COMPLETE WORKS",
+      "bbox": [
+        1304.3,
+        855.0,
+        1550.1,
+        865.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art and Thought of Heraclitus",
+      "texte_balise": "The Art and Thought of Heraclitus",
+      "bbox": [
+        198.5,
+        874.0,
+        841.2,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH NIETZSCHE",
+      "texte_balise": "FRIEDRICH NIETZSCHE",
+      "bbox": [
+        1280.7,
+        888.0,
+        1573.7,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Decay",
+      "texte_balise": "the Decay",
+      "bbox": [
+        2523.4,
+        892.1,
+        2727.0,
+        941.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"in my late teens I came across Friedrich Nietzsche's",
+      "texte_balise": "\"in my late teens I came across Friedrich Nietzsche's",
+      "bbox": [
+        1625.7,
+        907.0,
+        2400.7,
+        940.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"I bought it in Hay-on-Wye, where books go to",
+      "texte_balise": "\"I bought it in Hay-on-Wye, where books go to",
+      "bbox": [
+        2882.8,
+        921.0,
+        3544.4,
+        954.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Schlecta edition...\"",
+      "texte_balise": "Schlecta edition...\"",
+      "bbox": [
+        2114.0,
+        939.8,
+        2402.5,
+        976.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEARTAND",
+      "texte_balise": "THEARTAND",
+      "bbox": [
+        874.3,
+        945.0,
+        1105.9,
+        982.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ARTAND",
+      "texte_balise": "THE ARTAND",
+      "bbox": [
+        876.0,
+        945.0,
+        1106.8,
+        976.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "writings in the 28-volume, Karl",
+      "texte_balise": "writings in the 28-volume, Karl",
+      "bbox": [
+        1620.9,
+        945.0,
+        2119.3,
+        982.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "writings in",
+      "texte_balise": "writings in",
+      "bbox": [
+        1625.7,
+        945.0,
+        1800.6,
+        978.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the 28-volume, Karl Schlecta edition.",
+      "texte_balise": "the 28-volume, Karl Schlecta edition.",
+      "bbox": [
+        1795.8,
+        945.0,
+        2386.6,
+        973.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The fragments of Heraclitus are presented here in a",
+      "texte_balise": "The fragments of Heraclitus are presented here in a",
+      "bbox": [
+        70.9,
+        949.7,
+        845.9,
+        983.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "die. At the front it says, \"To Jonathan Bowden,",
+      "texte_balise": "die. At the front it says, \"To Jonathan Bowden,",
+      "bbox": [
+        2878.1,
+        954.0,
+        3539.7,
+        988.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE. OSCAR LEVY",
+      "texte_balise": "DE. OSCAR LEVY",
+      "bbox": [
+        1353.4,
+        971.0,
+        1495.0,
+        982.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DR OSCAR LEVY",
+      "texte_balise": "DR OSCAR LEVY",
+      "bbox": [
+        1351.6,
+        973.0,
+        1498.1,
+        983.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOUGHT OF",
+      "texte_balise": "THOUGHT OF",
+      "bbox": [
+        874.3,
+        978.0,
+        1120.0,
+        1021.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "readable order; translation and commentary aim to",
+      "texte_balise": "readable order; translation and commentary aim to",
+      "bbox": [
+        70.9,
+        987.5,
+        841.2,
+        1016.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hopkins.\"",
+      "texte_balise": "Hopkins.\"",
+      "bbox": [
+        3383.7,
+        987.5,
+        3544.4,
+        1025.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a fellow",
+      "texte_balise": "a fellow",
+      "bbox": [
+        2877.8,
+        991.1,
+        3029.5,
+        1026.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warrior.",
+      "texte_balise": "warrior.",
+      "bbox": [
+        3048.1,
+        991.8,
+        3175.9,
+        1021.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fellow",
+      "texte_balise": "fellow",
+      "bbox": [
+        2911.3,
+        992.0,
+        3032.1,
+        1029.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "From",
+      "texte_balise": "From",
+      "bbox": [
+        3194.7,
+        992.3,
+        3279.8,
+        1020.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bill",
+      "texte_balise": "Bill",
+      "bbox": [
+        3303.4,
+        992.3,
+        3360.1,
+        1020.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "warrior.",
+      "texte_balise": "warrior.",
+      "bbox": [
+        3032.0,
+        997.5,
+        3168.4,
+        1023.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERACLITUS",
+      "texte_balise": "HERACLITUS",
+      "bbox": [
+        869.6,
+        1015.9,
+        1091.7,
+        1053.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I prefer the Levy edition over more recent translations.",
+      "texte_balise": "I prefer the Levy edition over more recent translations.",
+      "bbox": [
+        1621.0,
+        1015.9,
+        2391.3,
+        1049.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(HERACLITUS",
+      "texte_balise": "(HERACLITUS",
+      "bbox": [
+        865.5,
+        1018.5,
+        1091.1,
+        1060.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the power and originality of a",
+      "texte_balise": "the power and originality of a",
+      "bbox": [
+        330.8,
+        1020.6,
+        841.2,
+        1054.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "make",
+      "texte_balise": "make",
+      "bbox": [
+        68.2,
+        1023.7,
+        157.4,
+        1050.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "accessible the",
+      "texte_balise": "accessible the",
+      "bbox": [
+        167.9,
+        1023.8,
+        398.7,
+        1055.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        514.1,
+        1023.8,
+        582.3,
+        1055.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "originality of a",
+      "texte_balise": "originality of a",
+      "bbox": [
+        592.8,
+        1023.8,
+        844.6,
+        1055.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "make accessible",
+      "texte_balise": "make accessible",
+      "bbox": [
+        70.9,
+        1025.0,
+        326.1,
+        1049.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Bill Hopkins",
+      "texte_balise": "by Bill Hopkins",
+      "bbox": [
+        2518.7,
+        1028.8,
+        2826.3,
+        1083.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "power",
+      "texte_balise": "power",
+      "bbox": [
+        403.9,
+        1029.0,
+        508.8,
+        1055.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Levy edition includes",
+      "texte_balise": "The Levy edition includes",
+      "bbox": [
+        1625.7,
+        1048.9,
+        2046.3,
+        1082.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1620.9,
+        1050.0,
+        1683.9,
+        1081.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "some translations",
+      "texte_balise": "some translations",
+      "bbox": [
+        2055.8,
+        1053.7,
+        2339.3,
+        1077.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by",
+      "texte_balise": "by",
+      "bbox": [
+        2353.5,
+        1053.7,
+        2396.0,
+        1086.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "systematic thinker and a great master of artistic",
+      "texte_balise": "systematic thinker and a great master of artistic",
+      "bbox": [
+        68.2,
+        1055.0,
+        844.6,
+        1092.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "edition includes",
+      "texte_balise": "edition includes",
+      "bbox": [
+        1783.5,
+        1055.0,
+        2040.6,
+        1087.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Levy",
+      "texte_balise": "Levy",
+      "bbox": [
+        1694.4,
+        1055.3,
+        1773.1,
+        1086.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "systematic thinker and",
+      "texte_balise": "systematic thinker and",
+      "bbox": [
+        70.9,
+        1058.0,
+        439.5,
+        1091.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a great master of artistic",
+      "texte_balise": "a great master of artistic",
+      "bbox": [
+        434.8,
+        1058.0,
+        841.2,
+        1091.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine and the Decay tells the story of",
+      "texte_balise": "The Divine and the Decay tells the story of",
+      "bbox": [
+        2873.3,
+        1063.0,
+        3544.4,
+        1096.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "randition antheme",
+      "texte_balise": "randition antheme",
+      "bbox": [
+        870.8,
+        1065.7,
+        1017.7,
+        1108.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ments with",
+      "texte_balise": "ments with",
+      "bbox": [
+        1017.7,
+        1076.0,
+        1085.9,
+        1087.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ludovici.",
+      "texte_balise": "Ludovici.",
+      "bbox": [
+        1625.7,
+        1086.8,
+        1758.0,
+        1115.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "exerted",
+      "texte_balise": "exerted",
+      "bbox": [
+        2112.5,
+        1086.8,
+        2225.9,
+        1115.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche's",
+      "texte_balise": "Nietzsche's",
+      "bbox": [
+        1795.4,
+        1087.9,
+        1957.0,
+        1118.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works",
+      "texte_balise": "works",
+      "bbox": [
+        1975.4,
+        1091.5,
+        2084.1,
+        1115.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a",
+      "texte_balise": "a",
+      "bbox": [
+        2259.0,
+        1091.5,
+        2287.3,
+        1119.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "great",
+      "texte_balise": "great",
+      "bbox": [
+        2320.4,
+        1091.5,
+        2400.7,
+        1124.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works",
+      "texte_balise": "works",
+      "bbox": [
+        1988.1,
+        1092.0,
+        2077.3,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "prose. The commentary locates Heraclitus within the",
+      "texte_balise": "prose. The commentary locates Heraclitus within the",
+      "bbox": [
+        70.9,
+        1096.0,
+        841.2,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "translation and commentar",
+      "texte_balise": "translation and commentar",
+      "bbox": [
+        879.0,
+        1096.0,
+        1058.6,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the leader of a British right-wing populist",
+      "texte_balise": "the leader of a British right-wing populist",
+      "bbox": [
+        2878.1,
+        1100.9,
+        3539.7,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "philosophical influence on Bowden, and are essential",
+      "texte_balise": "philosophical influence on Bowden, and are essential",
+      "bbox": [
+        1620.9,
+        1123.5,
+        2397.3,
+        1160.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tradition of early Greek thought, but stresses the",
+      "texte_balise": "tradition of early Greek thought, but stresses the",
+      "bbox": [
+        68.2,
+        1134.0,
+        844.6,
+        1165.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "party who has decided to have his internal",
+      "texte_balise": "party who has decided to have his internal",
+      "bbox": [
+        2869.4,
+        1139.0,
+        3535.6,
+        1171.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHAKLES H.KAHN",
+      "texte_balise": "CHAKLES H.KAHN",
+      "bbox": [
+        965.2,
+        1160.0,
+        1122.6,
+        1171.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        1972.4,
+        1160.3,
+        2030.1,
+        1191.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "importance of his ideas for",
+      "texte_balise": "importance of his ideas for",
+      "bbox": [
+        68.2,
+        1165.5,
+        535.1,
+        1202.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "topical theories",
+      "texte_balise": "topical theories",
+      "bbox": [
+        535.1,
+        1165.5,
+        797.3,
+        1202.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        792.1,
+        1165.5,
+        844.6,
+        1197.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to",
+      "texte_balise": "to",
+      "bbox": [
+        1620.9,
+        1165.5,
+        1657.6,
+        1191.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "an understanding",
+      "texte_balise": "an understanding",
+      "bbox": [
+        1673.4,
+        1165.5,
+        1961.9,
+        1197.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden's",
+      "texte_balise": "Bowden's",
+      "bbox": [
+        2040.6,
+        1165.5,
+        2182.2,
+        1191.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "own",
+      "texte_balise": "own",
+      "bbox": [
+        2203.2,
+        1165.5,
+        2271.4,
+        1191.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works.",
+      "texte_balise": "works.",
+      "bbox": [
+        2292.4,
+        1165.5,
+        2392.0,
+        1191.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rival assassinated. To provide an alibi for",
+      "texte_balise": "rival assassinated. To provide an alibi for",
+      "bbox": [
+        2874.7,
+        1176.0,
+        3535.6,
+        1208.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "language, literature and philosophy. Bowden saw his",
+      "texte_balise": "language, literature and philosophy. Bowden saw his",
+      "bbox": [
+        68.2,
+        1202.0,
+        839.3,
+        1239.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harvest Books",
+      "texte_balise": "Harvest Books",
+      "bbox": [
+        2517.9,
+        1202.0,
+        2696.3,
+        1228.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "himself he stays on a small Channel Island,",
+      "texte_balise": "himself he stays on a small Channel Island,",
+      "bbox": [
+        2869.4,
+        1207.5,
+        3535.6,
+        1244.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "philosophy as the linear descendent of Heraclitus'.",
+      "texte_balise": "philosophy as the linear descendent of Heraclitus'.",
+      "bbox": [
+        68.2,
+        1239.0,
+        839.3,
+        1276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "becomes fascinated",
+      "texte_balise": "becomes fascinated",
+      "bbox": [
+        3037.3,
+        1244.0,
+        3352.0,
+        1276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he",
+      "texte_balise": "he",
+      "bbox": [
+        2979.6,
+        1244.3,
+        3032.0,
+        1275.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "where",
+      "texte_balise": "where",
+      "bbox": [
+        2869.4,
+        1249.5,
+        2974.3,
+        1275.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "very",
+      "texte_balise": "very",
+      "bbox": [
+        3456.9,
+        1249.5,
+        3535.6,
+        1281.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "self-possessed",
+      "texte_balise": "self-possessed",
+      "bbox": [
+        2869.4,
+        1281.0,
+        3089.7,
+        1317.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "woman.",
+      "texte_balise": "woman.",
+      "bbox": [
+        3247.0,
+        1285.7,
+        3373.1,
+        1313.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "young",
+      "texte_balise": "young",
+      "bbox": [
+        3121.2,
+        1286.3,
+        3220.9,
+        1317.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "was",
+      "texte_balise": "was",
+      "bbox": [
+        3472.7,
+        1286.3,
+        3535.6,
+        1312.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        3105.5,
+        1317.7,
+        3173.7,
+        1344.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "novel.",
+      "texte_balise": "novel.",
+      "bbox": [
+        3441.2,
+        1317.7,
+        3535.6,
+        1344.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hopkins' first",
+      "texte_balise": "Hopkins' first",
+      "bbox": [
+        2869.4,
+        1317.8,
+        3100.2,
+        1349.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "only published",
+      "texte_balise": "only published",
+      "bbox": [
+        3173.7,
+        1317.8,
+        3425.5,
+        1355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Omnibus I",
+      "texte_balise": "Omnibus I",
+      "bbox": [
+        1594.7,
+        1412.0,
+        1799.3,
+        1449.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Works of William",
+      "texte_balise": "The Complete Works of William",
+      "bbox": [
+        2874.7,
+        1412.0,
+        3467.4,
+        1454.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE OXFORD",
+      "texte_balise": "THE OXFORD",
+      "bbox": [
+        2559.9,
+        1417.5,
+        2837.9,
+        1465.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cambridge History of Modernism",
+      "texte_balise": "The Cambridge History of Modernism",
+      "bbox": [
+        131.1,
+        1428.0,
+        839.3,
+        1470.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SABRI",
+      "texte_balise": "THE SABRI",
+      "bbox": [
+        928.5,
+        1459.5,
+        1064.9,
+        1507.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Shakespeare",
+      "texte_balise": "Shakespeare",
+      "bbox": [
+        2874.7,
+        1459.5,
+        3116.0,
+        1496.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHAKESPEARE",
+      "texte_balise": "SHAKESPEARE",
+      "bbox": [
+        2559.9,
+        1464.8,
+        2837.9,
+        1512.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection",
+      "texte_balise": "A collection",
+      "bbox": [
+        1594.7,
+        1496.0,
+        1788.8,
+        1528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of fiction including",
+      "texte_balise": "of fiction including",
+      "bbox": [
+        1794.0,
+        1496.0,
+        2114.0,
+        1533.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fanatical",
+      "texte_balise": "The Fanatical",
+      "bbox": [
+        2250.4,
+        1496.0,
+        2476.0,
+        1528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kratos,",
+      "texte_balise": "Kratos,",
+      "bbox": [
+        2124.5,
+        1496.3,
+        2239.9,
+        1527.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The first comprehensive history of modernism in the",
+      "texte_balise": "The first comprehensive history of modernism in the",
+      "bbox": [
+        21.0,
+        1501.5,
+        844.6,
+        1538.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE WORKS",
+      "texte_balise": "THE COMPLETE WORKS",
+      "bbox": [
+        2565.2,
+        1506.8,
+        2837.9,
+        1538.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pursuit of Purity, Al-Qa'eda Moth, and A Ballet of Wasps.",
+      "texte_balise": "Pursuit of Purity, Al-Qa'eda Moth, and A Ballet of Wasps.",
+      "bbox": [
+        1594.7,
+        1533.0,
+        2476.0,
+        1570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"In love, in hate, in war, in peace, in belief, in",
+      "texte_balise": "\"In love, in hate, in war, in peace, in belief, in",
+      "bbox": [
+        2874.7,
+        1533.0,
+        3551.3,
+        1570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cambridge",
+      "texte_balise": "Cambridge",
+      "bbox": [
+        256.9,
+        1537.8,
+        425.0,
+        1575.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histories",
+      "texte_balise": "Histories",
+      "bbox": [
+        456.4,
+        1538.3,
+        592.8,
+        1569.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "distinguished",
+      "texte_balise": "distinguished",
+      "bbox": [
+        21.0,
+        1543.5,
+        225.6,
+        1575.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "collection.",
+      "texte_balise": "collection.",
+      "bbox": [
+        624.2,
+        1543.5,
+        776.4,
+        1569.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "It",
+      "texte_balise": "It",
+      "bbox": [
+        813.1,
+        1543.5,
+        844.6,
+        1569.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STANLEY WELLS AND GARY TAYLOR",
+      "texte_balise": "STANLEY WELLS AND GARY TAYLOR",
+      "bbox": [
+        2565.2,
+        1564.5,
+        2837.9,
+        1591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kratos was the name of Bowden's demonic alter ego, and the",
+      "texte_balise": "Kratos was the name of Bowden's demonic alter ego, and the",
+      "bbox": [
+        1594.7,
+        1569.8,
+        2481.2,
+        1601.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the absence of belief, to read Shakespeare is a",
+      "texte_balise": "the absence of belief, to read Shakespeare is a",
+      "bbox": [
+        2874.7,
+        1569.8,
+        3556.6,
+        1601.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "identifies",
+      "texte_balise": "identifies",
+      "bbox": [
+        20.9,
+        1574.6,
+        168.0,
+        1606.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "distinctive temperament of",
+      "texte_balise": "distinctive temperament of",
+      "bbox": [
+        209.8,
+        1575.0,
+        645.2,
+        1606.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'modernism'",
+      "texte_balise": "'modernism'",
+      "bbox": [
+        645.2,
+        1575.0,
+        839.3,
+        1606.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MODERNISM",
+      "texte_balise": "MODERNISM",
+      "bbox": [
+        912.8,
+        1590.7,
+        1091.1,
+        1617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "book of the same name was published by the Spinning Top",
+      "texte_balise": "book of the same name was published by the Spinning Top",
+      "bbox": [
+        1594.7,
+        1606.5,
+        2476.0,
+        1638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "revolutionary act in an age where people say",
+      "texte_balise": "revolutionary act in an age where people say",
+      "bbox": [
+        2874.7,
+        1606.5,
+        3551.3,
+        1643.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "scholars",
+      "texte_balise": "scholars",
+      "bbox": [
+        655.4,
+        1610.3,
+        797.6,
+        1644.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "within",
+      "texte_balise": "within",
+      "bbox": [
+        21.0,
+        1611.7,
+        120.7,
+        1643.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        131.1,
+        1611.7,
+        194.1,
+        1638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Prominent",
+      "texte_balise": "Prominent",
+      "bbox": [
+        493.1,
+        1611.7,
+        655.7,
+        1638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'modern' period.",
+      "texte_balise": "'modern' period.",
+      "bbox": [
+        199.3,
+        1611.8,
+        451.1,
+        1648.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        802.6,
+        1611.8,
+        844.6,
+        1643.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Club in 2008. It extends over 157 pages, and consists of four",
+      "texte_balise": "Club in 2008. It extends over 157 pages, and consists of four",
+      "bbox": [
+        1594.7,
+        1643.0,
+        2476.0,
+        1675.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "we have no culture but the culture of globalism,",
+      "texte_balise": "we have no culture but the culture of globalism,",
+      "bbox": [
+        2874.7,
+        1643.0,
+        3551.3,
+        1675.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "modernism",
+      "texte_balise": "modernism",
+      "bbox": [
+        20.9,
+        1647.9,
+        189.0,
+        1680.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "provide",
+      "texte_balise": "provide",
+      "bbox": [
+        225.6,
+        1648.5,
+        341.0,
+        1680.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "analytical",
+      "texte_balise": "analytical",
+      "bbox": [
+        367.2,
+        1648.5,
+        524.6,
+        1680.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "narratives",
+      "texte_balise": "narratives",
+      "bbox": [
+        540.3,
+        1648.5,
+        702.9,
+        1674.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        729.2,
+        1648.5,
+        771.1,
+        1674.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "its",
+      "texte_balise": "its",
+      "bbox": [
+        792.1,
+        1648.5,
+        839.3,
+        1680.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "stories",
+      "texte_balise": "stories",
+      "bbox": [
+        1814.9,
+        1679.7,
+        1920.0,
+        1706.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "independent",
+      "texte_balise": "independent",
+      "bbox": [
+        1594.7,
+        1680.0,
+        1788.8,
+        1711.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        1951.4,
+        1680.0,
+        1993.4,
+        1706.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "around",
+      "texte_balise": "around",
+      "bbox": [
+        2019.6,
+        1680.0,
+        2135.0,
+        1706.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        2166.5,
+        1680.0,
+        2218.9,
+        1706.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "length.",
+      "texte_balise": "length.",
+      "bbox": [
+        2365.8,
+        1680.0,
+        2476.0,
+        1711.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "language ere deemed so be of equal merit\"",
+      "texte_balise": "language ere deemed so be of equal merit\"",
+      "bbox": [
+        2869.4,
+        1680.0,
+        3556.6,
+        1748.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and where all groups",
+      "texte_balise": "and where all groups",
+      "bbox": [
+        2874.7,
+        1680.0,
+        3236.6,
+        1711.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "all usages",
+      "texte_balise": "all usages",
+      "bbox": [
+        3320.5,
+        1680.0,
+        3504.1,
+        1711.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "literature, music, visual arts, architecture, philosophy,",
+      "texte_balise": "literature, music, visual arts, architecture, philosophy,",
+      "bbox": [
+        21.0,
+        1685.0,
+        844.6,
+        1722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Characterization is",
+      "texte_balise": "Characterization is",
+      "bbox": [
+        1594.7,
+        1711.5,
+        1909.4,
+        1743.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "non-Dual, beyond good and evil,",
+      "texte_balise": "non-Dual, beyond good and evil,",
+      "bbox": [
+        1909.4,
+        1711.5,
+        2476.0,
+        1748.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        21.0,
+        1722.0,
+        89.2,
+        1748.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "science, offering circumstantial accounts of its",
+      "texte_balise": "science, offering circumstantial accounts of its",
+      "bbox": [
+        89.2,
+        1722.0,
+        839.3,
+        1753.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VINCENT SHERRY",
+      "texte_balise": "VINCENT SHERRY",
+      "bbox": [
+        933.7,
+        1722.0,
+        1070.1,
+        1753.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "oriented",
+      "texte_balise": "oriented",
+      "bbox": [
+        1967.0,
+        1747.8,
+        2098.4,
+        1780.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        2434.0,
+        1748.3,
+        2481.2,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "their",
+      "texte_balise": "their",
+      "bbox": [
+        461.6,
+        1753.5,
+        535.1,
+        1785.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "semi-Gnostic,",
+      "texte_balise": "semi-Gnostic,",
+      "bbox": [
+        1594.7,
+        1753.5,
+        1804.5,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Power",
+      "texte_balise": "Power",
+      "bbox": [
+        1836.0,
+        1753.5,
+        1935.7,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in",
+      "texte_balise": "in",
+      "bbox": [
+        2124.5,
+        1753.5,
+        2166.5,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        2198.0,
+        1753.5,
+        2255.7,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "manner",
+      "texte_balise": "manner",
+      "bbox": [
+        2287.1,
+        1753.5,
+        2413.0,
+        1779.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "personnel",
+      "texte_balise": "personnel",
+      "bbox": [
+        177.2,
+        1757.4,
+        331.4,
+        1791.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "diverse",
+      "texte_balise": "diverse",
+      "bbox": [
+        21.0,
+        1758.7,
+        136.4,
+        1785.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in",
+      "texte_balise": "in",
+      "bbox": [
+        377.7,
+        1758.7,
+        414.4,
+        1785.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "many",
+      "texte_balise": "many",
+      "bbox": [
+        582.3,
+        1758.8,
+        676.7,
+        1790.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "settings",
+      "texte_balise": "settings",
+      "bbox": [
+        718.7,
+        1758.8,
+        839.3,
+        1790.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"demented,\" furious, even non-Christian.",
+      "texte_balise": "\"demented,\" furious, even non-Christian.",
+      "bbox": [
+        1836.0,
+        1779.7,
+        2476.0,
+        1816.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thrasymachus,",
+      "texte_balise": "Thrasymachus,",
+      "bbox": [
+        1594.7,
+        1785.0,
+        1830.8,
+        1816.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden often quoted Shakespeare at length in",
+      "texte_balise": "Bowden often quoted Shakespeare at length in",
+      "bbox": [
+        2874.7,
+        1785.0,
+        3551.3,
+        1816.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "conversation. Certain key texts include King",
+      "texte_balise": "conversation. Certain key texts include King",
+      "bbox": [
+        2874.7,
+        1821.8,
+        3551.3,
+        1859.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lear, Macbeth, Coriolanus, and the Henriad",
+      "texte_balise": "Lear, Macbeth, Coriolanus, and the Henriad",
+      "bbox": [
+        2869.4,
+        1853.0,
+        3546.1,
+        1890.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Omnibus II",
+      "texte_balise": "Omnibus II",
+      "bbox": [
+        1599.9,
+        1984.5,
+        1809.8,
+        2016.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Works of",
+      "texte_balise": "The Complete Works of",
+      "bbox": [
+        2864.2,
+        1989.8,
+        3315.3,
+        2026.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Right",
+      "texte_balise": "Right",
+      "bbox": [
+        713.4,
+        2005.5,
+        823.6,
+        2047.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Right",
+      "texte_balise": "Right",
+      "bbox": [
+        933.7,
+        2010.7,
+        1043.9,
+        2068.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aeschylus",
+      "texte_balise": "Aeschylus",
+      "bbox": [
+        2869.3,
+        2031.2,
+        3058.4,
+        2069.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collection including Apocalypse TV; Lilith Before Eve; Goodbye,",
+      "texte_balise": "Collection including Apocalypse TV; Lilith Before Eve; Goodbye,",
+      "bbox": [
+        1594.7,
+        2068.5,
+        2533.7,
+        2100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "While Bowden, like many of his colleagues, disliked the",
+      "texte_balise": "While Bowden, like many of his colleagues, disliked the",
+      "bbox": [
+        21.0,
+        2084.0,
+        823.6,
+        2121.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homunculus! Apocalypse TV is a series of politically-incorrect",
+      "texte_balise": "Homunculus! Apocalypse TV is a series of politically-incorrect",
+      "bbox": [
+        1594.7,
+        2105.0,
+        2538.9,
+        2137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "essential",
+      "texte_balise": "essential",
+      "bbox": [
+        3010.3,
+        2111.9,
+        3152.2,
+        2140.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        2864.2,
+        2115.7,
+        2921.9,
+        2136.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "two",
+      "texte_balise": "two",
+      "bbox": [
+        2927.1,
+        2115.7,
+        2995.3,
+        2136.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ", essential",
+      "texte_balise": ", essential",
+      "bbox": [
+        2990.1,
+        2115.7,
+        3152.7,
+        2137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works",
+      "texte_balise": "works",
+      "bbox": [
+        3152.7,
+        2115.7,
+        3257.6,
+        2136.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "are the",
+      "texte_balise": "are the",
+      "bbox": [
+        3268.1,
+        2115.7,
+        3399.2,
+        2137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works are",
+      "texte_balise": "works are",
+      "bbox": [
+        3161.6,
+        2116.8,
+        3331.7,
+        2140.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        3331.7,
+        2116.8,
+        3397.9,
+        2140.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "European Union, he did so as a self-confessed European",
+      "texte_balise": "European Union, he did so as a self-confessed European",
+      "bbox": [
+        23.6,
+        2121.5,
+        822.3,
+        2155.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pavanananas at nataaaaaaans",
+      "texte_balise": "Pavanananas at nataaaaaaans",
+      "bbox": [
+        21.0,
+        2126.0,
+        813.1,
+        2137.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "philosophical dialogues between a Christian and a Pagan on",
+      "texte_balise": "philosophical dialogues between a Christian and a Pagan on",
+      "bbox": [
+        1597.3,
+        2140.0,
+        2542.5,
+        2173.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oresteia",
+      "texte_balise": "Oresteia",
+      "bbox": [
+        2873.3,
+        2149.5,
+        3001.0,
+        2178.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Prometheus Bound",
+      "texte_balise": "and Prometheus Bound",
+      "bbox": [
+        3010.4,
+        2149.9,
+        3397.9,
+        2178.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fundamentalist, his criticism being that the EU was",
+      "texte_balise": "fundamentalist, his criticism being that the EU was",
+      "bbox": [
+        23.6,
+        2159.0,
+        822.3,
+        2192.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "philosophy, politics, art. It consists of two independent voices,",
+      "texte_balise": "philosophy, politics, art. It consists of two independent voices,",
+      "bbox": [
+        1597.3,
+        2173.5,
+        2542.5,
+        2207.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "neither particularly European nor proud of its cultural",
+      "texte_balise": "neither particularly European nor proud of its cultural",
+      "bbox": [
+        18.9,
+        2192.0,
+        822.3,
+        2225.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "representing Friedrich Nietzsche and St. Thomas Aquinas, with",
+      "texte_balise": "representing Friedrich Nietzsche and St. Thomas Aquinas, with",
+      "bbox": [
+        1597.3,
+        2211.0,
+        2542.5,
+        2244.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "roots. He saw no contradiction between Great Britain and",
+      "texte_balise": "roots. He saw no contradiction between Great Britain and",
+      "bbox": [
+        18.9,
+        2230.0,
+        822.3,
+        2259.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE",
+      "texte_balise": "THE COMPLETE",
+      "bbox": [
+        2618.1,
+        2234.9,
+        2797.7,
+        2259.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden showing a preference for the former's vitalist paganism.",
+      "texte_balise": "Bowden showing a preference for the former's vitalist paganism.",
+      "bbox": [
+        1597.3,
+        2244.0,
+        2542.5,
+        2282.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORKS OF",
+      "texte_balise": "WORKS OF",
+      "bbox": [
+        2655.9,
+        2253.8,
+        2764.6,
+        2277.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a Great Europe, and, to this effect, inspired by Alain de",
+      "texte_balise": "a Great Europe, and, to this effect, inspired by Alain de",
+      "bbox": [
+        18.9,
+        2263.0,
+        822.3,
+        2296.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AESCHYLUS",
+      "texte_balise": "AESCHYLUS",
+      "bbox": [
+        2641.8,
+        2272.7,
+        2774.1,
+        2296.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OMNIBU",
+      "texte_balise": "OMNIBU",
+      "bbox": [
+        1299.6,
+        2277.5,
+        1498.1,
+        2315.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Benoist's GRECE (the think tank of the French New",
+      "texte_balise": "Benoist's GRECE (the think tank of the French New",
+      "bbox": [
+        23.6,
+        2301.0,
+        822.3,
+        2329.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASCHAUS",
+      "texte_balise": "ASCHAUS",
+      "bbox": [
+        2646.5,
+        2310.5,
+        2764.6,
+        2320.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Right), while at the same time fed up with the empty",
+      "texte_balise": "Right), while at the same time fed up with the empty",
+      "bbox": [
+        23.6,
+        2338.9,
+        822.3,
+        2372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anti-EU bigotry of many conservatives on the Right wing",
+      "texte_balise": "anti-EU bigotry of many conservatives on the Right wing",
+      "bbox": [
+        23.6,
+        2371.9,
+        822.3,
+        2405.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Bowden",
+      "texte_balise": "Jonathan Bowden",
+      "bbox": [
+        907.4,
+        2386.0,
+        1072.8,
+        2410.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the party, he was determined to establish a New Right",
+      "texte_balise": "of the party, he was determined to establish a New Right",
+      "bbox": [
+        23.6,
+        2409.7,
+        827.0,
+        2443.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "school of thought in the British Isles, aiming to reorient",
+      "texte_balise": "school of thought in the British Isles, aiming to reorient",
+      "bbox": [
+        23.6,
+        2442.8,
+        827.0,
+        2476.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "conservatives away from purely reactionary emotions and",
+      "texte_balise": "conservatives away from purely reactionary emotions and",
+      "bbox": [
+        18.9,
+        2480.6,
+        822.3,
+        2514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "towards the higher pursuit of cultural regeneration",
+      "texte_balise": "towards the higher pursuit of cultural regeneration",
+      "bbox": [
+        18.9,
+        2518.0,
+        822.3,
+        2551.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Speeches: A Collection of Talks Given at the London",
+      "texte_balise": "The Speeches: A Collection of Talks Given at the London",
+      "bbox": [
+        1616.2,
+        2542.0,
+        2689.0,
+        2585.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JONATHAN BOWDEN",
+      "texte_balise": "JONATHAN BOWDEN",
+      "bbox": [
+        1299.5,
+        2555.6,
+        1559.7,
+        2608.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "New Right",
+      "texte_balise": "New Right",
+      "bbox": [
+        1616.2,
+        2584.6,
+        1814.7,
+        2627.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Axe",
+      "texte_balise": "Axe",
+      "bbox": [
+        751.4,
+        2598.8,
+        822.3,
+        2627.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SPEECHES",
+      "texte_balise": "THE SPEECHES",
+      "bbox": [
+        1299.6,
+        2612.9,
+        1446.1,
+        2637.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of transcripts from speeches addressed to the London New Right",
+      "texte_balise": "A collection of transcripts from speeches addressed to the London New Right",
+      "bbox": [
+        1616.2,
+        2669.6,
+        2764.6,
+        2703.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Axe",
+      "texte_balise": "Axe",
+      "bbox": [
+        47.3,
+        2679.1,
+        104.0,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "begins",
+      "texte_balise": "begins",
+      "bbox": [
+        132.3,
+        2679.1,
+        236.3,
+        2712.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with",
+      "texte_balise": "with",
+      "bbox": [
+        259.9,
+        2679.1,
+        335.5,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        363.9,
+        2679.1,
+        420.6,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Right",
+      "texte_balise": "Right",
+      "bbox": [
+        449.0,
+        2679.1,
+        534.0,
+        2712.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        552.9,
+        2679.1,
+        619.1,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ends",
+      "texte_balise": "ends",
+      "bbox": [
+        647.4,
+        2679.1,
+        723.1,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with",
+      "texte_balise": "with",
+      "bbox": [
+        751.4,
+        2679.1,
+        822.3,
+        2707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "between 2006 and 2011. The talks are informative, passionate, dynamic, and",
+      "texte_balise": "between 2006 and 2011. The talks are informative, passionate, dynamic, and",
+      "bbox": [
+        1616.2,
+        2707.0,
+        2764.6,
+        2740.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "conservatism, but it is largely a commentary on art,",
+      "texte_balise": "conservatism, but it is largely a commentary on art,",
+      "bbox": [
+        47.3,
+        2716.9,
+        822.3,
+        2750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "very funny,",
+      "texte_balise": "very funny,",
+      "bbox": [
+        1705.9,
+        2739.6,
+        1895.2,
+        2779.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the full extent of the man's oratorical",
+      "texte_balise": "the full extent of the man's oratorical",
+      "bbox": [
+        2136.1,
+        2740.5,
+        2764.6,
+        2774.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "excelleece, treat intellectual bearin and uncan ability make with at",
+      "texte_balise": "excelleece, treat intellectual bearin and uncan ability make with at",
+      "bbox": [
+        1616.2,
+        2745.0,
+        2764.6,
+        2811.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "literature,",
+      "texte_balise": "literature,",
+      "bbox": [
+        42.5,
+        2749.7,
+        203.3,
+        2783.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        198.5,
+        2750.0,
+        278.8,
+        2778.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "intellectuals on the Left. Bowden",
+      "texte_balise": "intellectuals on the Left. Bowden",
+      "bbox": [
+        278.8,
+        2750.0,
+        822.3,
+        2778.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "begins with a criticism of Wyndham Lewis and then",
+      "texte_balise": "begins with a criticism of Wyndham Lewis and then",
+      "bbox": [
+        47.3,
+        2787.7,
+        822.3,
+        2821.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "notes on a whole range of philosophical and cultural topics. The speeches on",
+      "texte_balise": "notes on a whole range of philosophical and cultural topics. The speeches on",
+      "bbox": [
+        1611.5,
+        2811.0,
+        2764.6,
+        2849.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alex Kurtagić is writing the biography of",
+      "texte_balise": "Alex Kurtagić is writing the biography of",
+      "bbox": [
+        2939.5,
+        2811.0,
+        3577.5,
+        2849.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "builds a catena of digressions, whose topics include",
+      "texte_balise": "builds a catena of digressions, whose topics include",
+      "bbox": [
+        47.3,
+        2820.8,
+        822.3,
+        2854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elited hu Tray South,",
+      "texte_balise": "Elited hu Tray South,",
+      "bbox": [
+        1299.6,
+        2844.0,
+        1413.0,
+        2854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "down",
+      "texte_balise": "down",
+      "bbox": [
+        3482.9,
+        2848.9,
+        3572.8,
+        2877.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "offer in this collection include discussions on William Butler Yeats, Savitri",
+      "texte_balise": "offer in this collection include discussions on William Butler Yeats, Savitri",
+      "bbox": [
+        1611.5,
+        2849.0,
+        2764.6,
+        2882.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Bowden.",
+      "texte_balise": "Jonathan Bowden.",
+      "bbox": [
+        2934.8,
+        2849.0,
+        3227.8,
+        2878.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "He is tracking",
+      "texte_balise": "He is tracking",
+      "bbox": [
+        3232.5,
+        2849.0,
+        3468.8,
+        2882.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andrea Mantegna, J. G. Ballard, Stephen King, a",
+      "texte_balise": "Andrea Mantegna, J. G. Ballard, Stephen King, a",
+      "bbox": [
+        47.3,
+        2858.6,
+        827.0,
+        2892.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Devi,",
+      "texte_balise": "Devi,",
+      "bbox": [
+        1616.2,
+        2887.0,
+        1696.6,
+        2920.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ezra Pound,",
+      "texte_balise": "Ezra Pound,",
+      "bbox": [
+        1701.3,
+        2887.0,
+        1914.0,
+        2920.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marxism and",
+      "texte_balise": "Marxism and",
+      "bbox": [
+        1914.0,
+        2887.0,
+        2145.5,
+        2915.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        2140.8,
+        2887.0,
+        2211.7,
+        2915.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frankfurt",
+      "texte_balise": "Frankfurt",
+      "bbox": [
+        2207.0,
+        2887.0,
+        2386.6,
+        2915.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "School, George Orwell's",
+      "texte_balise": "School, George Orwell's",
+      "bbox": [
+        2381.8,
+        2887.0,
+        2764.6,
+        2920.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bowden's early works and is publishing",
+      "texte_balise": "Bowden's early works and is publishing",
+      "bbox": [
+        2939.5,
+        2887.0,
+        3572.8,
+        2920.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "foray into personal memoir, Jean Baudrillard, the",
+      "texte_balise": "foray into personal memoir, Jean Baudrillard, the",
+      "bbox": [
+        47.3,
+        2896.0,
+        827.0,
+        2929.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eighty-Four, Howard Phillips Lovecraft",
+      "texte_balise": "Eighty-Four, Howard Phillips Lovecraft",
+      "bbox": [
+        1762.7,
+        2920.0,
+        2386.6,
+        2958.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Martin Heidegger.",
+      "texte_balise": "and Martin Heidegger.",
+      "bbox": [
+        2391.3,
+        2920.0,
+        2759.9,
+        2958.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Collected Works (1995) in instalments",
+      "texte_balise": "The Collected Works (1995) in instalments",
+      "bbox": [
+        2939.5,
+        2920.0,
+        3572.8,
+        2953.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nineteen",
+      "texte_balise": "Nineteen",
+      "bbox": [
+        1616.2,
+        2924.8,
+        1753.3,
+        2948.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "New Left, Sartre, Camus, and Roberto D'Aubuisson.",
+      "texte_balise": "New Left, Sartre, Camus, and Roberto D'Aubuisson.",
+      "bbox": [
+        47.3,
+        2929.5,
+        822.3,
+        2963.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

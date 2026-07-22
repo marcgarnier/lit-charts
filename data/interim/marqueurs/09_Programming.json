@@ -1,0 +1,63 @@
+{
+  "fichier": "09_Programming.jpeg",
+  "date": "2026-07-21T19:30:37.584970+00:00",
+  "nb_lignes_texte": 147,
+  "nb_caracteres": 2327,
+  "registres_actifs": [
+    "niveaux_nommes",
+    "hierarchie_valeur",
+    "point_entree",
+    "prerequis"
+  ],
+  "score_total": 8,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 4,
+      "extraits": [
+        "GOD TIER",
+        "HIGH TIER",
+        "GREAT TIER",
+        "THE-BEST-IN-THEIR-OWN-WORLD TIER"
+      ]
+    },
+    "hierarchie_valeur": {
+      "occurrences": 1,
+      "extraits": [
+        "GOD TIER"
+      ]
+    },
+    "point_entree": {
+      "occurrences": 1,
+      "extraits": [
+        "A Beginner's Guide"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 2,
+      "extraits": [
+        "A FOUNDATION FOR COMPUTER SCIENCE",
+        "Foundations"
+      ]
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

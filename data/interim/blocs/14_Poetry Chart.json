@@ -1,0 +1,992 @@
+{
+  "fichier": "14_Poetry Chart.jpeg",
+  "date": "2026-07-21T19:28:36.579524+00:00",
+  "taille_origine": [
+    2800,
+    2800
+  ],
+  "hauteur_ligne_mediane": 36.6,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 28,
+  "nb_noeuds": 126,
+  "tiers": [
+    "METER",
+    "VIRGIL",
+    "IF YOU ALREADY KNOW",
+    "GREEKS",
+    "POETS"
+  ],
+  "intitules_isoles": [
+    "GODS and HEROES",
+    "David Hopkins"
+  ],
+  "blocs": [
+    {
+      "tier": "METER",
+      "bbox": [
+        -0.1,
+        7.9,
+        683.7,
+        337.7
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "&",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "POF",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "C FORM",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "START",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "Handbook",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "AND WAITING POETAT",
+          "auteur": null,
+          "tier": "METER"
+        },
+        {
+          "titre": "PAUL FUSSELL",
+          "auteur": null,
+          "tier": "METER"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        936.0,
+        24.0,
+        1477.3,
+        288.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "LEARN FORM. IT'LL HELP",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "YOUR UNDERSTANDING OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETRY, AND FURTHER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "YOUR ABILITY TO WRITE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        475.9,
+        52.9,
+        688.0,
+        224.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Mary",
+          "auteur": "Oliver",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        711.9,
+        60.9,
+        899.7,
+        224.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "John Hollander",
+          "auteur": "Rhyme's",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        236.0,
+        133.9,
+        447.7,
+        158.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WESTERN WIND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1534.1,
+        263.6,
+        1685.1,
+        305.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HOMER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2010.2,
+        287.5,
+        2189.8,
+        338.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HORACE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1762.1,
+        292.4,
+        1929.2,
+        337.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HESIOD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2592.4,
+        300.9,
+        2714.5,
+        345.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OVID",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "VIRGIL",
+      "bbox": [
+        1200.6,
+        357.8,
+        2795.9,
+        1616.7
+      ],
+      "nb_lignes": 49,
+      "noeuds": [
+        {
+          "titre": "THE GREEKS (AND ROMANS). SO MANY POETS REFERENCE AND",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "ALLUDE TO GRECO-ROMAN MYTHOLOGY THAT YOU'LL MISS",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "OUT ON A LOT IF YOU'RE NOT FAMILIAR WITH IT. FOR A",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "CURSORY OVERVIEW OF THE MYTHOLOGY, IVE INCLUDED A",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "SELECTION OF THE MOST NOTABLE GREEK AND ROMAN",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "AUTHORS",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "MYTHOLOGY PLAYS A LARGE ROLE IN MANY POETIC TRADITIONS,",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "AND ITEXISTS OUTSIDE THE GRECO-ROMAN MYTHOS",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "IIIL",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "DON'T FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "DONT FORGET THE BIBLE AND ANY MYTHS RELEVANT TO THE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "BACKGROUND OF THE POET YOU'RE READING, LIKE IRISH MYTHS AND",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "YEATS",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "The WINGED HORSE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "The WINGED HORS",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "ANTHOLOGY",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "Margaret Ferguson",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "THEBEST",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "THE NEW",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "Mary Jo Salter",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "OXFORD",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "OXFORD",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "Jon Stallworthy",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "BOOK OF",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "ENGLISH",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "BOOK",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "y ce ENGLISH",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "VERSE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "LANANTHOLODCIE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "HAROLD",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "The NORTON",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "BLOOM",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "Chosen and Edited by",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "ANTHOLOGY of",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "Sir Arthur Quiller-Couch",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "BY JOSEPH AUSLANDER",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "lica by",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "POETRY",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "HELEN",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "AND FRANK ERNEST HILL",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "GARDNER",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "A GOOD PLACE TO BEGIN READING POETRY AFTER ONE HAS BECOME FAMILIAR WITH FORM AND HISTORY IS WITH AN",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "ANTHOLOGY. AN ANTHOLOGY OFFERS A COMPREHENSIVE OVERVIEW OF ENGLISH POEMS FROM THE BEGINNING TO",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "CONTEMPORARY THAT YOU CAN SKIM THROUGH TO GET A FEEL FOR YOUR TASTE THERE ARE ALSO COLLECTIONS OF POETRY",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "THAT FOCUS ON SPECIFIC PERIODS AND MOVEMENTS, SO IF YOU HAVE AN IDEA OF WHAT ERA OF POETRY IN",
+          "auteur": null,
+          "tier": "VIRGIL"
+        },
+        {
+          "titre": "PARTICULAR YOU LIKE YOU MIGHT START WITH ONE OF THOSE",
+          "auteur": null,
+          "tier": "VIRGIL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        956.4,
+        496.0,
+        1204.7,
+        609.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "IF YOU ALREADY KNOW",
+      "bbox": [
+        142.4,
+        512.3,
+        793.6,
+        841.4
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "ABOUT MYTHOLOGY, YOU",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        },
+        {
+          "titre": "CAN USE THESE AS A",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        },
+        {
+          "titre": "REFERENCE GUIDE",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        },
+        {
+          "titre": "ROBERT GRAVES",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        },
+        {
+          "titre": "GODS and HEROES",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        },
+        {
+          "titre": "of Ancient Greece",
+          "auteur": null,
+          "tier": "IF YOU ALREADY KNOW"
+        }
+      ]
+    },
+    {
+      "tier": "GREEKS",
+      "bbox": [
+        842.3,
+        670.5,
+        1322.8,
+        851.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AND ROMANS",
+          "auteur": null,
+          "tier": "GREEKS"
+        },
+        {
+          "titre": "AND ROMANS",
+          "auteur": null,
+          "tier": "GREEKS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        252.2,
+        983.9,
+        500.7,
+        1121.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "GREEK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        32.6,
+        1007.8,
+        232.0,
+        1105.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE CLASSIC KES SELLER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE CLASSIC BESSELEER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MYTHOLOGY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "meless Tales of Gods and Heroes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Edith Hamilton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "POETS",
+      "bbox": [
+        0.0,
+        1213.8,
+        964.5,
+        1694.2
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "AFTER YOUVE LOOKED THROUGH AN ANTHOLOGY AND",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "UNDERSTAND BETTER YOUR OWN PREFERENCES, YOU CAN",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "PICK THROUGH THE POETS YOU ENJOYED AND STUDY",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "THEM FURTHER INDIVIDUALLY, THEN BRANCH BACK OUT BY",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "READING POETS SIMILAR TO THEM, READING ABOUT THEIR",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "PERIOD AND OTHERS IN THE PERIOD, READ THOSE THEY",
+          "auteur": null,
+          "tier": "POETS"
+        },
+        {
+          "titre": "INFLUENCED OR WERE INFLUENCED BY, AND SO ON",
+          "auteur": null,
+          "tier": "POETS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2148.8,
+        1665.3,
+        2380.8,
+        1750.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A DEFENCE OF",
+          "auteur": "POETRY AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2454.1,
+        1677.6,
+        2755.2,
+        2010.5
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "HE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANXIETY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INFLUENCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NFLUENCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEORY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF POETRY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1261.5,
+        1718.1,
+        1497.8,
+        1897.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A",
+          "auteur": "POET'S",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1607.4,
+        1730.2,
+        1807.1,
+        1880.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "THE PRINCETON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ENCYCLOPEDIA OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETRY &",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETRY &",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETICS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fourth Edition",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fourth baitto.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        972.7,
+        1945.0,
+        1550.6,
+        2120.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EDWARD HIRSCH",
+          "auteur": "EXTRAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1888.4,
+        1998.0,
+        2039.0,
+        2039.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RAINER MARIA RILKE",
+          "auteur": "Letters to a loung Poci",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2173.3,
+        2002.0,
+        2356.4,
+        2043.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PERCY BYSSHE",
+          "auteur": "HELLEY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2755.2,
+        2108.1,
+        2795.9,
+        2152.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "R",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        801.7,
+        2226.0,
+        1855.8,
+        2637.2
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "THERE'S AN UNLIMITED AMOUNT OF SECONDARY TEXTS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THAT'LL CONTRIBUTE TO YOUR APPRECIATION OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETRY. ESSAYS, LETTERS, HANDBOOKS, COMMENTARIES.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETICS, CONVERSATIONS, ALL SORTS OF THINGS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ODDS ARE IF YOU HAVE A FAVORITE POET THEY'VE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HAD SOMETHING TO SAY ABOUT THE MEDIUM. A FEW",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOOGLE SEARCHES WILL SURELY PROVIDE YOU WITH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SOMETHING TO READ-IF YOURE INTERESTED",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2551.4,
+        2523.0,
+        2775.7,
+        2698.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE ROUTLEDGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Anthology of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "on",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POETS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        573.8,
+        2694.2,
+        2006.4,
+        2779.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HTTP://4CHANLIT.WIKIA.COM/WIKI/POETRY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2555.8,
+        2743.0,
+        2771.5,
+        2772.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "David Hopkins",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

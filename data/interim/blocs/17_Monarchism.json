@@ -1,0 +1,3208 @@
+{
+  "fichier": "17_Monarchism.jpeg",
+  "date": "2026-07-21T19:28:36.627881+00:00",
+  "taille_origine": [
+    1987,
+    1345
+  ],
+  "hauteur_ligne_mediane": 14.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 174,
+  "nb_noeuds": 218,
+  "tiers": [
+    "/monarchy/ reading list 3.0",
+    "Patriarcha &",
+    "Themistius, Julian",
+    "John McClelland",
+    "Julius Evola"
+  ],
+  "intitules_isoles": [
+    "A few encyclicals:",
+    "lukewarm Catholics.\" -Pope St. Pius V",
+    "monarchy/",
+    "Patriarcha &",
+    "State",
+    "Caligula"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        1337.2,
+        28.9,
+        1698.2,
+        210.8
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "A few encyclicals:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RERUM NOVARUM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "QUOD APOSTOLICI MUNERIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DIVINI REDEMPTORIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MIRARI VOS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "QUAS PRIMAS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"All the evils of the world are due to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "lukewarm Catholics.\" -Pope St. Pius V",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "/monarchy/ reading list 3.0",
+      "bbox": [
+        522.7,
+        52.0,
+        1322.7,
+        199.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Embrace Despotism Edition",
+          "auteur": null,
+          "tier": "/monarchy/ reading list 3.0"
+        },
+        {
+          "titre": "The Holy Bible",
+          "auteur": null,
+          "tier": "/monarchy/ reading list 3.0"
+        },
+        {
+          "titre": "\"Stop thinking like republicans\"",
+          "auteur": null,
+          "tier": "/monarchy/ reading list 3.0"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        28.9,
+        63.5,
+        78.0,
+        75.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "All Power",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        187.7,
+        66.0,
+        251.3,
+        72.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "To Her Grace",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1698.2,
+        126.9,
+        1900.4,
+        164.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "*Remember to read",
+          "auteur": "Mad Monarchist blog",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        375.5,
+        219.4,
+        441.9,
+        233.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "monarchy/",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Patriarcha &",
+      "bbox": [
+        144.4,
+        236.7,
+        233.9,
+        282.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "other Polltea",
+          "auteur": null,
+          "tier": "Patriarcha &"
+        },
+        {
+          "titre": "Works",
+          "auteur": null,
+          "tier": "Patriarcha &"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        14.4,
+        247.8,
+        138.6,
+        280.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "King James VI and I",
+          "auteur": "Pontical Writings",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1877.2,
+        247.8,
+        1978.4,
+        257.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Roman mocrol",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        594.9,
+        256.8,
+        722.0,
+        285.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Reflections on the",
+          "auteur": "Revolution in France",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1605.8,
+        256.8,
+        1724.2,
+        285.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "History of",
+          "auteur": "Civil Wars (all vol.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        748.0,
+        259.8,
+        802.9,
+        288.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Political",
+          "auteur": "Writings",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1490.2,
+        259.8,
+        1597.1,
+        291.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The History of",
+          "auteur": "England (all vol.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1753.1,
+        259.8,
+        1825.3,
+        288.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dialogus di",
+          "auteur": "Scaccario",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1366.1,
+        262.7,
+        1435.4,
+        280.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Age Of",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        271.5,
+        271.3,
+        335.0,
+        285.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Leviathan",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        485.2,
+        271.3,
+        586.3,
+        285.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Man and Citizen",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        384.0,
+        274.2,
+        453.5,
+        323.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Behemoth",
+          "auteur": "ВЕНЕМОТН",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        852.0,
+        276.8,
+        947.3,
+        288.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Eikion Basilike",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        961.7,
+        276.8,
+        1080.1,
+        291.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "For My Legionaries",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1213.0,
+        276.8,
+        1337.2,
+        291.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Nicomachean Ethics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1126.4,
+        282.9,
+        1172.6,
+        288.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Politics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        153.1,
+        303.1,
+        225.3,
+        320.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Patriarcha",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        531.4,
+        329.0,
+        569.0,
+        343.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Citizen",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1114.8,
+        331.9,
+        1184.1,
+        363.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ARISTOTLE",
+          "auteur": "POLITICS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        993.5,
+        343.5,
+        1039.7,
+        360.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ГОП MY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        132.9,
+        400.7,
+        242.6,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Sir Robert Filmer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        254.2,
+        400.7,
+        352.3,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Hobbes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        366.8,
+        400.7,
+        465.0,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Hobbes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        485.2,
+        400.7,
+        586.3,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Hobbes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        609.4,
+        400.7,
+        701.8,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Edmund Burke",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        31.8,
+        403.7,
+        109.7,
+        412.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "King James I",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        854.9,
+        403.7,
+        944.4,
+        418.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "King Charles I",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        724.9,
+        406.7,
+        826.0,
+        412.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Samue ohnson",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        961.7,
+        406.7,
+        1074.4,
+        415.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Corneliu Codreanu",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1496.0,
+        406.7,
+        1576.9,
+        418.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "David Hume",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1628.9,
+        406.7,
+        1712.6,
+        421.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Edward Hyde",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1735.7,
+        409.7,
+        1848.4,
+        424.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Richard Fitz Nigel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1897.5,
+        409.7,
+        1975.4,
+        421.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Geoff W. Adams",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1123.5,
+        409.8,
+        1175.4,
+        415.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Aristotle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1247.7,
+        409.8,
+        1299.6,
+        415.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Aristotle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1380.5,
+        409.8,
+        1432.5,
+        415.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Voltaire",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1885.9,
+        447.4,
+        1978.3,
+        476.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Caligula:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "An Unexpected",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        248.4,
+        450.3,
+        372.6,
+        479.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Politics Drawn From",
+          "auteur": "Holy Scripture",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1224.5,
+        450.3,
+        1328.5,
+        479.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Six Bookes of",
+          "auteur": "a Commonweale",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Themistius, Julian",
+      "bbox": [
+        1461.4,
+        450.3,
+        1588.4,
+        484.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "and Greek Pollenl",
+          "auteur": null,
+          "tier": "Themistius, Julian"
+        },
+        {
+          "titre": "Theorvunder Rome",
+          "auteur": null,
+          "tier": "Themistius, Julian"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        488.1,
+        452.7,
+        580.5,
+        467.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Revolution and",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        727.8,
+        452.7,
+        817.3,
+        467.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Economics for",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.6,
+        452.7,
+        1213.0,
+        482.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An Essay on the",
+          "auteur": "Restoration of Property",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        979.1,
+        458.7,
+        1048.4,
+        467.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Eurone and",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        20.2,
+        461.7,
+        115.5,
+        476.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The City of God",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        144.4,
+        467.6,
+        233.9,
+        482.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "De Monarchia",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        623.8,
+        467.6,
+        684.5,
+        508.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Charles I",
+          "auteur": "CHARLES I",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        866.4,
+        467.6,
+        927.1,
+        482.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Jews",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1360.3,
+        467.6,
+        1455.6,
+        611.9
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "On Sovereignty",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BODIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ON SOVEREIGNT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SIX BOOKS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OTHE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONMONWEALTH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jean Bodin",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        389.9,
+        470.5,
+        456.3,
+        482.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Prince",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1631.8,
+        470.5,
+        1701.1,
+        516.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Kingship",
+          "auteur": "Kingship",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1758.8,
+        470.5,
+        1831.0,
+        484.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Memento",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        387.0,
+        542.6,
+        462.1,
+        568.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PRINCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        981.9,
+        557.0,
+        1042.6,
+        577.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EUROPE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1914.8,
+        557.0,
+        1963.9,
+        574.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Caligula",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        26.0,
+        594.6,
+        109.7,
+        609.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "St. Augustine",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        141.5,
+        594.6,
+        236.8,
+        609.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dante Alighieri",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        257.0,
+        597.5,
+        482.3,
+        609.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Jacques Bossuet Niccolo Machiavelli",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1623.1,
+        597.5,
+        1715.5,
+        611.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Francis Oakley",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        493.9,
+        600.3,
+        571.8,
+        623.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Pino Correr",
+          "auteur": "de Oliveira",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        606.5,
+        600.3,
+        696.0,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hilaire Belloc",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        727.8,
+        600.3,
+        814.4,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hilaire Belloc",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        854.9,
+        600.3,
+        941.5,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hilaire Belloc",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1244.8,
+        600.3,
+        1317.0,
+        611.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Jean Bodin",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1496.0,
+        600.3,
+        1579.8,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "S. C. R. Swain",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1747.3,
+        600.3,
+        1851.3,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Roger L'Estrange",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1865.7,
+        600.3,
+        1978.3,
+        614.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lee Frantantuono",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1114.8,
+        603.2,
+        1198.6,
+        609.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ara Rolan",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        144.4,
+        639.2,
+        239.9,
+        666.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "What's Wrong",
+          "auteur": "With the World",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        265.7,
+        640.5,
+        349.5,
+        669.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "In Defense of",
+          "auteur": "Sanity",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        600.7,
+        640.5,
+        701.8,
+        695.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Menance of",
+          "auteur": "the Herd",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        713.4,
+        640.5,
+        823.1,
+        669.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The State in the",
+          "auteur": "Third Millennium",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1210.1,
+        640.5,
+        1345.8,
+        669.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Essays on Family,",
+          "auteur": "Economy, and Society",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1883.0,
+        643.4,
+        1969.7,
+        661.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Emperor",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        846.2,
+        643.5,
+        944.4,
+        669.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Democracy the",
+          "auteur": "God That Failed",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1360.3,
+        643.5,
+        1441.2,
+        669.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "For a French",
+          "auteur": "AWakenin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        366.8,
+        658.1,
+        479.4,
+        672.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Utopia of Usurers",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        479.4,
+        658.1,
+        600.7,
+        710.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Liberty or Equality",
+          "auteur": "Biberty",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1478.7,
+        658.1,
+        1588.4,
+        672.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "King's Two Bodies",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        20.2,
+        660.5,
+        124.2,
+        675.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Servile State",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1094.6,
+        660.5,
+        1201.4,
+        675.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The French Right",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1718.4,
+        660.5,
+        1865.7,
+        675.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Monarchia Triumphans",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1631.8,
+        661.0,
+        1704.0,
+        675.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Sovereignty",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        987.7,
+        663.5,
+        1045.5,
+        669.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "IDe Reeno",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        984.6,
+        688.9,
+        1054.4,
+        708.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "De Regno",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1894.6,
+        698.5,
+        1955.2,
+        704.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE EMPEROR GATE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        857.8,
+        707.1,
+        935.7,
+        730.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DEMOCRACY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        31.8,
+        730.2,
+        115.5,
+        796.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "'Servile",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "State",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hilaire Belloc",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        156.0,
+        730.2,
+        219.5,
+        762.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Wanne, Wink",
+          "auteur": "THE WORLD T",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        141.5,
+        785.1,
+        233.9,
+        799.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "G.K. Chesteron",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        384.1,
+        785.1,
+        615.2,
+        865.9
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Erik von Kuehnelt",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Progrets, and the oration",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "History",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Defense of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the American war",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Aristocracy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        594.9,
+        785.1,
+        710.5,
+        799.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Erik von Kuchnelt",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        727.8,
+        785.1,
+        964.6,
+        799.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hans Adams II Hans Hermann-Hoppe",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "John McClelland",
+      "bbox": [
+        1074.4,
+        785.1,
+        1198.6,
+        837.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Strictures upon the",
+          "auteur": null,
+          "tier": "John McClelland"
+        },
+        {
+          "titre": "becaration of ine",
+          "auteur": null,
+          "tier": "John McClelland"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1230.3,
+        785.1,
+        1331.4,
+        799.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Louis de Bonald",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1868.6,
+        785.1,
+        1981.2,
+        799.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "J. P. V. D. Balsdon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        257.0,
+        788.0,
+        349.5,
+        796.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "G.K. Chesteron",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        372.6,
+        788.0,
+        467.9,
+        796.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "G.K. Chesterton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1351.6,
+        788.0,
+        1452.7,
+        796.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Charles Maurras",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1470.0,
+        788.0,
+        1738.6,
+        796.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ernst H. Kantorowiez Bertrand de Jouvenel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        973.3,
+        790.4,
+        1074.4,
+        796.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Actinas",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        257.0,
+        816.4,
+        343.7,
+        866.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Essays on",
+          "auteur": "and Socialism",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1888.7,
+        827.8,
+        1981.2,
+        868.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Caligula:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Corruption",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Power",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1472.9,
+        831.2,
+        1585.6,
+        854.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Order and Reason",
+          "auteur": "in Politied",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1074.4,
+        834.0,
+        1302.5,
+        860.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "History of",
+          "auteur": "Congress of Philadelphia Mary Queen",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        981.9,
+        834.1,
+        1059.9,
+        860.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Royalist",
+          "auteur": "Kevolution",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        23.1,
+        837.0,
+        112.6,
+        865.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Christianity &",
+          "auteur": "Culture",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        156.0,
+        837.0,
+        222.4,
+        866.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Decline of",
+          "auteur": "the West",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        618.0,
+        837.0,
+        970.4,
+        863.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Popular",
+          "auteur": "Government the American Rebellion Westchester Farmer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        704.7,
+        837.0,
+        828.9,
+        851.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Origin & Progress of",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        849.1,
+        837.0,
+        921.3,
+        851.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Letters of a",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1337.2,
+        837.0,
+        1467.1,
+        860.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Governance of",
+          "auteur": "Kines andePrinces",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1617.3,
+        837.0,
+        1715.5,
+        863.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "the overnance",
+          "auteur": "of England",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1744.4,
+        848.4,
+        1848.4,
+        857.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "God and the King",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        156.0,
+        903.4,
+        219.5,
+        926.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WEST",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1894.6,
+        932.3,
+        1969.7,
+        946.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CALGUILA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        987.7,
+        958.2,
+        1051.3,
+        964.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KEVOLUTIUN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1865.7,
+        969.8,
+        1981.2,
+        1021.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ANIHNVA BARI",
+          "auteur": "Anthony A. Barrett",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        124.2,
+        981.3,
+        228.2,
+        996.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Oswald Spengler",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        488.1,
+        981.3,
+        592.1,
+        1019.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Charles Stedman",
+          "auteur": "the Dine",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        245.5,
+        984.2,
+        476.5,
+        1033.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Juan Donoso Cortes Anthony Ludovici",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Arthurian",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Faerie",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Romances",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Queene",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        618.0,
+        984.2,
+        753.8,
+        1039.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Henry Maine",
+          "auteur": "enerativ",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        733.6,
+        984.2,
+        808.7,
+        998.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Peter Oliver",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        846.2,
+        984.2,
+        947.3,
+        998.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Samuel Seabury",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        973.3,
+        987.1,
+        1062.8,
+        1036.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Eric Nelson",
+          "auteur": "St. Petersburg",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1085.9,
+        987.1,
+        1210.1,
+        1033.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Thomas Hutchinson",
+          "auteur": "Considerations on",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1487.4,
+        987.1,
+        1597.1,
+        1030.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Robert Eccleshall",
+          "auteur": "Ride the Tiger",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1614.4,
+        987.1,
+        1727.1,
+        1033.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "John Fortesque",
+          "auteur": "Crisis of",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1224.5,
+        990.0,
+        1343.0,
+        1053.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Adam Backwood",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Revolt Agains",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the Modern World",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REVOLT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1351.6,
+        990.0,
+        1467.1,
+        1070.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Aegidius Romanus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Men Among",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the Ruins",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MENTI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TAMONG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1744.4,
+        990.0,
+        1851.3,
+        1004.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Robert Constable",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        11.4,
+        1015.8,
+        239.9,
+        1033.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Metamorphoses The Oresteia Trilogy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        840.4,
+        1021.2,
+        950.2,
+        1036.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Against Rousseau",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        753.8,
+        1024.2,
+        817.3,
+        1039.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Pope",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        505.4,
+        1065.0,
+        569.0,
+        1096.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DIVINE",
+          "auteur": "COMEDY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        748.0,
+        1082.2,
+        802.9,
+        1097.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THe POPE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        138.6,
+        1145.8,
+        219.5,
+        1195.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Aeschylus",
+          "auteur": "Iliad &",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        236.8,
+        1145.8,
+        352.3,
+        1160.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Chretien de Troyes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        361.0,
+        1145.8,
+        467.9,
+        1160.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Edmund Spenser",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        493.9,
+        1151.1,
+        594.9,
+        1195.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dante Alighieri",
+          "auteur": "Complete Works",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        620.9,
+        1154.1,
+        840.4,
+        1201.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "de Maistre",
+          "auteur": "Unbelief",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        724.9,
+        1157.1,
+        820.2,
+        1186.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "de Maistre",
+          "auteur": "Reflections of a",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        981.9,
+        1157.1,
+        1068.6,
+        1241.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "de Maistre",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to history",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANSWER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HISTORY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1103.2,
+        1157.1,
+        1187.0,
+        1189.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "de Maistre",
+          "auteur": "The French",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Julius Evola",
+      "bbox": [
+        1213.0,
+        1157.1,
+        1343.0,
+        1198.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "In the",
+          "auteur": "Monarchisms",
+          "tier": "Julius Evola"
+        },
+        {
+          "titre": "Age of Enlightenment",
+          "auteur": null,
+          "tier": "Julius Evola"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1721.3,
+        1160.1,
+        1859.9,
+        1197.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Rene Guenon",
+          "auteur": "Cromwell's Bloody",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1501.8,
+        1163.1,
+        1585.6,
+        1198.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Julius Evola",
+          "auteur": "he nsatues",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1631.8,
+        1163.1,
+        1715.5,
+        1229.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Rene Guenon",
+          "auteur": "the coder",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1877.3,
+        1166.1,
+        1984.1,
+        1180.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Donna W. Hurley",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        381.0,
+        1179.5,
+        447.7,
+        1252.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "the Rings",
+          "auteur": "ORD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        11.6,
+        1180.1,
+        115.5,
+        1195.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Idylls of the King",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1374.7,
+        1186.1,
+        1444.0,
+        1201.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Digest",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        840.4,
+        1189.1,
+        950.2,
+        1195.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Kaiser's Hemaire",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1374.7,
+        1258.1,
+        1441.2,
+        1264.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE NIECT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1909.0,
+        1275.7,
+        1952.3,
+        1295.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Caligula",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        366.8,
+        1290.2,
+        456.3,
+        1322.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "J-R-R-TOLKIEN",
+          "auteur": "J.R.R. Tolkien",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        739.3,
+        1290.2,
+        794.2,
+        1307.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "STATESM!",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        470.8,
+        1307.0,
+        600.7,
+        1322.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "William Shakespeare",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        23.1,
+        1307.5,
+        83.8,
+        1319.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Tennyson",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        156.0,
+        1310.4,
+        199.3,
+        1316.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Homan",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        863.5,
+        1316.0,
+        938.6,
+        1331.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Wilhelm I",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        958.8,
+        1319.0,
+        1083.0,
+        1333.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Mohammad Pahlavi",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1100.4,
+        1319.0,
+        1195.7,
+        1333.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Carlyle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1247.7,
+        1319.0,
+        1319.9,
+        1333.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Hans Blom",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1643.3,
+        1321.9,
+        1704.0,
+        1333.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Justinian",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1377.6,
+        1324.8,
+        1438.3,
+        1330.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ustinian",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1900.4,
+        1324.8,
+        1966.8,
+        1339.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Suetonius",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1764.6,
+        1327.7,
+        1851.3,
+        1342.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "John Gauden",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

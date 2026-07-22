@@ -1,0 +1,267 @@
+{
+  "fichier": "04_American Politics.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:50:18.593070+00:00",
+  "duree_s": 0.3,
+  "taille_origine": [
+    883,
+    843
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 23,
+  "lignes": [
+    {
+      "texte": "the official /lit/ guide to",
+      "texte_balise": "the official /lit/ guide to",
+      "bbox": [
+        138.8,
+        3.4,
+        744.2,
+        83.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Contemporary American",
+      "texte_balise": "Contemporary American",
+      "bbox": [
+        179.8,
+        81.9,
+        717.2,
+        129.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Political Chought",
+      "texte_balise": "Political Chought",
+      "bbox": [
+        259.6,
+        127.4,
+        639.4,
+        188.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Marc Lévin",
+      "texte_balise": "Marc Lévin",
+      "bbox": [
+        251.7,
+        203.5,
+        341.7,
+        222.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        111.9,
+        205.8,
+        129.9,
+        219.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Michel Alain Savage",
+      "texte_balise": "Michel Alain Savage",
+      "bbox": [
+        689.2,
+        207.8,
+        855.0,
+        229.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gambridge Comparion",
+      "texte_balise": "Gambridge Comparion",
+      "bbox": [
+        71.9,
+        219.7,
+        171.8,
+        231.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Liberté et Tyrannie",
+      "texte_balise": "Liberté et Tyrannie",
+      "bbox": [
+        249.7,
+        223.7,
+        397.5,
+        245.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Une Nation Sauvage",
+      "texte_balise": "Une Nation Sauvage",
+      "bbox": [
+        689.2,
+        229.7,
+        853.0,
+        249.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEAN HANNITY",
+      "texte_balise": "SEAN HANNITY",
+      "bbox": [
+        59.9,
+        239.7,
+        179.8,
+        255.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ich habe es dir gesagt",
+      "texte_balise": "Ich habe es dir gesagt",
+      "bbox": [
+        461.5,
+        257.7,
+        631.3,
+        277.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "R. H. Limbaugh III",
+      "texte_balise": "R. H. Limbaugh III",
+      "bbox": [
+        481.5,
+        277.7,
+        629.3,
+        297.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Reclam",
+      "texte_balise": "Reclam",
+      "bbox": [
+        465.3,
+        315.1,
+        513.6,
+        330.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "STEVEN CROWELL",
+      "texte_balise": "STEVEN CROWELL",
+      "bbox": [
+        73.9,
+        437.5,
+        167.8,
+        447.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lio chope",
+      "texte_balise": "lio chope",
+      "bbox": [
+        345.5,
+        473.2,
+        417.6,
+        493.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CAMBEIECE",
+      "texte_balise": "CAMBEIECE",
+      "bbox": [
+        30.0,
+        475.4,
+        67.9,
+        479.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Les Classique de Poche",
+      "texte_balise": "Les Classique de Poche",
+      "bbox": [
+        717.2,
+        483.4,
+        811.1,
+        493.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOING ROGUE",
+      "texte_balise": "GOING ROGUE",
+      "bbox": [
+        623.3,
+        593.3,
+        699.2,
+        603.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PAUL DAVIS RYAN",
+      "texte_balise": "PAUL DAVIS RYAN",
+      "bbox": [
+        619.3,
+        653.2,
+        699.2,
+        663.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Donald Trump",
+      "texte_balise": "Donald Trump",
+      "bbox": [
+        145.8,
+        733.1,
+        215.8,
+        745.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art of the Deal",
+      "texte_balise": "The Art of the Deal",
+      "bbox": [
+        145.8,
+        747.1,
+        229.7,
+        757.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G.L. BECK",
+      "texte_balise": "G.L. BECK",
+      "bbox": [
+        413.5,
+        769.1,
+        481.5,
+        781.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Control",
+      "texte_balise": "Control",
+      "bbox": [
+        429.5,
+        787.1,
+        461.5,
+        797.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

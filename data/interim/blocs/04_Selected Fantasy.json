@@ -1,0 +1,795 @@
+{
+  "fichier": "04_Selected Fantasy.jpeg",
+  "date": "2026-07-21T19:28:36.366416+00:00",
+  "taille_origine": [
+    1440,
+    2700
+  ],
+  "hauteur_ligne_mediane": 24.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 34,
+  "nb_noeuds": 72,
+  "tiers": [
+    "HOPE MIRRLEES",
+    "Susanna Clarke",
+    "\"Astonishing...",
+    "TIGANA",
+    "THE GREAT BOOK OF",
+    "Daughter of"
+  ],
+  "intitules_isoles": [
+    "Susanna Clarke",
+    "Daughter of"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        281.2,
+        97.1,
+        1152.6,
+        303.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "/lit/",
+          "auteur": "Selected Fantasy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HOPE MIRRLEES",
+      "bbox": [
+        414.4,
+        414.8,
+        677.0,
+        536.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Lud-in-the-Mist",
+          "auteur": null,
+          "tier": "HOPE MIRRLEES"
+        },
+        {
+          "titre": "*1 telle gelden",
+          "auteur": null,
+          "tier": "HOPE MIRRLEES"
+        },
+        {
+          "titre": "mirace of a boo",
+          "auteur": null,
+          "tier": "HOPE MIRRLEES"
+        },
+        {
+          "titre": "—fell Galman",
+          "auteur": null,
+          "tier": "HOPE MIRRLEES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        57.3,
+        423.6,
+        310.9,
+        511.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "KNIGHT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        809.3,
+        439.0,
+        1010.0,
+        547.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "in the Earthsea Trilogy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by the winner of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ursula K.Le Guin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AWizard",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Earthsea",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1181.6,
+        444.2,
+        1330.1,
+        486.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TITUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1175.4,
+        520.7,
+        1336.4,
+        560.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GROAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        68.2,
+        738.2,
+        313.3,
+        830.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GENEWOLFE",
+          "auteur": "\"Important and wonderful\"— Neil Gaiman",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1186.4,
+        772.0,
+        1336.4,
+        827.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MERVYN PEAKE",
+          "auteur": "& SPOT TISWOODE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.6,
+        1010.2,
+        319.8,
+        1108.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LYONESSE",
+          "auteur": "JACK VANCE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        408.0,
+        1010.5,
+        677.0,
+        1026.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE COMPLETE BEST-SELLING CLASSIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1135.4,
+        1010.5,
+        1389.5,
+        1123.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "* The International Bestseller +",
+          "auteur": "JONATHAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        897.5,
+        1019.0,
+        1027.6,
+        1057.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "T.H. WHITE",
+          "auteur": "THE WORLD'S GREATEST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        423.3,
+        1090.0,
+        661.7,
+        1318.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "J.R.R.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TOLKIEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LORD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OFTHE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RINGS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        776.2,
+        1162.8,
+        1045.3,
+        1328.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ONCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ND FUTURE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IND FUTURE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1140.1,
+        1169.0,
+        1395.9,
+        1205.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mr NORRELL",
+          "auteur": "MI NUKAELL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Susanna Clarke",
+      "bbox": [
+        1148.9,
+        1337.0,
+        1380.5,
+        1421.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "A fabulous book ... dazzling",
+          "auteur": null,
+          "tier": "Susanna Clarke"
+        },
+        {
+          "titre": "*A fabulous book ... dazzling.",
+          "auteur": null,
+          "tier": "Susanna Clarke"
+        },
+        {
+          "titre": "highly original and compelling",
+          "auteur": null,
+          "tier": "Susanna Clarke"
+        },
+        {
+          "titre": "Sumdas Times",
+          "auteur": null,
+          "tier": "Susanna Clarke"
+        },
+        {
+          "titre": "Sundan Times",
+          "auteur": null,
+          "tier": "Susanna Clarke"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        915.2,
+        1374.6,
+        1029.8,
+        1414.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "tune Troghest /White si rest:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "we eye tall my ete",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "URSULA X LE OLIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        507.2,
+        1396.6,
+        677.0,
+        1410.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ARY ONE-VODUME EDITION",
+          "auteur": "ONE-VOBUME EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.5,
+        1596.8,
+        310.9,
+        1735.8
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "-STEEN KING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ROBERT E. HOWARD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE COMING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "O F",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CIMMERIAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1115.8,
+        1596.8,
+        1382.7,
+        1694.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lazuo stigure",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "\"Astonishing...",
+      "bbox": [
+        778.4,
+        1629.5,
+        888.7,
+        1685.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "overwore who can read",
+          "auteur": null,
+          "tier": "\"Astonishing..."
+        },
+        {
+          "titre": "English should read it.\"",
+          "auteur": null,
+          "tier": "\"Astonishing..."
+        },
+        {
+          "titre": "St. Louis Past Dispatch",
+          "auteur": null,
+          "tier": "\"Astonishing..."
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1287.8,
+        1775.5,
+        1376.0,
+        1795.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "a novel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "TIGANA",
+      "bbox": [
+        421.2,
+        1808.6,
+        663.8,
+        1976.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Awere Winning Authorol YSABEL",
+          "auteur": null,
+          "tier": "TIGANA"
+        },
+        {
+          "titre": "GUY",
+          "auteur": null,
+          "tier": "TIGANA"
+        },
+        {
+          "titre": "GAVRIEL",
+          "auteur": null,
+          "tier": "TIGANA"
+        },
+        {
+          "titre": "KAY",
+          "auteur": null,
+          "tier": "TIGANA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        844.6,
+        1876.4,
+        1034.2,
+        1983.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Watershu",
+          "auteur": "Down-",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1117.9,
+        1914.1,
+        1387.2,
+        1989.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Buried Giant",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.9,
+        1949.8,
+        310.9,
+        1992.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE ORIGINAL ADVENTURES OF THE GREATEST",
+          "auteur": "SWORD AND SORCIRY HERO ORALL TIME!",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE GREAT BOOK OF",
+      "bbox": [
+        782.6,
+        2159.0,
+        1028.3,
+        2268.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "AMBER",
+          "auteur": null,
+          "tier": "THE GREAT BOOK OF"
+        },
+        {
+          "titre": "THE COMPLETE ANDER CHRONICLES. 1-10",
+          "auteur": null,
+          "tier": "THE GREAT BOOK OF"
+        },
+        {
+          "titre": "BETTERS BETTE LOSERS PANTAS",
+          "auteur": null,
+          "tier": "THE GREAT BOOK OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        59.5,
+        2161.6,
+        306.5,
+        2226.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RAYMOND E. FEIST",
+          "auteur": "& JANNY WURTS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        422.6,
+        2180.4,
+        657.9,
+        2315.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BLAGN",
+          "auteur": "SUD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1164.3,
+        2232.0,
+        1358.4,
+        2287.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "O B",
+          "auteur": "MELNIBONE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1164.3,
+        2232.2,
+        1279.0,
+        2252.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ELRIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Daughter of",
+      "bbox": [
+        61.7,
+        2430.8,
+        299.9,
+        2572.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "the Empire",
+          "auteur": null,
+          "tier": "Daughter of"
+        },
+        {
+          "titre": "A gripping tale The Times",
+          "auteur": null,
+          "tier": "Daughter of"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        791.7,
+        2490.0,
+        1025.4,
+        2565.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "FROM THE HUGO AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NEBULA AWARD-WINNING MASTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ROGER ZELAZNY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AUTHOR OF LORD OF LIGHT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        443.2,
+        2552.0,
+        637.3,
+        2579.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GS FRIEDMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "fichier": "17_Utopianism.jpeg",
+  "date": "2026-07-21T19:28:36.630169+00:00",
+  "taille_origine": [
+    1500,
+    1500
+  ],
+  "hauteur_ligne_mediane": 18.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 33,
+  "nb_noeuds": 57,
+  "tiers": [
+    "The New",
+    "Harrington",
+    "Cambridge",
+    "The History of the"
+  ],
+  "intitules_isoles": [
+    "Triumphant Beast",
+    "Fénelon",
+    "of Oceana and",
+    "A Poctical Dialogue",
+    "Four Movements",
+    "A New Viese of Society and Other Whitings"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        412.1,
+        67.6,
+        1114.1,
+        133.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/lit/ Guide to Utopianism",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The New",
+      "bbox": [
+        811.0,
+        187.3,
+        935.3,
+        266.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Atlantis",
+          "auteur": null,
+          "tier": "The New"
+        },
+        {
+          "titre": "A UTOPIAN NOVEL",
+          "auteur": null,
+          "tier": "The New"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        556.0,
+        198.0,
+        649.7,
+        239.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PENGUIN CLASSICS",
+          "auteur": "THOMAS MORE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        233.3,
+        248.5,
+        377.2,
+        305.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PLATO",
+          "auteur": "REPUBLIC",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1107.6,
+        285.6,
+        1229.7,
+        318.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE Expulsion of the",
+          "auteur": "Triumphant Beast",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        231.1,
+        348.8,
+        357.6,
+        392.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TRANSLATED BY",
+          "auteur": "G.M.A. GRUBE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        798.0,
+        403.0,
+        946.2,
+        416.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SIR FRANCIS BACON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        525.4,
+        464.4,
+        675.9,
+        512.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Utopia",
+          "auteur": "Thomas More",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        791.4,
+        466.6,
+        948.4,
+        539.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The New",
+          "auteur": "Atlantis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        215.8,
+        468.5,
+        390.3,
+        514.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Republic",
+          "auteur": "Plato",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.8,
+        468.8,
+        1310.3,
+        543.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Expulsion of the",
+          "auteur": "Triumphant Beast",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        789.2,
+        630.1,
+        830.7,
+        684.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Cambridge",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "History of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Political",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Thought",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1081.4,
+        638.8,
+        1105.4,
+        649.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TEXTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1153.3,
+        686.8,
+        1220.9,
+        704.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Fénelon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1072.7,
+        697.7,
+        1111.9,
+        706.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TALITICAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Harrington",
+      "bbox": [
+        787.1,
+        715.1,
+        941.9,
+        843.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "The Commonwealth",
+          "auteur": null,
+          "tier": "Harrington"
+        },
+        {
+          "titre": "of Oceana and",
+          "auteur": null,
+          "tier": "Harrington"
+        },
+        {
+          "titre": "A System of Politics",
+          "auteur": null,
+          "tier": "Harrington"
+        },
+        {
+          "titre": "Edited by",
+          "auteur": null,
+          "tier": "Harrington"
+        },
+        {
+          "titre": "J.G.A.",
+          "auteur": null,
+          "tier": "Harrington"
+        },
+        {
+          "titre": "Pocock",
+          "auteur": null,
+          "tier": "Harrington"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        233.3,
+        723.8,
+        368.5,
+        822.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "La Citta del Sole:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dialogo Poetico",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The City of the Sun:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Poctical Dialogue",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tommaso Campuncila",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1083.1,
+        750.0,
+        1232.2,
+        801.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Telemachus",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        499.3,
+        776.0,
+        684.6,
+        867.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Johann Valentin Andrea",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHRISTIANO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- POLIS -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRIGON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        172.2,
+        900.0,
+        425.1,
+        948.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The City of the Sun",
+          "auteur": "Tommaso Campanella",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        492.7,
+        902.6,
+        691.1,
+        970.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Christianopolis",
+          "auteur": "Johann Valentin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        715.1,
+        902.6,
+        1277.6,
+        979.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The Commonwealth of The Adventures of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Oceana",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Telemachus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James Harrington",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Francois Fenelon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        538.5,
+        1037.8,
+        654.1,
+        1062.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANTOINE-NICHOLAS",
+          "auteur": "DE CONDORCET",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Cambridge",
+      "bbox": [
+        1087.9,
+        1044.3,
+        1135.9,
+        1098.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Texts in the",
+          "auteur": null,
+          "tier": "Cambridge"
+        },
+        {
+          "titre": "History of",
+          "auteur": null,
+          "tier": "Cambridge"
+        },
+        {
+          "titre": "Politient",
+          "auteur": null,
+          "tier": "Cambridge"
+        },
+        {
+          "titre": "thouch!",
+          "auteur": null,
+          "tier": "Cambridge"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        279.1,
+        1053.1,
+        372.8,
+        1084.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SEVARAMBIANS",
+          "auteur": "A UTOPIAN NOVRI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        514.5,
+        1090.1,
+        678.1,
+        1142.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "OUTLINES",
+          "auteur": "HICTOPICAT VIEW",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1087.9,
+        1131.4,
+        1234.0,
+        1197.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Fourier",
+          "auteur": "The Theory of the",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1087.9,
+        1229.7,
+        1129.4,
+        1241.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Edited by",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        800.1,
+        1244.9,
+        939.7,
+        1273.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ROBERT OWEN",
+          "auteur": "A New Viese of Society and Other Whitings",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The History of the",
+      "bbox": [
+        181.0,
+        1314.7,
+        420.8,
+        1387.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Sevarambians",
+          "auteur": null,
+          "tier": "The History of the"
+        },
+        {
+          "titre": "Denis Veiras",
+          "auteur": null,
+          "tier": "The History of the"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        477.5,
+        1314.7,
+        721.7,
+        1391.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Progress of the",
+          "auteur": "Human Spirit",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        771.8,
+        1316.9,
+        968.0,
+        1391.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A New View of",
+          "auteur": "Society",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1048.7,
+        1316.9,
+        1284.2,
+        1391.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Theory of the",
+          "auteur": "Four Movements",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

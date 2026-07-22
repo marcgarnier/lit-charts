@@ -1,0 +1,571 @@
+{
+  "fichier": "05_Carle.jpeg",
+  "date": "2026-07-21T19:28:36.376612+00:00",
+  "taille_origine": [
+    2203,
+    1814
+  ],
+  "hauteur_ligne_mediane": 26.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 20,
+  "nb_noeuds": 58,
+  "tiers": [
+    "Once you've read \"All Around Us\" you",
+    "Have you seen my cat?"
+  ],
+  "intitules_isoles": [
+    "A good introduction to Carle and his",
+    "in his later years. Only for hardcore",
+    "works.",
+    "Carle fans!",
+    "nihilism (\"The late Carle\").",
+    "supplement every hour of reading this",
+    "with 4-5 hours of commentaries/essays.",
+    "just a few passages from it.",
+    "Inspired by fever dreams and his later schizophrenia it's a journey into",
+    "the mind and soul of a lost man. Carle abandoned his work into the",
+    "continuation of \"The Very\" series (See \"The Very Busy Spider\"\") in the last",
+    "decade of his life, dedicating it instead to the working on and publishing",
+    "of this book.",
+    "If you decide to tackle this epic work of literature be prepared to spend",
+    "at the very least 6 months on the first four chapters alone. It is",
+    "recommended you skip chapter 5 until you've finished the rest of the",
+    "book.",
+    "It should also be noted that this book is the centre of a lot of controversy",
+    "concerning the evolution from early to late Carle, so discussion and",
+    "supplementary reading material may very well be biased one way or"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        797.3,
+        32.0,
+        1373.7,
+        96.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/lit/'s Guide to Carle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        813.3,
+        140.5,
+        915.8,
+        160.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "START HERE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        973.4,
+        175.9,
+        1392.9,
+        412.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "A good introduction to Carle and his",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "writing style. Although it's a later",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "work, it encapsulates many of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "themes and ideas his corpus draws",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "upon. Pretty much required reading",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "before getting into any of his other",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "works.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1706.7,
+        201.0,
+        2116.5,
+        436.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "An unfinished follow-up in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"The Very\" series, published",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "posthumously. A very difficult",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "read for the beginner due to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Carle's schizophrenic tendencies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in his later years. Only for hardcore",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Carle fans!",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        790.9,
+        207.8,
+        845.3,
+        227.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Eric Carle's",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1546.6,
+        211.0,
+        1674.7,
+        246.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Bug/ Insect Unit",
+          "auteur": "Using Cric Carle Books",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        790.4,
+        266.9,
+        938.7,
+        358.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Around",
+          "auteur": "Us",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1549.8,
+        297.0,
+        1671.5,
+        317.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Very Busy spider",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Once you've read \"All Around Us\" you",
+      "bbox": [
+        970.2,
+        489.0,
+        1424.9,
+        693.9
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "can move onto this shorter, but still",
+          "auteur": null,
+          "tier": "Once you've read \"All Around Us\" you"
+        },
+        {
+          "titre": "foundational piece. You should have",
+          "auteur": null,
+          "tier": "Once you've read \"All Around Us\" you"
+        },
+        {
+          "titre": "little issue understanding key concepts",
+          "auteur": null,
+          "tier": "Once you've read \"All Around Us\" you"
+        },
+        {
+          "titre": "if you've properly digested the first",
+          "auteur": null,
+          "tier": "Once you've read \"All Around Us\" you"
+        },
+        {
+          "titre": "book.",
+          "auteur": null,
+          "tier": "Once you've read \"All Around Us\" you"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1725.9,
+        489.0,
+        2190.2,
+        764.2
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Carle's seminal work, \"The Very",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hungry Caterpillar\" explores themes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the Freudian psyche, transformation",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "existentialist ideas and much more.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Be prepared to spend some time with",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "this book. It's also recommended you",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "supplement every hour of reading this",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with 4-5 hours of commentaries/essays.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1649.0,
+        505.0,
+        1706.7,
+        553.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE VERY",
+          "auteur": "HUNGRY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        108.9,
+        514.8,
+        499.5,
+        687.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "\"The Grouchy Ladybug\" is a good",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bridge between Carle's logical",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "positivism (\"The early Carle\") and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "his later existentialism and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "nihilism (\"The late Carle\").",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        896.6,
+        518.0,
+        960.6,
+        595.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "123",
+          "auteur": "TO THE ZOO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        537.9,
+        524.0,
+        675.6,
+        560.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Grouchy Ladybug",
+          "auteur": "Eric Care",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1316.0,
+        949.7,
+        2164.6,
+        1050.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Do not expect to fully understand this book. It's",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "His magnum opus. Do not expect to fully understand this book. It's",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a topic of serious academic study and scholars devote their lives studying",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "just a few passages from it.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1322.4,
+        952.9,
+        1546.6,
+        978.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "His magnum opus.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Have you seen my cat?",
+      "bbox": [
+        841.6,
+        963.8,
+        1268.5,
+        1085.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Have vou seen my pot 2",
+          "auteur": null,
+          "tier": "Have you seen my cat?"
+        },
+        {
+          "titre": "Enic Carle",
+          "auteur": null,
+          "tier": "Have you seen my cat?"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1315.9,
+        1091.0,
+        2158.2,
+        1264.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Inspired by fever dreams and his later schizophrenia it's a journey into",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the mind and soul of a lost man. Carle abandoned his work into the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "continuation of \"The Very\" series (See \"The Very Busy Spider\"\") in the last",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "decade of his life, dedicating it instead to the working on and publishing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of this book.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1319.1,
+        1302.0,
+        2142.2,
+        1433.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "If you decide to tackle this epic work of literature be prepared to spend",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "at the very least 6 months on the first four chapters alone. It is",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "recommended you skip chapter 5 until you've finished the rest of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "book.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1319.2,
+        1478.0,
+        2161.4,
+        1577.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "It should also be noted that this book is the centre of a lot of controversy",
+          "auteur": "concerning the evolution from early to late Carle, so discussion and",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

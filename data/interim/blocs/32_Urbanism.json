@@ -1,0 +1,934 @@
+{
+  "fichier": "32_Urbanism.jpeg",
+  "date": "2026-07-21T19:28:36.730066+00:00",
+  "taille_origine": [
+    1024,
+    768
+  ],
+  "hauteur_ligne_mediane": 16.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 43,
+  "nb_noeuds": 78,
+  "tiers": [
+    "INVISIBLE CITIES",
+    "CITIES",
+    "AFRICAN",
+    "AFRICA'S URBAN",
+    "WALKABLE CITY",
+    "UNSEEN CITY"
+  ],
+  "intitules_isoles": [
+    "Montgomery",
+    "Guide",
+    "The Urban"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        900.0,
+        6.0,
+        950.0,
+        24.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Global",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        520.0,
+        8.0,
+        645.0,
+        166.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Charles L.!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Montgomery",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Happy •",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "City",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Transforming Our",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Through Urban Di",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        778.0,
+        8.0,
+        866.0,
+        32.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GLOBAL CITIES",
+          "auteur": "GREG CLARE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        137.3,
+        11.6,
+        249.1,
+        132.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "UREAN REVOLUTION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STREET",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FIGHT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JANETTE SADIK-KHAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        648.0,
+        26.0,
+        684.0,
+        36.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LIFE BETV",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        899.8,
+        49.4,
+        948.2,
+        66.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Street",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        259.9,
+        63.7,
+        376.1,
+        114.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TACTICAL",
+          "auteur": "URBANISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        960.0,
+        72.0,
+        992.0,
+        92.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AHI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        900.0,
+        92.0,
+        952.0,
+        110.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Design",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        900.0,
+        134.0,
+        946.0,
+        152.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Guide",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        262.0,
+        152.0,
+        378.0,
+        160.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MIKE LYDON & ANTHONY GARCIA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.0,
+        168.0,
+        48.0,
+        178.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NES ZEALAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        901.8,
+        195.3,
+        1002.0,
+        378.0
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "The Urban",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Condition:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Space.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Community.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and Self",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in the Contemporary",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Metropolis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GUST)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "INVISIBLE CITIES",
+      "bbox": [
+        512.0,
+        203.5,
+        772.0,
+        354.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "ITALO CALVINO",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        },
+        {
+          "titre": "09513",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        },
+        {
+          "titre": "•CRISIS,",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        },
+        {
+          "titre": "IS SHE OTES HE ALASHE SUSALTY,",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        },
+        {
+          "titre": "WORE CIRIS-1A) FIST VE CON DO BEST IS",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        },
+        {
+          "titre": "RICHARD FLORIDA",
+          "auteur": null,
+          "tier": "INVISIBLE CITIES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        7.9,
+        206.0,
+        124.1,
+        258.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "POWER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CITIES",
+      "bbox": [
+        2.0,
+        208.0,
+        256.2,
+        292.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ARE HOOD",
+          "auteur": null,
+          "tier": "CITIES"
+        },
+        {
+          "titre": "Robert hers cond the hallfite bork",
+          "auteur": null,
+          "tier": "CITIES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        270.0,
+        218.0,
+        368.0,
+        330.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DEATH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND LIFE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF GREAT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMERICAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CITIES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        674.0,
+        224.0,
+        724.0,
+        258.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE XEN",
+          "auteur": "URBAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        780.0,
+        226.0,
+        882.0,
+        268.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "WELL-TEMPERED",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        780.0,
+        314.0,
+        882.0,
+        324.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JONATHAN E PROSE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        136.0,
+        340.0,
+        244.0,
+        356.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE GENIUS OF THE METROPOLIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.0,
+        358.0,
+        364.0,
+        370.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JANE JACOBS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.0,
+        366.0,
+        110.0,
+        376.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROBERTAL CARO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        125.8,
+        383.6,
+        256.2,
+        488.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EXTREME",
+          "auteur": "CITIES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        272.0,
+        393.6,
+        366.0,
+        418.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SHAPING",
+          "auteur": "NEIGHBOURHOODS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        22.0,
+        402.0,
+        108.0,
+        414.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EVICTED",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "AFRICAN",
+      "bbox": [
+        770.0,
+        402.0,
+        888.0,
+        472.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CITIES",
+          "auteur": null,
+          "tier": "AFRICAN"
+        },
+        {
+          "titre": "STATE TONS OF MASAN TE",
+          "auteur": null,
+          "tier": "AFRICAN"
+        }
+      ]
+    },
+    {
+      "tier": "AFRICA'S URBAN",
+      "bbox": [
+        644.0,
+        406.0,
+        766.0,
+        468.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "REVOLUTION",
+          "auteur": null,
+          "tier": "AFRICA'S URBAN"
+        },
+        {
+          "titre": "AND ESCAR PIETTAST",
+          "auteur": null,
+          "tier": "AFRICA'S URBAN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        586.0,
+        420.0,
+        624.0,
+        440.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "For the City",
+          "auteur": "Yet to Come",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WALKABLE CITY",
+      "bbox": [
+        399.9,
+        437.6,
+        498.1,
+        492.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "HOW DOWNTOWN",
+          "auteur": null,
+          "tier": "WALKABLE CITY"
+        },
+        {
+          "titre": "CAN SAVELAMERICA",
+          "auteur": null,
+          "tier": "WALKABLE CITY"
+        },
+        {
+          "titre": "ONE STEP AT A TIME",
+          "auteur": null,
+          "tier": "WALKABLE CITY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        907.7,
+        480.4,
+        1014.0,
+        569.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "IMAGINING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "URBAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FUTURES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ARE ARROTE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        810.0,
+        550.0,
+        856.0,
+        562.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CARTH MYERS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.0,
+        580.0,
+        64.0,
+        590.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROUSTONNG C",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        518.0,
+        582.0,
+        586.0,
+        612.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Growing",
+          "auteur": "Wealthier",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        644.0,
+        586.0,
+        758.0,
+        602.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DEATH ON THE STREETS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        774.0,
+        586.0,
+        884.0,
+        630.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "POVERTY",
+          "auteur": "SAFARI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        396.0,
+        588.0,
+        498.0,
+        604.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BIG DATA, CIVIC HACKERS, AND THE",
+          "auteur": "QUANTA UTOPIA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "UNSEEN CITY",
+      "bbox": [
+        272.0,
+        590.7,
+        511.2,
+        754.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SMAR",
+          "auteur": null,
+          "tier": "UNSEEN CITY"
+        },
+        {
+          "titre": "CITIES",
+          "auteur": null,
+          "tier": "UNSEEN CITY"
+        },
+        {
+          "titre": "ANTHONY M. TOWNSEND",
+          "auteur": null,
+          "tier": "UNSEEN CITY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        914.0,
+        596.0,
+        1002.0,
+        662.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "KEN GREENBERG",
+          "auteur": "WALKING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        136.0,
+        606.0,
+        204.2,
+        662.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "New",
+          "auteur": "Urban",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.0,
+        678.0,
+        82.0,
+        690.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORDINARY CITIES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        932.0,
+        730.0,
+        988.0,
+        738.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SHE AND LESSERS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        792.0,
+        746.0,
+        866.0,
+        756.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Darren McGarvey",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

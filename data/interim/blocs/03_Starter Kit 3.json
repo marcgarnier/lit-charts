@@ -1,0 +1,873 @@
+{
+  "fichier": "03_Starter Kit 3.jpeg",
+  "date": "2026-07-21T19:28:36.333788+00:00",
+  "taille_origine": [
+    747,
+    1417
+  ],
+  "hauteur_ligne_mediane": 15.4,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 41,
+  "nb_noeuds": 70,
+  "tiers": [
+    "T",
+    "GREAT GATSBY",
+    "Of Mice and Men"
+  ],
+  "intitules_isoles": [
+    "Anthony Burgess",
+    "a nore by J.D.SALINGER",
+    "The Great Gatsby",
+    "Oscar Wilde",
+    "the Firrare of Derban Gray",
+    "Vladimar Nabokov",
+    "The Adventures",
+    "Huckleberry Pinn",
+    "Mark Twain"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        271.6,
+        35.0,
+        535.0,
+        62.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The /lit/ Starter Kit",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        253.1,
+        106.9,
+        368.4,
+        117.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANTHONY BURGESS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        409.4,
+        133.9,
+        545.4,
+        181.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TO KILL A",
+          "auteur": "Mockingbird",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        594.7,
+        138.0,
+        720.2,
+        187.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CATCH-22",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        55.6,
+        191.5,
+        156.4,
+        212.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRAVE NEW WORLD",
+          "auteur": "ALDOUs HUXLEY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        238.7,
+        193.6,
+        380.7,
+        210.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CLOCKWORK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        259.2,
+        232.3,
+        358.2,
+        253.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORANGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        598.7,
+        279.4,
+        718.3,
+        307.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOSEPH HELLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        432.1,
+        296.6,
+        522.7,
+        308.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HARPER LEE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        14.4,
+        333.7,
+        121.4,
+        370.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Brave New World",
+          "auteur": "Aldous Huxley",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        397.2,
+        335.7,
+        535.0,
+        371.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "To Kill A Mocking Bird",
+          "auteur": "Harper Lee",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        580.3,
+        335.7,
+        716.2,
+        428.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Catch-22",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Joseph Heller",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the CATCHER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in to RYE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        216.1,
+        343.8,
+        351.9,
+        381.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Clockwork Orange",
+          "auteur": "Anthony Burgess",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.4,
+        434.6,
+        327.2,
+        481.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "1984",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        415.7,
+        440.8,
+        495.9,
+        490.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "KUR",
+          "auteur": "VONNEC",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        47.3,
+        457.2,
+        131.7,
+        492.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "slew",
+          "auteur": "s cuckoo's nes.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        588.5,
+        553.6,
+        726.4,
+        655.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "a nore by J.D.SALINGER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Catcher in the Rye",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "J.D. Salinger",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "F. SCOTI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FITZGERALD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        232.5,
+        566.4,
+        325.1,
+        603.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "1984",
+          "auteur": "George Orwell",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.2,
+        568.4,
+        179.0,
+        624.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "One Flew Over The Cuckoo",
+          "auteur": "Cukcoo's Nest",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        399.2,
+        576.6,
+        533.0,
+        616.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Slaughter House Five",
+          "auteur": "Kurt Vonnegut",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        26.6,
+        671.4,
+        129.7,
+        715.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RA",
+          "auteur": "BRADBURY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        222.1,
+        716.5,
+        352.1,
+        844.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "RALDA KALINON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Inv s ble",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Man",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Invisible Man",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ralph Ellison",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "T",
+      "bbox": [
+        401.3,
+        720.9,
+        518.6,
+        846.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "ASTON",
+          "auteur": null,
+          "tier": "T"
+        },
+        {
+          "titre": "S",
+          "auteur": null,
+          "tier": "T"
+        },
+        {
+          "titre": "American Psycho",
+          "auteur": null,
+          "tier": "T"
+        },
+        {
+          "titre": "Bret Easton Ellis",
+          "auteur": null,
+          "tier": "T"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        24.6,
+        765.5,
+        133.9,
+        791.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FAHRENHEIT 451",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "GREAT GATSBY",
+      "bbox": [
+        582.4,
+        770.3,
+        714.1,
+        840.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Great Gatsby",
+          "auteur": null,
+          "tier": "GREAT GATSBY"
+        },
+        {
+          "titre": "F. Scott Fitzgerald",
+          "auteur": null,
+          "tier": "GREAT GATSBY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.3,
+        815.4,
+        148.3,
+        943.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Fahrenheit 451",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ray Bradbury",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HunterS-Thompson",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fear AND LOATHING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "inLAS VEGAS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Savage Journey to th",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "eart of the American Drea",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        236.7,
+        889.7,
+        337.5,
+        902.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "STEINBECK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        413.6,
+        994.3,
+        504.2,
+        1015.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Oscar Wilde",
+          "auteur": "the Firrare of Derban Gray",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        623.5,
+        1007.1,
+        681.1,
+        1033.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lilitee",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        244.9,
+        1029.8,
+        327.2,
+        1036.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Of Mice and Ster",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        570.0,
+        1062.8,
+        712.0,
+        1126.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "VLADIMIR NABOKOV",
+          "auteur": "Lolita",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        397.2,
+        1066.9,
+        559.7,
+        1102.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Picture of Dorian Grey",
+          "auteur": "Oscar Wilde",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        8.2,
+        1073.0,
+        201.7,
+        1108.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Fear and Loathing in Las Vegas",
+          "auteur": "Hunter S. Thompson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Of Mice and Men",
+      "bbox": [
+        218.1,
+        1081.2,
+        351.9,
+        1184.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "John Steinbeck",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        },
+        {
+          "titre": "Tantsara",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        },
+        {
+          "titre": "DO ANDROIDS",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        },
+        {
+          "titre": "DREAM OF",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        },
+        {
+          "titre": "LECTRIC",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        },
+        {
+          "titre": "SHFFP >",
+          "auteur": null,
+          "tier": "Of Mice and Men"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        20.6,
+        1128.2,
+        142.0,
+        1159.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TORD OF THE FLES",
+          "auteur": "WILLIAM GOLDING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        607.0,
+        1151.2,
+        718.2,
+        1219.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "SIDDHARTHA",
+          "auteur": "HERMANN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        411.6,
+        1250.1,
+        526.8,
+        1328.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Adventures",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Huckleberry Pinn",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mark Twain",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.3,
+        1349.0,
+        111.1,
+        1384.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Lord of the Flies",
+          "auteur": "William Golding",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        600.9,
+        1349.0,
+        699.7,
+        1382.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Siddhartha",
+          "auteur": "Hermann Hesse",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        193.4,
+        1351.0,
+        380.7,
+        1407.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Do Androids Dream of Electric",
+          "auteur": "Sheep?",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        397.1,
+        1351.0,
+        512.4,
+        1404.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Adventures of",
+          "auteur": "Huckleberry Finn",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

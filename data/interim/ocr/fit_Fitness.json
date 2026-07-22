@@ -1,0 +1,1884 @@
+{
+  "fichier": "fit_Fitness.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:40.630054+00:00",
+  "duree_s": 1.5,
+  "taille_origine": [
+    989,
+    1967
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 170,
+  "lignes": [
+    {
+      "texte": "/fit/'s recommended reading",
+      "texte_balise": "/fit/'s recommended reading",
+      "bbox": [
+        305.3,
+        6.8,
+        797.6,
+        50.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVANCES n",
+      "texte_balise": "ADVANCES n",
+      "bbox": [
+        725.1,
+        67.1,
+        941.2,
+        114.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POWER",
+      "texte_balise": "POWER",
+      "bbox": [
+        483.1,
+        68.8,
+        549.9,
+        97.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUILDING THE",
+      "texte_balise": "BUILDING THE",
+      "bbox": [
+        271.7,
+        75.9,
+        443.6,
+        95.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGES HEBERT",
+      "texte_balise": "GEORGES HEBERT",
+      "bbox": [
+        87.9,
+        89.9,
+        169.8,
+        99.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SPEED",
+      "texte_balise": "SPEED",
+      "bbox": [
+        483.5,
+        95.9,
+        543.5,
+        121.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GYMNASTIC BODY",
+      "texte_balise": "GYMNASTIC BODY",
+      "bbox": [
+        249.7,
+        99.9,
+        467.5,
+        121.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FUNCTIONAL TRAINING",
+      "texte_balise": "FUNCTIONAL TRAINING",
+      "bbox": [
+        727.3,
+        111.9,
+        941.0,
+        139.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENDURANCE",
+      "texte_balise": "ENDURANCE",
+      "bbox": [
+        483.5,
+        121.6,
+        595.5,
+        146.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDUCATION PHYSIQUE.",
+      "texte_balise": "EDUCATION PHYSIQUE.",
+      "bbox": [
+        44.0,
+        129.9,
+        213.8,
+        149.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAINING",
+      "texte_balise": "RAINING",
+      "bbox": [
+        407.6,
+        133.9,
+        461.5,
+        143.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GYMNASTICS STRENGTH",
+      "texte_balise": "GYMNASTICS STRENGTH",
+      "bbox": [
+        257.7,
+        135.9,
+        395.6,
+        145.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anars ond Alhieles",
+      "texte_balise": "anars ond Alhieles",
+      "bbox": [
+        875.1,
+        141.9,
+        933.1,
+        151.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIRILE ET MORALE",
+      "texte_balise": "VIRILE ET MORALE",
+      "bbox": [
+        75.9,
+        151.9,
+        181.8,
+        161.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SKILL-BASED APPROACH",
+      "texte_balise": "A SKILL-BASED APPROACH",
+      "bbox": [
+        483.5,
+        161.9,
+        615.4,
+        175.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO ENDURANCE TRAINING",
+      "texte_balise": "TO ENDURANCE TRAINING",
+      "bbox": [
+        483.5,
+        177.8,
+        615.4,
+        193.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "METHODE NATURELLE",
+      "texte_balise": "METHODE NATURELLE",
+      "bbox": [
+        55.9,
+        181.8,
+        203.8,
+        199.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TUNE 1V",
+      "texte_balise": "TUNE 1V",
+      "bbox": [
+        109.9,
+        219.8,
+        145.9,
+        229.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Technique des Exercices.",
+      "texte_balise": "Technique des Exercices.",
+      "bbox": [
+        73.9,
+        239.8,
+        185.8,
+        249.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Potent",
+      "texte_balise": "Potent",
+      "bbox": [
+        109.9,
+        269.8,
+        133.9,
+        277.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "DEFENSE",
+      "texte_balise": "DEFENSE",
+      "bbox": [
+        97.9,
+        279.7,
+        163.8,
+        291.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL BOYLE",
+      "texte_balise": "MICHAEL BOYLE",
+      "bbox": [
+        725.2,
+        289.5,
+        943.1,
+        328.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN MACKENZIE",
+      "texte_balise": "BRIAN MACKENZIE",
+      "bbox": [
+        483.5,
+        331.7,
+        569.4,
+        343.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Foreword by Alwyn Cosgrove",
+      "texte_balise": "Foreword by Alwyn Cosgrove",
+      "bbox": [
+        765.2,
+        335.7,
+        903.1,
+        347.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH GLEN CORDSLA",
+      "texte_balise": "WITH GLEN CORDSLA",
+      "bbox": [
+        485.5,
+        345.7,
+        549.4,
+        355.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction by Mark Verstegon",
+      "texte_balise": "Introduction by Mark Verstegon",
+      "bbox": [
+        759.2,
+        347.7,
+        909.1,
+        359.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COACH CHRISTOPHER SOMMER",
+      "texte_balise": "COACH CHRISTOPHER SOMMER",
+      "bbox": [
+        267.7,
+        351.7,
+        453.5,
+        361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIONAIRIS VESSERT",
+      "texte_balise": "LIONAIRIS VESSERT",
+      "bbox": [
+        81.9,
+        359.7,
+        179.8,
+        369.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POWER",
+      "texte_balise": "POWER",
+      "bbox": [
+        735.3,
+        383.7,
+        935.1,
+        439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SNATCH,",
+      "texte_balise": "THE SNATCH,",
+      "bbox": [
+        291.6,
+        398.8,
+        455.7,
+        426.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fundamentals of Special Strength",
+      "texte_balise": "Fundamentals of Special Strength",
+      "bbox": [
+        521.5,
+        401.6,
+        707.3,
+        413.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Training in Sport",
+      "texte_balise": "Training in Sport",
+      "bbox": [
+        569.4,
+        415.6,
+        661.3,
+        427.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Becoming a",
+      "texte_balise": "Becoming a",
+      "bbox": [
+        31.8,
+        429.0,
+        142.0,
+        456.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Y.V. Verkhoshansky",
+      "texte_balise": "Y.V. Verkhoshansky",
+      "bbox": [
+        559.4,
+        429.6,
+        671.3,
+        441.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        345.7,
+        433.6,
+        395.6,
+        451.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Training for Combat, MMA, Boxing.",
+      "texte_balise": "Training for Combat, MMA, Boxing.",
+      "bbox": [
+        751.2,
+        441.6,
+        921.1,
+        453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Supple",
+      "texte_balise": "Supple",
+      "bbox": [
+        29.5,
+        450.2,
+        184.3,
+        505.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1111",
+      "texte_balise": "1111",
+      "bbox": [
+        243.8,
+        451.6,
+        255.7,
+        477.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wrestling, Martial Arts, and Self-Defere",
+      "texte_balise": "Wrestling, Martial Arts, and Self-Defere",
+      "bbox": [
+        739.3,
+        453.6,
+        935.1,
+        465.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLEAN AND JERK",
+      "texte_balise": "CLEAN AND JERK",
+      "bbox": [
+        263.7,
+        465.6,
+        481.5,
+        485.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How to",
+      "texte_balise": "How to",
+      "bbox": [
+        741.3,
+        495.6,
+        775.2,
+        507.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leopard",
+      "texte_balise": "Leopard",
+      "bbox": [
+        23.5,
+        497.6,
+        212.3,
+        553.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Develep Knockout",
+      "texte_balise": "Develep Knockout",
+      "bbox": [
+        741.2,
+        509.5,
+        823.2,
+        523.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Penching Power,",
+      "texte_balise": "Penching Power,",
+      "bbox": [
+        741.2,
+        525.2,
+        817.2,
+        539.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kicking Power,",
+      "texte_balise": "Kicking Power,",
+      "bbox": [
+        741.2,
+        541.4,
+        809.2,
+        555.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Grappling Power,",
+      "texte_balise": "Grappling Power,",
+      "bbox": [
+        741.3,
+        557.5,
+        819.2,
+        569.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ultimate Guide",
+      "texte_balise": "The Ultimate Guide",
+      "bbox": [
+        113.9,
+        559.5,
+        189.8,
+        569.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Resolving Pain,",
+      "texte_balise": "to Resolving Pain,",
+      "bbox": [
+        113.9,
+        571.5,
+        185.8,
+        577.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Ground",
+      "texte_balise": "and Ground",
+      "bbox": [
+        741.3,
+        573.5,
+        793.2,
+        585.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preventing injury,",
+      "texte_balise": "Preventing injury,",
+      "bbox": [
+        113.9,
+        577.5,
+        183.8,
+        589.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fighting Power",
+      "texte_balise": "Fighting Power",
+      "bbox": [
+        741.2,
+        587.4,
+        811.2,
+        601.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Optimizing",
+      "texte_balise": "and Optimizing",
+      "bbox": [
+        113.9,
+        587.5,
+        175.8,
+        597.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dr. Kelly Starrett",
+      "texte_balise": "Dr. Kelly Starrett",
+      "bbox": [
+        113.9,
+        615.4,
+        213.8,
+        629.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with Glen Condeza",
+      "texte_balise": "with Glen Condeza",
+      "bbox": [
+        113.9,
+        629.4,
+        173.8,
+        637.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J. BARNES",
+      "texte_balise": "J. BARNES",
+      "bbox": [
+        741.2,
+        641.0,
+        851.2,
+        661.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.Seortivnypress.com",
+      "texte_balise": "www.Seortivnypress.com",
+      "bbox": [
+        519.5,
+        665.4,
+        615.4,
+        675.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BY R.A. ROMAN AND M.S. SHAKIRZYANOV",
+      "texte_balise": "BY R.A. ROMAN AND M.S. SHAKIRZYANOV",
+      "bbox": [
+        259.7,
+        673.4,
+        481.5,
+        685.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Livenia, Michigan USA",
+      "texte_balise": "Livenia, Michigan USA",
+      "bbox": [
+        517.5,
+        677.4,
+        601.4,
+        689.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POWER",
+      "texte_balise": "POWER",
+      "bbox": [
+        765.2,
+        699.4,
+        931.1,
+        733.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Practical",
+      "texte_balise": "Practical",
+      "bbox": [
+        16.0,
+        701.4,
+        149.8,
+        727.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A PROGRAM OF MULTI - YEAR",
+      "texte_balise": "A PROGRAM OF MULTI - YEAR",
+      "bbox": [
+        521.5,
+        713.4,
+        715.3,
+        725.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Programming",
+      "texte_balise": "Programming",
+      "bbox": [
+        15.8,
+        722.3,
+        216.0,
+        758.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A System of Multi - Year Training",
+      "texte_balise": "A System of Multi - Year Training",
+      "bbox": [
+        285.6,
+        725.2,
+        461.7,
+        739.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAINING IN WEIGHTLIFTING",
+      "texte_balise": "TRAINING IN WEIGHTLIFTING",
+      "bbox": [
+        521.5,
+        727.3,
+        715.3,
+        739.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO THE",
+      "texte_balise": "TO THE",
+      "bbox": [
+        789.0,
+        736.5,
+        907.3,
+        764.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by A. S. Medvedyer",
+      "texte_balise": "by A. S. Medvedyer",
+      "bbox": [
+        583.4,
+        741.3,
+        653.3,
+        751.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Weightlifting",
+      "texte_balise": "in Weightlifting",
+      "bbox": [
+        331.7,
+        743.3,
+        415.6,
+        753.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for Strength Training",
+      "texte_balise": "for Strength Training",
+      "bbox": [
+        14.0,
+        753.3,
+        175.8,
+        769.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A.S. Medvedyev",
+      "texte_balise": "A.S. Medvedyev",
+      "bbox": [
+        337.7,
+        761.3,
+        409.6,
+        771.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PEOPLE",
+      "texte_balise": "PEOPLE",
+      "bbox": [
+        765.1,
+        766.6,
+        931.2,
+        800.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROFESSIOMAL",
+      "texte_balise": "PROFESSIOMAL",
+      "bbox": [
+        761.2,
+        801.3,
+        929.1,
+        821.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW TO ADD 1005 OF POUNDS TO",
+      "texte_balise": "HOW TO ADD 1005 OF POUNDS TO",
+      "bbox": [
+        763.2,
+        835.2,
+        933.1,
+        845.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOUR SQUAT, BENCH, AND DEADLIFT",
+      "texte_balise": "YOUR SQUAT, BENCH, AND DEADLIFT",
+      "bbox": [
+        759.2,
+        845.2,
+        937.1,
+        855.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH ADVANCED RUSSIAN TECHHIOUES",
+      "texte_balise": "WITH ADVANCED RUSSIAN TECHHIOUES",
+      "bbox": [
+        753.2,
+        857.2,
+        941.0,
+        863.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "***+",
+      "texte_balise": "***+",
+      "bbox": [
+        749.2,
+        873.2,
+        835.2,
+        905.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "+A+",
+      "texte_balise": "+A+",
+      "bbox": [
+        875.1,
+        881.2,
+        945.0,
+        909.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY PAVEL",
+      "texte_balise": "BY PAVEL",
+      "bbox": [
+        789.2,
+        923.2,
+        901.1,
+        939.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.Sportivnypress.com",
+      "texte_balise": "www.Sportivnypress.com",
+      "bbox": [
+        277.7,
+        951.0,
+        371.6,
+        961.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Livonia, Michigan USA",
+      "texte_balise": "Livonia, Michigan USA",
+      "bbox": [
+        277.7,
+        963.1,
+        357.6,
+        973.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tim Noakes, MD",
+      "texte_balise": "Tim Noakes, MD",
+      "bbox": [
+        739.1,
+        976.1,
+        931.3,
+        1018.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rippetoe & Kilgore",
+      "texte_balise": "Rippetoe & Kilgore",
+      "bbox": [
+        65.9,
+        993.1,
+        213.8,
+        1013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIVONIA, MICIEGAN",
+      "texte_balise": "LIVONIA, MICIEGAN",
+      "bbox": [
+        519.5,
+        1001.0,
+        583.4,
+        1009.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Managing the Training of",
+      "texte_balise": "Managing the Training of",
+      "bbox": [
+        303.7,
+        1031.1,
+        439.6,
+        1043.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTSIDE BARBELL*",
+      "texte_balise": "WESTSIDE BARBELL*",
+      "bbox": [
+        69.9,
+        1037.1,
+        171.8,
+        1051.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTSIDE BARBELL\"",
+      "texte_balise": "WESTSIDE BARBELL\"",
+      "bbox": [
+        67.9,
+        1039.0,
+        171.8,
+        1051.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOURTH EDITION",
+      "texte_balise": "FOURTH EDITION",
+      "bbox": [
+        739.3,
+        1043.0,
+        849.1,
+        1057.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weightlifters",
+      "texte_balise": "Weightlifters",
+      "bbox": [
+        335.7,
+        1045.1,
+        407.6,
+        1057.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOURTHEDITION",
+      "texte_balise": "FOURTHEDITION",
+      "bbox": [
+        739.3,
+        1045.1,
+        849.1,
+        1055.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weightlifting and Age",
+      "texte_balise": "Weightlifting and Age",
+      "bbox": [
+        553.4,
+        1047.1,
+        671.3,
+        1059.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "N.P. Laputin V.G. Oleshko",
+      "texte_balise": "N.P. Laputin V.G. Oleshko",
+      "bbox": [
+        301.7,
+        1057.0,
+        441.6,
+        1071.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Scientific and Pedagogical Fundamentals of a",
+      "texte_balise": "(Scientific and Pedagogical Fundamentals of a",
+      "bbox": [
+        515.5,
+        1067.0,
+        707.3,
+        1077.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LORE",
+      "texte_balise": "LORE",
+      "bbox": [
+        735.3,
+        1067.0,
+        847.1,
+        1103.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book of Methods",
+      "texte_balise": "Book of Methods",
+      "bbox": [
+        18.0,
+        1073.0,
+        221.8,
+        1093.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multi - year System of Training Junior",
+      "texte_balise": "Multi - year System of Training Junior",
+      "bbox": [
+        533.5,
+        1079.0,
+        689.3,
+        1089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multi- year System of Training Junior",
+      "texte_balise": "Multi- year System of Training Junior",
+      "bbox": [
+        533.5,
+        1079.0,
+        689.3,
+        1089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weightlifters)",
+      "texte_balise": "Weightlifters)",
+      "bbox": [
+        583.4,
+        1091.0,
+        641.4,
+        1101.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weightlitters)",
+      "texte_balise": "Weightlitters)",
+      "bbox": [
+        583.4,
+        1093.0,
+        639.4,
+        1099.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY LOUlE SIMMONS",
+      "texte_balise": "BY LOUlE SIMMONS",
+      "bbox": [
+        69.9,
+        1095.0,
+        163.8,
+        1103.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY LOUIE SIMMONS",
+      "texte_balise": "BY LOUIE SIMMONS",
+      "bbox": [
+        69.9,
+        1095.0,
+        163.8,
+        1107.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L.S. Dvorkin",
+      "texte_balise": "L.S. Dvorkin",
+      "bbox": [
+        583.4,
+        1107.0,
+        641.4,
+        1117.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        737.3,
+        1123.0,
+        801.2,
+        1171.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RUNNING",
+      "texte_balise": "RUNNING",
+      "bbox": [
+        735.0,
+        1177.9,
+        969.3,
+        1236.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"For the serious runner or coach, this book is a must.\"",
+      "texte_balise": "\"For the serious runner or coach, this book is a must.\"",
+      "bbox": [
+        743.2,
+        1259.0,
+        965.0,
+        1271.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Runner's World",
+      "texte_balise": "- Runner's World",
+      "bbox": [
+        903.1,
+        1271.0,
+        963.0,
+        1281.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.Sportivrypress.com",
+      "texte_balise": "www.Sportivrypress.com",
+      "bbox": [
+        513.5,
+        1287.0,
+        611.4,
+        1297.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WESTSUE ATHLETES",
+      "texte_balise": "WESTSUE ATHLETES",
+      "bbox": [
+        81.9,
+        1294.7,
+        161.9,
+        1311.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wwW.Sportivnypress.com",
+      "texte_balise": "wwW.Sportivnypress.com",
+      "bbox": [
+        275.7,
+        1297.0,
+        369.6,
+        1307.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Livonia, Michigan USA",
+      "texte_balise": "Livonia, Michigan USA",
+      "bbox": [
+        513.5,
+        1301.0,
+        597.4,
+        1311.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Livonia, Michigan USA",
+      "texte_balise": "Livonia, Michigan USA",
+      "bbox": [
+        273.7,
+        1311.0,
+        357.6,
+        1321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ULTIMATE",
+      "texte_balise": "ULTIMATE",
+      "bbox": [
+        749.2,
+        1311.0,
+        969.0,
+        1349.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXTREME",
+      "texte_balise": "EXTREME",
+      "bbox": [
+        247.4,
+        1339.3,
+        461.8,
+        1382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SPORTS",
+      "texte_balise": "SPORTS",
+      "bbox": [
+        773.2,
+        1351.0,
+        943.0,
+        1381.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HIGH-INTENSITY",
+      "texte_balise": "HIGH-INTENSITY",
+      "bbox": [
+        14.0,
+        1363.0,
+        217.8,
+        1389.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MUSCLE",
+      "texte_balise": "MUSCLE",
+      "bbox": [
+        247.7,
+        1379.0,
+        461.5,
+        1413.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NUTR TON",
+      "texte_balise": "NUTR TON",
+      "bbox": [
+        747.1,
+        1381.9,
+        967.2,
+        1412.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAINING",
+      "texte_balise": "TRAINING",
+      "bbox": [
+        10.0,
+        1391.0,
+        219.8,
+        1423.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "USE THE BODY",
+      "texte_balise": "USE THE BODY",
+      "bbox": [
+        621.4,
+        1397.0,
+        713.3,
+        1409.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENHANCEMENT",
+      "texte_balise": "ENHANCEMENT",
+      "bbox": [
+        247.7,
+        1411.0,
+        461.5,
+        1429.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOU HAVE TO BUILD",
+      "texte_balise": "YOU HAVE TO BUILD",
+      "bbox": [
+        605.4,
+        1411.0,
+        727.3,
+        1421.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BODY YOU WANT",
+      "texte_balise": "THE BODY YOU WANT",
+      "bbox": [
+        601.4,
+        1423.0,
+        731.3,
+        1433.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SCIENTIFIC APPROACH TO",
+      "texte_balise": "A SCIENTIFIC APPROACH TO",
+      "bbox": [
+        771.2,
+        1423.0,
+        947.0,
+        1437.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIKE MENTZER",
+      "texte_balise": "MIKE MENTZER",
+      "bbox": [
+        40.0,
+        1429.0,
+        183.8,
+        1449.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEAK ATHLETIC PERFORMANCE",
+      "texte_balise": "PEAK ATHLETIC PERFORMANCE",
+      "bbox": [
+        761.2,
+        1432.6,
+        959.1,
+        1445.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        14.0,
+        1435.0,
+        36.0,
+        1447.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Way",
+      "texte_balise": "Way",
+      "bbox": [
+        191.8,
+        1435.0,
+        217.8,
+        1447.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RARD RESULTS METHOD",
+      "texte_balise": "THE RARD RESULTS METHOD",
+      "bbox": [
+        605.4,
+        1435.0,
+        731.3,
+        1445.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOGARE",
+      "texte_balise": "YOGARE",
+      "bbox": [
+        483.0,
+        1485.2,
+        735.8,
+        1570.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bodybuilding's Most",
+      "texte_balise": "Bodybuilding's Most",
+      "bbox": [
+        341.7,
+        1527.0,
+        463.5,
+        1539.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Powerful Techniques",
+      "texte_balise": "Powerful Techniques",
+      "bbox": [
+        337.7,
+        1539.0,
+        461.5,
+        1551.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OWN GYM",
+      "texte_balise": "OWN GYM",
+      "bbox": [
+        483.5,
+        1563.0,
+        731.3,
+        1601.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREDERICK C. HATFIELD, PH.D.",
+      "texte_balise": "FREDERICK C. HATFIELD, PH.D.",
+      "bbox": [
+        777.2,
+        1595.0,
+        939.1,
+        1605.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARK LAUREN WITH JOSHUA CLARK",
+      "texte_balise": "MARK LAUREN WITH JOSHUA CLARK",
+      "bbox": [
+        487.5,
+        1599.0,
+        727.3,
+        1617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mike Mentzer",
+      "texte_balise": "Mike Mentzer",
+      "bbox": [
+        16.0,
+        1601.0,
+        217.8,
+        1621.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Carion M. Colker, MD, FACN",
+      "texte_balise": "By Carion M. Colker, MD, FACN",
+      "bbox": [
+        251.7,
+        1601.0,
+        459.5,
+        1615.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BIBLE or BODYWEIGHT EXERCISES",
+      "texte_balise": "THE BIBLE or BODYWEIGHT EXERCISES",
+      "bbox": [
+        485.5,
+        1619.0,
+        729.3,
+        1633.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with John Little",
+      "texte_balise": "with John Little",
+      "bbox": [
+        55.9,
+        1623.0,
+        177.8,
+        1635.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARNOLD",
+      "texte_balise": "ARNOLD",
+      "bbox": [
+        311.6,
+        1630.8,
+        415.7,
+        1669.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "n",
+      "texte_balise": "n",
+      "bbox": [
+        719.3,
+        1647.0,
+        741.3,
+        1671.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POWER",
+      "texte_balise": "POWER",
+      "bbox": [
+        6.0,
+        1655.0,
+        233.8,
+        1707.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JIU-JITSU",
+      "texte_balise": "JIU-JITSU",
+      "bbox": [
+        517.5,
+        1669.0,
+        707.3,
+        1707.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCHWARZENEGGER",
+      "texte_balise": "SCHWARZENEGGER",
+      "bbox": [
+        247.7,
+        1673.0,
+        485.5,
+        1711.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-The Anatomy of",
+      "texte_balise": "-The Anatomy of",
+      "bbox": [
+        779.0,
+        1674.0,
+        921.2,
+        1702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O",
+      "texte_balise": "O",
+      "bbox": [
+        719.3,
+        1691.0,
+        741.3,
+        1715.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stretching",
+      "texte_balise": "Stretching",
+      "bbox": [
+        765.2,
+        1697.0,
+        937.1,
+        1737.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SCIENTIFIC APPROACH",
+      "texte_balise": "A SCIENTIFIC APPROACH",
+      "bbox": [
+        6.0,
+        1705.0,
+        233.8,
+        1731.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNIVERSITY",
+      "texte_balise": "UNIVERSITY",
+      "bbox": [
+        515.5,
+        1707.0,
+        707.3,
+        1727.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "your illustrated guide",
+      "texte_balise": "your illustrated guide",
+      "bbox": [
+        765.2,
+        1741.0,
+        873.1,
+        1753.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to flexibility and injury",
+      "texte_balise": "to flexibility and injury",
+      "bbox": [
+        765.2,
+        1753.0,
+        877.1,
+        1767.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rehabilitation",
+      "texte_balise": "rehabilitation",
+      "bbox": [
+        765.2,
+        1767.0,
+        835.2,
+        1779.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "h",
+      "texte_balise": "h",
+      "bbox": [
+        717.3,
+        1773.0,
+        741.3,
+        1801.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREE BONUS!",
+      "texte_balise": "FREE BONUS!",
+      "bbox": [
+        785.2,
+        1819.0,
+        829.2,
+        1829.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        259.7,
+        1825.0,
+        299.7,
+        1843.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW",
+      "texte_balise": "NEW",
+      "bbox": [
+        425.6,
+        1825.0,
+        471.5,
+        1843.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENCYCLOPEDIA",
+      "texte_balise": "ENCYCLOPEDIA",
+      "bbox": [
+        251.7,
+        1853.0,
+        475.5,
+        1877.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVANCE",
+      "texte_balise": "ADVANCE",
+      "bbox": [
+        6.0,
+        1861.0,
+        59.9,
+        1871.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEC",
+      "texte_balise": "TEC",
+      "bbox": [
+        65.9,
+        1861.0,
+        87.9,
+        1871.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUES",
+      "texte_balise": "GUES",
+      "bbox": [
+        103.9,
+        1863.0,
+        133.9,
+        1873.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "m",
+      "texte_balise": "m",
+      "bbox": [
+        721.3,
+        1867.0,
+        751.2,
+        1891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR EXRLOSE STRENOU",
+      "texte_balise": "FOR EXRLOSE STRENOU",
+      "bbox": [
+        4.0,
+        1871.0,
+        145.9,
+        1889.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of MODERN",
+      "texte_balise": "of MODERN",
+      "bbox": [
+        285.7,
+        1881.0,
+        435.6,
+        1901.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND PEAR",
+      "texte_balise": "AND PEAR",
+      "bbox": [
+        4.0,
+        1883.0,
+        57.9,
+        1899.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAULO RIBEIRO",
+      "texte_balise": "SAULO RIBEIRO",
+      "bbox": [
+        505.5,
+        1883.0,
+        715.3,
+        1909.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TERPERMANC",
+      "texte_balise": "TERPERMANC",
+      "bbox": [
+        57.9,
+        1885.0,
+        133.9,
+        1897.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brad Walker",
+      "texte_balise": "Brad Walker",
+      "bbox": [
+        791.2,
+        1895.0,
+        891.1,
+        1915.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        939.1,
+        1903.0,
+        973.0,
+        1913.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREDERIC",
+      "texte_balise": "FREDERIC",
+      "bbox": [
+        6.0,
+        1907.0,
+        53.9,
+        1917.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BODYBUILDING",
+      "texte_balise": "BODYBUILDING",
+      "bbox": [
+        249.7,
+        1907.0,
+        473.5,
+        1931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O",
+      "texte_balise": "O",
+      "bbox": [
+        719.3,
+        1911.0,
+        741.3,
+        1935.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wit Kevin Howell",
+      "texte_balise": "wit Kevin Howell",
+      "bbox": [
+        589.4,
+        1913.0,
+        707.3,
+        1925.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A BIBLE A BOOTBILEENS, FULLY UPDATED en/ REVISED, -s BILBORN",
+      "texte_balise": "A BIBLE A BOOTBILEENS, FULLY UPDATED en/ REVISED, -s BILBORN",
+      "bbox": [
+        253.7,
+        1933.0,
+        467.5,
+        1943.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

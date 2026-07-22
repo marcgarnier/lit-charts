@@ -1,0 +1,1378 @@
+{
+  "fichier": "06_Romans 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:58.712944+00:00",
+  "duree_s": 3.4,
+  "taille_origine": [
+    4800,
+    3834
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 124,
+  "lignes": [
+    {
+      "texte": "Resume With The Romans",
+      "texte_balise": "Resume With The Romans",
+      "bbox": [
+        1576.0,
+        256.9,
+        2972.3,
+        359.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The guide to continuing with the romans after you've started with the Greeks",
+      "texte_balise": "The guide to continuing with the romans after you've started with the Greeks",
+      "bbox": [
+        1557.7,
+        423.0,
+        2978.5,
+        485.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxford University's",
+      "texte_balise": "Oxford University's",
+      "bbox": [
+        551.3,
+        700.5,
+        833.0,
+        730.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Brief History of the Romans",
+      "texte_balise": "A Brief History of the Romans",
+      "bbox": [
+        557.3,
+        748.2,
+        1180.5,
+        796.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OVÍD",
+      "texte_balise": "OVÍD",
+      "bbox": [
+        3259.9,
+        754.4,
+        3439.7,
+        826.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Early History of Rome",
+      "texte_balise": "The Early History of Rome",
+      "bbox": [
+        2031.5,
+        789.9,
+        2582.8,
+        844.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamorphoses",
+      "texte_balise": "Metamorphoses",
+      "bbox": [
+        3559.6,
+        796.3,
+        3883.1,
+        850.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EIV",
+      "texte_balise": "EIV",
+      "bbox": [
+        1785.8,
+        802.3,
+        1833.7,
+        814.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "METAMORPHOSES",
+      "texte_balise": "METAMORPHOSES",
+      "bbox": [
+        3193.9,
+        819.5,
+        3481.8,
+        875.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORY OF ROMI",
+      "texte_balise": "HISTORY OF ROMI",
+      "bbox": [
+        1731.8,
+        838.2,
+        1899.6,
+        862.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Livy",
+      "texte_balise": "Livy",
+      "bbox": [
+        2025.5,
+        844.2,
+        2097.4,
+        880.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ovid",
+      "texte_balise": "Ovid",
+      "bbox": [
+        3553.6,
+        844.2,
+        3631.5,
+        880.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This is the textbook I used to first learn Ancient",
+      "texte_balise": "This is the textbook I used to first learn Ancient",
+      "bbox": [
+        557.3,
+        862.2,
+        1360.3,
+        904.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roman history. I don't see it recommended often, but",
+      "texte_balise": "Roman history. I don't see it recommended often, but",
+      "bbox": [
+        551.3,
+        910.0,
+        1456.2,
+        958.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A very long (but mostly lost) series of ancient history of",
+      "texte_balise": "A very long (but mostly lost) series of ancient history of",
+      "bbox": [
+        2031.5,
+        945.7,
+        2972.3,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of myths, most I'm sure you already know,",
+      "texte_balise": "A collection of myths, most I'm sure you already know,",
+      "bbox": [
+        3559.6,
+        951.7,
+        4494.4,
+        994.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I feel like Oxford's texts are the easiest to digest.",
+      "texte_balise": "I feel like Oxford's texts are the easiest to digest.",
+      "bbox": [
+        551.3,
+        963.6,
+        1378.3,
+        1006.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rome. The first 45 or so of 142 books exist and do a",
+      "texte_balise": "Rome. The first 45 or so of 142 books exist and do a",
+      "bbox": [
+        2031.5,
+        999.9,
+        2912.4,
+        1036.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "written in narrative poetry, chronicling everything from",
+      "texte_balise": "written in narrative poetry, chronicling everything from",
+      "bbox": [
+        3559.6,
+        999.9,
+        4488.4,
+        1048.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alternatives I see that get recommended all the time",
+      "texte_balise": "Alternatives I see that get recommended all the time",
+      "bbox": [
+        557.3,
+        1011.9,
+        1438.2,
+        1059.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ROMANS",
+      "texte_balise": "THE ROMANS",
+      "bbox": [
+        113.9,
+        1023.9,
+        479.4,
+        1089.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "great job at narrating a lot of the founding myths and wars",
+      "texte_balise": "great job at narrating a lot of the founding myths and wars",
+      "bbox": [
+        2025.5,
+        1047.8,
+        3008.2,
+        1089.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rome's creation myth to Julius Caesar's deification.",
+      "texte_balise": "Rome's creation myth to Julius Caesar's deification.",
+      "bbox": [
+        3553.6,
+        1053.8,
+        4434.5,
+        1095.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "would be Rubicon by Tom Holland or SPQR by",
+      "texte_balise": "would be Rubicon by Tom Holland or SPQR by",
+      "bbox": [
+        557.3,
+        1059.8,
+        1360.3,
+        1107.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "from Early Rome. Read alongside A Brief History.",
+      "texte_balise": "from Early Rome. Read alongside A Brief History.",
+      "bbox": [
+        2031.5,
+        1095.6,
+        2882.4,
+        1143.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Its one of the most influential texts ever.",
+      "texte_balise": "Its one of the most influential texts ever.",
+      "bbox": [
+        3553.6,
+        1101.5,
+        4230.7,
+        1137.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary Beard.",
+      "texte_balise": "Mary Beard.",
+      "bbox": [
+        550.9,
+        1111.4,
+        767.5,
+        1157.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary Beara.",
+      "texte_balise": "Mary Beara.",
+      "bbox": [
+        552.1,
+        1116.5,
+        772.7,
+        1161.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OX FORI",
+      "texte_balise": "OX FORI",
+      "bbox": [
+        125.8,
+        1131.3,
+        173.8,
+        1143.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rolfe Humphries",
+      "texte_balise": "Rolfe Humphries",
+      "bbox": [
+        3253.9,
+        1155.1,
+        3421.7,
+        1174.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Aeneid",
+      "texte_balise": "The Aeneid",
+      "bbox": [
+        3559.3,
+        1363.8,
+        3799.5,
+        1408.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORiCAL",
+      "texte_balise": "HISTORiCAL",
+      "bbox": [
+        197.8,
+        1383.1,
+        395.5,
+        1431.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Commentary on the Gallic Wars",
+      "texte_balise": "Commentary on the Gallic Wars",
+      "bbox": [
+        2031.5,
+        1383.1,
+        2684.6,
+        1431.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Penguin",
+      "texte_balise": "The Penguin",
+      "bbox": [
+        551.3,
+        1389.1,
+        731.1,
+        1425.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALLIC WAR",
+      "texte_balise": "CALLIC WAR",
+      "bbox": [
+        1684.1,
+        1390.9,
+        1950.9,
+        1478.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1785.8,
+        1395.1,
+        1857.7,
+        1425.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORICAL",
+      "texte_balise": "HISTORICAL",
+      "bbox": [
+        206.4,
+        1398.3,
+        392.8,
+        1431.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Virgil",
+      "texte_balise": "Virgil",
+      "bbox": [
+        3555.1,
+        1418.3,
+        3648.3,
+        1451.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ATLAS",
+      "texte_balise": "ATLAS",
+      "bbox": [
+        233.0,
+        1431.5,
+        372.8,
+        1464.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julius Caesar",
+      "texte_balise": "Julius Caesar",
+      "bbox": [
+        2023.9,
+        1431.6,
+        2216.9,
+        1465.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Historical Atlas of Ancient Rome",
+      "texte_balise": "Historical Atlas of Ancient Rome",
+      "bbox": [
+        552.6,
+        1437.7,
+        1231.6,
+        1485.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANCIENT",
+      "texte_balise": "ANCIENT",
+      "bbox": [
+        219.7,
+        1478.1,
+        379.5,
+        1511.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A sequel to the Iliad and Odyssey about Rome's legendary",
+      "texte_balise": "A sequel to the Iliad and Odyssey about Rome's legendary",
+      "bbox": [
+        3561.7,
+        1518.0,
+        4540.4,
+        1565.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "That one book about corn. Julius Caesar's firsthand account",
+      "texte_balise": "That one book about corn. Julius Caesar's firsthand account",
+      "bbox": [
+        2030.5,
+        1531.3,
+        3035.8,
+        1571.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A good companion text to the Brief History which is more",
+      "texte_balise": "A good companion text to the Brief History which is more",
+      "bbox": [
+        559.2,
+        1550.7,
+        1537.9,
+        1598.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "founder, Aeneas. Written during Augustus's rule, some view",
+      "texte_balise": "founder, Aeneas. Written during Augustus's rule, some view",
+      "bbox": [
+        3561.7,
+        1570.9,
+        4573.6,
+        1617.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the war that made him the most powerful man in Rome.",
+      "texte_balise": "of the war that made him the most powerful man in Rome.",
+      "bbox": [
+        2023.9,
+        1584.0,
+        3009.2,
+        1631.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE AENEID",
+      "texte_balise": "THE AENEID",
+      "bbox": [
+        3181.8,
+        1602.3,
+        3508.9,
+        1673.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "about showing the geographical expansion of Rome from",
+      "texte_balise": "about showing the geographical expansion of Rome from",
+      "bbox": [
+        552.6,
+        1604.2,
+        1524.5,
+        1651.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "it as another piece of Augustan propangda. Nowadays, the",
+      "texte_balise": "it as another piece of Augustan propangda. Nowadays, the",
+      "bbox": [
+        3555.1,
+        1617.3,
+        4540.4,
+        1664.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Side note: If you plan on learning Latin, many consider this",
+      "texte_balise": "Side note: If you plan on learning Latin, many consider this",
+      "bbox": [
+        2030.5,
+        1631.0,
+        3035.8,
+        1678.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a small village to a massive empire.",
+      "texte_balise": "a small village to a massive empire.",
+      "bbox": [
+        552.6,
+        1657.7,
+        1158.4,
+        1697.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS",
+      "texte_balise": "JULIUS",
+      "bbox": [
+        1804.2,
+        1664.3,
+        1937.3,
+        1704.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "epic is seen as a hallmark of the western canon, joining",
+      "texte_balise": "epic is seen as a hallmark of the western canon, joining",
+      "bbox": [
+        3555.1,
+        1670.8,
+        4487.1,
+        1717.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to be one of the easiest books to read in its original Latin.",
+      "texte_balise": "to be one of the easiest books to read in its original Latin.",
+      "bbox": [
+        2023.9,
+        1683.9,
+        2995.8,
+        1730.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAESAR",
+      "texte_balise": "CAESAR",
+      "bbox": [
+        1804.2,
+        1704.2,
+        1950.6,
+        1744.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Latin-Christian canonical texts and influencing Dante.",
+      "texte_balise": "the Latin-Christian canonical texts and influencing Dante.",
+      "bbox": [
+        3555.1,
+        1717.2,
+        4533.7,
+        1764.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENGUIN(& CLASSIC",
+      "texte_balise": "ENGUIN(& CLASSIC",
+      "bbox": [
+        193.1,
+        1930.1,
+        352.8,
+        1943.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUETONIUS",
+      "texte_balise": "SUETONIUS",
+      "bbox": [
+        1770.9,
+        1950.3,
+        1904.0,
+        1983.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LACITUS",
+      "texte_balise": "LACITUS",
+      "bbox": [
+        226.4,
+        1956.9,
+        312.9,
+        1970.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Annals",
+      "texte_balise": "The Annals",
+      "bbox": [
+        486.0,
+        1956.9,
+        725.7,
+        1996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Twelve Caesars",
+      "texte_balise": "The Twelve Caesars",
+      "bbox": [
+        2037.2,
+        1956.9,
+        2443.3,
+        1996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Deeds of the Divine Augustus",
+      "texte_balise": "The Deeds of the Divine Augustus",
+      "bbox": [
+        3561.7,
+        1963.4,
+        4260.7,
+        2016.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ANNALS OF",
+      "texte_balise": "THE ANNALS OF",
+      "bbox": [
+        193.1,
+        1976.5,
+        352.8,
+        2010.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suetonius",
+      "texte_balise": "Suetonius",
+      "bbox": [
+        2037.2,
+        2003.5,
+        2177.0,
+        2036.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tacitus",
+      "texte_balise": "Tacitus",
+      "bbox": [
+        486.0,
+        2010.1,
+        592.5,
+        2043.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Augustus",
+      "texte_balise": "Augustus",
+      "bbox": [
+        3555.1,
+        2016.8,
+        3694.9,
+        2056.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An ancient history on the first few rulers of the Judo-Claudian",
+      "texte_balise": "An ancient history on the first few rulers of the Judo-Claudian",
+      "bbox": [
+        486.0,
+        2109.7,
+        1531.2,
+        2156.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ancient biographies on Julius Caesar and the first eleven Roman",
+      "texte_balise": "Ancient biographies on Julius Caesar and the first eleven Roman",
+      "bbox": [
+        2037.2,
+        2109.7,
+        3122.3,
+        2156.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A short funerary inscription for Augustus, written by himself",
+      "texte_balise": "A short funerary inscription for Augustus, written by himself",
+      "bbox": [
+        3561.7,
+        2116.5,
+        4587.0,
+        2163.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "line, with the most focus being on Tiberius. Augustus is glossed",
+      "texte_balise": "line, with the most focus being on Tiberius. Augustus is glossed",
+      "bbox": [
+        486.0,
+        2163.1,
+        1557.8,
+        2202.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "emperors. Despite being the ancient equivalent to a tabloid",
+      "texte_balise": "emperors. Despite being the ancient equivalent to a tabloid",
+      "bbox": [
+        2037.2,
+        2163.1,
+        3029.1,
+        2202.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The inscription is important as it shows the image Augustus",
+      "texte_balise": "The inscription is important as it shows the image Augustus",
+      "bbox": [
+        3561.7,
+        2169.1,
+        4567.0,
+        2216.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "over in a few pages. Since Suetonius documents the same period,",
+      "texte_balise": "over in a few pages. Since Suetonius documents the same period,",
+      "bbox": [
+        486.0,
+        2209.6,
+        1577.8,
+        2256.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "magazine, The Twelve Caesars is one of the most influential",
+      "texte_balise": "magazine, The Twelve Caesars is one of the most influential",
+      "bbox": [
+        2030.5,
+        2209.6,
+        3049.1,
+        2256.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tried to portray, his mastery of propaganda, and the establishment",
+      "texte_balise": "tried to portray, his mastery of propaganda, and the establishment",
+      "bbox": [
+        3555.1,
+        2222.6,
+        4660.2,
+        2269.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "feel free to skip this text if you're anxious to move on.",
+      "texte_balise": "feel free to skip this text if you're anxious to move on.",
+      "bbox": [
+        486.0,
+        2262.8,
+        1398.1,
+        2309.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "books in the study of Roman history.",
+      "texte_balise": "books in the study of Roman history.",
+      "bbox": [
+        2030.5,
+        2262.8,
+        2656.3,
+        2302.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Judo-Claudian line.",
+      "texte_balise": "of the Judo-Claudian line.",
+      "bbox": [
+        3555.1,
+        2269.0,
+        3994.5,
+        2316.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPHUS",
+      "texte_balise": "JOSEPHUS",
+      "bbox": [
+        226.4,
+        2522.2,
+        332.9,
+        2555.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Jewish Wars",
+      "texte_balise": "The Jewish Wars",
+      "bbox": [
+        492.6,
+        2535.4,
+        838.8,
+        2575.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE JEWISH WAR",
+      "texte_balise": "THE JEWISH WAR",
+      "bbox": [
+        197.8,
+        2558.7,
+        371.5,
+        2582.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the Republic",
+      "texte_balise": "On the Republic",
+      "bbox": [
+        2043.8,
+        2561.6,
+        2383.4,
+        2609.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Letters from a Stoic",
+      "texte_balise": "Letters from a Stoic",
+      "bbox": [
+        3561.7,
+        2561.6,
+        3967.8,
+        2609.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Josephus",
+      "texte_balise": "Josephus",
+      "bbox": [
+        486.0,
+        2588.7,
+        619.1,
+        2621.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cicero",
+      "texte_balise": "Cicero",
+      "bbox": [
+        2043.8,
+        2608.6,
+        2143.7,
+        2641.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seneca the Younger",
+      "texte_balise": "Seneca the Younger",
+      "bbox": [
+        3555.1,
+        2608.6,
+        3834.7,
+        2648.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A biographical history on the Jewish Wars, a series of wars",
+      "texte_balise": "A biographical history on the Jewish Wars, a series of wars",
+      "bbox": [
+        491.4,
+        2690.4,
+        1480.1,
+        2738.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A political philosophy text written in the format of a Socratic",
+      "texte_balise": "A political philosophy text written in the format of a Socratic",
+      "bbox": [
+        2049.4,
+        2720.3,
+        3068.2,
+        2762.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seneca the Younger was a Roman philosopher who served as",
+      "texte_balise": "Seneca the Younger was a Roman philosopher who served as",
+      "bbox": [
+        3559.6,
+        2720.3,
+        4584.3,
+        2762.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that eventually lead to the new line of Roman emperors, the",
+      "texte_balise": "that eventually lead to the new line of Roman emperors, the",
+      "bbox": [
+        491.4,
+        2744.3,
+        1498.1,
+        2786.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dialogue. Cicero was a Roman senetor who favored a",
+      "texte_balise": "dialogue. Cicero was a Roman senetor who favored a",
+      "bbox": [
+        2043.4,
+        2768.1,
+        2942.3,
+        2810.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tutor and later advisor to Nero. He was forced to commit suicide",
+      "texte_balise": "tutor and later advisor to Nero. He was forced to commit suicide",
+      "bbox": [
+        3559.6,
+        2768.1,
+        4644.2,
+        2810.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Flavian dynasty.",
+      "texte_balise": "Flavian dynasty.",
+      "bbox": [
+        491.1,
+        2790.4,
+        773.3,
+        2841.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "skeptical approach to solving issues. Living alongside",
+      "texte_balise": "skeptical approach to solving issues. Living alongside",
+      "bbox": [
+        2043.4,
+        2815.7,
+        2954.3,
+        2864.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "due to the belief he was a part of an assassination attempt on",
+      "texte_balise": "due to the belief he was a part of an assassination attempt on",
+      "bbox": [
+        3559.6,
+        2821.7,
+        4578.3,
+        2864.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Republic and The Laws",
+      "texte_balise": "The Republic and The Laws",
+      "bbox": [
+        1695.9,
+        2864.0,
+        1923.6,
+        2906.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julius Caesar, he was almost a member of the Triumvirate",
+      "texte_balise": "Julius Caesar, he was almost a member of the Triumvirate",
+      "bbox": [
+        2043.4,
+        2870.0,
+        3014.2,
+        2906.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nero. His school of thought was stoicism, a Hellenistic philosophy",
+      "texte_balise": "Nero. His school of thought was stoicism, a Hellenistic philosophy",
+      "bbox": [
+        3559.6,
+        2870.0,
+        4680.1,
+        2918.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that Caesar, Pompey, and Crassus formed.",
+      "texte_balise": "that Caesar, Pompey, and Crassus formed.",
+      "bbox": [
+        2037.5,
+        2917.9,
+        2750.6,
+        2959.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SENECA",
+      "texte_balise": "SENECA",
+      "bbox": [
+        3307.9,
+        2923.9,
+        3379.8,
+        2935.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "which most Roman emperors followed.",
+      "texte_balise": "which most Roman emperors followed.",
+      "bbox": [
+        3559.6,
+        2923.9,
+        4224.7,
+        2965.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Letters from a Stol",
+      "texte_balise": "Letters from a Stol",
+      "bbox": [
+        3289.9,
+        2947.8,
+        3397.8,
+        2959.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BBCDVD",
+      "texte_balise": "BBCDVD",
+      "bbox": [
+        1671.9,
+        3151.4,
+        1779.8,
+        3163.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Meditations",
+      "texte_balise": "Meditations",
+      "bbox": [
+        3553.5,
+        3181.0,
+        3805.3,
+        3235.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HBO'S Rome",
+      "texte_balise": "HBO'S Rome",
+      "bbox": [
+        491.4,
+        3205.3,
+        785.0,
+        3247.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ancient Rome",
+      "texte_balise": "Ancient Rome",
+      "bbox": [
+        2055.4,
+        3205.3,
+        2307.1,
+        3241.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marcus Aurelius",
+      "texte_balise": "Marcus Aurelius",
+      "bbox": [
+        3559.6,
+        3235.3,
+        3787.3,
+        3265.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Rise and Fall of an Empire",
+      "texte_balise": "The Rise and Fall of an Empire",
+      "bbox": [
+        2054.6,
+        3246.2,
+        2691.5,
+        3314.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Just for fun, watch HBO's Rome. A semi-fictional historial",
+      "texte_balise": "Just for fun, watch HBO's Rome. A semi-fictional historial",
+      "bbox": [
+        491.4,
+        3318.9,
+        1480.1,
+        3361.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANCIENT ROME",
+      "texte_balise": "ANCIENT ROME",
+      "bbox": [
+        1689.9,
+        3336.8,
+        1995.5,
+        3378.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The last of the Five Good Emperors, Marcus Aurelius was almost",
+      "texte_balise": "The last of the Five Good Emperors, Marcus Aurelius was almost",
+      "bbox": [
+        3559.6,
+        3336.8,
+        4662.2,
+        3384.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROME",
+      "texte_balise": "ROME",
+      "bbox": [
+        149.8,
+        3367.0,
+        407.5,
+        3450.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "drama about two Romans and how they continue to",
+      "texte_balise": "drama about two Romans and how they continue to",
+      "bbox": [
+        491.4,
+        3372.4,
+        1360.3,
+        3415.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE RISE AND FALL OF AN'EMPIRE",
+      "texte_balise": "HE RISE AND FALL OF AN'EMPIRE",
+      "bbox": [
+        1695.9,
+        3372.4,
+        2007.5,
+        3403.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Another video recommendation. This is a docudrama",
+      "texte_balise": "Another video recommendation. This is a docudrama",
+      "bbox": [
+        2055.4,
+        3372.4,
+        2948.3,
+        3415.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "always on campaign in his life, expanding the borders of Rome.",
+      "texte_balise": "always on campaign in his life, expanding the borders of Rome.",
+      "bbox": [
+        3559.6,
+        3390.9,
+        4626.2,
+        3433.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "accidentally influence the world around them during the",
+      "texte_balise": "accidentally influence the world around them during the",
+      "bbox": [
+        485.4,
+        3420.9,
+        1444.2,
+        3468.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "series with each episode focusing on a new event in",
+      "texte_balise": "series with each episode focusing on a new event in",
+      "bbox": [
+        2049.4,
+        3426.9,
+        2924.3,
+        3468.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meditations is a collection of private notes the emperor Marcus",
+      "texte_balise": "Meditations is a collection of private notes the emperor Marcus",
+      "bbox": [
+        3559.6,
+        3438.8,
+        4626.2,
+        3486.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roman civil war.",
+      "texte_balise": "Roman civil war.",
+      "bbox": [
+        491.4,
+        3468.8,
+        785.0,
+        3510.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rome.",
+      "texte_balise": "Rome.",
+      "bbox": [
+        2055.4,
+        3474.8,
+        2169.3,
+        3510.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aurelius made to himself about stoic philosophy while on campaign.",
+      "texte_balise": "Aurelius made to himself about stoic philosophy while on campaign.",
+      "bbox": [
+        3559.6,
+        3486.6,
+        4722.1,
+        3534.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wentation",
+      "texte_balise": "wentation",
+      "bbox": [
+        3313.9,
+        3558.6,
+        3379.8,
+        3564.6
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

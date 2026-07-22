@@ -1,0 +1,985 @@
+{
+  "fichier": "18_Self-Published 1.jpeg",
+  "date": "2026-07-21T19:28:36.639964+00:00",
+  "taille_origine": [
+    3500,
+    3500
+  ],
+  "hauteur_ligne_mediane": 38.3,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 53,
+  "nb_noeuds": 65,
+  "tiers": [
+    "STARSHIP'S",
+    "WILL",
+    "WE ARE",
+    "SUPER SALES"
+  ],
+  "intitules_isoles": [
+    "SuPER HEROES"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        269.6,
+        96.5,
+        3255.8,
+        238.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SFFG's Self Published Recommendation Chart",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        488.3,
+        365.7,
+        788.6,
+        467.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE CITY AND",
+          "auteur": "DUNGEON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1968.1,
+        368.6,
+        2233.9,
+        444.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SUPERMAGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "STARSHIP'S",
+      "bbox": [
+        157.7,
+        376.0,
+        422.2,
+        498.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MAGE",
+          "auteur": null,
+          "tier": "STARSHIP'S"
+        },
+        {
+          "titre": "OMNIBUS",
+          "auteur": null,
+          "tier": "STARSHIP'S"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1246.4,
+        380.7,
+        1485.5,
+        411.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "XANDER BOYCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3057.2,
+        385.2,
+        3327.3,
+        448.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THREADBARE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1571.9,
+        385.7,
+        1882.3,
+        472.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE DUNGEON",
+          "auteur": "TRAVELER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2324.9,
+        386.2,
+        2609.7,
+        482.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BUNKER",
+          "auteur": "CORE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        849.1,
+        396.3,
+        1129.8,
+        626.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "JONATHAN BROOKS",
+          "auteur": "DUNGEON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2045.1,
+        660.5,
+        2248.5,
+        711.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RISE TO OMNI",
+          "auteur": "Book one",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2691.1,
+        670.7,
+        2976.0,
+        777.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FIMBULWINTER",
+          "auteur": "E. WILLIAM BROWN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1215.8,
+        706.0,
+        1511.0,
+        818.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ADVENT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BOOK ONE",
+          "auteur": "RED MAGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1587.2,
+        782.4,
+        1867.0,
+        818.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ALSTON SLEET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3052.3,
+        782.4,
+        3327.0,
+        823.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANDREW SEIPLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1973.8,
+        787.4,
+        2238.4,
+        823.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AARON OSTER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2329.9,
+        787.4,
+        2604.7,
+        818.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANDREW SEIPLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        152.6,
+        792.4,
+        427.3,
+        818.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GLYNN STEWART",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        508.7,
+        807.9,
+        788.5,
+        833.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MATTHEW P. SCHMIDT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WILL",
+      "bbox": [
+        2701.1,
+        913.8,
+        2976.2,
+        1062.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WIGHT",
+          "auteur": null,
+          "tier": "WILL"
+        },
+        {
+          "titre": "AUTHOR OF HOUSE OF BLADES",
+          "auteur": null,
+          "tier": "WILL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1220.9,
+        924.8,
+        1297.2,
+        960.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CULT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3082.8,
+        929.9,
+        3327.0,
+        980.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Another Stupid Spell",
+          "auteur": "Bill Ricardi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2335.0,
+        945.1,
+        2589.4,
+        1021.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "J. ZACHARY PIKE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "*A COMPETE DOY OF A BOOK:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        228.6,
+        949.3,
+        427.6,
+        1077.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TINE",
+          "auteur": "TT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1602.5,
+        1209.4,
+        1856.8,
+        1320.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MARTHA",
+          "auteur": "WELLS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2335.0,
+        1224.6,
+        2594.5,
+        1270.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORCONOMICS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        513.5,
+        1275.4,
+        651.5,
+        1381.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Godking's",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2686.0,
+        1305.3,
+        2986.2,
+        1381.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNSOULED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VOLUME ONE",
+          "auteur": "CRADLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        854.7,
+        1325.6,
+        1134.4,
+        1391.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE BLUE MAGE",
+          "auteur": "RAISED BY DRAGONS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        310.3,
+        1361.1,
+        432.4,
+        1396.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONEDE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        732.6,
+        1361.1,
+        793.6,
+        1371.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "virlyce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2706.4,
+        1447.4,
+        2976.0,
+        1528.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Neven Iliev",
+          "auteur": "Morningwood",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1251.5,
+        1462.7,
+        1541.4,
+        1589.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DR. ANARCHY'S",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RULES FOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WORLD DOMINATION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(Ur How i Became God-t",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3087.9,
+        1467.7,
+        3316.9,
+        1564.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Trysmoon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ascension",
+          "auteur": "Book 1",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WE ARE",
+      "bbox": [
+        198.1,
+        1471.7,
+        371.6,
+        1579.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LEGION",
+          "auteur": null,
+          "tier": "WE ARE"
+        },
+        {
+          "titre": "(WE ARE BOB)",
+          "auteur": null,
+          "tier": "WE ARE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1602.5,
+        1472.7,
+        1877.2,
+        1503.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Into The Abyss",
+          "auteur": "Volume I",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        971.5,
+        1487.2,
+        1099.0,
+        1514.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "God Touched",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1938.2,
+        1498.2,
+        2289.2,
+        1569.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Dark Mage",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "SUPER SALES",
+      "bbox": [
+        2329.7,
+        1721.5,
+        2625.2,
+        1919.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ON",
+          "auteur": null,
+          "tier": "SUPER SALES"
+        },
+        {
+          "titre": "SuPER HEROES",
+          "auteur": null,
+          "tier": "SUPER SALES"
+        },
+        {
+          "titre": "WILLIAM D. ARAND",
+          "auteur": null,
+          "tier": "SUPER SALES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        574.7,
+        1741.3,
+        829.3,
+        1798.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DUNGEON BORN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3133.7,
+        1863.4,
+        3266.0,
+        1889.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Brian K. Fuller",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        152.6,
+        1879.0,
+        422.2,
+        1924.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DENNIS E. TAYLOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2029.8,
+        1879.0,
+        2202.8,
+        1909.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Nelson Chereta",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1266.7,
+        1884.0,
+        1521.1,
+        1909.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NELSON CHERETA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1638.1,
+        1980.5,
+        1928.1,
+        2056.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Spellmonger",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        890.1,
+        1989.9,
+        1165.1,
+        2087.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OTHERLIFE",
+          "auteur": "DREAMS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1251.5,
+        2056.6,
+        1292.2,
+        2097.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "D",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        122.0,
+        2076.4,
+        442.7,
+        2133.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONTRACTOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1612.6,
+        2391.7,
+        1928.1,
+        2437.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TERRY MANCOUR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        625.7,
+        2401.9,
+        814.0,
+        2463.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Written by",
+          "auteur": "Randi Darren",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1236.2,
+        2412.0,
+        1541.4,
+        2463.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JIM, BERNHEIMER",
+          "auteur": "JIM, BERNHFIMER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        874.8,
+        2420.9,
+        1170.2,
+        2473.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WILLIAM D. ARAND",
+          "auteur": "LIAM D. ARAND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        152.6,
+        2442.0,
+        417.2,
+        2473.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANDREWS. BALL",
+          "auteur": "ANDREW S. BALL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.1,
+        3276.0,
+        3255.8,
+        3414.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "N.B. Books May Have Varying Forms of Quality and Degeneracy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

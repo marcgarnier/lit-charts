@@ -1,0 +1,945 @@
+{
+  "fichier": "brit_Literature 1.jpeg",
+  "date": "2026-07-21T19:28:36.784544+00:00",
+  "taille_origine": [
+    1656,
+    1304
+  ],
+  "hauteur_ligne_mediane": 19.4,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 40,
+  "nb_noeuds": 88,
+  "tiers": [
+    "THEAUDIT",
+    "Roger",
+    "THE LOST",
+    "The Abolition"
+  ],
+  "intitules_isoles": [
+    "England: An Elegy",
+    "Latter-Day"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        334.6,
+        79.0,
+        1292.5,
+        115.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A /BRIT/ LIT GUIDE TO JUST FUCK MY SHIT UP",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THEAUDIT",
+      "bbox": [
+        524.4,
+        227.7,
+        696.9,
+        461.9
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "OF WAR",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "THE ILLUSION &",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "REALITY OF BRITAIN",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "AS A GREAT NATION",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "ET THE AUTHOE OF",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "CORRELLI",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        },
+        {
+          "titre": "BARNETU",
+          "auteur": null,
+          "tier": "THEAUDIT"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        746.2,
+        231.0,
+        902.6,
+        250.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CORRELLI BARNET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Roger",
+      "bbox": [
+        1222.7,
+        233.2,
+        1367.2,
+        310.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Scruton",
+          "auteur": null,
+          "tier": "Roger"
+        },
+        {
+          "titre": "An Elegy",
+          "auteur": "England",
+          "tier": "Roger"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        308.1,
+        238.0,
+        469.4,
+        253.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CORRELLI BARNETT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1441.8,
+        242.6,
+        1603.0,
+        435.5
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "ROGER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SCRUTON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "USES OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PESSIMISM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND THE DANGER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF FALSE HOPE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        86.6,
+        261.9,
+        178.2,
+        284.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE DELUGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        957.7,
+        312.8,
+        1136.3,
+        479.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VERDICT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "oF PEACE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and the Twom",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CORRELLI BARNETT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        48.1,
+        317.6,
+        195.0,
+        418.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE GREAT WAR,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND THE REMAKING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF THE GLOBAL ORDER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "1916-1931",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        303.1,
+        351.3,
+        476.7,
+        486.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COLLAPSE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF BRITISH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POWER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE LOST",
+      "bbox": [
+        741.2,
+        367.6,
+        914.8,
+        481.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "VICTORY",
+          "auteur": null,
+          "tier": "THE LOST"
+        },
+        {
+          "titre": "NY THE SUTHOR OF THI",
+          "auteur": null,
+          "tier": "THE LOST"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        77.0,
+        449.6,
+        190.2,
+        488.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ADAM TOOZE",
+          "auteur": "ANTHON OF THE MASKS BE BESTROCTION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1449.0,
+        461.9,
+        1591.0,
+        469.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Wonderth matsoaks bood and provoca",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.1,
+        526.9,
+        905.0,
+        551.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE PRIDE AND FALL SEQUENCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        984.5,
+        594.0,
+        1145.7,
+        647.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE GREAT",
+          "auteur": "BETRAYAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Abolition",
+      "bbox": [
+        50.5,
+        596.7,
+        214.2,
+        657.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "of Britain",
+          "auteur": null,
+          "tier": "The Abolition"
+        },
+        {
+          "titre": "from Winston Churchill",
+          "auteur": null,
+          "tier": "The Abolition"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        767.8,
+        603.9,
+        902.7,
+        688.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MY LIFE",
+          "auteur": "Sir Oswald",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1275.7,
+        603.9,
+        1379.2,
+        618.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "N HEFFER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1458.6,
+        618.3,
+        1598.4,
+        846.9
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "REFLECTIONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ON THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REVOLUTION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IN EUROPE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "**",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INMIGHATION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "****",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ISLAM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE WEST",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHRISTOPHER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CALDWELL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        283.8,
+        709.7,
+        445.6,
+        847.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ABOLITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF LIBERTY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Decline of Order and Ju",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        515.0,
+        753.0,
+        678.9,
+        854.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CAMERON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DELUSION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1210.7,
+        753.0,
+        1381.6,
+        849.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "LIKE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ROMAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Lead",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ENOCH POWELL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        996.4,
+        817.2,
+        1133.8,
+        852.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "IAN SMITH",
+          "auteur": "MEMOIRS OF AFRICA'S M",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.5,
+        825.0,
+        214.2,
+        844.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Peter Hitchens",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        221.4,
+        890.0,
+        507.9,
+        909.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE OBITUARY TRILOGY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        979.6,
+        890.2,
+        1155.3,
+        909.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BIOGRAPHICAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        722.1,
+        952.7,
+        893.0,
+        1001.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRAVENEM WORLD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        977.2,
+        962.0,
+        1114.4,
+        974.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANTHONY BURGESS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        62.6,
+        967.2,
+        190.2,
+        1023.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "WASTE LAND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        500.4,
+        972.0,
+        652.3,
+        1039.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WYNDHAM",
+          "auteur": "LEWIS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        303.3,
+        979.0,
+        402.0,
+        1010.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Wyndham Lewis",
+          "auteur": "Tarr",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1251.6,
+        979.0,
+        1359.9,
+        994.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Thomas Carlyle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        960.4,
+        1061.0,
+        1128.9,
+        1082.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CLOCKWORK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1212.9,
+        1079.4,
+        1333.7,
+        1136.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Latter-Day",
+          "auteur": "Pamphlets",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        989.3,
+        1111.5,
+        1100.0,
+        1130.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORANGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1432.2,
+        1128.0,
+        1600.6,
+        1160.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SHOOTING NIAGARA:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND AFTER?...",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        726.8,
+        1182.9,
+        881.1,
+        1215.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ALDOUSHUXLEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1475.5,
+        1186.0,
+        1559.7,
+        1198.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THOMAS CARELE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        65.0,
+        1207.8,
+        190.2,
+        1213.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SARTON CRITICESITIAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        531.9,
+        1263.1,
+        630.6,
+        1282.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FICTION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

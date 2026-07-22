@@ -1,0 +1,2390 @@
+{
+  "fichier": "14_SFFG.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:52.477562+00:00",
+  "duree_s": 3.6,
+  "taille_origine": [
+    900,
+    5474
+  ],
+  "nb_bandes": 5,
+  "nb_lignes": 216,
+  "lignes": [
+    {
+      "texte": "/lit/SFF Pinata",
+      "texte_balise": "/lit/SFF Pinata",
+      "bbox": [
+        143.2,
+        -0.0,
+        756.8,
+        77.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "About Women, For Women, By a Womar",
+      "texte_balise": "About Women, For Women, By a Womar",
+      "bbox": [
+        0.0,
+        78.0,
+        898.0,
+        128.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONSORT TO ONEMAN'S DARK POWERS",
+      "texte_balise": "CONSORT TO ONEMAN'S DARK POWERS",
+      "bbox": [
+        362.0,
+        138.0,
+        544.0,
+        148.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "She was the Card Valiant of Destiny's Tarot",
+      "texte_balise": "She was the Card Valiant of Destiny's Tarot",
+      "bbox": [
+        638.0,
+        138.0,
+        856.0,
+        152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MISTRESS TO HIS VISIONS, SHE WAS TO BECOME....",
+      "texte_balise": "MISTRESS TO HIS VISIONS, SHE WAS TO BECOME....",
+      "bbox": [
+        340.0,
+        146.0,
+        566.0,
+        158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRINCESS",
+      "texte_balise": "PRINCESS",
+      "bbox": [
+        627.9,
+        153.7,
+        850.1,
+        214.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& The",
+      "texte_balise": "& The",
+      "bbox": [
+        406.0,
+        162.0,
+        488.0,
+        188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SORCERERS",
+      "texte_balise": "SORCERERS",
+      "bbox": [
+        318.0,
+        184.0,
+        592.0,
+        232.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OfFLHMES",
+      "texte_balise": "OfFLHMES",
+      "bbox": [
+        638.0,
+        212.0,
+        840.0,
+        258.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TADY",
+      "texte_balise": "TADY",
+      "bbox": [
+        398.0,
+        226.0,
+        510.0,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2 CANADA -12 PUS",
+      "texte_balise": "2 CANADA -12 PUS",
+      "bbox": [
+        10.0,
+        228.0,
+        18.0,
+        304.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RU EMERSON",
+      "texte_balise": "RU EMERSON",
+      "bbox": [
+        690.0,
+        254.0,
+        822.0,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAULA VOLSKY",
+      "texte_balise": "PAULA VOLSKY",
+      "bbox": [
+        380.0,
+        272.0,
+        526.0,
+        294.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HER BLOOD SANG WITH THE",
+      "texte_balise": "HER BLOOD SANG WITH THE",
+      "bbox": [
+        114.0,
+        280.0,
+        254.0,
+        290.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POWERS OF TWO MICHTY RACES",
+      "texte_balise": "POWERS OF TWO MICHTY RACES",
+      "bbox": [
+        102.0,
+        288.0,
+        262.0,
+        298.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WICHDAME",
+      "texte_balise": "WICHDAME",
+      "bbox": [
+        23.9,
+        297.3,
+        294.1,
+        356.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KATHLEEN SKY",
+      "texte_balise": "KATHLEEN SKY",
+      "bbox": [
+        140.0,
+        350.0,
+        288.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Fis",
+      "texte_balise": "\"Fis",
+      "bbox": [
+        698.0,
+        530.0,
+        718.0,
+        544.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ave",
+      "texte_balise": "ave",
+      "bbox": [
+        694.0,
+        554.0,
+        720.0,
+        568.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ellent nevet.",
+      "texte_balise": "ellent nevet.",
+      "bbox": [
+        728.0,
+        554.0,
+        784.0,
+        566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Anne Mesaffr",
+      "texte_balise": "-Anne Mesaffr",
+      "bbox": [
+        690.0,
+        566.0,
+        766.0,
+        574.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "\"AN ENERGETIC TALE TOLD WITH GREAT VERVE",
+      "texte_balise": "\"AN ENERGETIC TALE TOLD WITH GREAT VERVE",
+      "bbox": [
+        338.0,
+        574.0,
+        566.0,
+        586.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORETA,",
+      "texte_balise": "MORETA,",
+      "bbox": [
+        734.0,
+        574.0,
+        778.0,
+        586.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND DASH.\"-MEREDITH ANN PIERCE, AUTHOR OF",
+      "texte_balise": "AND DASH.\"-MEREDITH ANN PIERCE, AUTHOR OF",
+      "bbox": [
+        346.0,
+        582.0,
+        566.0,
+        594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SRACONIADY OR",
+      "texte_balise": "SRACONIADY OR",
+      "bbox": [
+        690.0,
+        582.0,
+        766.0,
+        594.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE DARKANGEL",
+      "texte_balise": "THE DARKANGEL",
+      "bbox": [
+        416.0,
+        594.0,
+        492.0,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1985",
+      "texte_balise": "1985",
+      "bbox": [
+        120.0,
+        620.0,
+        186.0,
+        640.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1986",
+      "texte_balise": "1986",
+      "bbox": [
+        420.0,
+        620.0,
+        482.0,
+        640.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1986",
+      "texte_balise": "1986",
+      "bbox": [
+        720.0,
+        620.0,
+        780.0,
+        640.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHE WAS HEIR TO A KINGDOM'S MAGIC-",
+      "texte_balise": "SHE WAS HEIR TO A KINGDOM'S MAGIC-",
+      "bbox": [
+        64.0,
+        654.0,
+        248.0,
+        668.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Will attract fans of Anne McCalfrey",
+      "texte_balise": "Will attract fans of Anne McCalfrey",
+      "bbox": [
+        622.0,
+        662.0,
+        784.0,
+        674.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND PREY TO ITS FURY.",
+      "texte_balise": "AND PREY TO ITS FURY.",
+      "bbox": [
+        98.0,
+        668.0,
+        208.0,
+        684.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A sparkling addicion to any fall",
+      "texte_balise": "A sparkling addicion to any fall",
+      "bbox": [
+        642.0,
+        674.0,
+        784.0,
+        686.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOULSTRING",
+      "texte_balise": "SOULSTRING",
+      "bbox": [
+        17.7,
+        677.0,
+        284.3,
+        765.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Four star!\" - Merci",
+      "texte_balise": "Four star!\" - Merci",
+      "bbox": [
+        674.0,
+        684.0,
+        764.0,
+        696.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIDORI SNYDER",
+      "texte_balise": "MIDORI SNYDER",
+      "bbox": [
+        175.9,
+        759.5,
+        282.1,
+        784.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gifted with the magic of two races. could she save her",
+      "texte_balise": "Gifted with the magic of two races. could she save her",
+      "bbox": [
+        358.0,
+        982.0,
+        546.0,
+        992.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "people from the ancient evil which was spreading correption",
+      "texte_balise": "people from the ancient evil which was spreading correption",
+      "bbox": [
+        348.0,
+        992.0,
+        558.0,
+        1002.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "peopie tom the ancient chil which was sorcading corruption",
+      "texte_balise": "peopie tom the ancient chil which was sorcading corruption",
+      "bbox": [
+        346.0,
+        994.0,
+        558.0,
+        1000.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLBASETH WATERS",
+      "texte_balise": "BLBASETH WATERS",
+      "bbox": [
+        632.0,
+        1000.0,
+        890.0,
+        1027.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "865 SETH WATERS",
+      "texte_balise": "865 SETH WATERS",
+      "bbox": [
+        634.0,
+        1000.0,
+        890.0,
+        1028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NUANGING",
+      "texte_balise": "NUANGING",
+      "bbox": [
+        631.9,
+        1025.3,
+        894.1,
+        1076.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACKIE HYMAN",
+      "texte_balise": "JACKIE HYMAN",
+      "bbox": [
+        354.0,
+        1062.0,
+        558.0,
+        1088.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FATa",
+      "texte_balise": "FATa",
+      "bbox": [
+        693.9,
+        1075.8,
+        822.1,
+        1122.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alien Relationships",
+      "texte_balise": "Alien Relationships",
+      "bbox": [
+        235.8,
+        1134.7,
+        670.2,
+        1201.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1994",
+      "texte_balise": "1994",
+      "bbox": [
+        721.8,
+        1137.5,
+        780.2,
+        1158.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1987",
+      "texte_balise": "1987",
+      "bbox": [
+        120.0,
+        1138.0,
+        178.0,
+        1158.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alien Relationships",
+      "texte_balise": "Alien Relationships",
+      "bbox": [
+        235.2,
+        1148.0,
+        669.9,
+        1199.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C.J. CHERRYH",
+      "texte_balise": "C.J. CHERRYH",
+      "bbox": [
+        633.9,
+        1201.6,
+        854.1,
+        1254.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ballantine 25768 $1.95",
+      "texte_balise": "Ballantine 25768 $1.95",
+      "bbox": [
+        172.0,
+        1216.0,
+        250.0,
+        1226.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "At midnight on a strange and distant planet.",
+      "texte_balise": "At midnight on a strange and distant planet.",
+      "bbox": [
+        22.0,
+        1231.8,
+        234.0,
+        1243.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "they would remake the Universe -or destroy it!",
+      "texte_balise": "they would remake the Universe -or destroy it!",
+      "bbox": [
+        14.0,
+        1243.8,
+        238.0,
+        1253.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C.J. CHERRYH",
+      "texte_balise": "C.J. CHERRYH",
+      "bbox": [
+        326.0,
+        1249.8,
+        584.0,
+        1287.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-OREIGNER",
+      "texte_balise": "-OREIGNER",
+      "bbox": [
+        598.0,
+        1249.8,
+        892.0,
+        1389.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIDNIGHT",
+      "texte_balise": "MIDNIGHT",
+      "bbox": [
+        66.0,
+        1261.8,
+        246.0,
+        1295.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HESTIA",
+      "texte_balise": "HESTIA",
+      "bbox": [
+        325.7,
+        1286.5,
+        578.3,
+        1346.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WELL OF SOULS",
+      "texte_balise": "WELL OF SOULS",
+      "bbox": [
+        14.0,
+        1305.7,
+        294.0,
+        1341.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND JACK L. CHALKER",
+      "texte_balise": "AND JACK L. CHALKER",
+      "bbox": [
+        54.0,
+        1339.7,
+        248.0,
+        1361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he authot of",
+      "texte_balise": "he authot of",
+      "bbox": [
+        430.0,
+        1347.7,
+        506.0,
+        1361.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WInd THE FADED SUN",
+      "texte_balise": "WInd THE FADED SUN",
+      "bbox": [
+        420.0,
+        1357.7,
+        564.0,
+        1375.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GATE OF 1VE",
+      "texte_balise": "GATE OF 1VE",
+      "bbox": [
+        341.9,
+        1359.2,
+        422.1,
+        1376.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1979",
+      "texte_balise": "1979",
+      "bbox": [
+        418.0,
+        1695.5,
+        484.0,
+        1717.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Natives Are Restless",
+      "texte_balise": "The Natives Are Restless",
+      "bbox": [
+        170.0,
+        1715.4,
+        734.0,
+        1755.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GORDON R. DICKSON",
+      "texte_balise": "GORDON R. DICKSON",
+      "bbox": [
+        8.0,
+        1771.4,
+        288.0,
+        1811.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ursula K. Le Guin",
+      "texte_balise": "Ursula K. Le Guin",
+      "bbox": [
+        315.7,
+        1771.9,
+        578.3,
+        1828.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW SCIENCE FICTION BLOCKBUSTER",
+      "texte_balise": "THE NEW SCIENCE FICTION BLOCKBUSTER",
+      "bbox": [
+        612.0,
+        1773.4,
+        828.0,
+        1785.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FABULOUS STAR TREK LOGS!",
+      "texte_balise": "FABULOUS STAR TREK LOGS!",
+      "bbox": [
+        645.9,
+        1784.5,
+        792.1,
+        1802.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RIGHT TOO",
+      "texte_balise": "THE RIGHT TOO",
+      "bbox": [
+        61.9,
+        1812.5,
+        262.1,
+        1848.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIDLUORLD",
+      "texte_balise": "MIDLUORLD",
+      "bbox": [
+        607.9,
+        1812.7,
+        886.1,
+        1866.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF THE LEFT-HAND OF DARKNESS",
+      "texte_balise": "AUTHOR OF THE LEFT-HAND OF DARKNESS",
+      "bbox": [
+        350.0,
+        1823.4,
+        546.0,
+        1835.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Word for World is Forest",
+      "texte_balise": "The Word for World is Forest",
+      "bbox": [
+        316.0,
+        1839.4,
+        580.0,
+        1873.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARMERAS",
+      "texte_balise": "ARMERAS",
+      "bbox": [
+        4.0,
+        1841.4,
+        288.0,
+        1959.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Allan Dean Foster",
+      "texte_balise": "Allan Dean Foster",
+      "bbox": [
+        730.0,
+        1863.3,
+        886.0,
+        1889.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MIND STUNNING SCIENCE FICTION MASTERPIECE",
+      "texte_balise": "THE MIND STUNNING SCIENCE FICTION MASTERPIECE",
+      "bbox": [
+        322.0,
+        1871.3,
+        578.0,
+        1885.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What do",
+      "texte_balise": "What do",
+      "bbox": [
+        10.0,
+        1971.3,
+        58.0,
+        1983.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bears do in the",
+      "texte_balise": "bears do in the",
+      "bbox": [
+        10.0,
+        1985.2,
+        94.0,
+        1999.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BAEN",
+      "texte_balise": "BAEN",
+      "bbox": [
+        14.0,
+        2214.9,
+        48.0,
+        2222.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1975",
+      "texte_balise": "1975",
+      "bbox": [
+        722.0,
+        2249.1,
+        780.0,
+        2269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1961",
+      "texte_balise": "1961",
+      "bbox": [
+        122.0,
+        2251.1,
+        176.0,
+        2269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1972",
+      "texte_balise": "1972",
+      "bbox": [
+        420.0,
+        2251.1,
+        482.0,
+        2269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL OF THE FUTURE BY H.M. HOOVER",
+      "texte_balise": "A NOVEL OF THE FUTURE BY H.M. HOOVER",
+      "bbox": [
+        36.0,
+        2279.0,
+        262.0,
+        2295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCENCE FICTION BEAUE2429 CANADA 54951-0 5. 54.50",
+      "texte_balise": "SCENCE FICTION BEAUE2429 CANADA 54951-0 5. 54.50",
+      "bbox": [
+        620.0,
+        2280.8,
+        796.0,
+        2286.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCENES PICTION BAUER•CANADA SESSIUS. $4.50",
+      "texte_balise": "SCENES PICTION BAUER•CANADA SESSIUS. $4.50",
+      "bbox": [
+        620.0,
+        2281.0,
+        796.0,
+        2287.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "\"A haunting beauty\" BEST SELLERS",
+      "texte_balise": "\"A haunting beauty\" BEST SELLERS",
+      "bbox": [
+        36.0,
+        2294.8,
+        164.0,
+        2306.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "5|$2.50JACE SCIENI",
+      "texte_balise": "5|$2.50JACE SCIENI",
+      "bbox": [
+        368.0,
+        2294.8,
+        446.0,
+        2306.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A haunting beauty\" BEST SELLERS,",
+      "texte_balise": "\"A haunting beauty\" BEST SELLERS,",
+      "bbox": [
+        34.0,
+        2295.0,
+        166.0,
+        2307.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "6-5|$2.50 ACE SCIEN",
+      "texte_balise": "6-5|$2.50 ACE SCIEN",
+      "bbox": [
+        360.0,
+        2295.0,
+        442.0,
+        2307.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAW SUPERSTAR",
+      "texte_balise": "DAW SUPERSTAR",
+      "bbox": [
+        624.0,
+        2299.0,
+        710.0,
+        2309.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUGO NOVELIST",
+      "texte_balise": "HUGO NOVELIST",
+      "bbox": [
+        620.0,
+        2314.8,
+        702.0,
+        2326.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ИДУНА/",
+      "texte_balise": "ИДУНА/",
+      "bbox": [
+        453.7,
+        2321.7,
+        572.3,
+        2382.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "WORLDS OF",
+      "texte_balise": "WORLDS OF",
+      "bbox": [
+        336.0,
+        2324.8,
+        406.0,
+        2334.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVENTURE",
+      "texte_balise": "ADVENTURE",
+      "bbox": [
+        404.0,
+        2324.8,
+        476.0,
+        2334.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"SATISFYING AND",
+      "texte_balise": "\"SATISFYING AND",
+      "bbox": [
+        722.0,
+        2330.8,
+        810.0,
+        2342.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIAMOND WALL",
+      "texte_balise": "DIAMOND WALL",
+      "bbox": [
+        336.0,
+        2340.8,
+        426.0,
+        2350.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REWARDING",
+      "texte_balise": "REWARDING",
+      "bbox": [
+        724.0,
+        2342.8,
+        788.0,
+        2350.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXCELLENT OF ITS",
+      "texte_balise": "EXCELLENT OF ITS",
+      "bbox": [
+        726.0,
+        2352.8,
+        818.0,
+        2362.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARDATHE",
+      "texte_balise": "ARDATHE",
+      "bbox": [
+        320.0,
+        2352.9,
+        470.0,
+        2432.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHERRYH",
+      "texte_balise": "CHERRYH",
+      "bbox": [
+        615.8,
+        2379.9,
+        862.2,
+        2435.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KHI TO",
+      "texte_balise": "KHI TO",
+      "bbox": [
+        462.0,
+        2394.7,
+        564.0,
+        2420.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREEDOM",
+      "texte_balise": "FREEDOM",
+      "bbox": [
+        404.0,
+        2420.7,
+        562.0,
+        2446.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FORTY THOUSAND",
+      "texte_balise": "FORTY THOUSAND",
+      "bbox": [
+        620.0,
+        2434.7,
+        836.0,
+        2460.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN GEHENNA",
+      "texte_balise": "IN GEHENNA",
+      "bbox": [
+        617.9,
+        2460.2,
+        756.1,
+        2489.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF GOLDEN DREAM",
+      "texte_balise": "OF GOLDEN DREAM",
+      "bbox": [
+        446.0,
+        2740.5,
+        554.0,
+        2752.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE AUTHOR",
+      "texte_balise": "THE AUTHOR",
+      "bbox": [
+        374.0,
+        2742.5,
+        446.0,
+        2752.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1983",
+      "texte_balise": "1983",
+      "bbox": [
+        419.9,
+        2764.3,
+        484.1,
+        2788.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1977",
+      "texte_balise": "1977",
+      "bbox": [
+        122.0,
+        2766.5,
+        180.0,
+        2786.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1983",
+      "texte_balise": "1983",
+      "bbox": [
+        722.0,
+        2766.5,
+        780.0,
+        2786.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exotic Locales",
+      "texte_balise": "Exotic Locales",
+      "bbox": [
+        292.0,
+        2784.5,
+        614.0,
+        2822.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT L. FORWARD",
+      "texte_balise": "ROBERT L. FORWARD",
+      "bbox": [
+        662.0,
+        2832.4,
+        856.0,
+        2856.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hugo and Nebula Award winning novel.",
+      "texte_balise": "The Hugo and Nebula Award winning novel.",
+      "bbox": [
+        58.0,
+        2848.4,
+        234.0,
+        2858.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICK FARREN",
+      "texte_balise": "MICK FARREN",
+      "bbox": [
+        316.0,
+        2848.4,
+        580.0,
+        2894.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF DRAGON'S EG",
+      "texte_balise": "AUTHOR OF DRAGON'S EG",
+      "bbox": [
+        698.0,
+        2854.4,
+        814.0,
+        2868.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the gripping story of a ring-shaped world",
+      "texte_balise": "the gripping story of a ring-shaped world",
+      "bbox": [
+        60.0,
+        2858.4,
+        226.0,
+        2870.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "around a distant sun.",
+      "texte_balise": "around a distant sun.",
+      "bbox": [
+        100.0,
+        2868.4,
+        188.0,
+        2876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(THE -PUBLSHERS WEEKLY",
+      "texte_balise": "(THE -PUBLSHERS WEEKLY",
+      "bbox": [
+        732.0,
+        2882.4,
+        890.0,
+        2906.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"THIS IS A MUST!\"",
+      "texte_balise": "\"THIS IS A MUST!\"",
+      "bbox": [
+        644.0,
+        2884.4,
+        730.0,
+        2898.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE QUEST OF",
+      "texte_balise": "THE QUEST OF",
+      "bbox": [
+        384.0,
+        2898.4,
+        516.0,
+        2924.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LARRY NIVEN",
+      "texte_balise": "LARRY NIVEN",
+      "bbox": [
+        21.2,
+        2906.3,
+        282.8,
+        3016.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DNA COWBOYS",
+      "texte_balise": "THE DNA COWBOYS",
+      "bbox": [
+        358.0,
+        2922.4,
+        540.0,
+        2948.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRAGON FIV",
+      "texte_balise": "DRAGON FIV",
+      "bbox": [
+        621.4,
+        2957.7,
+        899.1,
+        3030.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RINGWORLD",
+      "texte_balise": "RINGWORLD",
+      "bbox": [
+        65.8,
+        3005.3,
+        238.2,
+        3047.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1976",
+      "texte_balise": "1976",
+      "bbox": [
+        420.0,
+        3316.1,
+        484.0,
+        3338.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1970",
+      "texte_balise": "1970",
+      "bbox": [
+        118.0,
+        3318.1,
+        180.0,
+        3338.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        720.0,
+        3320.1,
+        780.0,
+        3340.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL REAVES",
+      "texte_balise": "MICHAEL REAVES",
+      "bbox": [
+        368.0,
+        3352.0,
+        528.0,
+        3372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ваном собол вими виш:",
+      "texte_balise": "ваном собол вими виш:",
+      "bbox": [
+        62.0,
+        3353.8,
+        280.0,
+        3365.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "JAMES WHITE",
+      "texte_balise": "JAMES WHITE",
+      "bbox": [
+        613.6,
+        3355.7,
+        840.4,
+        3404.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF DRAGONWORLD",
+      "texte_balise": "AUTHOR OF DRAGONWORLD",
+      "bbox": [
+        378.0,
+        3369.8,
+        518.0,
+        3381.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORED",
+      "texte_balise": "ORED",
+      "bbox": [
+        486.0,
+        3370.0,
+        518.0,
+        3382.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LUTHOR OF DRAGON",
+      "texte_balise": "LUTHOR OF DRAGON",
+      "bbox": [
+        382.0,
+        3372.0,
+        482.0,
+        3382.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CIRCUYPOLAR!",
+      "texte_balise": "CIRCUYPOLAR!",
+      "bbox": [
+        9.8,
+        3388.5,
+        290.2,
+        3441.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FEDERATION",
+      "texte_balise": "FEDERATION",
+      "bbox": [
+        615.3,
+        3414.9,
+        892.7,
+        3486.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD A LIPOF NAS",
+      "texte_balise": "RICHARD A LIPOF NAS",
+      "bbox": [
+        14.0,
+        3437.8,
+        242.0,
+        3465.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOKUD",
+      "texte_balise": "WOKUD",
+      "bbox": [
+        380.0,
+        3463.8,
+        532.0,
+        3513.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WORLD",
+      "texte_balise": "WORLD",
+      "bbox": [
+        664.0,
+        3483.8,
+        846.0,
+        3571.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lut Hole",
+      "texte_balise": "lut Hole",
+      "bbox": [
+        -0.1,
+        3495.3,
+        88.1,
+        3518.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "They were learn",
+      "texte_balise": "They were learn",
+      "bbox": [
+        688.0,
+        3791.5,
+        762.0,
+        3801.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of interstellar explorat",
+      "texte_balise": "of interstellar explorat",
+      "bbox": [
+        658.0,
+        3803.5,
+        758.0,
+        3815.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "could be",
+      "texte_balise": "could be",
+      "bbox": [
+        694.0,
+        3815.5,
+        738.0,
+        3827.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        422.0,
+        3835.4,
+        482.0,
+        3855.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        122.0,
+        3835.5,
+        180.0,
+        3855.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1988",
+      "texte_balise": "1988",
+      "bbox": [
+        720.0,
+        3835.5,
+        782.0,
+        3855.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Illustrated",
+      "texte_balise": "Illustrated",
+      "bbox": [
+        332.0,
+        3853.5,
+        566.0,
+        3891.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY THE AUTHOR OF DARKOVER",
+      "texte_balise": "BY THE AUTHOR OF DARKOVER",
+      "bbox": [
+        20.0,
+        3901.4,
+        200.0,
+        3915.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JIM BAN PRESENIS:",
+      "texte_balise": "JIM BAN PRESENIS:",
+      "bbox": [
+        690.0,
+        3903.4,
+        808.0,
+        3919.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JIM BAN PRESENIS",
+      "texte_balise": "JIM BAN PRESENIS",
+      "bbox": [
+        396.0,
+        3905.4,
+        508.0,
+        3921.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARION ZIMMER",
+      "texte_balise": "MARION ZIMMER",
+      "bbox": [
+        18.0,
+        3913.4,
+        280.0,
+        3937.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PANDRE NORTON",
+      "texte_balise": "PANDRE NORTON",
+      "bbox": [
+        597.9,
+        3916.9,
+        894.1,
+        3966.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRADLEY",
+      "texte_balise": "BRADLEY",
+      "bbox": [
+        18.0,
+        3935.4,
+        162.0,
+        3959.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVEY",
+      "texte_balise": "SURVEY",
+      "bbox": [
+        17.7,
+        3957.8,
+        282.3,
+        4015.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FORERINNE",
+      "texte_balise": "FORERINNE",
+      "bbox": [
+        594.0,
+        3969.4,
+        898.0,
+        4115.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SHIP",
+      "texte_balise": "SHIP",
+      "bbox": [
+        17.4,
+        4009.4,
+        182.6,
+        4067.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE PUBLICATION",
+      "texte_balise": "COMPLETE PUBLICATION",
+      "bbox": [
+        374.0,
+        4023.4,
+        528.0,
+        4043.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Waterof",
+      "texte_balise": "The Waterof",
+      "bbox": [
+        361.9,
+        4049.1,
+        528.1,
+        4089.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•nouont",
+      "texte_balise": "•nouont",
+      "bbox": [
+        374.0,
+        4089.3,
+        534.0,
+        4115.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Don't Drink the Water",
+      "texte_balise": "Don't Drink the Water",
+      "bbox": [
+        330.0,
+        4121.0,
+        580.0,
+        4139.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRST",
+      "texte_balise": "FIRST",
+      "bbox": [
+        673.9,
+        4294.8,
+        718.1,
+        4313.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PUBLICATION",
+      "texte_balise": "PUBLICATION",
+      "bbox": [
+        649.9,
+        4312.7,
+        750.1,
+        4333.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTANT MUSIO TA",
+      "texte_balise": "OTANT MUSIO TA",
+      "bbox": [
+        520.0,
+        4329.1,
+        590.0,
+        4341.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANYWHERE!",
+      "texte_balise": "ANYWHERE!",
+      "bbox": [
+        653.9,
+        4334.8,
+        742.1,
+        4353.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "enjoyed THE WATER OF THOL",
+      "texte_balise": "enjoyed THE WATER OF THOL",
+      "bbox": [
+        422.0,
+        4354.9,
+        566.0,
+        4368.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "enjoyed THE WATER OFTHC",
+      "texte_balise": "enjoyed THE WATER OFTHC",
+      "bbox": [
+        424.0,
+        4357.1,
+        558.0,
+        4367.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILLUSTRATED",
+      "texte_balise": "ILLUSTRATED",
+      "bbox": [
+        674.0,
+        4357.1,
+        724.0,
+        4367.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Ursula K. Le Guin",
+      "texte_balise": "-Ursula K. Le Guin",
+      "bbox": [
+        484.0,
+        4366.9,
+        578.0,
+        4380.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Ursula K. LeGuin",
+      "texte_balise": "-Ursula K. LeGuin",
+      "bbox": [
+        484.0,
+        4367.1,
+        578.0,
+        4381.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "very much.",
+      "texte_balise": "very much.",
+      "bbox": [
+        422.0,
+        4369.1,
+        480.0,
+        4379.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1981",
+      "texte_balise": "1981",
+      "bbox": [
+        422.0,
+        4387.1,
+        484.0,
+        4415.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1980",
+      "texte_balise": "1980",
+      "bbox": [
+        121.9,
+        4388.8,
+        182.1,
+        4407.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1981",
+      "texte_balise": "1981",
+      "bbox": [
+        720.0,
+        4389.1,
+        780.0,
+        4407.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machismo",
+      "texte_balise": "Machismo",
+      "bbox": [
+        336.0,
+        4407.1,
+        564.0,
+        4445.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARRY HARRISON",
+      "texte_balise": "HARRY HARRISON",
+      "bbox": [
+        40.0,
+        4443.1,
+        254.0,
+        4463.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "¡ Galactic",
+      "texte_balise": "¡ Galactic",
+      "bbox": [
+        300.0,
+        4451.0,
+        574.0,
+        4513.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "132 28276 MOZI",
+      "texte_balise": "132 28276 MOZI",
+      "bbox": [
+        792.0,
+        4454.8,
+        864.0,
+        4468.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1320 28276 HO",
+      "texte_balise": "1320 28276 HO",
+      "bbox": [
+        792.0,
+        4455.0,
+        886.0,
+        4469.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Galactic",
+      "texte_balise": "Galactic",
+      "bbox": [
+        328.0,
+        4458.8,
+        576.0,
+        4520.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Adventures of",
+      "texte_balise": "The Adventures of",
+      "bbox": [
+        42.0,
+        4461.0,
+        254.0,
+        4493.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GRAND EPICOF SPACE-ACE",
+      "texte_balise": "THE GRAND EPICOF SPACE-ACE",
+      "bbox": [
+        658.0,
+        4476.8,
+        830.0,
+        4488.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GRAND EPICOF SPACE-AGE",
+      "texte_balise": "THE GRAND EPICOF SPACE-AGE",
+      "bbox": [
+        658.0,
+        4477.0,
+        830.0,
+        4489.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVENTURE ON THE ENDLESS FRONTIER.",
+      "texte_balise": "ADVENTURE ON THE ENDLESS FRONTIER.",
+      "bbox": [
+        634.0,
+        4487.0,
+        860.0,
+        4499.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stainless Steel Rat",
+      "texte_balise": "The Stainless Steel Rat",
+      "bbox": [
+        20.0,
+        4494.8,
+        286.0,
+        4524.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tho Chainloce Chool Dof",
+      "texte_balise": "Tho Chainloce Chool Dof",
+      "bbox": [
+        20.0,
+        4495.0,
+        284.0,
+        4513.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PREMIERE OF THE",
+      "texte_balise": "THE PREMIERE OF THE",
+      "bbox": [
+        682.0,
+        4497.0,
+        808.0,
+        4509.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE WORK IN ONE VOLUME",
+      "texte_balise": "COMPLETE WORK IN ONE VOLUME",
+      "bbox": [
+        650.0,
+        4508.8,
+        840.0,
+        4518.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ICT",
+      "texte_balise": "ICT",
+      "bbox": [
+        326.0,
+        4516.8,
+        434.0,
+        4552.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE DEMU",
+      "texte_balise": "THE DEMU",
+      "bbox": [
+        601.9,
+        4520.1,
+        888.1,
+        4571.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Keith",
+      "texte_balise": "By Keith",
+      "bbox": [
+        443.6,
+        4555.1,
+        564.4,
+        4586.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRILOGY",
+      "texte_balise": "TRILOGY",
+      "bbox": [
+        617.9,
+        4564.2,
+        874.1,
+        4619.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Laumer",
+      "texte_balise": "Laumer",
+      "bbox": [
+        443.8,
+        4577.9,
+        560.2,
+        4605.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAGE A MAN, THE PROUD ENEMY",
+      "texte_balise": "CAGE A MAN, THE PROUD ENEMY",
+      "bbox": [
+        630.0,
+        4614.7,
+        856.0,
+        4630.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the never-before published",
+      "texte_balise": "and the never-before published",
+      "bbox": [
+        650.0,
+        4628.7,
+        836.0,
+        4646.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "END OF THE LINE",
+      "texte_balise": "END OF THE LINE",
+      "bbox": [
+        686.0,
+        4644.7,
+        802.0,
+        4660.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY EM. BUSBY",
+      "texte_balise": "BY EM. BUSBY",
+      "bbox": [
+        664.0,
+        4660.7,
+        824.0,
+        4686.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dange 1967",
+      "texte_balise": "Dange 1967",
+      "bbox": [
+        337.2,
+        4929.4,
+        484.7,
+        4961.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dange",
+      "texte_balise": "Dange",
+      "bbox": [
+        484.0,
+        4930.4,
+        566.0,
+        4952.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1973",
+      "texte_balise": "1973",
+      "bbox": [
+        720.0,
+        4938.4,
+        786.0,
+        4958.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1961",
+      "texte_balise": "1961",
+      "bbox": [
+        120.0,
+        4940.4,
+        178.0,
+        4960.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO THE",
+      "texte_balise": "TO THE",
+      "bbox": [
+        7.6,
+        4969.0,
+        286.4,
+        5043.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "belanine 3004 12",
+      "texte_balise": "belanine 3004 12",
+      "bbox": [
+        462.0,
+        4972.4,
+        528.0,
+        4984.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "From a Million Years in the Future to a Million",
+      "texte_balise": "From a Million Years in the Future to a Million",
+      "bbox": [
+        650.0,
+        4974.4,
+        852.0,
+        4986.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Years in the Past. One Mind to Rule them All.",
+      "texte_balise": "Years in the Past. One Mind to Rule them All.",
+      "bbox": [
+        652.0,
+        4984.4,
+        846.0,
+        4996.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAGUS",
+      "texte_balise": "MAGUS",
+      "bbox": [
+        633.9,
+        4996.1,
+        866.1,
+        5048.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E. HOFFMANN PRICE",
+      "texte_balise": "E. HOFFMANN PRICE",
+      "bbox": [
+        306.0,
+        4996.4,
+        532.0,
+        5018.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPERATION",
+      "texte_balise": "OPERATION",
+      "bbox": [
+        308.0,
+        5032.4,
+        572.0,
+        5084.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STARS",
+      "texte_balise": "STARS",
+      "bbox": [
+        16.0,
+        5042.4,
+        282.0,
+        5120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REX",
+      "texte_balise": "REX",
+      "bbox": [
+        692.0,
+        5046.3,
+        810.0,
+        5104.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MISFIT",
+      "texte_balise": "MISFIT",
+      "bbox": [
+        358.0,
+        5068.3,
+        494.0,
+        5104.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harry Harrison",
+      "texte_balise": "Harry Harrison",
+      "bbox": [
+        86.0,
+        5118.3,
+        214.0,
+        5144.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RODERICK DAVID GARVIN",
+      "texte_balise": "RODERICK DAVID GARVIN",
+      "bbox": [
+        316.0,
+        5394.1,
+        466.0,
+        5406.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAS A DANGEROUS MAVERICK ON",
+      "texte_balise": "WAS A DANGEROUS MAVERICK ON",
+      "bbox": [
+        316.0,
+        5404.1,
+        516.0,
+        5416.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Science Fantasy Novel by",
+      "texte_balise": "A Science Fantasy Novel by",
+      "bbox": [
+        686.0,
+        5408.1,
+        806.0,
+        5420.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EARTH-IMAGINE WHAT HE COULD",
+      "texte_balise": "EARTH-IMAGINE WHAT HE COULD",
+      "bbox": [
+        316.0,
+        5416.0,
+        518.0,
+        5428.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK LOVEJOY",
+      "texte_balise": "JACK LOVEJOY",
+      "bbox": [
+        660.0,
+        5418.0,
+        832.0,
+        5444.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DO WITH A WHOLE NEW WORLD!",
+      "texte_balise": "DO WITH A WHOLE NEW WORLD!",
+      "bbox": [
+        316.0,
+        5426.0,
+        506.0,
+        5440.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1980",
+      "texte_balise": "1980",
+      "bbox": [
+        425.9,
+        5455.7,
+        482.1,
+        5472.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "983",
+      "texte_balise": "983",
+      "bbox": [
+        734.0,
+        5456.0,
+        782.0,
+        5472.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1980",
+      "texte_balise": "1980",
+      "bbox": [
+        122.0,
+        5458.0,
+        180.0,
+        5472.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

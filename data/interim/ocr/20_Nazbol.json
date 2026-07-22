@@ -1,0 +1,839 @@
+{
+  "fichier": "20_Nazbol.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:10.124220+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    1024,
+    800
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 75,
+  "lignes": [
+    {
+      "texte": "Essential National Communist Reading",
+      "texte_balise": "Essential National Communist Reading",
+      "bbox": [
+        96.0,
+        56.0,
+        978.0,
+        100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Communist",
+      "texte_balise": "Communist",
+      "bbox": [
+        101.5,
+        148.8,
+        202.5,
+        189.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rools",
+      "texte_balise": "Rools",
+      "bbox": [
+        348.0,
+        156.0,
+        388.0,
+        172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vijitler",
+      "texte_balise": "Vijitler",
+      "bbox": [
+        396.0,
+        156.0,
+        440.0,
+        170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARXISM",
+      "texte_balise": "MARXISM",
+      "bbox": [
+        604.0,
+        162.0,
+        686.0,
+        174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Josepll",
+      "texte_balise": "Josepll",
+      "bbox": [
+        473.3,
+        169.4,
+        564.5,
+        192.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE",
+      "texte_balise": "AND THE",
+      "bbox": [
+        624.0,
+        178.0,
+        666.0,
+        188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manilesto",
+      "texte_balise": "Manilesto",
+      "bbox": [
+        105.9,
+        187.6,
+        198.1,
+        222.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NATIONAL",
+      "texte_balise": "NATIONAL",
+      "bbox": [
+        606.0,
+        190.0,
+        686.0,
+        202.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAPITAL",
+      "texte_balise": "CAPITAL",
+      "bbox": [
+        233.9,
+        197.6,
+        316.1,
+        216.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "stain",
+      "texte_balise": "stain",
+      "bbox": [
+        474.0,
+        198.0,
+        552.0,
+        218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J. V. STALIN",
+      "texte_balise": "J. V. STALIN",
+      "bbox": [
+        858.0,
+        204.0,
+        908.0,
+        214.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COLONIAL",
+      "texte_balise": "COLONIAL",
+      "bbox": [
+        606.0,
+        220.0,
+        686.0,
+        232.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FOUNDATIONS",
+      "texte_balise": "THE FOUNDATIONS",
+      "bbox": [
+        858.0,
+        222.0,
+        944.0,
+        232.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "main fampr",
+      "texte_balise": "main fampr",
+      "bbox": [
+        329.3,
+        231.4,
+        460.4,
+        320.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIALECTICAL",
+      "texte_balise": "DIALECTICAL",
+      "bbox": [
+        468.0,
+        232.0,
+        542.0,
+        244.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUESTION",
+      "texte_balise": "QUESTION",
+      "bbox": [
+        606.0,
+        240.0,
+        684.0,
+        252.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND HISTORICAL",
+      "texte_balise": "AND HISTORICAL",
+      "bbox": [
+        468.0,
+        246.0,
+        564.0,
+        256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What is Property?",
+      "texte_balise": "What is Property?",
+      "bbox": [
+        724.0,
+        249.8,
+        824.0,
+        270.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARL",
+      "texte_balise": "KARL",
+      "bbox": [
+        250.0,
+        250.0,
+        298.0,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATERIALISM",
+      "texte_balise": "MATERIALISM",
+      "bbox": [
+        466.0,
+        258.0,
+        548.0,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARX",
+      "texte_balise": "MARX",
+      "bbox": [
+        249.8,
+        265.4,
+        300.2,
+        280.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPH STALIN",
+      "texte_balise": "JOSEPH STALIN",
+      "bbox": [
+        604.0,
+        270.0,
+        686.0,
+        280.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre losesh Pron hon",
+      "texte_balise": "Pierre losesh Pron hon",
+      "bbox": [
+        726.0,
+        270.0,
+        818.0,
+        276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARL MARX & FREDERICK ENGELS",
+      "texte_balise": "KARL MARX & FREDERICK ENGELS",
+      "bbox": [
+        99.8,
+        281.7,
+        206.2,
+        294.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Interestional Pastieder",
+      "texte_balise": "Interestional Pastieder",
+      "bbox": [
+        604.0,
+        288.0,
+        686.0,
+        298.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Cher Verlog",
+      "texte_balise": "Cher Verlog",
+      "bbox": [
+        403.9,
+        295.7,
+        446.1,
+        306.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FOURTH",
+      "texte_balise": "THE FOURTH",
+      "bbox": [
+        864.0,
+        336.0,
+        936.0,
+        346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GREATER",
+      "texte_balise": "THE GREATER",
+      "bbox": [
+        474.0,
+        338.0,
+        570.0,
+        352.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Programme",
+      "texte_balise": "The Programme",
+      "bbox": [
+        236.0,
+        344.0,
+        316.0,
+        356.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POLITICAL THEORY",
+      "texte_balise": "POLITICAL THEORY",
+      "bbox": [
+        848.0,
+        346.0,
+        952.0,
+        358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANIFESTO",
+      "texte_balise": "MANIFESTO",
+      "bbox": [
+        102.0,
+        350.0,
+        206.0,
+        364.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRITAIN",
+      "texte_balise": "BRITAIN",
+      "bbox": [
+        472.0,
+        350.0,
+        570.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the NSDAP",
+      "texte_balise": "of the NSDAP",
+      "bbox": [
+        243.9,
+        355.5,
+        310.1,
+        368.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"LEFT-WING\"",
+      "texte_balise": "\"LEFT-WING\"",
+      "bbox": [
+        608.0,
+        362.0,
+        664.0,
+        372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "N.Y",
+      "texte_balise": "N.Y",
+      "bbox": [
+        788.0,
+        368.0,
+        830.0,
+        396.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Sational Sociatist",
+      "texte_balise": "The Sational Sociatist",
+      "bbox": [
+        244.0,
+        370.0,
+        308.0,
+        380.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HISTORY OF",
+      "texte_balise": "A HISTORY OF",
+      "bbox": [
+        360.0,
+        372.0,
+        432.0,
+        384.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMMUNISM",
+      "texte_balise": "COMMUNISM",
+      "bbox": [
+        608.0,
+        372.0,
+        664.0,
+        382.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CENTRAL BANKING",
+      "texte_balise": "CENTRAL BANKING",
+      "bbox": [
+        348.0,
+        384.0,
+        444.0,
+        394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and its Ceneral Coaceptioas",
+      "texte_balise": "and its Ceneral Coaceptioas",
+      "bbox": [
+        236.0,
+        386.0,
+        318.0,
+        396.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adorno",
+      "texte_balise": "Adorno",
+      "bbox": [
+        724.0,
+        396.0,
+        824.0,
+        422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Culture Indestry",
+      "texte_balise": "The Culture Indestry",
+      "bbox": [
+        726.0,
+        430.0,
+        790.0,
+        442.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For The Abolition Of",
+      "texte_balise": "For The Abolition Of",
+      "bbox": [
+        106.0,
+        466.0,
+        200.0,
+        476.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OSWALD MOSLEY",
+      "texte_balise": "OSWALD MOSLEY",
+      "bbox": [
+        470.0,
+        468.0,
+        568.0,
+        484.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEXANDER DUGIN",
+      "texte_balise": "ALEXANDER DUGIN",
+      "bbox": [
+        850.0,
+        474.0,
+        952.0,
+        484.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen Mitford Goodson",
+      "texte_balise": "Stephen Mitford Goodson",
+      "bbox": [
+        350.0,
+        476.0,
+        440.0,
+        486.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "interest slavery",
+      "texte_balise": "interest slavery",
+      "bbox": [
+        114.0,
+        480.0,
+        186.0,
+        486.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        636.0,
+        516.0,
+        664.0,
+        532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BELL CURVE",
+      "texte_balise": "BELL CURVE",
+      "bbox": [
+        597.9,
+        527.7,
+        704.1,
+        554.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANARCHY,",
+      "texte_balise": "ANARCHY,",
+      "bbox": [
+        465.9,
+        533.7,
+        570.1,
+        554.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Matul Ail A Facor",
+      "texte_balise": "Matul Ail A Facor",
+      "bbox": [
+        224.0,
+        538.0,
+        280.0,
+        548.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KIM JONG I1.",
+      "texte_balise": "KIM JONG I1.",
+      "bbox": [
+        868.0,
+        538.0,
+        934.0,
+        548.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANARCHO-FASCISM",
+      "texte_balise": "ANARCHO-FASCISM",
+      "bbox": [
+        348.0,
+        548.0,
+        444.0,
+        558.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intelligence and Class Structure",
+      "texte_balise": "Intelligence and Class Structure",
+      "bbox": [
+        600.0,
+        550.0,
+        700.0,
+        566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STATE,",
+      "texte_balise": "STATE,",
+      "bbox": [
+        486.0,
+        556.0,
+        550.0,
+        578.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in American Life",
+      "texte_balise": "in American Life",
+      "bbox": [
+        624.0,
+        562.0,
+        680.0,
+        572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON THE JUCHE IDEA",
+      "texte_balise": "ON THE JUCHE IDEA",
+      "bbox": [
+        856.0,
+        562.0,
+        944.0,
+        572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hegel",
+      "texte_balise": "Hegel",
+      "bbox": [
+        726.0,
+        578.0,
+        762.0,
+        592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        490.0,
+        582.0,
+        542.0,
+        602.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elements of the",
+      "texte_balise": "Elements of the",
+      "bbox": [
+        726.0,
+        594.0,
+        808.0,
+        606.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UTOPIA",
+      "texte_balise": "UTOPIA",
+      "bbox": [
+        475.8,
+        605.4,
+        554.2,
+        626.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESSENTIAL WORKS OF",
+      "texte_balise": "ESSENTIAL WORKS OF",
+      "bbox": [
+        108.0,
+        608.0,
+        194.0,
+        618.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophy of",
+      "texte_balise": "Philosophy of",
+      "bbox": [
+        726.0,
+        608.0,
+        800.0,
+        620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LENIN",
+      "texte_balise": "LENIN",
+      "bbox": [
+        112.0,
+        620.0,
+        188.0,
+        640.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Right",
+      "texte_balise": "Right",
+      "bbox": [
+        726.0,
+        622.0,
+        758.0,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD J. HERRNSTEIN",
+      "texte_balise": "RICHARD J. HERRNSTEIN",
+      "bbox": [
+        600.0,
+        642.0,
+        702.0,
+        656.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES MURRAY",
+      "texte_balise": "CHARLES MURRAY",
+      "bbox": [
+        609.9,
+        653.6,
+        690.1,
+        670.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Nozick",
+      "texte_balise": "Robert Nozick",
+      "bbox": [
+        474.0,
+        656.0,
+        560.0,
+        672.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "National Communism or 'NazComm' is a communism practiced at a national level. National communism recognises that both globalist capitalism",
+      "texte_balise": "National Communism or 'NazComm' is a communism practiced at a national level. National communism recognises that both globalist capitalism",
+      "bbox": [
+        52.0,
+        694.0,
+        994.0,
+        706.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and international communism aim to destroy traditional proletariat culture. We find our basis in the writings of Marx, Engels, Lenin, Stalin, Kim",
+      "texte_balise": "and international communism aim to destroy traditional proletariat culture. We find our basis in the writings of Marx, Engels, Lenin, Stalin, Kim",
+      "bbox": [
+        58.0,
+        710.0,
+        986.0,
+        726.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Il-Sung, etc. We recognise that a communist revolution will inevitably begin at a national level as a struggle between proletariat and bourgeoisie",
+      "texte_balise": "Il-Sung, etc. We recognise that a communist revolution will inevitably begin at a national level as a struggle between proletariat and bourgeoisie",
+      "bbox": [
+        52.0,
+        728.0,
+        990.0,
+        742.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "made inevitable by the modern conditions of capitalism. National communism recognises that the international bourgeoisie will attempt to destroy",
+      "texte_balise": "made inevitable by the modern conditions of capitalism. National communism recognises that the international bourgeoisie will attempt to destroy",
+      "bbox": [
+        46.0,
+        744.0,
+        998.0,
+        758.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "all attempts at escape from capitalism, therefore, we stress the need for self-sustaining national communes, capable of resisting globalist capital-",
+      "texte_balise": "all attempts at escape from capitalism, therefore, we stress the need for self-sustaining national communes, capable of resisting globalist capital-",
+      "bbox": [
+        46.0,
+        762.0,
+        998.0,
+        776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ist interference. Furthermore, we promote barracks communism to resist any attempted imperialist invasion.",
+      "texte_balise": "ist interference. Furthermore, we promote barracks communism to resist any attempted imperialist invasion.",
+      "bbox": [
+        168.0,
+        778.0,
+        876.0,
+        792.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

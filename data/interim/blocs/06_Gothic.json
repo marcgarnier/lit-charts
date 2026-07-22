@@ -1,0 +1,1407 @@
+{
+  "fichier": "06_Gothic.jpeg",
+  "date": "2026-07-21T19:28:36.403346+00:00",
+  "taille_origine": [
+    833,
+    3980
+  ],
+  "hauteur_ligne_mediane": 12.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 72,
+  "nb_noeuds": 99,
+  "tiers": [
+    "Schehrace",
+    "Gothic",
+    "THE HISTORY OF"
+  ],
+  "intitules_isoles": [
+    "The Castles of",
+    "Horace Walpole",
+    "The Castle of Otranto",
+    "A Sicilian Romance",
+    "hore Long bevel",
+    "Ann Radclitte",
+    "Midnight",
+    "Bell",
+    "Laty Suzan, Ter Worsens and Sanditue",
+    "Gaston de Blondeville",
+    "Confessions of a Justified Sinner",
+    "Dracula",
+    "Sinner",
+    "Emily Bronte",
+    "John Palmer, Jun.",
+    "Peter Teuthold",
+    "Bully Jely Con",
+    "Hounted Costles",
+    "Tie Tan) Maily Mann",
+    "Tie Taểi) Meilly Mann",
+    "The Oxford Book of",
+    "Gothic Tales",
+    "The Oxford Book of Gothic Tales",
+    "Exhuming the Trade",
+    "Franz J. Potter",
+    "Rabert Miles"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        375.5,
+        40.0,
+        459.4,
+        65.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gothic",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        609.3,
+        123.9,
+        729.1,
+        187.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SAMES TITHE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANN RADCLIFFE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Castles of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Athlin and Dunbayne",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        349.6,
+        283.7,
+        425.5,
+        303.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "William Becklord",
+          "auteur": "Vathek",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        97.9,
+        305.7,
+        211.7,
+        327.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Horace Walpole",
+          "auteur": "The Castle of Otranto",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        93.9,
+        389.7,
+        247.7,
+        403.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Castle of Otranto",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        393.5,
+        389.7,
+        447.5,
+        405.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Vathek",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        545.3,
+        389.7,
+        799.0,
+        405.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Castles of Athlin and Dunbayne",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        599.3,
+        451.6,
+        673.2,
+        505.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CASTLE OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WOLFENBACH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ELIZA PARSONS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        347.6,
+        619.4,
+        459.4,
+        639.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ann Radcliffe",
+          "auteur": "The Romance of the Forest",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        99.9,
+        625.4,
+        197.8,
+        647.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ann Radcliffe",
+          "auteur": "A Sicilian Romance",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        643.2,
+        665.4,
+        701.2,
+        675.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "hore Long bevel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        97.9,
+        723.4,
+        233.7,
+        739.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Sicilian Romance",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        321.6,
+        723.4,
+        515.4,
+        739.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Romance of The Forest",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        583.3,
+        723.4,
+        763.1,
+        737.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Castle of Wolfenbach",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.9,
+        947.2,
+        201.8,
+        969.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ann Radclitte",
+          "auteur": "The Mysteries of Udolpho",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        581.3,
+        961.1,
+        665.2,
+        981.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Matthew Lewis",
+          "auteur": "The Monk",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        375.5,
+        977.1,
+        481.4,
+        989.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Mysterious Warning",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        75.9,
+        1039.1,
+        255.7,
+        1055.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Mysteries of Udolpho",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        323.6,
+        1039.1,
+        495.4,
+        1055.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Mysterious Warning",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        627.2,
+        1041.1,
+        697.2,
+        1053.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Monk",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        365.6,
+        1222.7,
+        421.5,
+        1262.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Midnight",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        599.3,
+        1272.7,
+        699.2,
+        1294.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Charles Maturin",
+          "auteur": "Melmoth the Wanderer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        93.9,
+        1274.7,
+        151.8,
+        1292.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An scanel",
+          "auteur": "The Italian",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        355.6,
+        1286.7,
+        417.5,
+        1296.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Francis Lathom",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        359.6,
+        1366.6,
+        485.4,
+        1384.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Midnight Bell",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        133.8,
+        1368.6,
+        209.7,
+        1380.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Italian",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        583.3,
+        1368.6,
+        747.1,
+        1380.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Melmoth the Wanderer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        609.3,
+        1446.5,
+        737.1,
+        1476.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Sasten de Blondeville",
+          "auteur": "ANN RADCUFFE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        345.6,
+        1594.4,
+        403.5,
+        1616.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mary Shelley",
+          "auteur": "Frankenstein",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        97.9,
+        1600.4,
+        221.7,
+        1632.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Jane Austen",
+          "auteur": "Northanger Abbey",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        653.2,
+        1614.4,
+        693.2,
+        1624.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Esena ev",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        627.2,
+        1644.4,
+        719.1,
+        1654.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "VALANCOURT BOOKS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        91.9,
+        1684.3,
+        221.7,
+        1700.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Northanger Abbey",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        369.6,
+        1684.3,
+        461.4,
+        1700.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Frankenstein",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        593.3,
+        1684.3,
+        747.1,
+        1698.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gaston de Blondeville",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        601.3,
+        1908.0,
+        709.1,
+        1930.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Gaston Leroux",
+          "auteur": "The Phantom of the Opera",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        353.6,
+        1910.2,
+        483.4,
+        1942.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "james Hogg",
+          "auteur": "The Private Memoirs and",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        99.9,
+        1914.2,
+        161.8,
+        1934.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Bram Stoker",
+          "auteur": "Dracula",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        135.8,
+        1996.1,
+        191.8,
+        2008.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dracula",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        329.6,
+        1998.1,
+        505.4,
+        2044.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Private Memoirs and",
+          "auteur": "Confessions of a Justified",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        575.3,
+        2004.1,
+        763.1,
+        2020.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Phantom of the Opera",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        379.5,
+        2078.0,
+        465.4,
+        2106.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Ibe",
+          "auteur": "Pecromancer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        605.3,
+        2237.7,
+        687.2,
+        2259.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Emily Bronte",
+          "auteur": "Wuthering Heights",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.9,
+        2243.7,
+        211.7,
+        2269.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Hustic Sepulchre",
+          "auteur": "John Palmer, Jun.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        383.5,
+        2273.7,
+        457.5,
+        2299.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Peter Teuthold",
+          "auteur": "Bully Jely Con",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        83.9,
+        2359.6,
+        237.7,
+        2377.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Mystic Sepulchre",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        341.6,
+        2359.6,
+        469.4,
+        2375.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Necromancer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        605.3,
+        2359.6,
+        739.1,
+        2377.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Wuthering Heights",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        347.5,
+        2445.0,
+        501.5,
+        2476.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Anthologies",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        633.2,
+        2707.3,
+        709.1,
+        2753.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "RAY RUSSELL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hounted Costles",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Crapion Cochir Serine",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "boranel braise seen",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        369.6,
+        2733.3,
+        467.4,
+        2757.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ELIZABETH GASKELL",
+          "auteur": "Gothic Teles",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        101.9,
+        2749.3,
+        227.7,
+        2761.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dracula's Guest and Other Wind Stories",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        85.9,
+        2781.3,
+        257.7,
+        2811.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dracula's Guest",
+          "auteur": "and Other Weird Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        301.6,
+        2781.3,
+        529.4,
+        2799.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ghotic Tales (eLizabeth Gaskell)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        571.3,
+        2781.3,
+        777.1,
+        2813.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Haunted Castles",
+          "auteur": "The Complete Gothic Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        87.9,
+        2887.2,
+        247.7,
+        2981.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Complete Stories and Poems of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EDGAR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ALLAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        595.1,
+        2914.6,
+        751.3,
+        2987.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Gothic",
+          "auteur": "Short Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Schehrace",
+      "bbox": [
+        393.5,
+        3042.9,
+        487.4,
+        3077.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Schubrace",
+          "auteur": null,
+          "tier": "Schehrace"
+        },
+        {
+          "titre": "Tie Tan) Maily Mann",
+          "auteur": null,
+          "tier": "Schehrace"
+        },
+        {
+          "titre": "Tie Taểi) Meilly Mann",
+          "auteur": null,
+          "tier": "Schehrace"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        73.9,
+        3142.7,
+        259.7,
+        3174.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Edgar Allan Poe",
+          "auteur": "(any complete anthology)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        295.6,
+        3142.7,
+        537.4,
+        3174.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Schabraco and other Gothic Tales",
+          "auteur": "from the Ladies' Monthly Museum",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        597.3,
+        3142.7,
+        739.1,
+        3156.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gothic Short Stories",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        337.6,
+        3272.6,
+        417.5,
+        3284.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Oxford Book of",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        337.6,
+        3326.6,
+        403.5,
+        3336.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gothic Tales",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        303.6,
+        3472.5,
+        529.4,
+        3486.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Oxford Book of Gothic Tales",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        321.6,
+        3532.4,
+        525.4,
+        3554.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Books on Gothic",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Gothic",
+      "bbox": [
+        625.3,
+        3639.7,
+        720.7,
+        3738.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "writing",
+          "auteur": null,
+          "tier": "Gothic"
+        },
+        {
+          "titre": "1750-1820",
+          "auteur": null,
+          "tier": "Gothic"
+        },
+        {
+          "titre": "A GENEALOGY",
+          "auteur": null,
+          "tier": "Gothic"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        357.6,
+        3668.3,
+        475.4,
+        3746.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "tated by",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ruth Robbins and Jollan Wolfreys",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VICTORIAN GOTHIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Literary and Cultural",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Manifestations in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Nineteenth Century",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE HISTORY OF",
+      "bbox": [
+        89.9,
+        3790.2,
+        243.7,
+        3864.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "GOTHIC PUBLISHING,",
+          "auteur": null,
+          "tier": "THE HISTORY OF"
+        },
+        {
+          "titre": "1800-1835",
+          "auteur": null,
+          "tier": "THE HISTORY OF"
+        },
+        {
+          "titre": "Exhuming the Trade",
+          "auteur": null,
+          "tier": "THE HISTORY OF"
+        },
+        {
+          "titre": "Franz J. Potter",
+          "auteur": null,
+          "tier": "THE HISTORY OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        647.2,
+        3860.1,
+        699.2,
+        3872.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Rabert Miles",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        343.6,
+        3910.1,
+        491.4,
+        3978.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Victorian Gothic",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Literary and Cultural",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Manifestation in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Nineteenth Century",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        631.2,
+        3910.1,
+        733.1,
+        3940.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Gothic Writing",
+          "auteur": "1750-1820",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        87.9,
+        3912.1,
+        229.7,
+        3960.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The History",
+          "auteur": "of Gothic Publishing",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

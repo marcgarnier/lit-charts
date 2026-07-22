@@ -1,0 +1,916 @@
+{
+  "fichier": "09_Brazilian.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:15.140094+00:00",
+  "duree_s": 1.1,
+  "taille_origine": [
+    1452,
+    2297
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 82,
+  "lignes": [
+    {
+      "texte": "/lit/ Brazilian literature classics",
+      "texte_balise": "/lit/ Brazilian literature classics",
+      "bbox": [
+        386.2,
+        25.0,
+        1032.0,
+        71.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Memórias",
+      "texte_balise": "Memórias",
+      "bbox": [
+        631.0,
+        166.6,
+        704.9,
+        185.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Postumas de",
+      "texte_balise": "Postumas de",
+      "bbox": [
+        660.6,
+        185.6,
+        755.5,
+        200.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brás Cubas",
+      "texte_balise": "Brás Cubas",
+      "bbox": [
+        630.9,
+        202.1,
+        715.5,
+        221.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOM",
+      "texte_balise": "DOM",
+      "bbox": [
+        1219.8,
+        221.5,
+        1274.7,
+        246.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machado de Assis",
+      "texte_balise": "Machado de Assis",
+      "bbox": [
+        650.0,
+        223.6,
+        738.7,
+        236.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AVA PARA CORDIC",
+      "texte_balise": "AVA PARA CORDIC",
+      "bbox": [
+        662.7,
+        238.4,
+        726.0,
+        253.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CASMURRO",
+      "texte_balise": "CASMURRO",
+      "bbox": [
+        1177.5,
+        244.2,
+        1317.0,
+        274.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JOÃO",
+      "texte_balise": "JOÃO",
+      "bbox": [
+        69.6,
+        250.9,
+        160.4,
+        276.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GOIMARÃES ROSA",
+      "texte_balise": "GOIMARÃES ROSA",
+      "bbox": [
+        57.0,
+        273.8,
+        263.8,
+        318.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GRANDE",
+      "texte_balise": "GRANDE",
+      "bbox": [
+        61.2,
+        316.3,
+        213.2,
+        346.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SERIAO: VEREDAS",
+      "texte_balise": "SERIAO: VEREDAS",
+      "bbox": [
+        54.9,
+        345.7,
+        215.3,
+        379.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MACHADO DE ASSIS",
+      "texte_balise": "MACHADO DE ASSIS",
+      "bbox": [
+        1137.5,
+        371.3,
+        1308.5,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OREWONG BY ROTABETH HARDWICI",
+      "texte_balise": "OREWONG BY ROTABETH HARDWICI",
+      "bbox": [
+        1162.9,
+        387.7,
+        1281.1,
+        394.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dom Casmurro",
+      "texte_balise": "Dom Casmurro",
+      "bbox": [
+        1129.1,
+        417.7,
+        1272.6,
+        438.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Posthumous Memoirs of Bras Cubas",
+      "texte_balise": "The Posthumous Memoirs of Bras Cubas",
+      "bbox": [
+        496.0,
+        419.7,
+        875.8,
+        440.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil to Pay in the Backlands",
+      "texte_balise": "The Devil to Pay in the Backlands",
+      "bbox": [
+        12.7,
+        425.7,
+        331.3,
+        451.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machado de Assis",
+      "texte_balise": "Machado de Assis",
+      "bbox": [
+        1131.2,
+        440.7,
+        1257.8,
+        457.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machado de Assis",
+      "texte_balise": "Machado de Assis",
+      "bbox": [
+        496.0,
+        444.7,
+        624.7,
+        459.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "João Guimarães Rosa",
+      "texte_balise": "João Guimarães Rosa",
+      "bbox": [
+        14.8,
+        451.4,
+        170.9,
+        466.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OATENEU",
+      "texte_balise": "OATENEU",
+      "bbox": [
+        80.2,
+        569.6,
+        234.3,
+        594.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARIO DE ANDRADE",
+      "texte_balise": "MARIO DE ANDRADE",
+      "bbox": [
+        612.0,
+        582.2,
+        698.6,
+        592.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Raul Pompeia",
+      "texte_balise": "Raul Pompeia",
+      "bbox": [
+        82.3,
+        592.5,
+        171.0,
+        609.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MACUNAIMA",
+      "texte_balise": "MACUNAIMA",
+      "bbox": [
+        561.4,
+        626.5,
+        751.3,
+        651.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O REBOI SEM NENHUM CARATER",
+      "texte_balise": "O REBOI SEM NENHUM CARATER",
+      "bbox": [
+        586.7,
+        651.5,
+        723.9,
+        662.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vidas socas",
+      "texte_balise": "Vidas socas",
+      "bbox": [
+        1226.2,
+        656.0,
+        1287.4,
+        666.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Macunaima",
+      "texte_balise": "Macunaima",
+      "bbox": [
+        588.8,
+        820.5,
+        696.5,
+        843.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barren Lives",
+      "texte_balise": "Barren Lives",
+      "bbox": [
+        1162.7,
+        836.6,
+        1281.2,
+        859.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Athenaeum: a Novel",
+      "texte_balise": "The Athenaeum: a Novel",
+      "bbox": [
+        48.5,
+        841.3,
+        284.9,
+        862.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mário de Andrade",
+      "texte_balise": "Mário de Andrade",
+      "bbox": [
+        586.7,
+        845.9,
+        717.6,
+        862.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graciliano Ramos",
+      "texte_balise": "Graciliano Ramos",
+      "bbox": [
+        1165.0,
+        862.3,
+        1289.5,
+        877.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Raul Pompeia",
+      "texte_balise": "Raul Pompeia",
+      "bbox": [
+        48.5,
+        867.0,
+        147.7,
+        884.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JORGE",
+      "texte_balise": "JORGE",
+      "bbox": [
+        63.2,
+        948.9,
+        238.6,
+        1004.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMADO",
+      "texte_balise": "AMADO",
+      "bbox": [
+        62.9,
+        1004.4,
+        247.4,
+        1054.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JORGE AMADO",
+      "texte_balise": "JORGE AMADO",
+      "bbox": [
+        552.9,
+        1046.2,
+        757.7,
+        1074.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capitães",
+      "texte_balise": "Capitães",
+      "bbox": [
+        80.1,
+        1055.4,
+        217.5,
+        1104.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Capitaes",
+      "texte_balise": "Capitaes",
+      "bbox": [
+        80.1,
+        1056.4,
+        217.5,
+        1103.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clarice",
+      "texte_balise": "Clarice",
+      "bbox": [
+        1270.5,
+        1089.4,
+        1306.4,
+        1100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clanca",
+      "texte_balise": "Clanca",
+      "bbox": [
+        1270.5,
+        1090.6,
+        1304.3,
+        1096.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "da Arela",
+      "texte_balise": "da Arela",
+      "bbox": [
+        86.4,
+        1098.5,
+        211.2,
+        1135.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lispector",
+      "texte_balise": "Lispector",
+      "bbox": [
+        1259.9,
+        1099.0,
+        1306.4,
+        1111.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dd Arela",
+      "texte_balise": "dd Arela",
+      "bbox": [
+        86.5,
+        1099.9,
+        211.1,
+        1136.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1264.2,
+        1124.4,
+        1306.4,
+        1143.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Passion",
+      "texte_balise": "Passion",
+      "bbox": [
+        1226.1,
+        1143.1,
+        1306.4,
+        1164.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "According",
+      "texte_balise": "According",
+      "bbox": [
+        1200.8,
+        1166.1,
+        1306.5,
+        1190.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to G.H.",
+      "texte_balise": "to G.H.",
+      "bbox": [
+        1236.7,
+        1187.6,
+        1308.5,
+        1209.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Captains of the Sands",
+      "texte_balise": "Captains of the Sands",
+      "bbox": [
+        50.7,
+        1229.8,
+        259.6,
+        1255.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Two Deaths of Quincas Wateryell",
+      "texte_balise": "The Two Deaths of Quincas Wateryell",
+      "bbox": [
+        498.1,
+        1234.0,
+        854.7,
+        1257.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Passion According to G.H.",
+      "texte_balise": "The Passion According to G.H.",
+      "bbox": [
+        1086.9,
+        1238.0,
+        1373.9,
+        1264.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jorge Amado",
+      "texte_balise": "Jorge Amado",
+      "bbox": [
+        48.5,
+        1254.9,
+        147.8,
+        1272.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jorge Amado",
+      "texte_balise": "Jorge Amado",
+      "bbox": [
+        498.0,
+        1256.6,
+        597.4,
+        1274.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clarice Lispector",
+      "texte_balise": "Clarice Lispector",
+      "bbox": [
+        1089.0,
+        1263.6,
+        1207.2,
+        1278.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time and",
+      "texte_balise": "Time and",
+      "bbox": [
+        1162.5,
+        1340.7,
+        1311.0,
+        1374.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U",
+      "texte_balise": "U",
+      "bbox": [
+        141.4,
+        1363.9,
+        156.2,
+        1389.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "the Wind",
+      "texte_balise": "the Wind",
+      "bbox": [
+        1166.7,
+        1379.0,
+        1308.9,
+        1414.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORTIÇO",
+      "texte_balise": "CORTIÇO",
+      "bbox": [
+        109.7,
+        1401.9,
+        189.9,
+        1435.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AZEVEDO",
+      "texte_balise": "AZEVEDO",
+      "bbox": [
+        107.6,
+        1499.0,
+        189.9,
+        1530.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Verissimo. Erico",
+      "texte_balise": "Verissimo. Erico",
+      "bbox": [
+        1198.7,
+        1530.7,
+        1274.7,
+        1541.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sad End of Policarpo Quaresme",
+      "texte_balise": "The Sad End of Policarpo Quaresme",
+      "bbox": [
+        601.5,
+        1579.0,
+        738.7,
+        1594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Note: This is nee the actual book cone:",
+      "texte_balise": "Note: This is nee the actual book cone:",
+      "bbox": [
+        1205.1,
+        1594.0,
+        1327.5,
+        1605.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time and the Wind",
+      "texte_balise": "Time and the Wind",
+      "bbox": [
+        1129.1,
+        1632.0,
+        1310.6,
+        1653.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Slum",
+      "texte_balise": "The Slum",
+      "bbox": [
+        97.0,
+        1635.9,
+        187.9,
+        1657.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sad End of Policarpo Quaresma",
+      "texte_balise": "The Sad End of Policarpo Quaresma",
+      "bbox": [
+        506.5,
+        1636.0,
+        848.4,
+        1659.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Erico Verissimo",
+      "texte_balise": "Erico Verissimo",
+      "bbox": [
+        1129.1,
+        1657.0,
+        1241.0,
+        1670.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aluísio Azevedo",
+      "texte_balise": "Aluísio Azevedo",
+      "bbox": [
+        99.2,
+        1659.0,
+        213.2,
+        1674.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lima Barreto",
+      "texte_balise": "Lima Barreto",
+      "bbox": [
+        506.5,
+        1659.0,
+        599.4,
+        1674.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The following three books contain severe wordplay or creation of entire dialects which get lost in translation",
+      "texte_balise": "The following three books contain severe wordplay or creation of entire dialects which get lost in translation",
+      "bbox": [
+        18.9,
+        1757.7,
+        1034.2,
+        1786.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OSWALDDE",
+      "texte_balise": "OSWALDDE",
+      "bbox": [
+        614.1,
+        1870.2,
+        728.2,
+        1892.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANDRADE",
+      "texte_balise": "ANDRADE",
+      "bbox": [
+        614.0,
+        1897.3,
+        728.2,
+        1919.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Corer sonares",
+      "texte_balise": "Corer sonares",
+      "bbox": [
+        622.6,
+        1923.0,
+        715.4,
+        1936.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JUAURIST",
+      "texte_balise": "JUAURIST",
+      "bbox": [
+        46.4,
+        2014.1,
+        238.5,
+        2081.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CARLOS DRUMMOND",
+      "texte_balise": "CARLOS DRUMMOND",
+      "bbox": [
+        1118.5,
+        2047.9,
+        1312.7,
+        2073.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE ANDRADE",
+      "texte_balise": "DE ANDRADE",
+      "bbox": [
+        1118.5,
+        2070.9,
+        1241.0,
+        2096.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HU MARRES",
+      "texte_balise": "HU MARRES",
+      "bbox": [
+        48.5,
+        2071.0,
+        164.6,
+        2088.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• SAGARANA",
+      "texte_balise": "• SAGARANA",
+      "bbox": [
+        69.4,
+        2093.8,
+        247.1,
+        2162.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SERAFIM PONTE GRANDE",
+      "texte_balise": "SERAFIM PONTE GRANDE",
+      "bbox": [
+        595.2,
+        2126.0,
+        747.1,
+        2137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sagarana",
+      "texte_balise": "Sagarana",
+      "bbox": [
+        45.9,
+        2193.3,
+        137.4,
+        2215.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Serafim Ponde Grande",
+      "texte_balise": "Serafim Ponde Grande",
+      "bbox": [
+        561.4,
+        2204.0,
+        776.7,
+        2225.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multitudinous Heart: Selected Poems",
+      "texte_balise": "Multitudinous Heart: Selected Poems",
+      "bbox": [
+        1057.3,
+        2212.6,
+        1405.6,
+        2234.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "João Guimarães Rosa",
+      "texte_balise": "João Guimarães Rosa",
+      "bbox": [
+        46.4,
+        2214.7,
+        202.6,
+        2229.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oswald de Andrade",
+      "texte_balise": "Oswald de Andrade",
+      "bbox": [
+        563.5,
+        2227.0,
+        704.9,
+        2244.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carlos Drummond de Andrade",
+      "texte_balise": "Carlos Drummond de Andrade",
+      "bbox": [
+        1059.5,
+        2235.8,
+        1278.9,
+        2253.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

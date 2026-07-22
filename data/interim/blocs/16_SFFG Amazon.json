@@ -1,0 +1,579 @@
+{
+  "fichier": "16_SFFG Amazon.jpeg",
+  "date": "2026-07-21T19:28:36.607531+00:00",
+  "taille_origine": [
+    2000,
+    3000
+  ],
+  "hauteur_ligne_mediane": 32.3,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 29,
+  "nb_noeuds": 41,
+  "tiers": [
+    "MARTHA",
+    "HOUSE OF",
+    "Neven Iliev",
+    "WILL",
+    "WE ARE"
+  ],
+  "intitules_isoles": [
+    "Book 1: Ascension",
+    "Neven Iliev"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        191.9,
+        83.9,
+        1755.8,
+        211.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SELF PUBLISHED SFFG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        130.8,
+        289.7,
+        1860.5,
+        426.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PICKS FROM AMAZON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.4,
+        639.7,
+        305.5,
+        725.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CULTIVATING",
+          "auteur": "CHAOS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1293.5,
+        657.6,
+        1537.9,
+        754.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Trysmoon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ascension",
+          "auteur": "Book 1",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        533.3,
+        658.3,
+        758.3,
+        700.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILL WIGHT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        319.8,
+        672.7,
+        398.3,
+        695.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BILVERSE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "MARTHA",
+      "bbox": [
+        895.3,
+        933.6,
+        1142.4,
+        1070.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "WELLS",
+          "auteur": null,
+          "tier": "MARTHA"
+        },
+        {
+          "titre": "ALL SYSTEMS RED",
+          "auteur": null,
+          "tier": "MARTHA"
+        },
+        {
+          "titre": "THE MURDERBOT DIARIES",
+          "auteur": null,
+          "tier": "MARTHA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1657.0,
+        936.5,
+        1930.2,
+        968.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FIMBULWINTER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HOUSE OF",
+      "bbox": [
+        520.2,
+        970.6,
+        770.5,
+        1087.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BLADES",
+          "auteur": null,
+          "tier": "HOUSE OF"
+        },
+        {
+          "titre": "THE TRAVELER'S GATE TRILOGY I BOOK ONE",
+          "auteur": null,
+          "tier": "HOUSE OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1657.0,
+        1017.7,
+        1869.2,
+        1044.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "E. WILLIAM BROWN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1351.7,
+        1049.6,
+        1485.5,
+        1073.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Brian K. Fuller",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        168.6,
+        1072.8,
+        398.3,
+        1099.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILLIAM D. ARAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Neven Iliev",
+      "bbox": [
+        1283.3,
+        1209.0,
+        1561.0,
+        1319.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Morning wood",
+          "auteur": null,
+          "tier": "Neven Iliev"
+        },
+        {
+          "titre": "EVERYBODY LOVES LARGE CHESTS",
+          "auteur": null,
+          "tier": "Neven Iliev"
+        },
+        {
+          "titre": "vol.1",
+          "auteur": null,
+          "tier": "Neven Iliev"
+        }
+      ]
+    },
+    {
+      "tier": "WILL",
+      "bbox": [
+        921.5,
+        1212.2,
+        1197.7,
+        1358.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WIGHT",
+          "auteur": null,
+          "tier": "WILL"
+        },
+        {
+          "titre": "AUTHOR OF HOUSE OF BLADES",
+          "auteur": null,
+          "tier": "WILL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1668.6,
+        1264.5,
+        1913.2,
+        1385.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The (sort off",
+          "auteur": "Dark Mage",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        180.2,
+        1278.9,
+        316.9,
+        1317.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ASTES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        587.2,
+        1476.7,
+        819.8,
+        1529.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DUNGEON BORN",
+          "auteur": "The Divine Dungeon.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        912.8,
+        1598.8,
+        1209.3,
+        1672.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNSOULED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VOLUME ONE",
+          "auteur": "CRADLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1648.3,
+        1607.6,
+        1933.1,
+        1640.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Nelson Chereta",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        241.3,
+        1625.0,
+        418.6,
+        1677.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Witten by",
+          "auteur": "Rand Darren",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1296.5,
+        1747.0,
+        1546.5,
+        1779.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RANDI DARREN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WE ARE",
+      "bbox": [
+        1700.4,
+        1754.9,
+        1869.4,
+        1863.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LEGION",
+          "auteur": null,
+          "tier": "WE ARE"
+        },
+        {
+          "titre": "(WE ARE BOB)",
+          "auteur": null,
+          "tier": "WE ARE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        113.4,
+        1755.8,
+        395.3,
+        1808.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Demons of Astlan",
+          "auteur": "MONAL INTO THE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        500.0,
+        1834.3,
+        822.7,
+        1886.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONTRACTOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        909.9,
+        2020.0,
+        1203.5,
+        2211.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SUPER SALES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SUPER HEROES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WILLIAM D. ARAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1276.2,
+        2107.0,
+        1569.8,
+        2200.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FOSTERING",
+          "auteur": "FAUST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1659.9,
+        2158.7,
+        1918.6,
+        2199.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DENNIS E. TAYLOR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        107.6,
+        2187.7,
+        279.1,
+        2217.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "J.L. Langland",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        534.9,
+        2196.7,
+        796.5,
+        2228.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANDREW S. BALL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

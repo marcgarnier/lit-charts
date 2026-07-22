@@ -1,0 +1,1609 @@
+{
+  "fichier": "07_Dune.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:11.094696+00:00",
+  "duree_s": 1.8,
+  "taille_origine": [
+    1144,
+    2560
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 145,
+  "lignes": [
+    {
+      "texte": "HOW SHOULD I READ THE",
+      "texte_balise": "HOW SHOULD I READ THE",
+      "bbox": [
+        12.0,
+        24.0,
+        610.9,
+        84.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greetings, friend. Looks",
+      "texte_balise": "Greetings, friend. Looks",
+      "bbox": [
+        721.5,
+        25.0,
+        1089.6,
+        65.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "like you're wondering how",
+      "texte_balise": "like you're wondering how",
+      "bbox": [
+        698.5,
+        62.8,
+        1108.4,
+        103.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        125.1,
+        86.6,
+        514.9,
+        212.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "exactly you should tackle",
+      "texte_balise": "exactly you should tackle",
+      "bbox": [
+        711.1,
+        106.7,
+        1098.0,
+        144.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "one of the most revered",
+      "texte_balise": "one of the most revered",
+      "bbox": [
+        723.6,
+        148.6,
+        1085.4,
+        180.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sci-fi series of all time. This",
+      "texte_balise": "sci-fi series of all time. This",
+      "bbox": [
+        694.2,
+        186.0,
+        1114.9,
+        224.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SERIES?",
+      "texte_balise": "SERIES?",
+      "bbox": [
+        236.2,
+        219.3,
+        412.1,
+        268.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "guide should clear things up.",
+      "texte_balise": "guide should clear things up.",
+      "bbox": [
+        683.9,
+        232.0,
+        1129.4,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTION 1: The Sampler",
+      "texte_balise": "OPTION 1: The Sampler",
+      "bbox": [
+        62.7,
+        303.0,
+        359.7,
+        333.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "You keep hearing about how great this 'Dune' thing is, you're vaguely aware David Lynch made a movie out of it.",
+      "texte_balise": "You keep hearing about how great this 'Dune' thing is, you're vaguely aware David Lynch made a movie out of it.",
+      "bbox": [
+        62.7,
+        328.6,
+        1029.0,
+        354.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "You've heard the Litany Against Fear. You're probably turned off by sci-fi, but you'll give this one a chance.",
+      "texte_balise": "You've heard the Litany Against Fear. You're probably turned off by sci-fi, but you'll give this one a chance.",
+      "bbox": [
+        62.7,
+        353.7,
+        983.0,
+        377.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sequels generally suck anyways, right? Recommended for those who don't want shit to get too weird.",
+      "texte_balise": "Sequels generally suck anyways, right? Recommended for those who don't want shit to get too weird.",
+      "bbox": [
+        62.7,
+        376.7,
+        1024.8,
+        400.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        66.9,
+        439.5,
+        196.6,
+        485.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        64.8,
+        485.6,
+        194.5,
+        504.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTION 2: Muad'Dib's Story",
+      "texte_balise": "OPTION 2: Muad'Dib's Story",
+      "bbox": [
+        62.7,
+        655.0,
+        453.8,
+        691.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "So you've just finished Dune and you enjoyed it. Or you at least like Paul as a character and you wanna see how",
+      "texte_balise": "So you've just finished Dune and you enjoyed it. Or you at least like Paul as a character and you wanna see how",
+      "bbox": [
+        62.7,
+        694.9,
+        1041.5,
+        718.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that plays out. Luckily Messiah exists, and it's damn short. Short enough that you can consider it a 'Book 4', an",
+      "texte_balise": "that plays out. Luckily Messiah exists, and it's damn short. Short enough that you can consider it a 'Book 4', an",
+      "bbox": [
+        60.7,
+        717.9,
+        1037.3,
+        745.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "epilogue to the events of Dune. Read together, these two books make a fantastic, mostly-contained story. If you",
+      "texte_balise": "epilogue to the events of Dune. Read together, these two books make a fantastic, mostly-contained story. If you",
+      "bbox": [
+        62.7,
+        743.0,
+        1039.4,
+        768.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wanna stop, this is a great point. There's no telling whether you'll love or hate what comes next.",
+      "texte_balise": "wanna stop, this is a great point. There's no telling whether you'll love or hate what comes next.",
+      "bbox": [
+        62.7,
+        768.0,
+        905.6,
+        791.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended for everyone who read Dune and knew they weren't in it for the long run.",
+      "texte_balise": "Recommended for everyone who read Dune and knew they weren't in it for the long run.",
+      "bbox": [
+        62.7,
+        791.0,
+        985.1,
+        816.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        66.7,
+        861.7,
+        196.8,
+        909.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        231.7,
+        867.4,
+        362.2,
+        915.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        64.8,
+        906.0,
+        192.4,
+        925.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MESSIAL",
+      "texte_balise": "MESSIAL",
+      "bbox": [
+        236.3,
+        916.5,
+        357.7,
+        944.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        232.1,
+        944.0,
+        361.8,
+        963.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTION 3: The Golden Path",
+      "texte_balise": "OPTION 3: The Golden Path",
+      "bbox": [
+        62.7,
+        1082.0,
+        445.5,
+        1113.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There is no reason to actually read Children of Dune unless you're gearing up for The Big One:",
+      "texte_balise": "There is no reason to actually read Children of Dune unless you're gearing up for The Big One:",
+      "bbox": [
+        62.7,
+        1117.7,
+        978.8,
+        1143.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God Emperor. Widely considered almost as good as Dune (and many would say even better,",
+      "texte_balise": "God Emperor. Widely considered almost as good as Dune (and many would say even better,",
+      "bbox": [
+        62.7,
+        1144.9,
+        955.8,
+        1170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "making it the true masterpiece of the series), anyone with a high tolerance for weird shit should go",
+      "texte_balise": "making it the true masterpiece of the series), anyone with a high tolerance for weird shit should go",
+      "bbox": [
+        62.7,
+        1170.0,
+        1016.4,
+        1197.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "this route. You're not really going to understand what's going on, and that's okay. Just trust me, it's",
+      "texte_balise": "this route. You're not really going to understand what's going on, and that's okay. Just trust me, it's",
+      "bbox": [
+        62.7,
+        1197.0,
+        1024.8,
+        1222.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "worth struggling through Children. It's important. It's not that good, but it's important.",
+      "texte_balise": "worth struggling through Children. It's important. It's not that good, but it's important.",
+      "bbox": [
+        62.7,
+        1222.0,
+        911.9,
+        1250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended for EVERYONE who has enough time to waste to read four books of genre fiction.",
+      "texte_balise": "Recommended for EVERYONE who has enough time to waste to read four books of genre fiction.",
+      "bbox": [
+        62.7,
+        1249.5,
+        1068.7,
+        1273.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE CLIMAX OF THE DUNE TRILOGY",
+      "texte_balise": "HE CLIMAX OF THE DUNE TRILOGY",
+      "bbox": [
+        416.2,
+        1295.6,
+        539.6,
+        1304.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DUNE",
+      "texte_balise": "THE DUNE",
+      "bbox": [
+        468.5,
+        1295.8,
+        508.2,
+        1306.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHILDREN OF",
+      "texte_balise": "CHILDREN OF",
+      "bbox": [
+        409.9,
+        1304.0,
+        537.5,
+        1323.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ф",
+      "texte_balise": "Ф",
+      "bbox": [
+        234.2,
+        1306.0,
+        253.1,
+        1316.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "GOD EMPEROR",
+      "texte_balise": "GOD EMPEROR",
+      "bbox": [
+        591.9,
+        1314.0,
+        719.4,
+        1337.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0 EMPEROR",
+      "texte_balise": "0 EMPEROR",
+      "bbox": [
+        612.7,
+        1314.4,
+        719.5,
+        1338.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        409.9,
+        1320.7,
+        543.8,
+        1364.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        66.9,
+        1324.9,
+        196.6,
+        1370.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        231.8,
+        1330.3,
+        362.1,
+        1380.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORDUNE",
+      "texte_balise": "ORDUNE",
+      "bbox": [
+        617.0,
+        1335.3,
+        717.4,
+        1368.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SOUNE",
+      "texte_balise": "SOUNE",
+      "bbox": [
+        619.1,
+        1335.6,
+        717.4,
+        1371.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        409.9,
+        1364.7,
+        541.7,
+        1383.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK",
+      "texte_balise": "FRANK",
+      "bbox": [
+        652.5,
+        1368.8,
+        709.0,
+        1394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        66.9,
+        1369.0,
+        194.5,
+        1388.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRANK HERBERT",
+      "texte_balise": "PRANK HERBERT",
+      "bbox": [
+        64.8,
+        1370.9,
+        192.4,
+        1388.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MESSIAH",
+      "texte_balise": "MESSIAH",
+      "bbox": [
+        232.1,
+        1377.4,
+        359.7,
+        1406.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MESSIAN",
+      "texte_balise": "MESSIAN",
+      "bbox": [
+        234.2,
+        1379.3,
+        361.8,
+        1406.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERBERT",
+      "texte_balise": "HERBERT",
+      "bbox": [
+        642.1,
+        1387.7,
+        715.3,
+        1408.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERBER!",
+      "texte_balise": "HERBER!",
+      "bbox": [
+        642.0,
+        1389.6,
+        713.3,
+        1409.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        232.1,
+        1406.5,
+        361.8,
+        1425.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTION 4: I Love Frank Herbert",
+      "texte_balise": "OPTION 4: I Love Frank Herbert",
+      "bbox": [
+        64.8,
+        1553.0,
+        506.1,
+        1585.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "It's clear you're really into Dune at this point. You know the quality drops off fairly significantly after",
+      "texte_balise": "It's clear you're really into Dune at this point. You know the quality drops off fairly significantly after",
+      "bbox": [
+        62.7,
+        1590.9,
+        1037.3,
+        1618.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God Emperor, right? I mean, it's still written by Frank, so it's not too bad. Above-average. They aren't",
+      "texte_balise": "God Emperor, right? I mean, it's still written by Frank, so it's not too bad. Above-average. They aren't",
+      "bbox": [
+        62.6,
+        1612.4,
+        1047.9,
+        1649.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "going to make you question the entire series' quality retroactively, or anything. But you're setting",
+      "texte_balise": "going to make you question the entire series' quality retroactively, or anything. But you're setting",
+      "bbox": [
+        62.7,
+        1643.0,
+        1001.8,
+        1670.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "yourself up for disappointment if only because Chapterhouse ends on a pretty big cliffhanger, and",
+      "texte_balise": "yourself up for disappointment if only because Chapterhouse ends on a pretty big cliffhanger, and",
+      "bbox": [
+        62.7,
+        1670.0,
+        1010.1,
+        1698.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frank Herbert died before he could finish the next book. But you know that at this point, don't you?",
+      "texte_balise": "Frank Herbert died before he could finish the next book. But you know that at this point, don't you?",
+      "bbox": [
+        62.7,
+        1697.7,
+        1029.0,
+        1723.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended for those who like and respect Dune and are okay with loose ends.",
+      "texte_balise": "Recommended for those who like and respect Dune and are okay with loose ends.",
+      "bbox": [
+        62.7,
+        1724.9,
+        995.5,
+        1750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE CLIMAX OF THE DUNE",
+      "texte_balise": "HE CLIMAX OF THE DUNE",
+      "bbox": [
+        414.1,
+        1762.6,
+        504.0,
+        1771.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHAPTERHOUSE:",
+      "texte_balise": "CHAPTERHOUSE:",
+      "bbox": [
+        943.2,
+        1768.5,
+        1066.7,
+        1792.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHILDREN OF",
+      "texte_balise": "CHILDREN OF",
+      "bbox": [
+        409.9,
+        1770.9,
+        537.5,
+        1790.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERETICS",
+      "texte_balise": "HERETICS",
+      "bbox": [
+        761.2,
+        1774.7,
+        874.3,
+        1798.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CEDAN UNT",
+      "texte_balise": "CEDAN UNT",
+      "bbox": [
+        73.2,
+        1779.0,
+        108.8,
+        1786.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1 EMPEROR",
+      "texte_balise": "1 EMPEROR",
+      "bbox": [
+        617.0,
+        1781.0,
+        719.4,
+        1804.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        409.9,
+        1787.7,
+        543.8,
+        1831.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        939.0,
+        1789.8,
+        1062.4,
+        1833.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        66.9,
+        1791.9,
+        196.6,
+        1837.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF DUNE",
+      "texte_balise": "OF DUNE",
+      "bbox": [
+        771.6,
+        1795.5,
+        866.0,
+        1819.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        231.8,
+        1797.3,
+        362.1,
+        1847.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OFDUNE",
+      "texte_balise": "OFDUNE",
+      "bbox": [
+        621.1,
+        1802.3,
+        717.4,
+        1833.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PRANK",
+      "texte_balise": "PRANK",
+      "bbox": [
+        792.6,
+        1819.1,
+        851.2,
+        1835.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERBERT",
+      "texte_balise": "HERBERT",
+      "bbox": [
+        775.9,
+        1829.4,
+        865.9,
+        1852.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        409.9,
+        1831.6,
+        541.7,
+        1850.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK",
+      "texte_balise": "FRANK",
+      "bbox": [
+        652.5,
+        1835.8,
+        711.1,
+        1858.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRANK HERBERT",
+      "texte_balise": "PRANK HERBERT",
+      "bbox": [
+        64.8,
+        1837.9,
+        194.5,
+        1855.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRANK HERBERI",
+      "texte_balise": "PRANK HERBERI",
+      "bbox": [
+        941.1,
+        1837.9,
+        1056.2,
+        1855.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MESSIAN",
+      "texte_balise": "MESSIAN",
+      "bbox": [
+        234.1,
+        1845.7,
+        361.9,
+        1874.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERBERT",
+      "texte_balise": "HERBERT",
+      "bbox": [
+        641.9,
+        1852.1,
+        715.4,
+        1876.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT",
+      "texte_balise": "FRANK HERBERT",
+      "bbox": [
+        232.1,
+        1873.0,
+        359.7,
+        1892.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank",
+      "texte_balise": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank",
+      "bbox": [
+        64.8,
+        2024.0,
+        978.8,
+        2068.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Please, for the love of the God Emperor, don't do this. These are utter trash. Brian Herbert is raping his",
+      "texte_balise": "Please, for the love of the God Emperor, don't do this. These are utter trash. Brian Herbert is raping his",
+      "bbox": [
+        62.7,
+        2074.0,
+        1064.5,
+        2100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "father's corpse every day by making money from this. They claim to be based off his notes, but they are",
+      "texte_balise": "father's corpse every day by making money from this. They claim to be based off his notes, but they are",
+      "bbox": [
+        62.7,
+        2099.5,
+        1058.3,
+        2127.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fucking retarded and clearly nothing more than cheap cash grabs piggybacking off the Dune brand.",
+      "texte_balise": "fucking retarded and clearly nothing more than cheap cash grabs piggybacking off the Dune brand.",
+      "bbox": [
+        62.7,
+        2126.7,
+        1024.8,
+        2154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Recommended for those who love Dune, but only because it has the word Dune' in the title.",
+      "texte_balise": "Recommended for those who love Dune, but only because it has the word Dune' in the title.",
+      "bbox": [
+        62.7,
+        2151.9,
+        1060.3,
+        2179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESSICA OF IRULAN OF",
+      "texte_balise": "ESSICA OF IRULAN OF",
+      "bbox": [
+        577.2,
+        2189.5,
+        801.0,
+        2217.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LETO OF MENTATS OF WITCHES OF",
+      "texte_balise": "LETO OF MENTATS OF WITCHES OF",
+      "bbox": [
+        811.5,
+        2189.5,
+        1141.9,
+        2217.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE DUNE DUNE DUNE DUNE",
+      "texte_balise": "DUNE DUNE DUNE DUNE DUNE",
+      "bbox": [
+        2.1,
+        2204.0,
+        579.3,
+        2263.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        689.6,
+        2215.4,
+        799.5,
+        2266.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE I",
+      "texte_balise": "DUNE I",
+      "bbox": [
+        568.8,
+        2216.5,
+        700.7,
+        2265.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE DUNE DUNE",
+      "texte_balise": "DUNE DUNE DUNE",
+      "bbox": [
+        805.2,
+        2216.7,
+        1139.8,
+        2267.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MACHINE",
+      "texte_balise": "MACHINE",
+      "bbox": [
+        464.1,
+        2264.0,
+        558.6,
+        2284.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOUSE",
+      "texte_balise": "HOUSE",
+      "bbox": [
+        248.8,
+        2264.7,
+        326.3,
+        2281.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOUSE",
+      "texte_balise": "HOUSE",
+      "bbox": [
+        23.0,
+        2266.8,
+        90.0,
+        2281.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUTLERIAN",
+      "texte_balise": "BUTLERIAN",
+      "bbox": [
+        351.3,
+        2266.8,
+        451.8,
+        2286.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARKONNEN",
+      "texte_balise": "HARKONNEN",
+      "bbox": [
+        121.2,
+        2272.6,
+        219.7,
+        2292.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORRINO",
+      "texte_balise": "CORRINO",
+      "bbox": [
+        242.6,
+        2279.5,
+        332.5,
+        2296.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ATRE DES",
+      "texte_balise": "ATRE DES",
+      "bbox": [
+        12.5,
+        2281.2,
+        102.5,
+        2296.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JIHAD",
+      "texte_balise": "JIHAD",
+      "bbox": [
+        372.2,
+        2281.4,
+        430.9,
+        2298.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRUSADE",
+      "texte_balise": "CRUSADE",
+      "bbox": [
+        464.3,
+        2281.6,
+        560.5,
+        2298.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        585.6,
+        2331.9,
+        673.4,
+        2340.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        698.5,
+        2331.9,
+        788.5,
+        2342.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IAN HERBERT AN",
+      "texte_balise": "IAN HERBERT AN",
+      "bbox": [
+        824.0,
+        2331.9,
+        893.0,
+        2342.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        928.6,
+        2331.9,
+        1014.3,
+        2340.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        1041.5,
+        2331.9,
+        1131.5,
+        2342.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND KER HEADERSON",
+      "texte_balise": "AND KER HEADERSON",
+      "bbox": [
+        464.3,
+        2340.0,
+        562.6,
+        2353.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        700.6,
+        2340.0,
+        786.4,
+        2353.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIN J. ANDERSO",
+      "texte_balise": "VIN J. ANDERSO",
+      "bbox": [
+        826.1,
+        2340.0,
+        890.9,
+        2351.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        930.7,
+        2340.0,
+        1014.3,
+        2351.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        1043.6,
+        2340.0,
+        1129.4,
+        2353.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J. ANDERSON",
+      "texte_balise": "J. ANDERSON",
+      "bbox": [
+        612.8,
+        2340.1,
+        673.5,
+        2352.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVI",
+      "texte_balise": "KEVI",
+      "bbox": [
+        587.7,
+        2340.2,
+        606.5,
+        2350.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEG OF",
+      "texte_balise": "TEG OF",
+      "bbox": [
+        819.8,
+        2359.0,
+        895.1,
+        2388.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNCAN OF",
+      "texte_balise": "DUNCAN OF",
+      "bbox": [
+        687.9,
+        2360.4,
+        801.2,
+        2389.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIAZ OF",
+      "texte_balise": "BIAZ OF",
+      "bbox": [
+        930.7,
+        2361.0,
+        1014.3,
+        2388.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES OF",
+      "texte_balise": "NOTES OF",
+      "bbox": [
+        1037.3,
+        2361.0,
+        1137.7,
+        2388.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAUL OF",
+      "texte_balise": "PAUL OF",
+      "bbox": [
+        470.6,
+        2363.0,
+        560.5,
+        2390.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAVIGATORS OF",
+      "texte_balise": "NAVIGATORS OF",
+      "bbox": [
+        577.2,
+        2367.0,
+        677.6,
+        2388.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SANDWORMS OF",
+      "texte_balise": "SANDWORMS OF",
+      "bbox": [
+        347.2,
+        2373.7,
+        451.7,
+        2393.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE",
+      "texte_balise": "DUNE",
+      "bbox": [
+        3.7,
+        2377.0,
+        113.4,
+        2435.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUNTERS OF",
+      "texte_balise": "HUNTERS OF",
+      "bbox": [
+        234.0,
+        2378.7,
+        336.9,
+        2400.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ROAD TO",
+      "texte_balise": "THE ROAD TO",
+      "bbox": [
+        121.2,
+        2379.5,
+        223.9,
+        2399.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE DUNE DUNE DUNE DUNE",
+      "texte_balise": "DUNE DUNE DUNE DUNE DUNE",
+      "bbox": [
+        577.2,
+        2386.0,
+        1139.8,
+        2439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE DUNE",
+      "texte_balise": "DUNE DUNE",
+      "bbox": [
+        347.1,
+        2388.1,
+        568.9,
+        2438.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNE DUNE.",
+      "texte_balise": "DUNE DUNE.",
+      "bbox": [
+        121.3,
+        2394.7,
+        349.3,
+        2445.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BAMLE OF",
+      "texte_balise": "BAMLE OF",
+      "bbox": [
+        10.5,
+        2440.7,
+        102.5,
+        2455.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORRIN",
+      "texte_balise": "CORRIN",
+      "bbox": [
+        23.0,
+        2453.3,
+        89.9,
+        2467.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANK HERBERT.",
+      "texte_balise": "FRANK HERBERT.",
+      "bbox": [
+        133.9,
+        2497.0,
+        207.0,
+        2508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        1026.8,
+        2499.0,
+        1142.0,
+        2526.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        468.5,
+        2503.0,
+        560.5,
+        2516.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        585.6,
+        2503.0,
+        673.4,
+        2512.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        698.5,
+        2503.0,
+        788.5,
+        2514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        813.6,
+        2503.0,
+        903.5,
+        2514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        928.6,
+        2503.0,
+        1016.4,
+        2512.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT AND",
+      "texte_balise": "BRIAN HERBERT AND",
+      "bbox": [
+        357.6,
+        2505.6,
+        445.5,
+        2516.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBERT, AND",
+      "texte_balise": "BRIAN HERBERT, AND",
+      "bbox": [
+        125.5,
+        2507.7,
+        219.6,
+        2518.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN HERBEKTAND",
+      "texte_balise": "BRIAN HERBEKTAND",
+      "bbox": [
+        240.5,
+        2507.7,
+        328.4,
+        2516.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        700.6,
+        2511.9,
+        788.5,
+        2524.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        813.6,
+        2511.9,
+        901.4,
+        2524.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        470.6,
+        2514.0,
+        558.4,
+        2524.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVINJ. ANDERSON",
+      "texte_balise": "KEVINJ. ANDERSON",
+      "bbox": [
+        587.7,
+        2514.0,
+        671.3,
+        2522.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        930.7,
+        2514.0,
+        1014.3,
+        2522.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        129.7,
+        2516.0,
+        215.4,
+        2527.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVIN J. ANDERSON",
+      "texte_balise": "KEVIN J. ANDERSON",
+      "bbox": [
+        357.6,
+        2516.0,
+        443.4,
+        2524.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

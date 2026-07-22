@@ -1,0 +1,706 @@
+{
+  "fichier": "biz_Business 1.jpeg",
+  "date": "2026-07-21T19:28:36.776887+00:00",
+  "taille_origine": [
+    1939,
+    1384
+  ],
+  "hauteur_ligne_mediane": 23.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 27,
+  "nb_noeuds": 72,
+  "tiers": [
+    "NEW YORK",
+    "DOOR",
+    "9 STEPS",
+    "BENJAMIN GRAHAM"
+  ],
+  "intitules_isoles": [],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        372.0,
+        53.6,
+        1561.3,
+        152.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "INTRODUCTION TO /BIZ/-/LIT/",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        126.8,
+        200.0,
+        451.0,
+        453.8
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "THE NEW YORK TIMES BESTSELLER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Mr. Lynch'» investmeat record pots him in a leacue byl",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ONE UP",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WALL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STREET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1496.5,
+        208.6,
+        1789.6,
+        225.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MORE THAN ONE MILLION COPIES SOLD:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        603.1,
+        211.0,
+        882.1,
+        225.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "REVISED AND UPDATED FOR THE 2IN CENTURY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.1,
+        211.0,
+        1352.8,
+        228.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "REVISED AND EXPANDED EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1490.8,
+        253.7,
+        1798.2,
+        519.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "TRI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MILLIONAIRE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE SURPRINIG",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NEXT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SECERTS OF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        603.1,
+        256.5,
+        882.1,
+        518.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "NEW YORK TIMES BESTSELLER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "YOUR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MONEY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OR YOUR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LIFE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "NEW YORK",
+      "bbox": [
+        1288.0,
+        265.0,
+        1333.1,
+        298.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TIME",
+          "auteur": null,
+          "tier": "NEW YORK"
+        },
+        {
+          "titre": "BESTSELLE",
+          "auteur": null,
+          "tier": "NEW YORK"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1022.9,
+        331.8,
+        1367.0,
+        398.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PREDICTABLY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        121.2,
+        484.8,
+        456.6,
+        693.4
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "How to Use",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "What You",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Already Know",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to Make Money",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in the Market",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "More Than",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "One Million",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Copies Sold",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PETER LYNCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1040.0,
+        487.6,
+        1347.2,
+        505.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Hidden Forces That Shape Our Decisions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DOOR",
+      "bbox": [
+        1496.5,
+        552.5,
+        1795.3,
+        648.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Thomas. Stanley Phi",
+          "auteur": null,
+          "tier": "DOOR"
+        },
+        {
+          "titre": "William D. Danko, Ph.D.",
+          "auteur": null,
+          "tier": "DOOR"
+        }
+      ]
+    },
+    {
+      "tier": "9 STEPS",
+      "bbox": [
+        617.2,
+        554.9,
+        862.4,
+        612.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "TO TRANSFORUING YOUR RELATIONSHIP",
+          "auteur": null,
+          "tier": "9 STEPS"
+        },
+        {
+          "titre": "WITH MONEY AND ACHIEVING",
+          "auteur": null,
+          "tier": "9 STEPS"
+        },
+        {
+          "titre": "FINANCIAL INO PENO NO",
+          "auteur": null,
+          "tier": "9 STEPS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1096.3,
+        625.6,
+        1285.2,
+        668.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DAN ARIELY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        611.6,
+        639.9,
+        870.9,
+        682.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Vicki Robin & Joe Dominguez",
+          "auteur": "with Monique Tilford",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1039.5,
+        820.0,
+        1356.0,
+        1130.3
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "FOREWORD BY WARREN E. BUFFETT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BENJAMIN GRAHAM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DAVID L. DODD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SECURITY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANALYSIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SIXTH EDITION •",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        169.1,
+        845.6,
+        431.2,
+        860.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "\"BY FAR THE BEST BOOK ON INVESTING EVER WRITTEN.\"",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1504.8,
+        848.0,
+        1801.1,
+        1303.0
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "MORE THAN TWO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MILLION BOOKS SOLD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE SUCCESS SECRETS OF THE ANCIENTS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "-THE MOS INSPIRING BOOK ON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WEALTH EVER WRITTEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GEORGE S.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CLASON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RICHEST",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MAN IN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BABYLON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        645.4,
+        851.0,
+        842.7,
+        857.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "a sia sore treas sistering",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        166.2,
+        896.4,
+        428.4,
+        1105.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INTELLIGENT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INVESTOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE DEFINITIVE BOOK ON VALUE INVESTING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        622.8,
+        899.2,
+        870.9,
+        935.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THINKING,",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        620.0,
+        969.6,
+        865.2,
+        1001.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FAST. SLOW",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        665.1,
+        1102.1,
+        822.9,
+        1130.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DANIEL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        242.4,
+        1141.6,
+        355.1,
+        1156.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "REVISED EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        625.7,
+        1164.1,
+        865.2,
+        1192.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KAHNEMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "BENJAMIN GRAHAM",
+      "bbox": [
+        171.9,
+        1192.0,
+        422.7,
+        1277.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Preface and Appendix by Warren E. Buffett",
+          "auteur": null,
+          "tier": "BENJAMIN GRAHAM"
+        },
+        {
+          "titre": "Updated with new commentary by Jison Zweig",
+          "auteur": null,
+          "tier": "BENJAMIN GRAHAM"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1056.9,
+        1234.6,
+        1335.9,
+        1297.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "UPDATED WITH NEW COMMENTARY BY",
+          "auteur": "SETH A. KLARMAN, JAMES GRANT,",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

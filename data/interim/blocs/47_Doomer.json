@@ -1,0 +1,231 @@
+{
+  "fichier": "47_Doomer.jpeg",
+  "date": "2026-07-21T19:28:36.770473+00:00",
+  "taille_origine": [
+    1336,
+    2672
+  ],
+  "hauteur_ligne_mediane": 15.8,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 5,
+  "nb_noeuds": 32,
+  "tiers": [
+    "The Book of Disquiet",
+    "samue",
+    "debord",
+    "Jean Baudrillard",
+    "veins feel scrap"
+  ],
+  "intitules_isoles": [
+    "Maurice Blanchot",
+    "samue",
+    "The Book of Disquiet",
+    "Goorges Perec",
+    "Persuasion and Rhetoric Essays and Aphorisms",
+    "Emil Cioran",
+    "debord",
+    "Simulation",
+    "Jean Baudrillard",
+    "Oblomov",
+    "veins feel scrap",
+    "Tomas Transtromer"
+  ],
+  "blocs": [
+    {
+      "tier": "The Book of Disquiet",
+      "bbox": null,
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Extinction",
+          "auteur": "Thomas Bernhard",
+          "tier": "The Book of Disquiet"
+        }
+      ]
+    },
+    {
+      "tier": "samue",
+      "bbox": null,
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Three Novels",
+          "auteur": "Samuel Beckett",
+          "tier": "samue"
+        },
+        {
+          "titre": "Thomas the Obscure",
+          "auteur": "Maurice Blanchot",
+          "tier": "samue"
+        },
+        {
+          "titre": "The Man Without",
+          "auteur": "Qualities",
+          "tier": "samue"
+        },
+        {
+          "titre": "Journey to the End of",
+          "auteur": "the Night",
+          "tier": "samue"
+        },
+        {
+          "titre": "Selected Writings",
+          "auteur": "Antonin Artaud",
+          "tier": "samue"
+        }
+      ]
+    },
+    {
+      "tier": "debord",
+      "bbox": null,
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Capitalist Realism",
+          "auteur": "Mark Fisher",
+          "tier": "debord"
+        },
+        {
+          "titre": "The Birth of Biopolitics",
+          "auteur": "Michel Foucault",
+          "tier": "debord"
+        },
+        {
+          "titre": "Visions of Excess",
+          "auteur": "Georges Bataille",
+          "tier": "debord"
+        },
+        {
+          "titre": "Arcades Project",
+          "auteur": "Walter Benjamin",
+          "tier": "debord"
+        },
+        {
+          "titre": "Minima Moralia",
+          "auteur": "Theodor Adorno",
+          "tier": "debord"
+        },
+        {
+          "titre": "Society of the Spectacle",
+          "auteur": "Guy Debord",
+          "tier": "debord"
+        },
+        {
+          "titre": "Simulacra and",
+          "auteur": null,
+          "tier": "debord"
+        }
+      ]
+    },
+    {
+      "tier": "Jean Baudrillard",
+      "bbox": null,
+      "nb_lignes": 13,
+      "noeuds": [
+        {
+          "titre": "Autumn Sonata",
+          "auteur": "Georg Trakl",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Hunger",
+          "auteur": "Knut Hamsun",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "The Business of Living",
+          "auteur": "Cesare Pavese",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Hamlet",
+          "auteur": "William Shakespeare",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "The Flowers of Evil",
+          "auteur": "Charles Baudelaire",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Jakob von Gunten",
+          "auteur": "Robert Walser",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Complete Stories",
+          "auteur": "Franz Kafka",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "No Longer Human",
+          "auteur": "Osamu Dazai",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "The Tartar Steppe",
+          "auteur": "Dino Buzzati",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Kokoro",
+          "auteur": "Natsume Soseki",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Complete Works",
+          "auteur": "Arthur Rimbaud",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Collected Fictions",
+          "auteur": "Jorge Luis Borges",
+          "tier": "Jean Baudrillard"
+        },
+        {
+          "titre": "Against Nature",
+          "auteur": "Joris-Karl Huysmans",
+          "tier": "Jean Baudrillard"
+        }
+      ]
+    },
+    {
+      "tier": "veins feel scrap",
+      "bbox": null,
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Boredom",
+          "auteur": "Alberto Moravia",
+          "tier": "veins feel scrap"
+        },
+        {
+          "titre": "Too Loud a Solitude",
+          "auteur": "Bohumil Hrabal",
+          "tier": "veins feel scrap"
+        },
+        {
+          "titre": "Jesus' Son",
+          "auteur": "Denis Johnson",
+          "tier": "veins feel scrap"
+        },
+        {
+          "titre": "Memoirs From Beyond The Grave Confessions of a Mask",
+          "auteur": "François-René de Chateaubriand",
+          "tier": "veins feel scrap"
+        },
+        {
+          "titre": "Eleven Kinds of Lonelieness",
+          "auteur": "Richard Yates",
+          "tier": "veins feel scrap"
+        },
+        {
+          "titre": "Poems",
+          "auteur": "Paul Celan",
+          "tier": "veins feel scrap"
+        }
+      ]
+    }
+  ]
+}

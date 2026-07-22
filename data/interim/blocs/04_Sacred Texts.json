@@ -1,0 +1,2276 @@
+{
+  "fichier": "04_Sacred Texts.jpeg",
+  "date": "2026-07-21T19:28:36.364440+00:00",
+  "taille_origine": [
+    2000,
+    2820
+  ],
+  "hauteur_ligne_mediane": 17.4,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 95,
+  "nb_noeuds": 215,
+  "tiers": [
+    "Judaism",
+    "Christianity",
+    "The Forty Hadith",
+    "Tanakh: The Holy",
+    "The Talmud:",
+    "The Complete Forty",
+    "Everyman's Talmud",
+    "Zoroastrianism",
+    "Hinduism",
+    "Theravada",
+    "Theravada",
+    "In The Buddha's",
+    "Sikhism",
+    "Upanishads",
+    "Mahayana",
+    "Ramayana",
+    "The Ramayana",
+    "Confucianism",
+    "Chinese Folk Religion",
+    "Tao Te Ching",
+    "Zhuangzi",
+    "Dao De Jing: A",
+    "Analects",
+    "African Folk Religion",
+    "Nihon Shoki",
+    "Kojiki",
+    "Key",
+    "Suniata: A West African",
+    "Sundiata: An Epic of"
+  ],
+  "intitules_isoles": [
+    "Central texts of a canon or otherwise some introductory texts for religions without a codified canon",
+    "The Complete",
+    "Bhagavadgita",
+    "E] Friedrich Max Muller",
+    "Buddha's",
+    "[T jAkira Yuyama",
+    "iT Red Pine (Bill Porter)",
+    "[T] Victor H. Mair",
+    "or book of changes",
+    "(Often misleadingly called Nihongi in English)",
+    "[T] = Translator",
+    "[P] = Paraphrase/retelling author",
+    "translation"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        502.9,
+        29.0,
+        1511.6,
+        130.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "World Religions - Sacred Texts in English",
+          "auteur": "Central texts of a canon or otherwise some introductory texts for religions without a codified canon",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Judaism",
+      "bbox": [
+        162.8,
+        168.8,
+        726.7,
+        284.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Babylonian Talmud",
+          "auteur": null,
+          "tier": "Judaism"
+        },
+        {
+          "titre": "The canon of sacred Jewish writings",
+          "auteur": null,
+          "tier": "Judaism"
+        },
+        {
+          "titre": "A compendium of Rabbinic writings, a central",
+          "auteur": null,
+          "tier": "Judaism"
+        },
+        {
+          "titre": "collection of texts for Jewish religious law (Halakhah)",
+          "auteur": null,
+          "tier": "Judaism"
+        }
+      ]
+    },
+    {
+      "tier": "Christianity",
+      "bbox": [
+        854.7,
+        169.6,
+        1075.6,
+        400.7
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Holy Bible",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "The canon of sacred Jewish and",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "Christian writings",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "HOLY",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "BIBLE",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "NRSV Bible",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "[T] NRSV committee",
+          "auteur": null,
+          "tier": "Christianity"
+        },
+        {
+          "titre": "NR$V",
+          "auteur": null,
+          "tier": "Christianity"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1479.7,
+        174.2,
+        1572.7,
+        212.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Islam",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        217.9,
+        226.0,
+        299.6,
+        250.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Tanakh",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1238.4,
+        226.5,
+        1491.3,
+        267.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Quran",
+          "auteur": "Allah's revelations to the prophet Muhammad",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Forty Hadith",
+      "bbox": [
+        1529.1,
+        226.5,
+        1825.6,
+        284.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A collection of important saying of the prophet",
+          "auteur": null,
+          "tier": "The Forty Hadith"
+        },
+        {
+          "titre": "Muhammad compiled by medieval scholar Al-Nawawi",
+          "auteur": null,
+          "tier": "The Forty Hadith"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1238.4,
+        304.7,
+        1340.1,
+        322.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE QUR'ÂN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Tanakh: The Holy",
+      "bbox": [
+        244.1,
+        325.2,
+        418.6,
+        374.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Scriptures",
+          "auteur": null,
+          "tier": "Tanakh: The Holy"
+        },
+        {
+          "titre": "[T] Jewish Publication Society",
+          "auteur": null,
+          "tier": "Tanakh: The Holy"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        145.2,
+        336.1,
+        241.4,
+        369.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE HOLY",
+          "auteur": "SCRIPTURES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Talmud:",
+      "bbox": [
+        564.0,
+        348.5,
+        691.9,
+        412.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A Selection",
+          "auteur": null,
+          "tier": "The Talmud:"
+        },
+        {
+          "titre": "TAbridamenti",
+          "auteur": null,
+          "tier": "The Talmud:"
+        },
+        {
+          "titre": "T] Norman Solomon",
+          "auteur": null,
+          "tier": "The Talmud:"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1657.0,
+        348.5,
+        1811.0,
+        415.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "An-Nawawi's Forty",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hadith",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] Ezzedin Ibrahim",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "iT] Denys J. Davis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1348.8,
+        351.4,
+        1511.6,
+        403.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A New",
+          "auteur": "The Qur'an",
+          "tier": null
+        },
+        {
+          "titre": "Annotated Translation",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] Arthur J. Droge",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1566.9,
+        511.1,
+        1642.4,
+        534.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Complete",
+          "auteur": "Forty Hadith",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        953.5,
+        537.2,
+        1061.0,
+        572.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "KJV Bible",
+          "auteur": "[T] KJV committee",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1337.2,
+        537.2,
+        1441.9,
+        554.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Qur'an",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Complete Forty",
+      "bbox": [
+        1665.7,
+        537.2,
+        1828.5,
+        589.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Hadith",
+          "auteur": null,
+          "tier": "The Complete Forty"
+        },
+        {
+          "titre": "[T] Abdassamad Clarke",
+          "auteur": null,
+          "tier": "The Complete Forty"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        139.5,
+        548.5,
+        241.3,
+        583.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Old Testament",
+          "auteur": "of Holy Bible",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Everyman's Talmud",
+      "bbox": [
+        563.9,
+        548.5,
+        723.8,
+        598.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "[Abridgment]",
+          "auteur": null,
+          "tier": "Everyman's Talmud"
+        },
+        {
+          "titre": "[P] Abraham Cohen",
+          "auteur": null,
+          "tier": "Everyman's Talmud"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1229.7,
+        630.1,
+        1345.9,
+        653.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "С-ШР",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1058.1,
+        717.3,
+        1220.9,
+        755.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Buddhism",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Zoroastrianism",
+      "bbox": [
+        1540.7,
+        717.3,
+        1831.4,
+        824.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Avesta",
+          "auteur": null,
+          "tier": "Zoroastrianism"
+        },
+        {
+          "titre": "The canon of Zoroastrian sacred texts and songs,",
+          "auteur": null,
+          "tier": "Zoroastrianism"
+        },
+        {
+          "titre": "attributed to the prophet Zarathustra (Zoroaster)",
+          "auteur": null,
+          "tier": "Zoroastrianism"
+        }
+      ]
+    },
+    {
+      "tier": "Hinduism",
+      "bbox": [
+        130.8,
+        718.3,
+        732.6,
+        944.1
+      ],
+      "nb_lignes": 17,
+      "noeuds": [
+        {
+          "titre": "Bhagavad Gita",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "Mahabharata",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "A discourse between Lord Krishna and Arjuna",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "The longest epic in existence, a series of connected",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "on the nature of life",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "stories of heroism. romance, war, and divinity",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "virule Travale ville",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "Bhagavadgita",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "The Mahabharata",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "The Bhagavadgita",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "110 Volumesl",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "[10 Volumes]",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "in the Mahabharata",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "Til Bibek Debrov",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "T] Bibek Debroy",
+          "auteur": null,
+          "tier": "Hinduism"
+        },
+        {
+          "titre": "[T] J.A.B. van Buitenen",
+          "auteur": null,
+          "tier": "Hinduism"
+        }
+      ]
+    },
+    {
+      "tier": "Theravada",
+      "bbox": [
+        872.1,
+        765.7,
+        1101.7,
+        845.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Dhammapada",
+          "auteur": null,
+          "tier": "Theravada"
+        },
+        {
+          "titre": "Acollection of the Buddha's sayings on a",
+          "auteur": null,
+          "tier": "Theravada"
+        },
+        {
+          "titre": "wide range of topics",
+          "auteur": null,
+          "tier": "Theravada"
+        }
+      ]
+    },
+    {
+      "tier": "Theravada",
+      "bbox": [
+        1186.0,
+        766.0,
+        1415.7,
+        845.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Pali Canon Excerpts",
+          "auteur": null,
+          "tier": "Theravada"
+        },
+        {
+          "titre": "Selections of the Buddha's saying from",
+          "auteur": null,
+          "tier": "Theravada"
+        },
+        {
+          "titre": "•clechulls rule buuullds saylly Holll",
+          "auteur": null,
+          "tier": "Theravada"
+        },
+        {
+          "titre": "Theravada texts (the Pali canon)",
+          "auteur": null,
+          "tier": "Theravada"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1581.4,
+        894.2,
+        1671.5,
+        939.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "FREDRICH MAX MÜLLER",
+          "auteur": "FRIEDRICH MAX MÜLLER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1688.9,
+        908.9,
+        1828.5,
+        1018.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "The Zend Avesta",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[3 volumes]",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "13 volumes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(Sacred Books of The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "East vol. 4, 23. 31)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "East vol. 4, 23, 31)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "E] Friedrich Max Muller",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] James Darmesteter",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "iT] Lawrence H. Mills",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] Lawrence H. Mills",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        953.5,
+        911.8,
+        1116.3,
+        960.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Dhammapada",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] John R. Carter",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T i Mahinda Palihawadana",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- [T] Mahinda Palihawadana",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1270.3,
+        914.7,
+        1386.6,
+        967.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Sayings of the",
+          "auteur": "Buddha",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1186.0,
+        1070.0,
+        1244.2,
+        1102.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Buddha's",
+          "auteur": "Words",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "In The Buddha's",
+      "bbox": [
+        1270.3,
+        1072.9,
+        1407.0,
+        1128.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Words",
+          "auteur": null,
+          "tier": "In The Buddha's"
+        },
+        {
+          "titre": "[T] Bhikkhu Bodhi",
+          "auteur": null,
+          "tier": "In The Buddha's"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        238.4,
+        1090.0,
+        398.3,
+        1137.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Bhagavad Gita",
+          "auteur": "[T] Gavin Flood",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        552.3,
+        1090.0,
+        700.6,
+        1137.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Mahabharata",
+          "auteur": "[Abridged]",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        956.4,
+        1093.0,
+        1110.5,
+        1125.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Dhammapada",
+          "auteur": "[T] Valerie Roebuck",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        130.8,
+        1151.0,
+        223.8,
+        1157.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE BRAGAVAD CHA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Sikhism",
+      "bbox": [
+        1546.5,
+        1167.9,
+        1831.5,
+        1271.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Guru Granth Sahib",
+          "auteur": null,
+          "tier": "Sikhism"
+        },
+        {
+          "titre": "Writings ofthe Sikh aurus and other revered toures.",
+          "auteur": null,
+          "tier": "Sikhism"
+        },
+        {
+          "titre": "Regarded as a written guru (spiritual teacher).",
+          "auteur": null,
+          "tier": "Sikhism"
+        }
+      ]
+    },
+    {
+      "tier": "Upanishads",
+      "bbox": [
+        476.7,
+        1216.8,
+        686.0,
+        1276.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Early philosophical discourses about",
+          "auteur": null,
+          "tier": "Upanishads"
+        },
+        {
+          "titre": "reality and existence",
+          "auteur": null,
+          "tier": "Upanishads"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1171.5,
+        1217.5,
+        1424.4,
+        1297.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Mahayana",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Lotus Sutra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "An important text for many Mahayana schools,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "focusing on the path of the Bodhisattva",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Mahayana",
+      "bbox": [
+        877.9,
+        1217.8,
+        1081.4,
+        1297.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Diamond Sutra",
+          "auteur": null,
+          "tier": "Mahayana"
+        },
+        {
+          "titre": "A central text in Zen/Chan Buddhism,",
+          "auteur": null,
+          "tier": "Mahayana"
+        },
+        {
+          "titre": "focusing on anatman (non-self)",
+          "auteur": null,
+          "tier": "Mahayana"
+        }
+      ]
+    },
+    {
+      "tier": "Ramayana",
+      "bbox": [
+        136.6,
+        1223.2,
+        389.5,
+        1276.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "An epic poem about prince Rama's struggles",
+          "auteur": null,
+          "tier": "Ramayana"
+        },
+        {
+          "titre": "against the demon king Ravana",
+          "auteur": null,
+          "tier": "Ramayana"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1566.9,
+        1305.0,
+        1645.3,
+        1311.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Curu Cranth Sal",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        851.7,
+        1343.0,
+        1133.7,
+        1408.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE VAJRA PRAINA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PARANITA SUTRA Vajra Prajna Paramita",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A General",
+          "auteur": "Sutra",
+          "tier": null
+        },
+        {
+          "titre": "Explanation",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1671.5,
+        1343.0,
+        1831.4,
+        1393.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Guru Granth Sahib",
+          "auteur": "17 Volumes]",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        241.3,
+        1349.0,
+        369.2,
+        1398.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Ramayana",
+          "auteur": "[3 volumes]",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        555.2,
+        1354.8,
+        726.7,
+        1407.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Principle",
+          "auteur": "Upanishads",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1267.4,
+        1354.8,
+        1421.5,
+        1422.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BDK English Tripitaka",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Lotus Sutra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] Tsugunari Kubo",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T jAkira Yuyama",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1566.9,
+        1491.0,
+        1657.0,
+        1523.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SHRI GURU",
+          "auteur": "GRANTH SAHIB",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        886.6,
+        1503.0,
+        953.5,
+        1532.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DIAMOND",
+          "auteur": "SUTRA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1665.7,
+        1520.0,
+        1811.0,
+        1587.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Shri Guru Granth",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sahib",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[4 Volumes]",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "I T] Max Arthur Macauliffe",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Ramayana",
+      "bbox": [
+        244.2,
+        1532.0,
+        369.2,
+        1581.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "[Abridged]",
+          "auteur": null,
+          "tier": "The Ramayana"
+        },
+        {
+          "titre": "PlArshia Sattar",
+          "auteur": null,
+          "tier": "The Ramayana"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        555.2,
+        1537.9,
+        662.8,
+        1570.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Upanishads",
+          "auteur": "[T] Patrick Olivelle",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1267.4,
+        1555.0,
+        1401.2,
+        1590.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Lotus Sutra",
+          "auteur": "[T] Burton Watson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        956.1,
+        1558.0,
+        1119.2,
+        1593.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Diamond Sutra",
+          "auteur": "iT Red Pine (Bill Porter)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Confucianism",
+      "bbox": [
+        720.9,
+        1719.2,
+        1293.6,
+        1834.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Analects",
+          "auteur": null,
+          "tier": "Confucianism"
+        },
+        {
+          "titre": "A collection of sayings attributed to Confucius,",
+          "auteur": null,
+          "tier": "Confucianism"
+        },
+        {
+          "titre": "A collection of sayings and dialogues of Mengzi",
+          "auteur": null,
+          "tier": "Confucianism"
+        },
+        {
+          "titre": "A collection a cavings and dangles a monazi",
+          "auteur": null,
+          "tier": "Confucianism"
+        },
+        {
+          "titre": "focused on filial piety and political philosophy",
+          "auteur": null,
+          "tier": "Confucianism"
+        },
+        {
+          "titre": "(Mencius), one of the most influential Confucians",
+          "auteur": null,
+          "tier": "Confucianism"
+        }
+      ]
+    },
+    {
+      "tier": "Chinese Folk Religion",
+      "bbox": [
+        1407.0,
+        1720.9,
+        1918.6,
+        1875.5
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Myths",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "I Ching",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "An ancient divination text used for",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "Collections oftraditional Chinese",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "Collections of traditional Chinese",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "fortune telling and mysticism",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "folks tales and myths",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "folks tales and muths",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        },
+        {
+          "titre": "CHINESE",
+          "auteur": null,
+          "tier": "Chinese Folk Religion"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        284.5,
+        1731.3,
+        392.8,
+        1765.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Taoism",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Tao Te Ching",
+      "bbox": [
+        34.9,
+        1779.0,
+        331.4,
+        1837.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A collection of wisdom sayings, often hard to interpret,",
+          "auteur": null,
+          "tier": "Tao Te Ching"
+        },
+        {
+          "titre": "attributed to Laozi (Lao Tzu)",
+          "auteur": null,
+          "tier": "Tao Te Ching"
+        }
+      ]
+    },
+    {
+      "tier": "Zhuangzi",
+      "bbox": [
+        363.4,
+        1779.1,
+        630.8,
+        1974.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "A collection of stories illustrating Taoist thought,",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "attributed to Zhuangzi (Chuang Tzu)",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "WANDERING",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "ON THE WAY",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "Wandering On The",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "Early Taoist",
+          "auteur": "Way",
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "Tales and Parables",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "of Chuang Tzu",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        },
+        {
+          "titre": "[T] Victor H. Mair",
+          "auteur": null,
+          "tier": "Zhuangzi"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1116.3,
+        1779.1,
+        1200.6,
+        1811.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mengzi",
+          "auteur": "Menozi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1034.8,
+        1874.6,
+        1113.5,
+        1892.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MENGZI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        720.8,
+        1875.0,
+        808.2,
+        1907.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CONFUCIUS",
+          "auteur": "ANALECTS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Dao De Jing: A",
+      "bbox": [
+        165.7,
+        1886.6,
+        290.7,
+        1965.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Philosophical",
+          "auteur": null,
+          "tier": "Dao De Jing: A"
+        },
+        {
+          "titre": "Translation",
+          "auteur": null,
+          "tier": "Dao De Jing: A"
+        },
+        {
+          "titre": "[T] Roger T.Ames",
+          "auteur": null,
+          "tier": "Dao De Jing: A"
+        },
+        {
+          "titre": "[T] Roger T. Ames",
+          "auteur": null,
+          "tier": "Dao De Jing: A"
+        },
+        {
+          "titre": "[T] David L. Hall",
+          "auteur": null,
+          "tier": "Dao De Jing: A"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.3,
+        1889.0,
+        159.9,
+        1907.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DAO DE JING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Analects",
+      "bbox": [
+        822.6,
+        1898.0,
+        956.4,
+        1931.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "[T] Edward Slingerland",
+          "auteur": null,
+          "tier": "Analects"
+        },
+        {
+          "titre": "-ward slinderland",
+          "auteur": null,
+          "tier": "Analects"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1130.8,
+        1898.2,
+        1270.3,
+        1933.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mengzi",
+          "auteur": "[T] Bryan W. van Norden",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1784.7,
+        1906.9,
+        1947.7,
+        1964.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Chinese Myths and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fantasies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[PI Cyril Birch",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[P] Cyril Birch",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1485.5,
+        1909.8,
+        1584.3,
+        1942.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "I Ching",
+          "auteur": "[T] John Minford",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1380.8,
+        1927.0,
+        1462.2,
+        1942.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "I CHING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1694.8,
+        2059.2,
+        1776.2,
+        2098.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CHINESE",
+          "auteur": "MYTHS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        822.7,
+        2090.7,
+        930.2,
+        2126.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Analects",
+          "auteur": "[TID. C. Lau",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1130.8,
+        2091.0,
+        1212.2,
+        2123.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mencius",
+          "auteur": "IT D. C. Lau",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1787.5,
+        2093.7,
+        1909.9,
+        2127.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Chinese Myths",
+          "auteur": "[P] William Dolby",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1366.3,
+        2096.7,
+        1473.8,
+        2149.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "I CHING",
+          "auteur": "or book of changes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1479.7,
+        2096.7,
+        1601.7,
+        2131.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "1 Ching",
+          "auteur": "[T] Richard Wilhelm",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        165.6,
+        2099.5,
+        276.2,
+        2134.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Tao Te Ching",
+          "auteur": "[ T] D. C. Lau",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        473.8,
+        2099.7,
+        578.5,
+        2134.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Chuang Tzu",
+          "auteur": "(T] D. C. Lau",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "African Folk Religion",
+      "bbox": [
+        898.3,
+        2274.1,
+        1412.8,
+        2384.4
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Epic of Sundiata",
+          "auteur": null,
+          "tier": "African Folk Religion"
+        },
+        {
+          "titre": "Myths",
+          "auteur": null,
+          "tier": "African Folk Religion"
+        },
+        {
+          "titre": "A Malian epic about the rise of the",
+          "auteur": null,
+          "tier": "African Folk Religion"
+        },
+        {
+          "titre": "Modern prose retellings of oral traditions",
+          "auteur": null,
+          "tier": "African Folk Religion"
+        },
+        {
+          "titre": "legendar kina Sundiat",
+          "auteur": null,
+          "tier": "African Folk Religion"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        357.6,
+        2277.0,
+        468.0,
+        2314.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Shinto",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Nihon Shoki",
+      "bbox": [
+        415.7,
+        2330.3,
+        715.1,
+        2396.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The earliest Japanese legend/history book.",
+          "auteur": null,
+          "tier": "Nihon Shoki"
+        },
+        {
+          "titre": "Tells the story of Japan from Creation to the 8th century.",
+          "auteur": null,
+          "tier": "Nihon Shoki"
+        },
+        {
+          "titre": "(Often misleadingly called Nihongi in English)",
+          "auteur": null,
+          "tier": "Nihon Shoki"
+        }
+      ]
+    },
+    {
+      "tier": "Kojiki",
+      "bbox": [
+        122.1,
+        2332.2,
+        389.5,
+        2390.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The earliest written collection of myths about the",
+          "auteur": null,
+          "tier": "Kojiki"
+        },
+        {
+          "titre": "Japanese islands and Kami (spirits/deities)",
+          "auteur": null,
+          "tier": "Kojiki"
+        }
+      ]
+    },
+    {
+      "tier": "Key",
+      "bbox": [
+        1560.9,
+        2340.9,
+        1866.3,
+        2463.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "[T] = Translator",
+          "auteur": null,
+          "tier": "Key"
+        },
+        {
+          "titre": "[P] = Paraphrase/retelling author",
+          "auteur": null,
+          "tier": "Key"
+        },
+        {
+          "titre": "i Ej = Editor",
+          "auteur": null,
+          "tier": "Key"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        119.2,
+        2445.4,
+        151.2,
+        2457.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Kojiki",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Suniata: A West African",
+      "bbox": [
+        962.2,
+        2454.1,
+        1133.7,
+        2500.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Epic of the Mande Peoples",
+          "auteur": null,
+          "tier": "Suniata: A West African"
+        },
+        {
+          "titre": "Pl David Conrad",
+          "auteur": null,
+          "tier": "Suniata: A West African"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1267.4,
+        2459.9,
+        1409.9,
+        2515.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "African Myths of",
+          "auteur": "Origin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        540.7,
+        2471.3,
+        633.7,
+        2518.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": ": Nihongi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[2 Volumes]",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] W. G. Aston",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        232.6,
+        2474.2,
+        343.0,
+        2506.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Kojiki",
+          "auteur": "[T] Donald Philippi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1613.4,
+        2494.3,
+        1703.5,
+        2523.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Title of text",
+          "auteur": "Description",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        427.3,
+        2535.3,
+        537.8,
+        2570.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANTHONGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1645.3,
+        2561.6,
+        1741.3,
+        2590.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Recommended",
+          "auteur": "translation",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        459.3,
+        2610.9,
+        523.3,
+        2645.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "NIHONGI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Sundiata: An Epic of",
+      "bbox": [
+        959.3,
+        2642.9,
+        1116.3,
+        2686.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Old Mali",
+          "auteur": null,
+          "tier": "Sundiata: An Epic of"
+        },
+        {
+          "titre": "Parisiano",
+          "auteur": null,
+          "tier": "Sundiata: An Epic of"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        232.6,
+        2645.8,
+        407.0,
+        2695.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "An Account",
+          "auteur": "The Kojiki",
+          "tier": null
+        },
+        {
+          "titre": "of Ancient Matters",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[T] Gustav Heldt",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1276.2,
+        2645.8,
+        1424.4,
+        2678.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "African Folk Tales",
+          "auteur": "[P] Roger D. Abrahams",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        540.7,
+        2654.2,
+        686.0,
+        2686.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Nihongi",
+          "auteur": "[T] Basil H. Chamberlain",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1648.3,
+        2654.5,
+        1718.0,
+        2698.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Accessible",
+          "auteur": "or cheaper",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

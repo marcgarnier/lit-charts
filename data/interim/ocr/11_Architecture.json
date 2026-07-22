@@ -1,0 +1,751 @@
+{
+  "fichier": "11_Architecture.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:51.844601+00:00",
+  "duree_s": 1.1,
+  "taille_origine": [
+    1200,
+    2464
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 67,
+  "lignes": [
+    {
+      "texte": "Essential Architecture",
+      "texte_balise": "Essential Architecture",
+      "bbox": [
+        120.8,
+        58.0,
+        1055.0,
+        117.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VITRUVIUS",
+      "texte_balise": "VITRUVIUS",
+      "bbox": [
+        197.3,
+        181.3,
+        320.1,
+        199.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSICAL LANGUAGE",
+      "texte_balise": "THE CLASSICAL LANGUAGE",
+      "bbox": [
+        825.3,
+        183.2,
+        1055.2,
+        203.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nikolaus Pevsn",
+      "texte_balise": "Nikolaus Pevsn",
+      "bbox": [
+        521.5,
+        199.0,
+        660.4,
+        218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF ARCHITECTURE",
+      "texte_balise": "OF ARCHITECTURE",
+      "bbox": [
+        863.8,
+        203.0,
+        1024.8,
+        222.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEN BOOKS ON",
+      "texte_balise": "TEN BOOKS ON",
+      "bbox": [
+        153.0,
+        209.5,
+        362.4,
+        232.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARCHITECTURE",
+      "texte_balise": "ARCHITECTURE",
+      "bbox": [
+        151.0,
+        233.7,
+        366.4,
+        257.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN",
+      "texte_balise": "AN",
+      "bbox": [
+        569.8,
+        370.7,
+        628.2,
+        406.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OUTLINE OF",
+      "texte_balise": "OUTLINE OF",
+      "bbox": [
+        483.2,
+        404.9,
+        720.8,
+        443.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EUROPEANT",
+      "texte_balise": "EUROPEANT",
+      "bbox": [
+        495.2,
+        438.5,
+        708.9,
+        480.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARCHITECTURE",
+      "texte_balise": "ARCHITECTURE",
+      "bbox": [
+        445.0,
+        467.4,
+        751.0,
+        511.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edited by",
+      "texte_balise": "Edited by",
+      "bbox": [
+        241.6,
+        509.7,
+        277.9,
+        520.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INGRID D. ROWLAND",
+      "texte_balise": "INGRID D. ROWLAND",
+      "bbox": [
+        183.2,
+        519.8,
+        334.2,
+        532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thames & Hudson world of art",
+      "texte_balise": "Thames & Hudson world of art",
+      "bbox": [
+        833.6,
+        531.8,
+        978.5,
+        544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS NOBLE HOWE",
+      "texte_balise": "THOMAS NOBLE HOWE",
+      "bbox": [
+        179.2,
+        533.9,
+        338.3,
+        546.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxford",
+      "texte_balise": "Oxford",
+      "bbox": [
+        122.8,
+        626.3,
+        163.1,
+        638.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LAMELAGE OF",
+      "texte_balise": "THE LAMELAGE OF",
+      "bbox": [
+        901.9,
+        628.0,
+        966.5,
+        641.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Historvof",
+      "texte_balise": "Historvof",
+      "bbox": [
+        114.8,
+        638.6,
+        165.1,
+        650.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "architecture",
+      "texte_balise": "architecture",
+      "bbox": [
+        709.7,
+        642.4,
+        733.1,
+        777.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POST-MODERN ARCHITECTURE",
+      "texte_balise": "POST-MODERN ARCHITECTURE",
+      "bbox": [
+        805.4,
+        642.6,
+        1063.1,
+        667.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "modern",
+      "texte_balise": "modern",
+      "bbox": [
+        686.6,
+        644.7,
+        706.7,
+        733.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Art",
+      "texte_balise": "Art",
+      "bbox": [
+        118.8,
+        650.7,
+        167.1,
+        676.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourth edition",
+      "texte_balise": "Fourth edition",
+      "bbox": [
+        495.3,
+        656.7,
+        541.6,
+        667.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES JENCKS",
+      "texte_balise": "CHARLES JENCKS",
+      "bbox": [
+        871.8,
+        672.9,
+        994.6,
+        691.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern Architecture",
+      "texte_balise": "Modern Architecture",
+      "bbox": [
+        126.8,
+        952.9,
+        364.4,
+        977.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alan Colquhoun",
+      "texte_balise": "Alan Colquhoun",
+      "bbox": [
+        126.8,
+        983.0,
+        229.5,
+        999.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Thames & Hudson world of art",
+      "texte_balise": "Thames & Hudson world of art",
+      "bbox": [
+        491.3,
+        989.0,
+        646.3,
+        1001.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN SO DJ KA CATKE",
+      "texte_balise": "IN SO DJ KA CATKE",
+      "bbox": [
+        896.0,
+        1001.0,
+        974.5,
+        1011.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PETER HALL",
+      "texte_balise": "PETER HALL",
+      "bbox": [
+        861.7,
+        1079.8,
+        1022.8,
+        1094.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEORY®",
+      "texte_balise": "THEORY®",
+      "bbox": [
+        517.3,
+        1129.3,
+        696.8,
+        1167.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEORY:",
+      "texte_balise": "THEORY:",
+      "bbox": [
+        517.3,
+        1129.5,
+        698.8,
+        1167.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DESIGN",
+      "texte_balise": "DESIGN",
+      "bbox": [
+        517.3,
+        1172.0,
+        696.8,
+        1217.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[FIRST",
+      "texte_balise": "[FIRST",
+      "bbox": [
+        511.4,
+        1222.8,
+        696.6,
+        1275.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRST",
+      "texte_balise": "FIRST",
+      "bbox": [
+        533.6,
+        1225.1,
+        696.6,
+        1277.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Words and Buildings",
+      "texte_balise": "Words and Buildings",
+      "bbox": [
+        225.5,
+        1255.0,
+        320.1,
+        1269.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Vocabulary of Modern Architecture",
+      "texte_balise": "A Vocabulary of Modern Architecture",
+      "bbox": [
+        223.5,
+        1273.0,
+        384.6,
+        1285.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cities of",
+      "texte_balise": "Cities of",
+      "bbox": [
+        889.8,
+        1280.9,
+        962.6,
+        1317.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MACHINE",
+      "texte_balise": "MACHINE",
+      "bbox": [
+        517.4,
+        1283.3,
+        696.6,
+        1319.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tomorrow",
+      "texte_balise": "Tomorrow",
+      "bbox": [
+        861.0,
+        1306.8,
+        1023.6,
+        1360.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adrian Forty",
+      "texte_balise": "Adrian Forty",
+      "bbox": [
+        223.5,
+        1307.4,
+        279.9,
+        1319.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGE BANHAM",
+      "texte_balise": "AGE BANHAM",
+      "bbox": [
+        517.4,
+        1325.6,
+        700.7,
+        1370.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGE BANAN",
+      "texte_balise": "AGE BANAN",
+      "bbox": [
+        517.4,
+        1325.8,
+        700.7,
+        1372.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A THIRD EDITION",
+      "texte_balise": "A THIRD EDITION",
+      "bbox": [
+        869.6,
+        1358.7,
+        956.6,
+        1381.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD EDITIO",
+      "texte_balise": "THIRD EDITIO",
+      "bbox": [
+        869.6,
+        1359.4,
+        954.5,
+        1380.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thames & Hudson",
+      "texte_balise": "Thames & Hudson",
+      "bbox": [
+        120.8,
+        1412.0,
+        197.3,
+        1422.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "S,M, LXL",
+      "texte_balise": "S,M, LXL",
+      "bbox": [
+        790.8,
+        1496.1,
+        1059.5,
+        1624.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Adolf Loos",
+      "texte_balise": "Adolf Loos",
+      "bbox": [
+        124.8,
+        1517.0,
+        354.4,
+        1557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE CORBUSIER",
+      "texte_balise": "LE CORBUSIER",
+      "bbox": [
+        468.9,
+        1598.7,
+        610.3,
+        1633.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOWARD AN ARCHITECTURE",
+      "texte_balise": "TOWARD AN ARCHITECTURE",
+      "bbox": [
+        469.1,
+        1634.0,
+        722.8,
+        1668.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O.M.A.",
+      "texte_balise": "O.M.A.",
+      "bbox": [
+        946.3,
+        1684.4,
+        1020.8,
+        1724.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rem Koolhaas",
+      "texte_balise": "Rem Koolhaas",
+      "bbox": [
+        861.5,
+        1721.6,
+        1019.0,
+        1759.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Bruce Mau",
+      "texte_balise": "and Bruce Mau",
+      "bbox": [
+        869.7,
+        1760.5,
+        1018.9,
+        1797.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ornament",
+      "texte_balise": "Ornament",
+      "bbox": [
+        168.9,
+        1776.1,
+        312.3,
+        1816.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime",
+      "texte_balise": "Crime",
+      "bbox": [
+        197.3,
+        1811.3,
+        283.9,
+        1837.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selected Essays",
+      "texte_balise": "Selected Essays",
+      "bbox": [
+        195.3,
+        1837.0,
+        285.9,
+        1850.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NONACELLI PRESS",
+      "texte_balise": "THE NONACELLI PRESS",
+      "bbox": [
+        964.4,
+        1855.6,
+        1067.1,
+        1866.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN PRAISE",
+      "texte_balise": "IN PRAISE",
+      "bbox": [
+        481.2,
+        1944.0,
+        600.0,
+        1964.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF SHADOWS",
+      "texte_balise": "OF SHADOWS",
+      "bbox": [
+        483.2,
+        1964.0,
+        644.3,
+        1991.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE POETICS",
+      "texte_balise": "THE POETICS",
+      "bbox": [
+        122.8,
+        1968.0,
+        334.2,
+        1989.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARCHITECTURE DEPENDS",
+      "texte_balise": "ARCHITECTURE DEPENDS",
+      "bbox": [
+        825.5,
+        1994.6,
+        1067.1,
+        2015.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF SPACE",
+      "texte_balise": "OF SPACE",
+      "bbox": [
+        122.8,
+        2006.7,
+        271.8,
+        2025.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC",
+      "texte_balise": "THE CLASSIC",
+      "bbox": [
+        122.8,
+        2049.0,
+        209.4,
+        2055.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOOKAT HOw",
+      "texte_balise": "LOOKAT HOw",
+      "bbox": [
+        209.4,
+        2049.0,
+        304.0,
+        2055.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GASTON",
+      "texte_balise": "GASTON",
+      "bbox": [
+        231.5,
+        2196.1,
+        342.3,
+        2214.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BACHELARD",
+      "texte_balise": "BACHELARD",
+      "bbox": [
+        173.2,
+        2234.3,
+        342.3,
+        2252.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jeremy Till",
+      "texte_balise": "Jeremy Till",
+      "bbox": [
+        908.1,
+        2266.6,
+        984.6,
+        2287.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lun'ichiro Tanizaki",
+      "texte_balise": "lun'ichiro Tanizaki",
+      "bbox": [
+        481.2,
+        2310.9,
+        620.1,
+        2327.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

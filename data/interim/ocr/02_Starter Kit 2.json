@@ -1,0 +1,520 @@
+{
+  "fichier": "02_Starter Kit 2.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:34.156152+00:00",
+  "duree_s": 0.4,
+  "taille_origine": [
+    483,
+    960
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 46,
+  "lignes": [
+    {
+      "texte": "/lit/ Starter Kit",
+      "texte_balise": "/lit/ Starter Kit",
+      "bbox": [
+        141.7,
+        12.0,
+        343.3,
+        40.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the CATCHER",
+      "texte_balise": "the CATCHER",
+      "bbox": [
+        365.1,
+        51.3,
+        481.1,
+        72.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the RYE",
+      "texte_balise": "in the RYE",
+      "bbox": [
+        365.1,
+        73.3,
+        449.2,
+        94.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE STRANGER",
+      "texte_balise": "THE STRANGER",
+      "bbox": [
+        133.7,
+        90.0,
+        185.6,
+        100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES",
+      "texte_balise": "NOTES",
+      "bbox": [
+        283.4,
+        130.0,
+        333.3,
+        142.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FROM",
+      "texte_balise": "FROM",
+      "bbox": [
+        287.4,
+        155.9,
+        329.3,
+        166.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ODYSSEY",
+      "texte_balise": "THE ODYSSEY",
+      "bbox": [
+        -0.0,
+        162.0,
+        117.8,
+        182.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DERGROUND",
+      "texte_balise": "DERGROUND",
+      "bbox": [
+        269.4,
+        180.0,
+        359.3,
+        192.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT FAGLES",
+      "texte_balise": "ROBERT FAGLES",
+      "bbox": [
+        18.0,
+        206.0,
+        103.8,
+        216.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a novel by J.D. SALINGER",
+      "texte_balise": "a novel by J.D. SALINGER",
+      "bbox": [
+        363.2,
+        206.0,
+        481.0,
+        218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CRYING OF",
+      "texte_balise": "THE CRYING OF",
+      "bbox": [
+        -1.0,
+        224.8,
+        99.0,
+        250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOT 49",
+      "texte_balise": "LOT 49",
+      "bbox": [
+        69.9,
+        241.3,
+        119.8,
+        265.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kurt",
+      "texte_balise": "Kurt",
+      "bbox": [
+        173.6,
+        316.0,
+        219.5,
+        332.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vonnegui,",
+      "texte_balise": "Vonnegui,",
+      "bbox": [
+        123.5,
+        327.7,
+        231.9,
+        345.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Death",
+      "texte_balise": "The Death",
+      "bbox": [
+        275.4,
+        349.9,
+        329.3,
+        362.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PICTURE",
+      "texte_balise": "THE PICTURE",
+      "bbox": [
+        395.2,
+        356.0,
+        453.1,
+        366.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slaughter.",
+      "texte_balise": "Slaughter.",
+      "bbox": [
+        139.7,
+        358.0,
+        239.5,
+        380.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Ivan llych",
+      "texte_balise": "of Ivan llych",
+      "bbox": [
+        271.3,
+        361.4,
+        333.4,
+        374.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF DORIAN GRAY",
+      "texte_balise": "OF DORIAN GRAY",
+      "bbox": [
+        387.2,
+        366.0,
+        461.0,
+        376.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "House",
+      "texte_balise": "House",
+      "bbox": [
+        169.5,
+        373.6,
+        227.6,
+        392.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Five",
+      "texte_balise": "Five",
+      "bbox": [
+        145.7,
+        378.0,
+        195.6,
+        404.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OSCAR WILDE",
+      "texte_balise": "OSCAR WILDE",
+      "bbox": [
+        387.2,
+        382.0,
+        461.0,
+        394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS PYNCHON",
+      "texte_balise": "THOMAS PYNCHON",
+      "bbox": [
+        0.0,
+        384.0,
+        117.8,
+        400.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The GREAT",
+      "texte_balise": "The GREAT",
+      "bbox": [
+        373.2,
+        414.0,
+        475.0,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUBLINERS",
+      "texte_balise": "DUBLINERS",
+      "bbox": [
+        123.7,
+        421.6,
+        239.6,
+        448.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GATSBY",
+      "texte_balise": "GATSBY",
+      "bbox": [
+        379.2,
+        434.0,
+        463.0,
+        456.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamorphionis",
+      "texte_balise": "Metamorphionis",
+      "bbox": [
+        263.5,
+        440.0,
+        345.3,
+        454.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JAMES JOYCE",
+      "texte_balise": "JAMES JOYCE",
+      "bbox": [
+        123.7,
+        460.0,
+        237.5,
+        478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM FAULKNER",
+      "texte_balise": "WILLIAM FAULKNER",
+      "bbox": [
+        12.0,
+        504.0,
+        107.8,
+        514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F-SCOTT FITZGERALD",
+      "texte_balise": "F-SCOTT FITZGERALD",
+      "bbox": [
+        371.2,
+        584.0,
+        479.0,
+        596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOD",
+      "texte_balise": "BLOOD",
+      "bbox": [
+        267.4,
+        602.0,
+        339.3,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MERIDIAN",
+      "texte_balise": "MERIDIAN",
+      "bbox": [
+        253.3,
+        619.2,
+        355.4,
+        644.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STONER",
+      "texte_balise": "STONER",
+      "bbox": [
+        409.2,
+        652.0,
+        439.1,
+        662.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hermann",
+      "texte_balise": "Hermann",
+      "bbox": [
+        123.7,
+        654.0,
+        235.5,
+        678.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TONN MILLIAMS",
+      "texte_balise": "TONN MILLIAMS",
+      "bbox": [
+        401.2,
+        660.0,
+        449.1,
+        670.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hesse",
+      "texte_balise": "Hesse",
+      "bbox": [
+        123.7,
+        674.0,
+        197.6,
+        700.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Siddhartha",
+      "texte_balise": "Siddhartha",
+      "bbox": [
+        121.7,
+        697.6,
+        219.6,
+        716.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lalita",
+      "texte_balise": "Lalita",
+      "bbox": [
+        27.9,
+        732.0,
+        79.8,
+        752.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRUCE",
+      "texte_balise": "CRUCE",
+      "bbox": [
+        277.4,
+        748.0,
+        331.3,
+        758.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "GRAPES -WRATH",
+      "texte_balise": "GRAPES -WRATH",
+      "bbox": [
+        363.2,
+        786.0,
+        481.0,
+        802.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRE CLASSIC BESTSELLER",
+      "texte_balise": "TRE CLASSIC BESTSELLER",
+      "bbox": [
+        16.0,
+        788.0,
+        107.8,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATCH-22",
+      "texte_balise": "CATCH-22",
+      "bbox": [
+        5.6,
+        795.0,
+        116.1,
+        839.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARRITI",
+      "texte_balise": "CARRITI",
+      "bbox": [
+        163.7,
+        830.0,
+        203.6,
+        834.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "USE BONDRED TAX",
+      "texte_balise": "USE BONDRED TAX",
+      "bbox": [
+        133.7,
+        874.0,
+        229.5,
+        878.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF SOLITUDE",
+      "texte_balise": "OF SOLITUDE",
+      "bbox": [
+        153.7,
+        882.0,
+        215.6,
+        890.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPH HELLER",
+      "texte_balise": "JOSEPH HELLER",
+      "bbox": [
+        7.9,
+        915.8,
+        113.8,
+        944.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

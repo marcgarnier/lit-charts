@@ -1,0 +1,53 @@
+{
+  "fichier": "11_Brown Pill (No Idea).jpeg",
+  "date": "2026-07-21T19:30:37.609101+00:00",
+  "nb_lignes_texte": 169,
+  "nb_caracteres": 2326,
+  "registres_actifs": [
+    "point_entree",
+    "progression"
+  ],
+  "score_total": 2,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 1,
+      "extraits": [
+        "Start Here:"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "progression": {
+      "occurrences": 1,
+      "extraits": [
+        "Then Read:"
+      ]
+    }
+  }
+}

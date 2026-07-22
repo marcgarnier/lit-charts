@@ -1,0 +1,529 @@
+{
+  "fichier": "06_2018.jpeg",
+  "date": "2026-07-21T19:28:36.400545+00:00",
+  "taille_origine": [
+    1500,
+    3242
+  ],
+  "hauteur_ligne_mediane": 15.2,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 2,
+  "nb_noeuds": 98,
+  "tiers": [
+    "a novel by J.D. SALINGER"
+  ],
+  "intitules_isoles": [
+    "García Márquez",
+    "East of Eder",
+    "a novel by J.D. SALINGER",
+    "Gothe",
+    "Calvino"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": null,
+      "nb_lignes": 30,
+      "noeuds": [
+        {
+          "titre": "Moby Dick",
+          "auteur": "Melville",
+          "tier": null
+        },
+        {
+          "titre": "Crime and Punishment",
+          "auteur": "Dostoevsky",
+          "tier": null
+        },
+        {
+          "titre": "The Brothers Karamazov",
+          "auteur": "Dostoevsky",
+          "tier": null
+        },
+        {
+          "titre": "The Bible",
+          "auteur": "Various",
+          "tier": null
+        },
+        {
+          "titre": "Ulysses",
+          "auteur": "Joyce",
+          "tier": null
+        },
+        {
+          "titre": "Lolita",
+          "auteur": "Nabokov",
+          "tier": null
+        },
+        {
+          "titre": "Stoner",
+          "auteur": "Williams",
+          "tier": null
+        },
+        {
+          "titre": "Gravity's Rainbow",
+          "auteur": "Pynchon",
+          "tier": null
+        },
+        {
+          "titre": "The Iliad",
+          "auteur": "Homer",
+          "tier": null
+        },
+        {
+          "titre": "Infinite Jest",
+          "auteur": "Wallace",
+          "tier": null
+        },
+        {
+          "titre": "Blood Meridian",
+          "auteur": "McCarthy",
+          "tier": null
+        },
+        {
+          "titre": "Don Quixote",
+          "auteur": "Cervantes",
+          "tier": null
+        },
+        {
+          "titre": "The Stranger",
+          "auteur": "Camus",
+          "tier": null
+        },
+        {
+          "titre": "Hamlet",
+          "auteur": "Shakespeare",
+          "tier": null
+        },
+        {
+          "titre": "The Odyssey",
+          "auteur": "Homer",
+          "tier": null
+        },
+        {
+          "titre": "The Divine Comedy",
+          "auteur": "Dante",
+          "tier": null
+        },
+        {
+          "titre": "Anna Karenina",
+          "auteur": "Tolstoy",
+          "tier": null
+        },
+        {
+          "titre": "War and Peace",
+          "auteur": "Tolstoy",
+          "tier": null
+        },
+        {
+          "titre": "In Search of Lost Time",
+          "auteur": "Proust",
+          "tier": null
+        },
+        {
+          "titre": "Fictions",
+          "auteur": "Borges",
+          "tier": null
+        },
+        {
+          "titre": "1984",
+          "auteur": "Orwell",
+          "tier": null
+        },
+        {
+          "titre": "Dubliners",
+          "auteur": "Joyce",
+          "tier": null
+        },
+        {
+          "titre": "Notes from Underground",
+          "auteur": "Dostoevsky",
+          "tier": null
+        },
+        {
+          "titre": "Paradise Lost",
+          "auteur": "Milton",
+          "tier": null
+        },
+        {
+          "titre": "Thus Spoke Zarathustra",
+          "auteur": "Nietzsche",
+          "tier": null
+        },
+        {
+          "titre": "One Hundred Years",
+          "auteur": "of Solitude",
+          "tier": null
+        },
+        {
+          "titre": "Catch-22",
+          "auteur": "Heller",
+          "tier": null
+        },
+        {
+          "titre": "Faust Pt. 1 & 2",
+          "auteur": "Goethe",
+          "tier": null
+        },
+        {
+          "titre": "2666",
+          "auteur": "Bolano",
+          "tier": null
+        },
+        {
+          "titre": "The Trial",
+          "auteur": "Kafka",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "a novel by J.D. SALINGER",
+      "bbox": null,
+      "nb_lignes": 68,
+      "noeuds": [
+        {
+          "titre": "Wolfe",
+          "auteur": "41.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Pessoa",
+          "auteur": "42.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Faulkner",
+          "auteur": null,
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "of Monte Cristo",
+          "auteur": "44.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "of the Night",
+          "auteur": "45.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Steinbeck",
+          "auteur": "46.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Salinger",
+          "auteur": null,
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Artist as a Young Man",
+          "auteur": "48.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Plato",
+          "auteur": "49",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Huxley",
+          "auteur": "50.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "V.",
+          "auteur": "Pynchon",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Hunger",
+          "auteur": "Hamsun",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Correction",
+          "auteur": "Bernhard",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Recognitions",
+          "auteur": "Gaddis",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Siddhartha",
+          "auteur": "Hesse",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Les Misérables",
+          "auteur": "Hugo",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Pale Fire",
+          "auteur": "Nabokov",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Idiot",
+          "auteur": "Dostoevsky",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Magic Mountain",
+          "auteur": "Mann",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Phenomenology of Spirit",
+          "auteur": "Hegel",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Lord of the Rings",
+          "auteur": "Tolkien",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Essays",
+          "auteur": "De Montaigne",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Sun Also Rises",
+          "auteur": "Hemingway",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Invisible Cities",
+          "auteur": "Calvino",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Metamorphosis",
+          "auteur": "Kafka",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Master and Margarita",
+          "auteur": "Bulgakov",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Capital",
+          "auteur": "Marx",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Great Gatsby",
+          "auteur": "Fitzgerald",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Confessions",
+          "auteur": "St. Augustine",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Hobbit",
+          "auteur": "Tolkien",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "F/VE..",
+          "auteur": "Slaughterhouse-Five",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Steppenwol",
+          "auteur": "Steppenwolf",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "eppel",
+          "auteur": "Steppenwolf",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Sentine a Great Neties",
+          "auteur": "Sometimes a Great",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Saints canYonee",
+          "auteur": "Sometimes a Great",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "he Sailor Who Ball fie",
+          "auteur": "The Sailor Who Fell from",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "THREE NOVELS",
+          "auteur": "The Trilogy",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "HANOVELS",
+          "auteur": "The Trilogy",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Dorian Gray",
+          "auteur": "71.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Vonnegut",
+          "auteur": "72.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Virgil",
+          "auteur": "73.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Sartre",
+          "auteur": "74.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Aurelius",
+          "auteur": "75.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Hesse",
+          "auteur": "76.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Notion",
+          "auteur": "17.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Grace with the Sea",
+          "auteur": "78.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Beckett",
+          "auteur": "79.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Conrad",
+          "auteur": "80.",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Mason & Dixon",
+          "auteur": "Pynchon",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Tunnel",
+          "auteur": "Gass",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "To the Lighthouse",
+          "auteur": "Woolf",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Of Mice and Men",
+          "auteur": "Steinbeck",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Fear and Trembling",
+          "auteur": "Kierkegaard",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "No Longer Human",
+          "auteur": "Dazai",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "JR",
+          "auteur": "Gaddis",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Decline of the West",
+          "auteur": "Spengler",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Glass Bead Game",
+          "auteur": "Hesse",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Beyond Good and Evil",
+          "auteur": "Nietzsche",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Finnegans Wake",
+          "auteur": "Joyce",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Leopard",
+          "auteur": "Di Lampedusa",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Tristam Shandy",
+          "auteur": "Sterne",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Grapes of Wrath",
+          "auteur": "Steinbeck",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Waves",
+          "auteur": "Woolf",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Crying of Lot 49",
+          "auteur": "Pynchon",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "The Sorrows of",
+          "auteur": "Young Werther",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "A Confederacy of Dunces",
+          "auteur": "Toole",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "Naked Lunch",
+          "auteur": "Burroughs",
+          "tier": "a novel by J.D. SALINGER"
+        },
+        {
+          "titre": "American Psycho",
+          "auteur": "Ellis",
+          "tier": "a novel by J.D. SALINGER"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "fichier": "05_Carle.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:11.075968+00:00",
+  "duree_s": 1.1,
+  "taille_origine": [
+    2203,
+    1814
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 69,
+  "lignes": [
+    {
+      "texte": "/lit/'s Guide to Carle",
+      "texte_balise": "/lit/'s Guide to Carle",
+      "bbox": [
+        797.3,
+        32.0,
+        1373.7,
+        96.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "START HERE",
+      "texte_balise": "START HERE",
+      "bbox": [
+        813.3,
+        140.5,
+        915.8,
+        160.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A good introduction to Carle and his",
+      "texte_balise": "A good introduction to Carle and his",
+      "bbox": [
+        973.4,
+        175.9,
+        1392.9,
+        205.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An unfinished follow-up in the",
+      "texte_balise": "An unfinished follow-up in the",
+      "bbox": [
+        1709.9,
+        201.0,
+        2062.1,
+        227.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eric Carle's",
+      "texte_balise": "Eric Carle's",
+      "bbox": [
+        790.9,
+        207.8,
+        845.3,
+        227.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "writing style. Although it's a later",
+      "texte_balise": "writing style. Although it's a later",
+      "bbox": [
+        973.4,
+        211.0,
+        1354.5,
+        237.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Bug/ Insect Unit",
+      "texte_balise": "A Bug/ Insect Unit",
+      "bbox": [
+        1556.2,
+        211.0,
+        1665.1,
+        233.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Using Cric Carle Books",
+      "texte_balise": "Using Cric Carle Books",
+      "bbox": [
+        1546.6,
+        230.0,
+        1674.7,
+        246.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Very\" series, published",
+      "texte_balise": "\"The Very\" series, published",
+      "bbox": [
+        1706.7,
+        233.0,
+        2036.5,
+        269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "work, it encapsulates many of the",
+      "texte_balise": "work, it encapsulates many of the",
+      "bbox": [
+        973.4,
+        246.0,
+        1367.3,
+        272.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Around",
+      "texte_balise": "Around",
+      "bbox": [
+        790.4,
+        266.9,
+        938.7,
+        318.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "posthumously. A very difficult",
+      "texte_balise": "posthumously. A very difficult",
+      "bbox": [
+        1706.7,
+        271.8,
+        2055.7,
+        301.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "themes and ideas his corpus draws",
+      "texte_balise": "themes and ideas his corpus draws",
+      "bbox": [
+        973.4,
+        281.0,
+        1380.1,
+        307.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Very Busy spider",
+      "texte_balise": "The Very Busy spider",
+      "bbox": [
+        1549.8,
+        297.0,
+        1671.5,
+        317.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read for the beginner due to",
+      "texte_balise": "read for the beginner due to",
+      "bbox": [
+        1709.9,
+        307.0,
+        2042.9,
+        336.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Us",
+      "texte_balise": "Us",
+      "bbox": [
+        854.9,
+        316.6,
+        906.2,
+        358.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "upon. Pretty much required reading",
+      "texte_balise": "upon. Pretty much required reading",
+      "bbox": [
+        973.4,
+        316.6,
+        1389.7,
+        342.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carle's schizophrenic tendencies",
+      "texte_balise": "Carle's schizophrenic tendencies",
+      "bbox": [
+        1713.1,
+        342.0,
+        2087.7,
+        368.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "before getting into any of his other",
+      "texte_balise": "before getting into any of his other",
+      "bbox": [
+        973.4,
+        348.5,
+        1376.9,
+        377.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in his later years. Only for hardcore",
+      "texte_balise": "in his later years. Only for hardcore",
+      "bbox": [
+        1709.9,
+        374.0,
+        2116.5,
+        403.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "works.",
+      "texte_balise": "works.",
+      "bbox": [
+        973.4,
+        389.9,
+        1050.3,
+        412.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carle fans!",
+      "texte_balise": "Carle fans!",
+      "bbox": [
+        1709.7,
+        411.3,
+        1838.2,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Once you've read \"All Around Us\" you",
+      "texte_balise": "Once you've read \"All Around Us\" you",
+      "bbox": [
+        976.6,
+        489.0,
+        1415.3,
+        521.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carle's seminal work, \"The Very",
+      "texte_balise": "Carle's seminal work, \"The Very",
+      "bbox": [
+        1729.1,
+        489.0,
+        2094.1,
+        518.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE VERY",
+      "texte_balise": "THE VERY",
+      "bbox": [
+        1665.1,
+        505.0,
+        1706.7,
+        521.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Grouchy Ladybug\" is a good",
+      "texte_balise": "\"The Grouchy Ladybug\" is a good",
+      "bbox": [
+        112.1,
+        514.8,
+        496.3,
+        544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "123",
+      "texte_balise": "123",
+      "bbox": [
+        928.6,
+        518.0,
+        957.4,
+        534.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUNGRY",
+      "texte_balise": "HUNGRY",
+      "bbox": [
+        1668.3,
+        521.2,
+        1706.7,
+        537.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Grouchy Ladybug",
+      "texte_balise": "The Grouchy Ladybug",
+      "bbox": [
+        537.9,
+        524.0,
+        675.6,
+        550.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hungry Caterpillar\" explores themes",
+      "texte_balise": "Hungry Caterpillar\" explores themes",
+      "bbox": [
+        1729.1,
+        524.0,
+        2148.6,
+        556.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "can move onto this shorter, but still",
+      "texte_balise": "can move onto this shorter, but still",
+      "bbox": [
+        976.6,
+        527.6,
+        1386.5,
+        553.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO THE ZOO",
+      "texte_balise": "TO THE ZOO",
+      "bbox": [
+        896.6,
+        537.0,
+        957.4,
+        556.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATERPILLAR",
+      "texte_balise": "CATERPILLAR",
+      "bbox": [
+        1649.0,
+        537.2,
+        1706.7,
+        553.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eric Care",
+      "texte_balise": "Eric Care",
+      "bbox": [
+        637.2,
+        546.8,
+        675.6,
+        560.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bridge between Carle's logical",
+      "texte_balise": "bridge between Carle's logical",
+      "bbox": [
+        150.5,
+        553.0,
+        499.5,
+        579.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "foundational piece. You should have",
+      "texte_balise": "foundational piece. You should have",
+      "bbox": [
+        976.6,
+        562.8,
+        1392.9,
+        588.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Freudian psyche, transformation",
+      "texte_balise": "of the Freudian psyche, transformation",
+      "bbox": [
+        1725.9,
+        562.8,
+        2177.4,
+        588.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERIC CARLE",
+      "texte_balise": "ERIC CARLE",
+      "bbox": [
+        909.4,
+        578.7,
+        960.6,
+        595.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "positivism (\"The early Carle\") and",
+      "texte_balise": "positivism (\"The early Carle\") and",
+      "bbox": [
+        108.9,
+        585.0,
+        496.3,
+        617.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "little issue understanding key concepts",
+      "texte_balise": "little issue understanding key concepts",
+      "bbox": [
+        976.6,
+        597.9,
+        1424.9,
+        627.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "existentialist ideas and much more.",
+      "texte_balise": "existentialist ideas and much more.",
+      "bbox": [
+        1729.1,
+        597.9,
+        2139.0,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "his later existentialism and",
+      "texte_balise": "his later existentialism and",
+      "bbox": [
+        179.3,
+        623.5,
+        489.9,
+        649.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "if you've properly digested the first",
+      "texte_balise": "if you've properly digested the first",
+      "bbox": [
+        970.2,
+        629.9,
+        1383.3,
+        662.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Be prepared to spend some time with",
+      "texte_balise": "Be prepared to spend some time with",
+      "bbox": [
+        1729.1,
+        633.0,
+        2167.8,
+        659.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "nihilism (\"The late Carle\").",
+      "texte_balise": "nihilism (\"The late Carle\").",
+      "bbox": [
+        192.1,
+        655.0,
+        496.3,
+        687.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "this book. It's also recommended you",
+      "texte_balise": "this book. It's also recommended you",
+      "bbox": [
+        1725.9,
+        668.0,
+        2161.4,
+        694.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "book.",
+      "texte_balise": "book.",
+      "bbox": [
+        973.4,
+        668.3,
+        1043.9,
+        693.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "supplement every hour of reading this",
+      "texte_balise": "supplement every hour of reading this",
+      "bbox": [
+        1725.9,
+        703.0,
+        2171.0,
+        732.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with 4-5 hours of commentaries/essays.",
+      "texte_balise": "with 4-5 hours of commentaries/essays.",
+      "bbox": [
+        1725.9,
+        738.6,
+        2190.2,
+        764.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Do not expect to fully understand this book. It's",
+      "texte_balise": "Do not expect to fully understand this book. It's",
+      "bbox": [
+        1565.8,
+        949.7,
+        2116.5,
+        978.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "His magnum opus.",
+      "texte_balise": "His magnum opus.",
+      "bbox": [
+        1322.4,
+        952.9,
+        1546.6,
+        978.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "His magnum opus. Do not expect to fully understand this book. It's",
+      "texte_balise": "His magnum opus. Do not expect to fully understand this book. It's",
+      "bbox": [
+        1322.4,
+        953.9,
+        2116.5,
+        979.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Have you seen my cat?",
+      "texte_balise": "Have you seen my cat?",
+      "bbox": [
+        841.6,
+        963.8,
+        1268.5,
+        1046.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Have vou seen my pot 2",
+      "texte_balise": "Have vou seen my pot 2",
+      "bbox": [
+        845.3,
+        965.6,
+        1268.0,
+        1017.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a topic of serious academic study and scholars devote their lives studying",
+      "texte_balise": "a topic of serious academic study and scholars devote their lives studying",
+      "bbox": [
+        1319.2,
+        984.8,
+        2164.6,
+        1014.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "just a few passages from it.",
+      "texte_balise": "just a few passages from it.",
+      "bbox": [
+        1316.0,
+        1024.0,
+        1636.2,
+        1050.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enic Carle",
+      "texte_balise": "Enic Carle",
+      "bbox": [
+        842.1,
+        1040.0,
+        960.6,
+        1085.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inspired by fever dreams and his later schizophrenia it's a journey into",
+      "texte_balise": "Inspired by fever dreams and his later schizophrenia it's a journey into",
+      "bbox": [
+        1319.2,
+        1091.0,
+        2126.2,
+        1120.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the mind and soul of a lost man. Carle abandoned his work into the",
+      "texte_balise": "the mind and soul of a lost man. Carle abandoned his work into the",
+      "bbox": [
+        1319.2,
+        1129.7,
+        2097.3,
+        1155.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "continuation of \"The Very\" series (See \"The Very Busy Spider\"\") in the last",
+      "texte_balise": "continuation of \"The Very\" series (See \"The Very Busy Spider\"\") in the last",
+      "bbox": [
+        1316.0,
+        1161.7,
+        2158.2,
+        1194.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "decade of his life, dedicating it instead to the working on and publishing",
+      "texte_balise": "decade of his life, dedicating it instead to the working on and publishing",
+      "bbox": [
+        1316.0,
+        1200.0,
+        2148.6,
+        1232.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of this book.",
+      "texte_balise": "of this book.",
+      "bbox": [
+        1315.9,
+        1234.8,
+        1466.6,
+        1264.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "If you decide to tackle this epic work of literature be prepared to spend",
+      "texte_balise": "If you decide to tackle this epic work of literature be prepared to spend",
+      "bbox": [
+        1319.2,
+        1302.0,
+        2142.2,
+        1331.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "at the very least 6 months on the first four chapters alone. It is",
+      "texte_balise": "at the very least 6 months on the first four chapters alone. It is",
+      "bbox": [
+        1319.2,
+        1340.8,
+        2039.7,
+        1366.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "recommended you skip chapter 5 until you've finished the rest of the",
+      "texte_balise": "recommended you skip chapter 5 until you've finished the rest of the",
+      "bbox": [
+        1319.2,
+        1372.7,
+        2116.5,
+        1402.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "book.",
+      "texte_balise": "book.",
+      "bbox": [
+        1319.1,
+        1410.8,
+        1386.6,
+        1433.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "It should also be noted that this book is the centre of a lot of controversy",
+      "texte_balise": "It should also be noted that this book is the centre of a lot of controversy",
+      "bbox": [
+        1322.4,
+        1478.0,
+        2161.4,
+        1507.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "concerning the evolution from early to late Carle, so discussion and",
+      "texte_balise": "concerning the evolution from early to late Carle, so discussion and",
+      "bbox": [
+        1319.2,
+        1513.0,
+        2097.3,
+        1545.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "supplementary reading material may very well be biased one way or",
+      "texte_balise": "supplementary reading material may very well be biased one way or",
+      "bbox": [
+        1319.2,
+        1548.6,
+        2110.1,
+        1577.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

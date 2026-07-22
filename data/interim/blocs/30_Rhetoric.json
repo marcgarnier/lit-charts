@@ -1,0 +1,593 @@
+{
+  "fichier": "30_Rhetoric.jpeg",
+  "date": "2026-07-21T19:28:36.723346+00:00",
+  "taille_origine": [
+    2000,
+    2000
+  ],
+  "hauteur_ligne_mediane": 15.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 27,
+  "nb_noeuds": 48,
+  "tiers": [
+    "Demosthenes",
+    "WINSTON CHURCHILL",
+    "CH. PERELMAN",
+    "THE NEW"
+  ],
+  "intitules_isoles": [
+    "Political Speeches",
+    "James M. May &-Jakob Wise",
+    "The Great Speeches",
+    "Realm",
+    "Rhetoric",
+    "Chaim Perelman"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        162.8,
+        336.3,
+        215.1,
+        359.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DiStA",
+          "auteur": "Phaedrus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Demosthenes",
+      "bbox": [
+        1564.0,
+        336.3,
+        1662.8,
+        371.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Selected Sneeches",
+          "auteur": null,
+          "tier": "Demosthenes"
+        },
+        {
+          "titre": "Asew tandussn to kebin Wenrfes",
+          "auteur": null,
+          "tier": "Demosthenes"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        433.1,
+        339.2,
+        537.8,
+        376.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Plato",
+          "auteur": "Gorgias",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        723.8,
+        339.2,
+        851.7,
+        374.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Aristotle",
+          "auteur": "The Art of Rhetoric",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        485.4,
+        550.5,
+        552.4,
+        568.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CICERO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        189.0,
+        559.6,
+        305.2,
+        565.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LORBCLASSICALHRRARY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        200.6,
+        585.7,
+        296.5,
+        632.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ICICERO1",
+          "auteur": "RHETORICA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        735.5,
+        585.7,
+        883.7,
+        617.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "QUINTILIAN",
+          "auteur": "THE ORATOR'S EDUCATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        436.0,
+        594.4,
+        601.7,
+        664.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "On the",
+          "auteur": "Ideal Orator",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1566.9,
+        664.0,
+        1659.9,
+        701.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Cicero",
+          "auteur": "Political Speeches",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        215.1,
+        768.3,
+        279.1,
+        780.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HARRY CAPLAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        453.5,
+        809.0,
+        584.3,
+        826.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "James M. May &-Jakob Wise",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1218.0,
+        811.9,
+        1401.2,
+        904.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A HANDLIST OF",
+          "auteur": "RHETORICAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1218.0,
+        991.6,
+        1398.3,
+        1015.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RICHARD A. LANHAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1566.9,
+        997.4,
+        1659.9,
+        1028.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Cicero",
+          "auteur": "Defence Speeches",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        162.8,
+        1035.1,
+        334.3,
+        1101.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Famamortlis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Farnsworth's",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CLASSICAL ENGLISH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RHETORIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARD FARNSWORTH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1229.6,
+        1087.3,
+        1395.4,
+        1214.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RHETORICAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRADITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "READINGS FROM CLANICAL TIME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1229.7,
+        1324.4,
+        1392.4,
+        1341.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PATRICIA ZELY AND WAT ICE HERBERG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WINSTON CHURCHILL",
+      "bbox": [
+        1587.2,
+        1359.2,
+        1712.2,
+        1405.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Riad Toll Team and Cheat.",
+          "auteur": null,
+          "tier": "WINSTON CHURCHILL"
+        },
+        {
+          "titre": "The Great Speeches",
+          "auteur": null,
+          "tier": "WINSTON CHURCHILL"
+        }
+      ]
+    },
+    {
+      "tier": "CH. PERELMAN",
+      "bbox": [
+        177.3,
+        1489.5,
+        308.1,
+        1536.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AND",
+          "auteur": null,
+          "tier": "CH. PERELMAN"
+        },
+        {
+          "titre": "L OLBRECHTS• TYTECA",
+          "auteur": null,
+          "tier": "CH. PERELMAN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        970.4,
+        1504.0,
+        1075.7,
+        1606.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Kenneth",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BURKE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Rhetoric",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Motives",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        723.8,
+        1510.0,
+        883.7,
+        1649.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "CLASSICAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RHETORIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FOR THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MODERN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STUDENT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE NEW",
+      "bbox": [
+        162.6,
+        1619.0,
+        340.1,
+        1736.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "RHETORIC",
+          "auteur": null,
+          "tier": "THE NEW"
+        },
+        {
+          "titre": "A Treatise on Antonantation",
+          "auteur": null,
+          "tier": "THE NEW"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        485.5,
+        1623.1,
+        546.5,
+        1701.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Realm",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rhetoric",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        747.1,
+        1675.3,
+        860.5,
+        1692.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Fourth Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        729.7,
+        1718.8,
+        877.9,
+        1759.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EDWARD P. 1. CORBETT",
+          "auteur": "ROBERT J. CONNORS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        418.6,
+        1776.7,
+        569.8,
+        1797.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Chaim Perelman",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

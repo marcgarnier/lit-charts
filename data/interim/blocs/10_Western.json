@@ -1,0 +1,1074 @@
+{
+  "fichier": "10_Western.jpeg",
+  "date": "2026-07-21T19:28:36.534358+00:00",
+  "taille_origine": [
+    945,
+    595
+  ],
+  "hauteur_ligne_mediane": 13.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 25,
+  "nb_noeuds": 149,
+  "tiers": [
+    "Guide to Western Literature (Ancient to Modern)",
+    "17th Century Literature",
+    "The Holy",
+    "18th Century Literature",
+    "Medieval",
+    "19th Century Literature"
+  ],
+  "intitules_isoles": [
+    "Guide to Western Literature (Ancient to Modern)",
+    "Proto-",
+    "Other 20th/21st",
+    "Heights"
+  ],
+  "blocs": [
+    {
+      "tier": "Guide to Western Literature (Ancient to Modern)",
+      "bbox": [
+        245.7,
+        16.0,
+        923.0,
+        63.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Renaissance to Romantic",
+          "auteur": null,
+          "tier": "Guide to Western Literature (Ancient to Modern)"
+        },
+        {
+          "titre": "Realist to Post-Postmodernist",
+          "auteur": null,
+          "tier": "Guide to Western Literature (Ancient to Modern)"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        75.9,
+        45.9,
+        239.7,
+        63.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Classical to Medieval",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        843.1,
+        83.9,
+        913.1,
+        190.2
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Proto-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Modernist",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Literature",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Flowers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Evil",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rimbaud",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Brecht",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        359.6,
+        91.6,
+        529.4,
+        191.7
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "European",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Renaissance",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Don Quixote",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Montaigne",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Romeo & Juliet",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Macbeth",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shakespeare",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Tempest",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hamlet",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        43.9,
+        91.8,
+        107.9,
+        179.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Classical",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Greece",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mythology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Epic Poetry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Home",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        693.2,
+        93.5,
+        759.3,
+        187.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Realist",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Literature",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dram",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ibsen",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Strindberg",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Chekhov (",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        113.7,
+        93.8,
+        187.9,
+        181.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Dram",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sophocles",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Euripides",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Aristophanes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Aeschylus",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        533.4,
+        93.8,
+        625.3,
+        195.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Colonial",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Writings",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Journals of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Columbus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Conquest of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "New Spain",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        455.5,
+        125.8,
+        513.5,
+        139.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "King Lear",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        775.2,
+        125.8,
+        815.1,
+        187.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Fiction",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Balzac",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Henry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.8,
+        205.5,
+        277.7,
+        417.3
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "Ancient",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "European",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Celtic Mythology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Norse Mythology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Edda",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Icelandic Sagas",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Qur'an",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Gospels",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Letters of Paul",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Revelations",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        34.0,
+        205.7,
+        121.9,
+        309.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Classical",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rome",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Epic Poetry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Aeneid",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Metamophoses",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Golden Ass",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "17th Century Literature",
+      "bbox": [
+        373.6,
+        213.6,
+        621.3,
+        309.5
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "The Rover Doctor Faustus",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Sor Juana Ines",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "De La Cruz",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Tartutte",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Fuenteovejuna",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Don Juan",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Paradise Lost",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        },
+        {
+          "titre": "Oronoko",
+          "auteur": null,
+          "tier": "17th Century Literature"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        687.3,
+        213.6,
+        765.2,
+        225.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Modernism",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        685.3,
+        241.6,
+        833.1,
+        311.5
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Poetry Fiction",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Pound Fitzgerald Kafka",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Stein",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Proust Nabokov",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Elliot Faulkner",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Woolf",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        789.2,
+        241.6,
+        825.1,
+        255.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Joyce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Holy",
+      "bbox": [
+        42.0,
+        325.5,
+        105.9,
+        433.3
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Bible",
+          "auteur": null,
+          "tier": "The Holy"
+        },
+        {
+          "titre": "Genesis",
+          "auteur": null,
+          "tier": "The Holy"
+        },
+        {
+          "titre": "Exodus",
+          "auteur": null,
+          "tier": "The Holy"
+        },
+        {
+          "titre": "Leviticus",
+          "auteur": null,
+          "tier": "The Holy"
+        },
+        {
+          "titre": "Job",
+          "auteur": null,
+          "tier": "The Holy"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        661.2,
+        331.4,
+        837.2,
+        549.9
+      ],
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Post-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Modernism",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Flann O'Brien |",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Borges",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hawkes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Barthelme",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Pynchon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gass",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Late Nabokov",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Barth",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Other 20th/21st",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Century Lit",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Baldwin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Don DeLillo",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Eudigines",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Richard Wright",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Herman Hesse",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Toni Morrison",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "George Orwell",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hong Kingston",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.1,
+        331.4,
+        931.0,
+        417.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Post-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Postmodernism",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Infinite Jest",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tao Lin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jonathan Franzen",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "18th Century Literature",
+      "bbox": [
+        354.4,
+        333.4,
+        629.3,
+        443.6
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "Voltaire",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Jonathan Swift",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Journal of the",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Alexander Pope Moll Flanders Plague Year",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "William Blake Autobiography The Life of",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "of Benajmin",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Frederick",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Goethe's Faust",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Franklin",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        },
+        {
+          "titre": "Douglass",
+          "auteur": null,
+          "tier": "18th Century Literature"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        39.8,
+        449.0,
+        110.1,
+        555.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Medieval",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "European",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Inferno",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Decameron",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "York Cycle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Plays",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Medieval",
+      "bbox": [
+        199.6,
+        456.4,
+        259.9,
+        523.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Arabic",
+          "auteur": null,
+          "tier": "Medieval"
+        },
+        {
+          "titre": "The 1,001",
+          "auteur": null,
+          "tier": "Medieval"
+        },
+        {
+          "titre": "Nights",
+          "auteur": null,
+          "tier": "Medieval"
+        }
+      ]
+    },
+    {
+      "tier": "19th Century Literature",
+      "bbox": [
+        375.6,
+        465.2,
+        607.4,
+        571.0
+      ],
+      "nb_lignes": 13,
+      "noeuds": [
+        {
+          "titre": "Wordsworth",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "War and Peace Moby-Dick",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Dickens",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Crme and",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "The Count of",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Punishment",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Jane Eyre",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Monte Cristo",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Wuthering",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Oscar Wilde",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Wagner",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        },
+        {
+          "titre": "Heights",
+          "auteur": null,
+          "tier": "19th Century Literature"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        117.9,
+        479.2,
+        191.8,
+        551.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The Death of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Arthur",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cantebury",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tales",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        847.1,
+        485.2,
+        907.1,
+        549.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Maus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Junot Diaz",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Burroughs",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ginsberg",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

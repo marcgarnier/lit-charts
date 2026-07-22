@@ -1,0 +1,61 @@
+{
+  "fichier": "01_Beginner 1.jpeg",
+  "date": "2026-07-21T19:30:37.230757+00:00",
+  "nb_lignes_texte": 172,
+  "nb_caracteres": 1689,
+  "registres_actifs": [
+    "niveaux_nommes",
+    "hierarchie_valeur",
+    "point_entree"
+  ],
+  "score_total": 11,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 7,
+      "extraits": [
+        "Entry-level Tier",
+        "01d-School Tier",
+        "Vintage-Tier",
+        "Pulpy-Goodness Tier"
+      ]
+    },
+    "hierarchie_valeur": {
+      "occurrences": 2,
+      "extraits": [
+        "Multivolumes: God-Tier",
+        "Multivolumes: Shit-Tier"
+      ]
+    },
+    "point_entree": {
+      "occurrences": 2,
+      "extraits": [
+        "Entry-level Tier",
+        "/lit/'s beginner's guide to"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

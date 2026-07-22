@@ -1,0 +1,597 @@
+{
+  "fichier": "34_Twitter-core.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:48.189440+00:00",
+  "duree_s": 0.5,
+  "taille_origine": [
+    928,
+    1200
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 53,
+  "lignes": [
+    {
+      "texte": "Twitter-core essentials",
+      "texte_balise": "Twitter-core essentials",
+      "bbox": [
+        264.0,
+        26.0,
+        660.0,
+        58.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CTRLCREEP",
+      "texte_balise": "CTRLCREEP",
+      "bbox": [
+        780.0,
+        192.0,
+        896.0,
+        204.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "BRONZE AGE MINDSET",
+      "texte_balise": "BRONZE AGE MINDSET",
+      "bbox": [
+        34.0,
+        194.0,
+        152.0,
+        210.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DY DRONRE AGE POVERT",
+      "texte_balise": "DY DRONRE AGE POVERT",
+      "bbox": [
+        76.0,
+        208.0,
+        152.0,
+        218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Own",
+      "texte_balise": "= Own",
+      "bbox": [
+        307.7,
+        302.4,
+        438.3,
+        335.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Read",
+      "texte_balise": "= Read",
+      "bbox": [
+        565.8,
+        303.1,
+        692.2,
+        334.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIFE &",
+      "texte_balise": "LIFE &",
+      "bbox": [
+        781.8,
+        335.0,
+        856.2,
+        355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        782.0,
+        354.0,
+        830.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LINDY",
+      "texte_balise": "LINDY",
+      "bbox": [
+        782.0,
+        374.0,
+        852.0,
+        392.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EFFECT",
+      "texte_balise": "EFFECT",
+      "bbox": [
+        782.0,
+        394.0,
+        872.0,
+        412.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selfic, Suicide",
+      "texte_balise": "Selfic, Suicide",
+      "bbox": [
+        25.9,
+        407.6,
+        140.1,
+        428.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GALAXY BRAINSET",
+      "texte_balise": "GALAXY BRAINSET",
+      "bbox": [
+        188.0,
+        502.0,
+        306.0,
+        520.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DECLINE & E",
+      "texte_balise": "THE DECLINE & E",
+      "bbox": [
+        594.0,
+        524.0,
+        684.0,
+        534.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN ART",
+      "texte_balise": "WESTERN ART",
+      "bbox": [
+        594.0,
+        534.0,
+        712.0,
+        552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRENDAN MIP. HEARD",
+      "texte_balise": "BRENDAN MIP. HEARD",
+      "bbox": [
+        606.0,
+        552.0,
+        700.0,
+        562.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BARKING AT THE HERD.",
+      "texte_balise": "BARKING AT THE HERD.",
+      "bbox": [
+        796.0,
+        646.0,
+        906.0,
+        658.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AKARATEFU",
+      "texte_balise": "AKARATEFU",
+      "bbox": [
+        28.0,
+        652.0,
+        160.0,
+        688.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "A MYTHIC MANIESTO OF THE HEROKE",
+      "texte_balise": "A MYTHIC MANIESTO OF THE HEROKE",
+      "bbox": [
+        802.0,
+        654.0,
+        908.0,
+        664.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Matter of",
+      "texte_balise": "A Matter of",
+      "bbox": [
+        382.0,
+        729.8,
+        512.0,
+        754.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRACU",
+      "texte_balise": "DRACU",
+      "bbox": [
+        176.0,
+        733.9,
+        240.0,
+        752.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The gig",
+      "texte_balise": "The gig",
+      "bbox": [
+        620.0,
+        734.0,
+        714.0,
+        762.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FINALLY,",
+      "texte_balise": "FINALLY,",
+      "bbox": [
+        27.8,
+        749.4,
+        158.2,
+        788.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RULES T",
+      "texte_balise": "RULES T",
+      "bbox": [
+        184.0,
+        752.0,
+        246.0,
+        772.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "economy",
+      "texte_balise": "economy",
+      "bbox": [
+        596.0,
+        761.9,
+        712.0,
+        784.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time",
+      "texte_balise": "Time",
+      "bbox": [
+        414.0,
+        762.0,
+        484.0,
+        786.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORLD",
+      "texte_balise": "WORLD",
+      "bbox": [
+        180.0,
+        772.0,
+        242.0,
+        790.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOME GOOD NEWS\"",
+      "texte_balise": "SOME GOOD NEWS\"",
+      "bbox": [
+        29.9,
+        775.6,
+        154.1,
+        798.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How Time Preferences",
+      "texte_balise": "How Time Preferences",
+      "bbox": [
+        404.0,
+        786.0,
+        490.0,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARK",
+      "texte_balise": "MARK",
+      "bbox": [
+        182.0,
+        788.0,
+        232.0,
+        808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Make or Break Civilization",
+      "texte_balise": "Make or Break Civilization",
+      "bbox": [
+        398.0,
+        796.0,
+        496.0,
+        808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IT IS",
+      "texte_balise": "IT IS",
+      "bbox": [
+        818.0,
+        804.0,
+        846.0,
+        814.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZUCKERBERG",
+      "texte_balise": "ZUCKERBERG",
+      "bbox": [
+        182.0,
+        808.0,
+        292.0,
+        826.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        820.0,
+        818.0,
+        844.0,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IS HIS SON",
+      "texte_balise": "IS HIS SON",
+      "bbox": [
+        179.9,
+        825.5,
+        274.1,
+        844.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECRET",
+      "texte_balise": "SECRET",
+      "bbox": [
+        810.0,
+        833.9,
+        854.0,
+        846.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "zerohplovecrok",
+      "texte_balise": "zerohplovecrok",
+      "bbox": [
+        618.0,
+        838.0,
+        690.0,
+        850.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ORWELL",
+      "texte_balise": "ORWELL",
+      "bbox": [
+        412.0,
+        884.0,
+        488.0,
+        904.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BC MILLER",
+      "texte_balise": "BC MILLER",
+      "bbox": [
+        182.0,
+        900.0,
+        286.0,
+        926.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "& GOODE",
+      "texte_balise": "& GOODE",
+      "bbox": [
+        407.8,
+        907.5,
+        492.2,
+        932.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-DELICIOUS TACOSS",
+      "texte_balise": "-DELICIOUS TACOSS",
+      "bbox": [
+        20.0,
+        908.0,
+        160.0,
+        932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PUSSY",
+      "texte_balise": "THE PUSSY",
+      "bbox": [
+        35.8,
+        959.3,
+        144.2,
+        988.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NORTHERN",
+      "texte_balise": "NORTHERN",
+      "bbox": [
+        176.0,
+        962.0,
+        312.0,
+        986.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESOTERIC",
+      "texte_balise": "ESOTERIC",
+      "bbox": [
+        403.8,
+        967.2,
+        508.2,
+        990.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sanity",
+      "texte_balise": "Sanity",
+      "bbox": [
+        624.0,
+        980.0,
+        694.0,
+        1010.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IS TACOS",
+      "texte_balise": "IS TACOS",
+      "bbox": [
+        87.9,
+        981.6,
+        142.1,
+        996.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLLYWOOD",
+      "texte_balise": "HOLLYWOOD",
+      "bbox": [
+        386.0,
+        985.8,
+        520.0,
+        1010.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELIC",
+      "texte_balise": "DELIC",
+      "bbox": [
+        40.0,
+        986.0,
+        72.0,
+        996.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REACTION",
+      "texte_balise": "REACTION",
+      "bbox": [
+        175.8,
+        987.1,
+        312.2,
+        1014.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEX: CULTS AND SYMBOLS IN FILM",
+      "texte_balise": "SEX: CULTS AND SYMBOLS IN FILM",
+      "bbox": [
+        388.0,
+        1010.0,
+        518.0,
+        1020.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a novel",
+      "texte_balise": "a novel",
+      "bbox": [
+        646.0,
+        1040.0,
+        670.0,
+        1050.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neovictorian",
+      "texte_balise": "Neovictorian",
+      "bbox": [
+        630.0,
+        1066.0,
+        688.0,
+        1076.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jay Dyer",
+      "texte_balise": "Jay Dyer",
+      "bbox": [
+        482.0,
+        1142.0,
+        518.0,
+        1152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BILL MARCHANT",
+      "texte_balise": "BILL MARCHANT",
+      "bbox": [
+        174.0,
+        1148.0,
+        310.0,
+        1166.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

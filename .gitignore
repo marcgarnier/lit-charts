@@ -17,13 +17,8 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# --- Données (jamais versionnées) ---
-data/raw/*
-data/interim/*
-data/processed/*
-!data/raw/.gitkeep
-!data/interim/.gitkeep
-!data/processed/.gitkeep
+# --- Données versionnées (retirées du gitignore) ---
+# data/raw/ est désormais versionné
 
 # --- Modèles et fichiers volumineux ---
 models/
@@ -36,8 +31,7 @@ models/
 *.onnx
 *.parquet
 *.feather
-*.csv
-*.tsv
+# Les CSV de données sont versionnés — on ne les ignore plus
 *.xlsx
 *.zip
 *.tar.gz

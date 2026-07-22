@@ -1,0 +1,7230 @@
+{
+  "fichier": "09_Christian Poetic Narratives.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:21.348778+00:00",
+  "duree_s": 6.2,
+  "taille_origine": [
+    1791,
+    4145
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 656,
+  "lignes": [
+    {
+      "texte": "Second Revised Edition of the",
+      "texte_balise": "Second Revised Edition of the",
+      "bbox": [
+        7.8,
+        26.0,
+        528.4,
+        59.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christian Poetic Narratives",
+      "texte_balise": "Christian Poetic Narratives",
+      "bbox": [
+        546.7,
+        74.9,
+        1762.4,
+        158.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critical-Historical",
+      "texte_balise": "Critical-Historical",
+      "bbox": [
+        10.4,
+        75.4,
+        312.4,
+        111.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to the larger",
+      "texte_balise": "Introduction to the larger",
+      "bbox": [
+        7.8,
+        127.4,
+        458.2,
+        166.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "body of literary traditions of",
+      "texte_balise": "body of literary traditions of",
+      "bbox": [
+        10.4,
+        176.8,
+        507.6,
+        218.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BALAVARIANI",
+      "texte_balise": "BALAVARIANI",
+      "bbox": [
+        1499.4,
+        283.4,
+        1582.7,
+        296.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BABEL",
+      "texte_balise": "BABEL",
+      "bbox": [
+        1348.3,
+        295.8,
+        1413.7,
+        310.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "193663209386",
+      "texte_balise": "193663209386",
+      "bbox": [
+        177.0,
+        309.5,
+        252.5,
+        322.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "«LA, dali",
+      "texte_balise": "«LA, dali",
+      "bbox": [
+        1640.0,
+        348.5,
+        1705.1,
+        366.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MAMAN",
+      "texte_balise": "MAMAN",
+      "bbox": [
+        242.1,
+        405.7,
+        275.9,
+        410.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alethia",
+      "texte_balise": "Alethia",
+      "bbox": [
+        39.0,
+        418.7,
+        88.5,
+        434.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abdulmesiani",
+      "texte_balise": "Abdulmesiani",
+      "bbox": [
+        161.4,
+        421.3,
+        260.3,
+        434.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexandreis",
+      "texte_balise": "Alexandreis",
+      "bbox": [
+        330.6,
+        423.9,
+        413.9,
+        436.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andreas",
+      "texte_balise": "Andreas",
+      "bbox": [
+        523.2,
+        426.5,
+        583.1,
+        439.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Antoniad",
+      "texte_balise": "The Antoniad",
+      "bbox": [
+        671.6,
+        426.5,
+        765.3,
+        439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arpiakan Hayastani",
+      "texte_balise": "Arpiakan Hayastani",
+      "bbox": [
+        809.6,
+        426.5,
+        947.6,
+        439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ash Wednesday",
+      "texte_balise": "Ash Wednesday",
+      "bbox": [
+        991.8,
+        426.5,
+        1106.4,
+        439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of the Holy",
+      "texte_balise": "The Book of the Holy",
+      "bbox": [
+        1640.0,
+        431.6,
+        1767.6,
+        447.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Babel",
+      "texte_balise": "Babel",
+      "bbox": [
+        1358.9,
+        431.7,
+        1403.1,
+        444.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Balavariani",
+      "texte_balise": "The Balavariani",
+      "bbox": [
+        1491.6,
+        434.3,
+        1603.6,
+        447.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Claudius Marius Victorius",
+      "texte_balise": "Claudius Marius Victorius",
+      "bbox": [
+        2.6,
+        436.6,
+        132.8,
+        447.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Petrus Risa",
+      "texte_balise": "Petrus Risa",
+      "bbox": [
+        1194.8,
+        439.3,
+        1254.8,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "loane Shavtell",
+      "texte_balise": "loane Shavtell",
+      "bbox": [
+        166.6,
+        439.5,
+        244.7,
+        449.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Walter of Chatilion",
+      "texte_balise": "Walter of Chatilion",
+      "bbox": [
+        322.8,
+        439.5,
+        421.7,
+        452.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        523.2,
+        439.5,
+        585.7,
+        452.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(The Life of St. Anthony)",
+      "texte_balise": "(The Life of St. Anthony)",
+      "bbox": [
+        640.4,
+        439.5,
+        788.8,
+        452.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H. Vanandets/",
+      "texte_balise": "H. Vanandets/",
+      "bbox": [
+        838.2,
+        439.5,
+        913.7,
+        452.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Stearns Ellot",
+      "texte_balise": "Thomas Stearns Ellot",
+      "bbox": [
+        994.4,
+        439.5,
+        1106.4,
+        452.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre Emmanuel",
+      "texte_balise": "Pierre Emmanuel",
+      "bbox": [
+        1338.0,
+        444.6,
+        1431.8,
+        457.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1517.7,
+        444.7,
+        1580.1,
+        457.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Maffeo Vegio",
+      "texte_balise": "Maffeo Vegio",
+      "bbox": [
+        679.4,
+        449.6,
+        749.7,
+        462.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hierotheos",
+      "texte_balise": "Hierotheos",
+      "bbox": [
+        1640.0,
+        449.9,
+        1710.3,
+        462.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen Bar Sudavli",
+      "texte_balise": "Stephen Bar Sudavli",
+      "bbox": [
+        1645.2,
+        465.5,
+        1749.3,
+        473.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXODUS AND DANIEL",
+      "texte_balise": "EXODUS AND DANIEL",
+      "bbox": [
+        1483.8,
+        470.6,
+        1608.8,
+        481.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TWO OLD ENGLISH POESI",
+      "texte_balise": "TWO OLD ENGLISH POESI",
+      "bbox": [
+        1496.8,
+        488.6,
+        1593.2,
+        494.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parrative",
+      "texte_balise": "Parrative",
+      "bbox": [
+        1343.3,
+        496.7,
+        1400.5,
+        512.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PILGRIMAGE",
+      "texte_balise": "PILGRIMAGE",
+      "bbox": [
+        666.4,
+        499.3,
+        762.7,
+        512.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1025.7,
+        504.5,
+        1080.3,
+        527.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLEANNESS",
+      "texte_balise": "CLEANNESS",
+      "bbox": [
+        1166.2,
+        504.5,
+        1273.0,
+        517.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anity of the",
+      "texte_balise": "anity of the",
+      "bbox": [
+        1345.9,
+        507.1,
+        1416.1,
+        520.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cursor",
+      "texte_balise": "Cursor",
+      "bbox": [
+        1351.1,
+        522.7,
+        1408.3,
+        540.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christiad",
+      "texte_balise": "Christiad",
+      "bbox": [
+        997.0,
+        525.3,
+        1109.0,
+        548.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mundi",
+      "texte_balise": "Mundi",
+      "bbox": [
+        1345.9,
+        543.5,
+        1413.5,
+        566.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crito claro",
+      "texte_balise": "Crito claro",
+      "bbox": [
+        1338.0,
+        598.1,
+        1410.9,
+        603.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Cleanness",
+      "texte_balise": "Cleanness",
+      "bbox": [
+        1187.0,
+        636.8,
+        1257.4,
+        653.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book of the Rose",
+      "texte_balise": "Book of the Rose",
+      "bbox": [
+        15.6,
+        637.1,
+        119.7,
+        652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Breuissima Compreensio",
+      "texte_balise": "Breuissima Compreensio",
+      "bbox": [
+        143.2,
+        637.1,
+        278.5,
+        650.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Martyrdom of the Theban Legion",
+      "texte_balise": "The Martyrdom of the Theban Legion",
+      "bbox": [
+        291.6,
+        637.1,
+        479.0,
+        650.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carmen Paschale",
+      "texte_balise": "Carmen Paschale",
+      "bbox": [
+        489.4,
+        637.1,
+        609.1,
+        652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Childe Harold's Pilgrimage",
+      "texte_balise": "Childe Harold's Pilgrimage",
+      "bbox": [
+        627.4,
+        637.1,
+        804.4,
+        652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cursor Mundi",
+      "texte_balise": "Cursor Mundi",
+      "bbox": [
+        1335.4,
+        637.1,
+        1429.2,
+        650.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christ and Satan",
+      "texte_balise": "Christ and Satan",
+      "bbox": [
+        825.2,
+        639.5,
+        942.4,
+        655.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Christiad",
+      "texte_balise": "The Christiad",
+      "bbox": [
+        1010.0,
+        639.5,
+        1098.5,
+        652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daniel",
+      "texte_balise": "Daniel",
+      "bbox": [
+        1528.1,
+        642.3,
+        1574.9,
+        655.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e christi reditu ab infer",
+      "texte_balise": "e christi reditu ab infer",
+      "bbox": [
+        1647.8,
+        644.4,
+        1770.2,
+        657.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sigebert of Gembloux",
+      "texte_balise": "Sigebert of Gembloux",
+      "bbox": [
+        325.4,
+        647.4,
+        437.3,
+        660.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marco Girolamo Vida",
+      "texte_balise": "Marco Girolamo Vida",
+      "bbox": [
+        1004.8,
+        650.0,
+        1111.6,
+        663.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Kthava d-Warda)",
+      "texte_balise": "(Kthava d-Warda)",
+      "bbox": [
+        23.4,
+        650.1,
+        117.1,
+        663.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pearl Poet",
+      "texte_balise": "Pearl Poet",
+      "bbox": [
+        1194.9,
+        650.1,
+        1249.5,
+        663.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        848.6,
+        652.7,
+        911.1,
+        665.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Historialm",
+      "texte_balise": "Historialm",
+      "bbox": [
+        143.2,
+        655.3,
+        197.8,
+        660.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Anonymous (Caedmon)",
+      "texte_balise": "Anonymous (Caedmon)",
+      "bbox": [
+        1499.4,
+        655.3,
+        1619.2,
+        665.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G/wargis Warda of Arbel",
+      "texte_balise": "G/wargis Warda of Arbel",
+      "bbox": [
+        7.8,
+        660.4,
+        132.8,
+        673.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexander of Ashby",
+      "texte_balise": "Alexander of Ashby",
+      "bbox": [
+        161.4,
+        663.1,
+        262.9,
+        676.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The DAY wi",
+      "texte_balise": "The DAY wi",
+      "bbox": [
+        671.6,
+        694.3,
+        736.7,
+        704.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SER MODON",
+      "texte_balise": "SER MODON",
+      "bbox": [
+        1509.9,
+        694.3,
+        1608.8,
+        707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Soğr ffias.",
+      "texte_balise": "Soğr ffias.",
+      "bbox": [
+        15.4,
+        696.2,
+        122.5,
+        723.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SCRIPTORVM EOCLESIASTIOORYN",
+      "texte_balise": "SCRIPTORVM EOCLESIASTIOORYN",
+      "bbox": [
+        822.6,
+        704.4,
+        939.8,
+        717.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOOM:",
+      "texte_balise": "DOOM:",
+      "bbox": [
+        656.0,
+        707.1,
+        755.0,
+        728.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Johannes dc Crerfor die",
+      "texte_balise": "Johannes dc Crerfor die",
+      "bbox": [
+        1340.6,
+        707.3,
+        1426.6,
+        715.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CREGOR EPI",
+      "texte_balise": "CREGOR EPI",
+      "bbox": [
+        1507.3,
+        707.3,
+        1603.6,
+        720.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fall of Man",
+      "texte_balise": "The Fall of Man",
+      "bbox": [
+        1171.4,
+        709.9,
+        1259.9,
+        725.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dor arme Heinrich",
+      "texte_balise": "Dor arme Heinrich",
+      "bbox": [
+        1655.6,
+        712.4,
+        1762.4,
+        725.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mong",
+      "texte_balise": "mong",
+      "bbox": [
+        658.6,
+        720.3,
+        689.8,
+        738.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCIMAR TINI",
+      "texte_balise": "SCIMAR TINI",
+      "bbox": [
+        1507.3,
+        735.9,
+        1608.8,
+        749.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE TRIMPHTE",
+      "texte_balise": "DE TRIMPHTE",
+      "bbox": [
+        1348.5,
+        738.4,
+        1416.1,
+        751.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Jubgment.",
+      "texte_balise": "Jubgment.",
+      "bbox": [
+        661.2,
+        741.1,
+        749.7,
+        759.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ETERNITY",
+      "texte_balise": "ETERNITY",
+      "bbox": [
+        650.8,
+        759.1,
+        752.4,
+        780.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE ATIRVE APOSTOLORY)",
+      "texte_balise": "DE ATIRVE APOSTOLORY)",
+      "bbox": [
+        827.8,
+        769.3,
+        934.5,
+        782.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e Davidiad",
+      "texte_balise": "e Davidiad",
+      "bbox": [
+        515.4,
+        863.3,
+        593.5,
+        876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Spiritalis Historiae Gestis",
+      "texte_balise": "De Spiritalis Historiae Gestis",
+      "bbox": [
+        1137.6,
+        863.3,
+        1293.8,
+        876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Der Messias",
+      "texte_balise": "Der Messias",
+      "bbox": [
+        23.4,
+        865.9,
+        111.9,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Quodam Verbece a Cane",
+      "texte_balise": "De Quodam Verbece a Cane",
+      "bbox": [
+        296.8,
+        865.9,
+        450.4,
+        879.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Actibus Apostolorum",
+      "texte_balise": "De Actibus Apostolorum",
+      "bbox": [
+        804.4,
+        865.9,
+        963.2,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Serie Sex Elatum",
+      "texte_balise": "De Serie Sex Elatum",
+      "bbox": [
+        978.8,
+        865.9,
+        1122.0,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De triumphis eclesiae",
+      "texte_balise": "De triumphis eclesiae",
+      "bbox": [
+        1306.8,
+        865.9,
+        1468.2,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Visionibus Wettini",
+      "texte_balise": "De Visionibus Wettini",
+      "bbox": [
+        1481.2,
+        865.9,
+        1624.4,
+        879.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Der arme Heinrich",
+      "texte_balise": "Der arme Heinrich",
+      "bbox": [
+        1647.8,
+        865.9,
+        1775.4,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Partu Virginis",
+      "texte_balise": "De Partu Virginis",
+      "bbox": [
+        158.8,
+        868.3,
+        278.5,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Day of Doom",
+      "texte_balise": "The Day of Doom",
+      "bbox": [
+        648.2,
+        868.3,
+        770.5,
+        881.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Avitus",
+      "texte_balise": "Avitus",
+      "bbox": [
+        1194.9,
+        876.4,
+        1228.7,
+        884.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich Gottlieb Klopstock",
+      "texte_balise": "Friedrich Gottlieb Klopstock",
+      "bbox": [
+        -0.0,
+        879.0,
+        143.2,
+        892.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Discern edulius Scottus",
+      "texte_balise": "Discern edulius Scottus",
+      "bbox": [
+        296.8,
+        879.0,
+        419.1,
+        902.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marko Marillie",
+      "texte_balise": "Marko Marillie",
+      "bbox": [
+        512.8,
+        879.0,
+        588.3,
+        884.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adam of Barking",
+      "texte_balise": "Adam of Barking",
+      "bbox": [
+        1010.0,
+        879.0,
+        1098.5,
+        892.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Wigglesworth",
+      "texte_balise": "Michael Wigglesworth",
+      "bbox": [
+        658.6,
+        884.2,
+        770.5,
+        892.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ohanner de carlandia",
+      "texte_balise": "ohanner de carlandia",
+      "bbox": [
+        1330.2,
+        884.2,
+        1444.8,
+        889.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "orator",
+      "texte_balise": "orator",
+      "bbox": [
+        861.7,
+        886.8,
+        895.5,
+        892.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Tragicall Hiftory",
+      "texte_balise": "The Tragicall Hiftory",
+      "bbox": [
+        315.0,
+        917.0,
+        445.1,
+        936.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tragicall Hiltory",
+      "texte_balise": "The Tragicall Hiltory",
+      "bbox": [
+        315.0,
+        918.0,
+        445.1,
+        936.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE EPIC OF SAUL",
+      "texte_balise": "THE EPIC OF SAUL",
+      "bbox": [
+        1161.0,
+        918.0,
+        1283.4,
+        931.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELIJAH THE REPORNER",
+      "texte_balise": "ELIJAH THE REPORNER",
+      "bbox": [
+        994.4,
+        925.0,
+        1098.5,
+        938.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELJAH THE REFORNER",
+      "texte_balise": "ELJAH THE REFORNER",
+      "bbox": [
+        997.0,
+        925.8,
+        1098.5,
+        939.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIVIN COMEDY",
+      "texte_balise": "DIVIN COMEDY",
+      "bbox": [
+        179.6,
+        930.0,
+        249.9,
+        949.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIA MEDY",
+      "texte_balise": "DIA MEDY",
+      "bbox": [
+        179.6,
+        931.0,
+        249.9,
+        946.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "of the Life and Death",
+      "texte_balise": "of the Life and Death",
+      "bbox": [
+        320.2,
+        933.2,
+        437.3,
+        949.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVANGELIEN BUCE.",
+      "texte_balise": "EVANGELIEN BUCE.",
+      "bbox": [
+        1647.8,
+        935.6,
+        1752.0,
+        949.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Dodor Pariyya",
+      "texte_balise": "of Dodor Pariyya",
+      "bbox": [
+        338.4,
+        951.0,
+        413.9,
+        959.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "а валяла",
+      "texte_balise": "а валяла",
+      "bbox": [
+        1023.1,
+        951.8,
+        1064.7,
+        957.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "* TALADIA",
+      "texte_balise": "* TALADIA",
+      "bbox": [
+        1023.1,
+        953.9,
+        1064.7,
+        959.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "NANTE ANGRIERI",
+      "texte_balise": "NANTE ANGRIERI",
+      "bbox": [
+        182.2,
+        974.7,
+        244.7,
+        980.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SE ARTES CON",
+      "texte_balise": "SE ARTES CON",
+      "bbox": [
+        1002.2,
+        985.2,
+        1088.1,
+        991.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "20 PaO 21r31",
+      "texte_balise": "20 PaO 21r31",
+      "bbox": [
+        1676.5,
+        1006.1,
+        1720.7,
+        1014.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Tas lamin",
+      "texte_balise": "Tas lamin",
+      "bbox": [
+        1525.5,
+        1014.1,
+        1572.3,
+        1019.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ecbasis culusdam captivi per",
+      "texte_balise": "Ecbasis culusdam captivi per",
+      "bbox": [
+        635.2,
+        1091.9,
+        781.0,
+        1105.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•The Tragic History of the Life and",
+      "texte_balise": "•The Tragic History of the Life and",
+      "bbox": [
+        281.1,
+        1092.1,
+        453.0,
+        1105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dream of the Rood",
+      "texte_balise": "The Dream of the Rood",
+      "bbox": [
+        468.6,
+        1092.1,
+        627.4,
+        1108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elegy on the Taking of Edessa",
+      "texte_balise": "Elegy on the Taking of Edessa",
+      "bbox": [
+        796.6,
+        1094.0,
+        960.6,
+        1107.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Der Konig von Sion",
+      "texte_balise": "Der Konig von Sion",
+      "bbox": [
+        2.6,
+        1094.8,
+        135.4,
+        1110.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine Comedy",
+      "texte_balise": "The Divine Comedy",
+      "bbox": [
+        148.4,
+        1094.8,
+        283.7,
+        1110.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sheceram antivire",
+      "texte_balise": "sheceram antivire",
+      "bbox": [
+        635.2,
+        1094.8,
+        773.1,
+        1100.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Epic of Paul & Epic of Saul Eulogy for St. Cuthbert",
+      "texte_balise": "Epic of Paul & Epic of Saul Eulogy for St. Cuthbert",
+      "bbox": [
+        1142.8,
+        1094.8,
+        1463.0,
+        1110.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Corone teane",
+      "texte_balise": "A Corone teane",
+      "bbox": [
+        283.7,
+        1097.0,
+        450.4,
+        1102.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "pic of Paul & Epic of Saul Eulogy for St. Cuthbel",
+      "texte_balise": "pic of Paul & Epic of Saul Eulogy for St. Cuthbel",
+      "bbox": [
+        1150.6,
+        1097.0,
+        1455.2,
+        1113.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eledy on the Taking of Edessa",
+      "texte_balise": "Eledy on the Taking of Edessa",
+      "bbox": [
+        796.6,
+        1097.1,
+        958.0,
+        1105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elijah the Reformer",
+      "texte_balise": "Elijah the Reformer",
+      "bbox": [
+        978.8,
+        1097.1,
+        1116.8,
+        1113.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Evangelienbuch",
+      "texte_balise": "Evangelienbuch",
+      "bbox": [
+        1653.0,
+        1097.4,
+        1765.0,
+        1113.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eupolemius",
+      "texte_balise": "Eupolemius",
+      "bbox": [
+        1507.3,
+        1100.0,
+        1588.0,
+        1113.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cathlicos Nerses the Grascious",
+      "texte_balise": "Cathlicos Nerses the Grascious",
+      "bbox": [
+        804.4,
+        1105.1,
+        963.2,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        518.0,
+        1105.2,
+        583.1,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tropologiam",
+      "texte_balise": "tropologiam",
+      "bbox": [
+        632.6,
+        1107.5,
+        697.7,
+        1120.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante Alighieri",
+      "texte_balise": "Dante Alighieri",
+      "bbox": [
+        177.0,
+        1107.8,
+        257.7,
+        1121.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Death of Doctor Faustus",
+      "texte_balise": "Death of Doctor Faustus",
+      "bbox": [
+        286.4,
+        1107.8,
+        408.7,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Hamerling",
+      "texte_balise": "Robert Hamerling",
+      "bbox": [
+        23.4,
+        1110.0,
+        117.1,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "athliane serene the hackini",
+      "texte_balise": "athliane serene the hackini",
+      "bbox": [
+        801.8,
+        1110.0,
+        960.6,
+        1115.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Lansing Tavior",
+      "texte_balise": "Lansing Tavior",
+      "bbox": [
+        1007.4,
+        1110.0,
+        1082.9,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Willlam Cleaver Wilkinson",
+      "texte_balise": "Willlam Cleaver Wilkinson",
+      "bbox": [
+        1155.8,
+        1110.0,
+        1296.4,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Cleaver Wilkinson",
+      "texte_balise": "William Cleaver Wilkinson",
+      "bbox": [
+        1158.4,
+        1110.0,
+        1296.4,
+        1123.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Venerable Bede",
+      "texte_balise": "The Venerable Bede",
+      "bbox": [
+        1332.8,
+        1110.0,
+        1439.6,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tropologian",
+      "texte_balise": "tropologian",
+      "bbox": [
+        635.2,
+        1110.4,
+        695.1,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1676.5,
+        1110.4,
+        1738.9,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lansing Taylor",
+      "texte_balise": "Lansing Taylor",
+      "bbox": [
+        1007.4,
+        1112.7,
+        1085.5,
+        1126.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1517.7,
+        1113.0,
+        1580.1,
+        1123.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        682.0,
+        1115.6,
+        741.9,
+        1128.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christopher Marlowe",
+      "texte_balise": "Christopher Marlowe",
+      "bbox": [
+        322.8,
+        1120.8,
+        429.5,
+        1134.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sooner manove",
+      "texte_balise": "sooner manove",
+      "bbox": [
+        320.2,
+        1125.7,
+        429.5,
+        1131.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Hartmann con Auc",
+      "texte_balise": "Hartmann con Auc",
+      "bbox": [
+        161.4,
+        1141.0,
+        278.5,
+        1154.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hartmann con Aue",
+      "texte_balise": "Hartmann con Aue",
+      "bbox": [
+        161.4,
+        1141.6,
+        278.5,
+        1155.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feilagra Mama",
+      "texte_balise": "Feilagra Mama",
+      "bbox": [
+        486.7,
+        1143.5,
+        596.2,
+        1173.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GOD IS WONDERFUL",
+      "texte_balise": "GOD IS WONDERFUL",
+      "bbox": [
+        1332.8,
+        1144.0,
+        1450.0,
+        1157.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CUDI AE",
+      "texte_balise": "CUDI AE",
+      "bbox": [
+        315.0,
+        1146.8,
+        413.9,
+        1162.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUDLAE B",
+      "texte_balise": "GUDLAE B",
+      "bbox": [
+        317.6,
+        1149.0,
+        434.7,
+        1165.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        692.5,
+        1149.4,
+        726.3,
+        1162.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN HIS SAINTS",
+      "texte_balise": "IN HIS SAINTS",
+      "bbox": [
+        1348.5,
+        1154.0,
+        1431.8,
+        1167.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gregorius",
+      "texte_balise": "Gregorius",
+      "bbox": [
+        202.9,
+        1156.4,
+        268.2,
+        1170.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "heLIAND",
+      "texte_balise": "heLIAND",
+      "bbox": [
+        650.7,
+        1164.4,
+        765.4,
+        1188.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SeGUR",
+      "texte_balise": "SeGUR",
+      "bbox": [
+        518.0,
+        1167.4,
+        564.9,
+        1180.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A TRANSLATION",
+      "texte_balise": "A TRANSLATION",
+      "bbox": [
+        315.0,
+        1175.0,
+        437.3,
+        1188.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Saxon Gospel",
+      "texte_balise": "The Saxon Gospel",
+      "bbox": [
+        656.0,
+        1183.0,
+        760.1,
+        1199.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY BUL GRIFFITHS",
+      "texte_balise": "BY BUL GRIFFITHS",
+      "bbox": [
+        312.4,
+        1196.0,
+        437.3,
+        1212.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        861.7,
+        1201.2,
+        903.3,
+        1214.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE OLD ENCLISTE",
+      "texte_balise": "OF THE OLD ENCLISTE",
+      "bbox": [
+        315.0,
+        1219.0,
+        439.9,
+        1232.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cyprianus Galle",
+      "texte_balise": "Cyprianus Galle",
+      "bbox": [
+        846.0,
+        1232.0,
+        916.3,
+        1243.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOEM ON THE DEATH",
+      "texte_balise": "BOEM ON THE DEATH",
+      "bbox": [
+        312.4,
+        1240.0,
+        437.3,
+        1253.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF SAINT GUTHLAE",
+      "texte_balise": "OF SAINT GUTHLAE",
+      "bbox": [
+        315.0,
+        1263.7,
+        434.7,
+        1277.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Life & Death of St. Guthlac of Heilagra Manna Sogur",
+      "texte_balise": "The Life & Death of St. Guthlac of Heilagra Manna Sogur",
+      "bbox": [
+        294.2,
+        1318.0,
+        627.4,
+        1334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Heliand",
+      "texte_balise": "The Heliand",
+      "bbox": [
+        666.4,
+        1318.0,
+        749.8,
+        1334.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hexaemeron",
+      "texte_balise": "Hexaemeron",
+      "bbox": [
+        1004.8,
+        1318.4,
+        1095.9,
+        1334.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Heptateuchos",
+      "texte_balise": "Heptateuchos",
+      "bbox": [
+        833.0,
+        1321.0,
+        931.9,
+        1336.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gregorius",
+      "texte_balise": "Gregorius",
+      "bbox": [
+        182.2,
+        1323.6,
+        249.9,
+        1336.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homeric Centos",
+      "texte_balise": "Homeric Centos",
+      "bbox": [
+        1163.6,
+        1323.6,
+        1278.2,
+        1337.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book of Akathists",
+      "texte_balise": "Book of Akathists",
+      "bbox": [
+        1322.4,
+        1323.6,
+        1444.8,
+        1337.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jerusalem Delivered",
+      "texte_balise": "Jerusalem Delivered",
+      "bbox": [
+        1483.8,
+        1323.6,
+        1621.8,
+        1337.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Expeditio lerosolimitana",
+      "texte_balise": "Expeditio lerosolimitana",
+      "bbox": [
+        1642.6,
+        1326.0,
+        1775.4,
+        1339.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ine martyrdom or st. Lucy",
+      "texte_balise": "ine martyrdom or st. Lucy",
+      "bbox": [
+        -0.0,
+        1328.8,
+        138.0,
+        1337.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ole Widding, Hans Bekker-Nie/sen",
+      "texte_balise": "Ole Widding, Hans Bekker-Nie/sen",
+      "bbox": [
+        463.4,
+        1331.0,
+        640.4,
+        1347.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "St. Eugenius lI",
+      "texte_balise": "St. Eugenius lI",
+      "bbox": [
+        1012.6,
+        1331.0,
+        1088.1,
+        1344.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        676.8,
+        1331.4,
+        739.3,
+        1344.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Guthlac A&B)",
+      "texte_balise": "(Guthlac A&B)",
+      "bbox": [
+        348.8,
+        1334.0,
+        426.9,
+        1347.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sigebert of Gembloux",
+      "texte_balise": "Sigebert of Gembloux",
+      "bbox": [
+        13.0,
+        1336.6,
+        127.6,
+        1352.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cyprianus Gallus",
+      "texte_balise": "Cyprianus Gallus",
+      "bbox": [
+        843.4,
+        1336.6,
+        931.9,
+        1352.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hartmann von Aue",
+      "texte_balise": "Hartmann von Aue",
+      "bbox": [
+        171.8,
+        1339.0,
+        268.1,
+        1352.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Verone Althor",
+      "texte_balise": "Verone Althor",
+      "bbox": [
+        1343.2,
+        1339.0,
+        1423.9,
+        1344.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Torquato Tasso",
+      "texte_balise": "Torquato Tasso",
+      "bbox": [
+        1512.5,
+        1341.8,
+        1590.6,
+        1355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metellus of Tegernsee",
+      "texte_balise": "Metellus of Tegernsee",
+      "bbox": [
+        1650.4,
+        1341.8,
+        1765.0,
+        1355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AIOWYTHIOUS",
+      "texte_balise": "AIOWYTHIOUS",
+      "bbox": [
+        341.0,
+        1349.6,
+        400.9,
+        1354.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "А. К. ТОЛСТОЙ",
+      "texte_balise": "А. К. ТОЛСТОЙ",
+      "bbox": [
+        648.2,
+        1357.0,
+        770.5,
+        1378.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\". VONDET.S",
+      "texte_balise": "\". VONDET.S",
+      "bbox": [
+        512.8,
+        1360.0,
+        588.3,
+        1368.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DISCURSG",
+      "texte_balise": "DISCURSG",
+      "bbox": [
+        1356.3,
+        1362.6,
+        1418.7,
+        1373.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARAN ARTHRER",
+      "texte_balise": "HARAN ARTHRER",
+      "bbox": [
+        26.0,
+        1365.0,
+        117.1,
+        1370.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CARMINA",
+      "texte_balise": "CARMINA",
+      "bbox": [
+        328.0,
+        1367.8,
+        419.1,
+        1383.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OANNES",
+      "texte_balise": "OANNES",
+      "bbox": [
+        489.4,
+        1370.4,
+        627.4,
+        1386.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE JESU CHRISTO",
+      "texte_balise": "DE JESU CHRISTO",
+      "bbox": [
+        1322.4,
+        1375.7,
+        1450.0,
+        1396.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOME CEVE",
+      "texte_balise": "THOME CEVE",
+      "bbox": [
+        333.2,
+        1386.0,
+        408.7,
+        1391.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE BOETCEZANT.",
+      "texte_balise": "DE BOETCEZANT.",
+      "bbox": [
+        481.6,
+        1386.0,
+        617.0,
+        1402.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHAISON DANTICHE",
+      "texte_balise": "CHAISON DANTICHE",
+      "bbox": [
+        156.2,
+        1393.9,
+        257.7,
+        1404.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2 Soc. Tory.",
+      "texte_balise": "2 Soc. Tory.",
+      "bbox": [
+        348.8,
+        1396.0,
+        390.5,
+        1402.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bepresen in ses bacten",
+      "texte_balise": "Bepresen in ses bacten",
+      "bbox": [
+        510.2,
+        1404.0,
+        585.7,
+        1415.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PHILOSOPHIA",
+      "texte_balise": "PHILOSOPHIA",
+      "bbox": [
+        322.8,
+        1414.7,
+        419.1,
+        1425.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NO VO. ANTIQVA.",
+      "texte_balise": "NO VO. ANTIQVA.",
+      "bbox": [
+        312.4,
+        1425.0,
+        432.1,
+        1441.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JESVS PVER",
+      "texte_balise": "JESVS PVER",
+      "bbox": [
+        330.5,
+        1448.0,
+        414.0,
+        1464.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CLAREL",
+      "texte_balise": "CLAREL",
+      "bbox": [
+        36.3,
+        1468.6,
+        112.1,
+        1488.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•SYLVA",
+      "texte_balise": "•SYLVA",
+      "bbox": [
+        322.8,
+        1485.0,
+        411.3,
+        1508.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAD INGREZ",
+      "texte_balise": "MAD INGREZ",
+      "bbox": [
+        1390.1,
+        1495.0,
+        1455.2,
+        1514.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Иоанне",
+      "texte_balise": "Иоанне",
+      "bbox": [
+        671.6,
+        1495.4,
+        757.5,
+        1521.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THOMASE",
+      "texte_balise": "THOMASE",
+      "bbox": [
+        1319.8,
+        1495.4,
+        1379.7,
+        1513.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEURY CHARLES LEONAED",
+      "texte_balise": "HEURY CHARLES LEONAED",
+      "bbox": [
+        827.8,
+        1498.0,
+        934.5,
+        1511.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Дамаскин",
+      "texte_balise": "Дамаскин",
+      "bbox": [
+        645.5,
+        1510.7,
+        775.8,
+        1547.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILGRIMAGE IN TID",
+      "texte_balise": "ILGRIMAGE IN TID",
+      "bbox": [
+        28.6,
+        1513.6,
+        114.5,
+        1527.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chanson d'Antioche",
+      "texte_balise": "Chanson d'Antioche",
+      "bbox": [
+        153.6,
+        1544.9,
+        294.2,
+        1561.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paderborn Epic",
+      "texte_balise": "Paderborn Epic",
+      "bbox": [
+        1163.6,
+        1544.9,
+        1275.6,
+        1558.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Krista Purana",
+      "texte_balise": "Krista Purana",
+      "bbox": [
+        1340.6,
+        1547.0,
+        1439.6,
+        1561.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Kirstni Saga",
+      "texte_balise": "The Kirstni Saga",
+      "bbox": [
+        1496.8,
+        1547.0,
+        1614.0,
+        1563.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clarel",
+      "texte_balise": "Clarel",
+      "bbox": [
+        49.5,
+        1547.5,
+        91.1,
+        1560.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Josephina",
+      "texte_balise": "Josephina",
+      "bbox": [
+        1012.6,
+        1547.5,
+        1088.1,
+        1560.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jesus Puer",
+      "texte_balise": "Jesus Puer",
+      "bbox": [
+        341.0,
+        1550.0,
+        416.5,
+        1563.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joannes de Boetgezant",
+      "texte_balise": "Joannes de Boetgezant",
+      "bbox": [
+        468.6,
+        1550.0,
+        630.0,
+        1566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John the Baptist",
+      "texte_balise": "John the Baptist",
+      "bbox": [
+        822.6,
+        1550.0,
+        937.2,
+        1566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Laurentius Saga",
+      "texte_balise": "Laurentius Saga",
+      "bbox": [
+        1650.4,
+        1550.0,
+        1765.0,
+        1566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John of Damascus",
+      "texte_balise": "John of Damascus",
+      "bbox": [
+        650.8,
+        1555.0,
+        773.1,
+        1568.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herman Melville",
+      "texte_balise": "Herman Melville",
+      "bbox": [
+        31.2,
+        1557.9,
+        117.1,
+        1571.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous (Moduin)",
+      "texte_balise": "Anonymous (Moduin)",
+      "bbox": [
+        1163.6,
+        1557.9,
+        1278.2,
+        1571.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tommaso Ceva",
+      "texte_balise": "Tommaso Ceva",
+      "bbox": [
+        343.6,
+        1560.5,
+        419.1,
+        1574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Gerson",
+      "texte_balise": "John Gerson",
+      "bbox": [
+        1020.5,
+        1560.5,
+        1088.1,
+        1574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Er Thomas Stenhans",
+      "texte_balise": "Er Thomas Stenhans",
+      "bbox": [
+        1335.4,
+        1560.5,
+        1442.2,
+        1568.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Einar Haflidason",
+      "texte_balise": "Einar Haflidason",
+      "bbox": [
+        1663.4,
+        1560.5,
+        1752.0,
+        1574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry Charles Leonard",
+      "texte_balise": "Henry Charles Leonard",
+      "bbox": [
+        820.0,
+        1563.0,
+        939.8,
+        1576.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonvenous",
+      "texte_balise": "Anonvenous",
+      "bbox": [
+        190.0,
+        1563.1,
+        249.9,
+        1568.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1522.9,
+        1563.1,
+        1588.0,
+        1573.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aleksey Konstantinovich Tolstoy",
+      "texte_balise": "Aleksey Konstantinovich Tolstoy",
+      "bbox": [
+        635.2,
+        1565.7,
+        799.2,
+        1579.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "boost van den vode",
+      "texte_balise": "boost van den vode",
+      "bbox": [
+        497.2,
+        1568.0,
+        598.7,
+        1574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CoDE Dros",
+      "texte_balise": "CoDE Dros",
+      "bbox": [
+        1166.2,
+        1573.5,
+        1283.4,
+        1602.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "JOHN MILTON",
+      "texte_balise": "JOHN MILTON",
+      "bbox": [
+        1520.3,
+        1583.9,
+        1595.8,
+        1597.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES",
+      "texte_balise": "LES",
+      "bbox": [
+        208.3,
+        1586.5,
+        242.1,
+        1599.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEREENGA.",
+      "texte_balise": "MEREENGA.",
+      "bbox": [
+        1158.4,
+        1594.4,
+        1293.8,
+        1620.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LUCIFER",
+      "texte_balise": "LUCIFER",
+      "bbox": [
+        647.9,
+        1595.1,
+        778.7,
+        1622.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAGIQVES",
+      "texte_balise": "TRAGIQVES",
+      "bbox": [
+        166.6,
+        1599.6,
+        281.1,
+        1615.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MADRIDE SIOS",
+      "texte_balise": "MADRIDE SIOS",
+      "bbox": [
+        1158.1,
+        1608.9,
+        1291.5,
+        1647.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Muspilli -",
+      "texte_balise": "Muspilli -",
+      "bbox": [
+        1025.7,
+        1612.6,
+        1085.5,
+        1628.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRSURSPREVANVONDS",
+      "texte_balise": "TRSURSPREVANVONDS",
+      "bbox": [
+        650.8,
+        1620.4,
+        773.1,
+        1625.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Primary",
+      "texte_balise": "Primary",
+      "bbox": [
+        1028.3,
+        1623.0,
+        1082.9,
+        1638.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VITA",
+      "texte_balise": "VITA",
+      "bbox": [
+        44.3,
+        1625.6,
+        98.9,
+        1641.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        1033.5,
+        1649.0,
+        1080.3,
+        1662.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arnold Hagenauer",
+      "texte_balise": "Arnold Hagenauer",
+      "bbox": [
+        1017.9,
+        1677.7,
+        1095.9,
+        1691.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LEGEND",
+      "texte_balise": "THE LEGEND",
+      "bbox": [
+        1665.9,
+        1695.4,
+        1759.9,
+        1719.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parzival",
+      "texte_balise": "Parzival",
+      "bbox": [
+        1650.4,
+        1708.9,
+        1778.0,
+        1745.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PARADISE LOST",
+      "texte_balise": "PARADISE LOST",
+      "bbox": [
+        1494.2,
+        1714.0,
+        1624.4,
+        1730.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3r Epie Story of",
+      "texte_balise": "3r Epie Story of",
+      "bbox": [
+        1679.1,
+        1737.6,
+        1746.7,
+        1751.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILLUSTRATED EDITION",
+      "texte_balise": "ILLUSTRATED EDITION",
+      "bbox": [
+        1512.5,
+        1740.0,
+        1608.8,
+        1753.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "water there",
+      "texte_balise": "water there",
+      "bbox": [
+        1684.3,
+        1750.6,
+        1738.9,
+        1756.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Legend of Luther",
+      "texte_balise": "Legend of Luther",
+      "bbox": [
+        13.0,
+        1768.8,
+        130.2,
+        1779.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Tragiques",
+      "texte_balise": "Les Tragiques",
+      "bbox": [
+        174.4,
+        1768.8,
+        273.3,
+        1782.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "iber Mathematicu:",
+      "texte_balise": "iber Mathematicu:",
+      "bbox": [
+        317.6,
+        1768.8,
+        445.1,
+        1784.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Occupatio",
+      "texte_balise": "Occupatio",
+      "bbox": [
+        1356.3,
+        1768.8,
+        1429.2,
+        1781.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Life of St. Willibrord",
+      "texte_balise": "Life of St. Willibrord",
+      "bbox": [
+        479.0,
+        1771.0,
+        617.0,
+        1784.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magnalia Dei",
+      "texte_balise": "Magnalia Dei",
+      "bbox": [
+        835.6,
+        1771.0,
+        926.7,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mystical City of God",
+      "texte_balise": "Mystical City of God",
+      "bbox": [
+        1158.4,
+        1771.0,
+        1296.4,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Muspilli",
+      "texte_balise": "Muspilli",
+      "bbox": [
+        1030.9,
+        1771.4,
+        1088.1,
+        1784.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lucifer",
+      "texte_balise": "Lucifer",
+      "bbox": [
+        692.5,
+        1774.0,
+        744.5,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise Lost &",
+      "texte_balise": "Paradise Lost &",
+      "bbox": [
+        1502.0,
+        1774.0,
+        1616.6,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parzival",
+      "texte_balise": "Parzival",
+      "bbox": [
+        1681.6,
+        1776.3,
+        1741.6,
+        1789.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lorenz Rhodomann",
+      "texte_balise": "Lorenz Rhodomann",
+      "bbox": [
+        20.8,
+        1779.0,
+        122.4,
+        1790.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theodore-Agrippa d'Aubigne",
+      "texte_balise": "Theodore-Agrippa d'Aubigne",
+      "bbox": [
+        153.6,
+        1779.0,
+        299.4,
+        1792.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "remardlis silvestri",
+      "texte_balise": "remardlis silvestri",
+      "bbox": [
+        335.8,
+        1784.0,
+        426.9,
+        1790.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Joost van den Vodel",
+      "texte_balise": "Joost van den Vodel",
+      "bbox": [
+        663.8,
+        1784.0,
+        767.9,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Grigor Magistros",
+      "texte_balise": "Grigor Magistros",
+      "bbox": [
+        840.8,
+        1784.0,
+        926.7,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary of Jesus of Ágreda",
+      "texte_balise": "Mary of Jesus of Ágreda",
+      "bbox": [
+        1163.6,
+        1784.0,
+        1291.2,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alcuin",
+      "texte_balise": "Alcuin",
+      "bbox": [
+        533.7,
+        1784.4,
+        570.1,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1028.3,
+        1784.4,
+        1090.7,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "odo of cluny",
+      "texte_balise": "odo of cluny",
+      "bbox": [
+        1358.9,
+        1787.0,
+        1426.6,
+        1795.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolfram von Eschenbach",
+      "texte_balise": "Wolfram von Eschenbach",
+      "bbox": [
+        1640.0,
+        1787.0,
+        1780.6,
+        1800.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise Regained",
+      "texte_balise": "Paradise Regained",
+      "bbox": [
+        1502.0,
+        1792.0,
+        1637.4,
+        1808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Milton",
+      "texte_balise": "John Milton",
+      "bbox": [
+        1528.1,
+        1805.0,
+        1593.2,
+        1818.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIGNACIO",
+      "texte_balise": "SIGNACIO",
+      "bbox": [
+        1317.2,
+        1828.7,
+        1452.6,
+        1849.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pro tan and i",
+      "texte_balise": "The Pro tan and i",
+      "bbox": [
+        1491.6,
+        1828.7,
+        1619.2,
+        1850.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SWEENEY",
+      "texte_balise": "SWEENEY",
+      "bbox": [
+        1653.0,
+        1831.3,
+        1772.8,
+        1859.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAULINE",
+      "texte_balise": "PAULINE",
+      "bbox": [
+        36.4,
+        1844.3,
+        101.5,
+        1852.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROPERICK",
+      "texte_balise": "ROPERICK",
+      "bbox": [
+        1202.7,
+        1844.3,
+        1262.6,
+        1849.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TADADOR DE LA COMPAR",
+      "texte_balise": "TADADOR DE LA COMPAR",
+      "bbox": [
+        1330.2,
+        1854.7,
+        1442.2,
+        1865.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAMENT BE ROCKRAKEON",
+      "texte_balise": "RAMENT BE ROCKRAKEON",
+      "bbox": [
+        13.0,
+        1859.9,
+        122.4,
+        1865.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ASTRAY",
+      "texte_balise": "ASTRAY",
+      "bbox": [
+        1655.6,
+        1859.9,
+        1770.2,
+        1888.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POEMA HEROYCO",
+      "texte_balise": "POEMA HEROYCO",
+      "bbox": [
+        1330.2,
+        1867.7,
+        1450.0,
+        1889.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seamus Heaney",
+      "texte_balise": "Seamus Heaney",
+      "bbox": [
+        1655.0,
+        1899.9,
+        1773.5,
+        1922.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGRIMS",
+      "texte_balise": "ALGRIMS",
+      "bbox": [
+        536.3,
+        1901.6,
+        577.9,
+        1914.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POSTMA:",
+      "texte_balise": "POSTMA:",
+      "bbox": [
+        1371.9,
+        1912.0,
+        1450.0,
+        1925.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OBRA",
+      "texte_balise": "OBRA",
+      "bbox": [
+        1325.0,
+        1914.6,
+        1371.9,
+        1930.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "(Balle Shine)",
+      "texte_balise": "(Balle Shine)",
+      "bbox": [
+        1658.2,
+        2013.2,
+        1775.5,
+        2047.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pauline",
+      "texte_balise": "Pauline",
+      "bbox": [
+        46.9,
+        2013.5,
+        101.5,
+        2029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Psychomachia",
+      "texte_balise": "Psychomachia",
+      "bbox": [
+        827.8,
+        2015.9,
+        931.9,
+        2031.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Piers Ploughman",
+      "texte_balise": "Piers Ploughman",
+      "bbox": [
+        322.8,
+        2016.0,
+        445.1,
+        2032.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pilgrim's Progress",
+      "texte_balise": "Pilgrim's Progress",
+      "bbox": [
+        489.4,
+        2016.0,
+        614.4,
+        2029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enrico:",
+      "texte_balise": "Enrico:",
+      "bbox": [
+        138.0,
+        2016.1,
+        179.6,
+        2029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Byzantium",
+      "texte_balise": "Byzantium",
+      "bbox": [
+        179.6,
+        2016.1,
+        247.3,
+        2029.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Psvchomachia",
+      "texte_balise": "Psvchomachia",
+      "bbox": [
+        827.8,
+        2016.1,
+        934.5,
+        2029.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Enrico: Byzantium Conquered",
+      "texte_balise": "Enrico: Byzantium Conquered",
+      "bbox": [
+        140.6,
+        2018.5,
+        317.6,
+        2032.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sweeny Astray",
+      "texte_balise": "Sweeny Astray",
+      "bbox": [
+        1663.4,
+        2018.5,
+        1765.0,
+        2034.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poemata",
+      "texte_balise": "Poemata",
+      "bbox": [
+        687.2,
+        2018.7,
+        754.9,
+        2031.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Puthen Pana",
+      "texte_balise": "Puthen Pana",
+      "bbox": [
+        1004.8,
+        2018.7,
+        1098.5,
+        2032.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roderick, Last of the GothsSaint Ignatius of Loyola, Founder",
+      "texte_balise": "Roderick, Last of the GothsSaint Ignatius of Loyola, Founder",
+      "bbox": [
+        1137.6,
+        2018.7,
+        1491.6,
+        2034.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Solomon & Saturn",
+      "texte_balise": "Solomon & Saturn",
+      "bbox": [
+        1489.0,
+        2018.7,
+        1624.4,
+        2034.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "concuered",
+      "texte_balise": "concuered",
+      "bbox": [
+        247.3,
+        2021.4,
+        315.0,
+        2026.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Browning",
+      "texte_balise": "Robert Browning",
+      "bbox": [
+        28.6,
+        2026.6,
+        119.7,
+        2040.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lucrezia Marinella",
+      "texte_balise": "Lucrezia Marinella",
+      "bbox": [
+        174.4,
+        2026.6,
+        270.7,
+        2037.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Villiam Langland",
+      "texte_balise": "Villiam Langland",
+      "bbox": [
+        341.0,
+        2028.9,
+        429.5,
+        2042.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Baile Shuibhne",
+      "texte_balise": "Baile Shuibhne",
+      "bbox": [
+        1663.4,
+        2028.9,
+        1770.2,
+        2045.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Langland",
+      "texte_balise": "William Langland",
+      "bbox": [
+        335.8,
+        2029.0,
+        429.5,
+        2042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Bunyan",
+      "texte_balise": "John Bunyan",
+      "bbox": [
+        520.6,
+        2029.0,
+        585.7,
+        2042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theodore Beza",
+      "texte_balise": "Theodore Beza",
+      "bbox": [
+        684.6,
+        2029.0,
+        762.7,
+        2042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aurelius Prudentius Clemens",
+      "texte_balise": "Aurelius Prudentius Clemens",
+      "bbox": [
+        807.0,
+        2029.0,
+        958.0,
+        2042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joseph Ernst Hanxleden",
+      "texte_balise": "Joseph Ernst Hanxleden",
+      "bbox": [
+        986.6,
+        2029.0,
+        1114.2,
+        2042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Southey",
+      "texte_balise": "Robert Southey",
+      "bbox": [
+        1192.1,
+        2032.8,
+        1273.2,
+        2046.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Society of Jesus: Heroic",
+      "texte_balise": "of the Society of Jesus: Heroic",
+      "bbox": [
+        1317.2,
+        2034.0,
+        1470.8,
+        2047.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1528.1,
+        2037.0,
+        1590.6,
+        2042.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Trans. Seamus Heaney",
+      "texte_balise": "Trans. Seamus Heaney",
+      "bbox": [
+        1655.6,
+        2044.8,
+        1775.4,
+        2058.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poem",
+      "texte_balise": "Poem",
+      "bbox": [
+        1314.6,
+        2050.0,
+        1348.5,
+        2063.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hernando Dominguez Camargo",
+      "texte_balise": "Hernando Dominguez Camargo",
+      "bbox": [
+        1319.8,
+        2063.0,
+        1481.2,
+        2076.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hernando Dominduez Camaro",
+      "texte_balise": "Hernando Dominduez Camaro",
+      "bbox": [
+        1319.8,
+        2065.0,
+        1478.6,
+        2073.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The DREAM of",
+      "texte_balise": "The DREAM of",
+      "bbox": [
+        1184.5,
+        2086.0,
+        1273.0,
+        2102.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GERONTIUS",
+      "texte_balise": "GERONTIUS",
+      "bbox": [
+        1187.0,
+        2101.7,
+        1267.8,
+        2118.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBINSON JEFFERS",
+      "texte_balise": "ROBINSON JEFFERS",
+      "bbox": [
+        174.4,
+        2102.0,
+        275.9,
+        2118.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADAMGIRK'",
+      "texte_balise": "ADAMGIRK'",
+      "bbox": [
+        499.8,
+        2102.1,
+        601.3,
+        2117.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HIND",
+      "texte_balise": "HIND",
+      "bbox": [
+        1507.3,
+        2102.1,
+        1611.4,
+        2128.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The COLDEN",
+      "texte_balise": "The COLDEN",
+      "bbox": [
+        1345.8,
+        2104.1,
+        1429.2,
+        2120.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADAMGIRK",
+      "texte_balise": "ADAMGIRK",
+      "bbox": [
+        502.4,
+        2104.4,
+        598.7,
+        2120.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CONQUEST",
+      "texte_balise": "CONQUEST",
+      "bbox": [
+        1015.2,
+        2104.7,
+        1090.7,
+        2117.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TheCOLDE",
+      "texte_balise": "TheCOLDE",
+      "bbox": [
+        1348.5,
+        2104.7,
+        1421.3,
+        2117.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CYNEWULFS CHRIST",
+      "texte_balise": "CYNEWULFS CHRIST",
+      "bbox": [
+        812.2,
+        2107.0,
+        950.2,
+        2120.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CUNTUITE CURIOT",
+      "texte_balise": "CUNTUITE CURIOT",
+      "bbox": [
+        812.2,
+        2109.9,
+        947.6,
+        2115.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "STALLION",
+      "texte_balise": "STALLION",
+      "bbox": [
+        207.9,
+        2120.2,
+        294.3,
+        2186.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEGEND",
+      "texte_balise": "LEGEND",
+      "bbox": [
+        1348.4,
+        2122.7,
+        1418.8,
+        2138.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE",
+      "texte_balise": "AND THE",
+      "bbox": [
+        1535.9,
+        2125.0,
+        1582.7,
+        2139.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANÁAN;",
+      "texte_balise": "ANÁAN;",
+      "bbox": [
+        1004.8,
+        2128.1,
+        1122.0,
+        2143.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND™HI",
+      "texte_balise": "AND™HI",
+      "bbox": [
+        1535.9,
+        2130.5,
+        1580.1,
+        2135.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DAVIDJONES",
+      "texte_balise": "DAVIDJONES",
+      "bbox": [
+        325.4,
+        2130.7,
+        445.1,
+        2151.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVIDJONES?",
+      "texte_balise": "DAVIDJONES?",
+      "bbox": [
+        328.0,
+        2133.1,
+        445.1,
+        2148.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CANAAN:",
+      "texte_balise": "CANAAN:",
+      "bbox": [
+        984.0,
+        2133.1,
+        1122.0,
+        2143.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STALLION",
+      "texte_balise": "STALLION",
+      "bbox": [
+        210.9,
+        2133.3,
+        283.7,
+        2177.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OLIVES",
+      "texte_balise": "OLIVES",
+      "bbox": [
+        1338.0,
+        2138.3,
+        1411.0,
+        2154.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PANTHER.",
+      "texte_balise": "PANTHER.",
+      "bbox": [
+        1496.8,
+        2138.5,
+        1621.8,
+        2156.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-CYNEWULF'S ELENE:",
+      "texte_balise": "-CYNEWULF'S ELENE:",
+      "bbox": [
+        1652.6,
+        2143.2,
+        1775.8,
+        2162.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CYNEWULF'S ELENE:",
+      "texte_balise": "CYNEWULF'S ELENE:",
+      "bbox": [
+        1655.6,
+        2146.0,
+        1775.4,
+        2162.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANAThEMATA:",
+      "texte_balise": "ANAThEMATA:",
+      "bbox": [
+        322.8,
+        2151.3,
+        445.1,
+        2169.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANA hEMATA:",
+      "texte_balise": "ANA hEMATA:",
+      "bbox": [
+        322.8,
+        2151.5,
+        445.1,
+        2170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "%*SAINTS",
+      "texte_balise": "%*SAINTS",
+      "bbox": [
+        1340.6,
+        2156.1,
+        1426.6,
+        2172.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OARSAINTS",
+      "texte_balise": "OARSAINTS",
+      "bbox": [
+        1340.6,
+        2156.7,
+        1423.9,
+        2169.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FA BERLON",
+      "texte_balise": "FA BERLON",
+      "bbox": [
+        333.2,
+        2164.0,
+        439.9,
+        2183.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A BEDLON",
+      "texte_balise": "A BEDLON",
+      "bbox": [
+        338.4,
+        2164.3,
+        440.0,
+        2180.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POEM.",
+      "texte_balise": "POEM.",
+      "bbox": [
+        1499.4,
+        2171.8,
+        1619.3,
+        2195.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POEM",
+      "texte_balise": "POEM",
+      "bbox": [
+        1499.4,
+        2172.0,
+        1616.7,
+        2196.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENGLISHED",
+      "texte_balise": "ENGLISHED",
+      "bbox": [
+        1343.3,
+        2174.7,
+        1434.4,
+        2190.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KENT",
+      "texte_balise": "KENT",
+      "bbox": [
+        1699.9,
+        2174.7,
+        1728.5,
+        2187.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aSENGLISHED",
+      "texte_balise": "aSENGLISHED",
+      "bbox": [
+        1340.6,
+        2175.0,
+        1431.8,
+        2188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DINIVM.",
+      "texte_balise": "DINIVM.",
+      "bbox": [
+        338.3,
+        2182.0,
+        429.7,
+        2199.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "D* TACOTHE DWIGHT.",
+      "texte_balise": "D* TACOTHE DWIGHT.",
+      "bbox": [
+        1002.2,
+        2182.5,
+        1101.2,
+        2203.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DINIVM•",
+      "texte_balise": "DINIVM•",
+      "bbox": [
+        335.8,
+        2185.1,
+        429.5,
+        2206.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "by WILLIAM",
+      "texte_balise": "by WILLIAM",
+      "bbox": [
+        1340.6,
+        2192.9,
+        1429.2,
+        2209.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAXTON",
+      "texte_balise": "CAXTON",
+      "bbox": [
+        1343.3,
+        2208.6,
+        1426.6,
+        2226.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "XPAR",
+      "texte_balise": "XPAR",
+      "bbox": [
+        354.0,
+        2211.2,
+        387.9,
+        2234.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "VOL THREE",
+      "texte_balise": "VOL THREE",
+      "bbox": [
+        1332.8,
+        2229.0,
+        1434.4,
+        2242.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contain by Gie Be",
+      "texte_balise": "Contain by Gie Be",
+      "bbox": [
+        1187.1,
+        2252.8,
+        1265.2,
+        2268.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THEODERABRR",
+      "texte_balise": "THEODERABRR",
+      "bbox": [
+        177.0,
+        2271.1,
+        273.3,
+        2276.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SCENE LASTONE",
+      "texte_balise": "SCENE LASTONE",
+      "bbox": [
+        512.8,
+        2278.9,
+        585.7,
+        2284.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Synodus/Synodicus",
+      "texte_balise": "Synodus/Synodicus",
+      "bbox": [
+        10.4,
+        2286.7,
+        148.4,
+        2302.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tamar",
+      "texte_balise": "Tamar",
+      "bbox": [
+        203.0,
+        2289.3,
+        252.5,
+        2304.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anathemata",
+      "texte_balise": "Anathemata",
+      "bbox": [
+        335.8,
+        2291.9,
+        424.3,
+        2304.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adamgirk",
+      "texte_balise": "Adamgirk",
+      "bbox": [
+        515.4,
+        2291.9,
+        583.1,
+        2304.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Book of Legends",
+      "texte_balise": "Book of Legends",
+      "bbox": [
+        656.0,
+        2291.9,
+        775.8,
+        2308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Christ Cycle",
+      "texte_balise": "The Christ Cycle",
+      "bbox": [
+        830.4,
+        2291.9,
+        937.2,
+        2305.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Conquest of Canaan",
+      "texte_balise": "Conquest of Canaan",
+      "bbox": [
+        981.4,
+        2291.9,
+        1124.6,
+        2308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dream of Gerontius",
+      "texte_balise": "The Dream of Gerontius",
+      "bbox": [
+        1140.2,
+        2291.9,
+        1309.4,
+        2308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warnerius of Basel",
+      "texte_balise": "Warnerius of Basel",
+      "bbox": [
+        31.2,
+        2299.7,
+        130.2,
+        2313.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden Legend",
+      "texte_balise": "The Golden Legend",
+      "bbox": [
+        1330.2,
+        2299.7,
+        1465.6,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Julia & the Elene",
+      "texte_balise": "The Julia & the Elene",
+      "bbox": [
+        1640.0,
+        2299.7,
+        1785.8,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robinson Jeffers",
+      "texte_balise": "Robinson Jeffers",
+      "bbox": [
+        187.4,
+        2302.0,
+        275.9,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David Jones",
+      "texte_balise": "David Jones",
+      "bbox": [
+        348.8,
+        2302.0,
+        413.9,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atak'el of Siwnik",
+      "texte_balise": "Atak'el of Siwnik",
+      "bbox": [
+        507.6,
+        2302.0,
+        596.2,
+        2315.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "(Advent, Ascension,",
+      "texte_balise": "(Advent, Ascension,",
+      "bbox": [
+        809.6,
+        2302.0,
+        900.7,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Judgement,",
+      "texte_balise": "and Judgement,",
+      "bbox": [
+        900.7,
+        2302.0,
+        973.6,
+        2315.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hind and Panther",
+      "texte_balise": "The Hind and Panther",
+      "bbox": [
+        1483.8,
+        2302.0,
+        1634.8,
+        2318.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Henry Newman",
+      "texte_balise": "John Henry Newman",
+      "bbox": [
+        1176.6,
+        2304.9,
+        1286.0,
+        2318.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Timothy Dwight",
+      "texte_balise": "Timothy Dwight",
+      "bbox": [
+        1012.6,
+        2307.5,
+        1098.5,
+        2321.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protovitha",
+      "texte_balise": "Protovitha",
+      "bbox": [
+        692.5,
+        2310.1,
+        747.1,
+        2315.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Cynewulf",
+      "texte_balise": "Cynewulf",
+      "bbox": [
+        1694.7,
+        2315.3,
+        1746.7,
+        2328.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Dryden",
+      "texte_balise": "John Dryden",
+      "bbox": [
+        1528.1,
+        2317.9,
+        1595.8,
+        2331.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUVENCUS FOUR BOOKS",
+      "texte_balise": "JUVENCUS FOUR BOOKS",
+      "bbox": [
+        320.2,
+        2344.0,
+        442.5,
+        2357.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVERYMAN",
+      "texte_balise": "EVERYMAN",
+      "bbox": [
+        1658.2,
+        2346.6,
+        1757.2,
+        2362.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUGSNIS SHSIST2PS",
+      "texte_balise": "HUGSNIS SHSIST2PS",
+      "bbox": [
+        1155.8,
+        2349.2,
+        1275.6,
+        2354.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "OTHE BUSHE",
+      "texte_balise": "OTHE BUSHE",
+      "bbox": [
+        338.4,
+        2359.6,
+        421.7,
+        2365.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LAST CHRISTIAN",
+      "texte_balise": "LAST CHRISTIAN",
+      "bbox": [
+        481.6,
+        2364.8,
+        603.9,
+        2380.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROCESS AND RMPIRE",
+      "texte_balise": "PROCESS AND RMPIRE",
+      "bbox": [
+        1340.6,
+        2367.0,
+        1450.0,
+        2375.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diatessaron",
+      "texte_balise": "Diatessaron",
+      "bbox": [
+        31.1,
+        2382.2,
+        127.7,
+        2402.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPIC POEM.",
+      "texte_balise": "EPIC POEM.",
+      "bbox": [
+        494.6,
+        2406.0,
+        593.5,
+        2430.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ASSYRIAN",
+      "texte_balise": "ASSYRIAN",
+      "bbox": [
+        49.5,
+        2424.7,
+        106.7,
+        2437.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SIEGE OF JERUSALEM",
+      "texte_balise": "THE SIEGE OF JERUSALEM",
+      "bbox": [
+        1504.6,
+        2505.0,
+        1616.6,
+        2518.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Last Christian",
+      "texte_balise": "The Last Christian",
+      "bbox": [
+        484.2,
+        2531.0,
+        611.8,
+        2547.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Beata Virgine Dei Matre",
+      "texte_balise": "De Beata Virgine Dei Matre",
+      "bbox": [
+        635.2,
+        2531.0,
+        799.2,
+        2547.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carmina",
+      "texte_balise": "Carmina",
+      "bbox": [
+        192.6,
+        2531.2,
+        255.2,
+        2547.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Diatessaron",
+      "texte_balise": "The Diatessaron",
+      "bbox": [
+        18.2,
+        2534.0,
+        132.8,
+        2544.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Evangeliorum Libri Quattuor",
+      "texte_balise": "Evangeliorum Libri Quattuor",
+      "bbox": [
+        304.6,
+        2534.0,
+        460.8,
+        2547.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Os Lusíadas",
+      "texte_balise": "Os Lusíadas",
+      "bbox": [
+        838.2,
+        2534.0,
+        924.1,
+        2547.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Martyrdom of St. Cyprian Messiah's Kingdom",
+      "texte_balise": "The Martyrdom of St. Cyprian Messiah's Kingdom",
+      "bbox": [
+        963.2,
+        2534.0,
+        1291.2,
+        2550.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Procesthanan Enchest Christ The Siege of Jerusalem",
+      "texte_balise": "Procesthanan Enchest Christ The Siege of Jerusalem",
+      "bbox": [
+        1309.4,
+        2539.0,
+        1637.4,
+        2563.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Everyman",
+      "texte_balise": "Everyman",
+      "bbox": [
+        1673.9,
+        2541.8,
+        1744.1,
+        2557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Successor of man",
+      "texte_balise": "Successor of man",
+      "bbox": [
+        507.5,
+        2543.5,
+        601.4,
+        2555.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaius Vettius Aquilinus Juvencus",
+      "texte_balise": "Gaius Vettius Aquilinus Juvencus",
+      "bbox": [
+        302.0,
+        2544.0,
+        473.8,
+        2557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Luis Vaz de Camões",
+      "texte_balise": "Luis Vaz de Camões",
+      "bbox": [
+        827.8,
+        2544.0,
+        931.9,
+        2557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Agnes Bulme",
+      "texte_balise": "Agnes Bulme",
+      "bbox": [
+        1189.7,
+        2544.0,
+        1257.3,
+        2560.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Erixius",
+      "texte_balise": "Erixius",
+      "bbox": [
+        205.7,
+        2544.4,
+        242.1,
+        2557.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Jose de Anchieta",
+      "texte_balise": "Jose de Anchieta",
+      "bbox": [
+        671.6,
+        2547.0,
+        762.7,
+        2560.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aelia Eudocia",
+      "texte_balise": "Aelia Eudocia",
+      "bbox": [
+        1015.2,
+        2547.0,
+        1090.7,
+        2560.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1528.1,
+        2554.9,
+        1595.8,
+        2567.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1676.5,
+        2554.9,
+        1741.5,
+        2567.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STIT LOTUT SUDE",
+      "texte_balise": "STIT LOTUT SUDE",
+      "bbox": [
+        328.0,
+        2580.9,
+        432.1,
+        2589.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Way",
+      "texte_balise": "The Way",
+      "bbox": [
+        166.6,
+        2593.9,
+        234.3,
+        2620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARMAONN",
+      "texte_balise": "CHARMAONN",
+      "bbox": [
+        1520.3,
+        2593.9,
+        1590.6,
+        2599.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1382.3,
+        2596.5,
+        1405.7,
+        2606.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRIPTYCH",
+      "texte_balise": "TRIPTYCH",
+      "bbox": [
+        809.5,
+        2598.8,
+        952.9,
+        2643.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1699.9,
+        2604.3,
+        1720.7,
+        2617.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wandcrings of Oisin",
+      "texte_balise": "Wandcrings of Oisin",
+      "bbox": [
+        1335.4,
+        2612.0,
+        1452.6,
+        2620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOSPEL TRAGEDY",
+      "texte_balise": "GOSPEL TRAGEDY",
+      "bbox": [
+        1668.6,
+        2614.7,
+        1752.0,
+        2630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of a Pilgrim",
+      "texte_balise": "of a Pilgrim",
+      "bbox": [
+        164.0,
+        2617.0,
+        257.7,
+        2649.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dramaric Sketches",
+      "texte_balise": "Dramaric Sketches",
+      "bbox": [
+        1356.3,
+        2643.0,
+        1434.4,
+        2654.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PILGRIM CONTINUES HIS WAY",
+      "texte_balise": "THE PILGRIM CONTINUES HIS WAY",
+      "bbox": [
+        166.6,
+        2648.6,
+        281.1,
+        2662.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RAY",
+      "texte_balise": "THE RAY",
+      "bbox": [
+        531.1,
+        2648.6,
+        572.7,
+        2659.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ballad",
+      "texte_balise": "Ballad",
+      "bbox": [
+        1377.1,
+        2656.4,
+        1408.3,
+        2661.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        541.5,
+        2659.0,
+        559.7,
+        2672.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'THE MICROCOSM",
+      "texte_balise": "'THE MICROCOSM",
+      "bbox": [
+        507.6,
+        2672.0,
+        596.1,
+        2685.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAMIKA",
+      "texte_balise": "FAMIKA",
+      "bbox": [
+        827.8,
+        2708.3,
+        937.2,
+        2734.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROMETEI",
+      "texte_balise": "PROMETEI",
+      "bbox": [
+        533.7,
+        2718.9,
+        570.1,
+        2729.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Way of the Pilgrim & the",
+      "texte_balise": "The Way of the Pilgrim & the",
+      "bbox": [
+        148.4,
+        2763.0,
+        299.4,
+        2776.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vipasanoutyoun",
+      "texte_balise": "Vipasanoutyoun",
+      "bbox": [
+        997.0,
+        2765.7,
+        1111.6,
+        2781.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Gospel Tragedy",
+      "texte_balise": "The Gospel Tragedy",
+      "bbox": [
+        1645.0,
+        2767.2,
+        1780.8,
+        2792.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ray of the Microcosm",
+      "texte_balise": "The Ray of the Microcosm",
+      "bbox": [
+        481.6,
+        2768.0,
+        627.4,
+        2781.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Triptych de Sancta Familia",
+      "texte_balise": "Triptych de Sancta Familia",
+      "bbox": [
+        804.4,
+        2768.0,
+        965.8,
+        2784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thembavani",
+      "texte_balise": "Thembavani",
+      "bbox": [
+        333.2,
+        2768.3,
+        421.7,
+        2781.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vita S. Martini",
+      "texte_balise": "Vita S. Martini",
+      "bbox": [
+        1176.6,
+        2771.0,
+        1273.0,
+        2784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wanderings of Oisin",
+      "texte_balise": "Wanderings of Oisin",
+      "bbox": [
+        1325.0,
+        2771.0,
+        1468.2,
+        2784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charlemagne",
+      "texte_balise": "Charlemagne",
+      "bbox": [
+        1515.1,
+        2773.6,
+        1608.8,
+        2786.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pilgrim Continues His Way",
+      "texte_balise": "Pilgrim Continues His Way",
+      "bbox": [
+        151.0,
+        2778.8,
+        286.4,
+        2792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fr. Constantine Joseph Beschi",
+      "texte_balise": "Fr. Constantine Joseph Beschi",
+      "bbox": [
+        302.0,
+        2778.8,
+        458.2,
+        2792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sancti Patricii",
+      "texte_balise": "Sancti Patricii",
+      "bbox": [
+        653.4,
+        2781.0,
+        728.9,
+        2794.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "St. Venantius Honorius",
+      "texte_balise": "St. Venantius Honorius",
+      "bbox": [
+        1179.2,
+        2781.0,
+        1280.8,
+        2794.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Petar Il Petrovic-Njegos",
+      "texte_balise": "Petar Il Petrovic-Njegos",
+      "bbox": [
+        489.4,
+        2784.0,
+        614.4,
+        2797.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonas Perez",
+      "texte_balise": "Jonas Perez",
+      "bbox": [
+        851.2,
+        2784.0,
+        918.9,
+        2797.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nerses Shnorhali IVthe Gracious",
+      "texte_balise": "Nerses Shnorhali IVthe Gracious",
+      "bbox": [
+        965.8,
+        2784.0,
+        1135.0,
+        2792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Butler Yeats",
+      "texte_balise": "William Butler Yeats",
+      "bbox": [
+        1340.6,
+        2784.0,
+        1450.0,
+        2797.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homontile sortiinati",
+      "texte_balise": "Homontile sortiinati",
+      "bbox": [
+        1174.0,
+        2797.0,
+        1278.2,
+        2802.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "19285-2835199228MRSSED",
+      "texte_balise": "19285-2835199228MRSSED",
+      "bbox": [
+        650.5,
+        2808.9,
+        794.3,
+        2826.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Battle of Rogoro",
+      "texte_balise": "The Battle of Rogoro",
+      "bbox": [
+        1647.8,
+        2810.0,
+        1785.8,
+        2833.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hugo de Saint-Victor",
+      "texte_balise": "Hugo de Saint-Victor",
+      "bbox": [
+        1163.5,
+        2819.9,
+        1286.1,
+        2841.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETRI ANGELI",
+      "texte_balise": "PETRI ANGELI",
+      "bbox": [
+        33.8,
+        2823.0,
+        114.5,
+        2839.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRAXIS",
+      "texte_balise": "PRAXIS",
+      "bbox": [
+        689.7,
+        2825.2,
+        755.0,
+        2841.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other Poems",
+      "texte_balise": "Other Poems",
+      "bbox": [
+        164.0,
+        2825.6,
+        226.5,
+        2839.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPHI",
+      "texte_balise": "JOSEPHI",
+      "bbox": [
+        1325.0,
+        2825.6,
+        1392.7,
+        2838.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A BADII",
+      "texte_balise": "A BADII",
+      "bbox": [
+        1395.3,
+        2828.0,
+        1452.6,
+        2841.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SYRTAS",
+      "texte_balise": "SYRTAS",
+      "bbox": [
+        39.0,
+        2836.0,
+        109.3,
+        2859.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PACIECIDOS",
+      "texte_balise": "PACIECIDOS",
+      "bbox": [
+        838.2,
+        2836.0,
+        947.6,
+        2854.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Including The Guests Of Brasil",
+      "texte_balise": "Including The Guests Of Brasil",
+      "bbox": [
+        164.0,
+        2838.6,
+        281.1,
+        2852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEXICANI",
+      "texte_balise": "MEXICANI",
+      "bbox": [
+        1353.7,
+        2838.6,
+        1423.9,
+        2851.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXERCITIOREM",
+      "texte_balise": "EXERCITIOREM",
+      "bbox": [
+        666.4,
+        2841.2,
+        778.4,
+        2854.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIDASCALICON",
+      "texte_balise": "DIDASCALICON",
+      "bbox": [
+        1166.2,
+        2841.2,
+        1280.8,
+        2862.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(1860)",
+      "texte_balise": "(1860)",
+      "bbox": [
+        164.0,
+        2849.1,
+        187.4,
+        2859.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOCIETATE IESU QUINQUE",
+      "texte_balise": "SOCIETATE IESU QUINQUE",
+      "bbox": [
+        322.8,
+        2851.7,
+        437.3,
+        2865.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spiritsalium",
+      "texte_balise": "Spiritsalium",
+      "bbox": [
+        697.7,
+        2856.9,
+        747.1,
+        2869.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARTYRES",
+      "texte_balise": "MARTYRES",
+      "bbox": [
+        322.8,
+        2862.1,
+        374.9,
+        2872.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETRUS",
+      "texte_balise": "PETRUS",
+      "bbox": [
+        510.2,
+        2916.8,
+        590.9,
+        2937.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bartolemen Pereira",
+      "texte_balise": "Bartolemen Pereira",
+      "bbox": [
+        848.6,
+        2937.6,
+        937.2,
+        2958.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epilcopus Ellenes",
+      "texte_balise": "Epilcopus Ellenes",
+      "bbox": [
+        497.2,
+        2940.0,
+        603.9,
+        2956.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CASENE MDOCEXXX",
+      "texte_balise": "CASENE MDOCEXXX",
+      "bbox": [
+        1343.3,
+        2955.8,
+        1431.8,
+        2969.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Curden Hostiagoa",
+      "texte_balise": "Curden Hostiagoa",
+      "bbox": [
+        197.8,
+        2958.0,
+        260.3,
+        2969.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Empties Swis",
+      "texte_balise": "Empties Swis",
+      "bbox": [
+        859.1,
+        2971.0,
+        924.1,
+        2984.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Ani Coin Name in Sore tel",
+      "texte_balise": "Ani Coin Name in Sore tel",
+      "bbox": [
+        1335.4,
+        2974.0,
+        1434.4,
+        2982.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Syrias",
+      "texte_balise": "The Syrias",
+      "bbox": [
+        36.4,
+        3002.3,
+        112.0,
+        3018.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Shadowy Land",
+      "texte_balise": "The Shadowy Land",
+      "bbox": [
+        161.4,
+        3002.7,
+        291.6,
+        3018.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Petrus Episcopus",
+      "texte_balise": "Petrus Episcopus",
+      "bbox": [
+        492.0,
+        3002.7,
+        614.4,
+        3018.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Quinque martyres e Societate",
+      "texte_balise": "Quinque martyres e Societate",
+      "bbox": [
+        302.0,
+        3005.0,
+        466.0,
+        3018.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parnassus Societatis lesu",
+      "texte_balise": "Parnassus Societatis lesu",
+      "bbox": [
+        630.0,
+        3007.9,
+        807.0,
+        3021.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paciecidos",
+      "texte_balise": "Paciecidos",
+      "bbox": [
+        848.6,
+        3007.9,
+        924.1,
+        3020.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Didascalicon",
+      "texte_balise": "Didascalicon",
+      "bbox": [
+        1181.9,
+        3007.9,
+        1270.4,
+        3020.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Deo Deoque homine The Baptism on the Savica The Battle of Kosovo",
+      "texte_balise": "De Deo Deoque homine The Baptism on the Savica The Battle of Kosovo",
+      "bbox": [
+        1314.6,
+        3007.9,
+        1788.4,
+        3024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sacrifice of Abraham",
+      "texte_balise": "Sacrifice of Abraham",
+      "bbox": [
+        976.2,
+        3010.0,
+        1119.4,
+        3024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pietro degli Angeli",
+      "texte_balise": "Pietro degli Angeli",
+      "bbox": [
+        26.0,
+        3015.7,
+        125.0,
+        3029.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gurdon Huntington",
+      "texte_balise": "Gurdon Huntington",
+      "bbox": [
+        174.4,
+        3018.0,
+        278.5,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vetus Testamentum Versibus",
+      "texte_balise": "Vetus Testamentum Versibus",
+      "bbox": [
+        476.4,
+        3018.0,
+        630.0,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bartolomeu Pereira",
+      "texte_balise": "Bartolomeu Pereira",
+      "bbox": [
+        838.2,
+        3018.0,
+        937.2,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous Cretan Plavwright",
+      "texte_balise": "Anonymous Cretan Plavwright",
+      "bbox": [
+        973.6,
+        3018.0,
+        1127.2,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1689.4,
+        3020.5,
+        1754.6,
+        3034.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Various Authors",
+      "texte_balise": "Various Authors",
+      "bbox": [
+        674.2,
+        3020.6,
+        754.9,
+        3031.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lesu in India",
+      "texte_balise": "lesu in India",
+      "bbox": [
+        302.0,
+        3020.9,
+        372.3,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hugo de Saint-Victor",
+      "texte_balise": "Hugo de Saint-Victor",
+      "bbox": [
+        1174.0,
+        3020.9,
+        1278.2,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diego Jose Abad",
+      "texte_balise": "Diego Jose Abad",
+      "bbox": [
+        1351.1,
+        3020.9,
+        1442.2,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lesu in india",
+      "texte_balise": "lesu in india",
+      "bbox": [
+        302.0,
+        3023.0,
+        369.7,
+        3031.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonvmous Cretan Plavwright",
+      "texte_balise": "Anonvmous Cretan Plavwright",
+      "bbox": [
+        971.0,
+        3023.0,
+        1127.2,
+        3031.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "France Preseren",
+      "texte_balise": "France Preseren",
+      "bbox": [
+        1522.9,
+        3023.0,
+        1611.4,
+        3036.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rAnce Precaren",
+      "texte_balise": "rAnce Precaren",
+      "bbox": [
+        1522.9,
+        3026.0,
+        1608.8,
+        3031.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Francesco Benci",
+      "texte_balise": "Francesco Benci",
+      "bbox": [
+        335.8,
+        3031.0,
+        424.3,
+        3044.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Latinis",
+      "texte_balise": "Latinis",
+      "bbox": [
+        476.4,
+        3033.7,
+        515.4,
+        3046.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudol Tiedle",
+      "texte_balise": "Rudol Tiedle",
+      "bbox": [
+        1179.2,
+        3049.5,
+        1233.9,
+        3063.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudol Tech",
+      "texte_balise": "Rudol Tech",
+      "bbox": [
+        1179.2,
+        3051.9,
+        1231.3,
+        3062.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Cornish Ordinalia",
+      "texte_balise": "The Cornish Ordinalia",
+      "bbox": [
+        18.2,
+        3052.0,
+        138.0,
+        3070.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALANI",
+      "texte_balise": "ALANI",
+      "bbox": [
+        161.3,
+        3054.0,
+        286.5,
+        3078.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Da gute Gahard",
+      "texte_balise": "Da gute Gahard",
+      "bbox": [
+        1158.1,
+        3055.8,
+        1296.7,
+        3087.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        671.6,
+        3059.7,
+        692.5,
+        3077.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Der gute Gahara",
+      "texte_balise": "Der gute Gahara",
+      "bbox": [
+        1161.0,
+        3059.7,
+        1293.8,
+        3083.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Einarr Skúlason's",
+      "texte_balise": "Einarr Skúlason's",
+      "bbox": [
+        1502.0,
+        3059.7,
+        1627.0,
+        3075.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANDREAS AND THE FATES OF THE",
+      "texte_balise": "ANDREAS AND THE FATES OF THE",
+      "bbox": [
+        1358.9,
+        3060.0,
+        1463.0,
+        3073.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Einart Skúlason's",
+      "texte_balise": "Einart Skúlason's",
+      "bbox": [
+        1502.0,
+        3060.0,
+        1627.0,
+        3076.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "COSMOGRAPHIA",
+      "texte_balise": "COSMOGRAPHIA",
+      "bbox": [
+        671.5,
+        3067.4,
+        770.6,
+        3094.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geisli",
+      "texte_balise": "Geisli",
+      "bbox": [
+        1499.4,
+        3075.6,
+        1629.6,
+        3122.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ab",
+      "texte_balise": "ab",
+      "bbox": [
+        216.1,
+        3078.2,
+        231.7,
+        3091.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BERNARDES",
+      "texte_balise": "BERNARDES",
+      "bbox": [
+        663.8,
+        3086.0,
+        770.5,
+        3122.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inglo",
+      "texte_balise": "Inglo",
+      "bbox": [
+        1686.9,
+        3086.0,
+        1738.9,
+        3104.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DUSSEL",
+      "texte_balise": "DUSSEL",
+      "bbox": [
+        523.2,
+        3088.0,
+        583.2,
+        3101.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "INSULIS",
+      "texte_balise": "INSULIS",
+      "bbox": [
+        161.4,
+        3091.2,
+        283.7,
+        3109.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BERNARDUS",
+      "texte_balise": "BERNARDUS",
+      "bbox": [
+        671.5,
+        3095.6,
+        770.7,
+        3125.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saxon",
+      "texte_balise": "Saxon",
+      "bbox": [
+        1650.4,
+        3104.2,
+        1731.1,
+        3135.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "waxor",
+      "texte_balise": "waxor",
+      "bbox": [
+        1663.4,
+        3109.1,
+        1725.9,
+        3122.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PARABOLE",
+      "texte_balise": "PARABOLE",
+      "bbox": [
+        177.0,
+        3109.4,
+        270.7,
+        3122.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARABOL/",
+      "texte_balise": "PARABOL/",
+      "bbox": [
+        177.0,
+        3111.7,
+        270.7,
+        3124.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SILVESTRIS",
+      "texte_balise": "SILVESTRIS",
+      "bbox": [
+        668.8,
+        3116.6,
+        770.7,
+        3146.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "genesis",
+      "texte_balise": "genesis",
+      "bbox": [
+        1678.9,
+        3119.1,
+        1762.5,
+        3136.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3 genesis",
+      "texte_balise": "3 genesis",
+      "bbox": [
+        1660.8,
+        3122.0,
+        1754.6,
+        3135.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critical",
+      "texte_balise": "Critical",
+      "bbox": [
+        1515.1,
+        3130.3,
+        1561.9,
+        3143.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREA SENETLEBIE.",
+      "texte_balise": "ANDREA SENETLEBIE.",
+      "bbox": [
+        161.4,
+        3137.8,
+        283.7,
+        3153.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREE SENETLERT,",
+      "texte_balise": "ANDREE SENETLERT,",
+      "bbox": [
+        164.0,
+        3138.0,
+        283.7,
+        3151.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edition",
+      "texte_balise": "Edition",
+      "bbox": [
+        1515.1,
+        3143.3,
+        1559.3,
+        3158.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Opulculum portumum.",
+      "texte_balise": "Opulculum portumum.",
+      "bbox": [
+        177.0,
+        3163.8,
+        270.7,
+        3179.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Opalculum poltumum.",
+      "texte_balise": "Opalculum poltumum.",
+      "bbox": [
+        177.0,
+        3166.7,
+        270.7,
+        3180.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barlaam and Josaphat",
+      "texte_balise": "Barlaam and Josaphat",
+      "bbox": [
+        312.4,
+        3247.0,
+        455.6,
+        3260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book of Lamentations",
+      "texte_balise": "Book of Lamentations",
+      "bbox": [
+        484.2,
+        3247.0,
+        627.4,
+        3260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Der gute Gerhard",
+      "texte_balise": "Der gute Gerhard",
+      "bbox": [
+        1168.8,
+        3247.0,
+        1280.8,
+        3263.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fate of the Apostles",
+      "texte_balise": "The Fate of the Apostles",
+      "bbox": [
+        1325.0,
+        3247.0,
+        1483.8,
+        3263.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cosmographia",
+      "texte_balise": "Cosmographia",
+      "bbox": [
+        676.8,
+        3247.1,
+        770.5,
+        3262.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Ordinale Kernewek",
+      "texte_balise": "An Ordinale Kernewek",
+      "bbox": [
+        7.8,
+        3249.7,
+        156.2,
+        3263.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anticlaudianus",
+      "texte_balise": "Anticlaudianus",
+      "bbox": [
+        179.6,
+        3249.7,
+        278.5,
+        3262.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geisli",
+      "texte_balise": "Geisli",
+      "bbox": [
+        1541.1,
+        3249.7,
+        1593.2,
+        3265.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De expeditione Heracili imperatoris",
+      "texte_balise": "De expeditione Heracili imperatoris",
+      "bbox": [
+        788.8,
+        3252.0,
+        981.4,
+        3260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Gerusalem Celesti &",
+      "texte_balise": "De Gerusalem Celesti &",
+      "bbox": [
+        984.0,
+        3252.0,
+        1114.2,
+        3260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Genesis A&B",
+      "texte_balise": "Genesis A&B",
+      "bbox": [
+        1673.9,
+        3254.9,
+        1759.8,
+        3268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudolf von Ems",
+      "texte_balise": "Rudolf von Ems",
+      "bbox": [
+        338.4,
+        3257.0,
+        424.3,
+        3270.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gregory of Narek",
+      "texte_balise": "Gregory of Narek",
+      "bbox": [
+        502.4,
+        3257.4,
+        596.1,
+        3270.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bernardus Silvestris",
+      "texte_balise": "Bernardus Silvestris",
+      "bbox": [
+        666.4,
+        3262.7,
+        773.1,
+        3270.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudolf von Ems",
+      "texte_balise": "Rudolf von Ems",
+      "bbox": [
+        1181.9,
+        3262.7,
+        1270.4,
+        3276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1364.1,
+        3262.7,
+        1434.4,
+        3275.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De Babilonia Civitate",
+      "texte_balise": "De Babilonia Civitate",
+      "bbox": [
+        986.6,
+        3265.0,
+        1101.2,
+        3278.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Einarr Skúlason",
+      "texte_balise": "Einarr Skúlason",
+      "bbox": [
+        1522.9,
+        3265.0,
+        1608.8,
+        3278.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1681.7,
+        3267.9,
+        1752.0,
+        3280.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George of Pisidia",
+      "texte_balise": "George of Pisidia",
+      "bbox": [
+        835.6,
+        3280.9,
+        929.3,
+        3294.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infernali",
+      "texte_balise": "Infernali",
+      "bbox": [
+        986.6,
+        3280.9,
+        1036.1,
+        3293.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Giacomino da Verona",
+      "texte_balise": "Giacomino da Verona",
+      "bbox": [
+        994.4,
+        3291.0,
+        1114.2,
+        3304.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEPMAINE",
+      "texte_balise": "SEPMAINE",
+      "bbox": [
+        1348.5,
+        3320.0,
+        1442.2,
+        3335.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARKO MARITAT",
+      "texte_balise": "MARKO MARITAT",
+      "bbox": [
+        848.6,
+        3330.0,
+        926.7,
+        3336.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PYCELLE",
+      "texte_balise": "PYCELLE",
+      "bbox": [
+        1166.2,
+        3330.1,
+        1283.4,
+        3356.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANUREAK SUNONS FIER",
+      "texte_balise": "ANUREAK SUNONS FIER",
+      "bbox": [
+        317.6,
+        3333.0,
+        447.8,
+        3338.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WERKEN VAN",
+      "texte_balise": "WERKEN VAN",
+      "bbox": [
+        177.0,
+        3338.0,
+        270.7,
+        3351.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FEAALMERON",
+      "texte_balise": "FEAALMERON",
+      "bbox": [
+        343.6,
+        3343.4,
+        419.1,
+        3348.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SHNORHALI",
+      "texte_balise": "SHNORHALI",
+      "bbox": [
+        520.6,
+        3343.4,
+        577.9,
+        3348.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LA FRANCE",
+      "texte_balise": "LA FRANCE",
+      "bbox": [
+        1166.1,
+        3355.6,
+        1283.5,
+        3380.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Old French",
+      "texte_balise": "The Old French",
+      "bbox": [
+        1012.6,
+        3359.0,
+        1095.9,
+        3372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "colore Certiur",
+      "texte_balise": "colore Certiur",
+      "bbox": [
+        1502.0,
+        3359.0,
+        1595.8,
+        3364.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JUDITA",
+      "texte_balise": "JUDITA",
+      "bbox": [
+        822.6,
+        3361.6,
+        950.2,
+        3382.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JESUS,",
+      "texte_balise": "JESUS,",
+      "bbox": [
+        499.8,
+        3372.0,
+        601.3,
+        3405.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crusade Cycle",
+      "texte_balise": "Crusade Cycle",
+      "bbox": [
+        1015.2,
+        3372.0,
+        1093.3,
+        3385.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELIVREE",
+      "texte_balise": "DELIVREE",
+      "bbox": [
+        1187.1,
+        3377.2,
+        1265.2,
+        3390.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pocme Heroique.",
+      "texte_balise": "Pocme Heroique.",
+      "bbox": [
+        1174.0,
+        3387.6,
+        1278.2,
+        3403.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        499.8,
+        3398.0,
+        549.3,
+        3421.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SON",
+      "texte_balise": "SON",
+      "bbox": [
+        499.8,
+        3421.5,
+        557.1,
+        3444.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LODEWIJK DE KONINCK",
+      "texte_balise": "LODEWIJK DE KONINCK",
+      "bbox": [
+        1660.8,
+        3460.0,
+        1772.8,
+        3474.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Once Then",
+      "texte_balise": "Once Then",
+      "bbox": [
+        1676.5,
+        3491.7,
+        1710.3,
+        3505.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "полн. - .",
+      "texte_balise": "полн. - .",
+      "bbox": [
+        1707.7,
+        3494.0,
+        1762.4,
+        3513.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Herbet, a Dramatized",
+      "texte_balise": "Herbet, a Dramatized",
+      "bbox": [
+        5.2,
+        3515.0,
+        145.8,
+        3531.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Het Leven en Dood van",
+      "texte_balise": "Het Leven en Dood van",
+      "bbox": [
+        153.6,
+        3517.8,
+        291.6,
+        3531.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hexaëmeron",
+      "texte_balise": "Hexaëmeron",
+      "bbox": [
+        338.4,
+        3523.0,
+        426.9,
+        3536.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Jesus, the Son",
+      "texte_balise": "Jesus, the Son",
+      "bbox": [
+        499.8,
+        3523.0,
+        598.7,
+        3536.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jónsvísur",
+      "texte_balise": "Jónsvísur",
+      "bbox": [
+        687.2,
+        3525.6,
+        754.9,
+        3538.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Judita",
+      "texte_balise": "Judita",
+      "bbox": [
+        864.3,
+        3528.2,
+        911.1,
+        3543.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epic Poem",
+      "texte_balise": "Epic Poem",
+      "bbox": [
+        5.2,
+        3533.0,
+        75.5,
+        3549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anders Christensen Arrebo Nerses Shnorhali IV the Gracious",
+      "texte_balise": "Anders Christensen Arrebo Nerses Shnorhali IV the Gracious",
+      "bbox": [
+        312.4,
+        3533.0,
+        637.8,
+        3549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La Chanson de",
+      "texte_balise": "La Chanson de",
+      "bbox": [
+        986.6,
+        3533.0,
+        1072.5,
+        3546.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jezus Christus",
+      "texte_balise": "Jezus Christus",
+      "bbox": [
+        153.6,
+        3536.0,
+        239.5,
+        3549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La Pucelle",
+      "texte_balise": "La Pucelle",
+      "bbox": [
+        1192.3,
+        3536.0,
+        1259.9,
+        3552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Semaines",
+      "texte_balise": "Les Semaines",
+      "bbox": [
+        1356.3,
+        3536.0,
+        1450.0,
+        3549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Libro delle tre scritture",
+      "texte_balise": "Libro delle tre scritture",
+      "bbox": [
+        1476.0,
+        3536.0,
+        1634.8,
+        3552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kolbeinn Tumason",
+      "texte_balise": "Kolbeinn Tumason",
+      "bbox": [
+        669.0,
+        3541.0,
+        775.8,
+        3552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marko Marulic",
+      "texte_balise": "Marko Marulic",
+      "bbox": [
+        848.6,
+        3543.8,
+        931.9,
+        3557.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Menschdom Verlost",
+      "texte_balise": "Menschdom Verlost",
+      "bbox": [
+        1645.2,
+        3543.8,
+        1783.2,
+        3557.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Marshall",
+      "texte_balise": "William Marshall",
+      "bbox": [
+        23.4,
+        3546.0,
+        119.7,
+        3559.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jérusalem & Jerusalem",
+      "texte_balise": "Jérusalem & Jerusalem",
+      "bbox": [
+        984.0,
+        3549.0,
+        1124.6,
+        3565.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michel de swaen",
+      "texte_balise": "Michel de swaen",
+      "bbox": [
+        174.4,
+        3551.6,
+        270.7,
+        3559.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guillaume de Salluste",
+      "texte_balise": "Guillaume de Salluste",
+      "bbox": [
+        1340.6,
+        3551.6,
+        1460.4,
+        3565.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean Chapelain",
+      "texte_balise": "Jean Chapelain",
+      "bbox": [
+        1189.7,
+        3554.0,
+        1275.6,
+        3567.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lodewijk de Koninck",
+      "texte_balise": "Lodewijk de Koninck",
+      "bbox": [
+        1655.6,
+        3559.0,
+        1770.2,
+        3572.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Continuations",
+      "texte_balise": "Continuations",
+      "bbox": [
+        986.6,
+        3567.2,
+        1069.9,
+        3580.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ou Barras",
+      "texte_balise": "ou Barras",
+      "bbox": [
+        1340.6,
+        3572.0,
+        1395.3,
+        3578.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1020.5,
+        3580.2,
+        1090.7,
+        3593.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Słowacki",
+      "texte_balise": "Słowacki",
+      "bbox": [
+        476.2,
+        3603.0,
+        630.1,
+        3638.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MOYSE SAVVE",
+      "texte_balise": "MOYSE SAVVE",
+      "bbox": [
+        13.0,
+        3606.0,
+        111.9,
+        3619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pascon agan Caluch",
+      "texte_balise": "Pascon agan Caluch",
+      "bbox": [
+        179.6,
+        3606.0,
+        268.1,
+        3619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ВАСИЛЬ",
+      "texte_balise": "ВАСИЛЬ",
+      "bbox": [
+        1161.0,
+        3606.2,
+        1286.0,
+        3629.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Wordsworth",
+      "texte_balise": "William Wordsworth",
+      "bbox": [
+        1512.5,
+        3608.8,
+        1616.6,
+        3622.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Animent",
+      "texte_balise": "Animent",
+      "bbox": [
+        1028.3,
+        3616.7,
+        1088.1,
+        3621.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "I RAVIS LIES",
+      "texte_balise": "I RAVIS LIES",
+      "bbox": [
+        853.8,
+        3619.0,
+        924.1,
+        3624.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Passhyon agan Arlocch",
+      "texte_balise": "Passhyon agan Arlocch",
+      "bbox": [
+        171.8,
+        3621.9,
+        275.9,
+        3635.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "БАРКА",
+      "texte_balise": "БАРКА",
+      "bbox": [
+        1160.8,
+        3631.3,
+        1283.6,
+        3659.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEARL",
+      "texte_balise": "PEARL",
+      "bbox": [
+        359.2,
+        3632.3,
+        408.7,
+        3645.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SVETA",
+      "texte_balise": "SVETA",
+      "bbox": [
+        1033.5,
+        3632.3,
+        1082.9,
+        3647.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DV STELE",
+      "texte_balise": "DV STELE",
+      "bbox": [
+        46.9,
+        3634.9,
+        78.1,
+        3640.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "* Poematy",
+      "texte_balise": "* Poematy",
+      "bbox": [
+        479.0,
+        3640.0,
+        564.9,
+        3658.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROZALIJA",
+      "texte_balise": "ROZALIJA",
+      "bbox": [
+        1020.5,
+        3653.1,
+        1095.9,
+        3668.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ОКЕАН",
+      "texte_balise": "ОКЕАН",
+      "bbox": [
+        1160.8,
+        3667.9,
+        1286.2,
+        3700.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Excursion",
+      "texte_balise": "The Excursion",
+      "bbox": [
+        1512.5,
+        3668.7,
+        1616.6,
+        3684.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and The Recluse",
+      "texte_balise": "and The Recluse",
+      "bbox": [
+        1512.5,
+        3689.5,
+        1614.0,
+        3705.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moyse sauvé",
+      "texte_balise": "Moyse sauvé",
+      "bbox": [
+        31.2,
+        3796.0,
+        122.4,
+        3812.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Passhyon agan Arloedh",
+      "texte_balise": "Passhyon agan Arloedh",
+      "bbox": [
+        148.4,
+        3798.8,
+        302.0,
+        3814.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Podróz do Ziemi Swietej z",
+      "texte_balise": "Podróz do Ziemi Swietej z",
+      "bbox": [
+        471.2,
+        3804.0,
+        637.8,
+        3820.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Antoine Girard de Saint-",
+      "texte_balise": "Antoine Girard de Saint-",
+      "bbox": [
+        10.4,
+        3809.0,
+        143.2,
+        3822.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pearl",
+      "texte_balise": "Pearl",
+      "bbox": [
+        369.7,
+        3809.3,
+        408.7,
+        3824.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roman de la Rose",
+      "texte_balise": "Roman de la Rose",
+      "bbox": [
+        666.4,
+        3811.9,
+        781.0,
+        3825.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil's Ballad",
+      "texte_balise": "The Devil's Ballad",
+      "bbox": [
+        1343.3,
+        3811.9,
+        1460.4,
+        3825.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sinte Franciscus' Leven",
+      "texte_balise": "Sinte Franciscus' Leven",
+      "bbox": [
+        817.4,
+        3814.0,
+        965.8,
+        3827.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Svidok dlia sontsia",
+      "texte_balise": "Svidok dlia sontsia",
+      "bbox": [
+        1168.8,
+        3814.0,
+        1293.8,
+        3827.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Excursion: Being a",
+      "texte_balise": "The Excursion: Being a",
+      "bbox": [
+        1491.6,
+        3814.0,
+        1637.4,
+        3827.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sveta Rožalija",
+      "texte_balise": "Sveta Rožalija",
+      "bbox": [
+        1015.2,
+        3817.0,
+        1109.0,
+        3830.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pennsylvania",
+      "texte_balise": "The Pennsylvania",
+      "bbox": [
+        1658.2,
+        3817.0,
+        1772.8,
+        3833.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonvmous",
+      "texte_balise": "Anonvmous",
+      "bbox": [
+        190.0,
+        3817.1,
+        255.1,
+        3824.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pearl Poet",
+      "texte_balise": "Pearl Poet",
+      "bbox": [
+        359.2,
+        3824.7,
+        419.2,
+        3838.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neapolu",
+      "texte_balise": "Neapolu",
+      "bbox": [
+        471.2,
+        3824.9,
+        525.8,
+        3835.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jens Christian Djurhuus",
+      "texte_balise": "Jens Christian Djurhuus",
+      "bbox": [
+        1340.6,
+        3824.9,
+        1468.2,
+        3838.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guillaume de Lorris &",
+      "texte_balise": "Guillaume de Lorris &",
+      "bbox": [
+        663.8,
+        3827.0,
+        783.6,
+        3840.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amant",
+      "texte_balise": "Amant",
+      "bbox": [
+        7.8,
+        3827.5,
+        52.1,
+        3837.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Antun Kanižlic",
+      "texte_balise": "Antun Kanižlic",
+      "bbox": [
+        1020.5,
+        3830.0,
+        1101.2,
+        3843.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "shestykrylykh",
+      "texte_balise": "shestykrylykh",
+      "bbox": [
+        1168.8,
+        3832.7,
+        1262.6,
+        3845.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "portion of The Recluse",
+      "texte_balise": "portion of The Recluse",
+      "bbox": [
+        1489.0,
+        3832.7,
+        1637.4,
+        3846.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Juliusz Slowacki",
+      "texte_balise": "Juliusz Slowacki",
+      "bbox": [
+        505.0,
+        3835.0,
+        588.3,
+        3846.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pilgrim",
+      "texte_balise": "Pilgrim",
+      "bbox": [
+        1658.2,
+        3835.3,
+        1707.7,
+        3850.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean de Meun",
+      "texte_balise": "Jean de Meun",
+      "bbox": [
+        663.8,
+        3843.0,
+        744.5,
+        3856.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Wordsworth",
+      "texte_balise": "William Wordsworth",
+      "bbox": [
+        1504.6,
+        3848.0,
+        1619.2,
+        3861.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Greenleaf Whittier",
+      "texte_balise": "John Greenleaf Whittier",
+      "bbox": [
+        1655.6,
+        3850.9,
+        1785.8,
+        3864.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MOUNTAIN WREATH",
+      "texte_balise": "THE MOUNTAIN WREATH",
+      "bbox": [
+        479.0,
+        3882.0,
+        619.6,
+        3895.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joanor 49 artorell",
+      "texte_balise": "Joanor 49 artorell",
+      "bbox": [
+        676.8,
+        3900.0,
+        767.9,
+        3913.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POWSZE(HNA",
+      "texte_balise": "POWSZE(HNA",
+      "bbox": [
+        874.7,
+        3903.0,
+        950.2,
+        3921.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "P. P. NEGOSH",
+      "texte_balise": "P. P. NEGOSH",
+      "bbox": [
+        510.2,
+        3905.6,
+        590.9,
+        3916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Prince-Bishop of Montenegro",
+      "texte_balise": "Prince-Bishop of Montenegro",
+      "bbox": [
+        494.6,
+        3916.0,
+        603.9,
+        3929.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "120",
+      "texte_balise": "120",
+      "bbox": [
+        1239.1,
+        3926.4,
+        1262.6,
+        3939.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Wielki Carrartek.",
+      "texte_balise": "Wielki Carrartek.",
+      "bbox": [
+        869.5,
+        3942.0,
+        945.0,
+        3965.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tirant lo blanch",
+      "texte_balise": "Tirant lo blanch",
+      "bbox": [
+        674.2,
+        3946.9,
+        768.0,
+        3965.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tirant lo Blanch",
+      "texte_balise": "Tirant lo Blanch",
+      "bbox": [
+        671.6,
+        4087.7,
+        778.4,
+        4101.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wielki Czwartek",
+      "texte_balise": "Wielki Czwartek",
+      "bbox": [
+        833.0,
+        4087.7,
+        945.0,
+        4103.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mountain Wreath",
+      "texte_balise": "Mountain Wreath",
+      "bbox": [
+        489.4,
+        4090.0,
+        611.8,
+        4103.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wladyslaw Svrokomla",
+      "texte_balise": "Wladyslaw Svrokomla",
+      "bbox": [
+        827.8,
+        4103.0,
+        950.2,
+        4116.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Joanot Martore!!",
+      "texte_balise": "Joanot Martore!!",
+      "bbox": [
+        679.4,
+        4106.0,
+        770.5,
+        4114.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shmuel-Bukh",
+      "texte_balise": "Shmuel-Bukh",
+      "bbox": [
+        1012.6,
+        4106.0,
+        1106.4,
+        4119.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mlokhim-Bukh",
+      "texte_balise": "Mlokhim-Bukh",
+      "bbox": [
+        1184.5,
+        4108.6,
+        1286.0,
+        4121.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*Yellow indicates Jewish material covering Old Testament subject matter",
+      "texte_balise": "*Yellow indicates Jewish material covering Old Testament subject matter",
+      "bbox": [
+        1379.7,
+        4116.0,
+        1770.2,
+        4129.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1023.1,
+        4121.6,
+        1093.3,
+        4134.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous",
+      "texte_balise": "Anonymous",
+      "bbox": [
+        1202.7,
+        4124.2,
+        1273.0,
+        4137.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

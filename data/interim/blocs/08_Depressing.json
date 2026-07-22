@@ -1,0 +1,208 @@
+{
+  "fichier": "08_Depressing.jpeg",
+  "date": "2026-07-21T19:28:36.472017+00:00",
+  "taille_origine": [
+    2000,
+    2800
+  ],
+  "hauteur_ligne_mediane": 17.5,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 3,
+  "nb_noeuds": 31,
+  "tiers": [
+    "than a",
+    "Onthe Marble Cliffs",
+    "Clarice"
+  ],
+  "intitules_isoles": [
+    "than a",
+    "Ladislav Klima",
+    "Onthe Marble Cliffs",
+    "Tess of the D'Urbervilles",
+    "AlEXANdER SolzhENiTSYN",
+    "Alexander Solzhenitsyn",
+    "Pierre Drieu La Rochelle",
+    "Leo Tolstoy",
+    "Clarice",
+    "Arthur Miller"
+  ],
+  "blocs": [
+    {
+      "tier": "than a",
+      "bbox": null,
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "No Longer Human",
+          "auteur": "Osamu Dazai",
+          "tier": "than a"
+        },
+        {
+          "titre": "Journey to the End of the Night",
+          "auteur": "Louis-Ferdinand Celine",
+          "tier": "than a"
+        },
+        {
+          "titre": "The Sufferings of",
+          "auteur": "Prince Sternenhoch",
+          "tier": "than a"
+        },
+        {
+          "titre": "The Book of Disquiet",
+          "auteur": "Fernando Pessoa",
+          "tier": "than a"
+        },
+        {
+          "titre": "The Tunnel",
+          "auteur": "Ernesto Sabato",
+          "tier": "than a"
+        },
+        {
+          "titre": "Wide Sargasso Sea",
+          "auteur": "Jean Rhys",
+          "tier": "than a"
+        },
+        {
+          "titre": "Rituals",
+          "auteur": "Cees Nooteboom",
+          "tier": "than a"
+        },
+        {
+          "titre": "If This is a Man",
+          "auteur": "Primo Levi",
+          "tier": "than a"
+        }
+      ]
+    },
+    {
+      "tier": "Onthe Marble Cliffs",
+      "bbox": null,
+      "nb_lignes": 16,
+      "noeuds": [
+        {
+          "titre": "The Maimed",
+          "auteur": "Hermann Ungar",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "This Business of Living",
+          "auteur": "Cesare Pavese",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "On the Marble Cliffs",
+          "auteur": "Ernst Junger",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "The Lost Weekend",
+          "auteur": "Charles Jackson",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Notes from Underground",
+          "auteur": "Fyodor Dostoevsky",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Thousand Cranes",
+          "auteur": "Yasunari Kawabata",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Of Mice and Men",
+          "auteur": "John Steinbeck",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Last Exit to Brooklyn",
+          "auteur": "Hubert Selby Jr.",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Our Lady of the Flowers",
+          "auteur": null,
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "The Trouble with Being Born",
+          "auteur": "E.M. Cioran",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Germinal",
+          "auteur": "Emile Zola",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Jude the Obscure",
+          "auteur": "Thomas Hardy",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Kokoro",
+          "auteur": "Natsume Soseki",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "The Heart is a Lonely Hunter",
+          "auteur": "Carson McCullers",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "Hunger",
+          "auteur": "Knut Hamsun",
+          "tier": "Onthe Marble Cliffs"
+        },
+        {
+          "titre": "The Particular Sadness",
+          "auteur": "of Lemon Cake",
+          "tier": "Onthe Marble Cliffs"
+        }
+      ]
+    },
+    {
+      "tier": "Clarice",
+      "bbox": null,
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "4.48 Psychosis",
+          "auteur": "Sarah Kane",
+          "tier": "Clarice"
+        },
+        {
+          "titre": "The Hour of the Star",
+          "auteur": "Clarice Lispector",
+          "tier": "Clarice"
+        },
+        {
+          "titre": "Stoner",
+          "auteur": "John Williams",
+          "tier": "Clarice"
+        },
+        {
+          "titre": "The Death of Ivan Ilyich",
+          "auteur": "Leo Tolstoy",
+          "tier": "Clarice"
+        },
+        {
+          "titre": "Death of a Salesman",
+          "auteur": null,
+          "tier": "Clarice"
+        },
+        {
+          "titre": "Will O'The Wisp",
+          "auteur": "Pierre Drieu la Rochelle",
+          "tier": "Clarice"
+        },
+        {
+          "titre": "The Road",
+          "auteur": "Cormac McCarthy",
+          "tier": "Clarice"
+        }
+      ]
+    }
+  ]
+}

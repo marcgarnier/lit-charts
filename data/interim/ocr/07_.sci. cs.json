@@ -1,0 +1,1818 @@
+{
+  "fichier": "07_.sci. cs.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:04.335264+00:00",
+  "duree_s": 1.7,
+  "taille_origine": [
+    1134,
+    2268
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 164,
+  "lignes": [
+    {
+      "texte": "WINNER OF THE PULITZER PRIZE",
+      "texte_balise": "WINNER OF THE PULITZER PRIZE",
+      "bbox": [
+        14.0,
+        6.0,
+        150.0,
+        16.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Precalculus",
+      "texte_balise": "Precalculus",
+      "bbox": [
+        187.8,
+        9.4,
+        306.2,
+        48.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mathematics for Computer Science",
+      "texte_balise": "Mathematics for Computer Science",
+      "bbox": [
+        894.0,
+        16.0,
+        1060.0,
+        30.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESSENTIALS OF",
+      "texte_balise": "ESSENTIALS OF",
+      "bbox": [
+        680.0,
+        22.0,
+        764.0,
+        34.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GODEL,",
+      "texte_balise": "GODEL,",
+      "bbox": [
+        20.0,
+        23.8,
+        144.0,
+        58.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "revised Mooday 18ª May, 2015,01:43",
+      "texte_balise": "revised Mooday 18ª May, 2015,01:43",
+      "bbox": [
+        928.0,
+        30.0,
+        1026.0,
+        40.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Interpretation",
+      "texte_balise": "Interpretation",
+      "bbox": [
+        572.0,
+        40.0,
+        628.0,
+        50.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROGRAMMING",
+      "texte_balise": "PROGRAMMING",
+      "bbox": [
+        680.0,
+        40.0,
+        768.0,
+        52.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Prelude lo Calculus",
+      "texte_balise": "A Prelude lo Calculus",
+      "bbox": [
+        187.9,
+        43.6,
+        304.1,
+        64.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEOD LITRON",
+      "texte_balise": "THEOD LITRON",
+      "bbox": [
+        796.0,
+        44.0,
+        830.0,
+        48.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ESCHER,",
+      "texte_balise": "ESCHER,",
+      "bbox": [
+        7.9,
+        49.6,
+        158.1,
+        84.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGUAGES",
+      "texte_balise": "LANGUAGES",
+      "bbox": [
+        680.0,
+        58.0,
+        750.0,
+        67.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Proprams",
+      "texte_balise": "Proprams",
+      "bbox": [
+        572.0,
+        63.9,
+        610.0,
+        69.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Send Else",
+      "texte_balise": "Send Else",
+      "bbox": [
+        226.0,
+        65.9,
+        266.0,
+        77.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BACH:",
+      "texte_balise": "BACH:",
+      "bbox": [
+        33.7,
+        76.6,
+        138.3,
+        107.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seen Laden",
+      "texte_balise": "Seen Laden",
+      "bbox": [
+        536.0,
+        79.9,
+        570.0,
+        87.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Eric Lehman",
+      "texte_balise": "Eric Lehman",
+      "bbox": [
+        950.0,
+        87.9,
+        1002.0,
+        97.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Google Inc.",
+      "texte_balise": "Google Inc.",
+      "bbox": [
+        960.0,
+        97.9,
+        994.0,
+        107.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN ETERNAL GOLDEN BRAID",
+      "texte_balise": "AN ETERNAL GOLDEN BRAID",
+      "bbox": [
+        8.0,
+        103.9,
+        158.0,
+        113.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F Thomson Leighton",
+      "texte_balise": "F Thomson Leighton",
+      "bbox": [
+        934.0,
+        121.9,
+        1018.0,
+        133.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Deperiment of Mathematics",
+      "texte_balise": "Deperiment of Mathematics",
+      "bbox": [
+        936.0,
+        133.9,
+        1016.0,
+        143.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E",
+      "texte_balise": "E",
+      "bbox": [
+        56.0,
+        141.9,
+        76.0,
+        159.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "and the Computer Sciense and Al Laboratoes,",
+      "texte_balise": "and the Computer Sciense and Al Laboratoes,",
+      "bbox": [
+        912.0,
+        141.9,
+        1040.0,
+        153.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Akanai Techoolgies",
+      "texte_balise": "Akanai Techoolgies",
+      "bbox": [
+        944.0,
+        161.9,
+        1008.0,
+        171.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sheldon Adler",
+      "texte_balise": "Sheldon Adler",
+      "bbox": [
+        209.9,
+        183.2,
+        284.1,
+        202.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Albert R Meyer",
+      "texte_balise": "Albert R Meyer",
+      "bbox": [
+        944.0,
+        185.9,
+        1008.0,
+        197.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOUGLAS R",
+      "texte_balise": "DOUGLAS R",
+      "bbox": [
+        40.0,
+        189.9,
+        120.0,
+        201.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Depertment of Electral Enzineering and Compur Science",
+      "texte_balise": "Depertment of Electral Enzineering and Compur Science",
+      "bbox": [
+        892.0,
+        197.8,
+        1058.0,
+        205.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOFSTADTER",
+      "texte_balise": "HOFSTADTER",
+      "bbox": [
+        38.0,
+        201.8,
+        128.0,
+        211.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daniel P. Friedman and Mitchel Wand",
+      "texte_balise": "Daniel P. Friedman and Mitchel Wand",
+      "bbox": [
+        678.0,
+        203.8,
+        798.0,
+        213.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the Computer Scinoe and Al Laboracey:",
+      "texte_balise": "and the Computer Scinoe and Al Laboracey:",
+      "bbox": [
+        914.0,
+        205.8,
+        1040.0,
+        217.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "will Student Slalion Manal",
+      "texte_balise": "will Student Slalion Manal",
+      "bbox": [
+        192.0,
+        207.8,
+        300.0,
+        223.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "А МЕТАРИРИ КР. РЕМА МОР МАСНІМІЯ",
+      "texte_balise": "А МЕТАРИРИ КР. РЕМА МОР МАСНІМІЯ",
+      "bbox": [
+        2.0,
+        213.8,
+        162.0,
+        227.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MODERN",
+      "texte_balise": "MODERN",
+      "bbox": [
+        415.9,
+        237.4,
+        482.1,
+        254.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND EDITION",
+      "texte_balise": "SECOND EDITION",
+      "bbox": [
+        44.0,
+        241.8,
+        114.0,
+        251.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TANENBAUM",
+      "texte_balise": "TANENBAUM",
+      "bbox": [
+        340.0,
+        243.8,
+        386.0,
+        253.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THRO CONFOR",
+      "texte_balise": "THRO CONFOR",
+      "bbox": [
+        226.0,
+        251.8,
+        266.0,
+        255.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OPERATING",
+      "texte_balise": "OPERATING",
+      "bbox": [
+        400.0,
+        253.8,
+        482.0,
+        269.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        58.0,
+        259.8,
+        100.0,
+        279.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        566.0,
+        259.8,
+        590.0,
+        269.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPUTER SYSTEMS",
+      "texte_balise": "COMPUTER SYSTEMS",
+      "bbox": [
+        180.0,
+        267.8,
+        316.0,
+        281.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to the Theory of",
+      "texte_balise": "Introduction to the Theory of",
+      "bbox": [
+        682.0,
+        267.8,
+        836.0,
+        281.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SYSTEMS",
+      "texte_balise": "SYSTEMS",
+      "bbox": [
+        420.0,
+        269.8,
+        484.0,
+        281.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algorithm Design",
+      "texte_balise": "Algorithm Design",
+      "bbox": [
+        500.0,
+        271.8,
+        656.0,
+        293.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algorithm Design:",
+      "texte_balise": "Algorithm Design:",
+      "bbox": [
+        888.0,
+        277.8,
+        1100.0,
+        301.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPUTATION",
+      "texte_balise": "COMPUTATION",
+      "bbox": [
+        680.0,
+        281.8,
+        834.0,
+        303.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A PROGRAMMER'S PERSPECTIVE",
+      "texte_balise": "A PROGRAMMER'S PERSPECTIVE",
+      "bbox": [
+        194.0,
+        285.8,
+        300.0,
+        293.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        541.8,
+        288.8,
+        612.2,
+        306.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD EDITION",
+      "texte_balise": "THIRD EDITION",
+      "bbox": [
+        728.0,
+        301.8,
+        790.0,
+        311.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parallel & Sequential",
+      "texte_balise": "Parallel & Sequential",
+      "bbox": [
+        876.0,
+        303.8,
+        1116.0,
+        329.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "parallel-algorithms-book.com",
+      "texte_balise": "parallel-algorithms-book.com",
+      "bbox": [
+        872.0,
+        357.7,
+        1116.0,
+        377.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROGRAMMING",
+      "texte_balise": "PROGRAMMING",
+      "bbox": [
+        10.0,
+        373.7,
+        148.0,
+        397.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGUAGE",
+      "texte_balise": "LANGUAGE",
+      "bbox": [
+        28.0,
+        395.7,
+        126.0,
+        415.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL SIPSER",
+      "texte_balise": "MICHAEL SIPSER",
+      "bbox": [
+        696.0,
+        425.7,
+        822.0,
+        437.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRIAN W KERNICHAN",
+      "texte_balise": "BRIAN W KERNICHAN",
+      "bbox": [
+        36.0,
+        433.7,
+        122.0,
+        443.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steven S. Skiena",
+      "texte_balise": "Steven S. Skiena",
+      "bbox": [
+        538.0,
+        437.7,
+        622.0,
+        449.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DENNIS M.RITCHIE",
+      "texte_balise": "DENNIS M.RITCHIE",
+      "bbox": [
+        42.0,
+        445.7,
+        116.0,
+        455.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRYANT • O'HALLARON",
+      "texte_balise": "BRYANT • O'HALLARON",
+      "bbox": [
+        194.0,
+        449.6,
+        300.0,
+        459.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2 Springer",
+      "texte_balise": "2 Springer",
+      "bbox": [
+        557.9,
+        457.3,
+        600.1,
+        469.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRONCE BAL STONE ME",
+      "texte_balise": "PRONCE BAL STONE ME",
+      "bbox": [
+        48.0,
+        465.6,
+        106.0,
+        469.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gradule Tats le Mathematio",
+      "texte_balise": "Gradule Tats le Mathematio",
+      "bbox": [
+        168.0,
+        493.6,
+        244.0,
+        503.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GTM",
+      "texte_balise": "GTM",
+      "bbox": [
+        260.0,
+        493.6,
+        312.0,
+        519.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ROBERT HARPER",
+      "texte_balise": "ROBERT HARPER",
+      "bbox": [
+        520.0,
+        495.6,
+        576.0,
+        503.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Practice of",
+      "texte_balise": "The Practice of",
+      "bbox": [
+        667.7,
+        504.0,
+        820.3,
+        535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to",
+      "texte_balise": "Introduction to",
+      "bbox": [
+        18.0,
+        513.6,
+        98.0,
+        525.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LINEAR ALGEBRA",
+      "texte_balise": "LINEAR ALGEBRA",
+      "bbox": [
+        18.0,
+        529.6,
+        144.0,
+        545.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Programming",
+      "texte_balise": "Programming",
+      "bbox": [
+        668.0,
+        533.6,
+        812.0,
+        567.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Keinnard Ulestel",
+      "texte_balise": "Keinnard Ulestel",
+      "bbox": [
+        168.0,
+        543.6,
+        226.0,
+        553.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FIFTH EDITION",
+      "texte_balise": "FIFTH EDITION",
+      "bbox": [
+        18.0,
+        549.4,
+        80.0,
+        561.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graph Theory",
+      "texte_balise": "Graph Theory",
+      "bbox": [
+        168.0,
+        563.6,
+        264.0,
+        587.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Practical Foundations for",
+      "texte_balise": "Practical Foundations for",
+      "bbox": [
+        520.0,
+        563.6,
+        652.0,
+        577.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brian W. Kernighan",
+      "texte_balise": "Brian W. Kernighan",
+      "bbox": [
+        670.0,
+        569.6,
+        756.0,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rob Pike",
+      "texte_balise": "Rob Pike",
+      "bbox": [
+        670.0,
+        579.5,
+        712.0,
+        589.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROGRAMMING",
+      "texte_balise": "PROGRAMMING",
+      "bbox": [
+        564.0,
+        581.5,
+        650.0,
+        597.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LANGUAGES",
+      "texte_balise": "LANGUAGES",
+      "bbox": [
+        584.0,
+        597.5,
+        650.0,
+        613.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        900.0,
+        627.5,
+        944.0,
+        643.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gerereity",
+      "texte_balise": "Gerereity",
+      "bbox": [
+        718.0,
+        637.5,
+        748.0,
+        647.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MYTHICAL",
+      "texte_balise": "MYTHICAL",
+      "bbox": [
+        900.0,
+        647.5,
+        1012.0,
+        665.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAN-MONTH",
+      "texte_balise": "MAN-MONTH",
+      "bbox": [
+        898.0,
+        669.5,
+        1036.0,
+        685.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Artificial Intelligence",
+      "texte_balise": "Artificial Intelligence",
+      "bbox": [
+        388.0,
+        677.5,
+        486.0,
+        693.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GILBERT STRANG",
+      "texte_balise": "GILBERT STRANG",
+      "bbox": [
+        30.0,
+        681.5,
+        138.0,
+        697.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Russell",
+      "texte_balise": "Russell",
+      "bbox": [
+        336.0,
+        685.5,
+        366.0,
+        695.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REDERICK P. BROOKE. JR.",
+      "texte_balise": "REDERICK P. BROOKE. JR.",
+      "bbox": [
+        866.0,
+        689.5,
+        998.0,
+        699.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Modern Approach",
+      "texte_balise": "A Modern Approach",
+      "bbox": [
+        404.0,
+        691.5,
+        486.0,
+        705.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Springer",
+      "texte_balise": "• Springer",
+      "bbox": [
+        264.0,
+        695.5,
+        308.0,
+        707.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Norvig",
+      "texte_balise": "Norvig",
+      "bbox": [
+        338.0,
+        703.4,
+        366.0,
+        715.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "This/ Earin",
+      "texte_balise": "This/ Earin",
+      "bbox": [
+        444.0,
+        705.4,
+        486.0,
+        715.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Computer Science Core",
+      "texte_balise": "Computer Science Core",
+      "bbox": [
+        406.0,
+        759.4,
+        970.0,
+        807.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEEP",
+      "texte_balise": "DEEP",
+      "bbox": [
+        22.7,
+        784.4,
+        275.3,
+        896.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Read \"Deep Work\" first",
+      "texte_balise": "- Read \"Deep Work\" first",
+      "bbox": [
+        288.0,
+        829.3,
+        544.0,
+        853.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Start at top and work left to right in order",
+      "texte_balise": "- Start at top and work left to right in order",
+      "bbox": [
+        290.0,
+        857.3,
+        744.0,
+        879.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Do all the exercises, you learn by doing",
+      "texte_balise": "- Do all the exercises, you learn by doing",
+      "bbox": [
+        290.0,
+        883.3,
+        712.0,
+        905.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RULES FOR FOCUSED SUCCESS",
+      "texte_balise": "RULES FOR FOCUSED SUCCESS",
+      "bbox": [
+        38.0,
+        897.3,
+        260.0,
+        913.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Look up book author's homepage, often video lectures, free draft",
+      "texte_balise": "- Look up book author's homepage, often video lectures, free draft",
+      "bbox": [
+        290.0,
+        909.3,
+        988.0,
+        931.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN A DISTRACTED WORLD",
+      "texte_balise": "IN A DISTRACTED WORLD",
+      "bbox": [
+        36.0,
+        913.3,
+        260.0,
+        931.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Use Abe Books to buy International version at only 10% reg price",
+      "texte_balise": "- Use Abe Books to buy International version at only 10% reg price",
+      "bbox": [
+        290.0,
+        935.3,
+        982.0,
+        957.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORK",
+      "texte_balise": "WORK",
+      "bbox": [
+        25.8,
+        936.8,
+        276.2,
+        1031.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- This is a typical undergrad core:",
+      "texte_balise": "- This is a typical undergrad core:",
+      "bbox": [
+        288.0,
+        987.2,
+        640.0,
+        1009.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Inis is a typical undergrad core:",
+      "texte_balise": "- Inis is a typical undergrad core:",
+      "bbox": [
+        290.0,
+        993.0,
+        640.0,
+        1011.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Imperative & Functional Computation, Algorithms Design/Analysis,",
+      "texte_balise": "Imperative & Functional Computation, Algorithms Design/Analysis,",
+      "bbox": [
+        306.0,
+        1013.2,
+        1014.0,
+        1037.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Language Theory, O/S, Hardware, Theory of Computation, Graphs,",
+      "texte_balise": "Language Theory, O/S, Hardware, Theory of Computation, Graphs,",
+      "bbox": [
+        308.0,
+        1039.2,
+        996.0,
+        1063.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAL NEWPORT",
+      "texte_balise": "CAL NEWPORT",
+      "bbox": [
+        52.0,
+        1057.2,
+        244.0,
+        1079.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Linear Algebra applications, Al, plus software 'engineering'",
+      "texte_balise": "Linear Algebra applications, Al, plus software 'engineering'",
+      "bbox": [
+        308.0,
+        1065.2,
+        924.0,
+        1089.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF SO GOOD THEY CANT IGNORE YOU",
+      "texte_balise": "AUTHOR OF SO GOOD THEY CANT IGNORE YOU",
+      "bbox": [
+        54.0,
+        1079.2,
+        244.0,
+        1091.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Security elective lecture series:",
+      "texte_balise": "- Security elective lecture series:",
+      "bbox": [
+        290.0,
+        1117.1,
+        630.0,
+        1139.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html",
+      "texte_balise": "howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html",
+      "bbox": [
+        292.0,
+        1143.1,
+        1128.0,
+        1167.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIX",
+      "texte_balise": "MIX",
+      "bbox": [
+        996.0,
+        1326.7,
+        1028.0,
+        1342.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE AXT UP",
+      "texte_balise": "THE AXT UP",
+      "bbox": [
+        276.0,
+        1330.7,
+        310.0,
+        1336.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CMPUTER PAOGRAMMING",
+      "texte_balise": "CMPUTER PAOGRAMMING",
+      "bbox": [
+        276.0,
+        1340.7,
+        362.0,
+        1346.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXTENDED A ITS",
+      "texte_balise": "EXTENDED A ITS",
+      "bbox": [
+        414.0,
+        1358.7,
+        478.0,
+        1368.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLAS",
+      "texte_balise": "THE CLAS",
+      "bbox": [
+        710.0,
+        1358.7,
+        740.0,
+        1366.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEWIX",
+      "texte_balise": "NEWIX",
+      "bbox": [
+        622.0,
+        1362.7,
+        648.0,
+        1372.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEWLY UPDAT",
+      "texte_balise": "NEWLY UPDAT",
+      "bbox": [
+        696.0,
+        1366.7,
+        740.0,
+        1376.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BATHEMATICAL",
+      "texte_balise": "BATHEMATICAL",
+      "bbox": [
+        274.0,
+        1384.7,
+        320.0,
+        1392.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ANTUR",
+      "texte_balise": "THE ANTUR",
+      "bbox": [
+        82.0,
+        1388.7,
+        122.0,
+        1392.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PELIIRLARIES",
+      "texte_balise": "PELIIRLARIES",
+      "bbox": [
+        276.0,
+        1390.7,
+        320.0,
+        1402.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Art",
+      "texte_balise": "The Art",
+      "bbox": [
+        495.8,
+        1394.1,
+        544.2,
+        1411.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art",
+      "texte_balise": "The Art",
+      "bbox": [
+        407.9,
+        1394.5,
+        466.1,
+        1408.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPUTER PROGRAMMINC",
+      "texte_balise": "COMPUTER PROGRAMMINC",
+      "bbox": [
+        80.0,
+        1394.7,
+        178.0,
+        1404.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The a",
+      "texte_balise": "The a",
+      "bbox": [
+        578.0,
+        1394.7,
+        614.0,
+        1410.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art",
+      "texte_balise": "The Art",
+      "bbox": [
+        700.0,
+        1398.7,
+        746.0,
+        1416.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROUX",
+      "texte_balise": "ROUX",
+      "bbox": [
+        276.0,
+        1402.7,
+        294.0,
+        1412.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The A",
+      "texte_balise": "The A",
+      "bbox": [
+        626.0,
+        1404.7,
+        664.0,
+        1416.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comy",
+      "texte_balise": "Comy",
+      "bbox": [
+        580.6,
+        1413.5,
+        617.6,
+        1431.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Compute",
+      "texte_balise": "Compute",
+      "bbox": [
+        408.0,
+        1414.5,
+        468.0,
+        1432.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Compul",
+      "texte_balise": "Compul",
+      "bbox": [
+        496.0,
+        1414.7,
+        546.0,
+        1434.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Compu",
+      "texte_balise": "Compu",
+      "bbox": [
+        704.5,
+        1417.5,
+        751.2,
+        1438.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comp",
+      "texte_balise": "Comp",
+      "bbox": [
+        630.0,
+        1424.7,
+        668.0,
+        1438.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Program",
+      "texte_balise": "Program",
+      "bbox": [
+        407.8,
+        1434.1,
+        468.2,
+        1453.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Program",
+      "texte_balise": "Program",
+      "bbox": [
+        498.0,
+        1434.7,
+        550.0,
+        1454.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Progr",
+      "texte_balise": "Progr",
+      "bbox": [
+        582.0,
+        1434.7,
+        618.0,
+        1452.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A (PARTIAL) DRAFT",
+      "texte_balise": "A (PARTIAL) DRAFT",
+      "bbox": [
+        78.0,
+        1438.7,
+        148.0,
+        1450.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Progran",
+      "texte_balise": "Progran",
+      "bbox": [
+        706.0,
+        1438.7,
+        754.0,
+        1456.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Progr",
+      "texte_balise": "Progr",
+      "bbox": [
+        630.0,
+        1444.6,
+        672.0,
+        1460.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SATISFIABILITY",
+      "texte_balise": "SATISFIABILITY",
+      "bbox": [
+        78.0,
+        1458.6,
+        134.0,
+        1468.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOUSES",
+      "texte_balise": "HOUSES",
+      "bbox": [
+        502.0,
+        1460.6,
+        532.0,
+        1470.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sorting and So",
+      "texte_balise": "Sorting and So",
+      "bbox": [
+        502.0,
+        1472.6,
+        550.0,
+        1482.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MMIX",
+      "texte_balise": "MMIX",
+      "bbox": [
+        638.0,
+        1478.6,
+        662.0,
+        1490.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "That Wann",
+      "texte_balise": "That Wann",
+      "bbox": [
+        718.0,
+        1484.6,
+        752.0,
+        1492.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A RSC Comp",
+      "texte_balise": "A RSC Comp",
+      "bbox": [
+        642.0,
+        1488.6,
+        682.0,
+        1498.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DONALD ES",
+      "texte_balise": "DONALD ES",
+      "bbox": [
+        420.0,
+        1514.6,
+        482.0,
+        1528.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DONALY",
+      "texte_balise": "DONALY",
+      "bbox": [
+        598.0,
+        1518.6,
+        640.0,
+        1534.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DONALL",
+      "texte_balise": "DONALL",
+      "bbox": [
+        730.0,
+        1518.6,
+        766.0,
+        1528.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DONALD 1",
+      "texte_balise": "DONALD 1",
+      "bbox": [
+        512.0,
+        1520.6,
+        560.0,
+        1530.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DONAL",
+      "texte_balise": "DONAL",
+      "bbox": [
+        656.0,
+        1522.6,
+        690.0,
+        1534.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Masters Degree Core",
+      "texte_balise": "Masters Degree Core",
+      "bbox": [
+        442.0,
+        1656.5,
+        934.0,
+        1702.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- The Art of Computer Programming Series by Don Knuth (DEK)",
+      "texte_balise": "- The Art of Computer Programming Series by Don Knuth (DEK)",
+      "bbox": [
+        66.0,
+        1742.4,
+        740.0,
+        1764.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- This is not a 'reference' there's exercises for a reason",
+      "texte_balise": "- This is not a 'reference' there's exercises for a reason",
+      "bbox": [
+        66.0,
+        1766.4,
+        624.0,
+        1788.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Even the tape drive algorithms are still relevant, as modern RAM is fastest accessed sequentially",
+      "texte_balise": "- Even the tape drive algorithms are still relevant, as modern RAM is fastest accessed sequentially",
+      "bbox": [
+        66.0,
+        1794.4,
+        1090.0,
+        1818.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- You will kek at all the new blog posts that just reinvent Knuth algorithms from the 1960s",
+      "texte_balise": "- You will kek at all the new blog posts that just reinvent Knuth algorithms from the 1960s",
+      "bbox": [
+        66.0,
+        1820.4,
+        1012.0,
+        1844.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- You can contribute to library writing for newer languages (Rust, Go)",
+      "texte_balise": "- You can contribute to library writing for newer languages (Rust, Go)",
+      "bbox": [
+        66.0,
+        1848.3,
+        794.0,
+        1870.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Try Guix functional package manager (or GuixSD)",
+      "texte_balise": "- Try Guix functional package manager (or GuixSD)",
+      "bbox": [
+        424.0,
+        1900.3,
+        964.0,
+        1922.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GNU EMACS",
+      "texte_balise": "GNU EMACS",
+      "bbox": [
+        224.4,
+        1913.6,
+        381.5,
+        1951.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Try microkernels (Hurd/debian, rumpkernel.org, libos)",
+      "texte_balise": "- Try microkernels (Hurd/debian, rumpkernel.org, libos)",
+      "bbox": [
+        424.0,
+        1926.3,
+        1014.0,
+        1948.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GNU Emace Reference Card",
+      "texte_balise": "GNU Emace Reference Card",
+      "bbox": [
+        32.7,
+        1948.3,
+        139.4,
+        1974.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Read journals and type their article DOI# into sci-hub for access",
+      "texte_balise": "- Read journals and type their article DOI# into sci-hub for access",
+      "bbox": [
+        424.0,
+        1952.2,
+        1112.0,
+        1974.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        263.5,
+        1952.3,
+        376.6,
+        1979.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Try a grad level seminar www.cs.cmu.edu/~rwh/courses/hott/",
+      "texte_balise": "- Try a grad level seminar www.cs.cmu.edu/~rwh/courses/hott/",
+      "bbox": [
+        425.9,
+        1974.0,
+        1086.1,
+        2000.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Starting Fines",
+      "texte_balise": "Starting Fines",
+      "bbox": [
+        28.9,
+        1979.1,
+        83.1,
+        1997.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Look up your local university compsci dept events page",
+      "texte_balise": "- Look up your local university compsci dept events page",
+      "bbox": [
+        424.0,
+        2004.2,
+        1024.0,
+        2026.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Try some Cryptography",
+      "texte_balise": "- Try some Cryptography",
+      "bbox": [
+        424.0,
+        2082.1,
+        688.0,
+        2104.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.hyperelliptic.org/tanja/teaching.html",
+      "texte_balise": "www.hyperelliptic.org/tanja/teaching.html",
+      "bbox": [
+        444.0,
+        2106.1,
+        900.0,
+        2130.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "https://cr.yp.to/talks.html",
+      "texte_balise": "https://cr.yp.to/talks.html",
+      "bbox": [
+        444.0,
+        2134.1,
+        714.0,
+        2156.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "https://cryptopals.com/",
+      "texte_balise": "https://cryptopals.com/",
+      "bbox": [
+        444.0,
+        2160.1,
+        694.0,
+        2182.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

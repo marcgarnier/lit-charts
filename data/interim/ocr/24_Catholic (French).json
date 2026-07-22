@@ -1,0 +1,2599 @@
+{
+  "fichier": "24_Catholic (French).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:45.283295+00:00",
+  "duree_s": 4.1,
+  "taille_origine": [
+    2975,
+    4860
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 235,
+  "lignes": [
+    {
+      "texte": "Le Guide du Catholique",
+      "texte_balise": "Le Guide du Catholique",
+      "bbox": [
+        756.7,
+        30.0,
+        2270.2,
+        190.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ces conseils de lecture, s'ils sont importants pour tout Catholique, ne sauraient en aucun cas remplacer un entretien avec un prêtre",
+      "texte_balise": "Ces conseils de lecture, s'ils sont importants pour tout Catholique, ne sauraient en aucun cas remplacer un entretien avec un prêtre",
+      "bbox": [
+        648.6,
+        185.9,
+        2322.1,
+        220.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ou un religieux pour toute personne se questionnant sur une possible future conversion. Parlez plutôt à un prêtre de votre chemin et posez lui vos questions.",
+      "texte_balise": "ou un religieux pour toute personne se questionnant sur une possible future conversion. Parlez plutôt à un prêtre de votre chemin et posez lui vos questions.",
+      "bbox": [
+        549.2,
+        216.0,
+        2551.2,
+        255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LA BIBLE",
+      "texte_balise": "LA BIBLE",
+      "bbox": [
+        1353.3,
+        353.7,
+        1647.7,
+        428.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Va sainte",
+      "texte_balise": "Va sainte",
+      "bbox": [
+        830.2,
+        354.0,
+        882.1,
+        363.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BIBLE",
+      "texte_balise": "BIBLE",
+      "bbox": [
+        812.9,
+        371.8,
+        899.4,
+        402.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "d'après les",
+      "texte_balise": "d'après les",
+      "bbox": [
+        830.2,
+        402.0,
+        890.8,
+        419.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "textes originaux",
+      "texte_balise": "textes originaux",
+      "bbox": [
+        812.9,
+        419.0,
+        903.7,
+        441.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRADUCTION OFFICIELLE LITURGIQUE",
+      "texte_balise": "TRADUCTION OFFICIELLE LITURGIQUE",
+      "bbox": [
+        1362.1,
+        423.6,
+        1643.2,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "силиоте Ана",
+      "texte_balise": "силиоте Ана",
+      "bbox": [
+        820.8,
+        452.1,
+        895.5,
+        469.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CRAMPON",
+      "texte_balise": "CRAMPON",
+      "bbox": [
+        791.2,
+        470.8,
+        925.4,
+        497.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Choisissez vos Bibles avec imprimatur,",
+      "texte_balise": "Choisissez vos Bibles avec imprimatur,",
+      "bbox": [
+        73.5,
+        505.8,
+        614.0,
+        545.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les suivantes l'ont :",
+      "texte_balise": "Les suivantes l'ont :",
+      "bbox": [
+        207.6,
+        540.0,
+        484.3,
+        579.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Si tu savais",
+      "texte_balise": "Si tu savais",
+      "bbox": [
+        2144.7,
+        540.2,
+        2265.9,
+        570.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "le don de",
+      "texte_balise": "le don de",
+      "bbox": [
+        2153.4,
+        579.0,
+        2257.2,
+        618.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les quatre",
+      "texte_balise": "Les quatre",
+      "bbox": [
+        2019.4,
+        618.0,
+        2101.5,
+        644.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIEU",
+      "texte_balise": "DIEU",
+      "bbox": [
+        2153.4,
+        631.1,
+        2252.9,
+        674.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Évangiles",
+      "texte_balise": "Évangiles",
+      "bbox": [
+        2019.4,
+        648.4,
+        2101.5,
+        674.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1(02",
+      "texte_balise": "1(02",
+      "bbox": [
+        843.2,
+        752.2,
+        873.5,
+        760.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Catéchisme catholique",
+      "texte_balise": "Catéchisme catholique",
+      "bbox": [
+        1651.8,
+        929.0,
+        1850.7,
+        951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CATÉCHISME",
+      "texte_balise": "CATÉCHISME",
+      "bbox": [
+        2127.5,
+        938.0,
+        2365.3,
+        976.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catéchisme",
+      "texte_balise": "Catéchisme",
+      "bbox": [
+        626.9,
+        941.9,
+        830.4,
+        994.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Catéchisme",
+      "texte_balise": "Catéchisme",
+      "bbox": [
+        1128.6,
+        951.0,
+        1327.5,
+        981.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "populaire.",
+      "texte_balise": "populaire.",
+      "bbox": [
+        1703.7,
+        951.0,
+        1794.5,
+        972.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "concile de Trente",
+      "texte_balise": "concile de Trente",
+      "bbox": [
+        627.0,
+        976.9,
+        873.5,
+        1007.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pour les diocèses",
+      "texte_balise": "pour les diocèses",
+      "bbox": [
+        2161.8,
+        984.0,
+        2335.3,
+        1017.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "saint Pie X",
+      "texte_balise": "saint Pie X",
+      "bbox": [
+        1128.6,
+        989.9,
+        1305.9,
+        1016.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de langue française",
+      "texte_balise": "de langue française",
+      "bbox": [
+        2153.4,
+        1015.9,
+        2343.7,
+        1037.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Symbole des Apôtre:",
+      "texte_balise": "Le Symbole des Apôtre:",
+      "bbox": [
+        635.6,
+        1033.0,
+        765.4,
+        1055.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clons",
+      "texte_balise": "Clons",
+      "bbox": [
+        2222.6,
+        1262.3,
+        2274.5,
+        1283.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "S THOMAR",
+      "texte_balise": "S THOMAR",
+      "bbox": [
+        2633.4,
+        1426.8,
+        2745.8,
+        1435.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRIMOINES",
+      "texte_balise": "PATRIMOINES",
+      "bbox": [
+        229.2,
+        1427.0,
+        475.7,
+        1448.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AQUINATIS",
+      "texte_balise": "AQUINATIS",
+      "bbox": [
+        2750.1,
+        1427.0,
+        2858.2,
+        1435.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GREGOIRE LE GRAND",
+      "texte_balise": "GREGOIRE LE GRAND",
+      "bbox": [
+        1474.5,
+        1439.8,
+        1621.5,
+        1448.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Doctoris Angelici, Ordinis Pracdicatorum",
+      "texte_balise": "Doctoris Angelici, Ordinis Pracdicatorum",
+      "bbox": [
+        2633.4,
+        1439.8,
+        2862.6,
+        1461.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASILE DE CESAREE",
+      "texte_balise": "BASILE DE CESAREE",
+      "bbox": [
+        1868.0,
+        1448.7,
+        2006.4,
+        1457.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUMMA",
+      "texte_balise": "SUMMA",
+      "bbox": [
+        2672.3,
+        1470.3,
+        2823.7,
+        1496.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEAN CHRYSOSTOME",
+      "texte_balise": "JEAN CHRYSOSTOME",
+      "bbox": [
+        2274.5,
+        1478.7,
+        2417.2,
+        1487.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEOLOGICA",
+      "texte_balise": "THEOLOGICA",
+      "bbox": [
+        2637.7,
+        1500.5,
+        2862.6,
+        1530.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUR LE SAINT-ESPRIT",
+      "texte_balise": "SUR LE SAINT-ESPRIT",
+      "bbox": [
+        1842.1,
+        1508.7,
+        2036.7,
+        1530.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TROIS VIES DE MOINES",
+      "texte_balise": "TROIS VIES DE MOINES",
+      "bbox": [
+        1024.8,
+        1513.5,
+        1284.3,
+        1535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORALES SUR IOR",
+      "texte_balise": "MORALES SUR IOR",
+      "bbox": [
+        1461.6,
+        1521.7,
+        1630.2,
+        1530.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pères",
+      "texte_balise": "Pères",
+      "bbox": [
+        38.9,
+        1530.7,
+        151.4,
+        1582.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUR LA PROVIDENCE DE DIEU",
+      "texte_balise": "SUR LA PROVIDENCE DE DIEU",
+      "bbox": [
+        2235.6,
+        1530.7,
+        2460.4,
+        1552.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cura Fratrum ciusdem Ordinis",
+      "texte_balise": "Cura Fratrum ciusdem Ordinis",
+      "bbox": [
+        2633.4,
+        1534.7,
+        2858.2,
+        1548.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(PAUL, MALCHUS, HILARION)",
+      "texte_balise": "(PAUL, MALCHUS, HILARION)",
+      "bbox": [
+        1037.8,
+        1543.7,
+        1267.0,
+        1565.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saint Augustin",
+      "texte_balise": "Saint Augustin",
+      "bbox": [
+        661.6,
+        1552.4,
+        834.6,
+        1578.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMBROISE DE MILAN",
+      "texte_balise": "AMBROISE DE MILAN",
+      "bbox": [
+        246.5,
+        1569.7,
+        454.0,
+        1591.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de N'Église",
+      "texte_balise": "de N'Église",
+      "bbox": [
+        -0.0,
+        1573.7,
+        198.9,
+        1630.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Confessions",
+      "texte_balise": "Les Confessions",
+      "bbox": [
+        657.3,
+        1578.3,
+        834.6,
+        1591.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hymnes",
+      "texte_balise": "hymnes",
+      "bbox": [
+        285.3,
+        1590.8,
+        415.2,
+        1622.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dialogues philosophiques",
+      "texte_balise": "Dialogues philosophiques",
+      "bbox": [
+        657.3,
+        1608.6,
+        838.9,
+        1630.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLIOTECA DE AUTORES CRISTIANO",
+      "texte_balise": "BIBLIOTECA DE AUTORES CRISTIANO",
+      "bbox": [
+        2637.7,
+        1764.2,
+        2858.2,
+        1772.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTOIRR INIVERSELLE",
+      "texte_balise": "HISTOIRR INIVERSELLE",
+      "bbox": [
+        678.9,
+        1911.1,
+        817.3,
+        1919.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENCYCLOPEDIE DELA FOI",
+      "texte_balise": "ENCYCLOPEDIE DELA FOI",
+      "bbox": [
+        1046.4,
+        1924.1,
+        1245.3,
+        1932.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AVE ROULENGER",
+      "texte_balise": "AVE ROULENGER",
+      "bbox": [
+        263.8,
+        1932.4,
+        371.9,
+        1941.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dom Guéranger",
+      "texte_balise": "Dom Guéranger",
+      "bbox": [
+        2646.4,
+        1937.0,
+        2780.4,
+        1958.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEGLISE CATHOLIQUE",
+      "texte_balise": "LEGLISE CATHOLIQUE",
+      "bbox": [
+        618.4,
+        1945.4,
+        877.8,
+        1980.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETITS BOLLANDISTES",
+      "texte_balise": "PETITS BOLLANDISTES",
+      "bbox": [
+        1846.4,
+        1945.4,
+        2036.7,
+        1967.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histoire",
+      "texte_balise": "Histoire",
+      "bbox": [
+        1050.8,
+        1945.7,
+        1193.5,
+        1984.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histoire abrégée",
+      "texte_balise": "Histoire abrégée",
+      "bbox": [
+        289.7,
+        1954.3,
+        480.0,
+        1984.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIES DES SAINTS",
+      "texte_balise": "VIES DES SAINTS",
+      "bbox": [
+        1880.9,
+        1966.6,
+        2010.8,
+        1981.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PÉglis",
+      "texte_balise": "PÉglis",
+      "bbox": [
+        1081.0,
+        1980.3,
+        1189.1,
+        2019.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de l'Éslise",
+      "texte_balise": "de l'Éslise",
+      "bbox": [
+        358.4,
+        1982.9,
+        480.4,
+        2020.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histoire",
+      "texte_balise": "Histoire",
+      "bbox": [
+        25.6,
+        1983.6,
+        181.9,
+        2037.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction",
+      "texte_balise": "Introduction",
+      "bbox": [
+        2646.4,
+        1997.5,
+        2789.1,
+        2019.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAR ME PAUL GUFRIN",
+      "texte_balise": "PAR ME PAUL GUFRIN",
+      "bbox": [
+        1872.3,
+        2023.4,
+        2010.7,
+        2032.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "à l'année liturgique",
+      "texte_balise": "à l'année liturgique",
+      "bbox": [
+        2646.4,
+        2023.4,
+        2862.6,
+        2049.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de l'Église",
+      "texte_balise": "de l'Église",
+      "bbox": [
+        -0.0,
+        2032.1,
+        198.9,
+        2084.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vies de",
+      "texte_balise": "Vies de",
+      "bbox": [
+        30.3,
+        2131.3,
+        168.6,
+        2174.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RP. Augustin Berthk",
+      "texte_balise": "RP. Augustin Berthk",
+      "bbox": [
+        1470.2,
+        2148.8,
+        1617.2,
+        2179.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jesus-Christ",
+      "texte_balise": "Jesus-Christ",
+      "bbox": [
+        1405.3,
+        2178.8,
+        1677.8,
+        2231.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "saints",
+      "texte_balise": "saints",
+      "bbox": [
+        43.2,
+        2187.7,
+        155.7,
+        2222.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIBRAINE LOUIS VIVES",
+      "texte_balise": "LIBRAINE LOUIS VIVES",
+      "bbox": [
+        665.9,
+        2222.2,
+        834.6,
+        2261.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sa vie. Sa passion Son tromple",
+      "texte_balise": "Sa vie. Sa passion Son tromple",
+      "bbox": [
+        1422.6,
+        2226.2,
+        1669.1,
+        2252.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vies de saints pour toute l'année",
+      "texte_balise": "Vies de saints pour toute l'année",
+      "bbox": [
+        2188.0,
+        2308.7,
+        2525.3,
+        2334.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mgr Paul Guérin)",
+      "texte_balise": "Mgr Paul Guérin)",
+      "bbox": [
+        2257.2,
+        2334.2,
+        2456.1,
+        2360.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Mgr Paul Guérin)",
+      "texte_balise": "(Mgr Paul Guérin)",
+      "bbox": [
+        2257.2,
+        2335.0,
+        2456.1,
+        2365.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LES SENTENCES DES",
+      "texte_balise": "LES SENTENCES DES",
+      "bbox": [
+        203.2,
+        2412.1,
+        480.0,
+        2447.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "François d'Assise",
+      "texte_balise": "François d'Assise",
+      "bbox": [
+        2248.5,
+        2416.8,
+        2447.5,
+        2447.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMBERT. MARIE",
+      "texte_balise": "HUMBERT. MARIE",
+      "bbox": [
+        1876.7,
+        2434.1,
+        2015.0,
+        2443.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMBERT MARIE",
+      "texte_balise": "HUMBERT MARIE",
+      "bbox": [
+        1881.0,
+        2434.6,
+        2019.4,
+        2443.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Écrits, Vies",
+      "texte_balise": "Écrits, Vies",
+      "bbox": [
+        2278.6,
+        2441.6,
+        2417.5,
+        2478.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERES DU DESERT",
+      "texte_balise": "PERES DU DESERT",
+      "bbox": [
+        211.9,
+        2442.7,
+        480.0,
+        2473.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'ORDRE",
+      "texte_balise": "L'ORDRE",
+      "bbox": [
+        1478.9,
+        2451.3,
+        1630.2,
+        2477.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VICAIRE",
+      "texte_balise": "VICAIRE",
+      "bbox": [
+        1911.3,
+        2451.9,
+        1984.8,
+        2460.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La Vie",
+      "texte_balise": "La Vie",
+      "bbox": [
+        700.5,
+        2455.7,
+        808.6,
+        2486.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "témoignages",
+      "texte_balise": "témoignages",
+      "bbox": [
+        2270.2,
+        2477.3,
+        2421.5,
+        2503.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "et la Règle",
+      "texte_balise": "et la Règle",
+      "bbox": [
+        669.8,
+        2483.7,
+        839.4,
+        2527.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DU TEMPLE",
+      "texte_balise": "DU TEMPLE",
+      "bbox": [
+        1452.9,
+        2490.1,
+        1656.1,
+        2516.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& tables.",
+      "texte_balise": "& tables.",
+      "bbox": [
+        207.6,
+        2503.7,
+        272.4,
+        2521.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ÉDITION DU VIlle CENTENAIRE",
+      "texte_balise": "ÉDITION DU VIlle CENTENAIRE",
+      "bbox": [
+        2231.3,
+        2507.0,
+        2460.4,
+        2529.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de saint Benoit",
+      "texte_balise": "de saint Benoit",
+      "bbox": [
+        640.0,
+        2524.8,
+        873.5,
+        2551.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de saint Benoît",
+      "texte_balise": "de saint Benoît",
+      "bbox": [
+        640.0,
+        2525.4,
+        873.5,
+        2555.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vie",
+      "texte_balise": "Vie",
+      "bbox": [
+        69.2,
+        2537.8,
+        134.0,
+        2576.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES TEXTES FONDATEURS",
+      "texte_balise": "LES TEXTES FONDATEURS",
+      "bbox": [
+        1452.9,
+        2537.8,
+        1651.8,
+        2555.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DES PREMIERS CHARTREUX",
+      "texte_balise": "DES PREMIERS CHARTREUX",
+      "bbox": [
+        1024.8,
+        2542.0,
+        1279.9,
+        2559.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TES TEYTES FONDATRITRS",
+      "texte_balise": "TES TEYTES FONDATRITRS",
+      "bbox": [
+        1452.9,
+        2542.0,
+        1647.5,
+        2551.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "monastique",
+      "texte_balise": "monastique",
+      "bbox": [
+        -0.1,
+        2589.9,
+        199.0,
+        2629.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LA RÈGLE",
+      "texte_balise": "LA RÈGLE",
+      "bbox": [
+        2689.6,
+        2633.4,
+        2810.7,
+        2655.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DU CARMEL",
+      "texte_balise": "DU CARMEL",
+      "bbox": [
+        2681.0,
+        2663.7,
+        2815.0,
+        2676.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histoire de",
+      "texte_balise": "Histoire de",
+      "bbox": [
+        1872.2,
+        2676.1,
+        2028.2,
+        2720.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Structure et esprit",
+      "texte_balise": "Structure et esprit",
+      "bbox": [
+        2668.0,
+        2693.7,
+        2828.0,
+        2702.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "inu panome anod ala ep эолea",
+      "texte_balise": "inu panome anod ala ep эолea",
+      "bbox": [
+        2633.4,
+        2715.5,
+        2862.6,
+        2724.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "saint Dominique",
+      "texte_balise": "saint Dominique",
+      "bbox": [
+        1837.8,
+        2719.7,
+        2062.6,
+        2754.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guy Trédaniel Editeur",
+      "texte_balise": "Guy Trédaniel Editeur",
+      "bbox": [
+        1478.9,
+        2758.7,
+        1625.9,
+        2780.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PIERRE TEOUl editeui",
+      "texte_balise": "PIERRE TEOUl editeui",
+      "bbox": [
+        687.5,
+        2771.7,
+        808.6,
+        2780.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "er histoire | ingraphie",
+      "texte_balise": "er histoire | ingraphie",
+      "bbox": [
+        1829.1,
+        2775.7,
+        1989.1,
+        2797.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SAINTE THERESE",
+      "texte_balise": "SAINTE THERESE",
+      "bbox": [
+        2201.0,
+        2909.6,
+        2486.4,
+        2944.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hildegarde de Bingen",
+      "texte_balise": "Hildegarde de Bingen",
+      "bbox": [
+        255.1,
+        2927.3,
+        428.1,
+        2948.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bernard",
+      "texte_balise": "Bernard",
+      "bbox": [
+        2754.5,
+        2935.9,
+        2836.6,
+        2957.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THÉRÈSE",
+      "texte_balise": "THÉRÈSE",
+      "bbox": [
+        1561.0,
+        2944.6,
+        1651.8,
+        2966.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La symphonie",
+      "texte_balise": "La symphonie",
+      "bbox": [
+        263.8,
+        2957.5,
+        423.8,
+        2983.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gallizia",
+      "texte_balise": "Gallizia",
+      "bbox": [
+        2754.5,
+        2957.5,
+        2828.0,
+        2979.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HISTOIRE",
+      "texte_balise": "HISTOIRE",
+      "bbox": [
+        2257.2,
+        2961.9,
+        2434.5,
+        3000.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "des harmonies célestes",
+      "texte_balise": "des harmonies célestes",
+      "bbox": [
+        224.9,
+        2987.5,
+        462.7,
+        3009.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Château",
+      "texte_balise": "Le Château",
+      "bbox": [
+        1560.9,
+        2991.8,
+        1695.1,
+        3018.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D'UNE AME",
+      "texte_balise": "D'UNE AME",
+      "bbox": [
+        2235.6,
+        2996.4,
+        2460.4,
+        3035.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "intérieur",
+      "texte_balise": "intérieur",
+      "bbox": [
+        1561.0,
+        3018.1,
+        1669.1,
+        3039.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gemma",
+      "texte_balise": "Gemma",
+      "bbox": [
+        2758.8,
+        3022.4,
+        2875.5,
+        3048.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "manuscrits autobiographiques",
+      "texte_balise": "manuscrits autobiographiques",
+      "bbox": [
+        2270.2,
+        3031.0,
+        2421.5,
+        3052.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Calgani",
+      "texte_balise": "Calgani",
+      "bbox": [
+        2754.5,
+        3056.9,
+        2875.5,
+        3087.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mystique",
+      "texte_balise": "Mystique",
+      "bbox": [
+        16.9,
+        3072.9,
+        190.6,
+        3123.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ba Salte Cue",
+      "texte_balise": "Ba Salte Cue",
+      "bbox": [
+        2758.8,
+        3113.1,
+        2875.5,
+        3121.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pacre Pio",
+      "texte_balise": "Pacre Pio",
+      "bbox": [
+        2754.5,
+        3130.4,
+        2845.3,
+        3139.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Angèle",
+      "texte_balise": "Angèle",
+      "bbox": [
+        618.4,
+        3143.4,
+        696.2,
+        3165.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "priait chaque",
+      "texte_balise": "priait chaque",
+      "bbox": [
+        2754.5,
+        3147.4,
+        2875.5,
+        3169.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de Foligno",
+      "texte_balise": "de Foligno",
+      "bbox": [
+        622.5,
+        3164.4,
+        826.0,
+        3208.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SaiSie matherine",
+      "texte_balise": "SaiSie matherine",
+      "bbox": [
+        1007.5,
+        3169.0,
+        1241.1,
+        3225.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "jour",
+      "texte_balise": "jour",
+      "bbox": [
+        2754.5,
+        3169.3,
+        2797.7,
+        3186.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Saint Jean",
+      "texte_balise": "Saint Jean",
+      "bbox": [
+        1824.8,
+        3173.4,
+        2010.7,
+        3208.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le livre des visions",
+      "texte_balise": "Le livre des visions",
+      "bbox": [
+        635.6,
+        3199.4,
+        877.8,
+        3229.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de la Croix",
+      "texte_balise": "de la Croix",
+      "bbox": [
+        1837.8,
+        3208.2,
+        2041.0,
+        3242.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le livre",
+      "texte_balise": "Le livre",
+      "bbox": [
+        1024.6,
+        3216.3,
+        1163.4,
+        3260.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "et instructions",
+      "texte_balise": "et instructions",
+      "bbox": [
+        635.6,
+        3229.4,
+        821.6,
+        3251.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le cantique",
+      "texte_balise": "Le cantique",
+      "bbox": [
+        1841.7,
+        3240.6,
+        1989.5,
+        3275.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "des dialogues",
+      "texte_balise": "des dialogues",
+      "bbox": [
+        1024.8,
+        3255.4,
+        1258.3,
+        3299.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "spirituel",
+      "texte_balise": "spirituel",
+      "bbox": [
+        1837.8,
+        3268.7,
+        1950.2,
+        3294.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SALVATOR",
+      "texte_balise": "SALVATOR",
+      "bbox": [
+        2702.6,
+        3273.0,
+        2793.4,
+        3299.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETIT",
+      "texte_balise": "PETIT",
+      "bbox": [
+        2309.1,
+        3411.3,
+        2391.2,
+        3441.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'imitation",
+      "texte_balise": "L'imitation",
+      "bbox": [
+        237.7,
+        3414.9,
+        458.5,
+        3455.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PIE XII",
+      "texte_balise": "PIE XII",
+      "bbox": [
+        1915.6,
+        3415.3,
+        1976.1,
+        3441.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Le secret",
+      "texte_balise": "Le secret",
+      "bbox": [
+        1461.5,
+        3423.7,
+        1634.6,
+        3455.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IGNACE DE LOYOLA",
+      "texte_balise": "IGNACE DE LOYOLA",
+      "bbox": [
+        700.5,
+        3428.2,
+        800.0,
+        3446.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ligueni",
+      "texte_balise": "Ligueni",
+      "bbox": [
+        1024.8,
+        3433.0,
+        1107.0,
+        3484.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CATÉCHISME",
+      "texte_balise": "CATÉCHISME",
+      "bbox": [
+        2239.9,
+        3437.3,
+        2464.8,
+        3467.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "admirable",
+      "texte_balise": "admirable",
+      "bbox": [
+        1448.3,
+        3457.4,
+        1643.4,
+        3495.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EUCHARISTIOUE",
+      "texte_balise": "EUCHARISTIOUE",
+      "bbox": [
+        2239.9,
+        3471.9,
+        2464.8,
+        3493.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Exercices Spirituels",
+      "texte_balise": "Exercices Spirituels",
+      "bbox": [
+        657.3,
+        3476.2,
+        838.9,
+        3498.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "du très saint",
+      "texte_balise": "du très saint",
+      "bbox": [
+        1431.3,
+        3493.2,
+        1664.8,
+        3528.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Culte et dévotion",
+      "texte_balise": "Culte et dévotion",
+      "bbox": [
+        1811.8,
+        3493.2,
+        2084.2,
+        3537.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jésus-Christ",
+      "texte_balise": "Jésus-Christ",
+      "bbox": [
+        203.2,
+        3515.1,
+        488.6,
+        3554.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rosaire",
+      "texte_balise": "Rosaire",
+      "bbox": [
+        1470.0,
+        3527.0,
+        1621.8,
+        3563.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sacré-Coeur",
+      "texte_balise": "Sacré-Coeur",
+      "bbox": [
+        1850.6,
+        3536.2,
+        2049.8,
+        3602.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dévotions",
+      "texte_balise": "Dévotions",
+      "bbox": [
+        -0.1,
+        3540.6,
+        190.3,
+        3584.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de saint",
+      "texte_balise": "de saint",
+      "bbox": [
+        1470.1,
+        3570.7,
+        1621.7,
+        3602.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre Corneille",
+      "texte_balise": "Pierre Corneille",
+      "bbox": [
+        259.4,
+        3575.1,
+        441.1,
+        3597.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'ART",
+      "texte_balise": "L'ART",
+      "bbox": [
+        1028.9,
+        3596.4,
+        1167.7,
+        3636.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "et messe",
+      "texte_balise": "et messe",
+      "bbox": [
+        17.2,
+        3596.7,
+        177.4,
+        3632.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(16=6)",
+      "texte_balise": "(16=6)",
+      "bbox": [
+        324.3,
+        3597.2,
+        376.2,
+        3614.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Louis-Marie",
+      "texte_balise": "Louis-Marie",
+      "bbox": [
+        1422.6,
+        3605.8,
+        1664.8,
+        3640.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D'AIMER",
+      "texte_balise": "D'AIMER",
+      "bbox": [
+        1024.8,
+        3631.8,
+        1236.7,
+        3670.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ihs",
+      "texte_balise": "ihs",
+      "bbox": [
+        726.5,
+        3636.7,
+        765.4,
+        3662.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Grignion",
+      "texte_balise": "Grignion",
+      "bbox": [
+        1452.7,
+        3639.7,
+        1630.4,
+        3684.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Explication",
+      "texte_balise": "Explication",
+      "bbox": [
+        2620.1,
+        3643.5,
+        2858.5,
+        3702.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LETTRE ENCYCLIQUE",
+      "texte_balise": "LETTRE ENCYCLIQUE",
+      "bbox": [
+        1872.3,
+        3644.7,
+        2028.0,
+        3666.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "« Haurietis aquas in Gaudio »",
+      "texte_balise": "« Haurietis aquas in Gaudio »",
+      "bbox": [
+        1833.1,
+        3661.2,
+        2063.0,
+        3689.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JESUS",
+      "texte_balise": "JESUS",
+      "bbox": [
+        1029.1,
+        3674.6,
+        1184.9,
+        3710.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de Montfort",
+      "texte_balise": "de Montfort",
+      "bbox": [
+        1431.3,
+        3679.1,
+        1660.5,
+        3710.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "15 Mai 1956",
+      "texte_balise": "15 Mai 1956",
+      "bbox": [
+        1902.6,
+        3683.6,
+        1997.7,
+        3705.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "de la Messe",
+      "texte_balise": "de la Messe",
+      "bbox": [
+        2616.0,
+        3704.9,
+        2858.3,
+        3753.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRIST",
+      "texte_balise": "CHRIST",
+      "bbox": [
+        1029.0,
+        3708.8,
+        1210.9,
+        3749.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DESCLE DE ROUVER",
+      "texte_balise": "DESCLE DE ROUVER",
+      "bbox": [
+        696.2,
+        3757.0,
+        800.0,
+        3779.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "PIERRE TEQUIl, éditeur",
+      "texte_balise": "PIERRE TEQUIl, éditeur",
+      "bbox": [
+        1885.3,
+        3761.0,
+        2010.7,
+        3783.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PIERRE lEQuI, editeur",
+      "texte_balise": "PIERRE lEQuI, editeur",
+      "bbox": [
+        1889.6,
+        3770.7,
+        2006.4,
+        3779.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EDITIONS SAINT.PAUL",
+      "texte_balise": "EDITIONS SAINT.PAUL",
+      "bbox": [
+        1154.5,
+        3774.0,
+        1275.6,
+        3783.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abbé Guy PAGES",
+      "texte_balise": "Abbé Guy PAGES",
+      "bbox": [
+        1885.3,
+        3913.0,
+        2010.7,
+        3944.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CRISTIANI",
+      "texte_balise": "CRISTIANI",
+      "bbox": [
+        2698.2,
+        3917.4,
+        2832.4,
+        3965.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS",
+      "texte_balise": "THOMAS",
+      "bbox": [
+        614.0,
+        3939.2,
+        778.3,
+        3973.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEAN DAMASCEND",
+      "texte_balise": "JEAN DAMASCEND",
+      "bbox": [
+        268.1,
+        3952.0,
+        423.8,
+        3961.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NICOLAS DE CUES",
+      "texte_balise": "NICOLAS DE CUES",
+      "bbox": [
+        1461.6,
+        3956.5,
+        1643.2,
+        3978.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Je FADELLE",
+      "texte_balise": "Je FADELLE",
+      "bbox": [
+        1820.5,
+        3960.9,
+        1906.9,
+        3991.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "MANUET II PATPOLOCUF",
+      "texte_balise": "MANUET II PATPOLOCUF",
+      "bbox": [
+        1059.4,
+        3965.0,
+        1228.1,
+        3974.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "D'AQUIN",
+      "texte_balise": "D'AQUIN",
+      "bbox": [
+        609.6,
+        3973.3,
+        774.2,
+        4017.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Le Coran tamisé",
+      "texte_balise": "Le Coran tamisé",
+      "bbox": [
+        1483.2,
+        3991.0,
+        1617.2,
+        4013.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LUTHÉRANISME",
+      "texte_balise": "LUTHÉRANISME",
+      "bbox": [
+        2624.7,
+        3995.4,
+        2875.5,
+        4025.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SOMME",
+      "texte_balise": "SOMME",
+      "bbox": [
+        609.5,
+        4012.0,
+        756.9,
+        4052.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ÉCRITS SUR L'ISLAM",
+      "texte_balise": "ÉCRITS SUR L'ISLAM",
+      "bbox": [
+        229.2,
+        4012.7,
+        467.0,
+        4034.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENTRETIENS AVEC UN MUSULMAN",
+      "texte_balise": "ENTRETIENS AVEC UN MUSULMAN",
+      "bbox": [
+        1037.8,
+        4025.7,
+        1254.0,
+        4047.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALI",
+      "texte_balise": "ALI",
+      "bbox": [
+        2732.8,
+        4025.7,
+        2767.4,
+        4047.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Islam",
+      "texte_balise": "Islam",
+      "bbox": [
+        56.2,
+        4038.7,
+        142.7,
+        4077.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROTESTANTISME",
+      "texte_balise": "PROTESTANTISME",
+      "bbox": [
+        2624.7,
+        4047.3,
+        2875.5,
+        4068.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONTRE",
+      "texte_balise": "CONTRE",
+      "bbox": [
+        613.9,
+        4051.0,
+        769.9,
+        4091.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1501",
+      "texte_balise": "1501",
+      "bbox": [
+        1842.1,
+        4064.6,
+        1885.3,
+        4081.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "et",
+      "texte_balise": "et",
+      "bbox": [
+        82.2,
+        4081.9,
+        116.8,
+        4116.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUESTIONS",
+      "texte_balise": "QUESTIONS",
+      "bbox": [
+        1824.8,
+        4081.9,
+        1906.9,
+        4103.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES GENTILS",
+      "texte_balise": "LES GENTILS",
+      "bbox": [
+        614.0,
+        4086.0,
+        847.5,
+        4125.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protestantisme",
+      "texte_balise": "Protestantisme",
+      "bbox": [
+        -0.0,
+        4112.2,
+        203.2,
+        4142.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVOLUTION DE",
+      "texte_balise": "EVOLUTION DE",
+      "bbox": [
+        2780.4,
+        4116.0,
+        2871.2,
+        4125.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MUSULMANS!",
+      "texte_balise": "MUSULMANS!",
+      "bbox": [
+        1816.1,
+        4133.8,
+        1911.3,
+        4151.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contra Gentiles",
+      "texte_balise": "Contra Gentiles",
+      "bbox": [
+        614.0,
+        4138.0,
+        700.5,
+        4155.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE 1517 À 1528",
+      "texte_balise": "DE 1517 À 1528",
+      "bbox": [
+        2776.1,
+        4146.7,
+        2875.5,
+        4164.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTERROGER",
+      "texte_balise": "INTERROGER",
+      "bbox": [
+        1850.7,
+        4172.7,
+        2049.6,
+        4198.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE VRAI VISAGE DE",
+      "texte_balise": "LE VRAI VISAGE DE",
+      "bbox": [
+        2244.2,
+        4177.0,
+        2456.1,
+        4199.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'ISLAM",
+      "texte_balise": "L'ISLAM",
+      "bbox": [
+        1893.9,
+        4198.4,
+        2010.8,
+        4224.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LUTHER",
+      "texte_balise": "LUTHER",
+      "bbox": [
+        2239.8,
+        4211.3,
+        2456.2,
+        4255.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Jacques Collin de Plancy",
+      "texte_balise": "Jacques Collin de Plancy",
+      "bbox": [
+        1474.5,
+        4406.0,
+        1621.5,
+        4428.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERE GABRIELE AMORTH",
+      "texte_balise": "PERE GABRIELE AMORTH",
+      "bbox": [
+        1820.5,
+        4410.0,
+        2075.6,
+        4432.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ange Rodriguez",
+      "texte_balise": "Ange Rodriguez",
+      "bbox": [
+        2257.2,
+        4423.0,
+        2365.3,
+        4449.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE LANCRE",
+      "texte_balise": "DE LANCRE",
+      "bbox": [
+        605.4,
+        4427.7,
+        886.4,
+        4462.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ton Incenh Surin",
+      "texte_balise": "Ton Incenh Surin",
+      "bbox": [
+        1072.4,
+        4427.7,
+        1219.4,
+        4436.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CONFESSIONS",
+      "texte_balise": "CONFESSIONS",
+      "bbox": [
+        1824.8,
+        4436.4,
+        2071.3,
+        4466.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dictionnaire",
+      "texte_balise": "Dictionnaire",
+      "bbox": [
+        1439.9,
+        4440.7,
+        1660.5,
+        4470.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enquête",
+      "texte_balise": "Enquête",
+      "bbox": [
+        2252.7,
+        4453.0,
+        2378.5,
+        4493.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Triomphe de l'amour divin",
+      "texte_balise": "Triomphe de l'amour divin",
+      "bbox": [
+        1020.5,
+        4462.0,
+        1275.6,
+        4484.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TABLEAU",
+      "texte_balise": "TABLEAU",
+      "bbox": [
+        683.2,
+        4462.3,
+        808.6,
+        4483.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFERNAL",
+      "texte_balise": "INFERNAL",
+      "bbox": [
+        1427.0,
+        4479.6,
+        1673.4,
+        4518.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sur l'ay-delà",
+      "texte_balise": "sur l'ay-delà",
+      "bbox": [
+        2252.7,
+        4487.5,
+        2434.6,
+        4527.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE L'INCONSTANCE",
+      "texte_balise": "DE L'INCONSTANCE",
+      "bbox": [
+        614.0,
+        4488.0,
+        877.8,
+        4510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sur les nuissanees",
+      "texte_balise": "sur les nuissanees",
+      "bbox": [
+        1059.4,
+        4488.0,
+        1232.4,
+        4497.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "de l'Enfer",
+      "texte_balise": "de l'Enfer",
+      "bbox": [
+        1098.3,
+        4501.0,
+        1197.8,
+        4523.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DESA DEMONOMANIE",
+      "texte_balise": "DESA DEMONOMANIE",
+      "bbox": [
+        259.4,
+        4505.5,
+        445.4,
+        4514.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DES MAUVAIS ANGES",
+      "texte_balise": "DES MAUVAIS ANGES",
+      "bbox": [
+        609.7,
+        4509.9,
+        882.1,
+        4536.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAULON",
+      "texte_balise": "PAULON",
+      "bbox": [
+        2702.6,
+        4514.2,
+        2793.4,
+        4522.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DES SORCIERS",
+      "texte_balise": "DES SORCIERS",
+      "bbox": [
+        289.7,
+        4522.8,
+        410.8,
+        4531.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SE LIBÉRER",
+      "texte_balise": "SE LIBÉRER",
+      "bbox": [
+        2693.9,
+        4531.0,
+        2810.7,
+        4549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ET DÉMONS",
+      "texte_balise": "ET DÉMONS",
+      "bbox": [
+        665.9,
+        4535.8,
+        825.9,
+        4557.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DES ESPRITS IMPURS?",
+      "texte_balise": "DES ESPRITS IMPURS?",
+      "bbox": [
+        2646.4,
+        4553.0,
+        2858.2,
+        4575.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OU IL EST AMPLEMENT TRAITE",
+      "texte_balise": "OU IL EST AMPLEMENT TRAITE",
+      "bbox": [
+        622.7,
+        4557.0,
+        873.5,
+        4579.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "des choses de l'autre vie",
+      "texte_balise": "des choses de l'autre vie",
+      "bbox": [
+        1068.1,
+        4557.0,
+        1232.4,
+        4566.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Démonologie",
+      "texte_balise": "Démonologie",
+      "bbox": [
+        -0.1,
+        4565.7,
+        194.7,
+        4605.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DES SORCIERS",
+      "texte_balise": "DES SORCIERS",
+      "bbox": [
+        691.9,
+        4583.0,
+        795.6,
+        4592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ET DE LA SORCELLERIE",
+      "texte_balise": "ET DE LA SORCELLERIE",
+      "bbox": [
+        652.9,
+        4600.6,
+        834.6,
+        4609.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ET NOTES PAR NICOLE",
+      "texte_balise": "ET NOTES PAR NICOLE",
+      "bbox": [
+        614.0,
+        4700.0,
+        873.5,
+        4722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAREND",
+      "texte_balise": "CAREND",
+      "bbox": [
+        1906.9,
+        4764.9,
+        1984.8,
+        4790.8
+      ],
+      "confiance": 0.3
+    }
+  ]
+}

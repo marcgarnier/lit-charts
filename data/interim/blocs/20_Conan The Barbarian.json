@@ -1,0 +1,420 @@
+{
+  "fichier": "20_Conan The Barbarian.jpeg",
+  "date": "2026-07-21T19:28:36.655070+00:00",
+  "taille_origine": [
+    936,
+    1230
+  ],
+  "hauteur_ligne_mediane": 22.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 6,
+  "nb_noeuds": 64,
+  "tiers": [],
+  "intitules_isoles": [
+    "There are two protips and three choices",
+    "Protip #1: Read Robert E. Howard's original stories first before any pastiches.",
+    "Protip #2: The stories are mostly self-contained, so there is no best order, which leads us to...",
+    "Choice #1: Pick stories randomly",
+    "Choice #2: Read them in published order",
+    "Choice #3: Follow a chronology. Dale Rippke's is probably the most internally consistent.",
+    "The Pool of the Black One",
+    "The Hand of Nergal (unfinished)",
+    "Wolves Beyond the Border (unfinished)",
+    "The Snout in the Dark (unfinished)"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        60.0,
+        24.0,
+        856.0,
+        170.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "So you want to read",
+          "auteur": "Conan The Barbarian",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        208.0,
+        206.0,
+        708.0,
+        238.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "There are two protips and three choices",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        25.9,
+        276.0,
+        920.1,
+        331.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Read Robert E. Howard's original stories first before any pastiches.",
+          "auteur": "Protip #1",
+          "tier": null
+        },
+        {
+          "titre": "The stories are mostly self-contained, so there is no best order, which leads us to...",
+          "auteur": "Protip #2",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.7,
+        367.7,
+        890.0,
+        450.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Pick stories randomly",
+          "auteur": "Choice #1",
+          "tier": null
+        },
+        {
+          "titre": "Read them in published order",
+          "auteur": "Choice #2",
+          "tier": null
+        },
+        {
+          "titre": "Follow a chronology. Dale Rippke's is probably the most internally consistent.",
+          "auteur": "Choice #3",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        32.0,
+        498.0,
+        494.0,
+        1212.0
+      ],
+      "nb_lignes": 30,
+      "noeuds": [
+        {
+          "titre": "Published order",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Phoenix on the Sword",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Scarlet Citadel",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Tower of the Elephant",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Black Colossus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Slithering Shadow (Xuthal of the Dusk)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Pool of the Black One",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rogues in the House",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shadows in the Moonlight (Iron Shadows in the Moon)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Queen of the Black Coast",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Devil in Iron",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The People of the Black Circle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Witch Shall Be Born",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jewels of Gwahlur (The Teeth of Gwahlur)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Beyond the Black River",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shadows in Zamboula (The Man-Eaters of Zamboula)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hour of the Dragon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Red Nails",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Posthumous",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hyborian Age (essay)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The God in the Bowl",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Black Stranger",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Frost-Giant's Daughter",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cimmeria (poem)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Drums of Tombalku (unfinished)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hall of the Dead (synopsis)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hand of Nergal (unfinished)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Vale of Lost Women",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Wolves Beyond the Border (unfinished)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Snout in the Dark (unfinished)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        601.6,
+        498.0,
+        862.0,
+        1132.0
+      ],
+      "nb_lignes": 27,
+      "noeuds": [
+        {
+          "titre": "Dale Rippke Chronology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Frost Giant's Daughter",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The God in the Bowl",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Tower of the Elephant",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hall of the Dead",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rogues in the House",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hand of Nergal",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Black Colossus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shadows in the Moonlight",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Queen of the Black Coast",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Snout in the Dark",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Slithering Shadow",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Witch Shall Be Born",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Devil in Iron",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The People of the Black Circle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shadows in Zamboula",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Drums of Tombalku",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Vale of Lost Women",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Pool of the Black One",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Beyond the Black River",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Black Stranger",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Red Nails",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jewels of Gwahlur",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Wolves Beyond the Border",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Phoenix on the Sword",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Scarlet Citadel",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Hour of the Dragon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

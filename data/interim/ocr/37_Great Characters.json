@@ -1,0 +1,608 @@
+{
+  "fichier": "37_Great Characters.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:54.105873+00:00",
+  "duree_s": 2.0,
+  "taille_origine": [
+    2312,
+    3360
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 54,
+  "lignes": [
+    {
+      "texte": "Great characters according to /lit/",
+      "texte_balise": "Great characters according to /lit/",
+      "bbox": [
+        490.6,
+        77.0,
+        1781.0,
+        168.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Judge Holden",
+      "texte_balise": "Judge Holden",
+      "bbox": [
+        23.5,
+        829.7,
+        208.4,
+        863.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holden Caulfield",
+      "texte_balise": "Holden Caulfield",
+      "bbox": [
+        897.2,
+        829.9,
+        1125.8,
+        860.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rodion Raskolnikov",
+      "texte_balise": "Rodion Raskolnikov",
+      "bbox": [
+        473.8,
+        833.0,
+        742.7,
+        857.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harry Haller",
+      "texte_balise": "Harry Haller",
+      "bbox": [
+        1320.4,
+        835.2,
+        1488.9,
+        868.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Woland, Behemoth and Korovyev",
+      "texte_balise": "Woland, Behemoth and Korovyev",
+      "bbox": [
+        1781.0,
+        836.6,
+        2228.0,
+        867.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blood Meridian",
+      "texte_balise": "Blood Meridian",
+      "bbox": [
+        23.5,
+        866.9,
+        235.2,
+        897.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime and Punishment",
+      "texte_balise": "Crime and Punishment",
+      "bbox": [
+        477.2,
+        866.9,
+        776.3,
+        894.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cather in the Rye",
+      "texte_balise": "The Cather in the Rye",
+      "bbox": [
+        897.2,
+        866.9,
+        1186.2,
+        900.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steppenwolf",
+      "texte_balise": "Steppenwolf",
+      "bbox": [
+        1320.2,
+        868.1,
+        1485.7,
+        906.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Master and Margarita",
+      "texte_balise": "The Master and Margarita",
+      "bbox": [
+        1794.5,
+        873.6,
+        2133.9,
+        904.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POOR",
+      "texte_balise": "POOR",
+      "bbox": [
+        1152.6,
+        957.6,
+        1226.6,
+        987.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOOLS",
+      "texte_balise": "FOOLS",
+      "bbox": [
+        1149.3,
+        987.8,
+        1223.2,
+        1018.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tove Jansion",
+      "texte_balise": "Tove Jansion",
+      "bbox": [
+        1092.2,
+        1376.0,
+        1250.1,
+        1400.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Lady Macbeth",
+      "texte_balise": "Lady Macbeth",
+      "bbox": [
+        47.0,
+        1396.1,
+        235.3,
+        1430.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Huckleberry Finn",
+      "texte_balise": "Huckleberry Finn",
+      "bbox": [
+        460.4,
+        1399.7,
+        692.3,
+        1433.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Snufkin",
+      "texte_balise": "Snufkin",
+      "bbox": [
+        920.7,
+        1405.9,
+        1025.1,
+        1433.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sun Wukong",
+      "texte_balise": "Sun Wukong",
+      "bbox": [
+        1811.2,
+        1422.9,
+        1989.4,
+        1457.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Captain Ahab",
+      "texte_balise": "Captain Ahab",
+      "bbox": [
+        1357.6,
+        1426.5,
+        1535.7,
+        1457.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Macbeth",
+      "texte_balise": "Macbeth",
+      "bbox": [
+        43.6,
+        1433.0,
+        161.4,
+        1463.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Adventures of Huckleberry Finn",
+      "texte_balise": "The Adventures of Huckleberry Finn",
+      "bbox": [
+        446.9,
+        1433.0,
+        850.2,
+        1460.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moomin",
+      "texte_balise": "Moomin",
+      "bbox": [
+        920.7,
+        1439.8,
+        1038.4,
+        1470.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby Dick",
+      "texte_balise": "Moby Dick",
+      "bbox": [
+        1353.9,
+        1458.5,
+        1505.8,
+        1495.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journey to the West",
+      "texte_balise": "Journey to the West",
+      "bbox": [
+        1811.3,
+        1460.0,
+        2073.4,
+        1487.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor",
+      "texte_balise": "Fyodor",
+      "bbox": [
+        594.8,
+        1520.5,
+        645.2,
+        1547.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DOSTOEVSKY",
+      "texte_balise": "DOSTOEVSKY",
+      "bbox": [
+        551.1,
+        1547.4,
+        688.9,
+        1584.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REd RHAS 0527IS870",
+      "texte_balise": "REd RHAS 0527IS870",
+      "bbox": [
+        490.6,
+        1671.6,
+        504.1,
+        1789.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ETERNAL",
+      "texte_balise": "ETERNAL",
+      "bbox": [
+        510.8,
+        1799.2,
+        732.6,
+        1876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUSBAND",
+      "texte_balise": "HUSBAND",
+      "bbox": [
+        500.6,
+        1876.0,
+        742.8,
+        1954.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bartleby",
+      "texte_balise": "Bartleby",
+      "bbox": [
+        1800.7,
+        1965.3,
+        1912.6,
+        2002.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Loki",
+      "texte_balise": "Loki",
+      "bbox": [
+        30.2,
+        1970.4,
+        94.1,
+        1997.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Velchaninov",
+      "texte_balise": "Velchaninov",
+      "bbox": [
+        460.4,
+        1977.1,
+        625.0,
+        2004.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atticus Finch",
+      "texte_balise": "Atticus Finch",
+      "bbox": [
+        897.2,
+        1987.0,
+        1065.3,
+        2014.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Scarlett O'Hara",
+      "texte_balise": "Scarlett O'Hara",
+      "bbox": [
+        1347.5,
+        1987.0,
+        1545.8,
+        2011.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bardevy, the Scrivener",
+      "texte_balise": "Bardevy, the Scrivener",
+      "bbox": [
+        1801.2,
+        1997.0,
+        2093.6,
+        2038.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Eddas",
+      "texte_balise": "The Eddas",
+      "bbox": [
+        30.2,
+        2007.0,
+        178.1,
+        2034.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Eternal Husband",
+      "texte_balise": "The Eternal Husband",
+      "bbox": [
+        460.4,
+        2010.7,
+        742.7,
+        2038.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "To Kill a Mockingbird",
+      "texte_balise": "To Kill a Mockingbird",
+      "bbox": [
+        897.2,
+        2020.8,
+        1189.6,
+        2054.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gone with the Wind",
+      "texte_balise": "Gone with the Wind",
+      "bbox": [
+        1347.5,
+        2020.8,
+        1613.0,
+        2048.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Penguin ( Claceios",
+      "texte_balise": "Penguin ( Claceios",
+      "bbox": [
+        554.5,
+        2071.0,
+        699.0,
+        2098.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LERMONTOV",
+      "texte_balise": "LERMONTOV",
+      "bbox": [
+        564.6,
+        2108.1,
+        685.5,
+        2128.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A HERO OF OUR TIME",
+      "texte_balise": "A HERO OF OUR TIME",
+      "bbox": [
+        520.9,
+        2131.6,
+        729.2,
+        2152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atomiser",
+      "texte_balise": "Atomiser",
+      "bbox": [
+        43.0,
+        2184.9,
+        370.4,
+        2259.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atomiser",
+      "texte_balise": "Atomiser",
+      "bbox": [
+        60.2,
+        2189.3,
+        369.9,
+        2259.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michel and Bruno",
+      "texte_balise": "Michel and Bruno",
+      "bbox": [
+        53.8,
+        2486.0,
+        292.4,
+        2513.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Grigory Pechorin",
+      "texte_balise": "Grigory Pechorin",
+      "bbox": [
+        483.9,
+        2493.0,
+        705.7,
+        2527.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meursault",
+      "texte_balise": "Meursault",
+      "bbox": [
+        1340.8,
+        2493.1,
+        1471.9,
+        2516.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faust and Mephistofeles",
+      "texte_balise": "Faust and Mephistofeles",
+      "bbox": [
+        1794.5,
+        2496.0,
+        2107.0,
+        2527.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King Lear",
+      "texte_balise": "King Lear",
+      "bbox": [
+        887.0,
+        2506.0,
+        1015.0,
+        2537.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atomised",
+      "texte_balise": "Atomised",
+      "bbox": [
+        53.6,
+        2522.6,
+        178.3,
+        2551.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranger",
+      "texte_balise": "The Stranger",
+      "bbox": [
+        1339.7,
+        2526.1,
+        1509.8,
+        2560.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Hero of Our Time",
+      "texte_balise": "A Hero of Our Time",
+      "bbox": [
+        483.9,
+        2530.0,
+        759.5,
+        2560.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faust",
+      "texte_balise": "Faust",
+      "bbox": [
+        1794.4,
+        2533.2,
+        1865.1,
+        2560.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King Lear",
+      "texte_balise": "King Lear",
+      "bbox": [
+        883.8,
+        2543.5,
+        1014.9,
+        2570.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

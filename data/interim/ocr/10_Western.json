@@ -1,0 +1,1719 @@
+{
+  "fichier": "10_Western.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:47.337849+00:00",
+  "duree_s": 0.6,
+  "taille_origine": [
+    945,
+    595
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 155,
+  "lignes": [
+    {
+      "texte": "Guide to Western Literature (Ancient to Modern)",
+      "texte_balise": "Guide to Western Literature (Ancient to Modern)",
+      "bbox": [
+        245.7,
+        16.0,
+        705.3,
+        37.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classical to Medieval",
+      "texte_balise": "Classical to Medieval",
+      "bbox": [
+        75.9,
+        45.9,
+        239.7,
+        63.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Renaissance to Romantic",
+      "texte_balise": "Renaissance to Romantic",
+      "bbox": [
+        377.6,
+        45.9,
+        575.4,
+        63.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Realist to Post-Postmodernist",
+      "texte_balise": "Realist to Post-Postmodernist",
+      "bbox": [
+        691.3,
+        45.9,
+        923.0,
+        61.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Proto-",
+      "texte_balise": "Proto-",
+      "bbox": [
+        855.1,
+        83.9,
+        901.0,
+        97.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "European",
+      "texte_balise": "European",
+      "bbox": [
+        369.6,
+        91.6,
+        435.6,
+        106.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classical",
+      "texte_balise": "Classical",
+      "bbox": [
+        43.9,
+        91.8,
+        105.9,
+        103.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Realist",
+      "texte_balise": "Realist",
+      "bbox": [
+        701.2,
+        93.5,
+        751.3,
+        106.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dram",
+      "texte_balise": "Dram",
+      "bbox": [
+        135.9,
+        93.8,
+        167.8,
+        105.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Colonial",
+      "texte_balise": "Colonial",
+      "bbox": [
+        551.4,
+        93.8,
+        609.4,
+        105.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modernist",
+      "texte_balise": "Modernist",
+      "bbox": [
+        843.1,
+        101.8,
+        913.0,
+        113.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writings",
+      "texte_balise": "Writings",
+      "bbox": [
+        547.2,
+        109.0,
+        609.6,
+        128.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Literature",
+      "texte_balise": "Literature",
+      "bbox": [
+        693.2,
+        109.3,
+        759.3,
+        124.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greece",
+      "texte_balise": "Greece",
+      "bbox": [
+        49.9,
+        109.8,
+        99.9,
+        121.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Renaissance",
+      "texte_balise": "Renaissance",
+      "bbox": [
+        359.6,
+        109.8,
+        445.5,
+        121.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sophocles",
+      "texte_balise": "Sophocles",
+      "bbox": [
+        121.8,
+        111.7,
+        181.8,
+        125.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Literature",
+      "texte_balise": "Literature",
+      "bbox": [
+        843.1,
+        117.8,
+        911.0,
+        133.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Quixote",
+      "texte_balise": "Don Quixote",
+      "bbox": [
+        367.6,
+        125.8,
+        437.5,
+        137.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "King Lear",
+      "texte_balise": "King Lear",
+      "bbox": [
+        455.5,
+        125.8,
+        513.5,
+        139.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dram",
+      "texte_balise": "Dram",
+      "bbox": [
+        709.2,
+        125.8,
+        741.2,
+        137.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fiction",
+      "texte_balise": "Fiction",
+      "bbox": [
+        777.2,
+        125.8,
+        815.1,
+        137.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mythology",
+      "texte_balise": "Mythology",
+      "bbox": [
+        43.9,
+        129.5,
+        106.0,
+        146.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journals of",
+      "texte_balise": "Journals of",
+      "bbox": [
+        547.4,
+        129.5,
+        611.4,
+        142.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Euripides",
+      "texte_balise": "Euripides",
+      "bbox": [
+        125.8,
+        129.6,
+        177.9,
+        143.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Flowers",
+      "texte_balise": "The Flowers",
+      "bbox": [
+        843.1,
+        135.5,
+        913.1,
+        150.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Columbus",
+      "texte_balise": "Columbus",
+      "bbox": [
+        551.4,
+        143.6,
+        609.4,
+        155.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Montaigne",
+      "texte_balise": "Montaigne",
+      "bbox": [
+        371.6,
+        143.8,
+        431.5,
+        157.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Romeo & Juliet",
+      "texte_balise": "Romeo & Juliet",
+      "bbox": [
+        443.5,
+        143.8,
+        529.4,
+        155.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ibsen",
+      "texte_balise": "Ibsen",
+      "bbox": [
+        709.2,
+        143.8,
+        741.2,
+        155.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Balzac",
+      "texte_balise": "Balzac",
+      "bbox": [
+        777.2,
+        143.8,
+        815.1,
+        155.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristophanes",
+      "texte_balise": "Aristophanes",
+      "bbox": [
+        113.7,
+        149.0,
+        187.9,
+        164.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epic Poetry",
+      "texte_balise": "Epic Poetry",
+      "bbox": [
+        43.9,
+        149.7,
+        107.9,
+        163.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Evil",
+      "texte_balise": "of Evil",
+      "bbox": [
+        859.1,
+        149.7,
+        897.1,
+        161.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Macbeth",
+      "texte_balise": "Macbeth",
+      "bbox": [
+        459.5,
+        157.7,
+        511.5,
+        169.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Strindberg",
+      "texte_balise": "Strindberg",
+      "bbox": [
+        696.9,
+        158.3,
+        755.4,
+        171.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry",
+      "texte_balise": "Henry",
+      "bbox": [
+        777.2,
+        161.7,
+        813.1,
+        175.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shakespeare",
+      "texte_balise": "Shakespeare",
+      "bbox": [
+        365.6,
+        163.7,
+        439.5,
+        175.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rimbaud",
+      "texte_balise": "Rimbaud",
+      "bbox": [
+        853.1,
+        163.7,
+        903.1,
+        175.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aeschylus",
+      "texte_balise": "Aeschylus",
+      "bbox": [
+        121.9,
+        167.6,
+        179.8,
+        181.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Home",
+      "texte_balise": "Home",
+      "bbox": [
+        57.9,
+        167.7,
+        93.9,
+        179.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Conquest of",
+      "texte_balise": "The Conquest of",
+      "bbox": [
+        533.4,
+        167.7,
+        625.3,
+        181.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tempest",
+      "texte_balise": "The Tempest",
+      "bbox": [
+        445.5,
+        175.7,
+        521.4,
+        187.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chekhov (",
+      "texte_balise": "Chekhov (",
+      "bbox": [
+        701.3,
+        175.7,
+        751.2,
+        187.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        775.2,
+        175.7,
+        815.1,
+        187.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brecht",
+      "texte_balise": "Brecht",
+      "bbox": [
+        858.9,
+        177.2,
+        897.2,
+        190.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hamlet",
+      "texte_balise": "Hamlet",
+      "bbox": [
+        379.6,
+        177.7,
+        423.6,
+        191.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "New Spain",
+      "texte_balise": "New Spain",
+      "bbox": [
+        547.4,
+        183.7,
+        611.4,
+        195.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ancient",
+      "texte_balise": "Ancient",
+      "bbox": [
+        203.7,
+        205.5,
+        257.8,
+        217.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classical",
+      "texte_balise": "Classical",
+      "bbox": [
+        44.0,
+        205.7,
+        107.9,
+        217.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "17th Century Literature",
+      "texte_balise": "17th Century Literature",
+      "bbox": [
+        397.6,
+        213.6,
+        555.4,
+        231.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modernism",
+      "texte_balise": "Modernism",
+      "bbox": [
+        687.3,
+        213.6,
+        765.2,
+        225.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "European",
+      "texte_balise": "European",
+      "bbox": [
+        195.8,
+        221.5,
+        263.7,
+        239.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rome",
+      "texte_balise": "Rome",
+      "bbox": [
+        51.9,
+        221.6,
+        95.9,
+        237.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epic Poetry",
+      "texte_balise": "Epic Poetry",
+      "bbox": [
+        41.9,
+        241.3,
+        108.0,
+        257.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Celtic Mythology",
+      "texte_balise": "Celtic Mythology",
+      "bbox": [
+        181.8,
+        241.6,
+        275.7,
+        257.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Rover Doctor Faustus",
+      "texte_balise": "The Rover Doctor Faustus",
+      "bbox": [
+        373.6,
+        241.6,
+        529.4,
+        253.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sor Juana Ines",
+      "texte_balise": "Sor Juana Ines",
+      "bbox": [
+        529.4,
+        241.6,
+        621.3,
+        255.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poetry Fiction",
+      "texte_balise": "Poetry Fiction",
+      "bbox": [
+        685.3,
+        241.6,
+        775.2,
+        255.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        789.2,
+        241.6,
+        825.1,
+        255.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "De La Cruz",
+      "texte_balise": "De La Cruz",
+      "bbox": [
+        547.4,
+        255.3,
+        611.4,
+        267.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Aeneid",
+      "texte_balise": "The Aeneid",
+      "bbox": [
+        43.9,
+        261.4,
+        107.9,
+        273.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Norse Mythology",
+      "texte_balise": "Norse Mythology",
+      "bbox": [
+        181.8,
+        261.6,
+        277.7,
+        277.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tartutte",
+      "texte_balise": "Tartutte",
+      "bbox": [
+        381.6,
+        261.6,
+        425.5,
+        273.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Fuenteovejuna",
+      "texte_balise": "Fuenteovejuna",
+      "bbox": [
+        443.5,
+        261.6,
+        527.4,
+        273.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pound Fitzgerald Kafka",
+      "texte_balise": "Pound Fitzgerald Kafka",
+      "bbox": [
+        685.3,
+        261.6,
+        823.1,
+        275.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don Juan",
+      "texte_balise": "Don Juan",
+      "bbox": [
+        375.5,
+        279.0,
+        431.7,
+        292.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamophoses",
+      "texte_balise": "Metamophoses",
+      "bbox": [
+        34.0,
+        279.5,
+        117.9,
+        293.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Edda",
+      "texte_balise": "The Edda",
+      "bbox": [
+        201.8,
+        279.5,
+        257.7,
+        293.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise Lost",
+      "texte_balise": "Paradise Lost",
+      "bbox": [
+        445.5,
+        279.5,
+        523.4,
+        291.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stein",
+      "texte_balise": "Stein",
+      "bbox": [
+        689.3,
+        279.5,
+        719.2,
+        291.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Proust Nabokov",
+      "texte_balise": "Proust Nabokov",
+      "bbox": [
+        737.2,
+        279.5,
+        833.1,
+        291.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden Ass",
+      "texte_balise": "The Golden Ass",
+      "bbox": [
+        34.0,
+        297.5,
+        121.9,
+        309.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oronoko",
+      "texte_balise": "Oronoko",
+      "bbox": [
+        379.6,
+        297.5,
+        427.5,
+        309.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Elliot Faulkner",
+      "texte_balise": "Elliot Faulkner",
+      "bbox": [
+        689.3,
+        297.5,
+        781.2,
+        309.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Icelandic Sagas",
+      "texte_balise": "Icelandic Sagas",
+      "bbox": [
+        185.8,
+        299.5,
+        273.7,
+        313.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Woolf",
+      "texte_balise": "Woolf",
+      "bbox": [
+        789.2,
+        299.5,
+        825.1,
+        311.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Holy",
+      "texte_balise": "The Holy",
+      "bbox": [
+        42.0,
+        325.5,
+        105.9,
+        343.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        213.8,
+        325.5,
+        243.7,
+        341.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Post-",
+      "texte_balise": "Post-",
+      "bbox": [
+        707.3,
+        331.4,
+        743.2,
+        343.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Post-",
+      "texte_balise": "Post-",
+      "bbox": [
+        859.1,
+        331.4,
+        897.1,
+        345.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "18th Century Literature",
+      "texte_balise": "18th Century Literature",
+      "bbox": [
+        405.6,
+        333.4,
+        563.4,
+        351.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Qur'an",
+      "texte_balise": "Qur'an",
+      "bbox": [
+        205.7,
+        341.1,
+        255.9,
+        359.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bible",
+      "texte_balise": "Bible",
+      "bbox": [
+        55.9,
+        343.4,
+        93.9,
+        359.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modernism",
+      "texte_balise": "Modernism",
+      "bbox": [
+        687.1,
+        346.6,
+        763.3,
+        362.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Postmodernism",
+      "texte_balise": "Postmodernism",
+      "bbox": [
+        823.1,
+        347.4,
+        931.0,
+        361.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Voltaire",
+      "texte_balise": "Voltaire",
+      "bbox": [
+        473.5,
+        357.4,
+        519.5,
+        371.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Swift",
+      "texte_balise": "Jonathan Swift",
+      "bbox": [
+        357.6,
+        359.4,
+        447.5,
+        371.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journal of the",
+      "texte_balise": "Journal of the",
+      "bbox": [
+        545.4,
+        359.4,
+        629.3,
+        371.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Genesis",
+      "texte_balise": "Genesis",
+      "bbox": [
+        53.9,
+        365.4,
+        99.9,
+        377.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Flann O'Brien |",
+      "texte_balise": "Flann O'Brien |",
+      "bbox": [
+        661.3,
+        365.4,
+        737.2,
+        377.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Borges",
+      "texte_balise": "Borges",
+      "bbox": [
+        749.2,
+        365.4,
+        791.2,
+        379.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Gospels",
+      "texte_balise": "The Gospels",
+      "bbox": [
+        115.9,
+        367.4,
+        187.8,
+        379.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Infinite Jest",
+      "texte_balise": "Infinite Jest",
+      "bbox": [
+        847.1,
+        367.4,
+        911.0,
+        377.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexander Pope Moll Flanders Plague Year",
+      "texte_balise": "Alexander Pope Moll Flanders Plague Year",
+      "bbox": [
+        354.4,
+        374.3,
+        622.1,
+        398.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Letters of Paul",
+      "texte_balise": "Letters of Paul",
+      "bbox": [
+        109.8,
+        384.7,
+        191.9,
+        400.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exodus",
+      "texte_balise": "Exodus",
+      "bbox": [
+        55.8,
+        384.9,
+        98.0,
+        397.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hawkes",
+      "texte_balise": "Hawkes",
+      "bbox": [
+        675.2,
+        385.2,
+        721.3,
+        397.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barthelme",
+      "texte_balise": "Barthelme",
+      "bbox": [
+        741.2,
+        385.4,
+        799.2,
+        397.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tao Lin",
+      "texte_balise": "Tao Lin",
+      "bbox": [
+        857.1,
+        385.4,
+        897.1,
+        397.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Blake Autobiography The Life of",
+      "texte_balise": "William Blake Autobiography The Life of",
+      "bbox": [
+        358.3,
+        394.0,
+        622.1,
+        417.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Revelations",
+      "texte_balise": "Revelations",
+      "bbox": [
+        117.9,
+        403.3,
+        185.8,
+        417.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pynchon",
+      "texte_balise": "Pynchon",
+      "bbox": [
+        673.3,
+        403.3,
+        723.2,
+        417.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Franzen",
+      "texte_balise": "Jonathan Franzen",
+      "bbox": [
+        827.1,
+        403.3,
+        929.0,
+        417.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leviticus",
+      "texte_balise": "Leviticus",
+      "bbox": [
+        49.9,
+        405.3,
+        99.9,
+        415.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gass",
+      "texte_balise": "Gass",
+      "bbox": [
+        755.2,
+        405.3,
+        785.2,
+        415.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Benajmin",
+      "texte_balise": "of Benajmin",
+      "bbox": [
+        459.5,
+        413.3,
+        533.4,
+        425.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frederick",
+      "texte_balise": "Frederick",
+      "bbox": [
+        559.4,
+        413.3,
+        617.3,
+        425.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Late Nabokov",
+      "texte_balise": "Late Nabokov",
+      "bbox": [
+        661.2,
+        420.9,
+        737.3,
+        435.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Goethe's Faust",
+      "texte_balise": "Goethe's Faust",
+      "bbox": [
+        359.6,
+        421.3,
+        449.5,
+        435.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barth",
+      "texte_balise": "Barth",
+      "bbox": [
+        755.2,
+        421.3,
+        785.2,
+        433.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Job",
+      "texte_balise": "Job",
+      "bbox": [
+        63.9,
+        423.3,
+        87.9,
+        433.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Franklin",
+      "texte_balise": "Franklin",
+      "bbox": [
+        473.4,
+        428.8,
+        521.6,
+        441.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Douglass",
+      "texte_balise": "Douglass",
+      "bbox": [
+        559.3,
+        429.0,
+        615.4,
+        443.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other 20th/21st",
+      "texte_balise": "Other 20th/21st",
+      "bbox": [
+        675.3,
+        447.2,
+        779.2,
+        461.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Medieval",
+      "texte_balise": "Medieval",
+      "bbox": [
+        43.9,
+        449.0,
+        107.9,
+        465.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Medieval",
+      "texte_balise": "Medieval",
+      "bbox": [
+        199.6,
+        456.4,
+        259.9,
+        472.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "European",
+      "texte_balise": "European",
+      "bbox": [
+        39.8,
+        464.4,
+        110.1,
+        484.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "19th Century Literature",
+      "texte_balise": "19th Century Literature",
+      "bbox": [
+        417.6,
+        465.2,
+        575.4,
+        483.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Century Lit",
+      "texte_balise": "Century Lit",
+      "bbox": [
+        685.3,
+        465.2,
+        765.2,
+        483.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arabic",
+      "texte_balise": "Arabic",
+      "bbox": [
+        205.7,
+        472.9,
+        253.8,
+        489.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Death of",
+      "texte_balise": "The Death of",
+      "bbox": [
+        117.9,
+        479.2,
+        191.8,
+        491.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Baldwin",
+      "texte_balise": "Baldwin",
+      "bbox": [
+        773.0,
+        484.6,
+        819.3,
+        497.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inferno",
+      "texte_balise": "Inferno",
+      "bbox": [
+        53.9,
+        485.2,
+        97.9,
+        501.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Maus",
+      "texte_balise": "Maus",
+      "bbox": [
+        863.1,
+        485.2,
+        895.1,
+        497.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don DeLillo",
+      "texte_balise": "Don DeLillo",
+      "bbox": [
+        671.3,
+        487.2,
+        735.2,
+        497.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arthur",
+      "texte_balise": "Arthur",
+      "bbox": [
+        133.9,
+        493.2,
+        171.8,
+        505.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wordsworth",
+      "texte_balise": "Wordsworth",
+      "bbox": [
+        375.6,
+        493.2,
+        445.5,
+        505.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "War and Peace Moby-Dick",
+      "texte_balise": "War and Peace Moby-Dick",
+      "bbox": [
+        445.5,
+        493.2,
+        599.4,
+        505.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The 1,001",
+      "texte_balise": "The 1,001",
+      "bbox": [
+        203.8,
+        497.2,
+        259.7,
+        509.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Decameron",
+      "texte_balise": "Decameron",
+      "bbox": [
+        39.9,
+        502.7,
+        108.0,
+        519.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eudigines",
+      "texte_balise": "Eudigines",
+      "bbox": [
+        769.1,
+        502.7,
+        823.2,
+        517.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Wright",
+      "texte_balise": "Richard Wright",
+      "bbox": [
+        663.3,
+        503.1,
+        745.2,
+        517.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Junot Diaz",
+      "texte_balise": "Junot Diaz",
+      "bbox": [
+        847.1,
+        503.1,
+        907.1,
+        515.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dickens",
+      "texte_balise": "Dickens",
+      "bbox": [
+        387.5,
+        508.7,
+        433.6,
+        519.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crme and",
+      "texte_balise": "Crme and",
+      "bbox": [
+        463.5,
+        509.1,
+        519.5,
+        519.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nights",
+      "texte_balise": "Nights",
+      "bbox": [
+        211.8,
+        511.1,
+        249.7,
+        523.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        139.9,
+        513.1,
+        163.8,
+        525.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Count of",
+      "texte_balise": "The Count of",
+      "bbox": [
+        535.4,
+        513.1,
+        607.4,
+        525.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Punishment",
+      "texte_balise": "Punishment",
+      "bbox": [
+        459.5,
+        521.1,
+        527.4,
+        533.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herman Hesse",
+      "texte_balise": "Herman Hesse",
+      "bbox": [
+        661.3,
+        521.1,
+        745.2,
+        533.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Toni Morrison",
+      "texte_balise": "Toni Morrison",
+      "bbox": [
+        757.2,
+        521.1,
+        833.1,
+        533.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Burroughs",
+      "texte_balise": "Burroughs",
+      "bbox": [
+        849.1,
+        521.1,
+        907.0,
+        535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cantebury",
+      "texte_balise": "Cantebury",
+      "bbox": [
+        123.9,
+        525.1,
+        181.8,
+        539.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "York Cycle",
+      "texte_balise": "York Cycle",
+      "bbox": [
+        45.8,
+        526.4,
+        106.1,
+        543.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jane Eyre",
+      "texte_balise": "Jane Eyre",
+      "bbox": [
+        379.6,
+        527.1,
+        439.5,
+        539.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Monte Cristo",
+      "texte_balise": "Monte Cristo",
+      "bbox": [
+        533.4,
+        527.1,
+        605.4,
+        539.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George Orwell",
+      "texte_balise": "George Orwell",
+      "bbox": [
+        663.2,
+        534.2,
+        745.3,
+        549.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hong Kingston",
+      "texte_balise": "Hong Kingston",
+      "bbox": [
+        755.1,
+        534.3,
+        837.2,
+        549.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ginsberg",
+      "texte_balise": "Ginsberg",
+      "bbox": [
+        853.1,
+        535.1,
+        903.0,
+        549.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wuthering",
+      "texte_balise": "Wuthering",
+      "bbox": [
+        463.4,
+        540.8,
+        521.5,
+        555.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plays",
+      "texte_balise": "Plays",
+      "bbox": [
+        59.9,
+        541.1,
+        93.9,
+        555.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tales",
+      "texte_balise": "Tales",
+      "bbox": [
+        137.9,
+        541.1,
+        167.8,
+        551.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oscar Wilde",
+      "texte_balise": "Oscar Wilde",
+      "bbox": [
+        375.6,
+        547.1,
+        443.5,
+        559.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wagner",
+      "texte_balise": "Wagner",
+      "bbox": [
+        547.4,
+        547.1,
+        591.4,
+        561.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heights",
+      "texte_balise": "Heights",
+      "bbox": [
+        465.5,
+        553.1,
+        513.5,
+        571.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

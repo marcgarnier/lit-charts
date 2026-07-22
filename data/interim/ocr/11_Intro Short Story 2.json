@@ -1,0 +1,982 @@
+{
+  "fichier": "11_Intro Short Story 2.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:59.458261+00:00",
+  "duree_s": 0.8,
+  "taille_origine": [
+    1572,
+    1416
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 88,
+  "lignes": [
+    {
+      "texte": "a /lit/erary introduction guide - recommended short story collections",
+      "texte_balise": "a /lit/erary introduction guide - recommended short story collections",
+      "bbox": [
+        16.0,
+        16.0,
+        1560.6,
+        71.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1900 - 1940",
+      "texte_balise": "1900 - 1940",
+      "bbox": [
+        16.0,
+        118.8,
+        210.2,
+        148.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RYUNOSUKE",
+      "texte_balise": "RYUNOSUKE",
+      "bbox": [
+        699.1,
+        182.5,
+        838.6,
+        210.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AKUTAGAWA",
+      "texte_balise": "AKUTAGAWA",
+      "bbox": [
+        671.7,
+        209.8,
+        845.5,
+        251.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE COLLECTED STORIES OF",
+      "texte_balise": "THE COLLECTED STORIES OF",
+      "bbox": [
+        1316.1,
+        228.0,
+        1505.7,
+        242.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMSTERDAM",
+      "texte_balise": "AMSTERDAM",
+      "bbox": [
+        943.7,
+        253.5,
+        1005.3,
+        264.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHO THE GROTESQUE",
+      "texte_balise": "WHO THE GROTESQUE",
+      "bbox": [
+        749.6,
+        255.0,
+        861.1,
+        306.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        169.1,
+        260.4,
+        194.2,
+        274.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BEAUTIFUY",
+      "texte_balise": "THE BEAUTIFUY",
+      "bbox": [
+        660.2,
+        264.4,
+        738.7,
+        297.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        1092.1,
+        264.6,
+        1231.6,
+        304.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEST",
+      "texte_balise": "BEST",
+      "bbox": [
+        169.1,
+        276.3,
+        196.5,
+        285.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHORT",
+      "texte_balise": "SHORT",
+      "bbox": [
+        164.5,
+        292.3,
+        198.8,
+        296.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORIES OF",
+      "texte_balise": "STORIES OF",
+      "bbox": [
+        155.4,
+        303.8,
+        205.6,
+        311.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        1092.2,
+        303.8,
+        1220.1,
+        344.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISAAC",
+      "texte_balise": "ISAAC",
+      "bbox": [
+        1400.6,
+        303.8,
+        1471.5,
+        324.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O. HENRY",
+      "texte_balise": "O. HENRY",
+      "bbox": [
+        155.4,
+        315.0,
+        210.2,
+        327.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BABEL",
+      "texte_balise": "BABEL",
+      "bbox": [
+        1400.5,
+        330.8,
+        1471.6,
+        354.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners",
+      "texte_balise": "Dubliners",
+      "bbox": [
+        1094.3,
+        337.2,
+        1229.4,
+        368.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK LONDON",
+      "texte_balise": "JACK LONDON",
+      "bbox": [
+        290.2,
+        404.0,
+        374.7,
+        413.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MR NATHALIE BABEL",
+      "texte_balise": "MR NATHALIE BABEL",
+      "bbox": [
+        1357.2,
+        411.0,
+        1466.9,
+        423.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cail of the Wild, White Fang,",
+      "texte_balise": "The Cail of the Wild, White Fang,",
+      "bbox": [
+        260.5,
+        422.5,
+        406.7,
+        436.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rashümon and Seventéen Other Stories",
+      "texte_balise": "Rashümon and Seventéen Other Stories",
+      "bbox": [
+        473.0,
+        427.0,
+        616.9,
+        439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Other Stories",
+      "texte_balise": "and Other Stories",
+      "bbox": [
+        292.5,
+        436.0,
+        377.0,
+        445.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Best Short Stories",
+      "texte_balise": "The Best Short Stories",
+      "bbox": [
+        34.3,
+        484.0,
+        203.4,
+        500.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Call of the Wild,",
+      "texte_balise": "The Call of the Wild,",
+      "bbox": [
+        253.6,
+        486.0,
+        413.6,
+        502.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rashomon and",
+      "texte_balise": "Rashomon and",
+      "bbox": [
+        489.0,
+        486.0,
+        598.6,
+        500.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Beautiful and",
+      "texte_balise": "The Beautiful and",
+      "bbox": [
+        692.3,
+        486.0,
+        824.8,
+        502.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amsterdam Stories",
+      "texte_balise": "Amsterdam Stories",
+      "bbox": [
+        904.8,
+        486.0,
+        1046.5,
+        502.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Collected Stories",
+      "texte_balise": "The Collected Stories",
+      "bbox": [
+        1332.1,
+        486.0,
+        1494.3,
+        500.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dubliners",
+      "texte_balise": "Dubliners",
+      "bbox": [
+        1156.1,
+        486.4,
+        1229.3,
+        502.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of O. Henry",
+      "texte_balise": "of O. Henry",
+      "bbox": [
+        73.0,
+        506.4,
+        166.9,
+        528.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Grotesque",
+      "texte_balise": "The Grotesque",
+      "bbox": [
+        703.7,
+        508.9,
+        813.5,
+        527.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "White Fang, and Other",
+      "texte_balise": "White Fang, and Other",
+      "bbox": [
+        251.3,
+        509.0,
+        420.4,
+        528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seventeen Other Stories",
+      "texte_balise": "Seventeen Other Stories",
+      "bbox": [
+        454.7,
+        509.0,
+        635.2,
+        525.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Nescio",
+      "texte_balise": "by Nescio",
+      "bbox": [
+        936.8,
+        509.0,
+        1012.2,
+        528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by James Joyce",
+      "texte_balise": "by James Joyce",
+      "bbox": [
+        1133.3,
+        509.0,
+        1249.8,
+        528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Isaac Babel",
+      "texte_balise": "of Isaac Babel",
+      "bbox": [
+        1357.2,
+        509.0,
+        1466.9,
+        523.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stories by Jack London",
+      "texte_balise": "Stories by Jack London",
+      "bbox": [
+        246.8,
+        532.0,
+        420.4,
+        550.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ryunosuke Akutagawa",
+      "texte_balise": "by Ryunosuke Akutagawa",
+      "bbox": [
+        450.1,
+        532.0,
+        644.3,
+        550.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "by Ryunosuke Akutagawa",
+      "texte_balise": "by Ryunosuke Akutagawa",
+      "bbox": [
+        664.9,
+        532.0,
+        859.1,
+        550.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANZ",
+      "texte_balise": "FRANZ",
+      "bbox": [
+        29.6,
+        598.0,
+        100.6,
+        619.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KAFKA",
+      "texte_balise": "KAFKA",
+      "bbox": [
+        31.8,
+        618.2,
+        107.6,
+        640.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "METAMORPHOSIS",
+      "texte_balise": "METAMORPHOSIS",
+      "bbox": [
+        34.3,
+        641.8,
+        166.8,
+        655.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND OTHER STORIES",
+      "texte_balise": "AND OTHER STORIES",
+      "bbox": [
+        32.0,
+        655.0,
+        128.0,
+        667.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H.P.",
+      "texte_balise": "H.P.",
+      "bbox": [
+        877.4,
+        669.2,
+        936.8,
+        708.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "STORIES",
+      "texte_balise": "STORIES",
+      "bbox": [
+        521.0,
+        687.4,
+        568.9,
+        698.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saki",
+      "texte_balise": "Saki",
+      "bbox": [
+        237.6,
+        698.9,
+        317.6,
+        728.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT WALSER",
+      "texte_balise": "ROBERT WALSER",
+      "bbox": [
+        502.7,
+        701.0,
+        584.9,
+        713.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ovecratt",
+      "texte_balise": "ovecratt",
+      "bbox": [
+        888.2,
+        711.7,
+        1053.8,
+        742.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hemingway",
+      "texte_balise": "hemingway",
+      "bbox": [
+        1304.7,
+        719.4,
+        1508.0,
+        767.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete",
+      "texte_balise": "The Complete",
+      "bbox": [
+        242.1,
+        732.0,
+        418.3,
+        754.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUSAN SOMTAC",
+      "texte_balise": "SUSAN SOMTAC",
+      "bbox": [
+        518.7,
+        735.0,
+        566.7,
+        740.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he ca",
+      "texte_balise": "he ca",
+      "bbox": [
+        888.8,
+        744.5,
+        982.5,
+        767.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Short Stories",
+      "texte_balise": "Short Stories",
+      "bbox": [
+        237.6,
+        751.0,
+        397.6,
+        779.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "f Cthulhu",
+      "texte_balise": "f Cthulhu",
+      "bbox": [
+        895.5,
+        766.7,
+        1019.2,
+        790.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Men Without Women",
+      "texte_balise": "Men Without Women",
+      "bbox": [
+        1309.2,
+        767.0,
+        1434.9,
+        781.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Other Weird Stories",
+      "texte_balise": "and Other Weird Stories",
+      "bbox": [
+        877.4,
+        792.5,
+        1062.5,
+        813.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F. Scott Fitzgerald",
+      "texte_balise": "F. Scott Fitzgerald",
+      "bbox": [
+        678.6,
+        799.0,
+        767.7,
+        811.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tales of the Jazz Age",
+      "texte_balise": "Tales of the Jazz Age",
+      "bbox": [
+        678.6,
+        810.8,
+        779.1,
+        824.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEPAN Z WEIG",
+      "texte_balise": "STEPAN Z WEIG",
+      "bbox": [
+        1092.2,
+        838.0,
+        1275.0,
+        861.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selected Stories",
+      "texte_balise": "Selected Stories",
+      "bbox": [
+        1135.5,
+        863.1,
+        1277.3,
+        891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NODEEN GUNSBICE",
+      "texte_balise": "NODEEN GUNSBICE",
+      "bbox": [
+        877.4,
+        872.0,
+        1025.9,
+        884.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Call of Cthulhu",
+      "texte_balise": "The Call of Cthulhu",
+      "bbox": [
+        895.7,
+        902.0,
+        1048.8,
+        925.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tales of the Jazz Age",
+      "texte_balise": "Tales of the Jazz Age",
+      "bbox": [
+        678.6,
+        904.0,
+        840.8,
+        927.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Men Without Women",
+      "texte_balise": "Men Without Women",
+      "bbox": [
+        1327.5,
+        904.0,
+        1489.7,
+        923.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selected Stories",
+      "texte_balise": "Selected Stories",
+      "bbox": [
+        484.3,
+        904.1,
+        605.6,
+        927.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Metamorphosis",
+      "texte_balise": "Metamorphosis",
+      "bbox": [
+        61.7,
+        904.4,
+        175.9,
+        922.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete",
+      "texte_balise": "The Complete",
+      "bbox": [
+        281.0,
+        906.7,
+        386.1,
+        923.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selectes Stories",
+      "texte_balise": "Selectes Stories",
+      "bbox": [
+        1131.0,
+        906.7,
+        1249.8,
+        923.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Robert Walser",
+      "texte_balise": "by Robert Walser",
+      "bbox": [
+        477.1,
+        924.9,
+        612.6,
+        948.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Stefan Zweig",
+      "texte_balise": "by Stefan Zweig",
+      "bbox": [
+        1126.1,
+        925.4,
+        1250.1,
+        951.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by F. Scott Fitzgerald",
+      "texte_balise": "by F. Scott Fitzgerald",
+      "bbox": [
+        678.6,
+        927.0,
+        840.8,
+        950.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Other Weird Stories",
+      "texte_balise": "and Other Weird Stories",
+      "bbox": [
+        882.0,
+        927.0,
+        1064.8,
+        948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernest Hemingway",
+      "texte_balise": "by Ernest Hemingway",
+      "bbox": [
+        1322.9,
+        927.0,
+        1489.7,
+        950.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Other Stories",
+      "texte_balise": "and Other Stories",
+      "bbox": [
+        52.6,
+        929.5,
+        185.1,
+        943.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Short Stories",
+      "texte_balise": "Short Stories",
+      "bbox": [
+        287.9,
+        929.5,
+        386.1,
+        943.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by H.P. Lovecraft",
+      "texte_balise": "by H.P. Lovecraft",
+      "bbox": [
+        902.5,
+        950.0,
+        1039.6,
+        973.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Franz Kafka",
+      "texte_balise": "by Franz Kafka",
+      "bbox": [
+        59.4,
+        952.0,
+        175.9,
+        971.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Saki",
+      "texte_balise": "by Saki",
+      "bbox": [
+        313.0,
+        952.0,
+        374.7,
+        973.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean-Paul",
+      "texte_balise": "Jean-Paul",
+      "bbox": [
+        244.5,
+        1016.3,
+        422.7,
+        1059.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sartre",
+      "texte_balise": "Sartre",
+      "bbox": [
+        241.3,
+        1057.0,
+        421.3,
+        1126.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VLADIMIR",
+      "texte_balise": "VLADIMIR",
+      "bbox": [
+        91.4,
+        1071.1,
+        148.5,
+        1082.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NABOKOV",
+      "texte_balise": "NABOKOV",
+      "bbox": [
+        79.9,
+        1082.2,
+        160.0,
+        1098.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intimacy",
+      "texte_balise": "Intimacy",
+      "bbox": [
+        244.5,
+        1121.4,
+        422.7,
+        1173.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Collected Stories",
+      "texte_balise": "The Collected Stories",
+      "bbox": [
+        43.4,
+        1326.9,
+        203.4,
+        1343.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intimacy",
+      "texte_balise": "Intimacy",
+      "bbox": [
+        306.2,
+        1329.2,
+        372.4,
+        1347.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Vladimir Nabokov",
+      "texte_balise": "by Vladimir Nabokov",
+      "bbox": [
+        41.1,
+        1349.8,
+        203.4,
+        1368.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Jean-Paul Sartre",
+      "texte_balise": "by Jean-Paul Sartre",
+      "bbox": [
+        269.6,
+        1352.0,
+        413.6,
+        1368.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

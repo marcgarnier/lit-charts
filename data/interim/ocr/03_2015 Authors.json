@@ -1,0 +1,4480 @@
+{
+  "fichier": "03_2015 Authors.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:42.639111+00:00",
+  "duree_s": 3.3,
+  "taille_origine": [
+    1820,
+    4348
+  ],
+  "nb_bandes": 4,
+  "nb_lignes": 406,
+  "lignes": [
+    {
+      "texte": "/lit/'s top 100 authors (2015)",
+      "texte_balise": "/lit/'s top 100 authors (2015)",
+      "bbox": [
+        256.6,
+        18.5,
+        1560.8,
+        124.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The poll was open from october 8th til october 19th 2015. 368 /it/ users answered the question: Who are your three favourite authors?",
+      "texte_balise": "The poll was open from october 8th til october 19th 2015. 368 /it/ users answered the question: Who are your three favourite authors?",
+      "bbox": [
+        230.1,
+        127.0,
+        1587.2,
+        151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The votes were then counted and ties were broken via another poll. The ties that weren't broken in that poll were broken by using a random number generator.",
+      "texte_balise": "The votes were then counted and ties were broken via another poll. The ties that weren't broken in that poll were broken by using a random number generator.",
+      "bbox": [
+        103.2,
+        156.0,
+        1719.5,
+        177.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Made by the Polling Anon",
+      "texte_balise": "Made by the Polling Anon",
+      "bbox": [
+        788.3,
+        182.5,
+        1031.7,
+        204.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "10",
+      "texte_balise": "10",
+      "bbox": [
+        1698.3,
+        211.6,
+        1743.3,
+        243.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "5",
+      "texte_balise": "5",
+      "bbox": [
+        806.8,
+        214.2,
+        830.6,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "7",
+      "texte_balise": "7",
+      "bbox": [
+        1169.2,
+        214.2,
+        1190.4,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3",
+      "texte_balise": "3",
+      "bbox": [
+        447.1,
+        216.9,
+        470.9,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "4",
+      "texte_balise": "4",
+      "bbox": [
+        632.2,
+        216.9,
+        656.0,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "8",
+      "texte_balise": "8",
+      "bbox": [
+        1346.5,
+        216.9,
+        1370.3,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2",
+      "texte_balise": "2",
+      "bbox": [
+        267.2,
+        219.5,
+        291.0,
+        246.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Vladimir",
+      "texte_balise": "Vladimir",
+      "bbox": [
+        1669.0,
+        491.1,
+        1767.3,
+        516.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Franz",
+      "texte_balise": "Franz",
+      "bbox": [
+        788.3,
+        492.0,
+        854.4,
+        513.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        245.8,
+        494.0,
+        315.0,
+        513.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Albert",
+      "texte_balise": "Albert",
+      "bbox": [
+        1507.7,
+        494.1,
+        1574.1,
+        513.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas",
+      "texte_balise": "Thomas",
+      "bbox": [
+        420.5,
+        494.2,
+        502.7,
+        513.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ernest",
+      "texte_balise": "Ernest",
+      "bbox": [
+        1325.2,
+        494.3,
+        1396.8,
+        513.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fyodor",
+      "texte_balise": "Fyodor",
+      "bbox": [
+        58.2,
+        494.5,
+        135.0,
+        521.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "David Foster",
+      "texte_balise": "David Foster",
+      "bbox": [
+        571.4,
+        494.6,
+        706.3,
+        513.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jorge Luis",
+      "texte_balise": "Jorge Luis",
+      "bbox": [
+        944.4,
+        494.6,
+        1055.5,
+        516.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        1134.9,
+        494.6,
+        1222.2,
+        515.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nabokov",
+      "texte_balise": "Nabokov",
+      "bbox": [
+        1669.0,
+        517.4,
+        1764.7,
+        543.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kafka",
+      "texte_balise": "Kafka",
+      "bbox": [
+        785.5,
+        517.8,
+        854.7,
+        542.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joyce",
+      "texte_balise": "Joyce",
+      "bbox": [
+        251.3,
+        518.4,
+        309.5,
+        542.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wallace",
+      "texte_balise": "Wallace",
+      "bbox": [
+        597.8,
+        520.6,
+        685.2,
+        540.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Borges",
+      "texte_balise": "Borges",
+      "bbox": [
+        962.8,
+        520.8,
+        1034.4,
+        542.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heming way",
+      "texte_balise": "Heming way",
+      "bbox": [
+        1298.8,
+        520.8,
+        1420.6,
+        542.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dostoevsky",
+      "texte_balise": "Dostoevsky",
+      "bbox": [
+        42.3,
+        520.9,
+        158.7,
+        542.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pynchon",
+      "texte_balise": "Pynchon",
+      "bbox": [
+        412.7,
+        521.1,
+        505.3,
+        544.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Camus",
+      "texte_balise": "Camus",
+      "bbox": [
+        1505.2,
+        521.1,
+        1576.6,
+        539.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shakespeare",
+      "texte_balise": "Shakespeare",
+      "bbox": [
+        1115.6,
+        522.0,
+        1246.3,
+        544.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 24",
+      "texte_balise": "Votes: 24",
+      "bbox": [
+        1674.4,
+        544.4,
+        1767.2,
+        566.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 40",
+      "texte_balise": "Votes: 40",
+      "bbox": [
+        774.9,
+        546.7,
+        867.8,
+        566.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes:56",
+      "texte_balise": "Votes:56",
+      "bbox": [
+        238.0,
+        547.2,
+        325.4,
+        566.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 25",
+      "texte_balise": "Votes: 25",
+      "bbox": [
+        1494.6,
+        547.2,
+        1587.3,
+        566.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 44",
+      "texte_balise": "Votes: 44",
+      "bbox": [
+        595.2,
+        547.5,
+        687.8,
+        566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 59",
+      "texte_balise": "Votes: 59",
+      "bbox": [
+        52.6,
+        548.8,
+        145.8,
+        570.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 30",
+      "texte_balise": "Votes: 30",
+      "bbox": [
+        954.9,
+        549.6,
+        1047.7,
+        569.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 47",
+      "texte_balise": "Votes: 47",
+      "bbox": [
+        415.3,
+        550.0,
+        505.3,
+        569.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 25",
+      "texte_balise": "Votes: 25",
+      "bbox": [
+        1314.7,
+        550.0,
+        1407.3,
+        566.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 27",
+      "texte_balise": "Votes: 27",
+      "bbox": [
+        1134.8,
+        550.1,
+        1230.1,
+        568.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12",
+      "texte_balise": "12",
+      "bbox": [
+        256.6,
+        621.6,
+        304.2,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "20",
+      "texte_balise": "20",
+      "bbox": [
+        1695.7,
+        621.6,
+        1745.9,
+        656.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "11",
+      "texte_balise": "11",
+      "bbox": [
+        79.4,
+        624.2,
+        121.7,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "13",
+      "texte_balise": "13",
+      "bbox": [
+        439.1,
+        624.2,
+        486.7,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "15",
+      "texte_balise": "15",
+      "bbox": [
+        798.9,
+        624.2,
+        843.9,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "16",
+      "texte_balise": "16",
+      "bbox": [
+        981.4,
+        624.2,
+        1029.0,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "17",
+      "texte_balise": "17",
+      "bbox": [
+        1161.3,
+        624.2,
+        1206.3,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "14",
+      "texte_balise": "14",
+      "bbox": [
+        621.7,
+        626.9,
+        666.6,
+        661.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "18",
+      "texte_balise": "18",
+      "bbox": [
+        1338.5,
+        626.9,
+        1386.2,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "19",
+      "texte_balise": "19",
+      "bbox": [
+        1521.1,
+        626.9,
+        1566.0,
+        658.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Haruki",
+      "texte_balise": "Haruki",
+      "bbox": [
+        1679.7,
+        906.9,
+        1756.6,
+        931.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cormac",
+      "texte_balise": "Cormac",
+      "bbox": [
+        60.8,
+        907.1,
+        142.9,
+        928.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Virginia",
+      "texte_balise": "Virginia",
+      "bbox": [
+        957.6,
+        907.2,
+        1044.9,
+        933.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herman",
+      "texte_balise": "Herman",
+      "bbox": [
+        1317.4,
+        907.2,
+        1404.7,
+        928.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philip K.",
+      "texte_balise": "Philip K.",
+      "bbox": [
+        772.2,
+        908.7,
+        865.3,
+        934.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George",
+      "texte_balise": "George",
+      "bbox": [
+        1504.4,
+        909.0,
+        1577.4,
+        929.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        595.1,
+        909.5,
+        685.2,
+        931.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John",
+      "texte_balise": "John",
+      "bbox": [
+        433.8,
+        909.8,
+        489.4,
+        931.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo",
+      "texte_balise": "Leo",
+      "bbox": [
+        256.6,
+        909.9,
+        298.9,
+        931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kurt",
+      "texte_balise": "Kurt",
+      "bbox": [
+        1153.4,
+        909.9,
+        1208.9,
+        931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McCarthy",
+      "texte_balise": "McCarthy",
+      "bbox": [
+        45.0,
+        933.7,
+        153.4,
+        960.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steinbeck",
+      "texte_balise": "Steinbeck",
+      "bbox": [
+        409.9,
+        935.7,
+        513.3,
+        958.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vonnegut",
+      "texte_balise": "Vonnegut",
+      "bbox": [
+        1132.1,
+        935.7,
+        1230.2,
+        960.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faulkner",
+      "texte_balise": "Faulkner",
+      "bbox": [
+        589.8,
+        935.8,
+        690.5,
+        955.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Murakami",
+      "texte_balise": "Murakami",
+      "bbox": [
+        1663.9,
+        936.0,
+        1775.1,
+        957.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Melville",
+      "texte_balise": "Melville",
+      "bbox": [
+        1314.7,
+        936.1,
+        1404.7,
+        957.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolstoy",
+      "texte_balise": "Tolstoy",
+      "bbox": [
+        240.7,
+        936.3,
+        317.4,
+        960.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dick",
+      "texte_balise": "Dick",
+      "bbox": [
+        793.6,
+        936.3,
+        846.5,
+        957.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Woolf",
+      "texte_balise": "Woolf",
+      "bbox": [
+        970.8,
+        936.3,
+        1034.3,
+        957.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orwell",
+      "texte_balise": "Orwell",
+      "bbox": [
+        1507.8,
+        936.3,
+        1576.6,
+        954.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 12",
+      "texte_balise": "Votes: 12",
+      "bbox": [
+        1494.3,
+        961.1,
+        1587.5,
+        983.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 11",
+      "texte_balise": "Votes: 11",
+      "bbox": [
+        1674.3,
+        961.5,
+        1764.7,
+        982.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 14",
+      "texte_balise": "Votes: 14",
+      "bbox": [
+        957.4,
+        961.7,
+        1050.4,
+        982.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 15",
+      "texte_balise": "Votes: 15",
+      "bbox": [
+        774.9,
+        961.8,
+        867.9,
+        982.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 19",
+      "texte_balise": "Votes: 19",
+      "bbox": [
+        415.2,
+        962.3,
+        508.0,
+        981.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 24",
+      "texte_balise": "Votes: 24",
+      "bbox": [
+        55.5,
+        962.6,
+        148.2,
+        981.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 15",
+      "texte_balise": "Votes: 15",
+      "bbox": [
+        592.5,
+        962.6,
+        687.8,
+        981.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes : 19",
+      "texte_balise": "Votes : 19",
+      "bbox": [
+        232.8,
+        962.8,
+        330.7,
+        981.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 13",
+      "texte_balise": "Votes: 13",
+      "bbox": [
+        1134.9,
+        962.8,
+        1230.1,
+        984.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 12",
+      "texte_balise": "Votes: 12",
+      "bbox": [
+        1314.7,
+        962.8,
+        1407.3,
+        981.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "21",
+      "texte_balise": "21",
+      "bbox": [
+        82.0,
+        1039.5,
+        124.3,
+        1073.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "22",
+      "texte_balise": "22",
+      "bbox": [
+        259.2,
+        1039.5,
+        306.9,
+        1073.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "25",
+      "texte_balise": "25",
+      "bbox": [
+        798.9,
+        1039.5,
+        846.5,
+        1073.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "30",
+      "texte_balise": "30",
+      "bbox": [
+        1701.0,
+        1039.5,
+        1748.6,
+        1073.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "27/",
+      "texte_balise": "27/",
+      "bbox": [
+        1158.7,
+        1041.8,
+        1206.3,
+        1076.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "23",
+      "texte_balise": "23",
+      "bbox": [
+        439.1,
+        1042.1,
+        489.4,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "24",
+      "texte_balise": "24",
+      "bbox": [
+        621.7,
+        1042.1,
+        669.3,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "26",
+      "texte_balise": "26",
+      "bbox": [
+        978.8,
+        1042.1,
+        1026.4,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "27",
+      "texte_balise": "27",
+      "bbox": [
+        1158.7,
+        1042.1,
+        1206.3,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "28",
+      "texte_balise": "28",
+      "bbox": [
+        1338.5,
+        1042.1,
+        1386.2,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "29",
+      "texte_balise": "29",
+      "bbox": [
+        1521.1,
+        1042.1,
+        1568.7,
+        1073.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich",
+      "texte_balise": "Friedrich",
+      "bbox": [
+        774.9,
+        1323.5,
+        873.1,
+        1343.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato",
+      "texte_balise": "Plato",
+      "bbox": [
+        1150.7,
+        1324.2,
+        1211.6,
+        1345.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Marcel",
+      "texte_balise": "Marcel",
+      "bbox": [
+        66.1,
+        1324.3,
+        137.6,
+        1342.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yukio",
+      "texte_balise": "Yukio",
+      "bbox": [
+        256.6,
+        1324.3,
+        312.2,
+        1342.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gene",
+      "texte_balise": "Gene",
+      "bbox": [
+        436.5,
+        1324.3,
+        489.4,
+        1342.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Italo",
+      "texte_balise": "Italo",
+      "bbox": [
+        616.4,
+        1324.3,
+        669.3,
+        1345.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hermann",
+      "texte_balise": "Hermann",
+      "bbox": [
+        955.0,
+        1324.3,
+        1052.8,
+        1342.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roberto",
+      "texte_balise": "Roberto",
+      "bbox": [
+        1322.7,
+        1324.3,
+        1404.7,
+        1342.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R.R.",
+      "texte_balise": "J.R.R.",
+      "bbox": [
+        1507.8,
+        1324.3,
+        1574.0,
+        1345.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "William S.",
+      "texte_balise": "William S.",
+      "bbox": [
+        1666.6,
+        1324.3,
+        1777.7,
+        1345.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nietzsche",
+      "texte_balise": "Nietzsche",
+      "bbox": [
+        772.2,
+        1349.5,
+        875.8,
+        1370.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Burroughs",
+      "texte_balise": "Burroughs",
+      "bbox": [
+        1669.1,
+        1350.1,
+        1780.4,
+        1374.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Proust",
+      "texte_balise": "Proust",
+      "bbox": [
+        66.1,
+        1350.4,
+        140.3,
+        1369.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mishima",
+      "texte_balise": "Mishima",
+      "bbox": [
+        235.4,
+        1350.5,
+        328.1,
+        1369.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bolaño",
+      "texte_balise": "Bolaño",
+      "bbox": [
+        1325.3,
+        1350.5,
+        1399.4,
+        1371.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Calvino",
+      "texte_balise": "Calvino",
+      "bbox": [
+        603.1,
+        1350.6,
+        685.2,
+        1369.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Wolfe",
+      "texte_balise": "Wolfe",
+      "bbox": [
+        428.5,
+        1350.7,
+        492.0,
+        1374.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hesse",
+      "texte_balise": "Hesse",
+      "bbox": [
+        970.8,
+        1350.7,
+        1034.3,
+        1369.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolkien",
+      "texte_balise": "Tolkien",
+      "bbox": [
+        1499.9,
+        1350.7,
+        1581.9,
+        1374.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Votes: 8",
+      "texte_balise": "Votes: 8",
+      "bbox": [
+        1142.4,
+        1375.5,
+        1225.2,
+        1399.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 10",
+      "texte_balise": "Votes: 10",
+      "bbox": [
+        417.8,
+        1376.2,
+        510.7,
+        1399.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 8",
+      "texte_balise": "Votes: 8",
+      "bbox": [
+        962.8,
+        1376.4,
+        1045.1,
+        1396.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 10",
+      "texte_balise": "Votes: 10",
+      "bbox": [
+        58.2,
+        1376.7,
+        150.8,
+        1395.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 9",
+      "texte_balise": "Votes: 9",
+      "bbox": [
+        603.1,
+        1376.7,
+        685.1,
+        1395.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 9",
+      "texte_balise": "Votes: 9",
+      "bbox": [
+        785.7,
+        1376.7,
+        865.0,
+        1395.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 8",
+      "texte_balise": "Votes: 8",
+      "bbox": [
+        1502.6,
+        1376.7,
+        1584.6,
+        1398.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 10",
+      "texte_balise": "Votes: 10",
+      "bbox": [
+        238.0,
+        1376.9,
+        330.7,
+        1398.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 8",
+      "texte_balise": "Votes: 8",
+      "bbox": [
+        1325.3,
+        1379.7,
+        1404.7,
+        1398.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 8",
+      "texte_balise": "Votes: 8",
+      "bbox": [
+        1685.1,
+        1379.7,
+        1764.4,
+        1398.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "34",
+      "texte_balise": "34",
+      "bbox": [
+        619.0,
+        1451.0,
+        666.6,
+        1485.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "35",
+      "texte_balise": "35",
+      "bbox": [
+        801.5,
+        1451.0,
+        846.5,
+        1485.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "31",
+      "texte_balise": "31",
+      "bbox": [
+        79.4,
+        1453.6,
+        121.7,
+        1487.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "32",
+      "texte_balise": "32",
+      "bbox": [
+        259.2,
+        1453.6,
+        304.2,
+        1485.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "33",
+      "texte_balise": "33",
+      "bbox": [
+        439.1,
+        1453.6,
+        486.7,
+        1487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "36",
+      "texte_balise": "36",
+      "bbox": [
+        978.8,
+        1453.6,
+        1026.4,
+        1485.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "38",
+      "texte_balise": "38",
+      "bbox": [
+        1338.5,
+        1453.6,
+        1386.2,
+        1487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "37",
+      "texte_balise": "37",
+      "bbox": [
+        1158.7,
+        1456.3,
+        1203.6,
+        1487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "39",
+      "texte_balise": "39",
+      "bbox": [
+        1521.1,
+        1456.3,
+        1566.0,
+        1487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "40",
+      "texte_balise": "40",
+      "bbox": [
+        1698.3,
+        1456.3,
+        1745.9,
+        1487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen",
+      "texte_balise": "Stephen",
+      "bbox": [
+        1317.2,
+        1732.9,
+        1404.8,
+        1760.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T.S.",
+      "texte_balise": "T.S.",
+      "bbox": [
+        798.9,
+        1733.5,
+        838.6,
+        1757.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Samuel",
+      "texte_balise": "Samuel",
+      "bbox": [
+        960.3,
+        1733.5,
+        1042.3,
+        1757.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homer",
+      "texte_balise": "Homer",
+      "bbox": [
+        1687.7,
+        1733.5,
+        1759.2,
+        1751.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Charles",
+      "texte_balise": "Charles",
+      "bbox": [
+        1140.1,
+        1736.0,
+        1222.2,
+        1760.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "F. Scott",
+      "texte_balise": "F. Scott",
+      "bbox": [
+        60.8,
+        1736.1,
+        142.8,
+        1757.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Don",
+      "texte_balise": "Don",
+      "bbox": [
+        256.6,
+        1736.1,
+        301.6,
+        1757.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John",
+      "texte_balise": "John",
+      "bbox": [
+        431.2,
+        1736.1,
+        486.7,
+        1759.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oscar",
+      "texte_balise": "Oscar",
+      "bbox": [
+        613.7,
+        1736.1,
+        674.6,
+        1754.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles",
+      "texte_balise": "Charles",
+      "bbox": [
+        1499.9,
+        1736.1,
+        1581.9,
+        1759.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Baudelaire",
+      "texte_balise": "Baudelaire",
+      "bbox": [
+        1483.9,
+        1761.5,
+        1598.0,
+        1784.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DeLillo",
+      "texte_balise": "DeLillo",
+      "bbox": [
+        240.7,
+        1762.2,
+        320.2,
+        1783.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Fitzgerald",
+      "texte_balise": "Fitzgerald",
+      "bbox": [
+        44.9,
+        1762.3,
+        156.1,
+        1789.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beckett",
+      "texte_balise": "Beckett",
+      "bbox": [
+        960.2,
+        1762.3,
+        1042.3,
+        1783.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Milton",
+      "texte_balise": "Milton",
+      "bbox": [
+        423.3,
+        1762.5,
+        494.7,
+        1786.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Wilde",
+      "texte_balise": "Wilde",
+      "bbox": [
+        608.4,
+        1762.5,
+        674.6,
+        1786.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eliot",
+      "texte_balise": "Eliot",
+      "bbox": [
+        793.6,
+        1762.5,
+        849.2,
+        1783.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "King",
+      "texte_balise": "King",
+      "bbox": [
+        1333.3,
+        1762.5,
+        1386.2,
+        1786.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dickens",
+      "texte_balise": "Dickens",
+      "bbox": [
+        1140.1,
+        1765.0,
+        1222.2,
+        1783.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        1679.8,
+        1786.3,
+        1761.8,
+        1810.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        782.8,
+        1788.1,
+        862.6,
+        1808.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 7",
+      "texte_balise": "Votes: 7",
+      "bbox": [
+        240.6,
+        1788.2,
+        320.2,
+        1808.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        962.9,
+        1788.7,
+        1042.3,
+        1807.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        1320.0,
+        1788.7,
+        1402.1,
+        1807.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        600.5,
+        1788.9,
+        685.1,
+        1812.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        1502.3,
+        1790.4,
+        1582.2,
+        1811.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        1139.9,
+        1790.6,
+        1222.4,
+        1813.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 7",
+      "texte_balise": "Votes: 7",
+      "bbox": [
+        63.5,
+        1791.4,
+        142.8,
+        1810.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 6",
+      "texte_balise": "Votes: 6",
+      "bbox": [
+        420.6,
+        1791.4,
+        502.6,
+        1810.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "47",
+      "texte_balise": "47",
+      "bbox": [
+        1156.0,
+        1868.1,
+        1203.6,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "48",
+      "texte_balise": "48",
+      "bbox": [
+        1335.9,
+        1868.1,
+        1383.5,
+        1902.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "41",
+      "texte_balise": "41",
+      "bbox": [
+        76.7,
+        1870.7,
+        121.7,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "42",
+      "texte_balise": "42",
+      "bbox": [
+        256.6,
+        1870.7,
+        301.6,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "43",
+      "texte_balise": "43",
+      "bbox": [
+        436.5,
+        1870.7,
+        484.1,
+        1902.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "44",
+      "texte_balise": "44",
+      "bbox": [
+        616.4,
+        1870.7,
+        664.0,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "45",
+      "texte_balise": "45",
+      "bbox": [
+        796.2,
+        1870.7,
+        843.9,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "46",
+      "texte_balise": "46",
+      "bbox": [
+        976.1,
+        1873.4,
+        1023.8,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "49",
+      "texte_balise": "49",
+      "bbox": [
+        1515.8,
+        1873.4,
+        1563.4,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "50",
+      "texte_balise": "50",
+      "bbox": [
+        1695.7,
+        1873.4,
+        1745.9,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        1314.7,
+        2150.4,
+        1402.1,
+        2174.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.D",
+      "texte_balise": "J.D",
+      "bbox": [
+        1153.4,
+        2150.6,
+        1193.1,
+        2171.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Charles",
+      "texte_balise": "Charles",
+      "bbox": [
+        1497.3,
+        2150.6,
+        1579.3,
+        2174.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joseph",
+      "texte_balise": "Joseph",
+      "bbox": [
+        1679.3,
+        2151.8,
+        1754.4,
+        2181.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fernando",
+      "texte_balise": "Fernando",
+      "bbox": [
+        50.2,
+        2152.7,
+        150.9,
+        2172.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gabriel Garcia",
+      "texte_balise": "Gabriel Garcia",
+      "bbox": [
+        203.7,
+        2153.1,
+        357.1,
+        2172.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nikolai",
+      "texte_balise": "Nikolai",
+      "bbox": [
+        957.6,
+        2153.1,
+        1037.0,
+        2174.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dante",
+      "texte_balise": "Dante",
+      "bbox": [
+        423.3,
+        2153.2,
+        492.0,
+        2177.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anton",
+      "texte_balise": "Anton",
+      "bbox": [
+        608.4,
+        2153.2,
+        671.9,
+        2171.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Isaac",
+      "texte_balise": "Isaac",
+      "bbox": [
+        791.0,
+        2153.2,
+        849.2,
+        2171.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Salinger",
+      "texte_balise": "Salinger",
+      "bbox": [
+        1130.8,
+        2175.9,
+        1223.3,
+        2206.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Conrad",
+      "texte_balise": "Conrad",
+      "bbox": [
+        1679.4,
+        2178.2,
+        1756.9,
+        2202.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bukowski",
+      "texte_balise": "Bukowski",
+      "bbox": [
+        1486.5,
+        2178.9,
+        1590.0,
+        2201.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gaddis",
+      "texte_balise": "Gaddis",
+      "bbox": [
+        1319.9,
+        2179.2,
+        1396.9,
+        2201.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Chek-hov",
+      "texte_balise": "Chek-hov",
+      "bbox": [
+        589.9,
+        2179.4,
+        685.2,
+        2198.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pessoa",
+      "texte_balise": "Pessoa",
+      "bbox": [
+        63.5,
+        2179.6,
+        134.9,
+        2198.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alighieri",
+      "texte_balise": "Alighieri",
+      "bbox": [
+        412.7,
+        2179.6,
+        505.3,
+        2203.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Asimov i",
+      "texte_balise": "Asimov i",
+      "bbox": [
+        780.4,
+        2179.6,
+        858.7,
+        2198.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gogol",
+      "texte_balise": "Gogol",
+      "bbox": [
+        965.6,
+        2179.6,
+        1029.0,
+        2203.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Marquez",
+      "texte_balise": "Marquez",
+      "bbox": [
+        232.6,
+        2181.4,
+        325.6,
+        2204.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chekhov",
+      "texte_balise": "Chekhov",
+      "bbox": [
+        592.6,
+        2181.6,
+        685.1,
+        2200.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Asimov",
+      "texte_balise": "Asimov",
+      "bbox": [
+        780.2,
+        2183.4,
+        857.2,
+        2200.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        57.8,
+        2204.4,
+        138.0,
+        2228.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        1137.2,
+        2204.5,
+        1219.8,
+        2226.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        780.2,
+        2205.3,
+        859.9,
+        2227.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        960.1,
+        2205.3,
+        1039.8,
+        2225.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        1317.2,
+        2205.4,
+        1399.5,
+        2225.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        1499.8,
+        2205.4,
+        1579.4,
+        2225.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        597.8,
+        2206.0,
+        679.9,
+        2230.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        240.7,
+        2208.7,
+        320.1,
+        2227.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        418.0,
+        2208.7,
+        497.3,
+        2227.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 5",
+      "texte_balise": "Votes: 5",
+      "bbox": [
+        1679.8,
+        2208.7,
+        1759.2,
+        2227.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KO",
+      "texte_balise": "KO",
+      "bbox": [
+        1518.4,
+        2287.9,
+        1563.4,
+        2306.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "51",
+      "texte_balise": "51",
+      "bbox": [
+        76.7,
+        2289.8,
+        121.7,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "52",
+      "texte_balise": "52",
+      "bbox": [
+        259.2,
+        2289.8,
+        306.9,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "53",
+      "texte_balise": "53",
+      "bbox": [
+        436.5,
+        2289.8,
+        484.1,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "54",
+      "texte_balise": "54",
+      "bbox": [
+        619.0,
+        2289.8,
+        666.6,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "55",
+      "texte_balise": "55",
+      "bbox": [
+        798.9,
+        2289.8,
+        843.9,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "56",
+      "texte_balise": "56",
+      "bbox": [
+        978.8,
+        2289.8,
+        1026.4,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "57",
+      "texte_balise": "57",
+      "bbox": [
+        1156.0,
+        2289.8,
+        1203.6,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "58",
+      "texte_balise": "58",
+      "bbox": [
+        1338.5,
+        2289.8,
+        1386.2,
+        2321.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "59",
+      "texte_balise": "59",
+      "bbox": [
+        1518.4,
+        2289.8,
+        1566.0,
+        2321.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- 1",
+      "texte_balise": "- 1",
+      "bbox": [
+        79.4,
+        2290.5,
+        116.4,
+        2306.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "60",
+      "texte_balise": "60",
+      "bbox": [
+        1698.3,
+        2295.1,
+        1745.9,
+        2326.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Knut",
+      "texte_balise": "Knut",
+      "bbox": [
+        611.1,
+        2569.7,
+        669.3,
+        2593.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William B.",
+      "texte_balise": "William B.",
+      "bbox": [
+        1121.4,
+        2571.4,
+        1238.2,
+        2599.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gustave",
+      "texte_balise": "Gustave",
+      "bbox": [
+        780.3,
+        2572.0,
+        865.1,
+        2591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H.P.",
+      "texte_balise": "H.P.",
+      "bbox": [
+        76.7,
+        2572.3,
+        119.0,
+        2593.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mark",
+      "texte_balise": "Mark",
+      "bbox": [
+        248.7,
+        2572.3,
+        312.2,
+        2593.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ezra",
+      "texte_balise": "Ezra",
+      "bbox": [
+        976.1,
+        2572.3,
+        1026.4,
+        2590.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Edward",
+      "texte_balise": "John Edward",
+      "bbox": [
+        1290.9,
+        2572.3,
+        1431.1,
+        2590.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stanisław",
+      "texte_balise": "Stanisław",
+      "bbox": [
+        1489.3,
+        2572.3,
+        1592.5,
+        2593.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G.K.",
+      "texte_balise": "G.K.",
+      "bbox": [
+        1698.3,
+        2572.3,
+        1743.3,
+        2593.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alan",
+      "texte_balise": "Alan",
+      "bbox": [
+        436.5,
+        2574.9,
+        486.7,
+        2596.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hamsun",
+      "texte_balise": "Hamsun",
+      "bbox": [
+        597.7,
+        2597.8,
+        688.0,
+        2618.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lovecraft",
+      "texte_balise": "Lovecraft",
+      "bbox": [
+        50.1,
+        2598.0,
+        150.9,
+        2617.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yeats",
+      "texte_balise": "Yeats",
+      "bbox": [
+        1153.3,
+        2598.4,
+        1211.7,
+        2620.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Flaubert",
+      "texte_balise": "Flaubert",
+      "bbox": [
+        777.7,
+        2598.5,
+        870.4,
+        2617.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moore",
+      "texte_balise": "Moore",
+      "bbox": [
+        428.5,
+        2598.6,
+        494.7,
+        2619.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Williams",
+      "texte_balise": "Williams",
+      "bbox": [
+        1312.1,
+        2598.6,
+        1410.0,
+        2620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Twain",
+      "texte_balise": "Twain",
+      "bbox": [
+        248.7,
+        2598.7,
+        314.8,
+        2617.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pound",
+      "texte_balise": "Pound",
+      "bbox": [
+        968.2,
+        2598.7,
+        1034.3,
+        2617.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lem",
+      "texte_balise": "Lem",
+      "bbox": [
+        1515.8,
+        2598.7,
+        1566.0,
+        2617.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chesterton",
+      "texte_balise": "Chesterton",
+      "bbox": [
+        1666.6,
+        2598.7,
+        1780.3,
+        2617.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        1502.3,
+        2624.0,
+        1582.2,
+        2647.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        238.0,
+        2624.7,
+        322.9,
+        2649.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        58.2,
+        2625.1,
+        142.8,
+        2648.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        603.1,
+        2625.1,
+        685.1,
+        2646.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        783.0,
+        2625.1,
+        865.0,
+        2646.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        957.6,
+        2625.1,
+        1042.3,
+        2648.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        1322.7,
+        2625.1,
+        1402.0,
+        2646.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        420.6,
+        2627.6,
+        502.6,
+        2646.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        1142.8,
+        2627.6,
+        1230.1,
+        2646.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        1679.8,
+        2627.6,
+        1764.4,
+        2648.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "61",
+      "texte_balise": "61",
+      "bbox": [
+        79.4,
+        2704.3,
+        124.3,
+        2738.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "64",
+      "texte_balise": "64",
+      "bbox": [
+        619.0,
+        2704.3,
+        666.6,
+        2738.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "62",
+      "texte_balise": "62",
+      "bbox": [
+        256.6,
+        2706.9,
+        304.2,
+        2741.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "63",
+      "texte_balise": "63",
+      "bbox": [
+        436.5,
+        2706.9,
+        486.7,
+        2741.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "65",
+      "texte_balise": "65",
+      "bbox": [
+        796.3,
+        2706.9,
+        843.9,
+        2741.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "66",
+      "texte_balise": "66",
+      "bbox": [
+        978.8,
+        2706.9,
+        1026.4,
+        2738.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "67",
+      "texte_balise": "67",
+      "bbox": [
+        1156.0,
+        2706.9,
+        1203.6,
+        2743.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "68",
+      "texte_balise": "68",
+      "bbox": [
+        1338.5,
+        2706.9,
+        1386.2,
+        2741.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "69",
+      "texte_balise": "69",
+      "bbox": [
+        1518.4,
+        2709.6,
+        1566.0,
+        2743.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "70",
+      "texte_balise": "70",
+      "bbox": [
+        1701.0,
+        2709.6,
+        1745.9,
+        2743.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Louis Ferdinand",
+      "texte_balise": "Louis Ferdinand",
+      "bbox": [
+        383.6,
+        2986.3,
+        539.7,
+        3008.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "José",
+      "texte_balise": "José",
+      "bbox": [
+        76.7,
+        2986.7,
+        127.0,
+        3010.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Tao",
+      "texte_balise": "Tao",
+      "bbox": [
+        259.2,
+        2986.8,
+        301.6,
+        3007.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hart",
+      "texte_balise": "Hart",
+      "bbox": [
+        613.7,
+        2986.8,
+        669.3,
+        3007.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ursula K.",
+      "texte_balise": "Ursula K.",
+      "bbox": [
+        949.6,
+        2988.9,
+        1047.7,
+        3011.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aldous",
+      "texte_balise": "Aldous",
+      "bbox": [
+        1145.4,
+        2989.3,
+        1219.6,
+        3013.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Walt",
+      "texte_balise": "Walt",
+      "bbox": [
+        793.6,
+        2989.4,
+        849.2,
+        3010.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas",
+      "texte_balise": "Thomas",
+      "bbox": [
+        1320.0,
+        2989.4,
+        1404.7,
+        3007.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        1677.2,
+        2989.4,
+        1764.4,
+        3010.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Percy Bysshe",
+      "texte_balise": "Percy Bysshe",
+      "bbox": [
+        1470.8,
+        2992.1,
+        1611.0,
+        3016.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lin",
+      "texte_balise": "Lin",
+      "bbox": [
+        259.2,
+        3013.2,
+        301.6,
+        3036.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Céline",
+      "texte_balise": "Céline",
+      "bbox": [
+        425.9,
+        3013.2,
+        497.3,
+        3034.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crane",
+      "texte_balise": "Crane",
+      "bbox": [
+        611.1,
+        3013.2,
+        674.6,
+        3034.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Whitman",
+      "texte_balise": "Whitman",
+      "bbox": [
+        772.3,
+        3015.1,
+        870.4,
+        3035.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mann",
+      "texte_balise": "Mann",
+      "bbox": [
+        1325.2,
+        3015.6,
+        1391.5,
+        3039.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Guin",
+      "texte_balise": "Le Guin",
+      "bbox": [
+        957.6,
+        3015.7,
+        1042.3,
+        3037.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gibson",
+      "texte_balise": "Gibson",
+      "bbox": [
+        1685.1,
+        3015.8,
+        1759.2,
+        3034.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saramago",
+      "texte_balise": "Saramago",
+      "bbox": [
+        52.5,
+        3016.9,
+        156.4,
+        3036.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shelley",
+      "texte_balise": "Shelley",
+      "bbox": [
+        1502.4,
+        3018.0,
+        1579.4,
+        3042.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Huxley",
+      "texte_balise": "Huxley",
+      "bbox": [
+        1142.8,
+        3018.5,
+        1219.5,
+        3042.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        423.1,
+        3039.1,
+        502.8,
+        3061.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        602.9,
+        3041.1,
+        682.8,
+        3061.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        960.1,
+        3041.3,
+        1042.5,
+        3061.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        63.4,
+        3041.8,
+        142.9,
+        3061.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 4",
+      "texte_balise": "Votes: 4",
+      "bbox": [
+        240.7,
+        3042.2,
+        320.1,
+        3060.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        783.0,
+        3042.2,
+        862.4,
+        3063.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1317.4,
+        3042.2,
+        1402.0,
+        3066.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1682.4,
+        3042.2,
+        1761.8,
+        3063.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1502.3,
+        3044.1,
+        1582.1,
+        3066.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1140.1,
+        3044.8,
+        1222.2,
+        3066.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "710",
+      "texte_balise": "710",
+      "bbox": [
+        74.1,
+        3121.4,
+        119.0,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "73",
+      "texte_balise": "73",
+      "bbox": [
+        436.5,
+        3121.4,
+        484.1,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "74",
+      "texte_balise": "74",
+      "bbox": [
+        616.4,
+        3121.4,
+        664.0,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "75",
+      "texte_balise": "75",
+      "bbox": [
+        796.3,
+        3121.4,
+        841.2,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "76",
+      "texte_balise": "76",
+      "bbox": [
+        973.5,
+        3121.4,
+        1023.8,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "77",
+      "texte_balise": "77",
+      "bbox": [
+        1153.4,
+        3121.4,
+        1201.0,
+        3153.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "78",
+      "texte_balise": "78",
+      "bbox": [
+        1335.9,
+        3121.4,
+        1380.9,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "79",
+      "texte_balise": "79",
+      "bbox": [
+        1515.8,
+        3121.4,
+        1563.4,
+        3155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "80",
+      "texte_balise": "80",
+      "bbox": [
+        1693.0,
+        3121.4,
+        1743.3,
+        3153.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "72",
+      "texte_balise": "72",
+      "bbox": [
+        254.0,
+        3124.1,
+        301.6,
+        3158.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "71",
+      "texte_balise": "71",
+      "bbox": [
+        74.1,
+        3126.0,
+        119.0,
+        3157.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "770",
+      "texte_balise": "770",
+      "bbox": [
+        1156.0,
+        3126.0,
+        1201.0,
+        3155.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terry",
+      "texte_balise": "Terry",
+      "bbox": [
+        423.3,
+        3401.8,
+        486.4,
+        3432.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "George R. R.",
+      "texte_balise": "George R. R.",
+      "bbox": [
+        1290.9,
+        3403.3,
+        1420.6,
+        3430.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard",
+      "texte_balise": "Richard",
+      "bbox": [
+        1674.4,
+        3403.4,
+        1759.2,
+        3427.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jane",
+      "texte_balise": "Jane",
+      "bbox": [
+        970.8,
+        3403.7,
+        1021.1,
+        3424.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas",
+      "texte_balise": "Thomas",
+      "bbox": [
+        1134.6,
+        3405.2,
+        1219.7,
+        3426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Umberto",
+      "texte_balise": "Umberto",
+      "bbox": [
+        52.8,
+        3405.9,
+        145.6,
+        3425.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hunter S",
+      "texte_balise": "Hunter S",
+      "bbox": [
+        227.5,
+        3406.0,
+        322.7,
+        3425.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Karl Ove",
+      "texte_balise": "Karl Ove",
+      "bbox": [
+        587.2,
+        3406.2,
+        685.2,
+        3427.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alexander",
+      "texte_balise": "Alexander",
+      "bbox": [
+        767.2,
+        3406.4,
+        870.3,
+        3424.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.G",
+      "texte_balise": "J.G",
+      "bbox": [
+        1513.1,
+        3406.4,
+        1552.8,
+        3427.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Martin",
+      "texte_balise": "Martin",
+      "bbox": [
+        1317.3,
+        3429.8,
+        1394.2,
+        3451.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ballard",
+      "texte_balise": "Ballard",
+      "bbox": [
+        1497.0,
+        3432.0,
+        1576.9,
+        3457.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bernhard",
+      "texte_balise": "Bernhard",
+      "bbox": [
+        1126.8,
+        3432.2,
+        1230.2,
+        3452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brautigan",
+      "texte_balise": "Brautigan",
+      "bbox": [
+        1666.5,
+        3432.3,
+        1769.8,
+        3454.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pratchett",
+      "texte_balise": "Pratchett",
+      "bbox": [
+        404.7,
+        3432.4,
+        508.0,
+        3451.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Knausgård",
+      "texte_balise": "Knausgård",
+      "bbox": [
+        579.3,
+        3432.5,
+        695.8,
+        3459.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Eco",
+      "texte_balise": "Eco",
+      "bbox": [
+        76.7,
+        3432.8,
+        116.4,
+        3456.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pushkin",
+      "texte_balise": "Pushkin",
+      "bbox": [
+        775.1,
+        3432.8,
+        859.7,
+        3451.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Austen",
+      "texte_balise": "Austen",
+      "bbox": [
+        960.3,
+        3432.8,
+        1034.3,
+        3451.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Thompson",
+      "texte_balise": "Thompson",
+      "bbox": [
+        221.7,
+        3434.8,
+        330.9,
+        3456.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1317.3,
+        3456.1,
+        1396.9,
+        3478.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        777.4,
+        3457.9,
+        857.4,
+        3479.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        417.8,
+        3458.4,
+        497.5,
+        3478.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1679.6,
+        3458.6,
+        1759.3,
+        3478.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        957.6,
+        3459.0,
+        1037.0,
+        3478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1137.5,
+        3459.0,
+        1219.5,
+        3478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        1499.9,
+        3459.0,
+        1579.3,
+        3480.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        58.0,
+        3461.1,
+        137.7,
+        3481.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        238.1,
+        3461.9,
+        317.4,
+        3478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        600.5,
+        3461.9,
+        679.9,
+        3480.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "81",
+      "texte_balise": "81",
+      "bbox": [
+        74.1,
+        3533.3,
+        119.0,
+        3567.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "82",
+      "texte_balise": "82",
+      "bbox": [
+        256.6,
+        3533.3,
+        304.2,
+        3565.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "83",
+      "texte_balise": "83",
+      "bbox": [
+        436.5,
+        3533.3,
+        484.1,
+        3565.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "84",
+      "texte_balise": "84",
+      "bbox": [
+        616.4,
+        3533.3,
+        666.6,
+        3567.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "85",
+      "texte_balise": "85",
+      "bbox": [
+        796.2,
+        3533.3,
+        843.9,
+        3567.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "86",
+      "texte_balise": "86",
+      "bbox": [
+        976.1,
+        3533.3,
+        1023.7,
+        3565.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "88",
+      "texte_balise": "88",
+      "bbox": [
+        1335.9,
+        3533.3,
+        1383.5,
+        3565.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "90",
+      "texte_balise": "90",
+      "bbox": [
+        1695.7,
+        3533.3,
+        1745.9,
+        3567.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "87",
+      "texte_balise": "87",
+      "bbox": [
+        1156.0,
+        3536.0,
+        1201.0,
+        3570.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "89",
+      "texte_balise": "89",
+      "bbox": [
+        1515.8,
+        3536.0,
+        1563.4,
+        3567.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emily",
+      "texte_balise": "Emily",
+      "bbox": [
+        1503.2,
+        3813.5,
+        1570.9,
+        3844.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michel",
+      "texte_balise": "Michel",
+      "bbox": [
+        1679.7,
+        3815.9,
+        1754.0,
+        3838.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail",
+      "texte_balise": "Mikhail",
+      "bbox": [
+        775.0,
+        3816.0,
+        859.8,
+        3837.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bret Easton",
+      "texte_balise": "Bret Easton",
+      "bbox": [
+        1296.2,
+        3816.0,
+        1420.6,
+        3835.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alexandre",
+      "texte_balise": "Alexandre",
+      "bbox": [
+        587.2,
+        3816.2,
+        695.8,
+        3837.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arthur",
+      "texte_balise": "Arthur",
+      "bbox": [
+        60.8,
+        3816.4,
+        134.9,
+        3837.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David",
+      "texte_balise": "David",
+      "bbox": [
+        246.0,
+        3816.4,
+        312.2,
+        3840.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John",
+      "texte_balise": "John",
+      "bbox": [
+        431.2,
+        3816.4,
+        484.1,
+        3837.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ray",
+      "texte_balise": "Ray",
+      "bbox": [
+        976.1,
+        3816.4,
+        1018.5,
+        3842.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Lewis",
+      "texte_balise": "Lewis",
+      "bbox": [
+        1148.1,
+        3816.4,
+        1208.9,
+        3837.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bradbury",
+      "texte_balise": "Bradbury",
+      "bbox": [
+        949.2,
+        3842.4,
+        1050.5,
+        3864.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Houellebecq",
+      "texte_balise": "Houellebecq",
+      "bbox": [
+        1655.7,
+        3842.7,
+        1783.4,
+        3864.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Rimbaud",
+      "texte_balise": "Rimbaud",
+      "bbox": [
+        50.3,
+        3842.8,
+        145.5,
+        3861.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Keats",
+      "texte_balise": "Keats",
+      "bbox": [
+        428.5,
+        3842.8,
+        489.4,
+        3864.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ellis",
+      "texte_balise": "Ellis",
+      "bbox": [
+        1333.3,
+        3842.8,
+        1383.5,
+        3866.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Bulgakov",
+      "texte_balise": "Bulgakov",
+      "bbox": [
+        771.9,
+        3843.9,
+        870.5,
+        3867.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dumas",
+      "texte_balise": "Dumas",
+      "bbox": [
+        603.1,
+        3845.3,
+        677.2,
+        3864.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mitchell",
+      "texte_balise": "Mitchell",
+      "bbox": [
+        232.8,
+        3845.4,
+        325.4,
+        3866.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carroll",
+      "texte_balise": "Carroll",
+      "bbox": [
+        1140.1,
+        3845.4,
+        1216.9,
+        3866.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dickinson",
+      "texte_balise": "Dickinson",
+      "bbox": [
+        1486.7,
+        3845.4,
+        1589.9,
+        3866.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        60.7,
+        3868.6,
+        140.3,
+        3888.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        420.6,
+        3869.0,
+        500.0,
+        3890.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1320.0,
+        3869.0,
+        1399.4,
+        3890.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1679.8,
+        3869.0,
+        1759.2,
+        3890.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 3",
+      "texte_balise": "Votes: 3",
+      "bbox": [
+        240.4,
+        3870.3,
+        320.4,
+        3892.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        600.3,
+        3871.0,
+        680.0,
+        3891.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        780.2,
+        3871.0,
+        862.6,
+        3891.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        960.3,
+        3871.9,
+        1039.6,
+        3890.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1137.5,
+        3871.9,
+        1219.5,
+        3893.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1499.9,
+        3871.9,
+        1579.3,
+        3890.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "91",
+      "texte_balise": "91",
+      "bbox": [
+        76.7,
+        3948.6,
+        121.7,
+        3983.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "95",
+      "texte_balise": "95",
+      "bbox": [
+        796.2,
+        3951.2,
+        843.9,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "92",
+      "texte_balise": "92",
+      "bbox": [
+        256.6,
+        3953.9,
+        304.2,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "93",
+      "texte_balise": "93",
+      "bbox": [
+        436.5,
+        3953.9,
+        484.1,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "94",
+      "texte_balise": "94",
+      "bbox": [
+        616.4,
+        3953.9,
+        664.0,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "96",
+      "texte_balise": "96",
+      "bbox": [
+        976.1,
+        3953.9,
+        1023.8,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "97",
+      "texte_balise": "97",
+      "bbox": [
+        1156.0,
+        3953.9,
+        1201.0,
+        3988.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "98",
+      "texte_balise": "98",
+      "bbox": [
+        1335.9,
+        3953.9,
+        1383.5,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "99",
+      "texte_balise": "99",
+      "bbox": [
+        1515.8,
+        3953.9,
+        1563.4,
+        3985.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "100",
+      "texte_balise": "100",
+      "bbox": [
+        1685.1,
+        3953.9,
+        1756.5,
+        3988.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry",
+      "texte_balise": "Henry",
+      "bbox": [
+        605.8,
+        4231.6,
+        671.9,
+        4258.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Antoine",
+      "texte_balise": "Antoine",
+      "bbox": [
+        1497.2,
+        4233.9,
+        1582.0,
+        4253.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Kennedy",
+      "texte_balise": "John Kennedy",
+      "bbox": [
+        746.0,
+        4234.0,
+        894.1,
+        4255.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rainer Maria",
+      "texte_balise": "Rainer Maria",
+      "bbox": [
+        1290.9,
+        4234.0,
+        1431.1,
+        4253.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Witold",
+      "texte_balise": "Witold",
+      "bbox": [
+        423.3,
+        4234.3,
+        494.7,
+        4255.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Neil",
+      "texte_balise": "Neil",
+      "bbox": [
+        973.5,
+        4234.3,
+        1021.1,
+        4255.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Osamu",
+      "texte_balise": "Osamu",
+      "bbox": [
+        1142.8,
+        4234.3,
+        1216.9,
+        4255.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Søren",
+      "texte_balise": "Søren",
+      "bbox": [
+        68.7,
+        4236.8,
+        129.7,
+        4255.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Sylvia",
+      "texte_balise": "Sylvia",
+      "bbox": [
+        243.3,
+        4236.8,
+        312.2,
+        4260.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard",
+      "texte_balise": "Richard",
+      "bbox": [
+        1674.5,
+        4236.9,
+        1759.2,
+        4255.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaiman",
+      "texte_balise": "Gaiman",
+      "bbox": [
+        957.5,
+        4260.4,
+        1039.7,
+        4279.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Toole",
+      "texte_balise": "Toole",
+      "bbox": [
+        790.9,
+        4260.6,
+        849.2,
+        4279.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Gombrowicz",
+      "texte_balise": "Gombrowicz",
+      "bbox": [
+        396.8,
+        4260.7,
+        523.8,
+        4279.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Miller",
+      "texte_balise": "Miller",
+      "bbox": [
+        603.1,
+        4260.7,
+        674.6,
+        4281.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rilke",
+      "texte_balise": "Rilke",
+      "bbox": [
+        1330.6,
+        4260.7,
+        1388.8,
+        4281.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "de Saint Exupéry",
+      "texte_balise": "de Saint Exupéry",
+      "bbox": [
+        1460.2,
+        4260.7,
+        1619.0,
+        4279.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yates",
+      "texte_balise": "Yates",
+      "bbox": [
+        1687.7,
+        4260.7,
+        1748.6,
+        4284.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Plath",
+      "texte_balise": "Plath",
+      "bbox": [
+        245.7,
+        4262.3,
+        309.8,
+        4285.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Kierkegaard",
+      "texte_balise": "Kierkegaard",
+      "bbox": [
+        34.3,
+        4263.1,
+        164.1,
+        4284.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dazai",
+      "texte_balise": "Dazai",
+      "bbox": [
+        1145.4,
+        4263.1,
+        1209.0,
+        4284.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1502.6,
+        4281.9,
+        1574.0,
+        4300.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        597.6,
+        4286.3,
+        680.1,
+        4309.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        777.7,
+        4286.9,
+        859.8,
+        4311.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1320.0,
+        4287.1,
+        1399.4,
+        4308.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1137.2,
+        4288.7,
+        1219.8,
+        4312.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        240.6,
+        4289.3,
+        320.2,
+        4308.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        58.2,
+        4289.7,
+        140.2,
+        4308.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        960.2,
+        4289.7,
+        1039.7,
+        4308.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        420.6,
+        4289.8,
+        500.0,
+        4308.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Votes: 2",
+      "texte_balise": "Votes: 2",
+      "bbox": [
+        1679.8,
+        4289.8,
+        1759.2,
+        4308.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1598 @@
+{
+  "fichier": "20_Analysis (Mathematics).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:05.181637+00:00",
+  "duree_s": 3.9,
+  "taille_origine": [
+    5595,
+    6349
+  ],
+  "nb_bandes": 6,
+  "nb_lignes": 144,
+  "lignes": [
+    {
+      "texte": "A Mathematical",
+      "texte_balise": "A Mathematical",
+      "bbox": [
+        3685.4,
+        119.0,
+        4037.5,
+        169.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Transition to",
+      "texte_balise": "A Transition to",
+      "bbox": [
+        2648.7,
+        138.7,
+        2976.1,
+        188.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Elements of Set",
+      "texte_balise": "Elements of Set",
+      "bbox": [
+        3159.6,
+        143.8,
+        3521.7,
+        188.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to Logic",
+      "texte_balise": "Introduction to Logic",
+      "bbox": [
+        3630.8,
+        183.1,
+        4087.1,
+        243.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advanced",
+      "texte_balise": "Advanced",
+      "bbox": [
+        2693.3,
+        198.1,
+        2921.5,
+        243.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theory by",
+      "texte_balise": "Theory by",
+      "bbox": [
+        3224.0,
+        203.0,
+        3452.3,
+        258.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "meme",
+      "texte_balise": "meme",
+      "bbox": [
+        1586.4,
+        214.5,
+        1935.3,
+        306.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Enderton",
+      "texte_balise": "by Enderton",
+      "bbox": [
+        3719.9,
+        252.0,
+        3998.0,
+        308.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mathematics by Smith",
+      "texte_balise": "Mathematics by Smith",
+      "bbox": [
+        2559.4,
+        257.8,
+        3055.4,
+        307.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enderton",
+      "texte_balise": "Enderton",
+      "bbox": [
+        3233.9,
+        262.4,
+        3442.4,
+        312.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herbert B. Enderton",
+      "texte_balise": "Herbert B. Enderton",
+      "bbox": [
+        3779.6,
+        352.0,
+        3943.3,
+        367.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "chart:",
+      "texte_balise": "chart:",
+      "bbox": [
+        1597.2,
+        362.0,
+        1919.6,
+        471.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILEMENTS DI",
+      "texte_balise": "ILEMENTS DI",
+      "bbox": [
+        3248.9,
+        411.5,
+        3407.6,
+        436.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TRANSITION",
+      "texte_balise": "A TRANSITION",
+      "bbox": [
+        2728.1,
+        421.5,
+        2876.9,
+        446.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATHEMATICAL",
+      "texte_balise": "MATHEMATICAL",
+      "bbox": [
+        3680.4,
+        431.4,
+        4037.5,
+        471.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LET THEORI",
+      "texte_balise": "LET THEORI",
+      "bbox": [
+        3313.4,
+        436.3,
+        3452.2,
+        461.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO ADVANCED",
+      "texte_balise": "TO ADVANCED",
+      "bbox": [
+        2723.1,
+        441.0,
+        2876.9,
+        471.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATHEMATICS",
+      "texte_balise": "MATHEMATICS",
+      "bbox": [
+        2723.1,
+        471.0,
+        2876.9,
+        495.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTION",
+      "texte_balise": "INTRODUCTION",
+      "bbox": [
+        3685.4,
+        476.0,
+        4032.6,
+        510.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "222",
+      "texte_balise": "222",
+      "bbox": [
+        3313.4,
+        500.8,
+        3407.6,
+        545.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "unreadable",
+      "texte_balise": "unreadable",
+      "bbox": [
+        1448.0,
+        523.7,
+        2073.6,
+        631.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO LOGIC",
+      "texte_balise": "TO LOGIC",
+      "bbox": [
+        3759.8,
+        530.5,
+        3968.1,
+        560.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOUGLAS SMITH",
+      "texte_balise": "DOUGLAS SMITH",
+      "bbox": [
+        2747.9,
+        585.1,
+        2847.1,
+        595.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAURICE EGGEN",
+      "texte_balise": "MAURICE EGGEN",
+      "bbox": [
+        2747.9,
+        614.4,
+        2847.1,
+        624.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD ST. ANDRE",
+      "texte_balise": "RICHARD ST. ANDRE",
+      "bbox": [
+        2742.9,
+        634.7,
+        2862.0,
+        654.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "edition",
+      "texte_balise": "edition",
+      "bbox": [
+        1572.0,
+        687.9,
+        1944.7,
+        794.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Calculus by Spivak",
+      "texte_balise": "Calculus by Spivak",
+      "bbox": [
+        3159.6,
+        981.8,
+        3591.1,
+        1041.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL SPIVAK",
+      "texte_balise": "MICHAEL SPIVAK",
+      "bbox": [
+        3387.8,
+        1120.6,
+        3556.4,
+        1135.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALCULUS",
+      "texte_balise": "CALCULUS",
+      "bbox": [
+        3191.6,
+        1195.9,
+        3577.5,
+        1262.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Third Edition",
+      "texte_balise": "Third Edition",
+      "bbox": [
+        3213.7,
+        1261.4,
+        3362.5,
+        1295.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ordinary Differential",
+      "texte_balise": "Ordinary Differential",
+      "bbox": [
+        5010.7,
+        1476.8,
+        5462.7,
+        1537.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Equations by",
+      "texte_balise": "Equations by",
+      "bbox": [
+        5086.8,
+        1542.7,
+        5381.1,
+        1603.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tenenbaum & Pollard",
+      "texte_balise": "Tenenbaum & Pollard",
+      "bbox": [
+        4994.2,
+        1609.0,
+        5479.2,
+        1659.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORDINARY",
+      "texte_balise": "ORDINARY",
+      "bbox": [
+        5126.2,
+        1679.3,
+        5352.7,
+        1731.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Linear Algebra by",
+      "texte_balise": "Linear Algebra by",
+      "bbox": [
+        3164.1,
+        1697.2,
+        3561.0,
+        1757.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIFFERENTIAL",
+      "texte_balise": "DIFFERENTIAL",
+      "bbox": [
+        5098.7,
+        1723.7,
+        5374.7,
+        1775.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hoffman & Kunze",
+      "texte_balise": "Hoffman & Kunze",
+      "bbox": [
+        3169.6,
+        1763.0,
+        3561.0,
+        1812.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EQUATIONS",
+      "texte_balise": "EQUATIONS",
+      "bbox": [
+        5115.4,
+        1763.0,
+        5363.5,
+        1813.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LINEAR",
+      "texte_balise": "LINEAR",
+      "bbox": [
+        3461.7,
+        1873.4,
+        3505.8,
+        2077.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AR ALGEBRA",
+      "texte_balise": "AR ALGEBRA",
+      "bbox": [
+        3456.2,
+        1989.5,
+        3511.3,
+        2342.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morris Tenenbaum",
+      "texte_balise": "Morris Tenenbaum",
+      "bbox": [
+        5132.0,
+        2099.3,
+        5346.9,
+        2127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harry Pollard",
+      "texte_balise": "Harry Pollard",
+      "bbox": [
+        5164.9,
+        2120.5,
+        5319.5,
+        2155.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis by",
+      "texte_balise": "Real Analysis by",
+      "bbox": [
+        1576.5,
+        2175.9,
+        1956.9,
+        2237.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic Alaebra bv",
+      "texte_balise": "Basic Alaebra bv",
+      "bbox": [
+        3930.3,
+        2203.7,
+        4310.6,
+        2242.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basic Algebra by",
+      "texte_balise": "Basic Algebra by",
+      "bbox": [
+        3930.3,
+        2204.3,
+        4310.6,
+        2259.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Topology by",
+      "texte_balise": "Topology by",
+      "bbox": [
+        159.1,
+        2211.4,
+        430.7,
+        2274.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tonolnay hv",
+      "texte_balise": "Tonolnay hv",
+      "bbox": [
+        159.9,
+        2214.7,
+        435.5,
+        2242.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Linear Algebra",
+      "texte_balise": "Linear Algebra",
+      "bbox": [
+        2645.9,
+        2220.9,
+        2982.2,
+        2281.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carothers",
+      "texte_balise": "Carothers",
+      "bbox": [
+        1653.3,
+        2246.3,
+        1880.1,
+        2294.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Knapp",
+      "texte_balise": "Knapp",
+      "bbox": [
+        4040.4,
+        2270.0,
+        4195.0,
+        2326.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Munkres",
+      "texte_balise": "Munkres",
+      "bbox": [
+        198.4,
+        2275.7,
+        396.9,
+        2325.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Done Right by Axler",
+      "texte_balise": "Done Right by Axler",
+      "bbox": [
+        2590.8,
+        2287.0,
+        3042.8,
+        2347.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOPOLOGY",
+      "texte_balise": "TOPOLOGY",
+      "bbox": [
+        143.2,
+        2435.1,
+        474.2,
+        2507.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REAL",
+      "texte_balise": "REAL",
+      "bbox": [
+        1653.7,
+        2435.7,
+        1791.5,
+        2479.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASIC ALGEBRA",
+      "texte_balise": "BASIC ALGEBRA",
+      "bbox": [
+        3996.4,
+        2457.7,
+        4266.5,
+        2491.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANALYSIS",
+      "texte_balise": "ANALYSIS",
+      "bbox": [
+        1653.7,
+        2485.3,
+        1896.2,
+        2529.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND EDITION",
+      "texte_balise": "SECOND EDITION",
+      "bbox": [
+        187.4,
+        2507.3,
+        435.5,
+        2534.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Linear Algebra",
+      "texte_balise": "Linear Algebra",
+      "bbox": [
+        2673.2,
+        2544.7,
+        2938.3,
+        2607.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Done Right",
+      "texte_balise": "Done Right",
+      "bbox": [
+        2673.3,
+        2600.3,
+        2883.1,
+        2662.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anthony W. Knapp",
+      "texte_balise": "Anthony W. Knapp",
+      "bbox": [
+        3996.4,
+        2633.9,
+        4145.3,
+        2661.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "N. L. Carothers",
+      "texte_balise": "N. L. Carothers",
+      "bbox": [
+        1653.6,
+        2809.6,
+        1802.7,
+        2843.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JAMES R. MUNKRES",
+      "texte_balise": "JAMES R. MUNKRES",
+      "bbox": [
+        187.4,
+        2826.5,
+        430.0,
+        2854.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Springer",
+      "texte_balise": "Springer",
+      "bbox": [
+        2866.4,
+        2837.8,
+        2954.6,
+        2865.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multidimentional",
+      "texte_balise": "Multidimentional",
+      "bbox": [
+        1587.5,
+        3003.0,
+        1962.4,
+        3052.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Real Analysis I:",
+      "texte_balise": "Real Analysis I:",
+      "bbox": [
+        1598.6,
+        3074.6,
+        1945.8,
+        3130.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Differentiation by",
+      "texte_balise": "Differentiation by",
+      "bbox": [
+        1582.0,
+        3135.2,
+        1962.4,
+        3196.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Duistermaat & Kolk",
+      "texte_balise": "Duistermaat & Kolk",
+      "bbox": [
+        1560.0,
+        3200.7,
+        1995.5,
+        3250.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multidimensional",
+      "texte_balise": "Multidimensional",
+      "bbox": [
+        1653.7,
+        3356.0,
+        1885.2,
+        3383.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Partial Differential",
+      "texte_balise": "Partial Differential",
+      "bbox": [
+        5038.3,
+        3377.4,
+        5440.7,
+        3422.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis I",
+      "texte_balise": "Real Analysis I",
+      "bbox": [
+        1648.2,
+        3388.4,
+        1852.1,
+        3416.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Differentiation",
+      "texte_balise": "Differentiation",
+      "bbox": [
+        1648.2,
+        3422.1,
+        1775.0,
+        3438.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Equations by",
+      "texte_balise": "Equations by",
+      "bbox": [
+        5087.8,
+        3443.5,
+        5385.6,
+        3499.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J. J. DUISTERMAAT",
+      "texte_balise": "J. J. DUISTERMAAT",
+      "bbox": [
+        1648.2,
+        3482.7,
+        1852.1,
+        3510.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Evans",
+      "texte_balise": "Evans",
+      "bbox": [
+        5164.9,
+        3504.3,
+        5308.5,
+        3554.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND J. A. C. KOLK",
+      "texte_balise": "AND J. A. C. KOLK",
+      "bbox": [
+        1648.2,
+        3515.7,
+        1841.1,
+        3532.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Partial Differential",
+      "texte_balise": "Partial Differential",
+      "bbox": [
+        5115.4,
+        3664.2,
+        5335.9,
+        3692.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Equations",
+      "texte_balise": "Equations",
+      "bbox": [
+        5115.4,
+        3697.5,
+        5236.7,
+        3730.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rigorous",
+      "texte_balise": "Rigorous",
+      "bbox": [
+        1019.5,
+        3740.5,
+        1224.0,
+        3797.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lawrence C. Evans",
+      "texte_balise": "Lawrence C. Evans",
+      "bbox": [
+        5109.9,
+        3785.6,
+        5253.2,
+        3797.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multivariable",
+      "texte_balise": "Multivariable",
+      "bbox": [
+        975.7,
+        3802.2,
+        1267.8,
+        3851.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Calc",
+      "texte_balise": "Calc",
+      "bbox": [
+        1069.4,
+        3873.8,
+        1179.6,
+        3917.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multidimentional",
+      "texte_balise": "Multidimentional",
+      "bbox": [
+        1593.1,
+        3928.8,
+        1962.4,
+        3972.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis I:",
+      "texte_balise": "Real Analysis I:",
+      "bbox": [
+        1593.1,
+        3989.4,
+        1962.4,
+        4044.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Integration by",
+      "texte_balise": "Integration by",
+      "bbox": [
+        1615.1,
+        4049.7,
+        1929.4,
+        4105.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Duistermaat & Kolk",
+      "texte_balise": "Duistermaat & Kolk",
+      "bbox": [
+        1560.0,
+        4104.9,
+        1995.5,
+        4154.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Multidimensional",
+      "texte_balise": "Multidimensional",
+      "bbox": [
+        1637.2,
+        4286.9,
+        1863.2,
+        4314.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis I1",
+      "texte_balise": "Real Analysis I1",
+      "bbox": [
+        1637.2,
+        4314.1,
+        1841.1,
+        4347.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis I|",
+      "texte_balise": "Real Analysis I|",
+      "bbox": [
+        1631.6,
+        4314.8,
+        1841.1,
+        4348.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Integration",
+      "texte_balise": "Integration",
+      "bbox": [
+        1631.6,
+        4353.4,
+        1725.4,
+        4369.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "S. DUDIEKMAAI",
+      "texte_balise": "S. DUDIEKMAAI",
+      "bbox": [
+        1631.6,
+        4419.5,
+        1830.1,
+        4431.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AND I. A. C. KOLK",
+      "texte_balise": "AND I. A. C. KOLK",
+      "bbox": [
+        1637.2,
+        4440.9,
+        1824.6,
+        4458.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advanced Linear",
+      "texte_balise": "Advanced Linear",
+      "bbox": [
+        3202.7,
+        4479.7,
+        3583.0,
+        4524.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra by Roman",
+      "texte_balise": "Algebra by Roman",
+      "bbox": [
+        3180.6,
+        4551.7,
+        3599.5,
+        4607.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graduate Texts",
+      "texte_balise": "Graduate Texts",
+      "bbox": [
+        3274.1,
+        4671.8,
+        3544.6,
+        4723.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Mathematics",
+      "texte_balise": "in Mathematics",
+      "bbox": [
+        3257.8,
+        4722.2,
+        3544.4,
+        4772.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "steven koman",
+      "texte_balise": "steven koman",
+      "bbox": [
+        3357.0,
+        4832.6,
+        3505.8,
+        4844.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real Analysis by",
+      "texte_balise": "Real Analysis by",
+      "bbox": [
+        1196.2,
+        4860.1,
+        1571.0,
+        4915.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Functional Analysis",
+      "texte_balise": "Functional Analysis",
+      "bbox": [
+        2160.8,
+        4860.1,
+        2601.8,
+        4915.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complex Analysis",
+      "texte_balise": "Complex Analysis",
+      "bbox": [
+        1681.3,
+        4865.7,
+        2083.7,
+        4920.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advanced Linear",
+      "texte_balise": "Advanced Linear",
+      "bbox": [
+        3301.9,
+        4865.7,
+        3544.4,
+        4898.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebra",
+      "texte_balise": "Algebra",
+      "bbox": [
+        3423.1,
+        4898.7,
+        3544.4,
+        4931.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ahlfors",
+      "texte_balise": "by Ahlfors",
+      "bbox": [
+        1769.2,
+        4925.0,
+        1995.8,
+        4982.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Royden",
+      "texte_balise": "Royden",
+      "bbox": [
+        1295.2,
+        4930.9,
+        1472.0,
+        4982.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Rudin",
+      "texte_balise": "by Rudin",
+      "bbox": [
+        2276.4,
+        4930.9,
+        2480.7,
+        4982.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algebraic",
+      "texte_balise": "Algebraic",
+      "bbox": [
+        198.4,
+        4970.0,
+        419.0,
+        5031.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Advanced Algebra by",
+      "texte_balise": "Advanced Algebra by",
+      "bbox": [
+        3874.2,
+        5008.8,
+        4361.3,
+        5075.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Topology by",
+      "texte_balise": "Topology by",
+      "bbox": [
+        170.9,
+        5041.9,
+        446.5,
+        5097.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Knapp",
+      "texte_balise": "Knapp",
+      "bbox": [
+        4046.0,
+        5075.0,
+        4194.9,
+        5130.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2 Springer",
+      "texte_balise": "2 Springer",
+      "bbox": [
+        3279.8,
+        5096.4,
+        3373.5,
+        5124.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Real",
+      "texte_balise": "Real",
+      "bbox": [
+        1262.3,
+        5097.0,
+        1383.6,
+        5146.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hatcher",
+      "texte_balise": "Hatcher",
+      "bbox": [
+        214.9,
+        5102.2,
+        402.5,
+        5152.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analysis",
+      "texte_balise": "Analysis",
+      "bbox": [
+        1261.6,
+        5138.6,
+        1489.1,
+        5215.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD EDITION",
+      "texte_balise": "THIRD EDITION",
+      "bbox": [
+        1295.4,
+        5223.7,
+        1433.2,
+        5251.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGEBRAIC",
+      "texte_balise": "ALGEBRAIC",
+      "bbox": [
+        181.9,
+        5251.2,
+        441.0,
+        5295.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COKNERSTONE",
+      "texte_balise": "COKNERSTONE",
+      "bbox": [
+        4146.6,
+        5272.1,
+        4260.7,
+        5282.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H.L. ROYDEN",
+      "texte_balise": "H.L. ROYDEN",
+      "bbox": [
+        1289.9,
+        5284.3,
+        1460.8,
+        5311.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOPOLOGY",
+      "texte_balise": "TOPOLOGY",
+      "bbox": [
+        187.2,
+        5299.9,
+        441.2,
+        5351.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVANCED",
+      "texte_balise": "ADVANCED",
+      "bbox": [
+        4001.9,
+        5317.3,
+        4200.4,
+        5350.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALGEBRA",
+      "texte_balise": "ALGEBRA",
+      "bbox": [
+        4001.9,
+        5355.9,
+        4167.3,
+        5389.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Allen Hatcher",
+      "texte_balise": "Allen Hatcher",
+      "bbox": [
+        242.5,
+        5361.0,
+        385.9,
+        5389.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Classical",
+      "texte_balise": "A Classical",
+      "bbox": [
+        2782.6,
+        5440.6,
+        3035.6,
+        5490.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anthony W. Knapp",
+      "texte_balise": "Anthony W. Knapp",
+      "bbox": [
+        4002.8,
+        5495.3,
+        4161.5,
+        5520.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to",
+      "texte_balise": "Introduction to",
+      "bbox": [
+        2747.9,
+        5500.4,
+        3070.3,
+        5550.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifolds and",
+      "texte_balise": "Manifolds and",
+      "bbox": [
+        3323.3,
+        5545.1,
+        3650.6,
+        5595.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern Number",
+      "texte_balise": "Modern Number",
+      "bbox": [
+        2728.1,
+        5564.7,
+        3095.1,
+        5609.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Differential",
+      "texte_balise": "Differential",
+      "bbox": [
+        3372.7,
+        5603.5,
+        3621.1,
+        5650.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theory by Ireland",
+      "texte_balise": "Theory by Ireland",
+      "bbox": [
+        2713.2,
+        5624.4,
+        3105.0,
+        5679.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geometry by Lee",
+      "texte_balise": "Geometry by Lee",
+      "bbox": [
+        3298.5,
+        5668.8,
+        3685.4,
+        5718.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Rosen",
+      "texte_balise": "& Rosen",
+      "bbox": [
+        2812.3,
+        5683.7,
+        3010.9,
+        5729.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Graduate Texts",
+      "texte_balise": "Graduate Texts",
+      "bbox": [
+        2747.6,
+        5771.9,
+        3070.6,
+        5839.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Mathematics",
+      "texte_balise": "in Mathematics",
+      "bbox": [
+        2747.9,
+        5832.6,
+        3070.3,
+        5888.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifolds",
+      "texte_balise": "Manifolds",
+      "bbox": [
+        3387.8,
+        5832.9,
+        3506.8,
+        5862.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Differential",
+      "texte_balise": "and Differential",
+      "bbox": [
+        3382.8,
+        5862.7,
+        3576.2,
+        5892.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Geometry",
+      "texte_balise": "Geometry",
+      "bbox": [
+        3386.6,
+        5891.3,
+        3522.8,
+        5928.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kenneth Ireland",
+      "texte_balise": "Kenneth Ireland",
+      "bbox": [
+        2792.5,
+        5917.3,
+        2971.1,
+        5942.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Rosen",
+      "texte_balise": "Michael Rosen",
+      "bbox": [
+        2792.5,
+        5936.7,
+        2961.2,
+        5961.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "leffrey M. Ler",
+      "texte_balise": "leffrey M. Ler",
+      "bbox": [
+        3377.8,
+        5976.8,
+        3477.0,
+        5986.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Classical",
+      "texte_balise": "A Classical",
+      "bbox": [
+        2797.4,
+        5981.5,
+        2956.3,
+        6011.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction to",
+      "texte_balise": "Introduction to",
+      "bbox": [
+        2792.5,
+        6011.6,
+        3005.8,
+        6041.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern Number",
+      "texte_balise": "Modern Number",
+      "bbox": [
+        2797.5,
+        6040.8,
+        3020.7,
+        6071.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theory",
+      "texte_balise": "Theory",
+      "bbox": [
+        2792.5,
+        6071.1,
+        2896.7,
+        6100.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Second Edition",
+      "texte_balise": "Second Edition",
+      "bbox": [
+        2797.5,
+        6110.2,
+        2921.5,
+        6135.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUTE ATE 13 A 3ITE 3288",
+      "texte_balise": "BUTE ATE 13 A 3ITE 3288",
+      "bbox": [
+        2797.5,
+        6135.2,
+        3060.4,
+        6160.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "202N00",
+      "texte_balise": "202N00",
+      "bbox": [
+        2792.5,
+        6215.0,
+        2906.6,
+        6249.7
+      ],
+      "confiance": 0.3
+    }
+  ]
+}

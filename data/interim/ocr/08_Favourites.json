@@ -1,0 +1,905 @@
+{
+  "fichier": "08_Favourites.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:47.150028+00:00",
+  "duree_s": 1.4,
+  "taille_origine": [
+    1600,
+    2400
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 81,
+  "lignes": [
+    {
+      "texte": "SELECTED SCIENCE",
+      "texte_balise": "SELECTED SCIENCE",
+      "bbox": [
+        281.4,
+        60.0,
+        1295.3,
+        119.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FICTION FAVORITES",
+      "texte_balise": "FICTION FAVORITES",
+      "bbox": [
+        251.2,
+        139.0,
+        1304.7,
+        204.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A CANTICLE",
+      "texte_balise": "A CANTICLE",
+      "bbox": [
+        513.3,
+        285.8,
+        713.4,
+        339.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stanislav Lem",
+      "texte_balise": "Stanislav Lem",
+      "bbox": [
+        151.2,
+        292.8,
+        362.8,
+        323.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIARA",
+      "texte_balise": "ANIARA",
+      "bbox": [
+        1190.6,
+        299.2,
+        1465.2,
+        351.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        925.6,
+        299.7,
+        1002.3,
+        329.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR LEIBOWITZ",
+      "texte_balise": "FOR LEIBOWITZ",
+      "bbox": [
+        493.3,
+        325.9,
+        740.0,
+        379.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOLARIS",
+      "texte_balise": "SOLARIS",
+      "bbox": [
+        153.3,
+        329.2,
+        356.0,
+        372.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHADOW",
+      "texte_balise": "SHADOW",
+      "bbox": [
+        867.4,
+        329.9,
+        1058.1,
+        367.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Epic Science Fiction Poem",
+      "texte_balise": "An Epic Science Fiction Poem",
+      "bbox": [
+        1216.3,
+        360.0,
+        1441.9,
+        379.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALTER M. MILLER, JK.",
+      "texte_balise": "WALTER M. MILLER, JK.",
+      "bbox": [
+        506.4,
+        365.8,
+        726.4,
+        397.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        899.8,
+        366.3,
+        1028.1,
+        398.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TORTURER",
+      "texte_balise": "TORTURER",
+      "bbox": [
+        848.7,
+        396.4,
+        1076.9,
+        437.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY GENE WOLFE",
+      "texte_balise": "BY GENE WOLFE",
+      "bbox": [
+        860.5,
+        443.8,
+        1067.4,
+        469.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARRY MARTINSON",
+      "texte_balise": "HARRY MARTINSON",
+      "bbox": [
+        1183.7,
+        697.0,
+        1469.8,
+        720.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Winner of the Nobel Prize",
+      "texte_balise": "Winner of the Nobel Prize",
+      "bbox": [
+        1225.6,
+        722.6,
+        1430.2,
+        739.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL SWANWICK",
+      "texte_balise": "MICHAEL SWANWICK",
+      "bbox": [
+        823.3,
+        813.0,
+        1104.7,
+        855.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANACE SCENCETICTION SPECUL: 24330|754",
+      "texte_balise": "ANACE SCENCETICTION SPECUL: 24330|754",
+      "bbox": [
+        1211.6,
+        815.6,
+        1395.3,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "author of Jack Faust",
+      "texte_balise": "author of Jack Faust",
+      "bbox": [
+        907.0,
+        855.0,
+        1023.3,
+        867.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOURTH MANSIONS by RA. LAFFERTY",
+      "texte_balise": "FOURTH MANSIONS by RA. LAFFERTY",
+      "bbox": [
+        1181.4,
+        857.0,
+        1444.2,
+        878.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Powerful... vivid",
+      "texte_balise": "\"Powerful... vivid",
+      "bbox": [
+        918.6,
+        896.9,
+        1014.0,
+        911.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a novel of great",
+      "texte_balise": "a novel of great",
+      "bbox": [
+        920.9,
+        910.8,
+        1009.3,
+        922.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ingenuity and panache.\"",
+      "texte_balise": "ingenuity and panache.\"",
+      "bbox": [
+        900.0,
+        922.0,
+        1032.6,
+        936.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SLYNX",
+      "texte_balise": "THE SLYNX",
+      "bbox": [
+        214.0,
+        936.0,
+        302.3,
+        950.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Washington Post Book World",
+      "texte_balise": "Washington Post Book World",
+      "bbox": [
+        888.4,
+        936.0,
+        1041.9,
+        948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TATYANA TOLSTAYA",
+      "texte_balise": "TATYANA TOLSTAYA",
+      "bbox": [
+        186.0,
+        957.0,
+        330.2,
+        971.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSLATED BY",
+      "texte_balise": "TRANSLATED BY",
+      "bbox": [
+        216.3,
+        989.8,
+        302.3,
+        1001.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMEY GAMBRELL",
+      "texte_balise": "JAMEY GAMBRELL",
+      "bbox": [
+        211.6,
+        1003.8,
+        304.7,
+        1015.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Carpet Makers",
+      "texte_balise": "The Carpet Makers",
+      "bbox": [
+        481.4,
+        1171.0,
+        700.0,
+        1201.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEBULA",
+      "texte_balise": "NEBULA",
+      "bbox": [
+        832.5,
+        1184.8,
+        916.3,
+        1201.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEBULA AWARD WINNER",
+      "texte_balise": "NEBULA AWARD WINNER",
+      "bbox": [
+        832.6,
+        1184.8,
+        1102.3,
+        1203.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AWARD WINNER",
+      "texte_balise": "AWARD WINNER",
+      "bbox": [
+        914.0,
+        1185.0,
+        1102.3,
+        1201.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STATIONS OF THE TIDE",
+      "texte_balise": "STATIONS OF THE TIDE",
+      "bbox": [
+        823.0,
+        1197.5,
+        1109.6,
+        1258.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREAS",
+      "texte_balise": "ANDREAS",
+      "bbox": [
+        586.0,
+        1208.1,
+        662.8,
+        1222.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESCHBACH",
+      "texte_balise": "ESCHBACH",
+      "bbox": [
+        660.5,
+        1208.3,
+        746.5,
+        1222.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREAS ESCHBACH",
+      "texte_balise": "ANDREAS ESCHBACH",
+      "bbox": [
+        586.0,
+        1210.0,
+        746.5,
+        1224.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "With an introduction by ORsON SCOTT CARO",
+      "texte_balise": "With an introduction by ORsON SCOTT CARO",
+      "bbox": [
+        586.0,
+        1231.0,
+        744.2,
+        1243.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "With an introduction by ORson ScotT CAro",
+      "texte_balise": "With an introduction by ORson ScotT CAro",
+      "bbox": [
+        586.0,
+        1233.6,
+        746.5,
+        1245.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ursula ko le guin",
+      "texte_balise": "ursula ko le guin",
+      "bbox": [
+        841.9,
+        1345.0,
+        1074.4,
+        1368.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1334.9,
+        1345.1,
+        1404.7,
+        1375.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail Bulgakos",
+      "texte_balise": "Mikhail Bulgakos",
+      "bbox": [
+        555.8,
+        1347.0,
+        755.8,
+        1382.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DYING",
+      "texte_balise": "DYING",
+      "bbox": [
+        1320.4,
+        1371.2,
+        1421.4,
+        1404.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EARTH",
+      "texte_balise": "EARTH",
+      "bbox": [
+        1316.2,
+        1402.7,
+        1425.7,
+        1431.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jack Vance",
+      "texte_balise": "Jack Vance",
+      "bbox": [
+        1297.6,
+        1430.7,
+        1444.3,
+        1464.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-An exotic unild",
+      "texte_balise": "-An exotic unild",
+      "bbox": [
+        1337.2,
+        1461.0,
+        1402.3,
+        1468.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hovering on the edge of time",
+      "texte_balise": "hovering on the edge of time",
+      "bbox": [
+        1309.3,
+        1468.0,
+        1425.6,
+        1480.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        934.9,
+        1517.0,
+        988.4,
+        1542.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATHE",
+      "texte_balise": "LATHE",
+      "bbox": [
+        866.3,
+        1554.2,
+        1053.7,
+        1609.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "nova",
+      "texte_balise": "nova",
+      "bbox": [
+        130.2,
+        1584.4,
+        211.6,
+        1612.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "samuel r. delany",
+      "texte_balise": "samuel r. delany",
+      "bbox": [
+        130.2,
+        1614.6,
+        386.0,
+        1652.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heart",
+      "texte_balise": "Heart",
+      "bbox": [
+        467.2,
+        1630.3,
+        607.2,
+        1689.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0 F",
+      "texte_balise": "0 F",
+      "bbox": [
+        946.5,
+        1635.5,
+        981.4,
+        1663.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dhaigren",
+      "texte_balise": "Dhaigren",
+      "bbox": [
+        197.7,
+        1670.4,
+        244.2,
+        1684.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ofa Dog",
+      "texte_balise": "ofa Dog",
+      "bbox": [
+        469.8,
+        1689.0,
+        646.5,
+        1754.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEAVEN",
+      "texte_balise": "HEAVEN",
+      "bbox": [
+        872.0,
+        1690.6,
+        1049.0,
+        1729.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-The author of The Master and Margarita and Hearraf » Doz",
+      "texte_balise": "-The author of The Master and Margarita and Hearraf » Doz",
+      "bbox": [
+        458.1,
+        1754.0,
+        765.1,
+        1768.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVE",
+      "texte_balise": "A NOVE",
+      "bbox": [
+        941.9,
+        1761.0,
+        983.7,
+        1766.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "is one ofbefew truly great writers produced by",
+      "texte_balise": "is one ofbefew truly great writers produced by",
+      "bbox": [
+        488.3,
+        1772.1,
+        732.6,
+        1782.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Soviet Uaion.\"Saturday Rerien",
+      "texte_balise": "the Soviet Uaion.\"Saturday Rerien",
+      "bbox": [
+        518.6,
+        1786.6,
+        704.7,
+        1798.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Last Question",
+      "texte_balise": "The Last Question",
+      "bbox": [
+        1179.1,
+        1863.0,
+        1467.4,
+        1903.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A page-turner and a heartbreaker, a tour de force of knotted",
+      "texte_balise": "\"A page-turner and a heartbreaker, a tour de force of knotted",
+      "bbox": [
+        490.7,
+        1865.6,
+        734.9,
+        1877.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROADSIDE PICNIC",
+      "texte_balise": "ROADSIDE PICNIC",
+      "bbox": [
+        141.9,
+        1870.0,
+        397.7,
+        1905.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "teasion and buried angash.",
+      "texte_balise": "teasion and buried angash.",
+      "bbox": [
+        532.6,
+        1874.9,
+        648.8,
+        1889.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Two outstanding short novels by",
+      "texte_balise": "Two outstanding short novels by",
+      "bbox": [
+        167.4,
+        1909.7,
+        369.8,
+        1924.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "today's most popular Russian SF writers",
+      "texte_balise": "today's most popular Russian SF writers",
+      "bbox": [
+        141.9,
+        1923.7,
+        397.7,
+        1938.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASIMOV",
+      "texte_balise": "ASIMOV",
+      "bbox": [
+        1186.0,
+        1926.0,
+        1265.1,
+        2211.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TALE OF THE TROIKA",
+      "texte_balise": "TALE OF THE TROIKA",
+      "bbox": [
+        130.2,
+        1944.6,
+        407.0,
+        1977.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE INVENTION",
+      "texte_balise": "THE INVENTION",
+      "bbox": [
+        902.3,
+        1977.0,
+        1025.6,
+        1996.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arkady and Boris Strugalsky",
+      "texte_balise": "Arkady and Boris Strugalsky",
+      "bbox": [
+        179.1,
+        1986.0,
+        358.1,
+        2005.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Never Let Me",
+      "texte_balise": "Never Let Me",
+      "bbox": [
+        481.4,
+        1991.0,
+        746.5,
+        2026.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF MOREL",
+      "texte_balise": "OF MOREL",
+      "bbox": [
+        925.6,
+        1998.0,
+        1004.7,
+        2012.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction by",
+      "texte_balise": "Introduction by",
+      "bbox": [
+        232.6,
+        2000.0,
+        304.7,
+        2014.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "theodore Sturgcon",
+      "texte_balise": "theodore Sturgcon",
+      "bbox": [
+        216.2,
+        2013.9,
+        321.0,
+        2024.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADOLFO BIOY",
+      "texte_balise": "ADOLFO BIOY",
+      "bbox": [
+        916.3,
+        2018.9,
+        1016.3,
+        2033.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CASARES",
+      "texte_balise": "CASARES",
+      "bbox": [
+        932.5,
+        2037.4,
+        997.7,
+        2051.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Go",
+      "texte_balise": "Go",
+      "bbox": [
+        586.0,
+        2044.5,
+        644.2,
+        2079.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROLOGUE BY",
+      "texte_balise": "PROLOGUE BY",
+      "bbox": [
+        927.9,
+        2072.0,
+        1000.0,
+        2082.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "¡ORGE LUIS GORGES",
+      "texte_balise": "¡ORGE LUIS GORGES",
+      "bbox": [
+        916.3,
+        2084.0,
+        1016.3,
+        2096.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I NOVEL",
+      "texte_balise": "I NOVEL",
+      "bbox": [
+        634.9,
+        2121.0,
+        695.3,
+        2133.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kazuo Ishiguro",
+      "texte_balise": "Kazuo Ishiguro",
+      "bbox": [
+        472.1,
+        2209.0,
+        762.8,
+        2251.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Nightfall",
+      "texte_balise": "& Nightfall",
+      "bbox": [
+        1230.2,
+        2271.9,
+        1407.1,
+        2312.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

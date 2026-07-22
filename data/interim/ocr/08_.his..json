@@ -1,0 +1,993 @@
+{
+  "fichier": "08_.his..jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:26.760463+00:00",
+  "duree_s": 1.0,
+  "taille_origine": [
+    874,
+    1800
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 89,
+  "lignes": [
+    {
+      "texte": "Recommended History Books",
+      "texte_balise": "Recommended History Books",
+      "bbox": [
+        22.0,
+        22.0,
+        850.0,
+        88.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by the gentlemen on /his/.",
+      "texte_balise": "by the gentlemen on /his/.",
+      "bbox": [
+        24.0,
+        94.0,
+        708.0,
+        162.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "4chan.com's History Board",
+      "texte_balise": "4chan.com's History Board",
+      "bbox": [
+        20.0,
+        160.0,
+        802.0,
+        230.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXFORD WORLD'S CLASSICS",
+      "texte_balise": "OXFORD WORLD'S CLASSICS",
+      "bbox": [
+        566.0,
+        260.0,
+        746.0,
+        272.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC NATIONAL BESTSELLER",
+      "texte_balise": "THE CLASSIC NATIONAL BESTSELLER",
+      "bbox": [
+        42.0,
+        268.0,
+        252.0,
+        278.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOVER THRIPT EDITIONS",
+      "texte_balise": "DOVER THRIPT EDITIONS",
+      "bbox": [
+        306.0,
+        276.0,
+        502.0,
+        286.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOWARD ZINN",
+      "texte_balise": "HOWARD ZINN",
+      "bbox": [
+        40.0,
+        286.0,
+        252.0,
+        306.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERODOTUS",
+      "texte_balise": "HERODOTUS",
+      "bbox": [
+        616.0,
+        290.0,
+        698.0,
+        302.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HISTORIES",
+      "texte_balise": "THE HISTORIES",
+      "bbox": [
+        606.0,
+        308.0,
+        706.0,
+        320.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A new translation by Robin Waterficid",
+      "texte_balise": "A new translation by Robin Waterficid",
+      "bbox": [
+        594.0,
+        324.0,
+        718.0,
+        334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        386.0,
+        328.0,
+        428.0,
+        352.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEOPLE'S",
+      "texte_balise": "PEOPLE'S",
+      "bbox": [
+        54.0,
+        346.0,
+        242.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CALLIC WAR",
+      "texte_balise": "CALLIC WAR",
+      "bbox": [
+        315.8,
+        349.2,
+        490.2,
+        384.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORY",
+      "texte_balise": "HISTORY",
+      "bbox": [
+        54.0,
+        382.0,
+        240.0,
+        408.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        102.0,
+        416.0,
+        192.0,
+        434.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNITED",
+      "texte_balise": "UNITED",
+      "bbox": [
+        66.0,
+        440.0,
+        228.0,
+        466.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STATES",
+      "texte_balise": "STATES",
+      "bbox": [
+        73.8,
+        470.7,
+        220.2,
+        501.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS",
+      "texte_balise": "JULIUS",
+      "bbox": [
+        388.0,
+        518.0,
+        484.0,
+        544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORE THAN TWO MILLION COPIES SOLD",
+      "texte_balise": "MORE THAN TWO MILLION COPIES SOLD",
+      "bbox": [
+        48.0,
+        522.0,
+        248.0,
+        532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAESAR",
+      "texte_balise": "CAESAR",
+      "bbox": [
+        389.9,
+        543.5,
+        502.1,
+        570.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Historians say well vice it as a step fosand a colerat now versica",
+      "texte_balise": "\"Historians say well vice it as a step fosand a colerat now versica",
+      "bbox": [
+        50.0,
+        548.0,
+        242.0,
+        558.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "P.S.",
+      "texte_balise": "P.S.",
+      "bbox": [
+        236.0,
+        572.0,
+        254.0,
+        582.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ") MOOERNCLASSICS",
+      "texte_balise": ") MOOERNCLASSICS",
+      "bbox": [
+        116.0,
+        584.0,
+        180.0,
+        594.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HAPEKPLRENNEAL",
+      "texte_balise": "HAPEKPLRENNEAL",
+      "bbox": [
+        40.0,
+        588.0,
+        106.0,
+        592.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "YORK TIMES BESTSELLER",
+      "texte_balise": "YORK TIMES BESTSELLER",
+      "bbox": [
+        66.0,
+        626.0,
+        254.0,
+        638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW",
+      "texte_balise": "NEW",
+      "bbox": [
+        32.0,
+        628.0,
+        64.0,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIFTIETH ANNIVERSARY EDITION",
+      "texte_balise": "FIFTIETH ANNIVERSARY EDITION",
+      "bbox": [
+        300.0,
+        634.0,
+        510.0,
+        646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The scope and the explanatory power of this book are ancesding\"T Ne Bee",
+      "texte_balise": "The scope and the explanatory power of this book are ancesding\"T Ne Bee",
+      "bbox": [
+        34.0,
+        636.0,
+        252.0,
+        646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WINNER",
+      "texte_balise": "WINNER",
+      "bbox": [
+        78.0,
+        656.0,
+        120.0,
+        664.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PULITZER",
+      "texte_balise": "PULITZER",
+      "bbox": [
+        75.9,
+        671.5,
+        122.1,
+        682.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        380.0,
+        674.0,
+        426.0,
+        694.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RISE AND FALL",
+      "texte_balise": "RISE AND FALL",
+      "bbox": [
+        304.0,
+        694.0,
+        506.0,
+        722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW CHANCE AND",
+      "texte_balise": "HOW CHANCE AND",
+      "bbox": [
+        549.6,
+        719.7,
+        760.4,
+        760.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        365.8,
+        729.2,
+        442.2,
+        748.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIRD REICH",
+      "texte_balise": "THIRD REICH",
+      "bbox": [
+        296.0,
+        754.0,
+        512.0,
+        784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STUPIDITY HAVE",
+      "texte_balise": "STUPIDITY HAVE",
+      "bbox": [
+        549.8,
+        760.5,
+        760.2,
+        799.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUNS",
+      "texte_balise": "GUNS",
+      "bbox": [
+        75.9,
+        765.6,
+        198.1,
+        808.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HISTORY OF NAZI GERMANY",
+      "texte_balise": "A HISTORY OF NAZI GERMANY",
+      "bbox": [
+        332.0,
+        784.0,
+        476.0,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONO",
+      "texte_balise": "CONO",
+      "bbox": [
+        80.0,
+        788.0,
+        196.0,
+        804.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "HISIUKT UI NALI GERMANY",
+      "texte_balise": "HISIUKT UI NALI GERMANY",
+      "bbox": [
+        342.0,
+        788.0,
+        474.0,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHANGED HISTORY",
+      "texte_balise": "CHANGED HISTORY",
+      "bbox": [
+        552.0,
+        800.0,
+        760.0,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GERMS, AND",
+      "texte_balise": "GERMS, AND",
+      "bbox": [
+        34.3,
+        806.7,
+        259.1,
+        856.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HINGE FACTOR",
+      "texte_balise": "THE HINGE FACTOR",
+      "bbox": [
+        594.0,
+        838.0,
+        718.0,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEEL",
+      "texte_balise": "STEEL",
+      "bbox": [
+        79.6,
+        849.4,
+        212.8,
+        888.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The FATES of HUMAN SOCIETIES",
+      "texte_balise": "The FATES of HUMAN SOCIETIES",
+      "bbox": [
+        54.0,
+        906.0,
+        236.0,
+        918.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Doc efibe ront importunt mods cflintery doortion,\" - Thr Ya Turk Tierr",
+      "texte_balise": "\"Doc efibe ront importunt mods cflintery doortion,\" - Thr Ya Turk Tierr",
+      "bbox": [
+        314.0,
+        916.0,
+        494.0,
+        926.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "\"Oec efibe ron importunt modo efhistory doortion\" - Thr Na Tirk Tierr",
+      "texte_balise": "\"Oec efibe ron importunt modo efhistory doortion\" - Thr Na Tirk Tierr",
+      "bbox": [
+        314.0,
+        916.0,
+        494.0,
+        926.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WILLIAM L. SHIRER",
+      "texte_balise": "WILLIAM L. SHIRER",
+      "bbox": [
+        298.0,
+        926.0,
+        512.0,
+        952.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JARED DIAMOND",
+      "texte_balise": "JARED DIAMOND",
+      "bbox": [
+        43.6,
+        932.0,
+        242.2,
+        958.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERIK DURSC",
+      "texte_balise": "ERIK DURSC",
+      "bbox": [
+        594.0,
+        946.0,
+        676.0,
+        960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERIK DURSCHMIED",
+      "texte_balise": "ERIK DURSCHMIED",
+      "bbox": [
+        596.0,
+        946.0,
+        718.0,
+        962.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH A NEW INTRODUCTION BY RON ROSENBAUM",
+      "texte_balise": "WITH A NEW INTRODUCTION BY RON ROSENBAUM",
+      "bbox": [
+        310.0,
+        952.0,
+        498.0,
+        962.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITHE A NEW AFTERWORD ABOUT THE MODERN WOKLD",
+      "texte_balise": "WITHE A NEW AFTERWORD ABOUT THE MODERN WOKLD",
+      "bbox": [
+        46.0,
+        960.0,
+        244.0,
+        970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DENYING THE",
+      "texte_balise": "DENYING THE",
+      "bbox": [
+        300.0,
+        1010.0,
+        500.0,
+        1030.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        628.0,
+        1040.0,
+        680.0,
+        1058.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLOCAUST",
+      "texte_balise": "HOLOCAUST",
+      "bbox": [
+        300.0,
+        1044.0,
+        502.0,
+        1068.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "®",
+      "texte_balise": "®",
+      "bbox": [
+        484.0,
+        1068.0,
+        500.0,
+        1084.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUNS OF",
+      "texte_balise": "GUNS OF",
+      "bbox": [
+        567.8,
+        1068.8,
+        746.2,
+        1105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        382.0,
+        1108.0,
+        418.0,
+        1120.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUGUST",
+      "texte_balise": "AUGUST",
+      "bbox": [
+        562.0,
+        1116.0,
+        746.0,
+        1150.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Crowing",
+      "texte_balise": "\"Crowing",
+      "bbox": [
+        350.0,
+        1125.9,
+        444.0,
+        1142.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Assoul on",
+      "texte_balise": "Assoul on",
+      "bbox": [
+        348.0,
+        1146.0,
+        452.0,
+        1160.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Owibreak of World War 1",
+      "texte_balise": "The Owibreak of World War 1",
+      "bbox": [
+        596.0,
+        1160.0,
+        716.0,
+        1172.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Truth and",
+      "texte_balise": "Truth and",
+      "bbox": [
+        351.9,
+        1163.4,
+        450.1,
+        1180.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Memory",
+      "texte_balise": "Memory",
+      "bbox": [
+        362.0,
+        1184.0,
+        440.0,
+        1200.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Mx. Lipstedr's importest and Impanioned work",
+      "texte_balise": "-Mx. Lipstedr's importest and Impanioned work",
+      "bbox": [
+        324.0,
+        1244.0,
+        476.0,
+        1254.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDWARD GIBBON",
+      "texte_balise": "EDWARD GIBBON",
+      "bbox": [
+        86.0,
+        1280.0,
+        198.0,
+        1290.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEBORAH",
+      "texte_balise": "DEBORAH",
+      "bbox": [
+        332.0,
+        1284.0,
+        466.0,
+        1304.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of the Decline and Fall of",
+      "texte_balise": "The History of the Decline and Fall of",
+      "bbox": [
+        64.0,
+        1296.0,
+        224.0,
+        1312.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIPSTADT",
+      "texte_balise": "LIPSTADT",
+      "bbox": [
+        332.0,
+        1310.0,
+        466.0,
+        1328.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Roman Empire Volume I",
+      "texte_balise": "the Roman Empire Volume I",
+      "bbox": [
+        82.0,
+        1314.0,
+        206.0,
+        1328.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BARBARA W. TUCHMAN",
+      "texte_balise": "BARBARA W. TUCHMAN",
+      "bbox": [
+        556.0,
+        1326.0,
+        754.0,
+        1338.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with o New Prefece by the Auther",
+      "texte_balise": "with o New Prefece by the Auther",
+      "bbox": [
+        334.0,
+        1332.0,
+        466.0,
+        1346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        378.0,
+        1388.0,
+        434.0,
+        1414.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD",
+      "texte_balise": "RICHARD",
+      "bbox": [
+        56.0,
+        1396.0,
+        226.0,
+        1424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BELL CURVE",
+      "texte_balise": "BELL CURVE",
+      "bbox": [
+        293.9,
+        1415.8,
+        516.1,
+        1468.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN",
+      "texte_balise": "JOHN",
+      "bbox": [
+        601.9,
+        1419.7,
+        716.1,
+        1442.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAWKINS",
+      "texte_balise": "DAWKINS",
+      "bbox": [
+        39.9,
+        1427.3,
+        244.1,
+        1464.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEEGAN",
+      "texte_balise": "KEEGAN",
+      "bbox": [
+        552.0,
+        1448.0,
+        770.0,
+        1474.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intelligence and Class Structure",
+      "texte_balise": "Intelligence and Class Structure",
+      "bbox": [
+        298.0,
+        1468.0,
+        514.0,
+        1496.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in American Life",
+      "texte_balise": "in American Life",
+      "bbox": [
+        349.8,
+        1486.8,
+        466.2,
+        1511.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        108.0,
+        1494.0,
+        174.0,
+        1520.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOD",
+      "texte_balise": "GOD",
+      "bbox": [
+        44.0,
+        1528.0,
+        238.0,
+        1592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELUSION",
+      "texte_balise": "DELUSION",
+      "bbox": [
+        46.0,
+        1600.0,
+        236.0,
+        1630.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FACE",
+      "texte_balise": "THE FACE",
+      "bbox": [
+        580.0,
+        1640.0,
+        738.0,
+        1664.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD J. HERRNSTEIN",
+      "texte_balise": "RICHARD J. HERRNSTEIN",
+      "bbox": [
+        298.0,
+        1664.0,
+        518.0,
+        1694.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF BATTLE",
+      "texte_balise": "OF BATTLE",
+      "bbox": [
+        572.0,
+        1670.0,
+        748.0,
+        1696.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES MURRAY",
+      "texte_balise": "CHARLES MURRAY",
+      "bbox": [
+        324.0,
+        1690.0,
+        490.0,
+        1716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ".....",
+      "texte_balise": ".....",
+      "bbox": [
+        550.0,
+        1732.0,
+        764.0,
+        1736.0
+      ],
+      "confiance": 0.3
+    }
+  ]
+}

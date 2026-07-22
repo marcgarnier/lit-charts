@@ -1,0 +1,839 @@
+{
+  "fichier": "08_Asatru.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:37.941961+00:00",
+  "duree_s": 0.9,
+  "taille_origine": [
+    2989,
+    1598
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 75,
+  "lignes": [
+    {
+      "texte": "8chan /asatru/ Recommended Reading List for Beginners:",
+      "texte_balise": "8chan /asatru/ Recommended Reading List for Beginners:",
+      "bbox": [
+        21.7,
+        34.7,
+        981.9,
+        74.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1. Prose retellings of the Eddic Myths",
+      "texte_balise": "1. Prose retellings of the Eddic Myths",
+      "bbox": [
+        21.7,
+        125.9,
+        334.5,
+        152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2. The Poetic and Prose Eddas",
+      "texte_balise": "2. The Poetic and Prose Eddas",
+      "bbox": [
+        738.6,
+        125.9,
+        986.2,
+        148.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3the Sagas",
+      "texte_balise": "3the Sagas",
+      "bbox": [
+        1494.5,
+        130.0,
+        1603.1,
+        161.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        769.0,
+        217.1,
+        821.1,
+        243.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NJAL'S",
+      "texte_balise": "NJAL'S",
+      "bbox": [
+        2094.0,
+        230.1,
+        2176.6,
+        256.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dorse Muths",
+      "texte_balise": "Dorse Muths",
+      "bbox": [
+        23.1,
+        235.9,
+        147.4,
+        286.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETIC",
+      "texte_balise": "POETIC",
+      "bbox": [
+        751.3,
+        246.4,
+        838.8,
+        270.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAGA",
+      "texte_balise": "SAGA",
+      "bbox": [
+        2098.4,
+        256.2,
+        2167.9,
+        277.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDDA",
+      "texte_balise": "EDDA",
+      "bbox": [
+        755.9,
+        273.6,
+        829.8,
+        299.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Poetic Edda",
+      "texte_balise": "The Poetic Edda",
+      "bbox": [
+        734.2,
+        416.9,
+        842.8,
+        439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edda",
+      "texte_balise": "Edda",
+      "bbox": [
+        1025.3,
+        416.9,
+        1064.4,
+        438.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heimskrin ala",
+      "texte_balise": "Heimskrin ala",
+      "bbox": [
+        1776.9,
+        421.0,
+        1868.1,
+        434.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ane naren oven ora cods and heroes",
+      "texte_balise": "ane naren oven ora cods and heroes",
+      "bbox": [
+        325.8,
+        425.6,
+        612.6,
+        434.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "he scander.",
+      "texte_balise": "he scander.",
+      "bbox": [
+        1494.5,
+        425.6,
+        1642.2,
+        434.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Everyman Library Edition",
+      "texte_balise": "Everyman Library Edition",
+      "bbox": [
+        1021.0,
+        438.6,
+        1181.7,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Penguin Classics Deluxe Edition",
+      "texte_balise": "Penguin Classics Deluxe Edition",
+      "bbox": [
+        1494.5,
+        438.6,
+        1698.7,
+        460.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ev keven crossev-holland",
+      "texte_balise": "ev keven crossev-holland",
+      "bbox": [
+        17.4,
+        442.9,
+        186.8,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ev padrac Colum",
+      "texte_balise": "ev padrac Colum",
+      "bbox": [
+        321.5,
+        442.9,
+        438.8,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "translated ov lee. Hollander",
+      "texte_balise": "translated ov lee. Hollander",
+      "bbox": [
+        734.2,
+        442.9,
+        929.7,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History of the kinds of Norway",
+      "texte_balise": "History of the kinds of Norway",
+      "bbox": [
+        1781.2,
+        442.9,
+        1972.4,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Penguin classics on",
+      "texte_balise": "Penguin classics on",
+      "bbox": [
+        2072.3,
+        442.9,
+        2194.0,
+        452.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By JesseL. Byock (penguin Classics",
+      "texte_balise": "By JesseL. Byock (penguin Classics",
+      "bbox": [
+        2363.4,
+        442.9,
+        2585.0,
+        456.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lee M. Hollander Version",
+      "texte_balise": "Lee M. Hollander Version",
+      "bbox": [
+        2072.3,
+        456.0,
+        2237.4,
+        478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Translated ov eem. Hollande",
+      "texte_balise": "Translated ov eem. Hollande",
+      "bbox": [
+        1781.2,
+        460.0,
+        1972.4,
+        469.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(or whatever version you can",
+      "texte_balise": "(or whatever version you can",
+      "bbox": [
+        1781.2,
+        473.0,
+        1968.0,
+        495.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*Note: There are MANY different translations of these,",
+      "texte_balise": "*Note: There are MANY different translations of these,",
+      "bbox": [
+        773.3,
+        503.7,
+        1107.8,
+        525.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "is litera translation accuracy etc. nese arelust version",
+      "texte_balise": "is litera translation accuracy etc. nese arelust version",
+      "bbox": [
+        777.7,
+        547.0,
+        1129.6,
+        556.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "that most start math and arennewto Pee treeto explore",
+      "texte_balise": "that most start math and arennewto Pee treeto explore",
+      "bbox": [
+        773.3,
+        564.5,
+        1129.6,
+        573.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "other versions on your own.",
+      "texte_balise": "other versions on your own.",
+      "bbox": [
+        769.0,
+        577.5,
+        951.4,
+        599.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "4. Complimentary Readings and Termiolog emotor",
+      "texte_balise": "4. Complimentary Readings and Termiolog emotor",
+      "bbox": [
+        13.0,
+        594.9,
+        447.5,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "5. Worldview",
+      "texte_balise": "5. Worldview",
+      "bbox": [
+        1359.8,
+        594.9,
+        1477.1,
+        617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHOLOGY",
+      "texte_balise": "MYTHOLOGY",
+      "bbox": [
+        660.4,
+        720.8,
+        751.6,
+        738.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHS",
+      "texte_balise": "MYTHS",
+      "bbox": [
+        942.8,
+        720.8,
+        994.9,
+        742.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NORTHERN BUROPE",
+      "texte_balise": "NORTHERN BUROPE",
+      "bbox": [
+        30.4,
+        729.5,
+        130.3,
+        738.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SYMBOLS 2",
+      "texte_balise": "SYMBOLS 2",
+      "bbox": [
+        947.1,
+        742.5,
+        1038.3,
+        760.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gods and Myths of Northern Europe",
+      "texte_balise": "Gods and Myths of Northern Europe",
+      "bbox": [
+        21.7,
+        894.5,
+        252.0,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Norse Mythology:",
+      "texte_balise": "Norse Mythology:",
+      "bbox": [
+        321.5,
+        894.5,
+        438.8,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dictionary of Northern Mythology",
+      "texte_balise": "Dictionary of Northern Mythology",
+      "bbox": [
+        634.3,
+        894.5,
+        855.9,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Myths and Symbols in Pagan Europe:",
+      "texte_balise": "Myths and Symbols in Pagan Europe:",
+      "bbox": [
+        938.4,
+        894.5,
+        1173.0,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Culture of the Teutons",
+      "texte_balise": "The Culture of the Teutons",
+      "bbox": [
+        1716.1,
+        894.5,
+        1889.8,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Road to Hel - A Study of the Conception of the Dead in Old Norse Literature",
+      "texte_balise": "The Road to Hel - A Study of the Conception of the Dead in Old Norse Literature",
+      "bbox": [
+        2020.2,
+        894.5,
+        2524.1,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Germanization of Early Medieval Christianity",
+      "texte_balise": "The Germanization of Early Medieval Christianity",
+      "bbox": [
+        2637.1,
+        894.5,
+        2941.2,
+        916.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Guide to the Gods, Heroes, Rituals,",
+      "texte_balise": "A Guide to the Gods, Heroes, Rituals,",
+      "bbox": [
+        321.5,
+        911.9,
+        556.1,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Rudolk Simek",
+      "texte_balise": "By Rudolk Simek",
+      "bbox": [
+        634.3,
+        911.9,
+        747.2,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Volumes 1 and 2",
+      "texte_balise": "Volumes 1 and 2",
+      "bbox": [
+        1716.1,
+        911.9,
+        1824.7,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By H.R. Ellis Davidson",
+      "texte_balise": "By H.R. Ellis Davidson",
+      "bbox": [
+        2020.2,
+        911.9,
+        2163.5,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Sociohistorical Approach to",
+      "texte_balise": "A Sociohistorical Approach to",
+      "bbox": [
+        2637.1,
+        911.9,
+        2819.6,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By H. R. Ellis Davidson",
+      "texte_balise": "By H. R. Ellis Davidson",
+      "bbox": [
+        17.4,
+        916.0,
+        156.4,
+        929.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Religious Transformation",
+      "texte_balise": "Religious Transformation",
+      "bbox": [
+        2637.1,
+        929.0,
+        2793.5,
+        951.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Bellers",
+      "texte_balise": "and Bellers",
+      "bbox": [
+        325.8,
+        938.0,
+        395.3,
+        947.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "kelloions",
+      "texte_balise": "kelloions",
+      "bbox": [
+        938.4,
+        938.0,
+        994.9,
+        946.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "by vineim Gronbed",
+      "texte_balise": "by vineim Gronbed",
+      "bbox": [
+        1716.1,
+        938.0,
+        1846.4,
+        947.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "By James C. Russel",
+      "texte_balise": "By James C. Russel",
+      "bbox": [
+        2632.8,
+        951.0,
+        2754.4,
+        964.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ev Jonn Lindour",
+      "texte_balise": "ev Jonn Lindour",
+      "bbox": [
+        321.5,
+        955.0,
+        425.8,
+        964.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "вун. k. alis Davidsor",
+      "texte_balise": "вун. k. alis Davidsor",
+      "bbox": [
+        938.4,
+        955.0,
+        1073.1,
+        964.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "6. Being Heathen",
+      "texte_balise": "6. Being Heathen",
+      "bbox": [
+        21.7,
+        1033.0,
+        169.4,
+        1060.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Prisone ad ok yur epand upon the Heathen",
+      "texte_balise": "Prisone ad ok yur epand upon the Heathen",
+      "bbox": [
+        1359.8,
+        1033.0,
+        1594.4,
+        1068.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Believing in the godse the morninga Heathen and",
+      "texte_balise": "Believing in the godse the morninga Heathen and",
+      "bbox": [
+        21.7,
+        1050.9,
+        256.3,
+        1081.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Being A Pagan",
+      "texte_balise": "On Being A Pagan",
+      "bbox": [
+        312.8,
+        1137.7,
+        421.4,
+        1164.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEDERS",
+      "texte_balise": "BEDERS",
+      "bbox": [
+        912.3,
+        1137.7,
+        1034.0,
+        1194.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Summoning the Gods",
+      "texte_balise": "Summoning the Gods",
+      "bbox": [
+        17.4,
+        1337.0,
+        160.7,
+        1359.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Being a Pagan",
+      "texte_balise": "On Being a Pagan",
+      "bbox": [
+        312.8,
+        1337.0,
+        425.8,
+        1359.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Way of the Heathen:",
+      "texte_balise": "The Way of the Heathen:",
+      "bbox": [
+        595.2,
+        1337.0,
+        755.9,
+        1355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "We Are Our Deeds:",
+      "texte_balise": "We Are Our Deeds:",
+      "bbox": [
+        908.0,
+        1337.0,
+        1029.6,
+        1359.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he arke at Martin HAdenmar",
+      "texte_balise": "he arke at Martin HAdenmar",
+      "bbox": [
+        1655.2,
+        1341.8,
+        1850.7,
+        1350.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "By Alain de Benoist",
+      "texte_balise": "By Alain de Benoist",
+      "bbox": [
+        308.4,
+        1350.0,
+        438.9,
+        1377.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Handbook of Greater Theodism",
+      "texte_balise": "A Handbook of Greater Theodism",
+      "bbox": [
+        599.5,
+        1350.0,
+        812.4,
+        1377.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Elder heathenry,",
+      "texte_balise": "The Elder heathenry,",
+      "bbox": [
+        912.3,
+        1350.0,
+        1042.7,
+        1377.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Collin Cleary",
+      "texte_balise": "By Collin Cleary",
+      "bbox": [
+        17.3,
+        1350.2,
+        121.7,
+        1376.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "It's Ethic and Thew",
+      "texte_balise": "It's Ethic and Thew",
+      "bbox": [
+        912.3,
+        1372.0,
+        1025.3,
+        1394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Garman Lord",
+      "texte_balise": "By Garman Lord",
+      "bbox": [
+        599.5,
+        1376.5,
+        703.8,
+        1394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(particularly good for the worldview/",
+      "texte_balise": "(particularly good for the worldview/",
+      "bbox": [
+        599.5,
+        1389.6,
+        834.1,
+        1411.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "onosoonica meanse n me ater",
+      "texte_balise": "onosoonica meanse n me ater",
+      "bbox": [
+        599.5,
+        1415.6,
+        803.7,
+        1424.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "chapters)",
+      "texte_balise": "chapters)",
+      "bbox": [
+        599.5,
+        1433.0,
+        660.4,
+        1441.7
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

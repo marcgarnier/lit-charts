@@ -1,0 +1,657 @@
+{
+  "fichier": "28_Doomer.jpeg",
+  "date": "2026-07-21T19:28:36.713256+00:00",
+  "taille_origine": [
+    2593,
+    768
+  ],
+  "hauteur_ligne_mediane": 20.7,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 31,
+  "nb_noeuds": 52,
+  "tiers": [
+    "DOOMER /LIT/ CHART",
+    "U.S. MARINE",
+    "KNEE DEEP",
+    "DOOM BIBLE"
+  ],
+  "intitules_isoles": [
+    "Always Wear Eye Protection",
+    "i Bater ve my thank you for your purchase!"
+  ],
+  "blocs": [
+    {
+      "tier": "DOOMER /LIT/ CHART",
+      "bbox": [
+        35.2,
+        16.0,
+        1000.8,
+        297.6
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "MASTERS",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "THE FIRST BOOKINA FRRIYING SPACE TRIC",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "STARSHIP",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "The Satanic Bible",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "TROOPERS",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "Anton Szandor LaVey",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        },
+        {
+          "titre": "EDOOM",
+          "auteur": null,
+          "tier": "DOOMER /LIT/ CHART"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1505.9,
+        51.2,
+        1611.4,
+        67.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MCRP3-01A",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2295.7,
+        57.6,
+        2561.0,
+        157.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "U.S. MARINE CORPS",
+          "auteur": "SCOUT/SNIPER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1387.6,
+        112.0,
+        1573.1,
+        131.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FIELD MANUAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1119.1,
+        137.6,
+        1211.8,
+        192.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HOLY",
+          "auteur": "BIBLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2011.1,
+        147.0,
+        2215.7,
+        195.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE U.S. ALMIS MARINE CURPS",
+          "auteur": "Counterinsurgency",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1378.0,
+        160.0,
+        1582.7,
+        176.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RIFLE MARKSMANSHIP",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2231.7,
+        169.6,
+        2279.7,
+        189.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "T MAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "U.S. MARINE",
+      "bbox": [
+        1688.2,
+        192.0,
+        1988.7,
+        297.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CLOSE COMBAT FIGHTING",
+          "auteur": null,
+          "tier": "U.S. MARINE"
+        },
+        {
+          "titre": "HANDBOOK",
+          "auteur": null,
+          "tier": "U.S. MARINE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        585.0,
+        326.4,
+        751.4,
+        406.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Polt",
+          "auteur": "HEINLEIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        587.9,
+        338.2,
+        655.8,
+        365.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Robert A.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        60.7,
+        355.0,
+        236.6,
+        374.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DAVID KUSHNER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1924.8,
+        364.8,
+        2110.2,
+        471.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "MILITARY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EXPLOSIVES, TM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "9-1300-214, ARMY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MILITARY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MANUAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1403.6,
+        371.0,
+        1537.9,
+        397.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "U.S. Marine Corps.",
+          "auteur": "March 2001",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "KNEE DEEP",
+      "bbox": [
+        361.3,
+        374.0,
+        495.6,
+        429.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "IN THE DEAD",
+          "auteur": null,
+          "tier": "KNEE DEEP"
+        },
+        {
+          "titre": "& Novelby Dafyddab Hugl",
+          "auteur": null,
+          "tier": "KNEE DEEP"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1800.1,
+        444.8,
+        1844.8,
+        451.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KAVMC 2894",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        885.6,
+        470.0,
+        1071.1,
+        541.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GAME ENGINE",
+          "auteur": "BLACK BOOK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        607.4,
+        476.5,
+        786.6,
+        548.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GAME ENGINE",
+          "auteur": "BLACK BOOK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1637.0,
+        483.0,
+        1841.6,
+        506.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SMALL WARS MANUAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2126.2,
+        489.6,
+        2487.5,
+        675.2
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "PERATOR'S MANUAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LODELS:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "2100 & 2400",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ISOLINE POWERED CHAIN SAW",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Always Wear Eye Protection",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"THANKS!!\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "i Bater ve my thank you for your purchase!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a are a a disoring perace and macimum let from your amit.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1931.2,
+        505.6,
+        2100.6,
+        544.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "US Army and",
+          "auteur": "www.survivalebooks.com",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2382.0,
+        531.0,
+        2445.9,
+        547.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A WARNING:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        637.4,
+        584.1,
+        767.1,
+        627.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DOOM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        914.4,
+        595.0,
+        1045.5,
+        611.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WOLFENSTEIN 3D",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DOOM BIBLE",
+      "bbox": [
+        1298.1,
+        598.0,
+        1585.9,
+        698.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BY ToM HALL",
+          "auteur": null,
+          "tier": "DOOM BIBLE"
+        },
+        {
+          "titre": "REVISION NUMBER .02",
+          "auteur": null,
+          "tier": "DOOM BIBLE"
+        },
+        {
+          "titre": "11/28/92",
+          "auteur": "DATE",
+          "tier": "DOOM BIBLE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2113.4,
+        700.8,
+        2279.7,
+        739.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OULAN/WEED EATE",
+          "auteur": "Shreveport, Lonisiana 71139-9329",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        713.0,
+        707.0,
+        786.5,
+        726.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "1= EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        984.8,
+        710.0,
+        1067.9,
+        726.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "2nd EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1637.0,
+        710.0,
+        1723.3,
+        736.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "U.S. MARINE CORPS",
+          "auteur": "1940 EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        888.8,
+        716.8,
+        972.0,
+        723.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FARIEN SANGLARD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1864.0,
+        729.6,
+        2020.7,
+        749.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ARINE CORPS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

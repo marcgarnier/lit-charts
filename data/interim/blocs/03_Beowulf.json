@@ -1,0 +1,1444 @@
+{
+  "fichier": "03_Beowulf.jpeg",
+  "date": "2026-07-21T19:28:36.313607+00:00",
+  "taille_origine": [
+    1600,
+    2500
+  ],
+  "hauteur_ligne_mediane": 19.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 23,
+  "nb_noeuds": 227,
+  "tiers": [
+    "J.R.R."
+  ],
+  "intitules_isoles": [
+    "An EdITion",
+    "Bruce Minchell and Fred C. Rebinion",
+    "A little less exciting to read than Heaney",
+    "Exited by CHRISTOPHER TOLKIEN",
+    "Never intended for publication by Tolkien himself,",
+    "Like most Norton Critical Editions, includes good",
+    "\"Then we two were together in the",
+    "my foes; the woven war-garment, gold-adorned, covered my breast.",
+    "grim in his grasp, but it was granted to me to reach the monster",
+    "sword-thrusts, by blades done to death, so that never there-",
+    "bright; the waves were lulled, so that I could descry the",
+    "headlands out to sea and windy cliffs. Fate off saveth a man",
+    "not doomed to die, when his valour fails not."
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        60.5,
+        20.9,
+        1537.2,
+        74.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WHICH VERSION OF BEOWULF SHOULD I READ?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        315.9,
+        99.9,
+        1449.2,
+        244.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Some common editions compared on lines 544-573",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Recused",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Edition",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BEOWULF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SEAMUS HEANEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        141.8,
+        341.4,
+        358.2,
+        388.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BEOWULF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        158.1,
+        420.6,
+        337.2,
+        467.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An EdITion",
+          "auteur": "Bruce Minchell and Fred C. Rebinion",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1255.8,
+        560.0,
+        1427.9,
+        581.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SEAMUS HEANEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        148.8,
+        562.0,
+        383.7,
+        583.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MITCHELL & ROBINSON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        760.5,
+        564.7,
+        879.1,
+        583.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROY LIUZZA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        39.5,
+        608.9,
+        497.7,
+        1366.0
+      ],
+      "nb_lignes": 79,
+      "noeuds": [
+        {
+          "titre": "Old English edition with full glossary.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A dedicated student can probably learn to read",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "this level of OE after about 3-5 months of study.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "For that, try Baker's Introduction to Old English",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "or M&R's Guide to Old English.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(included for comparison purposes)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Đã wit tsomne on sa waeron",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "op pat unc flod tödraf",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "fif nihta fyrst",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "wado weallende",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "wedera cealdost",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ond norbanwind",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "nipende niht,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "heaoogrim ondhwearf;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hreo waron ypa.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Was merefixa",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "möd onhrered;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bar me wio läoum licsyrce min",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "heard hondlocen",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "helpe gefremede,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "on breostum læg",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "beadohrægl bröden",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "golde gegyrwed.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mé to grunde teah",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "fæste hafde",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "fah féondscaja, l",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hwæbre me gyfebe wearo",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "grim on grape;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bæt ic aglacan",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "orde gerahte",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hildebille;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "heaporas fornam",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "mightig meredéor",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "purh mine hand.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "laogeteonan",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Swā mec gelöme",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "breatedon pearle.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ic him benode",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Preateuon Peane.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "t pence",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "swa hit gedefe was.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "swā hit gedefe wæs.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "déoran sweorde",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Næs hie öære fylle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Næs hie oære fylle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "geféan hæfdon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "gefean hæfdon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "mänfordædlan",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bæt hie mē begon,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pat hie me pegon,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "symbel ymbsaton",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sægrunde neah",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "mēcum wunde",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ac on mergenne",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "be yolafe",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "uppe lægon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "uppe lagon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pat syopan nã",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "swordum aswefede",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pæt syöpan nã",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "brimliõende",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ymb brontne ford",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "brimliöende",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Leoht éastan cõm",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "läde ne letton.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Leoht eastan cõm",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "lade ne letton.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "beorht beacen godes,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "brimu swabredon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "geséon mihte",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pæt ic sanassas",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pæt ic sanæssas",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "geseon mihte",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "windige weallas.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Wyrd oft nere",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "unfægne eorl",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bonne his ellen deah.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "unfagne eorl",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ponne his ellen deah.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1137.2,
+        608.9,
+        1555.8,
+        746.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "The one everyone reads. Probably",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "provides the most pleasure,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "but not very accurate to the original.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sometimes called \"the Heaney-Wulf\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by those who think Heaney's poetic stylings",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "distort or embellish too much.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        572.1,
+        611.0,
+        1069.8,
+        727.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The most accurate translation available.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A little less exciting to read than Heaney",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "but preferable for close reading and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "academic work. Good footnotes. Get this if you",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "want to be sure what the Beowulf poet actually said.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        620.9,
+        769.0,
+        1069.8,
+        1366.5
+      ],
+      "nb_lignes": 31,
+      "noeuds": [
+        {
+          "titre": "'We two were together on the sea",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "for five nights, until the flood drove us apart,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "surging waves, coldest of weathers,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "darkening night, and a northern wind,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "knife-sharp, pushed against us. The seas were choppy;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the fishes of the sea were stirred up by it.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "There my coat of armor offered help,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hard, hand-locked, against those hostile ones,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "my woven battle-dress lay on my breast",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "adorned with gold. Down to the ocean floor",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a grisly foe dragged me, gripped me fast",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in his grim grasp, yet it was given to me",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to stab that monster with the point of my sword,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "my war-blade; the storm of battle took away",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "that mighty sea-beast, through my own hand.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Time and time again those terrible enemies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sorely threatened me. I served them well",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sorely inreatened me. I served them well",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with my dear sword, as they deserved.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "They got no joy from their gluttony,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "those wicked maneaters, when they tasted me,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sat down to their feast on the ocean floor -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "but in the morning, wounded by my blade,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "they were washed ashore by ocean waves,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "dazed by sword-blows, and since that day",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "they never hindered the passage of any",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sea-voyager. Light shone from the east,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "God's bright beacon; the waves grew calm,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "so that I could see the sea-cliffs,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the windswept capes. Wyrd often spares",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "an undoomed man, when his courage endures!",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1146.5,
+        769.0,
+        1558.1,
+        1366.5
+      ],
+      "nb_lignes": 32,
+      "noeuds": [
+        {
+          "titre": "\"Shoulder to shoulder, we struggled on",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "for five nights, until the long flow",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and pitch of the waves, the perishing cold,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "night falling and winds from the north",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "drove us apart. The deep boiled up",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and its wallowing sent the sea-brutes wild.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "My armor helped me to hold out;",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "my hard-ringed chain-mail, hand-forged and linked,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a fine, close-fitting filigree of gold,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "kept my safe when some ocean creature",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pulled me to the bottom. Pinioned fast",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and swathed in its grip, I was granted one",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "my sword plunged",
+          "auteur": "final chance",
+          "tier": null
+        },
+        {
+          "titre": "and the ordeal was over. Through my own hands,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the fury of battle had finished off the sea-beast.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Time and time again, foul things attacked me,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "lurking and stalking, but I lashed out,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "lurking and stalking, but lashed out,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "gave as good as I got with my sword.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "gave as good as got with my sword.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "My flesh was not for feasting on,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "there would be no monsters gnawing and gloating",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "over their banquet at the bottom of the sea.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Instead, in the morning, mangled and sleeping",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the sleep of the sword, they slopped and floated",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "like the ocean's leavings. From now on",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sailors would be safe, the deep-sea raids",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "were over for good. Light came from the east,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bright guarantee of God, and the waves",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "went quiet; I could see headlands",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and buffeted cliffs. Often, for undaunted courage,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "fate spares the man it has not already marked.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "J.R.R.",
+      "bbox": [
+        304.5,
+        1428.7,
+        497.9,
+        1547.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "TOLKIEN",
+          "auteur": null,
+          "tier": "J.R.R."
+        },
+        {
+          "titre": "BEOWULF",
+          "auteur": null,
+          "tier": "J.R.R."
+        },
+        {
+          "titre": "A TRANSLATION AN",
+          "auteur": null,
+          "tier": "J.R.R."
+        },
+        {
+          "titre": "NEAKY",
+          "auteur": null,
+          "tier": "J.R.R."
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1088.4,
+        1432.9,
+        1272.1,
+        1498.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BEOWULF",
+          "auteur": "A PROSE TRANSLATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1088.4,
+        1716.8,
+        1272.1,
+        1740.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TRAXALSTED SI E. TALEOT DONILOSOX",
+          "auteur": "EDITED EY NiCHOLAS HONE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        311.6,
+        1728.0,
+        495.3,
+        1768.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SELLIC SPELL",
+          "auteur": "Exited by CHRISTOPHER TOLKIEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1086.0,
+        1774.9,
+        1274.4,
+        1787.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "I NORTON CHITICAL EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        327.9,
+        1812.0,
+        481.4,
+        1835.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "J.R.R. TOLKIEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1055.8,
+        1835.0,
+        1297.7,
+        1856.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "E. TALBOT DONALDSON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        90.7,
+        1858.6,
+        716.3,
+        1968.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Never intended for publication by Tolkien himself,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "this may still be the preferred version for fans who",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "enjoy his prose style. Does not attempt to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "reproduce alliterative meter. Word choice is \"heroic,\" not modern,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and word order is often inverted for archaic effect.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        900.0,
+        1881.8,
+        1458.1,
+        1970.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A reliable prose translation. Word-for-word, it's the easiest",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of these editions to read, but I think it lacks flavor.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Like most Norton Critical Editions, includes good",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "critical essays and backup material.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        160.5,
+        1998.0,
+        681.4,
+        2477.0
+      ],
+      "nb_lignes": 24,
+      "noeuds": [
+        {
+          "titre": "\"Then we two were together in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sea five nights' space, until the tide drove us asunder, and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the boiling waters. The coldest of storms, glooming night,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "a wind from the north came with cruel onslaught against",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "us; rough were the waves. The hearts of the fishes of the sea",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "were stirred, and there the corslet on my flesh, links stoutly",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "wrought by hand, gave me aid against my foes; my woven",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "raiment of battle lapped my breast adorned with gold. To the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "abyss drew me a destroying foe accurséd, fast the grim thing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "held me in its gripe. Nonetheless, it was granted to me to find",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "that fell slayer with point of warlike sword; the battle's onset",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "destroyed that strong beast of the sea through this my hand.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Thus many a time deadly assailants menaced me grievously.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "With my beloved sword I ministered to them, as it was meet.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "In no wise had they joy in that banqueting, foul doers of ill",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "deeds, that they should devour me sitting round in feast nigh",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to the bottoms of the sea; nay, upon the morrow they lay",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "upon the shore in the flotsam of the waves, wounded with",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sword-thrusts, by blades done to death, so that never there-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "after might they about the steep straits molest the passage",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of seafaring men. Light came from the East, God's beacon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bright; the waves were lulled, so that I could descry the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "headlands out to sea and windy cliffs. Fate off saveth a man",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "not doomed to die, when his valour fails not.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        886.0,
+        2005.0,
+        1469.8,
+        2405.0
+      ],
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "\"Thus we were together on the sea for the time of five nights",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "until the flood drove us apart, the swelling sea, coldest of weathers,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "darkening night, and the north wind battle-grim turned against us:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "rough were the waves. The anger of the sea-fishes was roused.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Then my body-mail, hard and hand-linked, gave me help against",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "my foes; the woven war-garment, gold-adorned, covered my breast.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A fierce cruel attacker dragged me to the bottom, held me",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "grim in his grasp, but it was granted to me to reach the monster",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with my sword-point, my battle-blade. The war-stroke destroyed",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the mighty sea-beast - through my hand.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Thus often loathsome assailants pressed me hard. I served them",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with my good sword, as the right was. They had no joy at all of the feast,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the malice-workers, that they should eat me, sit around a banquet",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "near the sea-bottom. But in the morning, sword-wounded",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "they lay on the shore, left behind by the waves, put to sleep by",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the blade, so that thereafter they would never hinder the passage",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of sea-voyagers over the deep water. Light came from the east,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bright signal of God, the sea became still so that I might see",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the headlands, the windy walls of the sea. Fate often saves",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "an undoomed man when his courage is good.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

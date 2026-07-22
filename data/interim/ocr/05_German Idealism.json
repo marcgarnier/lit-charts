@@ -1,0 +1,784 @@
+{
+  "fichier": "05_German Idealism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:18.280066+00:00",
+  "duree_s": 0.6,
+  "taille_origine": [
+    1858,
+    763
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 70,
+  "lignes": [
+    {
+      "texte": "/lit/'s Guide to Philosophy",
+      "texte_balise": "/lit/'s Guide to Philosophy",
+      "bbox": [
+        0.0,
+        -0.0,
+        302.5,
+        30.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Part Five",
+      "texte_balise": "Part Five",
+      "bbox": [
+        1069.4,
+        2.6,
+        1137.0,
+        16.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "German Idealism",
+      "texte_balise": "German Idealism",
+      "bbox": [
+        313.3,
+        13.0,
+        432.1,
+        30.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Version 1",
+      "texte_balise": "Version 1",
+      "bbox": [
+        988.4,
+        16.0,
+        1053.2,
+        32.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Johann Fichte",
+      "texte_balise": "Johann Fichte",
+      "bbox": [
+        623.8,
+        42.9,
+        718.4,
+        56.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Friedrich Schleiermacher",
+      "texte_balise": "Friedrich Schleiermacher",
+      "bbox": [
+        869.6,
+        42.9,
+        1034.3,
+        56.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Schelling",
+      "texte_balise": "Schelling",
+      "bbox": [
+        1544.7,
+        43.1,
+        1606.8,
+        59.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Overview",
+      "texte_balise": "Overview",
+      "bbox": [
+        8.1,
+        45.8,
+        72.9,
+        59.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pessimism",
+      "texte_balise": "Pessimism",
+      "bbox": [
+        1326.0,
+        48.5,
+        1393.5,
+        56.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENCHINI@ CEASMICN",
+      "texte_balise": "PENCHINI@ CEASMICN",
+      "bbox": [
+        461.8,
+        69.9,
+        569.8,
+        78.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Not Depicted: The Conspiracy",
+      "texte_balise": "Not Depicted: The Conspiracy",
+      "bbox": [
+        1331.4,
+        72.8,
+        1525.8,
+        89.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the masing otumedarn the",
+      "texte_balise": "the masing otumedarn the",
+      "bbox": [
+        918.2,
+        80.9,
+        1042.4,
+        89.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "German Philosophy",
+      "texte_balise": "German Philosophy",
+      "bbox": [
+        248.5,
+        83.6,
+        380.8,
+        99.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GERMAN IDEALIST",
+      "texte_balise": "GERMAN IDEALIST",
+      "bbox": [
+        461.8,
+        83.6,
+        572.5,
+        97.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Agaisnt the Human Race'",
+      "texte_balise": "Agaisnt the Human Race'",
+      "bbox": [
+        1334.1,
+        88.9,
+        1498.8,
+        105.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Canb-ire",
+      "texte_balise": "Canb-ire",
+      "bbox": [
+        758.9,
+        91.7,
+        791.3,
+        105.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "pris:",
+      "texte_balise": "pris:",
+      "bbox": [
+        1245.0,
+        97.1,
+        1280.1,
+        110.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "1760-1860",
+      "texte_balise": "1760-1860",
+      "bbox": [
+        280.8,
+        99.6,
+        348.4,
+        113.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILOSOPHY",
+      "texte_balise": "PHILOSOPHY",
+      "bbox": [
+        475.3,
+        99.8,
+        556.3,
+        113.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Ligotti",
+      "texte_balise": "by Thomas Ligotti",
+      "bbox": [
+        1334.1,
+        104.9,
+        1452.9,
+        121.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "leuS Hivit",
+      "texte_balise": "leuS Hivit",
+      "bbox": [
+        758.9,
+        107.8,
+        788.6,
+        113.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "leseis",
+      "texte_balise": "leseis",
+      "bbox": [
+        1247.7,
+        107.8,
+        1280.1,
+        121.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Making of Modern",
+      "texte_balise": "The Making of Modern",
+      "bbox": [
+        907.4,
+        112.9,
+        1055.9,
+        129.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Legacy of Idealism",
+      "texte_balise": "The Legacy of Idealism",
+      "bbox": [
+        256.6,
+        115.8,
+        370.0,
+        129.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EW.J. Schelling",
+      "texte_balise": "EW.J. Schelling",
+      "bbox": [
+        1596.0,
+        118.6,
+        1642.0,
+        129.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bsiate",
+      "texte_balise": "Bsiate",
+      "bbox": [
+        1245.0,
+        124.0,
+        1269.3,
+        129.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Philsophy",
+      "texte_balise": "Philsophy",
+      "bbox": [
+        758.9,
+        126.7,
+        794.0,
+        140.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Theology (an Anthology),",
+      "texte_balise": "Theology (an Anthology),",
+      "bbox": [
+        910.1,
+        129.4,
+        1069.4,
+        145.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hikur",
+      "texte_balise": "Hikur",
+      "bbox": [
+        1242.3,
+        129.4,
+        1280.1,
+        142.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Fichte",
+      "texte_balise": "Fichte",
+      "bbox": [
+        656.2,
+        140.2,
+        688.6,
+        153.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Seluco/man Cnr",
+      "texte_balise": "Seluco/man Cnr",
+      "bbox": [
+        1128.8,
+        145.6,
+        1196.4,
+        159.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Foundations of Natural",
+      "texte_balise": "Foundations of Natural",
+      "bbox": [
+        656.2,
+        164.5,
+        799.4,
+        177.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hermurcuttes and",
+      "texte_balise": "Hermurcuttes and",
+      "bbox": [
+        1128.8,
+        166.8,
+        1255.8,
+        180.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Right",
+      "texte_balise": "Right",
+      "bbox": [
+        656.1,
+        183.0,
+        696.9,
+        199.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Criticiam",
+      "texte_balise": "Criticiam",
+      "bbox": [
+        1128.8,
+        183.3,
+        1193.7,
+        196.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Philosophical7e",
+      "texte_balise": "Philosophical7e",
+      "bbox": [
+        1593.0,
+        211.0,
+        1747.6,
+        242.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Investigations into",
+      "texte_balise": "Investigations into",
+      "bbox": [
+        1593.3,
+        239.7,
+        1731.1,
+        258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Essence of",
+      "texte_balise": "the Essence of",
+      "bbox": [
+        1593.3,
+        261.5,
+        1696.0,
+        277.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GERMAN IDEALISM",
+      "texte_balise": "GERMAN IDEALISM",
+      "bbox": [
+        43.2,
+        264.2,
+        207.9,
+        291.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Toxts in the Hihtoryenn",
+      "texte_balise": "Toxts in the Hihtoryenn",
+      "bbox": [
+        1115.3,
+        274.6,
+        1277.4,
+        302.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Human Freedom an",
+      "texte_balise": "Human Freedom an",
+      "bbox": [
+        1596.0,
+        282.6,
+        1744.6,
+        302.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCHLEIERMACHER",
+      "texte_balise": "SCHLEIERMACHER",
+      "bbox": [
+        915.5,
+        288.5,
+        1069.4,
+        312.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Philosophy)",
+      "texte_balise": "Philosophy)",
+      "bbox": [
+        1118.0,
+        291.2,
+        1196.4,
+        310.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREDERICK C. BEISER",
+      "texte_balise": "FREDERICK C. BEISER",
+      "bbox": [
+        70.2,
+        309.6,
+        183.6,
+        323.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ly Kon w. Cleons",
+      "texte_balise": "Ly Kon w. Cleons",
+      "bbox": [
+        931.7,
+        320.6,
+        1055.9,
+        337.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "(Note: Deeply influenced Nietzsche)",
+      "texte_balise": "(Note: Deeply influenced Nietzsche)",
+      "bbox": [
+        370.0,
+        366.5,
+        599.5,
+        382.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Schopenhauer",
+      "texte_balise": "By Schopenhauer",
+      "bbox": [
+        2.7,
+        372.1,
+        121.5,
+        385.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feuerbach",
+      "texte_balise": "Feuerbach",
+      "bbox": [
+        623.8,
+        372.1,
+        696.7,
+        385.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Note: Influenced Marx)",
+      "texte_balise": "(Note: Influenced Marx)",
+      "bbox": [
+        672.4,
+        390.5,
+        823.7,
+        407.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cho",
+      "texte_balise": "cho",
+      "bbox": [
+        236.5,
+        419.8,
+        261.5,
+        475.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Den",
+      "texte_balise": "Den",
+      "bbox": [
+        235.8,
+        471.5,
+        256.8,
+        528.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hauer",
+      "texte_balise": "hauer",
+      "bbox": [
+        235.0,
+        530.4,
+        259.9,
+        617.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARTHUR SCHOPENHAUER",
+      "texte_balise": "ARTHUR SCHOPENHAUER",
+      "bbox": [
+        418.6,
+        536.3,
+        550.9,
+        547.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the",
+      "texte_balise": "On the",
+      "bbox": [
+        291.7,
+        550.0,
+        356.5,
+        571.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WORLD AS",
+      "texte_balise": "THE WORLD AS",
+      "bbox": [
+        429.4,
+        552.3,
+        537.4,
+        569.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILL AND",
+      "texte_balise": "WILL AND",
+      "bbox": [
+        448.3,
+        568.7,
+        521.2,
+        585.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASIS of",
+      "texte_balise": "BASIS of",
+      "bbox": [
+        283.6,
+        571.3,
+        367.3,
+        596.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPRESENTATION",
+      "texte_balise": "REPRESENTATION",
+      "bbox": [
+        424.0,
+        585.1,
+        545.5,
+        598.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ESSENCE OF",
+      "texte_balise": "THE ESSENCE OF",
+      "bbox": [
+        699.5,
+        585.1,
+        831.8,
+        601.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORALITY",
+      "texte_balise": "MORALITY",
+      "bbox": [
+        261.9,
+        590.0,
+        380.9,
+        615.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANITY",
+      "texte_balise": "CHRISTIANITY",
+      "bbox": [
+        707.6,
+        601.2,
+        823.7,
+        617.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARTHUR SCHOPENHAUER",
+      "texte_balise": "ARTHUR SCHOPENHAUER",
+      "bbox": [
+        51.3,
+        609.2,
+        175.5,
+        623.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANKTASES BRONTTHE CERMANERY",
+      "texte_balise": "TRANKTASES BRONTTHE CERMANERY",
+      "bbox": [
+        421.3,
+        609.2,
+        545.5,
+        615.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EFJ.PAYNE",
+      "texte_balise": "EFJ.PAYNE",
+      "bbox": [
+        459.1,
+        617.4,
+        507.7,
+        628.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Esay and Aptorisns",
+      "texte_balise": "Esay and Aptorisns",
+      "bbox": [
+        75.6,
+        625.2,
+        148.5,
+        639.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arthur Schopenhauer",
+      "texte_balise": "Arthur Schopenhauer",
+      "bbox": [
+        264.7,
+        625.2,
+        383.5,
+        642.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INVR VOLTHE",
+      "texte_balise": "INVR VOLTHE",
+      "bbox": [
+        448.3,
+        636.2,
+        515.8,
+        642.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "GEORGE ELIOT. LUDWIG FEUERBACH",
+      "texte_balise": "GEORGE ELIOT. LUDWIG FEUERBACH",
+      "bbox": [
+        680.5,
+        644.2,
+        850.7,
+        658.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "List by Isabelle Huppert !!RpnwiFOnYO put into this format by Anon",
+      "texte_balise": "List by Isabelle Huppert !!RpnwiFOnYO put into this format by Anon",
+      "bbox": [
+        1390.8,
+        741.0,
+        1841.8,
+        755.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Next: More Modern Philosophy",
+      "texte_balise": "Next: More Modern Philosophy",
+      "bbox": [
+        21.6,
+        744.0,
+        224.1,
+        760.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

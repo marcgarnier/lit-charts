@@ -1,0 +1,60 @@
+{
+  "fichier": "19_China Mieville.jpeg",
+  "date": "2026-07-21T19:30:37.710622+00:00",
+  "nb_lignes_texte": 97,
+  "nb_caracteres": 1036,
+  "registres_actifs": [
+    "point_entree",
+    "optionnel",
+    "injonction"
+  ],
+  "score_total": 7,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 2,
+      "extraits": [
+        "Start with a",
+        "Start with that,"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 1,
+      "extraits": [
+        "If you want"
+      ]
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 4,
+      "extraits": [
+        "Just don't",
+        "Must",
+        "must",
+        "WHAT CHINA MIÉVILLE BOOK SHOULD I READ?"
+      ]
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

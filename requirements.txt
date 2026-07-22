@@ -15,3 +15,14 @@ transformers>=4.56.1,<5
 
 # Les phases 2c et 3 passent par Ollama, installé séparément
 # (https://ollama.com), avec les modèles qwen2.5vl:3b et llama3.1.
+
+# Analyse et figures.
+pandas
+scikit-learn
+networkx
+matplotlib
+
+# Rendu PDF de l'article (papier/build_pdf.py). Playwright pilote le
+# Chrome du système (channel="chrome") : aucun Chromium à télécharger.
+markdown
+playwright

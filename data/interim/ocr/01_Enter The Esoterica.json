@@ -1,0 +1,586 @@
+{
+  "fichier": "01_Enter The Esoterica.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:48:28.526657+00:00",
+  "duree_s": 0.4,
+  "taille_origine": [
+    400,
+    1400
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 52,
+  "lignes": [
+    {
+      "texte": "Dictionary",
+      "texte_balise": "Dictionary",
+      "bbox": [
+        257.5,
+        19.9,
+        323.3,
+        35.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Gnosis",
+      "texte_balise": "of Gnosis",
+      "bbox": [
+        263.8,
+        34.1,
+        320.9,
+        49.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Western",
+      "texte_balise": "& Western",
+      "bbox": [
+        259.8,
+        50.5,
+        322.9,
+        63.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Esotericism",
+      "texte_balise": "Esotericism",
+      "bbox": [
+        255.8,
+        65.1,
+        326.9,
+        77.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WESTERN",
+      "texte_balise": "WESTERN",
+      "bbox": [
+        38.4,
+        111.1,
+        113.9,
+        131.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESOTERICISM",
+      "texte_balise": "ESOTERICISM",
+      "bbox": [
+        40.6,
+        130.1,
+        140.1,
+        148.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A Guide for the Perplexed",
+      "texte_balise": "A Guide for the Perplexed",
+      "bbox": [
+        40.6,
+        156.7,
+        160.4,
+        169.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wouter J. Hanegraaff",
+      "texte_balise": "Wouter J. Hanegraaff",
+      "bbox": [
+        40.6,
+        181.0,
+        123.9,
+        193.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vouter ]. Hanegraaf",
+      "texte_balise": "Vouter ]. Hanegraaf",
+      "bbox": [
+        247.7,
+        227.9,
+        333.0,
+        240.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OLHO COLVE",
+      "texte_balise": "OLHO COLVE",
+      "bbox": [
+        259.9,
+        260.0,
+        318.8,
+        265.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Rociof van den Brock",
+      "texte_balise": "Rociof van den Brock",
+      "bbox": [
+        249.7,
+        266.6,
+        333.0,
+        279.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean-Pierre Brack",
+      "texte_balise": "Jean-Pierre Brack",
+      "bbox": [
+        253.8,
+        278.8,
+        326.9,
+        289.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENTER THE",
+      "texte_balise": "ENTER THE",
+      "bbox": [
+        93.4,
+        331.7,
+        298.5,
+        360.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESOTERICA",
+      "texte_balise": "ESOTERICA",
+      "bbox": [
+        93.4,
+        374.4,
+        300.5,
+        404.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THI WESTERN",
+      "texte_balise": "THI WESTERN",
+      "bbox": [
+        60.8,
+        467.7,
+        134.1,
+        482.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOUTER I. HANEGRAAFF",
+      "texte_balise": "WOUTER I. HANEGRAAFF",
+      "bbox": [
+        276.1,
+        482.0,
+        363.5,
+        492.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESOTERIC",
+      "texte_balise": "ESOTERIC",
+      "bbox": [
+        79.2,
+        482.3,
+        134.0,
+        496.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRADITIONS",
+      "texte_balise": "TRADITIONS",
+      "bbox": [
+        60.9,
+        498.3,
+        136.1,
+        513.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Esotericism",
+      "texte_balise": "Esotericism",
+      "bbox": [
+        278.2,
+        498.5,
+        353.3,
+        510.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "and the Academy",
+      "texte_balise": "and the Academy",
+      "bbox": [
+        278.2,
+        512.8,
+        387.8,
+        529.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN MYSTICISM",
+      "texte_balise": "WESTERN MYSTICISM",
+      "bbox": [
+        152.3,
+        537.0,
+        255.8,
+        547.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND ESOTERICISM",
+      "texte_balise": "AND ESOTERICISM",
+      "bbox": [
+        164.5,
+        547.0,
+        255.8,
+        558.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NICHOLAS GOODRICK-CLARKE",
+      "texte_balise": "NICHOLAS GOODRICK-CLARKE",
+      "bbox": [
+        14.2,
+        645.0,
+        134.0,
+        655.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN ESOTERICISM",
+      "texte_balise": "WESTERN ESOTERICISM",
+      "bbox": [
+        24.4,
+        761.0,
+        121.8,
+        771.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW AGE RELIGION",
+      "texte_balise": "NEW AGE RELIGION",
+      "bbox": [
+        276.1,
+        765.0,
+        375.6,
+        775.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        312.7,
+        775.3,
+        339.1,
+        783.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCIENCE OF RELIGION",
+      "texte_balise": "SCIENCE OF RELIGION",
+      "bbox": [
+        24.4,
+        779.0,
+        117.8,
+        792.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN CULTURE",
+      "texte_balise": "WESTERN CULTURE",
+      "bbox": [
+        276.1,
+        783.0,
+        375.6,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GNOSIS AND",
+      "texte_balise": "GNOSIS AND",
+      "bbox": [
+        160.3,
+        819.6,
+        243.8,
+        838.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERMETICISM",
+      "texte_balise": "HERMETICISM",
+      "bbox": [
+        156.3,
+        834.3,
+        247.7,
+        850.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ACCESS 10",
+      "texte_balise": "ACCESS 10",
+      "bbox": [
+        109.6,
+        907.6,
+        209.1,
+        932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN",
+      "texte_balise": "WESTERN",
+      "bbox": [
+        115.7,
+        931.7,
+        203.1,
+        950.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CSOTCRICISM",
+      "texte_balise": "CSOTCRICISM",
+      "bbox": [
+        111.7,
+        952.3,
+        215.2,
+        970.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THEOSOPHy.",
+      "texte_balise": "THEOSOPHy.",
+      "bbox": [
+        270.1,
+        1029.7,
+        371.6,
+        1045.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IMAGINATION,",
+      "texte_balise": "IMAGINATION,",
+      "bbox": [
+        261.9,
+        1043.9,
+        377.7,
+        1062.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRADITION",
+      "texte_balise": "TRADITION",
+      "bbox": [
+        276.1,
+        1060.2,
+        367.5,
+        1076.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Staties in Viesten Esotcricism.",
+      "texte_balise": "Staties in Viesten Esotcricism.",
+      "bbox": [
+        270.1,
+        1080.5,
+        373.6,
+        1091.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANTOINE EVRE",
+      "texte_balise": "ANTOINE EVRE",
+      "bbox": [
+        290.4,
+        1098.8,
+        351.3,
+        1109.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ANTOINE FAIVRE",
+      "texte_balise": "ANTOINE FAIVRE",
+      "bbox": [
+        132.0,
+        1107.0,
+        197.0,
+        1117.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Miel hOrie ther",
+      "texte_balise": "Miel hOrie ther",
+      "bbox": [
+        294.4,
+        1107.0,
+        351.3,
+        1115.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "cie",
+      "texte_balise": "cie",
+      "bbox": [
+        56.9,
+        1157.8,
+        77.2,
+        1168.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GOLDEN THREAD",
+      "texte_balise": "GOLDEN THREAD",
+      "bbox": [
+        6.1,
+        1168.0,
+        160.4,
+        1190.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        227.4,
+        1174.1,
+        259.9,
+        1186.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOLDEN",
+      "texte_balise": "GOLDEN",
+      "bbox": [
+        207.1,
+        1186.2,
+        280.2,
+        1200.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHAIN",
+      "texte_balise": "CHAIN",
+      "bbox": [
+        215.1,
+        1201.9,
+        272.2,
+        1215.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        140.1,
+        1218.9,
+        156.3,
+        1229.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Agelos",
+      "texte_balise": "Agelos",
+      "bbox": [
+        129.9,
+        1235.2,
+        160.4,
+        1249.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "avedon",
+      "texte_balise": "avedon",
+      "bbox": [
+        127.9,
+        1251.5,
+        158.4,
+        1263.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "of the",
+      "texte_balise": "of the",
+      "bbox": [
+        134.0,
+        1269.8,
+        156.3,
+        1282.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mystry",
+      "texte_balise": "Mystry",
+      "bbox": [
+        129.9,
+        1302.3,
+        160.4,
+        1316.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Traditions",
+      "texte_balise": "Traditions",
+      "bbox": [
+        121.8,
+        1320.6,
+        160.4,
+        1330.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JOSCELYN GODWIN",
+      "texte_balise": "JOSCELYN GODWIN",
+      "bbox": [
+        10.2,
+        1371.5,
+        156.3,
+        1384.0
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

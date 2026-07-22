@@ -1,0 +1,762 @@
+{
+  "fichier": "02_Intersectional Feminism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:27.325267+00:00",
+  "duree_s": 0.8,
+  "taille_origine": [
+    1200,
+    1200
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 68,
+  "lignes": [
+    {
+      "texte": "FEMINISM",
+      "texte_balise": "FEMINISM",
+      "bbox": [
+        35.8,
+        21.1,
+        282.2,
+        78.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        420.0,
+        68.0,
+        466.0,
+        94.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR THE",
+      "texte_balise": "FOR THE",
+      "bbox": [
+        98.0,
+        84.0,
+        216.0,
+        108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Class Ceiling",
+      "texte_balise": "Class Ceiling",
+      "bbox": [
+        420.0,
+        95.8,
+        572.0,
+        124.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "99%",
+      "texte_balise": "99%",
+      "bbox": [
+        34.0,
+        122.0,
+        284.0,
+        252.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Why it Pays to be Privileged",
+      "texte_balise": "Why it Pays to be Privileged",
+      "bbox": [
+        422.0,
+        126.0,
+        572.0,
+        142.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CN",
+      "texte_balise": "CN",
+      "bbox": [
+        826.0,
+        140.0,
+        856.0,
+        156.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WOMEN'S",
+      "texte_balise": "WOMEN'S",
+      "bbox": [
+        1032.0,
+        141.8,
+        1182.0,
+        172.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sam Friedman & Daniel Laurison",
+      "texte_balise": "Sam Friedman & Daniel Laurison",
+      "bbox": [
+        422.0,
+        152.0,
+        572.0,
+        162.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOUSING",
+      "texte_balise": "HOUSING",
+      "bbox": [
+        1030.0,
+        173.8,
+        1174.0,
+        200.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FORUM",
+      "texte_balise": "FORUM",
+      "bbox": [
+        1025.8,
+        203.3,
+        1144.2,
+        232.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Toward a Feminist",
+      "texte_balise": "Toward a Feminist",
+      "bbox": [
+        638.0,
+        242.0,
+        758.0,
+        256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophy of Economics",
+      "texte_balise": "Philosophy of Economics",
+      "bbox": [
+        636.0,
+        258.0,
+        794.0,
+        274.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A MANIFESTO",
+      "texte_balise": "A MANIFESTO",
+      "bbox": [
+        42.0,
+        286.0,
+        282.0,
+        316.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edited by",
+      "texte_balise": "Edited by",
+      "bbox": [
+        636.0,
+        286.0,
+        682.0,
+        298.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Drucilla K. Barker and",
+      "texte_balise": "Drucilla K. Barker and",
+      "bbox": [
+        636.0,
+        298.0,
+        758.0,
+        310.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edith Kuiper",
+      "texte_balise": "Edith Kuiper",
+      "bbox": [
+        636.0,
+        314.0,
+        706.0,
+        326.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CINZIA ARRUZZA",
+      "texte_balise": "CINZIA ARRUZZA",
+      "bbox": [
+        68.0,
+        352.0,
+        254.0,
+        372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TITHI BHATTACHARYA",
+      "texte_balise": "TITHI BHATTACHARYA",
+      "bbox": [
+        40.0,
+        372.0,
+        282.0,
+        392.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "No concomes",
+      "texte_balise": "No concomes",
+      "bbox": [
+        110.0,
+        426.0,
+        166.0,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MUNICIPAL",
+      "texte_balise": "MUNICIPAL",
+      "bbox": [
+        919.8,
+        429.1,
+        1165.2,
+        490.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Kenneth Galbraith",
+      "texte_balise": "John Kenneth Galbraith",
+      "bbox": [
+        64.0,
+        446.0,
+        174.0,
+        458.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOMEN",
+      "texte_balise": "WOMEN",
+      "bbox": [
+        86.0,
+        464.0,
+        284.0,
+        544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INVISIBLE",
+      "texte_balise": "INVISIBLE",
+      "bbox": [
+        368.0,
+        490.0,
+        542.0,
+        514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DREAMS",
+      "texte_balise": "DREAMS",
+      "bbox": [
+        956.0,
+        500.0,
+        1134.0,
+        564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COUNTED",
+      "texte_balise": "COUNTED",
+      "bbox": [
+        27.9,
+        511.8,
+        270.1,
+        588.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOMEN",
+      "texte_balise": "WOMEN",
+      "bbox": [
+        390.0,
+        517.8,
+        518.0,
+        542.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diane Reay",
+      "texte_balise": "Diane Reay",
+      "bbox": [
+        630.0,
+        540.0,
+        736.0,
+        568.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXPOSING",
+      "texte_balise": "EXPOSING",
+      "bbox": [
+        414.0,
+        558.0,
+        494.0,
+        570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Miseducation",
+      "texte_balise": "Miseducation",
+      "bbox": [
+        629.5,
+        569.1,
+        846.5,
+        614.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DATA BIAS",
+      "texte_balise": "DATA BIAS",
+      "bbox": [
+        412.0,
+        574.0,
+        496.0,
+        586.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN A WORLD",
+      "texte_balise": "IN A WORLD",
+      "bbox": [
+        408.0,
+        590.0,
+        500.0,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NEW FEMINIST ECONOMICS",
+      "texte_balise": "A NEW FEMINIST ECONOMICS",
+      "bbox": [
+        40.0,
+        594.0,
+        266.0,
+        612.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE RISE AND FALL",
+      "texte_balise": "THE RISE AND FALL",
+      "bbox": [
+        966.0,
+        598.0,
+        1120.0,
+        620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DESIGNED",
+      "texte_balise": "DESIGNED",
+      "bbox": [
+        414.0,
+        607.8,
+        494.0,
+        622.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF COUNCIL HOUSING",
+      "texte_balise": "OF COUNCIL HOUSING",
+      "bbox": [
+        958.0,
+        620.0,
+        1128.0,
+        644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inequality, education and the working classes",
+      "texte_balise": "Inequality, education and the working classes",
+      "bbox": [
+        632.0,
+        622.0,
+        846.0,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR MEN",
+      "texte_balise": "FOR MEN",
+      "bbox": [
+        418.0,
+        626.0,
+        488.0,
+        638.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 =T",
+      "texte_balise": "1 =T",
+      "bbox": [
+        1066.0,
+        648.0,
+        1144.0,
+        676.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CAROLINE",
+      "texte_balise": "CAROLINE",
+      "bbox": [
+        378.0,
+        652.0,
+        532.0,
+        676.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN",
+      "texte_balise": "JOHN",
+      "bbox": [
+        999.9,
+        679.8,
+        1116.1,
+        718.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRIADO",
+      "texte_balise": "CRIADO",
+      "bbox": [
+        396.0,
+        680.0,
+        520.0,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARILYN WARING",
+      "texte_balise": "MARILYN WARING",
+      "bbox": [
+        38.0,
+        692.0,
+        266.0,
+        728.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEREZ",
+      "texte_balise": "PEREZ",
+      "bbox": [
+        404.0,
+        705.8,
+        504.0,
+        728.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOUGHTON",
+      "texte_balise": "BOUGHTON",
+      "bbox": [
+        958.0,
+        727.8,
+        1124.0,
+        762.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTION BY",
+      "texte_balise": "INTRODUCTION BY",
+      "bbox": [
+        38.0,
+        736.0,
+        266.0,
+        752.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "P",
+      "texte_balise": "P",
+      "bbox": [
+        846.0,
+        750.0,
+        862.0,
+        768.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GLORIA STEINEM",
+      "texte_balise": "GLORIA STEINEM",
+      "bbox": [
+        40.0,
+        752.0,
+        266.0,
+        782.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feminist",
+      "texte_balise": "Feminist",
+      "bbox": [
+        643.7,
+        808.9,
+        730.3,
+        835.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"AS USEFULAN EXPOSITION OF THE CURRENT",
+      "texte_balise": "\"AS USEFULAN EXPOSITION OF THE CURRENT",
+      "bbox": [
+        32.0,
+        830.0,
+        278.0,
+        842.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DILEMMAS OF THE WOMEN'S MOVEMENT",
+      "texte_balise": "DILEMMAS OF THE WOMEN'S MOVEMENT",
+      "bbox": [
+        42.0,
+        842.0,
+        272.0,
+        854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AS ONE COULD HOPE FOR: SANGES THES BOOK MVEY",
+      "texte_balise": "AS ONE COULD HOPE FOR: SANGES THES BOOK MVEY",
+      "bbox": [
+        34.0,
+        854.0,
+        280.0,
+        866.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thinking",
+      "texte_balise": "Thinking",
+      "bbox": [
+        742.0,
+        866.0,
+        832.0,
+        896.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANGELA",
+      "texte_balise": "ANGELA",
+      "bbox": [
+        21.6,
+        872.7,
+        288.4,
+        951.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEXUAL DEMOCRACY",
+      "texte_balise": "SEXUAL DEMOCRACY",
+      "bbox": [
+        354.0,
+        890.0,
+        512.0,
+        906.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Women, Oppression,",
+      "texte_balise": "Women, Oppression,",
+      "bbox": [
+        354.0,
+        912.0,
+        466.0,
+        924.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Revolution",
+      "texte_balise": "and Revolution",
+      "bbox": [
+        354.0,
+        928.0,
+        434.0,
+        938.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "About",
+      "texte_balise": "About",
+      "bbox": [
+        666.0,
+        928.0,
+        730.0,
+        948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Y.DAVIS",
+      "texte_balise": "Y.DAVIS",
+      "bbox": [
+        31.2,
+        931.5,
+        272.8,
+        1012.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Work",
+      "texte_balise": "Work",
+      "bbox": [
+        765.9,
+        979.8,
+        820.1,
+        1004.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOMEN",
+      "texte_balise": "WOMEN",
+      "bbox": [
+        32.0,
+        1010.0,
+        288.0,
+        1076.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANN FERGUSON",
+      "texte_balise": "ANN FERGUSON",
+      "bbox": [
+        354.0,
+        1028.0,
+        442.0,
+        1040.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Social Reaction O",
+      "texte_balise": "Social Reaction O",
+      "bbox": [
+        640.0,
+        1042.0,
+        882.0,
+        1062.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BRACE",
+      "texte_balise": "BRACE",
+      "bbox": [
+        42.0,
+        1072.0,
+        240.0,
+        1132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and its Critics",
+      "texte_balise": "and its Critics",
+      "bbox": [
+        731.7,
+        1100.2,
+        826.3,
+        1121.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNHRC",
+      "texte_balise": "UNHRC",
+      "bbox": [
+        940.0,
+        1110.0,
+        1134.0,
+        1146.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "&CIASS",
+      "texte_balise": "&CIASS",
+      "bbox": [
+        47.8,
+        1127.3,
+        268.2,
+        1184.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Susan Ferguson",
+      "texte_balise": "Susan Ferguson",
+      "bbox": [
+        689.3,
+        1155.2,
+        840.3,
+        1181.3
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

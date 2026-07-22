@@ -1,0 +1,949 @@
+{
+  "fichier": "12_Christian History.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:05.716567+00:00",
+  "duree_s": 1.2,
+  "taille_origine": [
+    1904,
+    1920
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 85,
+  "lignes": [
+    {
+      "texte": "Starter Kit for: Christian History",
+      "texte_balise": "Starter Kit for: Christian History",
+      "bbox": [
+        253.9,
+        55.6,
+        1547.0,
+        151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN JULIUS",
+      "texte_balise": "JOHN JULIUS",
+      "bbox": [
+        1533.2,
+        234.8,
+        1732.4,
+        265.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reformation",
+      "texte_balise": "Reformation",
+      "bbox": [
+        1062.6,
+        237.0,
+        1264.8,
+        279.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NORWICH",
+      "texte_balise": "NORWICH",
+      "bbox": [
+        1557.9,
+        264.2,
+        1710.5,
+        293.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EUROPE'S HOUSE DIVIDED",
+      "texte_balise": "EUROPE'S HOUSE DIVIDED",
+      "bbox": [
+        1082.1,
+        287.0,
+        1245.3,
+        301.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Glorious... Sharp, fun and",
+      "texte_balise": "Glorious... Sharp, fun and",
+      "bbox": [
+        1585.7,
+        292.8,
+        1682.6,
+        307.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1490-1700",
+      "texte_balise": "1490-1700",
+      "bbox": [
+        1082.1,
+        303.8,
+        1245.3,
+        331.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wonderfully erergetic",
+      "texte_balise": "wonderfully erergetic",
+      "bbox": [
+        1591.3,
+        306.6,
+        1674.3,
+        320.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Scarstar",
+      "texte_balise": "Scarstar",
+      "bbox": [
+        1602.3,
+        317.6,
+        1649.4,
+        334.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1594.0,
+        339.7,
+        1674.3,
+        372.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A History of",
+      "texte_balise": "A History of",
+      "bbox": [
+        614.2,
+        347.4,
+        769.5,
+        384.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chrisianity",
+      "texte_balise": "Chrisianity",
+      "bbox": [
+        578.2,
+        371.7,
+        811.1,
+        423.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POPE",
+      "texte_balise": "POPE",
+      "bbox": [
+        1519.2,
+        377.8,
+        1713.2,
+        434.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Silence",
+      "texte_balise": "Silence",
+      "bbox": [
+        160.3,
+        444.1,
+        293.5,
+        486.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HISTORY",
+      "texte_balise": "A HISTORY",
+      "bbox": [
+        1583.0,
+        466.8,
+        1685.4,
+        483.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Christian History",
+      "texte_balise": "A Christian History",
+      "bbox": [
+        140.5,
+        481.4,
+        313.5,
+        511.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIARMAID MACCULLOCH",
+      "texte_balise": "DIARMAID MACCULLOCH",
+      "bbox": [
+        1073.8,
+        491.7,
+        1256.4,
+        505.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A highly readable book!",
+      "texte_balise": "\"A highly readable book!",
+      "bbox": [
+        1585.7,
+        511.0,
+        1677.1,
+        525.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sunday Times",
+      "texte_balise": "Sunday Times",
+      "bbox": [
+        1607.9,
+        522.0,
+        1660.5,
+        536.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diarmaid",
+      "texte_balise": "Diarmaid",
+      "bbox": [
+        154.8,
+        523.9,
+        288.0,
+        553.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diarmaid",
+      "texte_balise": "Diarmaid",
+      "bbox": [
+        636.5,
+        535.7,
+        758.3,
+        563.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MacCulloch",
+      "texte_balise": "MacCulloch",
+      "bbox": [
+        146.5,
+        551.7,
+        304.5,
+        580.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MacCulloch",
+      "texte_balise": "MacCulloch",
+      "bbox": [
+        611.4,
+        559.7,
+        783.4,
+        592.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Silence: A Christian History",
+      "texte_balise": "Silence: A Christian History",
+      "bbox": [
+        44.3,
+        627.0,
+        398.5,
+        657.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reformation: Europe's",
+      "texte_balise": "Reformation: Europe's",
+      "bbox": [
+        1012.9,
+        627.0,
+        1303.5,
+        657.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Popes: A History",
+      "texte_balise": "The Popes: A History",
+      "bbox": [
+        1494.4,
+        627.0,
+        1771.2,
+        657.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A History of Christianity",
+      "texte_balise": "A History of Christianity",
+      "bbox": [
+        548.0,
+        629.8,
+        852.4,
+        660.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diarmaid MacCulloch",
+      "texte_balise": "Diarmaid MacCulloch",
+      "bbox": [
+        74.7,
+        665.7,
+        351.5,
+        693.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "House Divided 1490-1700",
+      "texte_balise": "House Divided 1490-1700",
+      "bbox": [
+        1012.9,
+        665.7,
+        1358.8,
+        693.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Julius Norwich",
+      "texte_balise": "John Julius Norwich",
+      "bbox": [
+        1497.2,
+        665.7,
+        1760.1,
+        693.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diarmaid MacCulloch",
+      "texte_balise": "Diarmaid MacCulloch",
+      "bbox": [
+        550.7,
+        671.0,
+        827.5,
+        699.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diarmaid MacCulloch",
+      "texte_balise": "Diarmaid MacCulloch",
+      "bbox": [
+        1032.3,
+        704.0,
+        1311.8,
+        729.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH A NEW FOREWORD",
+      "texte_balise": "WITH A NEW FOREWORD",
+      "bbox": [
+        617.1,
+        820.0,
+        769.3,
+        837.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wil-knit naratime thronth an hormone had of bietore on",
+      "texte_balise": "wil-knit naratime thronth an hormone had of bietore on",
+      "bbox": [
+        1513.8,
+        831.0,
+        1718.6,
+        840.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Been the heeling ither of The Testand Hatern the",
+      "texte_balise": "Been the heeling ither of The Testand Hatern the",
+      "bbox": [
+        1073.8,
+        842.0,
+        1250.9,
+        851.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MICHAEL HAAG",
+      "texte_balise": "MICHAEL HAAG",
+      "bbox": [
+        1558.1,
+        845.0,
+        1685.4,
+        859.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Accaimed Author of The First Crusad",
+      "texte_balise": "Accaimed Author of The First Crusad",
+      "bbox": [
+        622.7,
+        851.0,
+        761.0,
+        859.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL HAAG",
+      "texte_balise": "MICHAEL HAAG",
+      "bbox": [
+        1073.8,
+        853.5,
+        1253.7,
+        870.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS ASBRIDGE",
+      "texte_balise": "THOMAS ASBRIDGE",
+      "bbox": [
+        586.7,
+        861.8,
+        799.8,
+        881.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TH E",
+      "texte_balise": "TH E",
+      "bbox": [
+        1140.2,
+        883.9,
+        1190.0,
+        898.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1140.2,
+        884.2,
+        1190.0,
+        900.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        664.2,
+        892.2,
+        722.3,
+        919.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAGEDY",
+      "texte_balise": "TRAGEDY",
+      "bbox": [
+        1073.8,
+        906.0,
+        1253.7,
+        930.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRUSADES",
+      "texte_balise": "CRUSADES",
+      "bbox": [
+        581.0,
+        910.5,
+        808.3,
+        953.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        1118.0,
+        936.0,
+        1212.1,
+        953.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E",
+      "texte_balise": "E",
+      "bbox": [
+        1630.0,
+        947.7,
+        1646.6,
+        964.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TEMPLARS",
+      "texte_balise": "TEMPLARS",
+      "bbox": [
+        1068.2,
+        958.5,
+        1259.2,
+        986.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WAR FOR THE HOLY LAND",
+      "texte_balise": "THE WAR FOR THE HOLY LAND",
+      "bbox": [
+        606.1,
+        961.0,
+        780.4,
+        975.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crusades",
+      "texte_balise": "Crusades",
+      "bbox": [
+        99.5,
+        968.8,
+        335.0,
+        1011.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEMPLARS",
+      "texte_balise": "TEMPLARS",
+      "bbox": [
+        1502.7,
+        969.5,
+        1746.3,
+        1005.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "crusades",
+      "texte_balise": "crusades",
+      "bbox": [
+        96.9,
+        972.6,
+        334.9,
+        1016.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Historv",
+      "texte_balise": "A Historv",
+      "bbox": [
+        207.4,
+        1005.0,
+        326.7,
+        1036.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A History",
+      "texte_balise": "A History",
+      "bbox": [
+        202.0,
+        1008.0,
+        326.6,
+        1039.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HISTORY & MYTH",
+      "texte_balise": "HISTORY & MYTH",
+      "bbox": [
+        1555.3,
+        1008.0,
+        1685.4,
+        1022.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Rise and Foll",
+      "texte_balise": "The Rise and Foll",
+      "bbox": [
+        1104.2,
+        1024.8,
+        1226.0,
+        1041.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "From Solomon's Temole to the Freemasons.",
+      "texte_balise": "From Solomon's Temole to the Freemasons.",
+      "bbox": [
+        1533.2,
+        1033.0,
+        1707.5,
+        1039.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Crusader States",
+      "texte_balise": "of the Crusader States",
+      "bbox": [
+        1090.4,
+        1038.6,
+        1239.8,
+        1055.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2 guide to Tempiat History, Culture and Locations",
+      "texte_balise": "2 guide to Tempiat History, Culture and Locations",
+      "bbox": [
+        1522.1,
+        1044.0,
+        1721.3,
+        1050.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Riley Smith",
+      "texte_balise": "Jonathan Riley Smith",
+      "bbox": [
+        91.3,
+        1094.0,
+        307.2,
+        1125.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Templars: History & Myth",
+      "texte_balise": "The Templars: History & Myth",
+      "bbox": [
+        1447.4,
+        1207.0,
+        1832.0,
+        1246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Crusades: A History",
+      "texte_balise": "The Crusades: A History",
+      "bbox": [
+        52.1,
+        1212.9,
+        371.4,
+        1249.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Crusades: The War for the",
+      "texte_balise": "The Crusades: The War for the",
+      "bbox": [
+        517.5,
+        1212.9,
+        918.8,
+        1241.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tragedy of the Templars:",
+      "texte_balise": "The Tragedy of the Templars:",
+      "bbox": [
+        993.5,
+        1212.9,
+        1383.7,
+        1246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Rise and Fall of the",
+      "texte_balise": "The Rise and Fall of the",
+      "bbox": [
+        993.5,
+        1248.8,
+        1303.5,
+        1276.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Land",
+      "texte_balise": "Holy Land",
+      "bbox": [
+        517.4,
+        1250.9,
+        650.5,
+        1282.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Haag",
+      "texte_balise": "Michael Haag",
+      "bbox": [
+        1538.6,
+        1254.0,
+        1718.6,
+        1287.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Riley-Smith",
+      "texte_balise": "Jonathan Riley-Smith",
+      "bbox": [
+        69.2,
+        1259.8,
+        348.7,
+        1290.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crusader States",
+      "texte_balise": "Crusader States",
+      "bbox": [
+        996.3,
+        1287.0,
+        1209.4,
+        1315.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Asbridge",
+      "texte_balise": "Thomas Asbridge",
+      "bbox": [
+        517.5,
+        1295.8,
+        747.2,
+        1326.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Haag",
+      "texte_balise": "Michael Haag",
+      "bbox": [
+        1001.8,
+        1328.6,
+        1181.7,
+        1362.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Proc",
+      "texte_balise": "Proc",
+      "bbox": [
+        650.3,
+        1442.1,
+        686.3,
+        1461.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EUSEBIUS",
+      "texte_balise": "EUSEBIUS",
+      "bbox": [
+        655.7,
+        1723.1,
+        725.2,
+        1738.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAINT AUGUSTINE",
+      "texte_balise": "SAINT AUGUSTINE",
+      "bbox": [
+        1560.8,
+        1729.0,
+        1693.7,
+        1743.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Early Christian Lives",
+      "texte_balise": "Early Christian Lives",
+      "bbox": [
+        155.0,
+        1732.0,
+        257.4,
+        1749.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACOBUS DE VORAGINE",
+      "texte_balise": "JACOBUS DE VORAGINE",
+      "bbox": [
+        1068.2,
+        1734.9,
+        1242.6,
+        1749.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of the Church",
+      "texte_balise": "The History of the Church",
+      "bbox": [
+        628.2,
+        1746.0,
+        752.7,
+        1763.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden Legend",
+      "texte_balise": "The Golden Legend",
+      "bbox": [
+        1107.0,
+        1757.0,
+        1203.8,
+        1774.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions",
+      "texte_balise": "Confessions",
+      "bbox": [
+        1594.0,
+        1757.0,
+        1660.5,
+        1770.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Early Christian Lives",
+      "texte_balise": "Early Christian Lives",
+      "bbox": [
+        72.0,
+        1815.0,
+        337.6,
+        1845.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of the Chruch",
+      "texte_balise": "The History of the Chruch",
+      "bbox": [
+        528.6,
+        1817.8,
+        863.4,
+        1848.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golden Legend",
+      "texte_balise": "The Golden Legend",
+      "bbox": [
+        1026.7,
+        1817.8,
+        1286.9,
+        1851.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions",
+      "texte_balise": "Confessions",
+      "bbox": [
+        1544.2,
+        1820.6,
+        1707.5,
+        1845.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jacobus De Voragine",
+      "texte_balise": "Jacobus De Voragine",
+      "bbox": [
+        1015.1,
+        1852.0,
+        1298.5,
+        1891.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eusebius",
+      "texte_balise": "Eusebius",
+      "bbox": [
+        630.9,
+        1856.1,
+        752.8,
+        1884.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saint Augustine",
+      "texte_balise": "Saint Augustine",
+      "bbox": [
+        1519.2,
+        1858.6,
+        1724.2,
+        1893.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

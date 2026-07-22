@@ -1,0 +1,597 @@
+{
+  "fichier": "16_SFFG Amazon.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:17.985722+00:00",
+  "duree_s": 2.4,
+  "taille_origine": [
+    2000,
+    3000
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 53,
+  "lignes": [
+    {
+      "texte": "SELF PUBLISHED SFFG",
+      "texte_balise": "SELF PUBLISHED SFFG",
+      "bbox": [
+        191.9,
+        83.9,
+        1755.8,
+        211.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PICKS FROM AMAZON",
+      "texte_balise": "PICKS FROM AMAZON",
+      "bbox": [
+        130.8,
+        289.7,
+        1860.5,
+        426.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CULTIVATING",
+      "texte_balise": "CULTIVATING",
+      "bbox": [
+        107.3,
+        639.7,
+        305.4,
+        682.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trysmoon",
+      "texte_balise": "Trysmoon",
+      "bbox": [
+        1293.5,
+        657.6,
+        1537.9,
+        722.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILL WIGHT",
+      "texte_balise": "WILL WIGHT",
+      "bbox": [
+        533.3,
+        658.3,
+        758.3,
+        700.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHAOS",
+      "texte_balise": "CHAOS",
+      "bbox": [
+        104.4,
+        671.8,
+        305.5,
+        725.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BILVERSE",
+      "texte_balise": "BILVERSE",
+      "bbox": [
+        319.8,
+        672.7,
+        398.3,
+        695.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Book 1: Ascension",
+      "texte_balise": "Book 1: Ascension",
+      "bbox": [
+        1328.5,
+        724.9,
+        1514.5,
+        754.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARTHA",
+      "texte_balise": "MARTHA",
+      "bbox": [
+        915.7,
+        933.6,
+        1122.1,
+        962.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIMBULWINTER",
+      "texte_balise": "FIMBULWINTER",
+      "bbox": [
+        1657.0,
+        936.5,
+        1930.2,
+        968.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HOUSE OF",
+      "texte_balise": "HOUSE OF",
+      "bbox": [
+        520.2,
+        970.6,
+        770.5,
+        1021.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WELLS",
+      "texte_balise": "WELLS",
+      "bbox": [
+        936.0,
+        974.2,
+        1098.8,
+        1000.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLADES",
+      "texte_balise": "BLADES",
+      "bbox": [
+        520.3,
+        1017.7,
+        770.3,
+        1075.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALL SYSTEMS RED",
+      "texte_balise": "ALL SYSTEMS RED",
+      "bbox": [
+        895.3,
+        1017.7,
+        1142.4,
+        1038.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E. WILLIAM BROWN",
+      "texte_balise": "E. WILLIAM BROWN",
+      "bbox": [
+        1657.0,
+        1017.7,
+        1869.2,
+        1044.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brian K. Fuller",
+      "texte_balise": "Brian K. Fuller",
+      "bbox": [
+        1351.7,
+        1049.6,
+        1485.5,
+        1073.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MURDERBOT DIARIES",
+      "texte_balise": "THE MURDERBOT DIARIES",
+      "bbox": [
+        918.6,
+        1055.1,
+        1125.0,
+        1070.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM D. ARAND",
+      "texte_balise": "WILLIAM D. ARAND",
+      "bbox": [
+        168.6,
+        1072.8,
+        398.3,
+        1099.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TRAVELER'S GATE TRILOGY I BOOK ONE",
+      "texte_balise": "THE TRAVELER'S GATE TRILOGY I BOOK ONE",
+      "bbox": [
+        523.3,
+        1072.8,
+        767.4,
+        1087.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neven Iliev",
+      "texte_balise": "Neven Iliev",
+      "bbox": [
+        1319.8,
+        1209.0,
+        1532.0,
+        1241.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILL",
+      "texte_balise": "WILL",
+      "bbox": [
+        956.4,
+        1212.2,
+        1168.6,
+        1276.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morning wood",
+      "texte_balise": "Morning wood",
+      "bbox": [
+        1283.3,
+        1233.0,
+        1558.3,
+        1283.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The (sort off",
+      "texte_balise": "The (sort off",
+      "bbox": [
+        1668.6,
+        1264.5,
+        1912.8,
+        1326.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WIGHT",
+      "texte_balise": "WIGHT",
+      "bbox": [
+        921.5,
+        1276.2,
+        1197.7,
+        1343.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASTES",
+      "texte_balise": "ASTES",
+      "bbox": [
+        180.2,
+        1278.9,
+        316.9,
+        1317.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVERYBODY LOVES LARGE CHESTS",
+      "texte_balise": "EVERYBODY LOVES LARGE CHESTS",
+      "bbox": [
+        1293.6,
+        1287.8,
+        1561.0,
+        1302.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vol.1",
+      "texte_balise": "vol.1",
+      "bbox": [
+        1529.1,
+        1305.2,
+        1561.0,
+        1319.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dark Mage",
+      "texte_balise": "Dark Mage",
+      "bbox": [
+        1671.1,
+        1315.2,
+        1913.2,
+        1385.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF HOUSE OF BLADES",
+      "texte_balise": "AUTHOR OF HOUSE OF BLADES",
+      "bbox": [
+        947.7,
+        1340.0,
+        1171.5,
+        1358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNGEON BORN",
+      "texte_balise": "DUNGEON BORN",
+      "bbox": [
+        587.2,
+        1476.7,
+        819.8,
+        1512.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Divine Dungeon.",
+      "texte_balise": "The Divine Dungeon.",
+      "bbox": [
+        604.7,
+        1511.6,
+        816.9,
+        1529.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNSOULED",
+      "texte_balise": "UNSOULED",
+      "bbox": [
+        912.8,
+        1598.8,
+        1209.3,
+        1642.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nelson Chereta",
+      "texte_balise": "Nelson Chereta",
+      "bbox": [
+        1648.3,
+        1607.6,
+        1933.1,
+        1640.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Witten by",
+      "texte_balise": "Witten by",
+      "bbox": [
+        264.5,
+        1625.0,
+        398.3,
+        1648.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRADLE: VOLUME ONE",
+      "texte_balise": "CRADLE: VOLUME ONE",
+      "bbox": [
+        921.5,
+        1651.0,
+        1200.6,
+        1672.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rand Darren",
+      "texte_balise": "Rand Darren",
+      "bbox": [
+        241.3,
+        1654.0,
+        418.6,
+        1677.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RANDI DARREN",
+      "texte_balise": "RANDI DARREN",
+      "bbox": [
+        1296.5,
+        1747.0,
+        1546.5,
+        1779.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WE ARE",
+      "texte_balise": "WE ARE",
+      "bbox": [
+        1700.4,
+        1754.9,
+        1869.4,
+        1797.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Demons of Astlan",
+      "texte_balise": "The Demons of Astlan",
+      "bbox": [
+        113.4,
+        1755.8,
+        395.3,
+        1776.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MONAL INTO THE",
+      "texte_balise": "MONAL INTO THE",
+      "bbox": [
+        116.3,
+        1784.9,
+        308.1,
+        1802.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ABYSS",
+      "texte_balise": "ABYSS",
+      "bbox": [
+        314.0,
+        1784.9,
+        386.6,
+        1808.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEGION",
+      "texte_balise": "LEGION",
+      "bbox": [
+        1703.1,
+        1795.2,
+        1866.6,
+        1844.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONTRACTOR",
+      "texte_balise": "CONTRACTOR",
+      "bbox": [
+        500.0,
+        1834.3,
+        822.7,
+        1886.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(WE ARE BOB)",
+      "texte_balise": "(WE ARE BOB)",
+      "bbox": [
+        1732.6,
+        1845.9,
+        1837.2,
+        1863.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUPER SALES",
+      "texte_balise": "SUPER SALES",
+      "bbox": [
+        924.4,
+        2020.0,
+        1189.0,
+        2067.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON",
+      "texte_balise": "ON",
+      "bbox": [
+        1026.2,
+        2066.9,
+        1084.3,
+        2098.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUPER HEROES",
+      "texte_balise": "SUPER HEROES",
+      "bbox": [
+        909.9,
+        2103.8,
+        1203.5,
+        2147.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOSTERING",
+      "texte_balise": "FOSTERING",
+      "bbox": [
+        1276.2,
+        2107.0,
+        1569.8,
+        2153.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAUST",
+      "texte_balise": "FAUST",
+      "bbox": [
+        1345.8,
+        2155.9,
+        1503.0,
+        2200.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DENNIS E. TAYLOR",
+      "texte_balise": "DENNIS E. TAYLOR",
+      "bbox": [
+        1659.9,
+        2158.7,
+        1918.6,
+        2199.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM D. ARAND",
+      "texte_balise": "WILLIAM D. ARAND",
+      "bbox": [
+        909.9,
+        2170.7,
+        1197.7,
+        2211.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.L. Langland",
+      "texte_balise": "J.L. Langland",
+      "bbox": [
+        107.6,
+        2187.7,
+        279.1,
+        2217.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREW S. BALL",
+      "texte_balise": "ANDREW S. BALL",
+      "bbox": [
+        534.9,
+        2196.7,
+        796.5,
+        2228.7
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

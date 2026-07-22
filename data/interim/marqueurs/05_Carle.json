@@ -1,0 +1,68 @@
+{
+  "fichier": "05_Carle.jpeg",
+  "date": "2026-07-21T19:30:37.433516+00:00",
+  "nb_lignes_texte": 69,
+  "nb_caracteres": 2298,
+  "registres_actifs": [
+    "point_entree",
+    "difficulte",
+    "prerequis",
+    "optionnel",
+    "injonction"
+  ],
+  "score_total": 12,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 2,
+      "extraits": [
+        "START HERE",
+        "read for the beginner due to"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 2,
+      "extraits": [
+        "posthumously. A very difficult",
+        "in his later years. Only for hardcore"
+      ]
+    },
+    "prerequis": {
+      "occurrences": 2,
+      "extraits": [
+        "upon. Pretty much required reading",
+        "foundational piece. You should have"
+      ]
+    },
+    "optionnel": {
+      "occurrences": 1,
+      "extraits": [
+        "supplementary reading material may very well be biased one way or"
+      ]
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 5,
+      "extraits": [
+        "Do not expect to fully understand this book. It's",
+        "His magnum opus. Do not expect to fully understand this book. It's",
+        "foundational piece. You should have",
+        "It should also be noted that this book is the centre of a lot of controversy"
+      ]
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

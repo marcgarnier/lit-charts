@@ -1,0 +1,2316 @@
+{
+  "fichier": "08_Computer Science.jpeg",
+  "date": "2026-07-21T19:28:36.469575+00:00",
+  "taille_origine": [
+    2250,
+    4158
+  ],
+  "hauteur_ligne_mediane": 20.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 110,
+  "nb_noeuds": 190,
+  "tiers": [
+    "Advanced",
+    "DATA STRUCTURES",
+    "Computer",
+    "Design Patterns",
+    "RANDOMIZED",
+    "COMPUTER GRAPHICS",
+    "Computational",
+    "Artificial Intelligence",
+    "Elements of"
+  ],
+  "intitules_isoles": [
+    "John M. Harris",
+    "Stephen A. Rago",
+    "Yehuda Lindell",
+    "Per Stenström",
+    "Carl D. Meyer",
+    "Foreword by Grady Booch",
+    "for the information age",
+    "Endre süli and David Mayers",
+    "Lieven Vandenberghe",
+    "Tan 9a",
+    "Texts in Applied Mathematics 38",
+    "Jean Gallier",
+    "Second Edition",
+    "Robert Sedgwick",
+    "Keith D. Cooper & Linda Torczon",
+    "Jason Gregory",
+    "FOREWORD BY Richard Lemarchand",
+    "Richard E. Woods"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        539.4,
+        -1.0,
+        1746.7,
+        71.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Isci/'s Computer Science Reading List",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Advanced",
+      "bbox": [
+        1242.6,
+        100.8,
+        1491.5,
+        370.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Programming",
+          "auteur": null,
+          "tier": "Advanced"
+        },
+        {
+          "titre": "in the UNIX®",
+          "auteur": null,
+          "tier": "Advanced"
+        },
+        {
+          "titre": "Environment",
+          "auteur": null,
+          "tier": "Advanced"
+        },
+        {
+          "titre": "Second Edition",
+          "auteur": null,
+          "tier": "Advanced"
+        },
+        {
+          "titre": "W. Richard Stevens",
+          "auteur": null,
+          "tier": "Advanced"
+        },
+        {
+          "titre": "Stephen A. Rago",
+          "auteur": null,
+          "tier": "Advanced"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        39.2,
+        104.7,
+        343.4,
+        137.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BJARNE STROUSTRUP",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DATA STRUCTURES",
+      "bbox": [
+        415.3,
+        104.7,
+        732.6,
+        219.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "and ALGORITHMS",
+          "auteur": null,
+          "tier": "DATA STRUCTURES"
+        },
+        {
+          "titre": "in C++",
+          "auteur": null,
+          "tier": "DATA STRUCTURES"
+        },
+        {
+          "titre": "POUKIM EURON",
+          "auteur": null,
+          "tier": "DATA STRUCTURES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1968.7,
+        107.9,
+        2207.5,
+        213.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "John M. Harris",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jeffry L. Hirst",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Michael J. Mossinghoff",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "UNDERGRADUATE TEXTS IN MATHEMATICS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1681.0,
+        157.0,
+        1798.7,
+        229.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A TRANSITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "To ADVANCED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MATHEMATICS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SEVENTH EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1965.3,
+        238.8,
+        2197.8,
+        350.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Combinatorics",
+          "auteur": "and Graph Theory",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1690.8,
+        281.0,
+        1785.6,
+        337.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DOUGLAS SMITH",
+          "auteur": "MAURICE EGGEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        905.5,
+        375.1,
+        1158.1,
+        481.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Algorithm Design",
+          "auteur": "JON KLEINBERG • ÉVA TARDOS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.9,
+        401.2,
+        323.8,
+        481.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Programming",
+          "auteur": "Principles and Practice Using C++",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1975.3,
+        480.9,
+        2053.8,
+        504.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "2 Springer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1236.2,
+        490.8,
+        1334.3,
+        514.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "roreword Ov",
+          "auteur": "Dennis Ritchie",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        415.3,
+        497.0,
+        516.7,
+        514.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Adam Drozdek",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.3,
+        510.0,
+        608.3,
+        517.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Copyrighted Materis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1193.7,
+        602.0,
+        1461.8,
+        625.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Larry L. Peterson aliceS. Davia",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        958.2,
+        604.7,
+        1128.5,
+        687.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MODERN",
+          "auteur": "OPERATING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        830.7,
+        615.1,
+        928.8,
+        641.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TANENBAUM",
+          "auteur": "HERBER\"",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        163.5,
+        621.6,
+        251.8,
+        628.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THIRD SOITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1582.8,
+        644.5,
+        1815.0,
+        719.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "INTRODUCTION TO",
+          "auteur": "MODERN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.9,
+        654.0,
+        353.2,
+        703.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "COMPUTER SYSTEMS",
+          "auteur": "A PROGRAMMER'S PERSPECTIVE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        480.7,
+        772.0,
+        735.9,
+        1008.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Parallel",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Computer",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Organization",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and Design",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Michel Dubois, Murali Annavaram,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Per Stenström",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1618.8,
+        788.0,
+        1782.3,
+        828.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jonathan Katz",
+          "auteur": "Yehuda Lindell",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1890.3,
+        837.6,
+        2102.8,
+        883.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "INTRODUCTION TO",
+          "auteur": "PROBABILITY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2115.9,
+        853.9,
+        2168.2,
+        880.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SECOND",
+          "auteur": "EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Computer",
+      "bbox": [
+        1193.7,
+        869.5,
+        1478.2,
+        1021.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Networks",
+          "auteur": null,
+          "tier": "Computer"
+        },
+        {
+          "titre": "s approach",
+          "auteur": null,
+          "tier": "Computer"
+        },
+        {
+          "titre": "approach",
+          "auteur": null,
+          "tier": "Computer"
+        },
+        {
+          "titre": "MK",
+          "auteur": null,
+          "tier": "Computer"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        98.1,
+        991.0,
+        317.2,
+        1011.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRYANT • O'HALLARON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1648.3,
+        991.0,
+        1759.4,
+        1014.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CH Chapman & Hal/CRe",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Design Patterns",
+      "bbox": [
+        58.9,
+        1118.9,
+        317.2,
+        1302.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Elements of Reusable",
+          "auteur": null,
+          "tier": "Design Patterns"
+        },
+        {
+          "titre": "Object-Oriented Software",
+          "auteur": null,
+          "tier": "Design Patterns"
+        },
+        {
+          "titre": "Erich Gamma",
+          "auteur": null,
+          "tier": "Design Patterns"
+        },
+        {
+          "titre": "Richard Helm",
+          "auteur": null,
+          "tier": "Design Patterns"
+        },
+        {
+          "titre": "Ralph Johnson",
+          "auteur": null,
+          "tier": "Design Patterns"
+        },
+        {
+          "titre": "John Vlissides",
+          "auteur": null,
+          "tier": "Design Patterns"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        788.2,
+        1125.0,
+        1056.3,
+        1132.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANNIVERSARY EDITION WITH FOUR NEW CHAPTERS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANNIVENSANY EDITION WITH FOUR NEW CHAPTER:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1932.8,
+        1151.6,
+        2184.6,
+        1279.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "WACKERIY • MENDENHALL • SCHEARSERI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mathematical",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Statistics",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with Applications",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "7th Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1716.9,
+        1170.8,
+        1811.9,
+        1335.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Matrix",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Analysis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Applied",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Linear",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Algebra",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        542.9,
+        1240.2,
+        634.4,
+        1299.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "35",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1318.0,
+        1318.7,
+        1458.6,
+        1335.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MICHAEL J. QUINN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        520.0,
+        1328.0,
+        637.7,
+        1335.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EIGHTH EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        784.9,
+        1377.5,
+        1059.6,
+        1505.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MYTHICAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MAN-MONTH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FREDERICK P. BROOKS, JR.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        415.2,
+        1380.8,
+        755.5,
+        1508.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "An Introduction to",
+          "auteur": "Database Systems",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1720.2,
+        1407.0,
+        1824.9,
+        1430.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Carl D. Meyer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1134.4,
+        1435.1,
+        1374.0,
+        1538.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ETHICS",
+          "auteur": "for the information age",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.9,
+        1439.7,
+        215.8,
+        1456.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Foreword by Grady Booch",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1389.9,
+        1472.0,
+        1458.6,
+        1489.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "7th edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1720.2,
+        1478.9,
+        1769.3,
+        1495.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "siam",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        65.4,
+        1593.0,
+        222.4,
+        1610.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Endre süli and David Mayers",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "RANDOMIZED",
+      "bbox": [
+        405.4,
+        1615.5,
+        696.7,
+        1724.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ALGORITHMS",
+          "auteur": null,
+          "tier": "RANDOMIZED"
+        },
+        {
+          "titre": "Rajeev Motwani and Prabhakar Raghavan",
+          "auteur": null,
+          "tier": "RANDOMIZED"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1994.9,
+        1619.5,
+        2191.1,
+        1764.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NUMERICAL",
+          "auteur": "LINEAR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1167.5,
+        1632.6,
+        1327.8,
+        1675.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Stephen Boyd and",
+          "auteur": "Lieven Vandenberghe",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1605.7,
+        1671.3,
+        1828.2,
+        1747.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OPTIMIZATION",
+          "auteur": "Dimitris",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        65.4,
+        1671.8,
+        327.0,
+        1737.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An Introduction to",
+          "auteur": "Numerical Analysis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        781.6,
+        1720.8,
+        899.3,
+        1737.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "VIJAY V. VAZARANT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1157.6,
+        1737.1,
+        1409.6,
+        1832.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Convex",
+          "auteur": "Optimization",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.9,
+        1794.8,
+        1023.8,
+        1858.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Approximation",
+          "auteur": "Algorithms",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2001.5,
+        1907.0,
+        2155.2,
+        1950.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LLOYD N. TREFETHEN",
+          "auteur": "DAVID BAU, III",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        935.3,
+        1930.0,
+        997.5,
+        1946.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Tan 9a",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2004.7,
+        1992.2,
+        2053.8,
+        2012.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "siam",
+          "auteur": "Siam",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        264.9,
+        2008.8,
+        317.2,
+        2021.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CAMBRIDGİ",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1926.2,
+        2152.0,
+        2060.3,
+        2169.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Texts in Applied Mathematics 38",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "COMPUTER GRAPHICS",
+      "bbox": [
+        1520.7,
+        2175.0,
+        1808.5,
+        2250.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PRINCIPES AND PRACTICE",
+          "auteur": null,
+          "tier": "COMPUTER GRAPHICS"
+        },
+        {
+          "titre": "THIRD EDITION",
+          "auteur": null,
+          "tier": "COMPUTER GRAPHICS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        811.0,
+        2181.8,
+        1066.1,
+        2350.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "UNDERORADUATE TEXTS IN COMPUTER SCIENCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "• UNDCRORADUATE TEXTS IN COMPUTER SCIENCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Automata",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Comptability",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Computational",
+      "bbox": [
+        1151.1,
+        2191.4,
+        1416.1,
+        2280.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Complexity Apoder",
+          "auteur": null,
+          "tier": "Computational"
+        },
+        {
+          "titre": "A Modern",
+          "auteur": null,
+          "tier": "Computational"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1922.9,
+        2256.8,
+        2165.0,
+        2427.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Jean Gallier",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Geometric Methods",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and Applications",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "For Computer Science and Engineering",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Second Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        441.5,
+        2256.9,
+        713.0,
+        2348.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Analytic",
+          "auteur": "Combinatories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        32.7,
+        2332.2,
+        373.3,
+        2476.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "AN INTRODICTION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TO THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANALYSIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ALGoriTHMs",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SECOND EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        572.3,
+        2410.6,
+        709.7,
+        2449.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Philippe Flajolet and",
+          "auteur": "Robert Sedgwick",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        944.9,
+        2468.2,
+        1053.3,
+        2493.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DEXTER C. KOZEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1235.9,
+        2515.2,
+        1344.4,
+        2556.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Sanjeev Arora",
+          "auteur": "and Boaz Barak",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        824.1,
+        2531.5,
+        883.0,
+        2547.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "@ Springer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        206.0,
+        2544.5,
+        369.5,
+        2574.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ROBERT SEDGWICK",
+          "auteur": "PHILIPPE FLAJOLET",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1510.9,
+        2544.5,
+        1811.8,
+        2570.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JOHN F. HUGHES • ANDRIES VAN DAM - MORGAN MCGUIRE",
+          "auteur": "DAVID F. SKLAR • JAMES D. FOLEY • STEVEN K. FEINER • KURT AKELEY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2083.2,
+        2544.5,
+        2161.7,
+        2567.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "2 Springer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1151.2,
+        2570.7,
+        1203.5,
+        2577.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CAMBRIDG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2109.4,
+        2665.5,
+        2171.5,
+        2685.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "@WILEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        418.6,
+        2672.0,
+        752.2,
+        2753.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "David J.C. MacKay",
+          "auteur": "Information Theory, Inference,",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1618.8,
+        2688.3,
+        1818.3,
+        2701.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TEXTS IN COMPUTER SCIENCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1909.9,
+        2707.9,
+        2174.8,
+        2799.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ELEMENTS OF",
+          "auteur": "INFORMATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1641.7,
+        2726.0,
+        1818.3,
+        2796.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Computer Vision",
+          "auteur": "Algorithms and Applications",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1520.7,
+        2825.6,
+        1553.4,
+        2832.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Wortels",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1321.1,
+        2893.7,
+        1560.1,
+        3070.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Introduction",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to DATA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COMPRESSION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FOURTH EDITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Khalid Sayood",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        843.8,
+        2923.2,
+        1118.5,
+        3087.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "FOUNDATIONS OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STATISTICAL NATURAL LANGUAGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PROCESSING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHRISTOPHER D. MANNING AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HINRICH SCHÜTZE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Coculohted Materia",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1671.1,
+        2992.2,
+        1788.9,
+        3008.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Richard Szeliski",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Artificial Intelligence",
+      "bbox": [
+        137.4,
+        2998.7,
+        320.5,
+        3061.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A Modern Approach",
+          "auteur": null,
+          "tier": "Artificial Intelligence"
+        },
+        {
+          "titre": "Third Edition",
+          "auteur": null,
+          "tier": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        42.5,
+        3011.8,
+        98.1,
+        3057.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Russell",
+          "auteur": "Norvig",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1622.0,
+        3034.2,
+        1690.9,
+        3054.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "2 Springer",
+          "auteur": "@ Springer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1972.0,
+        3041.2,
+        2115.9,
+        3084.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THOMAS M. COVER",
+          "auteur": "Jor A. THOMAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1242.7,
+        3047.7,
+        1291.8,
+        3073.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        510.2,
+        3080.1,
+        765.3,
+        3097.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Cambridge University Press, 2003",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        385.9,
+        3191.0,
+        673.7,
+        3309.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Cominted Bemin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Introduction to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Distributed Algorithms",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gerard Tel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        762.0,
+        3207.8,
+        1017.1,
+        3286.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PROGRAMMING",
+          "auteur": "LANGUAGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1576.3,
+        3224.1,
+        1772.5,
+        3331.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ENGINEERING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COMPILER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SECOND EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1134.7,
+        3226.6,
+        1314.8,
+        3342.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Types and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tunac and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Programming",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Languages",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.9,
+        3256.8,
+        281.3,
+        3266.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Pearson Education Print on Demand Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Elements of",
+      "bbox": [
+        1912.5,
+        3263.3,
+        2109.8,
+        3380.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Programming",
+          "auteur": null,
+          "tier": "Elements of"
+        },
+        {
+          "titre": "Alexander Stepanov",
+          "auteur": null,
+          "tier": "Elements of"
+        },
+        {
+          "titre": "Paul Mc Jones",
+          "auteur": null,
+          "tier": "Elements of"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        840.5,
+        3315.5,
+        941.9,
+        3331.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Michael L. Scott",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        55.6,
+        3413.5,
+        278.0,
+        3472.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "second edition",
+          "auteur": "Distributed Systems",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1285.2,
+        3495.1,
+        1445.5,
+        3518.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Benjamin C. Pierce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.9,
+        3498.4,
+        173.3,
+        3518.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Sape Mullender",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        382.3,
+        3555.3,
+        536.7,
+        3591.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Second Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1582.8,
+        3586.5,
+        1779.1,
+        3602.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Keith D. Cooper & Linda Torczon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1504.4,
+        3700.4,
+        1805.2,
+        3815.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "• SECOND EDITION •",
+          "auteur": "Game Engine",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.7,
+        3707.4,
+        323.8,
+        3792.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "An Introduction to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Quantum Computing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PHILIP KAVE RAYMOND TAKIAMME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND MICHELE MOSCA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1998.1,
+        3713.6,
+        2181.4,
+        3808.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Taking Care",
+          "auteur": "Of Myself",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        379.4,
+        3723.4,
+        611.6,
+        3776.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Modern Computer Algebra",
+          "auteur": "Joachim von zur Gathen and Jürgen Gerhard",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        627.9,
+        3730.2,
+        693.3,
+        3743.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Third Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1216.6,
+        3749.8,
+        1400.0,
+        3861.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "igital",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Image",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Processing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Third Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        748.9,
+        3759.3,
+        1059.6,
+        3847.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "An Introduction to",
+          "auteur": "PARALLEL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1144.6,
+        3841.3,
+        1193.7,
+        3867.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "...a",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1870.6,
+        3913.1,
+        2044.0,
+        3959.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A Healthy Hygiene,",
+          "auteur": "Puberty and Personal Curriculum",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        922.2,
+        3929.2,
+        1049.8,
+        3949.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Peter Pacheco",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2076.5,
+        3938.1,
+        2178.3,
+        3960.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "by MARY WROBEL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1543.6,
+        4037.1,
+        1762.7,
+        4080.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jason Gregory",
+          "auteur": "FOREWORD BY Richard Lemarchand",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1200.2,
+        4073.1,
+        1353.9,
+        4116.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Rafael C. Gonzalez",
+          "auteur": "Richard E. Woods",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        732.6,
+        4079.6,
+        788.2,
+        4105.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

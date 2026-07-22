@@ -1,0 +1,1532 @@
+{
+  "fichier": "01_Ancient Western Philosophy.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:48:22.399849+00:00",
+  "duree_s": 1.2,
+  "taille_origine": [
+    1858,
+    1354
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 138,
+  "lignes": [
+    {
+      "texte": "/lit/s Guide to Philosophy Ancient Western Philosophy",
+      "texte_balise": "/lit/s Guide to Philosophy Ancient Western Philosophy",
+      "bbox": [
+        -0.4,
+        -3.3,
+        494.7,
+        33.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Part One",
+      "texte_balise": "Part One",
+      "bbox": [
+        1071.9,
+        1.0,
+        1139.9,
+        15.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Version 1",
+      "texte_balise": "Version 1",
+      "bbox": [
+        988.4,
+        16.0,
+        1053.2,
+        32.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pre Socratics",
+      "texte_balise": "Pre Socratics",
+      "bbox": [
+        0.0,
+        43.0,
+        89.1,
+        57.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Various links:",
+      "texte_balise": "Various links:",
+      "bbox": [
+        1358.3,
+        48.1,
+        1447.6,
+        65.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "http://plato.stanford.edu/entries/presocratics/",
+      "texte_balise": "http://plato.stanford.edu/entries/presocratics/",
+      "bbox": [
+        1355.7,
+        72.8,
+        1642.0,
+        89.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PYTHAGOREAN",
+      "texte_balise": "THE PYTHAGOREAN",
+      "bbox": [
+        226.8,
+        89.0,
+        378.1,
+        105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "http://www.heraclitustraqments.com",
+      "texte_balise": "http://www.heraclitustraqments.com",
+      "bbox": [
+        1355.7,
+        91.7,
+        1590.6,
+        105.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Parmenides of Elea",
+      "texte_balise": "Parmenides of Elea",
+      "bbox": [
+        618.4,
+        99.8,
+        764.3,
+        116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOURCEBOOK",
+      "texte_balise": "SOURCEBOOK",
+      "bbox": [
+        248.5,
+        105.2,
+        353.8,
+        121.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMPEDOCLES",
+      "texte_balise": "EMPEDOCLES",
+      "bbox": [
+        1231.5,
+        105.2,
+        1320.6,
+        118.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "http://history.hanover.edu/texts/presoc/",
+      "texte_balise": "http://history.hanover.edu/texts/presoc/",
+      "bbox": [
+        1353.0,
+        107.9,
+        1604.1,
+        121.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emp.htm = Empedocles' fragments",
+      "texte_balise": "Emp.htm = Empedocles' fragments",
+      "bbox": [
+        1380.0,
+        121.0,
+        1604.1,
+        138.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND LIBRARY",
+      "texte_balise": "AND LIBRARY",
+      "bbox": [
+        248.5,
+        124.0,
+        353.8,
+        138.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE EXTANT FRAGMENTS",
+      "texte_balise": "THE EXTANT FRAGMENTS",
+      "bbox": [
+        1223.4,
+        124.0,
+        1328.7,
+        135.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEARTAND",
+      "texte_balise": "THEARTAND",
+      "bbox": [
+        410.5,
+        134.9,
+        548.2,
+        156.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Xenophan.html = Xenophanes fragments",
+      "texte_balise": "Xenophan.html = Xenophanes fragments",
+      "bbox": [
+        1380.0,
+        137.6,
+        1644.7,
+        154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fragments",
+      "texte_balise": "Fragments",
+      "bbox": [
+        664.3,
+        140.3,
+        718.4,
+        156.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Xenophanes of",
+      "texte_balise": "Xenophanes of",
+      "bbox": [
+        818.3,
+        148.0,
+        920.9,
+        165.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parmends.html = Parmenides fragments",
+      "texte_balise": "Parmends.html = Parmenides fragments",
+      "bbox": [
+        1380.0,
+        153.7,
+        1639.3,
+        170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOUGHT OF",
+      "texte_balise": "THOUGHT OF",
+      "bbox": [
+        413.2,
+        159.0,
+        559.0,
+        181.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A EXANDER ANSATION",
+      "texte_balise": "A EXANDER ANSATION",
+      "bbox": [
+        631.9,
+        161.8,
+        748.1,
+        167.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Colophon: Fragments",
+      "texte_balise": "Colophon: Fragments",
+      "bbox": [
+        818.3,
+        164.5,
+        958.7,
+        181.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH AN INTRODUCTION BY",
+      "texte_balise": "WITH AN INTRODUCTION BY",
+      "bbox": [
+        626.5,
+        175.0,
+        756.2,
+        189.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "M.R. Wright",
+      "texte_balise": "M.R. Wright",
+      "bbox": [
+        1236.8,
+        177.8,
+        1309.8,
+        194.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERACLITUS",
+      "texte_balise": "HERACLITUS",
+      "bbox": [
+        413.1,
+        180.4,
+        542.9,
+        205.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID GALLOP",
+      "texte_balise": "DAVID GALLOP",
+      "bbox": [
+        656.2,
+        191.5,
+        726.5,
+        205.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By: David Gallop",
+      "texte_balise": "By: David Gallop",
+      "bbox": [
+        818.3,
+        210.0,
+        929.0,
+        229.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An edition of the fragments with",
+      "texte_balise": "An edition of the fragments with",
+      "bbox": [
+        413.2,
+        215.8,
+        542.8,
+        229.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES H.KAHN",
+      "texte_balise": "CHARLES H.KAHN",
+      "bbox": [
+        467.2,
+        269.7,
+        569.8,
+        281.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Early Greek Philospo",
+      "texte_balise": "Early Greek Philospo",
+      "bbox": [
+        64.8,
+        291.0,
+        140.4,
+        305.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMED TANTARAY",
+      "texte_balise": "COMED TANTARAY",
+      "bbox": [
+        243.1,
+        294.0,
+        345.7,
+        310.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "the ren Softit",
+      "texte_balise": "the ren Softit",
+      "bbox": [
+        1042.4,
+        307.0,
+        1101.8,
+        313.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "On Plato",
+      "texte_balise": "On Plato",
+      "bbox": [
+        429.4,
+        374.9,
+        491.5,
+        391.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Socrates",
+      "texte_balise": "On Socrates",
+      "bbox": [
+        2.7,
+        377.6,
+        86.4,
+        391.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Note Depicted: \"Plato' by Constance Meinwald",
+      "texte_balise": "Note Depicted: \"Plato' by Constance Meinwald",
+      "bbox": [
+        502.3,
+        377.6,
+        802.1,
+        394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Plato",
+      "texte_balise": "By Plato",
+      "bbox": [
+        953.3,
+        377.6,
+        1010.0,
+        391.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(note made by Isabelle: later translations are usually more acessible. I AM not a fan of Jowett. Since she",
+      "texte_balise": "(note made by Isabelle: later translations are usually more acessible. I AM not a fan of Jowett. Since she",
+      "bbox": [
+        966.8,
+        396.0,
+        1633.9,
+        413.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NATIONAL BESTSELLER",
+      "texte_balise": "NATIONAL BESTSELLER",
+      "bbox": [
+        16.2,
+        415.0,
+        167.4,
+        432.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By KARL R. POPPER",
+      "texte_balise": "By KARL R. POPPER",
+      "bbox": [
+        626.5,
+        415.0,
+        731.9,
+        429.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "composed this list I thought it necessary to add this",
+      "texte_balise": "composed this list I thought it necessary to add this",
+      "bbox": [
+        966.8,
+        415.0,
+        1299.0,
+        432.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Early works:",
+      "texte_balise": "Early works:",
+      "bbox": [
+        961.4,
+        428.6,
+        1042.5,
+        445.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Later works:",
+      "texte_balise": "Later works:",
+      "bbox": [
+        1552.8,
+        428.9,
+        1636.6,
+        442.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TRIAL",
+      "texte_balise": "THE TRIAL",
+      "bbox": [
+        21.5,
+        433.9,
+        162.1,
+        477.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Middle works:",
+      "texte_balise": "Middle works:",
+      "bbox": [
+        1263.9,
+        434.0,
+        1355.7,
+        448.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critias (Atlantis)",
+      "texte_balise": "Critias (Atlantis)",
+      "bbox": [
+        1558.2,
+        445.0,
+        1660.9,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Apology",
+      "texte_balise": "-Apology",
+      "bbox": [
+        964.1,
+        447.7,
+        1020.8,
+        461.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parmenides (Forms)",
+      "texte_balise": "Parmenides (Forms)",
+      "bbox": [
+        1266.6,
+        447.7,
+        1396.2,
+        464.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Sophist (more on Forms)",
+      "texte_balise": "-Sophist (more on Forms)",
+      "bbox": [
+        1555.5,
+        461.0,
+        1717.6,
+        477.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Crito",
+      "texte_balise": "-Crito",
+      "bbox": [
+        964.1,
+        461.2,
+        1001.9,
+        474.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Phaedo (the death of Socrates, the afterlife)",
+      "texte_balise": "-Phaedo (the death of Socrates, the afterlife)",
+      "bbox": [
+        1263.9,
+        463.9,
+        1550.1,
+        480.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOCRATES",
+      "texte_balise": "SOCRATES",
+      "bbox": [
+        13.1,
+        470.8,
+        170.5,
+        519.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Timaeus (the purpose of the universe)",
+      "texte_balise": "-Timaeus (the purpose of the universe)",
+      "bbox": [
+        1555.5,
+        474.7,
+        1801.3,
+        494.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Euthyphro (holiness, the Euthyphro dilemma)",
+      "texte_balise": "-Euthyphro (holiness, the Euthyphro dilemma)",
+      "bbox": [
+        964.1,
+        477.0,
+        1255.8,
+        494.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Phaedrus (love and rhetoric)",
+      "texte_balise": "-Phaedrus (love and rhetoric)",
+      "bbox": [
+        1263.9,
+        480.0,
+        1450.2,
+        496.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-lon",
+      "texte_balise": "-lon",
+      "bbox": [
+        961.4,
+        493.6,
+        991.1,
+        507.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Republic (politics, the state and the soul",
+      "texte_balise": "-Republic (politics, the state and the soul",
+      "bbox": [
+        1263.9,
+        496.0,
+        1528.5,
+        512.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Laches (courage)",
+      "texte_balise": "-Laches (courage)",
+      "bbox": [
+        961.4,
+        509.8,
+        1077.5,
+        526.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Symposium (true love, the 'Ladder of Love')",
+      "texte_balise": "Symposium (true love, the 'Ladder of Love')",
+      "bbox": [
+        1266.6,
+        512.0,
+        1547.4,
+        529.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THAT BLONES",
+      "texte_balise": "THAT BLONES",
+      "bbox": [
+        116.1,
+        515.0,
+        164.7,
+        529.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Protagoras (the teachability of virture)",
+      "texte_balise": "-Protagoras (the teachability of virture)",
+      "bbox": [
+        961.4,
+        526.0,
+        1209.9,
+        542.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Theatetus (knowledge)",
+      "texte_balise": "-Theatetus (knowledge)",
+      "bbox": [
+        1263.9,
+        528.7,
+        1423.2,
+        545.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Gorgias (rhetoric vs. philosophy)",
+      "texte_balise": "-Gorgias (rhetoric vs. philosophy)",
+      "bbox": [
+        964.1,
+        542.0,
+        1174.8,
+        558.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO AND THE",
+      "texte_balise": "PLATO AND THE",
+      "bbox": [
+        459.1,
+        552.9,
+        583.3,
+        569.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato on Knowledge and Forms",
+      "texte_balise": "Plato on Knowledge and Forms",
+      "bbox": [
+        788.6,
+        558.0,
+        937.1,
+        572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Meno (virtue, Meno's paradox)",
+      "texte_balise": "-Meno (virtue, Meno's paradox)",
+      "bbox": [
+        961.4,
+        558.0,
+        1161.2,
+        575.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOCRATIC DIALOGUE",
+      "texte_balise": "SOCRATIC DIALOGUE",
+      "bbox": [
+        459.1,
+        574.5,
+        583.3,
+        591.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "catalosug",
+      "texte_balise": "catalosug",
+      "bbox": [
+        788.2,
+        576.7,
+        837.5,
+        586.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ARISTOPHANES",
+      "texte_balise": "ARISTOPHANES",
+      "bbox": [
+        224.1,
+        579.9,
+        345.7,
+        596.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CHILOSOPHICAL USE",
+      "texte_balise": "THE CHILOSOPHICAL USE",
+      "bbox": [
+        469.9,
+        593.0,
+        572.5,
+        607.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLOUDS",
+      "texte_balise": "CLOUDS",
+      "bbox": [
+        251.0,
+        595.6,
+        318.8,
+        612.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Open Society",
+      "texte_balise": "The Open Society",
+      "bbox": [
+        620.8,
+        602.7,
+        748.4,
+        632.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF A LITERARY FORM,",
+      "texte_balise": "OF A LITERARY FORM,",
+      "bbox": [
+        475.3,
+        609.6,
+        564.4,
+        623.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Its Enemies",
+      "texte_balise": "and Its Enemies",
+      "bbox": [
+        664.3,
+        628.1,
+        777.8,
+        653.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARISTOPHANES",
+      "texte_balise": "ARISTOPHANES",
+      "bbox": [
+        248.5,
+        641.9,
+        321.4,
+        655.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLESH-KARN",
+      "texte_balise": "CHARLESH-KARN",
+      "bbox": [
+        480.7,
+        647.3,
+        559.0,
+        652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Plato",
+      "texte_balise": "1 Plato",
+      "bbox": [
+        737.3,
+        650.0,
+        780.5,
+        664.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cynicism",
+      "texte_balise": "Cynicism",
+      "bbox": [
+        983.0,
+        687.8,
+        1045.1,
+        701.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Aristotle",
+      "texte_balise": "By Aristotle",
+      "bbox": [
+        569.8,
+        690.0,
+        650.8,
+        707.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epicureanism",
+      "texte_balise": "Epicureanism",
+      "bbox": [
+        1228.8,
+        690.5,
+        1320.6,
+        704.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Aristotle",
+      "texte_balise": "On Aristotle",
+      "bbox": [
+        -0.0,
+        695.9,
+        81.0,
+        709.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Not Depicted: 'Aristotle on Nature and Living Things: Philosophical",
+      "texte_balise": "Not Depicted: 'Aristotle on Nature and Living Things: Philosophical",
+      "bbox": [
+        83.7,
+        695.9,
+        513.1,
+        712.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Historical Studies' by David M. Balme",
+      "texte_balise": "and Historical Studies' by David M. Balme",
+      "bbox": [
+        86.4,
+        709.0,
+        356.5,
+        726.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Not Depicted: 'Diogenes of",
+      "texte_balise": "Not Depicted: 'Diogenes of",
+      "bbox": [
+        996.5,
+        712.0,
+        1169.4,
+        728.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(another note by Isabelle: Oxford translations are best.)",
+      "texte_balise": "(another note by Isabelle: Oxford translations are best.)",
+      "bbox": [
+        572.5,
+        714.8,
+        929.0,
+        728.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sinope: A Study of Greek",
+      "texte_balise": "Sinope: A Study of Greek",
+      "bbox": [
+        996.5,
+        728.0,
+        1161.2,
+        744.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cynicism' by Farrand Sayre",
+      "texte_balise": "Cynicism' by Farrand Sayre",
+      "bbox": [
+        996.5,
+        741.7,
+        1174.8,
+        761.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-The Nicomachean Ethics (virture ethics, leads into Politics)",
+      "texte_balise": "-The Nicomachean Ethics (virture ethics, leads into Politics)",
+      "bbox": [
+        575.2,
+        744.0,
+        953.3,
+        761.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Retoric",
+      "texte_balise": "Retoric",
+      "bbox": [
+        575.2,
+        760.5,
+        634.7,
+        774.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Cumbride Campion n",
+      "texte_balise": "Cumbride Campion n",
+      "bbox": [
+        1285.5,
+        760.6,
+        1379.5,
+        782.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ARISTOTLE",
+      "texte_balise": "ARISTOTLE",
+      "bbox": [
+        8.0,
+        765.5,
+        135.1,
+        790.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ESSENTIAL",
+      "texte_balise": "ESSENTIAL",
+      "bbox": [
+        1471.8,
+        768.7,
+        1566.3,
+        784.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "From Aristotle",
+      "texte_balise": "From Aristotle",
+      "bbox": [
+        194.4,
+        776.8,
+        289.0,
+        790.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Metaphysics",
+      "texte_balise": "-Metaphysics",
+      "bbox": [
+        575.2,
+        776.8,
+        658.9,
+        790.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epicureanism",
+      "texte_balise": "Epicureanism",
+      "bbox": [
+        1258.4,
+        781.9,
+        1401.7,
+        809.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPICURUS",
+      "texte_balise": "EPICURUS",
+      "bbox": [
+        1469.1,
+        784.9,
+        1566.3,
+        803.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "christopher shields",
+      "texte_balise": "christopher shields",
+      "bbox": [
+        10.8,
+        790.0,
+        164.7,
+        809.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Augustine",
+      "texte_balise": "to Augustine",
+      "bbox": [
+        191.7,
+        790.0,
+        280.9,
+        806.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Poetics",
+      "texte_balise": "-Poetics",
+      "bbox": [
+        575.2,
+        793.0,
+        626.5,
+        806.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "octed by David Funey",
+      "texte_balise": "octed by David Funey",
+      "bbox": [
+        191.7,
+        806.0,
+        275.5,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Politics",
+      "texte_balise": "Politics",
+      "bbox": [
+        575.2,
+        806.5,
+        629.2,
+        822.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CYNICS",
+      "texte_balise": "THE CYNICS",
+      "bbox": [
+        1010.0,
+        914.0,
+        1161.3,
+        933.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "что о арно",
+      "texte_balise": "что о арно",
+      "bbox": [
+        1007.3,
+        930.5,
+        1058.6,
+        958.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "c Movement in Antiquity",
+      "texte_balise": "c Movement in Antiquity",
+      "bbox": [
+        1039.7,
+        933.0,
+        1126.1,
+        947.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eugene. O'Connor",
+      "texte_balise": "Eugene. O'Connor",
+      "bbox": [
+        1447.5,
+        952.0,
+        1560.9,
+        968.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEROSTILS",
+      "texte_balise": "HEROSTILS",
+      "bbox": [
+        1693.3,
+        952.1,
+        1752.7,
+        957.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "JANIES WARREN",
+      "texte_balise": "JANIES WARREN",
+      "bbox": [
+        1288.1,
+        954.3,
+        1369.3,
+        974.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Nature of Things",
+      "texte_balise": "The Nature of Things",
+      "bbox": [
+        1682.4,
+        965.5,
+        1763.5,
+        981.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neoplatonism",
+      "texte_balise": "Neoplatonism",
+      "bbox": [
+        1066.7,
+        1011.5,
+        1158.5,
+        1027.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Isabella specified Penguin Classics)",
+      "texte_balise": "(Isabella specified Penguin Classics)",
+      "bbox": [
+        75.6,
+        1014.0,
+        313.3,
+        1030.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Click to LOOK INSIDE!",
+      "texte_balise": "Click to LOOK INSIDE!",
+      "bbox": [
+        1530.5,
+        1016.3,
+        1686.0,
+        1043.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stoicism",
+      "texte_balise": "Stoicism",
+      "bbox": [
+        0.0,
+        1016.8,
+        59.4,
+        1030.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ploting",
+      "texte_balise": "Ploting",
+      "bbox": [
+        1690.6,
+        1016.8,
+        1747.3,
+        1030.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Skepticism",
+      "texte_balise": "Skepticism",
+      "bbox": [
+        602.2,
+        1019.5,
+        675.1,
+        1035.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Click to LOOK INS",
+      "texte_balise": "Click to LOOK INS",
+      "bbox": [
+        1733.1,
+        1021.7,
+        1856.2,
+        1045.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEOPLATONISM",
+      "texte_balise": "NEOPLATONISM",
+      "bbox": [
+        1115.3,
+        1060.0,
+        1236.9,
+        1078.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SENECA",
+      "texte_balise": "SENECA",
+      "bbox": [
+        94.5,
+        1062.7,
+        140.4,
+        1076.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "R",
+      "texte_balise": "R",
+      "bbox": [
+        1506.9,
+        1070.8,
+        1520.4,
+        1087.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LETTERS FROM A STOC",
+      "texte_balise": "LETTERS FROM A STOC",
+      "bbox": [
+        56.7,
+        1078.9,
+        178.2,
+        1092.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OUTLINES",
+      "texte_balise": "OUTLINES",
+      "bbox": [
+        896.6,
+        1086.9,
+        996.5,
+        1105.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PYRR HONISM",
+      "texte_balise": "PYRR HONISM",
+      "bbox": [
+        877.6,
+        1102.9,
+        1015.5,
+        1135.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neoplatonism",
+      "texte_balise": "Neoplatonism",
+      "bbox": [
+        1317.9,
+        1103.2,
+        1442.1,
+        1127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tha Bananda",
+      "texte_balise": "Tha Bananda",
+      "bbox": [
+        1752.7,
+        1113.9,
+        1814.8,
+        1119.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        707.6,
+        1122.0,
+        737.3,
+        1135.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RT Wallis",
+      "texte_balise": "RT Wallis",
+      "bbox": [
+        1136.9,
+        1122.0,
+        1215.3,
+        1136.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        1361.1,
+        1124.7,
+        1388.1,
+        1138.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Platinne",
+      "texte_balise": "Platinne",
+      "bbox": [
+        1763.5,
+        1132.8,
+        1804.0,
+        1140.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GNOSTICISM",
+      "texte_balise": "GNOSTICISM",
+      "bbox": [
+        1309.8,
+        1135.5,
+        1461.0,
+        1157.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Greek Sceptics:",
+      "texte_balise": "Greek Sceptics:",
+      "bbox": [
+        667.0,
+        1140.9,
+        783.2,
+        1157.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "From Pyrrho To",
+      "texte_balise": "From Pyrrho To",
+      "bbox": [
+        667.0,
+        1159.8,
+        785.9,
+        1176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sextus",
+      "texte_balise": "Sextus",
+      "bbox": [
+        696.8,
+        1178.7,
+        750.8,
+        1194.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(1869)",
+      "texte_balise": "(1869)",
+      "bbox": [
+        699.5,
+        1200.3,
+        748.1,
+        1213.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEXTUS",
+      "texte_balise": "SEXTUS",
+      "bbox": [
+        912.8,
+        1243.3,
+        977.6,
+        1259.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SRICTERITC",
+      "texte_balise": "SRICTERITC",
+      "bbox": [
+        275.5,
+        1259.6,
+        321.4,
+        1265.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EMPIRICUS",
+      "texte_balise": "EMPIRICUS",
+      "bbox": [
+        891.2,
+        1259.6,
+        1001.9,
+        1275.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Norman Maccoll",
+      "texte_balise": "Norman Maccoll",
+      "bbox": [
+        718.4,
+        1310.8,
+        812.9,
+        1324.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Next: Christian/Catholic Philosophy and Medieval Philosophy",
+      "texte_balise": "Next: Christian/Catholic Philosophy and Medieval Philosophy",
+      "bbox": [
+        0.0,
+        1327.0,
+        397.0,
+        1343.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "List by Isabelle Huppert !!Rpnw|FOnYO put into this format by Anon",
+      "texte_balise": "List by Isabelle Huppert !!Rpnw|FOnYO put into this format by Anon",
+      "bbox": [
+        1388.1,
+        1327.0,
+        1844.5,
+        1343.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1092 @@
+{
+  "fichier": "03_Zizek 3.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:50:13.152987+00:00",
+  "duree_s": 1.6,
+  "taille_origine": [
+    2800,
+    2000
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 98,
+  "lignes": [
+    {
+      "texte": "A Guide to Žižek",
+      "texte_balise": "A Guide to Žižek",
+      "bbox": [
+        28.5,
+        40.6,
+        740.7,
+        138.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Secondary Lit",
+      "texte_balise": "Secondary Lit",
+      "bbox": [
+        2156.7,
+        83.4,
+        2694.5,
+        176.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Žižek's books can be put into two categories; academic philosophy, and popular",
+      "texte_balise": "Žižek's books can be put into two categories; academic philosophy, and popular",
+      "bbox": [
+        24.4,
+        166.5,
+        1611.6,
+        223.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "books about current events in politics. This guide is only concerned with the former.",
+      "texte_balise": "books about current events in politics. This guide is only concerned with the former.",
+      "bbox": [
+        28.5,
+        243.7,
+        1680.8,
+        292.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reading Žižek requires familiarity with the history of philosophy generally, and with",
+      "texte_balise": "Reading Žižek requires familiarity with the history of philosophy generally, and with",
+      "bbox": [
+        326.7,
+        312.7,
+        1960.0,
+        382.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hegel, Marx, Freud, Lacan, and Althusser in particular.",
+      "texte_balise": "Hegel, Marx, Freud, Lacan, and Althusser in particular.",
+      "bbox": [
+        329.7,
+        397.6,
+        1404.1,
+        450.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zizek",
+      "texte_balise": "Zizek",
+      "bbox": [
+        2214.0,
+        402.1,
+        2291.3,
+        446.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "žIŽEK'S",
+      "texte_balise": "žIŽEK'S",
+      "bbox": [
+        2502.2,
+        409.5,
+        2691.1,
+        487.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Film",
+      "texte_balise": "Film",
+      "bbox": [
+        1355.2,
+        442.7,
+        1473.3,
+        499.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POLITICS",
+      "texte_balise": "POLITICS",
+      "bbox": [
+        2462.9,
+        464.0,
+        2698.3,
+        533.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Deleuze",
+      "texte_balise": "On Deleuze",
+      "bbox": [
+        765.1,
+        471.1,
+        948.3,
+        499.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leftist Debates",
+      "texte_balise": "Leftist Debates",
+      "bbox": [
+        350.0,
+        483.3,
+        577.9,
+        515.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sublime",
+      "texte_balise": "The Sublime",
+      "bbox": [
+        24.4,
+        527.5,
+        191.3,
+        552.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Object of",
+      "texte_balise": "Object of",
+      "bbox": [
+        24.4,
+        556.3,
+        150.6,
+        580.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jodi Dean",
+      "texte_balise": "Jodi Dean",
+      "bbox": [
+        2620.9,
+        564.5,
+        2702.3,
+        584.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ideology",
+      "texte_balise": "Ideology",
+      "bbox": [
+        20.3,
+        584.8,
+        142.4,
+        613.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "organs",
+      "texte_balise": "organs",
+      "bbox": [
+        728.2,
+        587.5,
+        904.2,
+        650.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        1448.8,
+        597.0,
+        1501.7,
+        613.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj Žižek",
+      "texte_balise": "Slavoj Žižek",
+      "bbox": [
+        109.9,
+        621.4,
+        207.6,
+        645.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "without",
+      "texte_balise": "without",
+      "bbox": [
+        814.0,
+        621.4,
+        940.1,
+        641.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIDICULOUS",
+      "texte_balise": "RIDICULOUS",
+      "bbox": [
+        1448.8,
+        625.5,
+        1526.2,
+        633.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"RODIES",
+      "texte_balise": "\"RODIES",
+      "bbox": [
+        744.8,
+        641.7,
+        956.4,
+        674.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUR ME",
+      "texte_balise": "SUR ME",
+      "bbox": [
+        1448.8,
+        645.4,
+        1505.8,
+        653.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On David Lynch's Lost Highway",
+      "texte_balise": "On David Lynch's Lost Highway",
+      "bbox": [
+        1448.8,
+        670.1,
+        1619.8,
+        678.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fabio Vighi",
+      "texte_balise": "Fabio Vighi",
+      "bbox": [
+        2128.5,
+        682.3,
+        2181.4,
+        698.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj Žižek",
+      "texte_balise": "Slavoj Žižek",
+      "bbox": [
+        1448.6,
+        709.4,
+        1575.3,
+        740.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LE HERE AND POETHER",
+      "texte_balise": "LE HERE AND POETHER",
+      "bbox": [
+        1172.1,
+        718.9,
+        1334.9,
+        755.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Contingency, Hegemony,",
+      "texte_balise": "Contingency, Hegemony,",
+      "bbox": [
+        350.0,
+        731.0,
+        577.9,
+        755.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on",
+      "texte_balise": "on",
+      "bbox": [
+        769.2,
+        731.0,
+        801.7,
+        751.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Deleuze and",
+      "texte_balise": "Deleuze and",
+      "bbox": [
+        771.8,
+        735.1,
+        876.9,
+        769.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Consequences",
+      "texte_balise": "Consequences",
+      "bbox": [
+        778.0,
+        745.9,
+        907.1,
+        794.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Universality",
+      "texte_balise": "Universality",
+      "bbox": [
+        370.3,
+        759.5,
+        480.2,
+        779.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Žižek's Ontology",
+      "texte_balise": "Žižek's Ontology",
+      "bbox": [
+        2473.9,
+        763.0,
+        2650.0,
+        792.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj Žižek",
+      "texte_balise": "Slavoj Žižek",
+      "bbox": [
+        805.8,
+        812.3,
+        944.2,
+        836.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "neory or sublectvity",
+      "texte_balise": "neory or sublectvity",
+      "bbox": [
+        2482.6,
+        812.3,
+        2616.9,
+        820.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADRIAN JOHNSTON",
+      "texte_balise": "ADRIAN JOHNSTON",
+      "bbox": [
+        2478.5,
+        828.3,
+        2572.1,
+        836.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ludith Butler. Ernesto Laciau and Slavoi Zizel",
+      "texte_balise": "ludith Butler. Ernesto Laciau and Slavoi Zizel",
+      "bbox": [
+        374.4,
+        832.3,
+        569.8,
+        840.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Žižek's Dialectics",
+      "texte_balise": "On Žižek's Dialectics",
+      "bbox": [
+        2128.5,
+        832.3,
+        2360.5,
+        861.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For they know not",
+      "texte_balise": "For they know not",
+      "bbox": [
+        65.1,
+        885.2,
+        207.6,
+        905.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity Trilogy",
+      "texte_balise": "Christianity Trilogy",
+      "bbox": [
+        1045.9,
+        885.2,
+        1351.2,
+        930.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Surplus, Subtraction, Sublimation",
+      "texte_balise": "Surplus, Subtraction, Sublimation",
+      "bbox": [
+        2128.5,
+        885.2,
+        2319.8,
+        905.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "what they do",
+      "texte_balise": "what they do",
+      "bbox": [
+        32.3,
+        904.7,
+        138.6,
+        931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Enjoyment as a political factor",
+      "texte_balise": "Enjoyment as a political factor",
+      "bbox": [
+        36.6,
+        930.1,
+        207.6,
+        950.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Schelling",
+      "texte_balise": "On Schelling",
+      "bbox": [
+        378.4,
+        946.1,
+        553.5,
+        983.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PUPPET AND THE DWARF",
+      "texte_balise": "THE PUPPET AND THE DWARF",
+      "bbox": [
+        1111.0,
+        954.2,
+        1334.9,
+        971.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OR WHY IS THE",
+      "texte_balise": "OR WHY IS THE",
+      "bbox": [
+        899.4,
+        956.4,
+        993.0,
+        1049.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj Zizek",
+      "texte_balise": "Slavoj Zizek",
+      "bbox": [
+        109.8,
+        962.1,
+        207.7,
+        987.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Slavoj Zižek",
+      "texte_balise": "Slavoj Zižek",
+      "bbox": [
+        109.9,
+        963.9,
+        207.6,
+        988.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WHICHING FOR",
+      "texte_balise": "WHICHING FOR",
+      "bbox": [
+        870.9,
+        966.6,
+        1019.5,
+        1114.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CHRISTIAN LEGACY",
+      "texte_balise": "CHRISTIAN LEGACY",
+      "bbox": [
+        895.3,
+        970.6,
+        1003.2,
+        1078.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Monstrosity of Christ",
+      "texte_balise": "The Monstrosity of Christ",
+      "bbox": [
+        1432.6,
+        970.7,
+        1656.4,
+        991.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PERVERSE CORE OF CHRISTIANITY",
+      "texte_balise": "THE PERVERSE CORE OF CHRISTIANITY",
+      "bbox": [
+        1139.5,
+        980.6,
+        1302.3,
+        988.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVO| ŽIŽEK",
+      "texte_balise": "SLAVO| ŽIŽEK",
+      "bbox": [
+        415.1,
+        982.9,
+        504.7,
+        1003.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SLAVO ZZEK",
+      "texte_balise": "SLAVO ZZEK",
+      "bbox": [
+        415.1,
+        992.8,
+        500.6,
+        1000.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARADOX OR DIALECTIC?",
+      "texte_balise": "PARADOX OR DIALECTIC?",
+      "bbox": [
+        1485.5,
+        996.8,
+        1603.5,
+        1013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NORTH FIGHTIN",
+      "texte_balise": "NORTH FIGHTIN",
+      "bbox": [
+        889.7,
+        1018.2,
+        981.1,
+        1104.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE INDIVISIBLE REMAINDER",
+      "texte_balise": "THE INDIVISIBLE REMAINDER",
+      "bbox": [
+        370.3,
+        1047.8,
+        549.4,
+        1068.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEINDIVISIRLE REMAINDER",
+      "texte_balise": "THEINDIVISIRLE REMAINDER",
+      "bbox": [
+        370.3,
+        1053.7,
+        545.3,
+        1061.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASlavoj Zizek",
+      "texte_balise": "ASlavoj Zizek",
+      "bbox": [
+        24.4,
+        1067.9,
+        183.2,
+        1105.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AN ESSAY ON SCHELLING AND RELATED MATTERS",
+      "texte_balise": "AN ESSAY ON SCHELLING AND RELATED MATTERS",
+      "bbox": [
+        370.3,
+        1073.8,
+        545.3,
+        1082.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIC 10",
+      "texte_balise": "SIC 10",
+      "bbox": [
+        1941.3,
+        1130.8,
+        1982.0,
+        1155.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "žİžEK",
+      "texte_balise": "žİžEK",
+      "bbox": [
+        2189.0,
+        1194.6,
+        2373.2,
+        1278.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Ceciest un dien",
+      "texte_balise": "Ceciest un dien",
+      "bbox": [
+        1497.7,
+        1199.7,
+        1587.2,
+        1220.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "lahn Wilhan.",
+      "texte_balise": "lahn Wilhan.",
+      "bbox": [
+        1546.5,
+        1256.7,
+        1615.7,
+        1264.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "slavo LIzeR",
+      "texte_balise": "slavo LIzeR",
+      "bbox": [
+        1465.1,
+        1260.7,
+        1534.3,
+        1269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CRESTON DAVIS",
+      "texte_balise": "CRESTON DAVIS",
+      "bbox": [
+        1550.6,
+        1276.6,
+        1607.6,
+        1285.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND HIS CONTEMPORARIES",
+      "texte_balise": "AND HIS CONTEMPORARIES",
+      "bbox": [
+        2193.6,
+        1280.6,
+        2368.6,
+        1289.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Main line of major books",
+      "texte_balise": "Main line of major books",
+      "bbox": [
+        630.0,
+        1350.5,
+        1225.0,
+        1420.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BENTAL",
+      "texte_balise": "BENTAL",
+      "bbox": [
+        12.2,
+        1455.8,
+        81.4,
+        1492.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Recent short interventions",
+      "texte_balise": "Recent short interventions",
+      "bbox": [
+        1440.7,
+        1459.5,
+        2006.4,
+        1508.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LESSTHAN",
+      "texte_balise": "LESSTHAN",
+      "bbox": [
+        758.3,
+        1466.5,
+        991.7,
+        1512.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A New German",
+      "texte_balise": "A New German",
+      "bbox": [
+        2494.8,
+        1472.0,
+        2633.1,
+        1496.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Parallax View",
+      "texte_balise": "The Parallax View",
+      "bbox": [
+        435.5,
+        1480.1,
+        606.4,
+        1504.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON THE EMERGENCE OF THE",
+      "texte_balise": "ON THE EMERGENCE OF THE",
+      "bbox": [
+        2157.0,
+        1484.2,
+        2332.0,
+        1496.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Idealism *",
+      "texte_balise": "* Idealism *",
+      "bbox": [
+        2494.7,
+        1491.7,
+        2629.2,
+        1517.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLOVENIAN LAGAN",
+      "texte_balise": "SLOVENIAN LAGAN",
+      "bbox": [
+        2177.3,
+        1496.4,
+        2315.7,
+        1516.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVOI",
+      "texte_balise": "SLAVOI",
+      "bbox": [
+        1094.5,
+        1516.0,
+        1265.9,
+        1570.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTHING",
+      "texte_balise": "NOTHING",
+      "bbox": [
+        757.0,
+        1516.7,
+        980.8,
+        1553.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JONES IRWIN I HELENA MOTON",
+      "texte_balise": "JONES IRWIN I HELENA MOTON",
+      "bbox": [
+        2157.0,
+        1524.4,
+        2332.0,
+        1533.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoi Zižek",
+      "texte_balise": "Slavoi Zižek",
+      "bbox": [
+        1851.7,
+        1528.4,
+        1949.4,
+        1549.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Disparities Slavoj Žižek",
+      "texte_balise": "Disparities Slavoj Žižek",
+      "bbox": [
+        1620.1,
+        1536.2,
+        1667.1,
+        1854.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOMSBURY",
+      "texte_balise": "BLOOMSBURY",
+      "bbox": [
+        2173.3,
+        1549.2,
+        2319.8,
+        1565.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEGEL AND THE SHADOW OF",
+      "texte_balise": "HEGEL AND THE SHADOW OF",
+      "bbox": [
+        761.0,
+        1557.3,
+        980.8,
+        1577.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ŻIŽEK",
+      "texte_balise": "ŻIŽEK",
+      "bbox": [
+        1115.1,
+        1565.4,
+        1245.3,
+        1626.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "DIALECTICAL MATERALISV",
+      "texte_balise": "DIALECTICAL MATERALISV",
+      "bbox": [
+        765.1,
+        1581.4,
+        960.5,
+        1589.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ABSOLUTE",
+      "texte_balise": "ABSOLUTE",
+      "bbox": [
+        1066.1,
+        1625.6,
+        1298.4,
+        1684.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "You can either start with SOI and read",
+      "texte_balise": "You can either start with SOI and read",
+      "bbox": [
+        2014.5,
+        1675.1,
+        2755.2,
+        1720.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRECOL",
+      "texte_balise": "DRECOL",
+      "bbox": [
+        1066.2,
+        1678.8,
+        1261.7,
+        1736.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVOJ",
+      "texte_balise": "SLAVOJ",
+      "bbox": [
+        777.3,
+        1699.5,
+        956.4,
+        1727.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ABSENT",
+      "texte_balise": "ABSENT",
+      "bbox": [
+        97.7,
+        1731.9,
+        146.5,
+        1752.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZIZEK",
+      "texte_balise": "ZIZEK",
+      "bbox": [
+        777.3,
+        1736.0,
+        952.3,
+        1768.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "forward, or skip to Absolute Recoil,",
+      "texte_balise": "forward, or skip to Absolute Recoil,",
+      "bbox": [
+        2010.5,
+        1748.2,
+        2698.3,
+        1797.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONTINEN",
+      "texte_balise": "CONTINEN",
+      "bbox": [
+        1798.8,
+        1764.4,
+        1888.4,
+        1780.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj Žižek",
+      "texte_balise": "Slavoj Žižek",
+      "bbox": [
+        386.5,
+        1780.0,
+        508.8,
+        1805.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "which Žižek says is his fullest and most",
+      "texte_balise": "which Žižek says is his fullest and most",
+      "bbox": [
+        2014.0,
+        1806.6,
+        2784.3,
+        1873.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "complete 'position statement' to date",
+      "texte_balise": "complete 'position statement' to date",
+      "bbox": [
+        2014.0,
+        1877.5,
+        2735.4,
+        1938.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In the mainline Sublime Object and FTKN, and LTN and Absolute Recoil should",
+      "texte_balise": "In the mainline Sublime Object and FTKN, and LTN and Absolute Recoil should",
+      "bbox": [
+        0.0,
+        1878.1,
+        1412.2,
+        1927.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "each be treated as a pair. These are also the four most essential books to read.",
+      "texte_balise": "each be treated as a pair. These are also the four most essential books to read.",
+      "bbox": [
+        0.0,
+        1930.1,
+        1411.7,
+        1988.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

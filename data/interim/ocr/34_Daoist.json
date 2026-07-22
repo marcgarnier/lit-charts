@@ -1,0 +1,1554 @@
+{
+  "fichier": "34_Daoist.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:41.219678+00:00",
+  "duree_s": 3.6,
+  "taille_origine": [
+    2416,
+    5956
+  ],
+  "nb_bandes": 5,
+  "nb_lignes": 140,
+  "lignes": [
+    {
+      "texte": "Daoist Texts",
+      "texte_balise": "Daoist Texts",
+      "bbox": [
+        870.9,
+        42.0,
+        1604.8,
+        154.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAO TE",
+      "texte_balise": "TAO TE",
+      "bbox": [
+        1014.7,
+        300.6,
+        1327.6,
+        375.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHAMBHALA DRAGON EDITIONS",
+      "texte_balise": "SHAMBHALA DRAGON EDITIONS",
+      "bbox": [
+        1917.3,
+        311.8,
+        2208.8,
+        329.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIEH-TZU",
+      "texte_balise": "LIEH-TZU",
+      "bbox": [
+        1941.9,
+        371.1,
+        2159.7,
+        410.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHING",
+      "texte_balise": "CHING",
+      "bbox": [
+        1011.3,
+        375.1,
+        1327.4,
+        455.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZHUANGZI",
+      "texte_balise": "ZHUANGZI",
+      "bbox": [
+        1513.5,
+        410.1,
+        1727.7,
+        445.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Taoist Guide to Practical Living",
+      "texte_balise": "A Taoist Guide to Practical Living",
+      "bbox": [
+        1920.9,
+        427.6,
+        2187.7,
+        448.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC BOOK OF INTEGRITY AND THE WAY",
+      "texte_balise": "THE CLASSIC BOOK OF INTEGRITY AND THE WAY",
+      "bbox": [
+        1014.9,
+        452.2,
+        1323.9,
+        466.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FUE COMPLETE WRITINGS",
+      "texte_balise": "FUE COMPLETE WRITINGS",
+      "bbox": [
+        1524.0,
+        455.7,
+        1720.7,
+        473.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I'm interested in Daoism.",
+      "texte_balise": "I'm interested in Daoism.",
+      "bbox": [
+        175.6,
+        480.2,
+        811.2,
+        536.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I wonder where to start...",
+      "texte_balise": "I wonder where to start...",
+      "bbox": [
+        175.6,
+        529.3,
+        821.7,
+        599.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROOK ZIPORYN",
+      "texte_balise": "ROOK ZIPORYN",
+      "bbox": [
+        1569.7,
+        673.0,
+        1678.6,
+        690.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eva Wong",
+      "texte_balise": "Eva Wong",
+      "bbox": [
+        1987.3,
+        693.0,
+        2114.2,
+        723.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAO TZU",
+      "texte_balise": "LAO TZU",
+      "bbox": [
+        1057.0,
+        718.5,
+        1281.7,
+        760.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASED ON THE REGENT DISCOVERED MA WANG TUT MANUSCRIPT",
+      "texte_balise": "BASED ON THE REGENT DISCOVERED MA WANG TUT MANUSCRIPT",
+      "bbox": [
+        1021.9,
+        760.4,
+        1313.3,
+        785.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE WORKS OF",
+      "texte_balise": "THE COMPLETE WORKS OF",
+      "bbox": [
+        804.2,
+        963.9,
+        1067.5,
+        981.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2145.6,
+        967.4,
+        2205.3,
+        988.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAO Tzu",
+      "texte_balise": "LAO Tzu",
+      "bbox": [
+        784.9,
+        975.4,
+        1077.4,
+        1058.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAOIST",
+      "texte_balise": "TAOIST",
+      "bbox": [
+        2106.9,
+        988.2,
+        2240.5,
+        1023.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tai Shang Gan Ying Pian",
+      "texte_balise": "Tai Shang Gan Ying Pian",
+      "bbox": [
+        1211.5,
+        995.3,
+        1453.8,
+        1020.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        2089.2,
+        1018.9,
+        2258.2,
+        1056.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LB LOUIUU",
+      "texte_balise": "LB LOUIUU",
+      "bbox": [
+        2092.9,
+        1043.0,
+        2258.0,
+        1054.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hm... I am interested.",
+      "texte_balise": "Hm... I am interested.",
+      "bbox": [
+        52.7,
+        1044.2,
+        621.6,
+        1097.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COLLECTAR TRASIEATIONS OF",
+      "texte_balise": "COLLECTAR TRASIEATIONS OF",
+      "bbox": [
+        2082.4,
+        1055.1,
+        2289.6,
+        1072.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "...",
+      "texte_balise": "...",
+      "bbox": [
+        2198.3,
+        1057.0,
+        2286.1,
+        1074.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Thomas Cleary",
+      "texte_balise": "Thomas Cleary",
+      "bbox": [
+        2089.4,
+        1069.1,
+        2254.5,
+        1097.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•FOLENE OXE.",
+      "texte_balise": "•FOLENE OXE.",
+      "bbox": [
+        2096.4,
+        1109.6,
+        2254.5,
+        1130.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Tao Te Chire",
+      "texte_balise": "Tao Te Chire",
+      "bbox": [
+        2135.1,
+        1232.4,
+        2212.3,
+        1249.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tao Te Chira",
+      "texte_balise": "Tao Te Chira",
+      "bbox": [
+        2135.1,
+        1237.1,
+        2205.3,
+        1244.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chuarg tea",
+      "texte_balise": "Chuarg tea",
+      "bbox": [
+        2138.6,
+        1253.4,
+        2205.3,
+        1271.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wee Fru",
+      "texte_balise": "Wee Fru",
+      "bbox": [
+        2145.6,
+        1268.9,
+        2194.8,
+        1286.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WeE.u",
+      "texte_balise": "WeE.u",
+      "bbox": [
+        2145.3,
+        1273.1,
+        2195.1,
+        1286.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "VEGETABLE ROOTS DISCOURSE",
+      "texte_balise": "VEGETABLE ROOTS DISCOURSE",
+      "bbox": [
+        1629.4,
+        1282.9,
+        1854.1,
+        1300.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CACEUTEN OY MONE TICHNE",
+      "texte_balise": "CACEUTEN OY MONE TICHNE",
+      "bbox": [
+        1657.5,
+        1307.0,
+        1822.5,
+        1314.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CAIGENTAN BY HONG LICHENG",
+      "texte_balise": "CAIGENTAN BY HONG LICHENG",
+      "bbox": [
+        1657.5,
+        1309.5,
+        1822.5,
+        1316.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KANSLA ED ANO INTRODUCED RY",
+      "texte_balise": "KANSLA ED ANO INTRODUCED RY",
+      "bbox": [
+        1671.5,
+        1330.6,
+        1815.5,
+        1337.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in Bami oe kams",
+      "texte_balise": "in Bami oe kams",
+      "bbox": [
+        1685.6,
+        1361.8,
+        1794.4,
+        1369.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ende nra pesanan",
+      "texte_balise": "ende nra pesanan",
+      "bbox": [
+        856.8,
+        1372.7,
+        1004.3,
+        1379.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "by Haa-Ching N.",
+      "texte_balise": "by Haa-Ching N.",
+      "bbox": [
+        877.9,
+        1382.8,
+        986.8,
+        1400.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLETE",
+      "texte_balise": "THE COMPLETE",
+      "bbox": [
+        1099.1,
+        1614.6,
+        1260.7,
+        1635.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        1017.9,
+        1633.5,
+        1327.9,
+        1708.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NUMEROLOGY OF THE",
+      "texte_balise": "THE NUMEROLOGY OF THE",
+      "bbox": [
+        1956.0,
+        1639.2,
+        2156.1,
+        1656.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        1959.5,
+        1656.6,
+        2145.6,
+        1698.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UINDERSTANDING",
+      "texte_balise": "UINDERSTANDING",
+      "bbox": [
+        1524.0,
+        1656.7,
+        1727.7,
+        1681.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1594.3,
+        1684.8,
+        1650.5,
+        1709.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        1478.4,
+        1702.3,
+        1755.8,
+        1772.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time to study the Yijing.",
+      "texte_balise": "Time to study the Yijing.",
+      "bbox": [
+        161.5,
+        1740.5,
+        772.6,
+        1800.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Searcherl ef Spalak)",
+      "texte_balise": "A Searcherl ef Spalak)",
+      "bbox": [
+        1970.0,
+        1982.9,
+        2135.1,
+        2000.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Smuctures, and Tradcioeal Wiicdom",
+      "texte_balise": "Smuctures, and Tradcioeal Wiicdom",
+      "bbox": [
+        1941.9,
+        2000.4,
+        2170.2,
+        2018.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Master Albred Huang",
+      "texte_balise": "Master Albred Huang",
+      "bbox": [
+        1980.6,
+        2025.0,
+        2124.5,
+        2042.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TACHET MASTER ALFIED HUAND",
+      "texte_balise": "TACHET MASTER ALFIED HUAND",
+      "bbox": [
+        1517.0,
+        2032.0,
+        1734.7,
+        2049.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILFRED HUANC",
+      "texte_balise": "ILFRED HUANC",
+      "bbox": [
+        1186.9,
+        2039.0,
+        1292.3,
+        2053.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Taoist Meditation",
+      "texte_balise": "Taoist Meditation",
+      "bbox": [
+        1485.4,
+        2382.7,
+        1762.8,
+        2421.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Way of the",
+      "texte_balise": "The Way of the",
+      "bbox": [
+        1910.0,
+        2388.5,
+        2061.7,
+        2433.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Thread of Dac",
+      "texte_balise": "The Thread of Dac",
+      "bbox": [
+        1035.9,
+        2398.8,
+        1313.3,
+        2437.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Thread of Dao",
+      "texte_balise": "The Thread of Dao",
+      "bbox": [
+        1035.9,
+        2400.1,
+        1313.3,
+        2435.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "World",
+      "texte_balise": "World",
+      "bbox": [
+        1938.4,
+        2428.3,
+        2029.7,
+        2459.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Basunlng Euity Senat Oit Stadibeer",
+      "texte_balise": "Basunlng Euity Senat Oit Stadibeer",
+      "bbox": [
+        1035.9,
+        2431.8,
+        1320.4,
+        2453.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Methode for Cultivating a",
+      "texte_balise": "Methode for Cultivating a",
+      "bbox": [
+        1520.5,
+        2444.4,
+        1731.2,
+        2462.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Methods tor Cultwating a",
+      "texte_balise": "Methods tor Cultwating a",
+      "bbox": [
+        1520.5,
+        2449.1,
+        1727.7,
+        2460.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hes thy Mind and Body",
+      "texte_balise": "Hes thy Mind and Body",
+      "bbox": [
+        1527.6,
+        2461.8,
+        1724.2,
+        2479.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Cove 221",
+      "texte_balise": "= Cove 221",
+      "bbox": [
+        1141.3,
+        2466.9,
+        1211.5,
+        2484.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Hen thy Vind and boay",
+      "texte_balise": "Hen thy Vind and boay",
+      "bbox": [
+        1527.6,
+        2466.9,
+        1724.2,
+        2477.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RADINGS TN",
+      "texte_balise": "RADINGS TN",
+      "bbox": [
+        1948.8,
+        2480.0,
+        2022.9,
+        2499.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ROADINES IN",
+      "texte_balise": "ROADINES IN",
+      "bbox": [
+        1949.0,
+        2486.5,
+        2015.7,
+        2493.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UMATE O LT-VIENN TEKA",
+      "texte_balise": "UMATE O LT-VIENN TEKA",
+      "bbox": [
+        1078.1,
+        2487.9,
+        1271.2,
+        2495.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Antine mus HaaereMrwm Xie Said",
+      "texte_balise": "Antine mus HaaereMrwm Xie Said",
+      "bbox": [
+        1085.1,
+        2501.9,
+        1264.2,
+        2512.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHINESE PHIL OSOPHN",
+      "texte_balise": "CHINESE PHIL OSOPHN",
+      "bbox": [
+        1927.9,
+        2501.9,
+        2040.3,
+        2509.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHINESE PHILOSOPHY",
+      "texte_balise": "CHINESE PHILOSOPHY",
+      "bbox": [
+        1927.9,
+        2503.8,
+        2040.3,
+        2511.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The next six are also essential.",
+      "texte_balise": "The next six are also essential.",
+      "bbox": [
+        55.8,
+        2643.8,
+        832.7,
+        2700.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "franstated bs",
+      "texte_balise": "franstated bs",
+      "bbox": [
+        1583.7,
+        2805.6,
+        1664.5,
+        2816.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS CLEARY",
+      "texte_balise": "THOMAS CLEARY",
+      "bbox": [
+        1520.5,
+        2819.6,
+        1731.2,
+        2840.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1597.8,
+        3096.7,
+        1664.5,
+        3114.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2026.2,
+        3100.2,
+        2089.4,
+        3121.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1162.3,
+        3107.3,
+        1222.0,
+        3128.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAOIST",
+      "texte_balise": "TAOIST",
+      "bbox": [
+        1566.1,
+        3113.8,
+        1699.7,
+        3146.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAOIST",
+      "texte_balise": "TAOIST",
+      "bbox": [
+        1983.9,
+        3120.6,
+        2121.2,
+        3157.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAOIST",
+      "texte_balise": "TAOIST",
+      "bbox": [
+        1123.6,
+        3124.4,
+        1260.8,
+        3160.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        1544.8,
+        3147.6,
+        1721.0,
+        3186.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        1969.8,
+        3151.8,
+        2142.3,
+        3192.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        1106.1,
+        3159.7,
+        1274.8,
+        3195.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Clears",
+      "texte_balise": "Thomas Clears",
+      "bbox": [
+        1552.1,
+        3202.0,
+        1717.2,
+        3226.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Cleary",
+      "texte_balise": "Thomas Cleary",
+      "bbox": [
+        1969.4,
+        3204.8,
+        2142.7,
+        3234.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Cleary",
+      "texte_balise": "Thomas Cleary",
+      "bbox": [
+        1106.2,
+        3212.3,
+        1274.7,
+        3237.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•VoLENE",
+      "texte_balise": "•VoLENE",
+      "bbox": [
+        1538.1,
+        3240.5,
+        1632.9,
+        3258.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•PoLENE FoUR.",
+      "texte_balise": "•PoLENE FoUR.",
+      "bbox": [
+        1966.5,
+        3244.0,
+        2149.1,
+        3265.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tro.",
+      "texte_balise": "Tro.",
+      "bbox": [
+        1208.0,
+        3247.5,
+        1278.2,
+        3265.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vastirs, Eares Spire",
+      "texte_balise": "Vastirs, Eares Spire",
+      "bbox": [
+        1562.7,
+        3366.8,
+        1699.6,
+        3384.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tasist 1 Ching",
+      "texte_balise": "The Tasist 1 Ching",
+      "bbox": [
+        1994.6,
+        3408.9,
+        2110.5,
+        3426.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Ching Mandalar",
+      "texte_balise": "1 Ching Mandalar",
+      "bbox": [
+        1998.1,
+        3429.9,
+        2110.5,
+        3447.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Brak of Balance",
+      "texte_balise": "The Brak of Balance",
+      "bbox": [
+        1127.2,
+        3432.0,
+        1253.7,
+        3450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Ching Mandalan",
+      "texte_balise": "1 Ching Mandalan",
+      "bbox": [
+        1994.6,
+        3432.0,
+        2121.0,
+        3450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAOIST",
+      "texte_balise": "DAOIST",
+      "bbox": [
+        1558.9,
+        3865.7,
+        1720.9,
+        3903.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JADE WRITING",
+      "texte_balise": "JADE WRITING",
+      "bbox": [
+        1934.9,
+        3870.4,
+        2173.7,
+        3902.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Taoist",
+      "texte_balise": "The Taoist",
+      "bbox": [
+        1070.8,
+        3887.1,
+        1281.9,
+        3937.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYSTICAL",
+      "texte_balise": "MYSTICAL",
+      "bbox": [
+        1555.7,
+        3909.0,
+        1720.7,
+        3940.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILOSOPHY",
+      "texte_balise": "PHILOSOPHY",
+      "bbox": [
+        1555.7,
+        3940.5,
+        1720.7,
+        3968.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Experience",
+      "texte_balise": "Experience",
+      "bbox": [
+        1073.8,
+        3943.0,
+        1299.6,
+        3989.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN ANTHOLOCY",
+      "texte_balise": "AN ANTHOLOCY",
+      "bbox": [
+        1186.9,
+        3986.1,
+        1295.8,
+        4003.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SCRIPTURE OF",
+      "texte_balise": "THE SCRIPTURE OF",
+      "bbox": [
+        1555.7,
+        4221.1,
+        1724.2,
+        4242.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "adad to lois Archangel",
+      "texte_balise": "adad to lois Archangel",
+      "bbox": [
+        1945.4,
+        4273.4,
+        2078.9,
+        4291.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Loia Kchr",
+      "texte_balise": "Loia Kchr",
+      "bbox": [
+        1176.4,
+        4284.1,
+        1281.8,
+        4308.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LIVIA KOHN",
+      "texte_balise": "LIVIA KOHN",
+      "bbox": [
+        1555.7,
+        4284.2,
+        1724.2,
+        4308.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Glad by lake Arkang",
+      "texte_balise": "Glad by lake Arkang",
+      "bbox": [
+        1991.1,
+        4287.4,
+        2114.0,
+        4305.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LITE& TLACHING OFTWO IMMORTALS",
+      "texte_balise": "LITE& TLACHING OFTWO IMMORTALS",
+      "bbox": [
+        1485.4,
+        4638.2,
+        1766.3,
+        4659.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LITE& TEACHING OF TDOIMMORTNIS",
+      "texte_balise": "LITE& TEACHING OF TDOIMMORTNIS",
+      "bbox": [
+        1910.3,
+        4638.2,
+        2191.3,
+        4656.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LITE&: TIACHING OF TWO IMMORTALS",
+      "texte_balise": "LITE&: TIACHING OF TWO IMMORTALS",
+      "bbox": [
+        1485.4,
+        4640.6,
+        1766.3,
+        4662.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LITE& TEACHING OFT COIMMORINIS",
+      "texte_balise": "LITE& TEACHING OFT COIMMORINIS",
+      "bbox": [
+        1910.3,
+        4640.6,
+        2191.3,
+        4658.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOLUME IT",
+      "texte_balise": "VOLUME IT",
+      "bbox": [
+        2012.2,
+        4663.0,
+        2089.4,
+        4684.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOLLINE 1",
+      "texte_balise": "VOLLINE 1",
+      "bbox": [
+        1590.8,
+        4668.6,
+        1664.5,
+        4690.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "VOLUME I",
+      "texte_balise": "VOLUME I",
+      "bbox": [
+        2012.2,
+        4668.6,
+        2089.4,
+        4686.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KOU HONG",
+      "texte_balise": "KOU HONG",
+      "bbox": [
+        1510.0,
+        4694.1,
+        1738.3,
+        4730.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHEN TUAN",
+      "texte_balise": "CHEN TUAN",
+      "bbox": [
+        1934.9,
+        4694.1,
+        2163.2,
+        4730.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "At this point you probably",
+      "texte_balise": "At this point you probably",
+      "bbox": [
+        94.8,
+        4747.1,
+        748.0,
+        4807.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "don't even need this chart",
+      "texte_balise": "don't even need this chart",
+      "bbox": [
+        94.8,
+        4806.8,
+        758.5,
+        4859.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1208.0,
+        4831.3,
+        1239.6,
+        4845.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JADE",
+      "texte_balise": "JADE",
+      "bbox": [
+        1179.9,
+        4848.9,
+        1260.7,
+        4876.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMPEROR'S",
+      "texte_balise": "EMPEROR'S",
+      "bbox": [
+        1151.6,
+        4879.5,
+        1292.5,
+        4909.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anymore",
+      "texte_balise": "anymore",
+      "bbox": [
+        94.8,
+        4887.5,
+        312.5,
+        4908.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anymore.",
+      "texte_balise": "anymore.",
+      "bbox": [
+        94.7,
+        4889.0,
+        333.7,
+        4935.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIND SEAL",
+      "texte_balise": "MIND SEAL",
+      "bbox": [
+        1144.8,
+        4910.7,
+        1295.8,
+        4939.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSIC",
+      "texte_balise": "CLASSIC",
+      "bbox": [
+        1165.8,
+        4942.0,
+        1278.3,
+        4970.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Garist Guide",
+      "texte_balise": "The Garist Guide",
+      "bbox": [
+        1151.7,
+        4987.0,
+        1295.9,
+        5013.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "60 Heath, Longevity,",
+      "texte_balise": "60 Heath, Longevity,",
+      "bbox": [
+        1144.8,
+        5015.9,
+        1299.3,
+        5040.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Immortality",
+      "texte_balise": "and Immortality",
+      "bbox": [
+        1155.3,
+        5047.0,
+        1288.8,
+        5069.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUA-CHING NI",
+      "texte_balise": "HUA-CHING NI",
+      "bbox": [
+        1534.6,
+        5086.0,
+        1717.2,
+        5114.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUA CHING NI",
+      "texte_balise": "HUA CHING NI",
+      "bbox": [
+        1956.0,
+        5086.0,
+        2142.1,
+        5111.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STUART ALVE OLSON",
+      "texte_balise": "STUART ALVE OLSON",
+      "bbox": [
+        1148.3,
+        5089.6,
+        1299.3,
+        5107.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anything by",
+      "texte_balise": "Anything by",
+      "bbox": [
+        940.6,
+        5377.7,
+        1377.1,
+        5460.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAI CHI",
+      "texte_balise": "TAI CHI",
+      "bbox": [
+        1909.9,
+        5396.5,
+        2170.6,
+        5463.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAOIST",
+      "texte_balise": "TAOIST",
+      "bbox": [
+        1657.5,
+        5457.9,
+        1798.0,
+        5496.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eva Wong",
+      "texte_balise": "Eva Wong",
+      "bbox": [
+        940.6,
+        5474.3,
+        1304.2,
+        5548.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOGA",
+      "texte_balise": "YOGA",
+      "bbox": [
+        1657.4,
+        5496.2,
+        1784.0,
+        5535.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Fabrizio",
+      "texte_balise": "and Fabrizio",
+      "bbox": [
+        941.1,
+        5573.6,
+        1390.6,
+        5640.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alchemy &",
+      "texte_balise": "Alchemy &",
+      "bbox": [
+        1657.3,
+        5639.6,
+        1787.6,
+        5669.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Immortality",
+      "texte_balise": "Immortality",
+      "bbox": [
+        1657.5,
+        5664.8,
+        1794.4,
+        5692.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Predagio",
+      "texte_balise": "Predagio",
+      "bbox": [
+        941.0,
+        5667.9,
+        1271.3,
+        5746.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LU K'UAN YU",
+      "texte_balise": "LU K'UAN YU",
+      "bbox": [
+        1654.0,
+        5777.0,
+        1780.4,
+        5798.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(CHARLES LUK)",
+      "texte_balise": "(CHARLES LUK)",
+      "bbox": [
+        1661.0,
+        5798.0,
+        1790.9,
+        5816.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        2019.2,
+        5822.7,
+        2089.4,
+        5840.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

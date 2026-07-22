@@ -1,0 +1,57 @@
+{
+  "fichier": "01_Ancient Western Philosophy.jpeg",
+  "date": "2026-07-21T19:28:36.201277+00:00",
+  "taille_origine": [
+    1858,
+    1354
+  ],
+  "hauteur_ligne_mediane": 16.2,
+  "regime": "grille",
+  "regime_source": "vlm:grid",
+  "nb_blocs": 1,
+  "nb_noeuds": 4,
+  "tiers": [
+    "http://plato.stanford.edu/entries/presocratics/"
+  ],
+  "intitules_isoles": [
+    "Version 1",
+    "http://plato.stanford.edu/entries/presocratics/",
+    "(note made by Isabelle: later translations are usually more acessible. I AM not a fan of Jowett. Since she",
+    "Cynicism",
+    "Sinope: A Study of Greek",
+    "The Nature of Things",
+    "Neoplatonism",
+    "From Pyrrho To",
+    "Sextus",
+    "Norman Maccoll"
+  ],
+  "blocs": [
+    {
+      "tier": "http://plato.stanford.edu/entries/presocratics/",
+      "bbox": null,
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "On Socrates",
+          "auteur": "NATIONAL BESTSELLER",
+          "tier": "http://plato.stanford.edu/entries/presocratics/"
+        },
+        {
+          "titre": "On Plato",
+          "auteur": null,
+          "tier": "http://plato.stanford.edu/entries/presocratics/"
+        },
+        {
+          "titre": "Note Depicted: \"Plato' by Constance Meinwald",
+          "auteur": "By KARL R. POPPER",
+          "tier": "http://plato.stanford.edu/entries/presocratics/"
+        },
+        {
+          "titre": "By Plato",
+          "auteur": "Early works:",
+          "tier": "http://plato.stanford.edu/entries/presocratics/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "fichier": "07_Intro to Esotericism.jpeg",
+  "date": "2026-07-21T19:28:36.443588+00:00",
+  "taille_origine": [
+    960,
+    1512
+  ],
+  "hauteur_ligne_mediane": 13.2,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 2,
+  "nb_noeuds": 12,
+  "tiers": [
+    "Your we Somebe Coone",
+    "Mysticism"
+  ],
+  "intitules_isoles": [
+    "The Book of Formation",
+    "Your we Somebe Coone",
+    "Mysticism"
+  ],
+  "blocs": [
+    {
+      "tier": "Your we Somebe Coone",
+      "bbox": null,
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Selected Poems",
+          "auteur": "Rumi",
+          "tier": "Your we Somebe Coone"
+        },
+        {
+          "titre": "The Conference of",
+          "auteur": "the Birds",
+          "tier": "Your we Somebe Coone"
+        },
+        {
+          "titre": "Psychology and",
+          "auteur": "Alchemy",
+          "tier": "Your we Somebe Coone"
+        },
+        {
+          "titre": "The Secret",
+          "auteur": "Teachings of All",
+          "tier": "Your we Somebe Coone"
+        },
+        {
+          "titre": "Lectures on",
+          "auteur": "Ancient",
+          "tier": "Your we Somebe Coone"
+        },
+        {
+          "titre": "Alchemy and",
+          "auteur": null,
+          "tier": "Your we Somebe Coone"
+        }
+      ]
+    },
+    {
+      "tier": "Mysticism",
+      "bbox": null,
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Giordano Bruno",
+          "auteur": "and the Hermetic",
+          "tier": "Mysticism"
+        },
+        {
+          "titre": "The Rosicrucian",
+          "auteur": "Enlightenment",
+          "tier": "Mysticism"
+        },
+        {
+          "titre": "John Dee: The",
+          "auteur": "World of an",
+          "tier": "Mysticism"
+        },
+        {
+          "titre": "Food of the Gods",
+          "auteur": "Terence",
+          "tier": "Mysticism"
+        },
+        {
+          "titre": "True",
+          "auteur": "Hallucinations",
+          "tier": "Mysticism"
+        },
+        {
+          "titre": "Theatrum Chemicum",
+          "auteur": "Brittannicum",
+          "tier": "Mysticism"
+        }
+      ]
+    }
+  ]
+}

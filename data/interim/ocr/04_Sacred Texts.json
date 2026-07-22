@@ -1,0 +1,3237 @@
+{
+  "fichier": "04_Sacred Texts.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:50:55.786939+00:00",
+  "duree_s": 2.9,
+  "taille_origine": [
+    2000,
+    2820
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 293,
+  "lignes": [
+    {
+      "texte": "World Religions - Sacred Texts in English",
+      "texte_balise": "World Religions - Sacred Texts in English",
+      "bbox": [
+        502.9,
+        29.0,
+        1511.6,
+        98.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Central texts of a canon or otherwise some introductory texts for religions without a codified canon",
+      "texte_balise": "Central texts of a canon or otherwise some introductory texts for religions without a codified canon",
+      "bbox": [
+        590.1,
+        107.4,
+        1453.5,
+        130.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Judaism",
+      "texte_balise": "Judaism",
+      "bbox": [
+        353.9,
+        168.8,
+        494.9,
+        217.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity",
+      "texte_balise": "Christianity",
+      "bbox": [
+        865.4,
+        169.6,
+        1067.6,
+        211.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Islam",
+      "texte_balise": "Islam",
+      "bbox": [
+        1479.7,
+        174.2,
+        1572.7,
+        212.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Babylonian Talmud",
+      "texte_balise": "Babylonian Talmud",
+      "bbox": [
+        473.8,
+        223.6,
+        683.1,
+        255.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tanakh",
+      "texte_balise": "Tanakh",
+      "bbox": [
+        217.9,
+        226.0,
+        299.6,
+        250.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Holy Bible",
+      "texte_balise": "Holy Bible",
+      "bbox": [
+        915.6,
+        226.2,
+        1035.0,
+        255.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Quran",
+      "texte_balise": "Quran",
+      "bbox": [
+        1328.5,
+        226.5,
+        1401.2,
+        249.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Forty Hadith",
+      "texte_balise": "The Forty Hadith",
+      "bbox": [
+        1581.4,
+        226.5,
+        1779.1,
+        258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The canon of sacred Jewish writings",
+      "texte_balise": "The canon of sacred Jewish writings",
+      "bbox": [
+        162.8,
+        252.6,
+        366.3,
+        267.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The canon of sacred Jewish and",
+      "texte_balise": "The canon of sacred Jewish and",
+      "bbox": [
+        883.7,
+        252.6,
+        1066.9,
+        267.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Allah's revelations to the prophet Muhammad",
+      "texte_balise": "Allah's revelations to the prophet Muhammad",
+      "bbox": [
+        1238.4,
+        252.6,
+        1491.3,
+        267.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A compendium of Rabbinic writings, a central",
+      "texte_balise": "A compendium of Rabbinic writings, a central",
+      "bbox": [
+        453.5,
+        255.5,
+        706.4,
+        270.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of important saying of the prophet",
+      "texte_balise": "A collection of important saying of the prophet",
+      "bbox": [
+        1552.3,
+        255.5,
+        1805.2,
+        270.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "collection of texts for Jewish religious law (Halakhah)",
+      "texte_balise": "collection of texts for Jewish religious law (Halakhah)",
+      "bbox": [
+        433.1,
+        266.7,
+        726.7,
+        284.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christian writings",
+      "texte_balise": "Christian writings",
+      "bbox": [
+        924.4,
+        266.7,
+        1023.3,
+        281.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Muhammad compiled by medieval scholar Al-Nawawi",
+      "texte_balise": "Muhammad compiled by medieval scholar Al-Nawawi",
+      "bbox": [
+        1529.1,
+        269.7,
+        1825.6,
+        284.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY",
+      "texte_balise": "HOLY",
+      "bbox": [
+        857.6,
+        299.1,
+        933.1,
+        316.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE QUR'ÂN",
+      "texte_balise": "THE QUR'ÂN",
+      "bbox": [
+        1238.4,
+        304.7,
+        1340.1,
+        322.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLE",
+      "texte_balise": "BIBLE",
+      "bbox": [
+        854.7,
+        319.4,
+        939.0,
+        339.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tanakh: The Holy",
+      "texte_balise": "Tanakh: The Holy",
+      "bbox": [
+        244.2,
+        325.2,
+        380.8,
+        345.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HOLY",
+      "texte_balise": "THE HOLY",
+      "bbox": [
+        162.6,
+        336.1,
+        238.5,
+        355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NRSV Bible",
+      "texte_balise": "NRSV Bible",
+      "bbox": [
+        953.5,
+        339.7,
+        1052.3,
+        357.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Scriptures",
+      "texte_balise": "Scriptures",
+      "bbox": [
+        244.1,
+        345.4,
+        322.7,
+        363.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Talmud:",
+      "texte_balise": "The Talmud:",
+      "bbox": [
+        566.9,
+        348.5,
+        671.5,
+        365.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An-Nawawi's Forty",
+      "texte_balise": "An-Nawawi's Forty",
+      "bbox": [
+        1659.9,
+        348.5,
+        1811.0,
+        368.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCRIPTURES",
+      "texte_balise": "SCRIPTURES",
+      "bbox": [
+        145.2,
+        350.7,
+        241.4,
+        369.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Qur'an: A New",
+      "texte_balise": "The Qur'an: A New",
+      "bbox": [
+        1351.7,
+        351.4,
+        1500.0,
+        368.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] NRSV committee",
+      "texte_balise": "[T] NRSV committee",
+      "bbox": [
+        953.5,
+        357.2,
+        1075.6,
+        371.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Jewish Publication Society",
+      "texte_balise": "[T] Jewish Publication Society",
+      "bbox": [
+        244.2,
+        359.7,
+        418.6,
+        374.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Selection",
+      "texte_balise": "A Selection",
+      "bbox": [
+        564.0,
+        368.7,
+        648.3,
+        383.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hadith",
+      "texte_balise": "Hadith",
+      "bbox": [
+        1657.0,
+        368.7,
+        1715.1,
+        386.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Annotated Translation",
+      "texte_balise": "Annotated Translation",
+      "bbox": [
+        1348.8,
+        371.6,
+        1511.6,
+        386.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NR$V",
+      "texte_balise": "NR$V",
+      "bbox": [
+        869.2,
+        383.3,
+        921.5,
+        400.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "TAbridamenti",
+      "texte_balise": "TAbridamenti",
+      "bbox": [
+        566.9,
+        386.2,
+        659.9,
+        397.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Ezzedin Ibrahim",
+      "texte_balise": "[T] Ezzedin Ibrahim",
+      "bbox": [
+        1657.0,
+        386.2,
+        1773.3,
+        403.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Arthur J. Droge",
+      "texte_balise": "[T] Arthur J. Droge",
+      "bbox": [
+        1348.8,
+        388.6,
+        1456.4,
+        403.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "iT] Denys J. Davis",
+      "texte_balise": "iT] Denys J. Davis",
+      "bbox": [
+        1657.0,
+        397.6,
+        1764.5,
+        415.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T] Norman Solomon",
+      "texte_balise": "T] Norman Solomon",
+      "bbox": [
+        569.8,
+        400.6,
+        691.9,
+        412.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete",
+      "texte_balise": "The Complete",
+      "bbox": [
+        1566.9,
+        511.1,
+        1642.4,
+        525.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forty Hadith",
+      "texte_balise": "Forty Hadith",
+      "bbox": [
+        1569.8,
+        528.5,
+        1636.6,
+        534.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KJV Bible",
+      "texte_balise": "KJV Bible",
+      "bbox": [
+        953.5,
+        537.2,
+        1034.9,
+        554.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Qur'an",
+      "texte_balise": "The Qur'an",
+      "bbox": [
+        1337.2,
+        537.2,
+        1441.9,
+        554.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Forty",
+      "texte_balise": "The Complete Forty",
+      "bbox": [
+        1665.7,
+        537.2,
+        1828.5,
+        557.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Old Testament",
+      "texte_balise": "Old Testament",
+      "bbox": [
+        139.5,
+        548.5,
+        241.3,
+        563.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Everyman's Talmud",
+      "texte_balise": "Everyman's Talmud",
+      "bbox": [
+        564.0,
+        548.5,
+        723.8,
+        569.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] KJV committee",
+      "texte_balise": "[T] KJV committee",
+      "bbox": [
+        953.5,
+        557.5,
+        1061.0,
+        572.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hadith",
+      "texte_balise": "Hadith",
+      "bbox": [
+        1665.7,
+        557.5,
+        1723.8,
+        575.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[Abridgment]",
+      "texte_balise": "[Abridgment]",
+      "bbox": [
+        563.9,
+        565.8,
+        660.0,
+        584.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Holy Bible",
+      "texte_balise": "of Holy Bible",
+      "bbox": [
+        145.3,
+        566.1,
+        232.6,
+        583.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Abdassamad Clarke",
+      "texte_balise": "[T] Abdassamad Clarke",
+      "bbox": [
+        1665.7,
+        575.0,
+        1805.2,
+        589.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] Abraham Cohen",
+      "texte_balise": "[P] Abraham Cohen",
+      "bbox": [
+        564.0,
+        583.4,
+        680.2,
+        598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "С-ШР",
+      "texte_balise": "С-ШР",
+      "bbox": [
+        1229.7,
+        630.1,
+        1345.9,
+        653.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Buddhism",
+      "texte_balise": "Buddhism",
+      "bbox": [
+        1058.1,
+        717.3,
+        1220.9,
+        755.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zoroastrianism",
+      "texte_balise": "Zoroastrianism",
+      "bbox": [
+        1555.2,
+        717.3,
+        1802.3,
+        752.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hinduism",
+      "texte_balise": "Hinduism",
+      "bbox": [
+        339.7,
+        718.3,
+        506.2,
+        756.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theravada",
+      "texte_balise": "Theravada",
+      "bbox": [
+        935.8,
+        765.7,
+        1029.3,
+        790.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theravada",
+      "texte_balise": "Theravada",
+      "bbox": [
+        1247.0,
+        766.0,
+        1343.2,
+        790.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bhagavad Gita",
+      "texte_balise": "Bhagavad Gita",
+      "bbox": [
+        185.8,
+        768.5,
+        346.2,
+        805.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mahabharata",
+      "texte_balise": "Mahabharata",
+      "bbox": [
+        496.9,
+        768.7,
+        639.7,
+        796.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Avesta",
+      "texte_balise": "Avesta",
+      "bbox": [
+        1651.1,
+        769.3,
+        1723.9,
+        790.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dhammapada",
+      "texte_balise": "Dhammapada",
+      "bbox": [
+        906.9,
+        786.6,
+        1055.3,
+        816.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pali Canon Excerpts",
+      "texte_balise": "Pali Canon Excerpts",
+      "bbox": [
+        1186.0,
+        789.8,
+        1415.7,
+        816.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The canon of Zoroastrian sacred texts and songs,",
+      "texte_balise": "The canon of Zoroastrian sacred texts and songs,",
+      "bbox": [
+        1540.7,
+        792.8,
+        1831.4,
+        810.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A discourse between Lord Krishna and Arjuna",
+      "texte_balise": "A discourse between Lord Krishna and Arjuna",
+      "bbox": [
+        130.8,
+        798.2,
+        398.3,
+        816.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The longest epic in existence, a series of connected",
+      "texte_balise": "The longest epic in existence, a series of connected",
+      "bbox": [
+        424.4,
+        798.2,
+        732.6,
+        816.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "attributed to the prophet Zarathustra (Zoroaster)",
+      "texte_balise": "attributed to the prophet Zarathustra (Zoroaster)",
+      "bbox": [
+        1546.5,
+        810.2,
+        1828.5,
+        824.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on the nature of life",
+      "texte_balise": "on the nature of life",
+      "bbox": [
+        206.4,
+        816.0,
+        322.7,
+        827.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "stories of heroism. romance, war, and divinity",
+      "texte_balise": "stories of heroism. romance, war, and divinity",
+      "bbox": [
+        444.8,
+        816.0,
+        706.4,
+        827.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Acollection of the Buddha's sayings on a",
+      "texte_balise": "Acollection of the Buddha's sayings on a",
+      "bbox": [
+        872.1,
+        816.0,
+        1101.7,
+        830.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selections of the Buddha's saying from",
+      "texte_balise": "Selections of the Buddha's saying from",
+      "bbox": [
+        1191.9,
+        816.0,
+        1412.8,
+        830.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "virule Travale ville",
+      "texte_balise": "virule Travale ville",
+      "bbox": [
+        209.3,
+        823.0,
+        319.8,
+        829.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "•clechulls rule buuullds saylly Holll",
+      "texte_balise": "•clechulls rule buuullds saylly Holll",
+      "bbox": [
+        1191.9,
+        823.0,
+        1409.9,
+        829.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Theravada texts (the Pali canon)",
+      "texte_balise": "Theravada texts (the Pali canon)",
+      "bbox": [
+        1215.1,
+        827.2,
+        1395.3,
+        845.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wide range of topics",
+      "texte_balise": "wide range of topics",
+      "bbox": [
+        930.2,
+        830.2,
+        1043.6,
+        845.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bhagavadgita",
+      "texte_balise": "Bhagavadgita",
+      "bbox": [
+        133.7,
+        847.7,
+        223.9,
+        868.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mahabharata",
+      "texte_balise": "The Mahabharata",
+      "bbox": [
+        581.4,
+        882.8,
+        726.7,
+        900.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bhagavadgita",
+      "texte_balise": "The Bhagavadgita",
+      "bbox": [
+        241.3,
+        894.2,
+        392.4,
+        915.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREDRICH MAX MÜLLER",
+      "texte_balise": "FREDRICH MAX MÜLLER",
+      "bbox": [
+        1581.4,
+        894.2,
+        1671.5,
+        909.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRIEDRICH MAX MÜLLER",
+      "texte_balise": "FRIEDRICH MAX MÜLLER",
+      "bbox": [
+        1584.3,
+        895.6,
+        1671.5,
+        910.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "110 Volumesl",
+      "texte_balise": "110 Volumesl",
+      "bbox": [
+        581.4,
+        903.1,
+        671.5,
+        915.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[10 Volumes]",
+      "texte_balise": "[10 Volumes]",
+      "bbox": [
+        581.4,
+        904.0,
+        671.5,
+        919.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Zend Avesta",
+      "texte_balise": "The Zend Avesta",
+      "bbox": [
+        1689.0,
+        908.9,
+        1828.5,
+        929.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dhammapada",
+      "texte_balise": "The Dhammapada",
+      "bbox": [
+        962.2,
+        911.8,
+        1113.4,
+        929.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the Mahabharata",
+      "texte_balise": "in the Mahabharata",
+      "bbox": [
+        238.4,
+        914.7,
+        377.9,
+        932.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sayings of the",
+      "texte_balise": "Sayings of the",
+      "bbox": [
+        1270.3,
+        914.7,
+        1386.6,
+        932.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Til Bibek Debrov",
+      "texte_balise": "Til Bibek Debrov",
+      "bbox": [
+        584.3,
+        917.4,
+        677.4,
+        929.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T] Bibek Debroy",
+      "texte_balise": "T] Bibek Debroy",
+      "bbox": [
+        584.3,
+        918.9,
+        680.2,
+        931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1593.0,
+        924.7,
+        1622.1,
+        939.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] John R. Carter",
+      "texte_balise": "[T] John R. Carter",
+      "bbox": [
+        962.2,
+        926.1,
+        1066.9,
+        944.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] J.A.B. van Buitenen",
+      "texte_balise": "[T] J.A.B. van Buitenen",
+      "bbox": [
+        238.4,
+        929.1,
+        372.1,
+        944.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[3 volumes]",
+      "texte_balise": "[3 volumes]",
+      "bbox": [
+        1688.9,
+        930.3,
+        1764.6,
+        948.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "13 volumes",
+      "texte_balise": "13 volumes",
+      "bbox": [
+        1689.0,
+        932.1,
+        1761.6,
+        941.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Buddha",
+      "texte_balise": "Buddha",
+      "bbox": [
+        1270.3,
+        935.0,
+        1334.3,
+        949.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T i Mahinda Palihawadana",
+      "texte_balise": "[T i Mahinda Palihawadana",
+      "bbox": [
+        962.2,
+        942.0,
+        1116.3,
+        960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- [T] Mahinda Palihawadana",
+      "texte_balise": "- [T] Mahinda Palihawadana",
+      "bbox": [
+        953.5,
+        943.8,
+        1116.3,
+        958.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Sacred Books of The",
+      "texte_balise": "(Sacred Books of The",
+      "bbox": [
+        1689.0,
+        943.8,
+        1828.5,
+        961.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Rupert Gethin",
+      "texte_balise": "[T] Rupert Gethin",
+      "bbox": [
+        1270.3,
+        952.1,
+        1372.1,
+        967.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "East vol. 4, 23. 31)",
+      "texte_balise": "East vol. 4, 23. 31)",
+      "bbox": [
+        1689.0,
+        958.1,
+        1802.3,
+        973.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "East vol. 4, 23, 31)",
+      "texte_balise": "East vol. 4, 23, 31)",
+      "bbox": [
+        1689.0,
+        959.6,
+        1805.2,
+        977.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "E] Friedrich Max Muller",
+      "texte_balise": "E] Friedrich Max Muller",
+      "bbox": [
+        1691.9,
+        972.8,
+        1825.6,
+        990.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] James Darmesteter",
+      "texte_balise": "[T] James Darmesteter",
+      "bbox": [
+        1689.0,
+        988.6,
+        1825.6,
+        1003.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "iT] Lawrence H. Mills",
+      "texte_balise": "iT] Lawrence H. Mills",
+      "bbox": [
+        1689.0,
+        1000.0,
+        1811.0,
+        1018.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Lawrence H. Mills",
+      "texte_balise": "[T] Lawrence H. Mills",
+      "bbox": [
+        1689.0,
+        1001.8,
+        1811.0,
+        1016.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Buddha's",
+      "texte_balise": "Buddha's",
+      "bbox": [
+        1186.0,
+        1070.0,
+        1244.2,
+        1084.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In The Buddha's",
+      "texte_balise": "In The Buddha's",
+      "bbox": [
+        1273.3,
+        1072.9,
+        1407.0,
+        1093.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Words",
+      "texte_balise": "Words",
+      "bbox": [
+        1191.8,
+        1087.2,
+        1235.5,
+        1102.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bhagavad Gita",
+      "texte_balise": "The Bhagavad Gita",
+      "bbox": [
+        241.3,
+        1090.0,
+        398.3,
+        1108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Mahabharata",
+      "texte_balise": "The Mahabharata",
+      "bbox": [
+        555.2,
+        1090.0,
+        700.6,
+        1108.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dhammapada",
+      "texte_balise": "The Dhammapada",
+      "bbox": [
+        959.3,
+        1093.0,
+        1110.5,
+        1111.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Words",
+      "texte_balise": "Words",
+      "bbox": [
+        1270.3,
+        1096.2,
+        1328.5,
+        1110.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Gavin Flood",
+      "texte_balise": "[T] Gavin Flood",
+      "bbox": [
+        241.3,
+        1107.8,
+        331.4,
+        1122.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[Abridged]",
+      "texte_balise": "[Abridged]",
+      "bbox": [
+        552.3,
+        1110.7,
+        630.8,
+        1125.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Valerie Roebuck",
+      "texte_balise": "[T] Valerie Roebuck",
+      "bbox": [
+        956.4,
+        1110.7,
+        1075.6,
+        1125.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Bhikkhu Bodhi",
+      "texte_balise": "[T] Bhikkhu Bodhi",
+      "bbox": [
+        1270.3,
+        1110.7,
+        1377.9,
+        1128.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Charles Martin",
+      "texte_balise": "[T] Charles Martin",
+      "bbox": [
+        238.4,
+        1122.0,
+        345.9,
+        1137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] John D. Smith",
+      "texte_balise": "[P] John D. Smith",
+      "bbox": [
+        555.2,
+        1122.0,
+        657.0,
+        1137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BRAGAVAD CHA",
+      "texte_balise": "THE BRAGAVAD CHA",
+      "bbox": [
+        130.8,
+        1151.0,
+        223.8,
+        1157.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sikhism",
+      "texte_balise": "Sikhism",
+      "bbox": [
+        1616.0,
+        1167.9,
+        1744.4,
+        1207.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Upanishads",
+      "texte_balise": "Upanishads",
+      "bbox": [
+        514.2,
+        1216.8,
+        639.9,
+        1251.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mahayana",
+      "texte_balise": "Mahayana",
+      "bbox": [
+        1252.7,
+        1217.5,
+        1340.3,
+        1239.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mahayana",
+      "texte_balise": "Mahayana",
+      "bbox": [
+        935.9,
+        1217.8,
+        1029.2,
+        1241.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guru Granth Sahib",
+      "texte_balise": "Guru Granth Sahib",
+      "bbox": [
+        1578.5,
+        1218.0,
+        1787.8,
+        1244.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ramayana",
+      "texte_balise": "Ramayana",
+      "bbox": [
+        208.5,
+        1223.2,
+        322.9,
+        1247.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Diamond Sutra",
+      "texte_balise": "Diamond Sutra",
+      "bbox": [
+        901.2,
+        1241.0,
+        1069.8,
+        1265.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lotus Sutra",
+      "texte_balise": "Lotus Sutra",
+      "bbox": [
+        1232.5,
+        1241.1,
+        1351.8,
+        1262.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writings ofthe Sikh aurus and other revered toures.",
+      "texte_balise": "Writings ofthe Sikh aurus and other revered toures.",
+      "bbox": [
+        1546.5,
+        1244.2,
+        1831.5,
+        1256.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An epic poem about prince Rama's struggles",
+      "texte_balise": "An epic poem about prince Rama's struggles",
+      "bbox": [
+        136.6,
+        1247.0,
+        389.5,
+        1262.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Early philosophical discourses about",
+      "texte_balise": "Early philosophical discourses about",
+      "bbox": [
+        476.7,
+        1247.0,
+        686.0,
+        1262.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Regarded as a written guru (spiritual teacher).",
+      "texte_balise": "Regarded as a written guru (spiritual teacher).",
+      "bbox": [
+        1561.0,
+        1256.0,
+        1819.8,
+        1271.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "against the demon king Ravana",
+      "texte_balise": "against the demon king Ravana",
+      "bbox": [
+        174.4,
+        1261.8,
+        354.7,
+        1276.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "reality and existence",
+      "texte_balise": "reality and existence",
+      "bbox": [
+        520.3,
+        1261.8,
+        639.5,
+        1276.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A central text in Zen/Chan Buddhism,",
+      "texte_balise": "A central text in Zen/Chan Buddhism,",
+      "bbox": [
+        877.9,
+        1267.6,
+        1081.4,
+        1282.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An important text for many Mahayana schools,",
+      "texte_balise": "An important text for many Mahayana schools,",
+      "bbox": [
+        1171.5,
+        1267.6,
+        1424.4,
+        1282.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "focusing on anatman (non-self)",
+      "texte_balise": "focusing on anatman (non-self)",
+      "bbox": [
+        889.5,
+        1279.0,
+        1069.8,
+        1297.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "focusing on the path of the Bodhisattva",
+      "texte_balise": "focusing on the path of the Bodhisattva",
+      "bbox": [
+        1189.0,
+        1279.0,
+        1407.0,
+        1297.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Curu Cranth Sal",
+      "texte_balise": "Curu Cranth Sal",
+      "bbox": [
+        1566.9,
+        1305.0,
+        1645.3,
+        1311.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE VAJRA PRAINA",
+      "texte_balise": "THE VAJRA PRAINA",
+      "bbox": [
+        851.7,
+        1343.0,
+        947.7,
+        1355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guru Granth Sahib",
+      "texte_balise": "Guru Granth Sahib",
+      "bbox": [
+        1677.3,
+        1343.0,
+        1828.5,
+        1361.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ramayana",
+      "texte_balise": "The Ramayana",
+      "bbox": [
+        244.2,
+        1349.0,
+        369.2,
+        1366.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARANITA SUTRA Vajra Prajna Paramita",
+      "texte_balise": "PARANITA SUTRA Vajra Prajna Paramita",
+      "bbox": [
+        866.3,
+        1351.9,
+        1133.7,
+        1369.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Principle",
+      "texte_balise": "The Principle",
+      "bbox": [
+        558.1,
+        1354.8,
+        668.6,
+        1372.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BDK English Tripitaka",
+      "texte_balise": "BDK English Tripitaka",
+      "bbox": [
+        1267.4,
+        1354.8,
+        1421.5,
+        1372.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "17 Volumes]",
+      "texte_balise": "17 Volumes]",
+      "bbox": [
+        1674.4,
+        1363.5,
+        1758.7,
+        1378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[3 volumes]",
+      "texte_balise": "[3 volumes]",
+      "bbox": [
+        244.0,
+        1365.3,
+        328.7,
+        1384.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sutra: A General",
+      "texte_balise": "Sutra: A General",
+      "bbox": [
+        956.4,
+        1369.0,
+        1081.4,
+        1390.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lotus Sutra",
+      "texte_balise": "The Lotus Sutra",
+      "bbox": [
+        1267.4,
+        1372.0,
+        1401.2,
+        1390.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Upanishads",
+      "texte_balise": "Upanishads",
+      "bbox": [
+        558.1,
+        1375.1,
+        657.0,
+        1392.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Harjinder Singh Dilgeer",
+      "texte_balise": "[T] Harjinder Singh Dilgeer",
+      "bbox": [
+        1671.5,
+        1378.0,
+        1831.4,
+        1393.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Bibek Debroy",
+      "texte_balise": "[T] Bibek Debroy",
+      "bbox": [
+        241.3,
+        1383.8,
+        343.0,
+        1398.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Explanation",
+      "texte_balise": "Explanation",
+      "bbox": [
+        956.1,
+        1388.0,
+        1043.9,
+        1408.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Tsugunari Kubo",
+      "texte_balise": "[T] Tsugunari Kubo",
+      "bbox": [
+        1267.4,
+        1389.7,
+        1380.8,
+        1407.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Sarvepalli Radhakrishnan",
+      "texte_balise": "[T] Sarvepalli Radhakrishnan",
+      "bbox": [
+        555.2,
+        1392.6,
+        726.7,
+        1407.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T jAkira Yuyama",
+      "texte_balise": "[T jAkira Yuyama",
+      "bbox": [
+        1267.4,
+        1404.0,
+        1366.3,
+        1422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHRI GURU",
+      "texte_balise": "SHRI GURU",
+      "bbox": [
+        1581.4,
+        1491.0,
+        1648.3,
+        1503.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIAMOND",
+      "texte_balise": "DIAMOND",
+      "bbox": [
+        886.6,
+        1503.0,
+        953.5,
+        1517.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRANTH SAHIB",
+      "texte_balise": "GRANTH SAHIB",
+      "bbox": [
+        1566.9,
+        1505.9,
+        1657.0,
+        1523.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUTRA",
+      "texte_balise": "SUTRA",
+      "bbox": [
+        901.2,
+        1517.5,
+        950.6,
+        1532.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shri Guru Granth",
+      "texte_balise": "Shri Guru Granth",
+      "bbox": [
+        1668.6,
+        1520.0,
+        1811.0,
+        1535.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ramayana",
+      "texte_balise": "The Ramayana",
+      "bbox": [
+        244.2,
+        1532.0,
+        369.2,
+        1552.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Upanishads",
+      "texte_balise": "Upanishads",
+      "bbox": [
+        558.1,
+        1537.9,
+        657.0,
+        1555.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sahib",
+      "texte_balise": "Sahib",
+      "bbox": [
+        1668.6,
+        1537.9,
+        1718.0,
+        1555.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Patrick Olivelle",
+      "texte_balise": "[T] Patrick Olivelle",
+      "bbox": [
+        555.2,
+        1552.0,
+        662.8,
+        1570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[Abridged]",
+      "texte_balise": "[Abridged]",
+      "bbox": [
+        244.2,
+        1552.4,
+        319.8,
+        1569.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lotus Sutra",
+      "texte_balise": "The Lotus Sutra",
+      "bbox": [
+        1270.3,
+        1555.0,
+        1401.2,
+        1576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[4 Volumes]",
+      "texte_balise": "[4 Volumes]",
+      "bbox": [
+        1668.5,
+        1557.8,
+        1753.0,
+        1576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Diamond Sutra",
+      "texte_balise": "The Diamond Sutra",
+      "bbox": [
+        959.3,
+        1558.0,
+        1119.2,
+        1576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PlArshia Sattar",
+      "texte_balise": "PlArshia Sattar",
+      "bbox": [
+        247.1,
+        1566.9,
+        340.1,
+        1581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I T] Max Arthur Macauliffe",
+      "texte_balise": "I T] Max Arthur Macauliffe",
+      "bbox": [
+        1665.7,
+        1572.7,
+        1811.0,
+        1587.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "iT Red Pine (Bill Porter)",
+      "texte_balise": "iT Red Pine (Bill Porter)",
+      "bbox": [
+        956.1,
+        1575.2,
+        1102.0,
+        1593.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Burton Watson",
+      "texte_balise": "[T] Burton Watson",
+      "bbox": [
+        1267.4,
+        1575.6,
+        1377.9,
+        1590.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confucianism",
+      "texte_balise": "Confucianism",
+      "bbox": [
+        886.3,
+        1719.2,
+        1107.9,
+        1766.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chinese Folk Religion",
+      "texte_balise": "Chinese Folk Religion",
+      "bbox": [
+        1479.7,
+        1720.9,
+        1828.5,
+        1770.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Taoism",
+      "texte_balise": "Taoism",
+      "bbox": [
+        284.5,
+        1731.3,
+        392.8,
+        1765.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Myths",
+      "texte_balise": "Myths",
+      "bbox": [
+        1781.7,
+        1775.4,
+        1855.0,
+        1808.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analects",
+      "texte_balise": "Analects",
+      "bbox": [
+        796.5,
+        1778.8,
+        889.6,
+        1799.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tao Te Ching",
+      "texte_balise": "Tao Te Ching",
+      "bbox": [
+        104.7,
+        1779.0,
+        250.0,
+        1811.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I Ching",
+      "texte_balise": "I Ching",
+      "bbox": [
+        1453.5,
+        1779.0,
+        1540.7,
+        1808.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zhuangzi",
+      "texte_balise": "Zhuangzi",
+      "bbox": [
+        444.8,
+        1779.1,
+        549.4,
+        1811.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mengzi",
+      "texte_balise": "Mengzi",
+      "bbox": [
+        1116.3,
+        1779.1,
+        1200.6,
+        1811.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Menozi",
+      "texte_balise": "Menozi",
+      "bbox": [
+        1119.2,
+        1783.3,
+        1197.7,
+        1800.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A collection of sayings attributed to Confucius,",
+      "texte_balise": "A collection of sayings attributed to Confucius,",
+      "bbox": [
+        723.8,
+        1805.0,
+        973.8,
+        1820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of sayings and dialogues of Mengzi",
+      "texte_balise": "A collection of sayings and dialogues of Mengzi",
+      "bbox": [
+        1026.2,
+        1806.6,
+        1284.9,
+        1824.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of wisdom sayings, often hard to interpret,",
+      "texte_balise": "A collection of wisdom sayings, often hard to interpret,",
+      "bbox": [
+        34.9,
+        1808.0,
+        331.4,
+        1826.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection of stories illustrating Taoist thought,",
+      "texte_balise": "A collection of stories illustrating Taoist thought,",
+      "bbox": [
+        363.4,
+        1808.0,
+        627.9,
+        1826.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An ancient divination text used for",
+      "texte_balise": "An ancient divination text used for",
+      "bbox": [
+        1407.0,
+        1808.0,
+        1593.0,
+        1823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collections oftraditional Chinese",
+      "texte_balise": "Collections oftraditional Chinese",
+      "bbox": [
+        1732.6,
+        1808.0,
+        1918.6,
+        1823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collections of traditional Chinese",
+      "texte_balise": "Collections of traditional Chinese",
+      "bbox": [
+        1729.7,
+        1809.5,
+        1915.7,
+        1824.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A collection a cavings and dangles a monazi",
+      "texte_balise": "A collection a cavings and dangles a monazi",
+      "bbox": [
+        1026.2,
+        1811.0,
+        1284.9,
+        1817.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "focused on filial piety and political philosophy",
+      "texte_balise": "focused on filial piety and political philosophy",
+      "bbox": [
+        720.9,
+        1819.7,
+        973.8,
+        1834.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Mencius), one of the most influential Confucians",
+      "texte_balise": "(Mencius), one of the most influential Confucians",
+      "bbox": [
+        1023.3,
+        1819.7,
+        1293.6,
+        1834.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "attributed to Laozi (Lao Tzu)",
+      "texte_balise": "attributed to Laozi (Lao Tzu)",
+      "bbox": [
+        107.6,
+        1822.6,
+        261.6,
+        1837.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "attributed to Zhuangzi (Chuang Tzu)",
+      "texte_balise": "attributed to Zhuangzi (Chuang Tzu)",
+      "bbox": [
+        395.3,
+        1822.6,
+        595.9,
+        1837.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fortune telling and mysticism",
+      "texte_balise": "fortune telling and mysticism",
+      "bbox": [
+        1421.5,
+        1822.6,
+        1581.4,
+        1837.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "folks tales and myths",
+      "texte_balise": "folks tales and myths",
+      "bbox": [
+        1761.6,
+        1823.9,
+        1883.7,
+        1838.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "folks tales and muths",
+      "texte_balise": "folks tales and muths",
+      "bbox": [
+        1761.6,
+        1825.5,
+        1880.8,
+        1834.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHINESE",
+      "texte_balise": "CHINESE",
+      "bbox": [
+        1688.8,
+        1857.0,
+        1770.5,
+        1875.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WANDERING",
+      "texte_balise": "WANDERING",
+      "bbox": [
+        369.2,
+        1857.5,
+        447.7,
+        1869.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON THE WAY",
+      "texte_balise": "ON THE WAY",
+      "bbox": [
+        372.0,
+        1871.7,
+        450.6,
+        1884.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MENGZI",
+      "texte_balise": "MENGZI",
+      "bbox": [
+        1034.8,
+        1874.6,
+        1113.5,
+        1892.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONFUCIUS",
+      "texte_balise": "CONFUCIUS",
+      "bbox": [
+        720.9,
+        1875.0,
+        808.1,
+        1889.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dao De Jing: A",
+      "texte_balise": "Dao De Jing: A",
+      "bbox": [
+        168.6,
+        1886.6,
+        290.7,
+        1907.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANALECTS",
+      "texte_balise": "ANALECTS",
+      "bbox": [
+        720.8,
+        1888.9,
+        808.2,
+        1907.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAO DE JING",
+      "texte_balise": "DAO DE JING",
+      "bbox": [
+        52.3,
+        1889.0,
+        159.9,
+        1907.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wandering On The",
+      "texte_balise": "Wandering On The",
+      "bbox": [
+        473.8,
+        1889.0,
+        630.8,
+        1907.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Analects",
+      "texte_balise": "Analects",
+      "bbox": [
+        822.6,
+        1898.0,
+        895.4,
+        1915.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mengzi",
+      "texte_balise": "Mengzi",
+      "bbox": [
+        1130.8,
+        1898.2,
+        1191.9,
+        1918.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophical",
+      "texte_balise": "Philosophical",
+      "bbox": [
+        168.6,
+        1906.9,
+        267.4,
+        1921.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chinese Myths and",
+      "texte_balise": "Chinese Myths and",
+      "bbox": [
+        1790.7,
+        1906.9,
+        1947.7,
+        1927.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Way: Early Taoist",
+      "texte_balise": "Way: Early Taoist",
+      "bbox": [
+        473.8,
+        1909.8,
+        604.7,
+        1927.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I Ching",
+      "texte_balise": "I Ching",
+      "bbox": [
+        1485.5,
+        1909.8,
+        1546.5,
+        1930.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Edward Slingerland",
+      "texte_balise": "[T] Edward Slingerland",
+      "bbox": [
+        822.7,
+        1916.9,
+        956.4,
+        1931.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Bryan W. van Norden",
+      "texte_balise": "[T] Bryan W. van Norden",
+      "bbox": [
+        1130.8,
+        1918.5,
+        1270.3,
+        1933.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-ward slinderland",
+      "texte_balise": "-ward slinderland",
+      "bbox": [
+        822.7,
+        1921.0,
+        953.5,
+        1927.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Translation",
+      "texte_balise": "Translation",
+      "bbox": [
+        165.7,
+        1921.4,
+        250.0,
+        1936.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fantasies",
+      "texte_balise": "Fantasies",
+      "bbox": [
+        1787.8,
+        1924.4,
+        1875.0,
+        1944.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tales and Parables",
+      "texte_balise": "Tales and Parables",
+      "bbox": [
+        473.8,
+        1927.0,
+        610.5,
+        1945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        1380.8,
+        1927.0,
+        1462.2,
+        1942.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] John Minford",
+      "texte_balise": "[T] John Minford",
+      "bbox": [
+        1485.5,
+        1927.0,
+        1584.3,
+        1942.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Roger T.Ames",
+      "texte_balise": "[T] Roger T.Ames",
+      "bbox": [
+        168.6,
+        1936.0,
+        273.3,
+        1953.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Roger T. Ames",
+      "texte_balise": "[T] Roger T. Ames",
+      "bbox": [
+        168.6,
+        1936.8,
+        273.3,
+        1951.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Chuang Tzu",
+      "texte_balise": "of Chuang Tzu",
+      "bbox": [
+        476.7,
+        1944.7,
+        581.4,
+        1959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[PI Cyril Birch",
+      "texte_balise": "[PI Cyril Birch",
+      "bbox": [
+        1787.8,
+        1944.7,
+        1872.1,
+        1959.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] Cyril Birch",
+      "texte_balise": "[P] Cyril Birch",
+      "bbox": [
+        1784.7,
+        1945.2,
+        1872.2,
+        1964.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] David L. Hall",
+      "texte_balise": "[T] David L. Hall",
+      "bbox": [
+        165.7,
+        1950.5,
+        261.6,
+        1965.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Victor H. Mair",
+      "texte_balise": "[T] Victor H. Mair",
+      "bbox": [
+        473.8,
+        1959.0,
+        575.6,
+        1974.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHINESE",
+      "texte_balise": "CHINESE",
+      "bbox": [
+        1694.8,
+        2059.2,
+        1776.2,
+        2073.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYTHS",
+      "texte_balise": "MYTHS",
+      "bbox": [
+        1697.4,
+        2078.3,
+        1764.8,
+        2098.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Analects",
+      "texte_balise": "The Analects",
+      "bbox": [
+        822.7,
+        2090.7,
+        930.2,
+        2108.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mencius",
+      "texte_balise": "Mencius",
+      "bbox": [
+        1133.7,
+        2091.0,
+        1206.4,
+        2108.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chinese Myths",
+      "texte_balise": "Chinese Myths",
+      "bbox": [
+        1787.8,
+        2093.7,
+        1909.9,
+        2111.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I CHING",
+      "texte_balise": "I CHING",
+      "bbox": [
+        1366.3,
+        2096.7,
+        1473.8,
+        2134.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1 Ching",
+      "texte_balise": "1 Ching",
+      "bbox": [
+        1479.7,
+        2096.7,
+        1543.6,
+        2117.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tao Te Ching",
+      "texte_balise": "Tao Te Ching",
+      "bbox": [
+        165.6,
+        2099.5,
+        276.2,
+        2120.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chuang Tzu",
+      "texte_balise": "Chuang Tzu",
+      "bbox": [
+        476.7,
+        2099.7,
+        578.5,
+        2120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[TID. C. Lau",
+      "texte_balise": "[TID. C. Lau",
+      "bbox": [
+        822.7,
+        2108.6,
+        901.2,
+        2126.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] William Dolby",
+      "texte_balise": "[P] William Dolby",
+      "bbox": [
+        1787.5,
+        2109.4,
+        1889.9,
+        2127.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IT D. C. Lau",
+      "texte_balise": "IT D. C. Lau",
+      "bbox": [
+        1130.8,
+        2111.5,
+        1212.2,
+        2123.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Richard Wilhelm",
+      "texte_balise": "[T] Richard Wilhelm",
+      "bbox": [
+        1482.6,
+        2114.4,
+        1601.7,
+        2131.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[ T] D. C. Lau",
+      "texte_balise": "[ T] D. C. Lau",
+      "bbox": [
+        165.7,
+        2120.2,
+        244.2,
+        2134.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(T] D. C. Lau",
+      "texte_balise": "(T] D. C. Lau",
+      "bbox": [
+        473.8,
+        2120.2,
+        555.2,
+        2134.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or book of changes",
+      "texte_balise": "or book of changes",
+      "bbox": [
+        1380.7,
+        2131.3,
+        1462.3,
+        2149.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "African Folk Religion",
+      "texte_balise": "African Folk Religion",
+      "bbox": [
+        965.1,
+        2274.1,
+        1314.0,
+        2323.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shinto",
+      "texte_balise": "Shinto",
+      "bbox": [
+        357.6,
+        2277.0,
+        468.0,
+        2314.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epic of Sundiata",
+      "texte_balise": "Epic of Sundiata",
+      "bbox": [
+        898.3,
+        2329.3,
+        1081.4,
+        2358.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Myths",
+      "texte_balise": "Myths",
+      "bbox": [
+        1258.7,
+        2329.3,
+        1334.3,
+        2361.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nihon Shoki",
+      "texte_balise": "Nihon Shoki",
+      "bbox": [
+        488.1,
+        2330.3,
+        628.2,
+        2360.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kojiki",
+      "texte_balise": "Kojiki",
+      "bbox": [
+        218.0,
+        2332.2,
+        287.8,
+        2358.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Key",
+      "texte_balise": "Key",
+      "bbox": [
+        1564.0,
+        2340.9,
+        1625.0,
+        2375.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The earliest Japanese legend/history book.",
+      "texte_balise": "The earliest Japanese legend/history book.",
+      "bbox": [
+        444.6,
+        2352.3,
+        686.2,
+        2370.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Malian epic about the rise of the",
+      "texte_balise": "A Malian epic about the rise of the",
+      "bbox": [
+        898.3,
+        2358.3,
+        1084.3,
+        2375.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The earliest written collection of myths about the",
+      "texte_balise": "The earliest written collection of myths about the",
+      "bbox": [
+        122.1,
+        2361.2,
+        389.5,
+        2375.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Modern prose retellings of oral traditions",
+      "texte_balise": "Modern prose retellings of oral traditions",
+      "bbox": [
+        1186.0,
+        2361.2,
+        1412.8,
+        2375.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tells the story of Japan from Creation to the 8th century.",
+      "texte_balise": "Tells the story of Japan from Creation to the 8th century.",
+      "bbox": [
+        415.7,
+        2369.4,
+        715.1,
+        2381.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Japanese islands and Kami (spirits/deities)",
+      "texte_balise": "Japanese islands and Kami (spirits/deities)",
+      "bbox": [
+        133.7,
+        2375.4,
+        380.8,
+        2390.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "legendar kina Sundiat",
+      "texte_balise": "legendar kina Sundiat",
+      "bbox": [
+        924.4,
+        2375.4,
+        1055.2,
+        2384.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Often misleadingly called Nihongi in English)",
+      "texte_balise": "(Often misleadingly called Nihongi in English)",
+      "bbox": [
+        459.3,
+        2381.4,
+        677.3,
+        2396.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] = Translator",
+      "texte_balise": "[T] = Translator",
+      "bbox": [
+        1561.0,
+        2396.0,
+        1718.0,
+        2416.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] = Paraphrase/retelling author",
+      "texte_balise": "[P] = Paraphrase/retelling author",
+      "bbox": [
+        1561.0,
+        2416.4,
+        1866.3,
+        2439.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "i Ej = Editor",
+      "texte_balise": "i Ej = Editor",
+      "bbox": [
+        1560.9,
+        2436.1,
+        1683.3,
+        2463.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kojiki",
+      "texte_balise": "Kojiki",
+      "bbox": [
+        119.2,
+        2445.4,
+        151.2,
+        2457.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Suniata: A West African",
+      "texte_balise": "Suniata: A West African",
+      "bbox": [
+        962.2,
+        2454.1,
+        1130.8,
+        2471.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "African Myths of",
+      "texte_balise": "African Myths of",
+      "bbox": [
+        1273.3,
+        2459.9,
+        1409.9,
+        2480.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ": Nihongi",
+      "texte_balise": ": Nihongi",
+      "bbox": [
+        540.7,
+        2471.3,
+        613.4,
+        2489.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kojiki",
+      "texte_balise": "Kojiki",
+      "bbox": [
+        235.4,
+        2474.2,
+        282.1,
+        2492.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Epic of the Mande Peoples",
+      "texte_balise": "Epic of the Mande Peoples",
+      "bbox": [
+        962.2,
+        2474.3,
+        1133.7,
+        2489.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Origin",
+      "texte_balise": "Origin",
+      "bbox": [
+        1276.2,
+        2480.2,
+        1328.5,
+        2500.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[2 Volumes]",
+      "texte_balise": "[2 Volumes]",
+      "bbox": [
+        549.4,
+        2489.0,
+        633.7,
+        2506.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pl David Conrad",
+      "texte_balise": "Pl David Conrad",
+      "bbox": [
+        968.0,
+        2489.0,
+        1064.0,
+        2500.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Donald Philippi",
+      "texte_balise": "[T] Donald Philippi",
+      "bbox": [
+        232.6,
+        2491.9,
+        343.0,
+        2506.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Title of text",
+      "texte_balise": "Title of text",
+      "bbox": [
+        1613.4,
+        2494.3,
+        1703.5,
+        2509.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] Stephen Belcher",
+      "texte_balise": "[P] Stephen Belcher",
+      "bbox": [
+        1267.4,
+        2497.3,
+        1395.3,
+        2515.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] W. G. Aston",
+      "texte_balise": "[T] W. G. Aston",
+      "bbox": [
+        549.4,
+        2503.3,
+        633.7,
+        2518.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Description",
+      "texte_balise": "Description",
+      "bbox": [
+        1625.0,
+        2512.2,
+        1694.8,
+        2523.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTHONGE",
+      "texte_balise": "ANTHONGE",
+      "bbox": [
+        427.3,
+        2535.3,
+        537.8,
+        2570.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Recommended",
+      "texte_balise": "Recommended",
+      "bbox": [
+        1648.3,
+        2561.6,
+        1741.3,
+        2573.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "translation",
+      "texte_balise": "translation",
+      "bbox": [
+        1645.3,
+        2576.1,
+        1712.2,
+        2590.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        473.8,
+        2610.9,
+        505.8,
+        2628.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIHONGI",
+      "texte_balise": "NIHONGI",
+      "bbox": [
+        459.3,
+        2631.3,
+        523.3,
+        2645.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sundiata: An Epic of",
+      "texte_balise": "Sundiata: An Epic of",
+      "bbox": [
+        962.2,
+        2642.9,
+        1116.3,
+        2660.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Kojiki: An Account",
+      "texte_balise": "The Kojiki: An Account",
+      "bbox": [
+        235.5,
+        2645.8,
+        407.0,
+        2663.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "African Folk Tales",
+      "texte_balise": "African Folk Tales",
+      "bbox": [
+        1279.1,
+        2645.8,
+        1424.4,
+        2663.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Nihongi",
+      "texte_balise": "The Nihongi",
+      "bbox": [
+        540.7,
+        2654.2,
+        642.4,
+        2672.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Accessible",
+      "texte_balise": "Accessible",
+      "bbox": [
+        1648.3,
+        2654.5,
+        1718.0,
+        2666.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Old Mali",
+      "texte_balise": "Old Mali",
+      "bbox": [
+        962.1,
+        2659.9,
+        1023.4,
+        2678.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[P] Roger D. Abrahams",
+      "texte_balise": "[P] Roger D. Abrahams",
+      "bbox": [
+        1276.2,
+        2663.1,
+        1412.8,
+        2678.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Ancient Matters",
+      "texte_balise": "of Ancient Matters",
+      "bbox": [
+        232.6,
+        2666.1,
+        366.3,
+        2680.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or cheaper",
+      "texte_balise": "or cheaper",
+      "bbox": [
+        1651.2,
+        2669.0,
+        1715.1,
+        2683.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Basil H. Chamberlain",
+      "texte_balise": "[T] Basil H. Chamberlain",
+      "bbox": [
+        540.7,
+        2671.9,
+        686.0,
+        2686.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[T] Gustav Heldt",
+      "texte_balise": "[T] Gustav Heldt",
+      "bbox": [
+        232.6,
+        2677.7,
+        331.4,
+        2695.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parisiano",
+      "texte_balise": "Parisiano",
+      "bbox": [
+        959.3,
+        2680.6,
+        1066.9,
+        2686.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "translation",
+      "texte_balise": "translation",
+      "bbox": [
+        1648.3,
+        2683.5,
+        1715.1,
+        2698.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

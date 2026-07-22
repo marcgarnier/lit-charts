@@ -1,0 +1,1780 @@
+{
+  "fichier": "17_Christian by Denomination.jpeg",
+  "date": "2026-07-21T19:28:36.622185+00:00",
+  "taille_origine": [
+    3000,
+    2900
+  ],
+  "hauteur_ligne_mediane": 26.1,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 89,
+  "nb_noeuds": 136,
+  "tiers": [
+    "Protestant",
+    "St. Thomas",
+    "THEOLOGIA",
+    "The",
+    "Unseen",
+    "The Way"
+  ],
+  "intitules_isoles": [
+    "Holy Mountin",
+    "Apologia",
+    "Christianity",
+    "hn Henry Newman",
+    "essions",
+    "On the Priesthood",
+    "ChE SAYINGS"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        1019.8,
+        28.4,
+        1247.6,
+        89.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Catholic",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1752.8,
+        30.1,
+        2005.9,
+        87.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Orthodox",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Protestant",
+      "bbox": [
+        2511.6,
+        34.6,
+        2944.2,
+        236.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "* Paradise Lost",
+          "auteur": null,
+          "tier": "Protestant"
+        },
+        {
+          "titre": "JOHN",
+          "auteur": null,
+          "tier": "Protestant"
+        },
+        {
+          "titre": "WESLEY'S",
+          "auteur": null,
+          "tier": "Protestant"
+        },
+        {
+          "titre": "SERMONS",
+          "auteur": null,
+          "tier": "Protestant"
+        },
+        {
+          "titre": "An Antholog)",
+          "auteur": null,
+          "tier": "Protestant"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2018.9,
+        122.5,
+        2185.2,
+        227.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "TIMOTHY WARE O",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ORTHODOX",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHURCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        819.7,
+        130.3,
+        981.2,
+        257.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "CATECHISM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CATHOLIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHURCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "St. Thomas",
+      "bbox": [
+        1273.3,
+        130.8,
+        1443.3,
+        218.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Aquinas",
+          "auteur": null,
+          "tier": "St. Thomas"
+        },
+        {
+          "titre": "Summa Theologica",
+          "auteur": null,
+          "tier": "St. Thomas"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1822.7,
+        148.3,
+        1914.2,
+        187.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ORTHODO",
+          "auteur": "HEOLOG",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1587.2,
+        165.7,
+        1726.7,
+        257.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Law of Goi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.0,
+        170.1,
+        187.5,
+        213.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HOLY",
+          "auteur": "BIBLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1818.3,
+        222.4,
+        1875.0,
+        248.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "12X",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THEOLOGIA",
+      "bbox": [
+        2350.3,
+        235.5,
+        2459.3,
+        327.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "GERMANICA",
+          "auteur": null,
+          "tier": "THEOLOGIA"
+        },
+        {
+          "titre": "MARTIN",
+          "auteur": null,
+          "tier": "THEOLOGIA"
+        },
+        {
+          "titre": "LUTHER",
+          "auteur": null,
+          "tier": "THEOLOGIA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.6,
+        253.0,
+        658.4,
+        340.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MYSTERY OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BESUS CHRIS!",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        309.6,
+        296.6,
+        440.4,
+        335.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "On the",
+          "auteur": "Incarnation",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1055.2,
+        318.0,
+        1207.8,
+        358.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An INTRODUCTION",
+          "auteur": "to the DEVOUT LIFE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1883.7,
+        322.7,
+        1957.8,
+        366.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Vladimir",
+          "auteur": "Lossky",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2786.3,
+        353.0,
+        2939.0,
+        375.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "John Milton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2328.4,
+        444.4,
+        2503.0,
+        488.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AW. IOZER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.7,
+        448.5,
+        994.6,
+        508.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LIFE of",
+          "auteur": "CHRIST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2581.2,
+        462.0,
+        2703.7,
+        514.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "JOHN DENYAN",
+          "auteur": "THE PILGRIM'S",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1042.2,
+        466.7,
+        1220.9,
+        532.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Thomas à Kempis",
+          "auteur": "THE IMITATION OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.3,
+        475.4,
+        675.9,
+        497.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EUSEBIUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2790.7,
+        484.0,
+        2925.9,
+        497.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE TEMPIE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2023.1,
+        487.4,
+        2167.3,
+        545.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Orthodox",
+          "auteur": "Way",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2328.5,
+        558.3,
+        2494.2,
+        710.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PURSur",
+          "auteur": "GOD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1805.2,
+        575.7,
+        1923.0,
+        619.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "MEANING OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        327.0,
+        601.9,
+        440.4,
+        623.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DIDACHE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1578.5,
+        601.9,
+        1739.8,
+        658.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ON ACQUISITION",
+          "auteur": "OF THE HOLY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        82.8,
+        615.0,
+        213.7,
+        680.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "On the",
+          "auteur": "Holy Spirit",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1273.3,
+        623.7,
+        1382.3,
+        636.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORTHODOXY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        828.5,
+        702.0,
+        989.8,
+        715.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ULTON J. SHEEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2027.6,
+        710.9,
+        2158.4,
+        720.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "bisnop nalistos war",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1787.7,
+        771.2,
+        1966.7,
+        842.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE PATH TO",
+          "auteur": "SALVATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The",
+      "bbox": [
+        1582.8,
+        785.1,
+        1726.7,
+        959.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Philokalia",
+          "auteur": null,
+          "tier": "The"
+        },
+        {
+          "titre": "THE COMPLETE TEXT",
+          "auteur": null,
+          "tier": "The"
+        },
+        {
+          "titre": "Se Nikodimes of the",
+          "auteur": null,
+          "tier": "The"
+        },
+        {
+          "titre": "Holy Mountin",
+          "auteur": null,
+          "tier": "The"
+        },
+        {
+          "titre": "Holy Mountar",
+          "auteur": null,
+          "tier": "The"
+        },
+        {
+          "titre": "VOLIME ONI",
+          "auteur": null,
+          "tier": "The"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        523.2,
+        789.0,
+        693.3,
+        898.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Last",
+          "auteur": "Super-",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2794.9,
+        798.1,
+        2947.8,
+        1038.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HAMMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HAMME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Bo Glertz",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Bo Giertz",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.5,
+        819.3,
+        1221.1,
+        889.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NTERIOR",
+          "auteur": "-CASTLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2585.8,
+        824.0,
+        2694.8,
+        842.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OF CONCORD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Unseen",
+      "bbox": [
+        2014.5,
+        837.4,
+        2175.9,
+        986.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Warfare",
+          "auteur": null,
+          "tier": "Unseen"
+        },
+        {
+          "titre": "as edited by",
+          "auteur": null,
+          "tier": "Unseen"
+        },
+        {
+          "titre": "as cured",
+          "auteur": null,
+          "tier": "Unseen"
+        },
+        {
+          "titre": "Holy Mountain b",
+          "auteur": null,
+          "tier": "Unseen"
+        },
+        {
+          "titre": "Holy Mountain",
+          "auteur": null,
+          "tier": "Unseen"
+        },
+        {
+          "titre": "Theophan the Recluse",
+          "auteur": null,
+          "tier": "Unseen"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        300.9,
+        846.0,
+        470.9,
+        872.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Reasonable Faith",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2341.6,
+        846.0,
+        2481.1,
+        855.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RESCO MEDICI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        73.2,
+        863.1,
+        234.7,
+        924.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "C. s. Lewis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        87.2,
+        959.5,
+        213.7,
+        985.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MER F",
+          "auteur": "CHRISTIANITY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        318.3,
+        1011.9,
+        444.8,
+        1021.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WIIAM LANE CRAIG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.5,
+        1011.9,
+        1203.5,
+        1034.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ST. TERESA OF AVIL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        872.1,
+        1028.8,
+        937.5,
+        1037.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Selected Writing",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.6,
+        1102.8,
+        684.6,
+        1133.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SYSTEMATIC THEOLOGY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        318.3,
+        1111.8,
+        440.4,
+        1190.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "T.S.",
+          "auteur": "ELIOT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        828.5,
+        1111.8,
+        972.4,
+        1198.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Divine",
+          "auteur": "Comedi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1565.4,
+        1116.0,
+        1748.5,
+        1177.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Fyodor",
+          "auteur": "Dostoyevsky",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Way",
+      "bbox": [
+        1796.5,
+        1120.5,
+        1957.8,
+        1260.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Pilgrim",
+          "auteur": null,
+          "tier": "The Way"
+        },
+        {
+          "titre": "Pilgrim Continucs",
+          "auteur": null,
+          "tier": "The Way"
+        },
+        {
+          "titre": "foreword by Walter J. Cack, S).",
+          "auteur": null,
+          "tier": "The Way"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2555.2,
+        1120.5,
+        2725.3,
+        1207.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "SPURGEON",
+          "auteur": "Around the",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2332.8,
+        1137.8,
+        2489.8,
+        1207.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JOHN CALVIN",
+          "auteur": "CHRISTIAN RELIGION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1277.6,
+        1159.7,
+        1439.0,
+        1312.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "T.R.R.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TOLKIEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LORD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.1,
+        1179.1,
+        689.4,
+        1238.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CLASSIC",
+          "auteur": "CHRISTIANITY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        68.6,
+        1182.0,
+        239.5,
+        1247.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "C. S. Lewis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2808.1,
+        1190.2,
+        2925.9,
+        1312.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Complet",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Poetry & Prosi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "William",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Blake",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        318.3,
+        1251.2,
+        444.8,
+        1308.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FOUR",
+          "auteur": "QUARTETS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1033.4,
+        1294.8,
+        1216.6,
+        1373.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "True",
+          "auteur": "DEVOTION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1565.4,
+        1298.9,
+        1744.2,
+        1364.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Complete",
+          "auteur": "Works",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2001.5,
+        1299.2,
+        2184.6,
+        1373.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ORTHODOXY",
+          "auteur": "and the Religion",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        532.0,
+        1316.6,
+        680.2,
+        1325.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HOMAS C. ODEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1055.2,
+        1451.5,
+        1212.2,
+        1460.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "›seph cardinal Katzinge",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        837.1,
+        1469.1,
+        976.9,
+        1518.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Apologia",
+          "auteur": "Pro Vita Sua",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2786.3,
+        1482.2,
+        2943.3,
+        1504.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Study",
+          "auteur": "J. G. HAMANN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1303.8,
+        1499.5,
+        1417.2,
+        1582.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Works of",
+          "auteur": "foseph",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1792.2,
+        1517.0,
+        1944.8,
+        1538.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DESPONDENCY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1591.6,
+        1530.1,
+        1718.0,
+        1595.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GOD",
+          "auteur": "EING. CONSCIOUSNESS. BLIS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2350.2,
+        1556.3,
+        2472.4,
+        1613.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "True",
+          "auteur": "Christianity",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.3,
+        1619.7,
+        1225.8,
+        1675.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CHRISTIANITY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        841.6,
+        1700.1,
+        985.5,
+        1722.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "hn Henry Newman",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.4,
+        1774.1,
+        985.5,
+        1857.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DARK NIGHT",
+          "auteur": "I SOUL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1098.8,
+        1870.0,
+        1164.2,
+        1887.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CLOUD",
+          "auteur": "CLOUE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        819.8,
+        2026.9,
+        893.9,
+        2044.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OF THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        8.7,
+        2100.0,
+        501.5,
+        2156.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Catholic/Orthodox",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1011.6,
+        2104.3,
+        1513.1,
+        2160.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Protestant/Catholic",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2014.5,
+        2104.3,
+        2555.2,
+        2160.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Orthodox/Protestant",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1303.8,
+        2221.7,
+        1495.7,
+        2287.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "F",
+          "auteur": "HAMLET",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        61.0,
+        2252.1,
+        122.1,
+        2282.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Con",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        728.2,
+        2252.1,
+        771.8,
+        2491.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Jobn Climacus V",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1072.7,
+        2260.6,
+        1186.0,
+        2269.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ETIENNE CISON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        135.2,
+        2260.8,
+        235.5,
+        2286.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "essions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        514.5,
+        2265.2,
+        667.2,
+        2273.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ST JOHN CHRYSOSTON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.3,
+        2356.5,
+        1242.8,
+        2469.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Spirit",
+          "auteur": "of Mediaeval",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        510.2,
+        2456.4,
+        675.9,
+        2478.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "On the Priesthood",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1321.2,
+        2500.0,
+        1495.6,
+        2508.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WITTANCHAKESDEARE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2119.2,
+        2500.0,
+        2193.3,
+        2508.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "fear and Tremblin",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        501.5,
+        2565.2,
+        680.2,
+        2604.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ChE SAYINGS",
+          "auteur": "che OESERT FACHERS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        750.0,
+        2600.0,
+        893.9,
+        2722.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RULE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "1980 OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ST. BENEDICT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IN ENGLISH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        82.8,
+        2647.8,
+        196.2,
+        2717.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DIONYSILS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE AREOPAGITE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DIVINE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NAMES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

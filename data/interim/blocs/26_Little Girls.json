@@ -1,0 +1,78 @@
+{
+  "fichier": "26_Little Girls.jpeg",
+  "date": "2026-07-21T19:28:36.704595+00:00",
+  "taille_origine": [
+    1918,
+    1434
+  ],
+  "hauteur_ligne_mediane": 17.0,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 1,
+  "nb_noeuds": 9,
+  "tiers": [
+    "The Princess"
+  ],
+  "intitules_isoles": [
+    "The Princess",
+    "The Secret Garden",
+    "What Katy Did",
+    "Anthony Nobbs",
+    "Mathilda",
+    "Mathilda"
+  ],
+  "blocs": [
+    {
+      "tier": "The Princess",
+      "bbox": null,
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Alice's Adventures in Wonderland and",
+          "auteur": "(Lewis Carrol)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Through the Looking-Glass",
+          "auteur": "(Lewis Carrol)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "The Ice Palace",
+          "auteur": "(Tarjei Vesaas)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "and the Goblin",
+          "auteur": "(George MacDonald)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Little Women",
+          "auteur": "(Louisa May Alcott)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Momo",
+          "auteur": "(Michael Ende)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Coraline",
+          "auteur": "(Neil Gaiman)",
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Heidi Johana Spyri)",
+          "auteur": null,
+          "tier": "The Princess"
+        },
+        {
+          "titre": "Pippi Longstocking",
+          "auteur": "(Astrid Lindgreen)",
+          "tier": "The Princess"
+        }
+      ]
+    }
+  ]
+}

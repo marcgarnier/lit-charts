@@ -1,0 +1,624 @@
+{
+  "fichier": "14_Baby's First Literature.jpeg",
+  "date": "2026-07-21T19:28:36.574421+00:00",
+  "taille_origine": [
+    896,
+    2751
+  ],
+  "hauteur_ligne_mediane": 19.9,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 31,
+  "nb_noeuds": 45,
+  "tiers": [
+    "AND BRAVE NEW",
+    "HOBBIT",
+    "SHAKESPEARE"
+  ],
+  "intitules_isoles": [
+    "lord of the flies",
+    "or there and back agris",
+    "Romeo and",
+    "Juliet",
+    "Hamlet"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        598.0,
+        61.9,
+        846.0,
+        151.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/LIT/",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        608.0,
+        443.6,
+        874.0,
+        714.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ALDOUS HUXLEY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BRAVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NEW",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WORLD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        310.0,
+        451.6,
+        566.0,
+        469.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BOTH ANNIVERSARY EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        62.0,
+        509.5,
+        228.0,
+        675.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GEORGE ORWELL",
+          "auteur": "1984.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        319.9,
+        676.9,
+        550.1,
+        735.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FAHRENHEIT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "AND BRAVE NEW",
+      "bbox": [
+        594.0,
+        749.3,
+        886.0,
+        891.1
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "WORLD REVISITED",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "YY VALD AL YIUEILU",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "FOREWORD BY CHRISTOPHER HITCHENS",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "P.S.",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "HARPERPERENNIAL",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "MODERNCLASSICS",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        },
+        {
+          "titre": "MUUEKHCLASSICS",
+          "auteur": null,
+          "tier": "AND BRAVE NEW"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        402.0,
+        769.3,
+        474.0,
+        821.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "451",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        312.0,
+        863.2,
+        562.0,
+        883.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RAY BRADBURY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        56.0,
+        1128.7,
+        234.0,
+        1142.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OF MICE AND MEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        116.0,
+        1202.7,
+        174.0,
+        1216.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOHN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.0,
+        1240.6,
+        238.0,
+        1258.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "STEINBECK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        338.0,
+        1274.6,
+        534.0,
+        1322.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MARK TWAIN",
+          "auteur": "The Adventures of Tom Scayer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        614.0,
+        1274.6,
+        864.0,
+        1326.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MARK TWAIN",
+          "auteur": "The Adventures of Huckleberry Finn",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        587.9,
+        1372.5,
+        880.0,
+        1471.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "the CATCHER",
+          "auteur": "in Be RYE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        314.0,
+        1688.2,
+        538.0,
+        1714.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "lord of the flies",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        26.0,
+        1740.2,
+        266.0,
+        1796.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE CHRYSALIDS",
+          "auteur": "JOHN WYNDHAM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        590.0,
+        1764.2,
+        872.0,
+        1792.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "a novel by J. D. SALINGER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        350.0,
+        1792.1,
+        504.0,
+        1808.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "william golding",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HOBBIT",
+      "bbox": [
+        -0.0,
+        1838.1,
+        296.0,
+        1995.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "or there and back agris",
+          "auteur": null,
+          "tier": "HOBBIT"
+        },
+        {
+          "titre": "J.R. R. TOLKIEN",
+          "auteur": null,
+          "tier": "HOBBIT"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        720.0,
+        1842.1,
+        792.0,
+        1856.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Signet Classic",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "SHAKESPEARE",
+      "bbox": [
+        624.0,
+        1880.1,
+        884.0,
+        2093.6
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Romeo and",
+          "auteur": null,
+          "tier": "SHAKESPEARE"
+        },
+        {
+          "titre": "Juliet",
+          "auteur": null,
+          "tier": "SHAKESPEARE"
+        },
+        {
+          "titre": "NEWLY",
+          "auteur": null,
+          "tier": "SHAKESPEARE"
+        },
+        {
+          "titre": "REVISED",
+          "auteur": null,
+          "tier": "SHAKESPEARE"
+        },
+        {
+          "titre": "EDITION",
+          "auteur": null,
+          "tier": "SHAKESPEARE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        356.0,
+        2165.6,
+        430.0,
+        2171.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ENGUIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        474.0,
+        2165.6,
+        556.0,
+        2171.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CLASSICS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        370.0,
+        2215.5,
+        536.0,
+        2263.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CHARLES DICKENS",
+          "auteur": "A Tale of Two Cities",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.0,
+        2285.5,
+        286.0,
+        2295.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE ENCHANTING PEELUDE TC THE LORD OF THE RINGS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        631.9,
+        2331.4,
+        856.1,
+        2443.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Nonet Classic",
+          "auteur": "SHAKESPEARE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        11.8,
+        2335.4,
+        288.0,
+        2424.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANTOINE DE SAINT EXUPÉRY",
+          "auteur": "The Little Prince",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        322.0,
+        2370.6,
+        544.0,
+        2459.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ernest",
+          "auteur": "Hemingway",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        792.0,
+        2483.3,
+        852.1,
+        2523.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NEWLY",
+          "auteur": "REVISED",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        412.0,
+        2533.2,
+        560.1,
+        2569.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE OLD MAN AND",
+          "auteur": "THE SEA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        24.0,
+        2605.1,
+        80.0,
+        2651.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A NEW",
+          "auteur": "TRANSLATION",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1415 @@
+{
+  "fichier": "11_.lit. canon 2.jpeg",
+  "date": "2026-07-21T19:28:36.536087+00:00",
+  "taille_origine": [
+    2096,
+    4154
+  ],
+  "hauteur_ligne_mediane": 21.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 72,
+  "nb_noeuds": 101,
+  "tiers": [
+    "Holy",
+    "The Holy Bible, King James Version (At least",
+    "SHAKESPEARES"
+  ],
+  "intitules_isoles": [
+    "Oedipus Rex",
+    "richmond lattimore",
+    "The Republic - Plato (Bloom Trans.)",
+    "Sophocles (Fitzgerald Trans.)",
+    "King James Version",
+    "read Genesis, Exodus, Psalms, Job, The Four",
+    "The Canterbury Tales",
+    "by Geoffrey Chaucer",
+    "Nicely tun",
+    "Paradise Lost - Milton",
+    "Against Authority",
+    "Max Stirner",
+    "Oscar Wilde",
+    "A Portrait of the Artist as a loung Man",
+    "by ALBERT CAMUS",
+    "F. Kafka",
+    "The Sound and the Fury - Faulkner",
+    "The Metamorphosis and Other",
+    "Stories (At least read The",
+    "Metamorphosis, The Trial, and The",
+    "Castle) - Kafka (Edge trans.)",
+    "Lolita - Nabokov",
+    "Blood Meridian - McCarthy",
+    "Infinite Jest - DW"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        478.3,
+        72.9,
+        1508.0,
+        158.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE /LIT/ERARY CANON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        85.3,
+        218.8,
+        219.4,
+        316.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ILIAD",
+          "auteur": "HOMER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1712.1,
+        230.6,
+        1824.9,
+        273.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PLATO",
+          "auteur": "THE REPUBLIC",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1063.2,
+        273.5,
+        1230.8,
+        325.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SOPHOCLES",
+          "auteur": "THE DEDIPUS CYCLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1087.6,
+        352.5,
+        1203.4,
+        404.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Oedipus Rex",
+          "auteur": "Ded pas at Colonis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.2,
+        361.6,
+        722.0,
+        477.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ODYSSEY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HOMER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.0,
+        516.6,
+        740.3,
+        531.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "richmond lattimore",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.4,
+        556.1,
+        362.5,
+        577.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Iliad - Homer (Lattimore Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        947.5,
+        562.2,
+        1395.3,
+        616.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Oedipus Cycle (At least read Oedipus Rex) -",
+          "auteur": "Sophocles (Fitzgerald Trans.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        457.0,
+        565.3,
+        828.7,
+        589.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Odyssey - Homer (Lattimore Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1617.7,
+        571.3,
+        1946.7,
+        595.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Republic - Plato (Bloom Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        560.6,
+        689.4,
+        709.8,
+        753.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PANGLIN @CLASSICS",
+          "auteur": "MARCUS AURELIUS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        82.3,
+        689.9,
+        265.0,
+        811.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AENEID",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VIRGIL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRANSI ATED BY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ROBERT FITZCERALD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Holy",
+      "bbox": [
+        1063.2,
+        735.5,
+        1191.2,
+        854.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Bible",
+          "auteur": null,
+          "tier": "Holy"
+        },
+        {
+          "titre": "King James Version",
+          "auteur": null,
+          "tier": "Holy"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1666.4,
+        914.8,
+        1818.8,
+        948.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "VINE COMEDY",
+          "auteur": "DIVINE COMEDY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Holy Bible, King James Version (At least",
+      "bbox": [
+        935.3,
+        1042.1,
+        1346.6,
+        1125.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "read Genesis, Exodus, Psalms, Job, The Four",
+          "auteur": null,
+          "tier": "The Holy Bible, King James Version (At least"
+        },
+        {
+          "titre": "Gosnels)",
+          "auteur": null,
+          "tier": "The Holy Bible, King James Version (At least"
+        },
+        {
+          "titre": "Gospels)",
+          "auteur": null,
+          "tier": "The Holy Bible, King James Version (At least"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3.0,
+        1048.1,
+        347.3,
+        1073.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Aeneid - Virgil (Fitzgerald Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        481.3,
+        1060.6,
+        865.2,
+        1109.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Meditations - Marcus Aurelius (Hays",
+          "auteur": "Trans.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1538.5,
+        1060.6,
+        1937.6,
+        1115.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Divine Comedy - Dante (Mandelbaum,",
+          "auteur": "Musa, or Longfellow Trans.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        76.2,
+        1136.6,
+        271.1,
+        1186.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Canterbury Tales",
+          "auteur": "by Geoffrey Chaucer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "SHAKESPEARES",
+      "bbox": [
+        1072.4,
+        1176.9,
+        1264.3,
+        1237.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "•7:bbIEM",
+          "auteur": null,
+          "tier": "SHAKESPEARES"
+        },
+        {
+          "titre": "COME DISS,",
+          "auteur": null,
+          "tier": "SHAKESPEARES"
+        },
+        {
+          "titre": "TRAGEDIES",
+          "auteur": null,
+          "tier": "SHAKESPEARES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        600.2,
+        1191.8,
+        731.2,
+        1247.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ANATIN CLASSICS",
+          "auteur": "JOIN MILTON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1562.9,
+        1194.8,
+        1757.8,
+        1295.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DOVER • THRIFT • EDITIONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fyodor Dostoyevsky",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CRIME AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PUNISHMENT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1093.7,
+        1484.4,
+        1142.4,
+        1499.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Nicely tun",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        935.3,
+        1530.1,
+        1395.3,
+        1615.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Complete Works of William Shakespeare (At",
+          "auteur": "least read Hamlet, Macbeth, Othello, Romeo and",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        21.3,
+        1533.1,
+        319.9,
+        1557.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Canterbury Tales - Chaucer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.2,
+        1545.3,
+        743.3,
+        1566.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Paradise Lost - Milton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1477.6,
+        1557.5,
+        1898.0,
+        1609.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Crime and Punishment - Dostoevsky (McDuff",
+          "auteur": "or P&V trans. avoid Garnett)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        581.9,
+        1670.2,
+        767.7,
+        1682.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "REW YORK JINE, BESTSELLET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        106.6,
+        1685.4,
+        268.1,
+        1740.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PENGUIN(& CLASSICS",
+          "auteur": "FYODOR DOSTOYEVSKY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1578.1,
+        1703.4,
+        1736.5,
+        1773.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "PENGUIS @CLASSICS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FRIEDRICH NIETZSCHE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THUS SPOKE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ZARATHUSTRA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1032.8,
+        1725.0,
+        1212.5,
+        1868.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EGO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND HIS OWN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Case of the Individual",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Against Authority",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        575.5,
+        1827.2,
+        777.1,
+        1869.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DON QUIXOTE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        581.9,
+        1922.9,
+        767.7,
+        1950.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MIGUEL DE CERVANTES",
+          "auteur": "A TAKELAHON BE LUNCHERO SWAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1038.8,
+        1956.1,
+        1157.7,
+        1977.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Max Stirner",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        12.2,
+        2035.1,
+        444.8,
+        2084.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Brothers Karamazov - Dostoevsky (McDuff",
+          "auteur": "or P&V trans. avoid Garnett)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        548.4,
+        2035.1,
+        779.9,
+        2087.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Don Quixote - Cervantes",
+          "auteur": "(Trans. Grossman)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1471.5,
+        2053.8,
+        1803.5,
+        2108.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Thus Spoke Zarathustra - Nietzsche",
+          "auteur": "(Hollingdale Trans.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        971.8,
+        2056.8,
+        1258.2,
+        2108.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Ego and His Own - Stirner",
+          "auteur": "(Martin Trans.)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1532.4,
+        2187.7,
+        1748.7,
+        2292.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "DOVER THRIFTEE DITIONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DOVER THRIFT EDITIONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Oscar Wilde",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE PICTURE OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DORIAN GRAY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        69.8,
+        2293.9,
+        219.6,
+        2404.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "James",
+          "auteur": "Joyce",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1029.6,
+        2306.5,
+        1182.2,
+        2423.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "James",
+          "auteur": "Joyce",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        600.2,
+        2422.6,
+        740.3,
+        2431.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "...",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        569.7,
+        2462.0,
+        764.7,
+        2496.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JAMES JOYCE",
+          "auteur": "A Portrait of the Artist as a loung Man",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        79.2,
+        2547.0,
+        240.7,
+        2572.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dubliners - Joyce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        530.0,
+        2547.0,
+        843.9,
+        2602.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Portrait of the Artist as a Young",
+          "auteur": "Man - Joyce",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1050.9,
+        2574.1,
+        1191.3,
+        2599.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ulysses - Joyce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1477.6,
+        2583.8,
+        1800.5,
+        2605.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Picture of Dorian Gray - Wilde",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        94.3,
+        2635.0,
+        259.1,
+        2706.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE SOUND",
+          "auteur": "AND THE FURY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        584.9,
+        2641.6,
+        746.4,
+        2678.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ficciones",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1577.4,
+        2702.1,
+        1727.8,
+        2731.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Metamorphosin",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1065.0,
+        2717.6,
+        1249.6,
+        2782.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "Stranger",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1072.4,
+        2894.0,
+        1246.0,
+        2912.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "by ALBERT CAMUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1629.9,
+        2924.6,
+        1678.6,
+        2940.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "F. Kafka",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        9.1,
+        2970.0,
+        332.1,
+        2991.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Sound and the Fury - Faulkner",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        490.5,
+        2988.0,
+        816.5,
+        3013.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ficciones - Borges (Kerrigan Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        974.9,
+        2991.0,
+        1310.0,
+        3013.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Stranger - Camus (Ward Trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1505.0,
+        3031.0,
+        1831.0,
+        3144.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Metamorphosis and Other",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Stories (At least read The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Metamorphosis, The Trial, and The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Castle) - Kafka (Edge trans.)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        57.9,
+        3219.7,
+        304.7,
+        3275.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AMERICAN CYCHO",
+          "auteur": "AMERICAN PSYCHO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        577.0,
+        3251.6,
+        786.0,
+        3321.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE CRYING OF",
+          "auteur": "LOT 49",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        575.8,
+        3530.0,
+        783.0,
+        3555.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THOMAS PYNCHON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1562.9,
+        3551.8,
+        1645.1,
+        3558.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Pladimin No lon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.6,
+        3633.9,
+        789.0,
+        3658.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Crying of Lot 49 - Pynchon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        45.7,
+        3640.0,
+        262.0,
+        3661.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "American Psycho - Ellis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1020.6,
+        3640.0,
+        1288.7,
+        3661.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gravity's Rainbow - Pynchon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1562.9,
+        3649.0,
+        1721.3,
+        3667.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lolita - Nabokov",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        566.7,
+        3728.2,
+        792.1,
+        3928.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNCINIT",
+          "auteur": "JEST",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        91.2,
+        3745.7,
+        289.6,
+        3832.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Cormac",
+          "auteur": "McCarthy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        88.3,
+        3877.2,
+        295.5,
+        3941.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BLOOD",
+          "auteur": "MERIDIAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        600.2,
+        3968.0,
+        789.0,
+        4026.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NATIONAL BESTSELLER",
+          "auteur": "DAVID FOSTER WALLACE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        64.0,
+        4090.0,
+        316.8,
+        4114.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Blood Meridian - McCarthy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        606.3,
+        4102.0,
+        783.0,
+        4124.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Infinite Jest - DW",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "fichier": "11_African Americans.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:50.700801+00:00",
+  "duree_s": 1.0,
+  "taille_origine": [
+    585,
+    2300
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 110,
+  "lignes": [
+    {
+      "texte": "African American",
+      "texte_balise": "African American",
+      "bbox": [
+        37.6,
+        0.0,
+        547.4,
+        49.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "/lit/erature",
+      "texte_balise": "/lit/erature",
+      "bbox": [
+        121.8,
+        62.0,
+        435.3,
+        99.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "......",
+      "texte_balise": "......",
+      "bbox": [
+        20.0,
+        99.9,
+        481.2,
+        115.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slave Narratives:",
+      "texte_balise": "Slave Narratives:",
+      "bbox": [
+        -0.0,
+        113.9,
+        221.6,
+        133.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEN CLARIC",
+      "texte_balise": "GEN CLARIC",
+      "bbox": [
+        39.9,
+        157.9,
+        111.8,
+        163.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ULAUDAH EQUIANO",
+      "texte_balise": "ULAUDAH EQUIANO",
+      "bbox": [
+        35.9,
+        171.9,
+        109.8,
+        177.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FREDERICK DOUGLASS.",
+      "texte_balise": "FREDERICK DOUGLASS.",
+      "bbox": [
+        315.5,
+        177.9,
+        411.3,
+        187.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harriet Jacobs",
+      "texte_balise": "Harriet Jacobs",
+      "bbox": [
+        175.7,
+        179.9,
+        235.6,
+        189.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NARRATIVE",
+      "texte_balise": "NARRATIVE",
+      "bbox": [
+        479.2,
+        181.9,
+        521.1,
+        191.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NARRATIVE",
+      "texte_balise": "NARRATIVE",
+      "bbox": [
+        51.9,
+        189.9,
+        93.8,
+        195.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOJoURNE TRUTH",
+      "texte_balise": "SOJoURNE TRUTH",
+      "bbox": [
+        465.2,
+        189.9,
+        533.1,
+        207.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND UTILE WEENE",
+      "texte_balise": "AND UTILE WEENE",
+      "bbox": [
+        41.9,
+        199.8,
+        103.8,
+        203.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "•",
+      "texte_balise": "•",
+      "bbox": [
+        37.9,
+        347.7,
+        49.9,
+        359.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reconstruction Era:",
+      "texte_balise": "Reconstruction Era:",
+      "bbox": [
+        6.0,
+        369.7,
+        265.5,
+        389.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOKER T. WASHINGTON",
+      "texte_balise": "BOOKER T. WASHINGTON",
+      "bbox": [
+        453.2,
+        433.7,
+        561.0,
+        443.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UP FROM SLAVERY",
+      "texte_balise": "UP FROM SLAVERY",
+      "bbox": [
+        457.2,
+        445.7,
+        555.1,
+        459.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAN WELLS BROWN",
+      "texte_balise": "WILLIAN WELLS BROWN",
+      "bbox": [
+        329.4,
+        453.6,
+        405.3,
+        463.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SOUL",
+      "texte_balise": "THE SOUL",
+      "bbox": [
+        22.0,
+        509.6,
+        97.8,
+        525.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK FOLK",
+      "texte_balise": "BLACK FOLK",
+      "bbox": [
+        24.0,
+        525.6,
+        127.8,
+        539.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thing to Trans Many Fate?",
+      "texte_balise": "Thing to Trans Many Fate?",
+      "bbox": [
+        325.4,
+        555.6,
+        407.3,
+        565.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "W. E.B. DU BOIS",
+      "texte_balise": "W. E.B. DU BOIS",
+      "bbox": [
+        31.9,
+        557.6,
+        121.8,
+        569.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harlem Renaissance:",
+      "texte_balise": "Harlem Renaissance:",
+      "bbox": [
+        8.0,
+        677.5,
+        285.5,
+        695.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK",
+      "texte_balise": "BLACK",
+      "bbox": [
+        315.5,
+        717.4,
+        431.3,
+        763.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUGHES",
+      "texte_balise": "HUGHES",
+      "bbox": [
+        19.9,
+        719.3,
+        137.8,
+        749.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zora Neale Hurston",
+      "texte_balise": "Zora Neale Hurston",
+      "bbox": [
+        461.2,
+        727.4,
+        569.0,
+        739.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "=NO",
+      "texte_balise": "=NO",
+      "bbox": [
+        319.5,
+        769.4,
+        397.3,
+        809.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Their",
+      "texte_balise": "Their",
+      "bbox": [
+        459.2,
+        803.4,
+        501.1,
+        819.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORE",
+      "texte_balise": "MORE",
+      "bbox": [
+        317.2,
+        814.8,
+        431.5,
+        859.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eyes Were",
+      "texte_balise": "Eyes Were",
+      "bbox": [
+        467.1,
+        817.1,
+        539.1,
+        833.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Watching",
+      "texte_balise": "Watching",
+      "bbox": [
+        456.7,
+        830.8,
+        525.7,
+        848.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e",
+      "texte_balise": "e",
+      "bbox": [
+        267.5,
+        833.4,
+        283.5,
+        851.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God",
+      "texte_balise": "God",
+      "bbox": [
+        467.2,
+        845.3,
+        499.1,
+        857.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George & Schugle",
+      "texte_balise": "George & Schugle",
+      "bbox": [
+        329.4,
+        865.3,
+        411.3,
+        879.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Not Without Laughter",
+      "texte_balise": "Not Without Laughter",
+      "bbox": [
+        18.0,
+        871.3,
+        139.8,
+        889.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean Toomer",
+      "texte_balise": "Jean Toomer",
+      "bbox": [
+        185.7,
+        883.3,
+        269.5,
+        893.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLAUDE MCKAY",
+      "texte_balise": "CLAUDE MCKAY",
+      "bbox": [
+        28.0,
+        937.3,
+        125.8,
+        949.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blacker",
+      "texte_balise": "Blacker",
+      "bbox": [
+        487.2,
+        953.3,
+        557.0,
+        973.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUICKSAND",
+      "texte_balise": "QUICKSAND",
+      "bbox": [
+        177.6,
+        960.9,
+        273.7,
+        993.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Berry",
+      "texte_balise": "to Berry",
+      "bbox": [
+        499.1,
+        973.2,
+        563.0,
+        993.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PASSING",
+      "texte_balise": "PASSING",
+      "bbox": [
+        177.7,
+        995.2,
+        275.5,
+        1031.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        359.4,
+        1027.2,
+        383.3,
+        1043.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALLS",
+      "texte_balise": "WALLS",
+      "bbox": [
+        353.4,
+        1041.2,
+        393.3,
+        1063.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        361.4,
+        1061.2,
+        381.3,
+        1079.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JERICHO",
+      "texte_balise": "JERICHO",
+      "bbox": [
+        349.4,
+        1077.2,
+        397.3,
+        1097.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELLE",
+      "texte_balise": "DELLE",
+      "bbox": [
+        179.7,
+        1080.9,
+        205.6,
+        1094.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Home to Harlem",
+      "texte_balise": "Home to Harlem",
+      "bbox": [
+        31.9,
+        1093.2,
+        125.8,
+        1105.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• • • • • •",
+      "texte_balise": "• • • • • •",
+      "bbox": [
+        20.0,
+        1141.1,
+        121.8,
+        1155.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Civil Rights Era:",
+      "texte_balise": "Civil Rights Era:",
+      "bbox": [
+        6.0,
+        1167.1,
+        211.6,
+        1189.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GU TELLIT O",
+      "texte_balise": "GU TELLIT O",
+      "bbox": [
+        63.9,
+        1206.8,
+        105.8,
+        1216.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SU TELLIT O",
+      "texte_balise": "SU TELLIT O",
+      "bbox": [
+        65.9,
+        1207.1,
+        105.8,
+        1215.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INVISIBLE",
+      "texte_balise": "INVISIBLE",
+      "bbox": [
+        309.5,
+        1209.1,
+        409.3,
+        1229.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MOUNTAIN",
+      "texte_balise": "MOUNTAIN",
+      "bbox": [
+        63.9,
+        1215.1,
+        127.8,
+        1231.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MALCOLM-X",
+      "texte_balise": "MALCOLM-X",
+      "bbox": [
+        449.1,
+        1218.4,
+        565.2,
+        1245.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAN",
+      "texte_balise": "MAN",
+      "bbox": [
+        373.4,
+        1227.1,
+        421.3,
+        1247.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NUSATIV",
+      "texte_balise": "NUSATIV",
+      "bbox": [
+        157.7,
+        1232.8,
+        183.7,
+        1382.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "JAMES BALDWIN",
+      "texte_balise": "JAMES BALDWIN",
+      "bbox": [
+        63.9,
+        1235.0,
+        127.8,
+        1247.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEX HALE",
+      "texte_balise": "NEX HALE",
+      "bbox": [
+        527.1,
+        1244.8,
+        559.0,
+        1258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TO THAT EY",
+      "texte_balise": "TO THAT EY",
+      "bbox": [
+        529.1,
+        1245.0,
+        561.0,
+        1257.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BY RALPH ELLISON",
+      "texte_balise": "BY RALPH ELLISON",
+      "bbox": [
+        327.4,
+        1360.7,
+        405.3,
+        1370.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aya Angelou",
+      "texte_balise": "aya Angelou",
+      "bbox": [
+        29.9,
+        1416.7,
+        97.8,
+        1426.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I Know",
+      "texte_balise": "I Know",
+      "bbox": [
+        18.0,
+        1426.7,
+        81.9,
+        1444.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Why the",
+      "texte_balise": "Why the",
+      "bbox": [
+        18.0,
+        1444.7,
+        85.9,
+        1462.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Caged Bird",
+      "texte_balise": "Caged Bird",
+      "bbox": [
+        17.8,
+        1457.6,
+        112.0,
+        1477.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Raisin",
+      "texte_balise": "A Raisin",
+      "bbox": [
+        469.2,
+        1466.6,
+        511.1,
+        1476.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "If He Hollers",
+      "texte_balise": "If He Hollers",
+      "bbox": [
+        319.4,
+        1470.2,
+        397.4,
+        1487.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sings",
+      "texte_balise": "Sings",
+      "bbox": [
+        16.0,
+        1472.6,
+        65.9,
+        1494.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the Sun",
+      "texte_balise": "in the Sun",
+      "bbox": [
+        463.2,
+        1476.6,
+        515.1,
+        1488.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Let Him So",
+      "texte_balise": "Let Him So",
+      "bbox": [
+        319.4,
+        1518.5,
+        385.4,
+        1534.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chester Hime",
+      "texte_balise": "Chester Hime",
+      "bbox": [
+        361.4,
+        1558.6,
+        411.3,
+        1568.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• •",
+      "texte_balise": "• •",
+      "bbox": [
+        6.0,
+        1602.5,
+        35.9,
+        1614.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contemporary:",
+      "texte_balise": "Contemporary:",
+      "bbox": [
+        7.5,
+        1626.7,
+        206.1,
+        1653.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES MINGUS",
+      "texte_balise": "CHARLES MINGUS",
+      "bbox": [
+        159.7,
+        1662.5,
+        281.5,
+        1678.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•Putas Tos Moon No",
+      "texte_balise": "•Putas Tos Moon No",
+      "bbox": [
+        351.4,
+        1662.5,
+        425.3,
+        1670.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ALICE",
+      "texte_balise": "ALICE",
+      "bbox": [
+        327.3,
+        1670.1,
+        413.4,
+        1704.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dreams from",
+      "texte_balise": "Dreams from",
+      "bbox": [
+        18.0,
+        1680.5,
+        127.8,
+        1694.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TONI",
+      "texte_balise": "TONI",
+      "bbox": [
+        489.2,
+        1682.5,
+        537.1,
+        1700.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORRISON",
+      "texte_balise": "MORRISON",
+      "bbox": [
+        457.2,
+        1700.5,
+        567.0,
+        1718.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "My Father",
+      "texte_balise": "My Father",
+      "bbox": [
+        25.8,
+        1702.0,
+        117.9,
+        1722.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALKER",
+      "texte_balise": "WALKER",
+      "bbox": [
+        315.3,
+        1702.1,
+        427.4,
+        1738.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BENEATH",
+      "texte_balise": "BENEATH",
+      "bbox": [
+        203.6,
+        1780.3,
+        279.5,
+        1798.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barack",
+      "texte_balise": "Barack",
+      "bbox": [
+        29.9,
+        1784.4,
+        87.8,
+        1800.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BELON",
+      "texte_balise": "BELON",
+      "bbox": [
+        462.1,
+        1794.7,
+        538.3,
+        1821.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HIS WORLDAS",
+      "texte_balise": "HIS WORLDAS",
+      "bbox": [
+        223.6,
+        1796.4,
+        279.5,
+        1806.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COLOR",
+      "texte_balise": "THE COLOR",
+      "bbox": [
+        315.4,
+        1802.1,
+        427.3,
+        1826.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Obama",
+      "texte_balise": "Obama",
+      "bbox": [
+        59.9,
+        1804.3,
+        117.8,
+        1818.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDERDOG",
+      "texte_balise": "UNDERDOG",
+      "bbox": [
+        173.7,
+        1822.3,
+        269.6,
+        1844.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PURPLE",
+      "texte_balise": "PURPLE",
+      "bbox": [
+        339.4,
+        1826.4,
+        403.3,
+        1844.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERR",
+      "texte_balise": "ERR",
+      "bbox": [
+        455.2,
+        1886.3,
+        483.2,
+        1910.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROOTS",
+      "texte_balise": "ROOTS",
+      "bbox": [
+        155.5,
+        1893.9,
+        277.7,
+        1950.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Saga of an American Fami",
+      "texte_balise": "The Saga of an American Fami",
+      "bbox": [
+        161.7,
+        1954.3,
+        265.5,
+        1968.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WALTER",
+      "texte_balise": "WALTER",
+      "bbox": [
+        39.9,
+        1964.1,
+        125.8,
+        1982.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEX",
+      "texte_balise": "ALEX",
+      "bbox": [
+        183.7,
+        1970.3,
+        251.6,
+        1992.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MOSLEY",
+      "texte_balise": "MOSLEY",
+      "bbox": [
+        35.9,
+        1979.9,
+        123.9,
+        1998.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HALEY",
+      "texte_balise": "HALEY",
+      "bbox": [
+        175.7,
+        1988.2,
+        255.6,
+        2008.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ing",
+      "texte_balise": "ing",
+      "bbox": [
+        477.2,
+        2000.2,
+        501.1,
+        2016.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KILLING",
+      "texte_balise": "KILLING",
+      "bbox": [
+        43.8,
+        2003.5,
+        125.9,
+        2022.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOMEBODY BLEW",
+      "texte_balise": "SOMEBODY BLEW",
+      "bbox": [
+        315.5,
+        2012.2,
+        425.3,
+        2024.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHNNY",
+      "texte_balise": "JOHNNY",
+      "bbox": [
+        33.9,
+        2020.2,
+        121.8,
+        2038.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UP AMERICA",
+      "texte_balise": "UP AMERICA",
+      "bbox": [
+        325.3,
+        2021.5,
+        423.4,
+        2038.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRY",
+      "texte_balise": "FRY",
+      "bbox": [
+        81.9,
+        2038.2,
+        119.8,
+        2054.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GLORIA NAYLOR",
+      "texte_balise": "GLORIA NAYLOR",
+      "bbox": [
+        10.0,
+        2088.2,
+        123.8,
+        2098.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISHMAEL",
+      "texte_balise": "ISHMAEL",
+      "bbox": [
+        177.7,
+        2096.0,
+        241.6,
+        2114.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REED",
+      "texte_balise": "REED",
+      "bbox": [
+        191.7,
+        2114.1,
+        229.6,
+        2132.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        503.1,
+        2118.1,
+        525.1,
+        2130.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Known",
+      "texte_balise": "Known",
+      "bbox": [
+        473.2,
+        2132.1,
+        535.1,
+        2146.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "World",
+      "texte_balise": "World",
+      "bbox": [
+        491.2,
+        2148.1,
+        551.1,
+        2166.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KIN",
+      "texte_balise": "KIN",
+      "bbox": [
+        317.5,
+        2160.1,
+        357.4,
+        2182.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LINDEN",
+      "texte_balise": "LINDEN",
+      "bbox": [
+        53.9,
+        2188.1,
+        79.9,
+        2196.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MUMBO",
+      "texte_balise": "MUMBO",
+      "bbox": [
+        179.7,
+        2246.0,
+        245.6,
+        2256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JUMBO",
+      "texte_balise": "JUMBO",
+      "bbox": [
+        181.7,
+        2258.0,
+        243.6,
+        2268.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

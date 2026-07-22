@@ -1,0 +1,828 @@
+{
+  "fichier": "10_.lit. canon.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:38.752606+00:00",
+  "duree_s": 2.2,
+  "taille_origine": [
+    3000,
+    2529
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 74,
+  "lignes": [
+    {
+      "texte": "INFINT",
+      "texte_balise": "INFINT",
+      "bbox": [
+        314.0,
+        96.0,
+        409.9,
+        152.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HOLY BIBLE",
+      "texte_balise": "HOLY BIBLE",
+      "bbox": [
+        113.4,
+        126.0,
+        196.2,
+        148.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ULYSSES",
+      "texte_balise": "ULYSSES",
+      "bbox": [
+        1146.8,
+        130.9,
+        1225.3,
+        148.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JEST",
+      "texte_balise": "JEST",
+      "bbox": [
+        331.4,
+        135.2,
+        405.5,
+        187.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James",
+      "texte_balise": "James",
+      "bbox": [
+        2603.2,
+        135.2,
+        2673.0,
+        152.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stranger",
+      "texte_balise": "Stranger",
+      "bbox": [
+        1561.0,
+        139.6,
+        1652.6,
+        165.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fador Dostonste",
+      "texte_balise": "Fador Dostonste",
+      "bbox": [
+        1975.3,
+        191.9,
+        2058.1,
+        218.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "YUDUR DUSIUEVON",
+      "texte_balise": "YUDUR DUSIUEVON",
+      "bbox": [
+        1766.0,
+        226.8,
+        1853.2,
+        236.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CATCH-22",
+      "texte_balise": "CATCH-22",
+      "bbox": [
+        1343.0,
+        318.4,
+        1439.0,
+        353.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUBLINERS",
+      "texte_balise": "DUBLINERS",
+      "bbox": [
+        1761.6,
+        327.1,
+        1861.9,
+        349.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTER",
+      "texte_balise": "NOTER",
+      "bbox": [
+        2825.6,
+        392.6,
+        2869.2,
+        401.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JOSEPH HELLER",
+      "texte_balise": "JOSEPH HELLER",
+      "bbox": [
+        1347.4,
+        423.0,
+        1443.3,
+        445.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAKED LUNCH",
+      "texte_balise": "NAKED LUNCH",
+      "bbox": [
+        527.6,
+        427.0,
+        606.1,
+        436.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ICE LINE",
+      "texte_balise": "ICE LINE",
+      "bbox": [
+        309.6,
+        532.0,
+        405.5,
+        541.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHITE",
+      "texte_balise": "WHITE",
+      "bbox": [
+        2380.8,
+        532.2,
+        2481.1,
+        567.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMLET",
+      "texte_balise": "HAMLET",
+      "bbox": [
+        1556.7,
+        536.5,
+        1648.3,
+        558.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GATSBY",
+      "texte_balise": "GATSBY",
+      "bbox": [
+        2808.1,
+        549.6,
+        2877.9,
+        571.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOISE",
+      "texte_balise": "NOISE",
+      "bbox": [
+        2385.1,
+        558.1,
+        2481.2,
+        593.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ODYSSEY",
+      "texte_balise": "THE ODYSSEY",
+      "bbox": [
+        928.8,
+        615.0,
+        1029.1,
+        641.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DON",
+      "texte_balise": "DON",
+      "bbox": [
+        2393.9,
+        615.0,
+        2468.0,
+        654.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ts Lay Dying",
+      "texte_balise": "Ts Lay Dying",
+      "bbox": [
+        1146.8,
+        632.0,
+        1229.7,
+        659.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DELILLO",
+      "texte_balise": "DELILLO",
+      "bbox": [
+        2385.1,
+        645.5,
+        2481.1,
+        671.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LIT",
+      "texte_balise": "THE LIT",
+      "bbox": [
+        587.5,
+        773.0,
+        2487.5,
+        973.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPUBLIC",
+      "texte_balise": "REPUBLIC",
+      "bbox": [
+        100.3,
+        828.8,
+        204.9,
+        859.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        122.1,
+        854.9,
+        191.9,
+        881.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CANON",
+      "texte_balise": "CANON",
+      "bbox": [
+        606.1,
+        1068.7,
+        2407.0,
+        1395.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CANON",
+      "texte_balise": "CANON",
+      "bbox": [
+        600.6,
+        1098.7,
+        2373.3,
+        1404.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Coring o",
+      "texte_balise": "The Coring o",
+      "bbox": [
+        2808.1,
+        1173.0,
+        2886.6,
+        1200.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McCARTHY",
+      "texte_balise": "McCARTHY",
+      "bbox": [
+        2590.1,
+        1182.1,
+        2686.0,
+        1199.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VONNEGUT",
+      "texte_balise": "VONNEGUT",
+      "bbox": [
+        104.7,
+        1291.1,
+        204.9,
+        1313.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DUNDES",
+      "texte_balise": "DUNDES",
+      "bbox": [
+        314.0,
+        1388.9,
+        405.5,
+        1428.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        2611.9,
+        1397.6,
+        2659.9,
+        1419.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "essential memes for entry-level dips",
+      "texte_balise": "essential memes for entry-level dips",
+      "bbox": [
+        587.5,
+        1430.5,
+        2375.0,
+        1505.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORMAC",
+      "texte_balise": "CORMAC",
+      "bbox": [
+        732.6,
+        1589.0,
+        806.7,
+        1610.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2821.2,
+        1589.0,
+        2895.3,
+        1623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AISO RISES",
+      "texte_balise": "AISO RISES",
+      "bbox": [
+        104.7,
+        1593.4,
+        200.6,
+        1628.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hunler S.Thompsi",
+      "texte_balise": "Hunler S.Thompsi",
+      "bbox": [
+        937.5,
+        1597.7,
+        1016.0,
+        1606.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IF ONA",
+      "texte_balise": "IF ONA",
+      "bbox": [
+        1761.6,
+        1606.4,
+        1809.6,
+        1628.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MCCARTHY",
+      "texte_balise": "MCCARTHY",
+      "bbox": [
+        736.9,
+        1610.8,
+        819.8,
+        1632.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAVAGE",
+      "texte_balise": "SAVAGE",
+      "bbox": [
+        2786.3,
+        1615.0,
+        2899.8,
+        1654.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOLARÍS",
+      "texte_balise": "SOLARÍS",
+      "bbox": [
+        1979.7,
+        1628.2,
+        2062.5,
+        1650.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WINTERS",
+      "texte_balise": "WINTERS",
+      "bbox": [
+        1761.6,
+        1632.6,
+        1831.4,
+        1654.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DETECTIVES",
+      "texte_balise": "DETECTIVES",
+      "bbox": [
+        2790.7,
+        1650.0,
+        2895.3,
+        1671.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NIGHTA",
+      "texte_balise": "NIGHTA",
+      "bbox": [
+        1761.6,
+        1658.7,
+        1814.0,
+        1680.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERTO",
+      "texte_balise": "ROBERTO",
+      "bbox": [
+        2799.2,
+        1679.7,
+        2895.5,
+        1703.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAVELLER",
+      "texte_balise": "TRAVELLER",
+      "bbox": [
+        1761.6,
+        1680.4,
+        1840.1,
+        1702.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "BOLAÑO",
+      "texte_balise": "BOLAÑO",
+      "bbox": [
+        2808.0,
+        1701.5,
+        2895.5,
+        1724.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Don DeLillo",
+      "texte_balise": "Don DeLillo",
+      "bbox": [
+        1351.7,
+        1710.6,
+        1443.3,
+        1732.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIETZSCHE",
+      "texte_balise": "NIETZSCHE",
+      "bbox": [
+        104.7,
+        1824.0,
+        196.2,
+        1841.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OVER",
+      "texte_balise": "OVER",
+      "bbox": [
+        1591.6,
+        1841.4,
+        1648.3,
+        1863.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WESTERN",
+      "texte_balise": "WESTERN",
+      "bbox": [
+        2603.2,
+        1867.5,
+        2677.3,
+        1889.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARCALOM",
+      "texte_balise": "ARCALOM",
+      "bbox": [
+        2389.5,
+        1876.2,
+        2468.0,
+        1893.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CUCKOOS",
+      "texte_balise": "CUCKOOS",
+      "bbox": [
+        1556.7,
+        1880.6,
+        1652.6,
+        1902.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IO LONGER",
+      "texte_balise": "IO LONGER",
+      "bbox": [
+        322.7,
+        1884.5,
+        401.2,
+        1902.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FRONT",
+      "texte_balise": "FRONT",
+      "bbox": [
+        2598.8,
+        1889.3,
+        2681.7,
+        1915.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Goethé's",
+      "texte_balise": "Goethé's",
+      "bbox": [
+        1351.7,
+        2002.4,
+        1443.3,
+        2028.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Under the",
+      "texte_balise": "Under the",
+      "bbox": [
+        1770.3,
+        2011.1,
+        1857.6,
+        2033.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DÜNE",
+      "texte_balise": "DÜNE",
+      "bbox": [
+        2385.2,
+        2019.9,
+        2472.4,
+        2054.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEyOND",
+      "texte_balise": "BEyOND",
+      "bbox": [
+        2603.2,
+        2024.2,
+        2673.0,
+        2041.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Volcano",
+      "texte_balise": "Volcano",
+      "bbox": [
+        1774.7,
+        2032.9,
+        1857.6,
+        2059.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "GOOD",
+      "texte_balise": "GOOD",
+      "bbox": [
+        2594.5,
+        2041.6,
+        2681.7,
+        2076.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVIL",
+      "texte_balise": "EVIL",
+      "bbox": [
+        2598.8,
+        2067.7,
+        2673.0,
+        2102.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HAM",
+      "texte_balise": "HAM",
+      "bbox": [
+        1556.7,
+        2072.1,
+        1652.6,
+        2102.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ranking // #1 The Holy Bible (132) #2 Infinite Jest (128) #3 Moby Dick (94) #4 Lolita (87) #5 Blood Meridian (78) #6 Ulysses (74) #7 Gravity's Rainbow (67) #8 The Stranger (66) #9 The Brothers Karamazov (61) #10 Crime and Punishment (58) #11 Stoner (41) #12 The Trial (36) #13 A Portrait of the Artist as a Young Man (35) #14 The Metamorphosis, The Catcher in the Ryø",
+      "texte_balise": "Ranking // #1 The Holy Bible (132) #2 Infinite Jest (128) #3 Moby Dick (94) #4 Lolita (87) #5 Blood Meridian (78) #6 Ulysses (74) #7 Gravity's Rainbow (67) #8 The Stranger (66) #9 The Brothers Karamazov (61) #10 Crime and Punishment (58) #11 Stoner (41) #12 The Trial (36) #13 A Portrait of the Artist as a Young Man (35) #14 The Metamorphosis, The Catcher in the Ryø",
+      "bbox": [
+        109.0,
+        2246.1,
+        2912.8,
+        2268.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(34) #16 Don Quixote (33) #17 Naked Lunch, Los Ficciones (32) #19 The Divine Comedy (29) +20 One Hundred Years of Solitude, Catch-22 (28) #22 2666 (27) #23 Dubliners (26) #24 Siddharta (25) #25 The Sound and the Fury (24) #26 V. (23) *27 Summa Theologica (22) #28 Heart of Darkness, Notes from the Underground, Journey to the End of the Night, Steppenwolf, The Odysse",
+      "texte_balise": "(34) #16 Don Quixote (33) #17 Naked Lunch, Los Ficciones (32) #19 The Divine Comedy (29) +20 One Hundred Years of Solitude, Catch-22 (28) #22 2666 (27) #23 Dubliners (26) #24 Siddharta (25) #25 The Sound and the Fury (24) #26 V. (23) *27 Summa Theologica (22) #28 Heart of Darkness, Notes from the Underground, Journey to the End of the Night, Steppenwolf, The Odysse",
+      "bbox": [
+        104.7,
+        2267.9,
+        2908.4,
+        2289.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(20), #33 As I Lay Dying, Pale Fire, Hamlet, The Iliad (19) #37 Anna Karenina, East of Eden, White Noise (18) #40 The Idiot, The Great Gatsby, The Republic (17) #43 Paradise Lost, Confessions (16) #45 The Old Man and the Sea, Finnegans Wake (15) #47 The Ego and Its Own, In Search Of Lost Time, The Book of the New Sun, The Grapes of Wrath, Slaughterhouse-Five (14) #52 Candid",
+      "texte_balise": "(20), #33 As I Lay Dying, Pale Fire, Hamlet, The Iliad (19) #37 Anna Karenina, East of Eden, White Noise (18) #40 The Idiot, The Great Gatsby, The Republic (17) #43 Paradise Lost, Confessions (16) #45 The Old Man and the Sea, Finnegans Wake (15) #47 The Ego and Its Own, In Search Of Lost Time, The Book of the New Sun, The Grapes of Wrath, Slaughterhouse-Five (14) #52 Candid",
+      "bbox": [
+        104.7,
+        2294.0,
+        2908.4,
+        2316.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Suttree (13) #54 The Crying of Lot 49, Brave New World, A Confederacy of Dunces, War and Peace, Invisible Cities, The Sun Also Rises, The Picture of Dorian Gray (12) #61 The Count of Monte Cristo (11) #62 The Road, Fear and Laughing in Las Vegas, To The Lighthouse, Undervorld, The Pale King, If on a Winter's Night a Traveler, Solaris (10) #69 The Castle, Dead Souls, Fear and Tremblin",
+      "texte_balise": "Suttree (13) #54 The Crying of Lot 49, Brave New World, A Confederacy of Dunces, War and Peace, Invisible Cities, The Sun Also Rises, The Picture of Dorian Gray (12) #61 The Count of Monte Cristo (11) #62 The Road, Fear and Laughing in Las Vegas, To The Lighthouse, Undervorld, The Pale King, If on a Winter's Night a Traveler, Solaris (10) #69 The Castle, Dead Souls, Fear and Tremblin",
+      "bbox": [
+        104.7,
+        2315.8,
+        2908.4,
+        2337.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Savage Detectives, Thus Spoke Zarathustra (9) #74 No Longer Human, Being and Time, Macbeth, Das Kapital (8) #78 1984, The Hobbit, One Flew Over the Cuckoo's Nest (3) #81 American Psycho, Confessions of a Mask, Tai Pei, Absalom, Absalom!, All Quiet On The Western Front, On the Road, Tess of the D'urbervilles (6) #88 A Farewell to Arms, Frankenstein, The Leopard, To Killa",
+      "texte_balise": "The Savage Detectives, Thus Spoke Zarathustra (9) #74 No Longer Human, Being and Time, Macbeth, Das Kapital (8) #78 1984, The Hobbit, One Flew Over the Cuckoo's Nest (3) #81 American Psycho, Confessions of a Mask, Tai Pei, Absalom, Absalom!, All Quiet On The Western Front, On the Road, Tess of the D'urbervilles (6) #88 A Farewell to Arms, Frankenstein, The Leopard, To Killa",
+      "bbox": [
+        104.7,
+        2337.1,
+        2912.8,
+        2364.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mockingbird (5)",
+      "texte_balise": "Mockingbird (5)",
+      "bbox": [
+        104.7,
+        2363.6,
+        239.8,
+        2385.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "#O A Clockwork Orange. Faust. Ham on Rve. Under The Volcano. Metamornhoses. Dune (4)",
+      "texte_balise": "#O A Clockwork Orange. Faust. Ham on Rve. Under The Volcano. Metamornhoses. Dune (4)",
+      "bbox": [
+        244.2,
+        2368.0,
+        954.9,
+        2381.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "#08 Wuthering Heights. Bevond Good and Evil. Leaves of Grass (2)",
+      "texte_balise": "#08 Wuthering Heights. Bevond Good and Evil. Leaves of Grass (2)",
+      "bbox": [
+        972.4,
+        2368.0,
+        1495.6,
+        2381.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This list is sourced from a /lit/ boll done in soring 2015. Votes gathered and counted by some other anon who published his results in a google docs sheet",
+      "texte_balise": "This list is sourced from a /lit/ boll done in soring 2015. Votes gathered and counted by some other anon who published his results in a google docs sheet",
+      "bbox": [
+        1722.4,
+        2368.0,
+        2904.1,
+        2381.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAcknowledgement",
+      "texte_balise": "CAcknowledgement",
+      "bbox": [
+        1508.7,
+        2372.3,
+        1670.1,
+        2381.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Links // docs.google.com/spreadsheets/d/1SdTl1bFLDHffoJY_5GQNMFLJ2u_BIFm3V2_PkycJWyU Hot tips // You can get the majority of these titles on gen.lib.rus.ec (most reliable ebook tracker out there)",
+      "texte_balise": "Links // docs.google.com/spreadsheets/d/1SdTl1bFLDHffoJY_5GQNMFLJ2u_BIFm3V2_PkycJWyU Hot tips // You can get the majority of these titles on gen.lib.rus.ec (most reliable ebook tracker out there)",
+      "bbox": [
+        104.7,
+        2389.7,
+        1635.2,
+        2411.5
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

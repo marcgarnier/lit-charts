@@ -1,0 +1,104 @@
+{
+  "fichier": "27_War.jpeg",
+  "date": "2026-07-21T19:28:36.712510+00:00",
+  "taille_origine": [
+    2016,
+    1981
+  ],
+  "hauteur_ligne_mediane": 18.2,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 2,
+  "nb_noeuds": 13,
+  "tiers": [
+    "Catalo",
+    "johnny got his gun"
+  ],
+  "intitules_isoles": [
+    "Catalo",
+    "The Battle for Okinawa",
+    "Grass",
+    "johnny got his gun"
+  ],
+  "blocs": [
+    {
+      "tier": "Catalo",
+      "bbox": null,
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Lost Victories",
+          "auteur": "Erich von Manstein",
+          "tier": "Catalo"
+        },
+        {
+          "titre": "Fires on the Plain",
+          "auteur": "Shohei Ooka",
+          "tier": "Catalo"
+        },
+        {
+          "titre": "Goodbye to All That",
+          "auteur": "Robert Graves",
+          "tier": "Catalo"
+        },
+        {
+          "titre": "Kaputt",
+          "auteur": "Curzio Malaparte",
+          "tier": "Catalo"
+        },
+        {
+          "titre": "Harp of Burma",
+          "auteur": "Michio Takeyama",
+          "tier": "Catalo"
+        },
+        {
+          "titre": "The Balkan Trilogy",
+          "auteur": "Olivia Manning",
+          "tier": "Catalo"
+        }
+      ]
+    },
+    {
+      "tier": "johnny got his gun",
+      "bbox": null,
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Storm of Steel",
+          "auteur": "Ernst Junger",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "Catch-22",
+          "auteur": "Joseph Heller",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "Three Kingdoms",
+          "auteur": "Luo Guanzhong",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "Matterhorn",
+          "auteur": "Karl Marlantes",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "Johnny Got His Gun",
+          "auteur": "Dalton Trumbo",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "The White Guard",
+          "auteur": "Mikhail Bulgakov",
+          "tier": "johnny got his gun"
+        },
+        {
+          "titre": "The Tin Drum",
+          "auteur": "Gunter Grass",
+          "tier": "johnny got his gun"
+        }
+      ]
+    }
+  ]
+}

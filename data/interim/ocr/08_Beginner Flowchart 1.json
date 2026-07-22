@@ -1,0 +1,1807 @@
+{
+  "fichier": "08_Beginner Flowchart 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:38.796353+00:00",
+  "duree_s": 0.8,
+  "taille_origine": [
+    1274,
+    872
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 163,
+  "lignes": [
+    {
+      "texte": "First things first:",
+      "texte_balise": "First things first:",
+      "bbox": [
+        181.9,
+        15.4,
+        272.1,
+        34.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Wood Wife by",
+      "texte_balise": "The Wood Wife by",
+      "bbox": [
+        1146.0,
+        16.0,
+        1240.0,
+        30.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WELCOME TO",
+      "texte_balise": "WELCOME TO",
+      "bbox": [
+        32.0,
+        18.0,
+        144.0,
+        42.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terri Windling",
+      "texte_balise": "Terri Windling",
+      "bbox": [
+        1155.9,
+        33.4,
+        1230.1,
+        50.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Based on",
+      "texte_balise": "Based on",
+      "bbox": [
+        661.8,
+        35.3,
+        710.2,
+        48.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "when do you",
+      "texte_balise": "when do you",
+      "bbox": [
+        195.9,
+        35.5,
+        260.1,
+        50.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contemporary",
+      "texte_balise": "Contemporary",
+      "bbox": [
+        360.0,
+        42.0,
+        434.0,
+        56.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FANTASY!",
+      "texte_balise": "FANTASY!",
+      "bbox": [
+        43.8,
+        43.1,
+        132.2,
+        68.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mythic Fantasy",
+      "texte_balise": "Mythic Fantasy",
+      "bbox": [
+        976.0,
+        45.8,
+        1056.0,
+        62.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mythology",
+      "texte_balise": "Mythology",
+      "bbox": [
+        850.0,
+        48.0,
+        906.0,
+        64.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "want your book",
+      "texte_balise": "want your book",
+      "bbox": [
+        187.9,
+        53.7,
+        266.1,
+        68.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mythology or noir?",
+      "texte_balise": "mythology or noir?",
+      "bbox": [
+        636.0,
+        53.8,
+        734.0,
+        70.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "American Gods by Neil",
+      "texte_balise": "American Gods by Neil",
+      "bbox": [
+        1136.0,
+        62.0,
+        1250.0,
+        74.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "set?",
+      "texte_balise": "set?",
+      "bbox": [
+        214.0,
+        74.0,
+        240.0,
+        86.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaiman",
+      "texte_balise": "Gaiman",
+      "bbox": [
+        1171.8,
+        81.3,
+        1214.2,
+        94.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Science",
+      "texte_balise": "Science",
+      "bbox": [
+        562.0,
+        102.0,
+        604.0,
+        116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hyperion by Dan",
+      "texte_balise": "Hyperion by Dan",
+      "bbox": [
+        680.0,
+        102.0,
+        764.0,
+        116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN THE FUTURE",
+      "texte_balise": "IN THE FUTURE",
+      "bbox": [
+        422.0,
+        105.8,
+        498.0,
+        122.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Storm Front by Jim",
+      "texte_balise": "Storm Front by Jim",
+      "bbox": [
+        1142.0,
+        114.0,
+        1240.0,
+        130.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Simmons",
+      "texte_balise": "Simmons",
+      "bbox": [
+        697.9,
+        121.8,
+        748.1,
+        134.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fantasy",
+      "texte_balise": "Fantasy",
+      "bbox": [
+        560.0,
+        122.0,
+        606.0,
+        136.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Butcher",
+      "texte_balise": "Butcher",
+      "bbox": [
+        1171.9,
+        133.6,
+        1214.1,
+        146.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Noir.",
+      "texte_balise": "Noir.",
+      "bbox": [
+        862.0,
+        140.0,
+        890.0,
+        154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Can't l",
+      "texte_balise": "Can't l",
+      "bbox": [
+        72.0,
+        154.0,
+        110.0,
+        170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dune by Frank",
+      "texte_balise": "Dune by Frank",
+      "bbox": [
+        685.9,
+        155.2,
+        760.1,
+        170.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I like a good",
+      "texte_balise": "I like a good",
+      "bbox": [
+        846.0,
+        158.0,
+        910.0,
+        174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Urban Fantasy",
+      "texte_balise": "Urban Fantasy",
+      "bbox": [
+        977.9,
+        159.3,
+        1054.1,
+        174.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Madness of Angels",
+      "texte_balise": "A Madness of Angels",
+      "bbox": [
+        1140.0,
+        160.0,
+        1246.0,
+        174.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anytime but",
+      "texte_balise": "Anytime but",
+      "bbox": [
+        194.0,
+        164.0,
+        258.0,
+        178.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "start at the",
+      "texte_balise": "start at the",
+      "bbox": [
+        62.0,
+        174.0,
+        122.0,
+        186.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Serious",
+      "texte_balise": "Serious",
+      "bbox": [
+        466.0,
+        174.0,
+        508.0,
+        188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herbert",
+      "texte_balise": "Herbert",
+      "bbox": [
+        698.0,
+        174.0,
+        744.0,
+        190.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Kate Griffin",
+      "texte_balise": "by Kate Griffin",
+      "bbox": [
+        1151.9,
+        177.3,
+        1230.1,
+        194.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "detective.",
+      "texte_balise": "detective.",
+      "bbox": [
+        850.0,
+        178.0,
+        902.0,
+        190.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "now!",
+      "texte_balise": "now!",
+      "bbox": [
+        214.0,
+        184.0,
+        240.0,
+        196.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "beginning?",
+      "texte_balise": "beginning?",
+      "bbox": [
+        60.0,
+        192.0,
+        120.0,
+        208.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or funny?",
+      "texte_balise": "or funny?",
+      "bbox": [
+        461.9,
+        193.4,
+        512.1,
+        206.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guards! Guards! by",
+      "texte_balise": "Guards! Guards! by",
+      "bbox": [
+        1146.0,
+        214.0,
+        1240.0,
+        228.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magic's cool",
+      "texte_balise": "Magic's cool",
+      "bbox": [
+        331.9,
+        217.6,
+        394.1,
+        232.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terry Pratchett",
+      "texte_balise": "Terry Pratchett",
+      "bbox": [
+        1152.0,
+        233.8,
+        1232.0,
+        248.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with me",
+      "texte_balise": "with me",
+      "bbox": [
+        342.0,
+        236.0,
+        384.0,
+        250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classic",
+      "texte_balise": "Classic",
+      "bbox": [
+        73.9,
+        251.8,
+        112.1,
+        266.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I like to",
+      "texte_balise": "I like to",
+      "bbox": [
+        654.0,
+        252.0,
+        696.0,
+        264.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How much magic",
+      "texte_balise": "How much magic",
+      "bbox": [
+        184.0,
+        256.0,
+        270.0,
+        270.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Something",
+      "texte_balise": "Something",
+      "bbox": [
+        442.0,
+        256.0,
+        500.0,
+        270.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tough Guide to",
+      "texte_balise": "The Tough Guide to",
+      "bbox": [
+        1142.0,
+        258.0,
+        1242.0,
+        274.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comic Fantasy",
+      "texte_balise": "Comic Fantasy",
+      "bbox": [
+        976.0,
+        260.0,
+        1054.0,
+        276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fantasy",
+      "texte_balise": "Fantasy",
+      "bbox": [
+        72.0,
+        272.0,
+        112.0,
+        286.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "laugh",
+      "texte_balise": "laugh",
+      "bbox": [
+        664.0,
+        272.0,
+        692.0,
+        284.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "my kid sibling could",
+      "texte_balise": "my kid sibling could",
+      "bbox": [
+        420.0,
+        274.0,
+        522.0,
+        288.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "do you want?",
+      "texte_balise": "do you want?",
+      "bbox": [
+        191.8,
+        275.1,
+        262.2,
+        290.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fantasyland by Diana",
+      "texte_balise": "Fantasyland by Diana",
+      "bbox": [
+        1138.0,
+        278.0,
+        1248.0,
+        292.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read.",
+      "texte_balise": "read.",
+      "bbox": [
+        456.0,
+        294.0,
+        482.0,
+        306.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wynne Jones",
+      "texte_balise": "Wynne Jones",
+      "bbox": [
+        1160.0,
+        296.0,
+        1226.0,
+        310.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "No, really.",
+      "texte_balise": "No, really.",
+      "bbox": [
+        746.0,
+        322.0,
+        796.0,
+        336.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Black Company",
+      "texte_balise": "The Black Company",
+      "bbox": [
+        1141.6,
+        329.7,
+        1242.4,
+        347.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tower of the Elephant",
+      "texte_balise": "The Tower of the Elephant",
+      "bbox": [
+        46.0,
+        330.0,
+        176.0,
+        344.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRIM.",
+      "texte_balise": "GRIM.",
+      "bbox": [
+        753.9,
+        339.8,
+        786.1,
+        356.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Robert E. Howard",
+      "texte_balise": "by Robert E. Howard",
+      "bbox": [
+        58.0,
+        348.0,
+        162.0,
+        362.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Glen Cook",
+      "texte_balise": "by Glen Cook",
+      "bbox": [
+        1158.0,
+        349.9,
+        1228.0,
+        366.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I'm not",
+      "texte_balise": "I'm not",
+      "bbox": [
+        258.0,
+        352.0,
+        298.0,
+        366.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Young Adult",
+      "texte_balise": "Young Adult",
+      "bbox": [
+        428.0,
+        360.0,
+        492.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Grimdark",
+      "texte_balise": "Grimdark",
+      "bbox": [
+        989.9,
+        365.8,
+        1042.1,
+        382.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Let's",
+      "texte_balise": "Let's",
+      "bbox": [
+        632.0,
+        370.0,
+        662.0,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "too big on",
+      "texte_balise": "too big on",
+      "bbox": [
+        252.0,
+        372.0,
+        306.0,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Prince of Thorns by",
+      "texte_balise": "Prince of Thorns by",
+      "bbox": [
+        1144.0,
+        382.0,
+        1240.0,
+        396.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lud-in-the-Mist by",
+      "texte_balise": "Lud-in-the-Mist by",
+      "bbox": [
+        66.0,
+        384.0,
+        156.0,
+        398.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "keep things",
+      "texte_balise": "keep things",
+      "bbox": [
+        614.0,
+        390.0,
+        678.0,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "magic.",
+      "texte_balise": "magic.",
+      "bbox": [
+        262.0,
+        394.0,
+        296.0,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mark Lawrence",
+      "texte_balise": "Mark Lawrence",
+      "bbox": [
+        1153.9,
+        399.7,
+        1232.1,
+        414.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hope Mirlees",
+      "texte_balise": "Hope Mirlees",
+      "bbox": [
+        76.0,
+        401.8,
+        144.0,
+        416.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Homeland by RA.",
+      "texte_balise": "Homeland by RA.",
+      "bbox": [
+        413.9,
+        405.6,
+        506.1,
+        424.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "serious",
+      "texte_balise": "serious",
+      "bbox": [
+        626.0,
+        410.0,
+        668.0,
+        422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Salvatore",
+      "texte_balise": "Salvatore",
+      "bbox": [
+        431.9,
+        425.6,
+        486.1,
+        440.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wizard of Earthsea by",
+      "texte_balise": "Wizard of Earthsea by",
+      "bbox": [
+        54.0,
+        436.0,
+        166.0,
+        454.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUGE",
+      "texte_balise": "HUGE",
+      "bbox": [
+        810.0,
+        440.0,
+        864.0,
+        464.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Inda by Sherwood",
+      "texte_balise": "Inda by Sherwood",
+      "bbox": [
+        1144.0,
+        442.0,
+        1238.0,
+        458.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alanna: The First",
+      "texte_balise": "Alanna: The First",
+      "bbox": [
+        418.0,
+        454.0,
+        504.0,
+        470.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ursula K. LeGun",
+      "texte_balise": "Ursula K. LeGun",
+      "bbox": [
+        68.0,
+        456.0,
+        152.0,
+        468.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What do you",
+      "texte_balise": "What do you",
+      "bbox": [
+        248.0,
+        456.0,
+        314.0,
+        470.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A big cast of",
+      "texte_balise": "A big cast of",
+      "bbox": [
+        680.0,
+        461.9,
+        746.0,
+        476.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Smith",
+      "texte_balise": "Smith",
+      "bbox": [
+        1176.0,
+        462.0,
+        1210.0,
+        474.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Epic Fantasy",
+      "texte_balise": "Epic Fantasy",
+      "bbox": [
+        982.0,
+        470.0,
+        1048.0,
+        486.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "want instead?",
+      "texte_balise": "want instead?",
+      "bbox": [
+        242.0,
+        474.0,
+        318.0,
+        486.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adventure by Tamora",
+      "texte_balise": "Adventure by Tamora",
+      "bbox": [
+        404.0,
+        474.0,
+        514.0,
+        490.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "characters,",
+      "texte_balise": "characters,",
+      "bbox": [
+        681.9,
+        481.7,
+        740.1,
+        496.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierce",
+      "texte_balise": "Pierce",
+      "bbox": [
+        444.0,
+        494.0,
+        482.0,
+        506.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gardens of the Moon",
+      "texte_balise": "Gardens of the Moon",
+      "bbox": [
+        1140.0,
+        494.0,
+        1246.0,
+        508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or small?",
+      "texte_balise": "or small?",
+      "bbox": [
+        688.0,
+        502.0,
+        736.0,
+        514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Steven Erikson",
+      "texte_balise": "by Steven Erikson",
+      "bbox": [
+        1144.0,
+        514.0,
+        1238.0,
+        530.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "House of Spirits by",
+      "texte_balise": "House of Spirits by",
+      "bbox": [
+        868.0,
+        522.0,
+        968.0,
+        538.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Isabel Allende",
+      "texte_balise": "Isabel Allende",
+      "bbox": [
+        882.0,
+        542.0,
+        956.0,
+        554.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "His Majesty's Dragon",
+      "texte_balise": "His Majesty's Dragon",
+      "bbox": [
+        1138.0,
+        558.0,
+        1246.0,
+        574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A couple",
+      "texte_balise": "A couple",
+      "bbox": [
+        747.9,
+        561.6,
+        796.1,
+        578.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Little, Big by John",
+      "texte_balise": "Little, Big by John",
+      "bbox": [
+        874.0,
+        572.0,
+        962.0,
+        586.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Naomi Novik",
+      "texte_balise": "by Naomi Novik",
+      "bbox": [
+        1152.0,
+        578.0,
+        1232.0,
+        590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of people is",
+      "texte_balise": "of people is",
+      "bbox": [
+        743.9,
+        581.4,
+        804.1,
+        596.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crowley",
+      "texte_balise": "Crowley",
+      "bbox": [
+        898.0,
+        590.0,
+        940.0,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cool",
+      "texte_balise": "cool",
+      "bbox": [
+        762.0,
+        600.0,
+        786.0,
+        614.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What would",
+      "texte_balise": "What would",
+      "bbox": [
+        54.0,
+        602.0,
+        114.0,
+        614.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vibrant",
+      "texte_balise": "Vibrant",
+      "bbox": [
+        346.0,
+        602.0,
+        386.0,
+        614.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Authoritarian",
+      "texte_balise": "Authoritarian",
+      "bbox": [
+        474.0,
+        602.0,
+        542.0,
+        614.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The end",
+      "texte_balise": "The end",
+      "bbox": [
+        616.0,
+        612.0,
+        658.0,
+        624.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Promise of Blood by",
+      "texte_balise": "Promise of Blood by",
+      "bbox": [
+        1142.0,
+        612.0,
+        1244.0,
+        626.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "you do if I said",
+      "texte_balise": "you do if I said",
+      "bbox": [
+        46.0,
+        617.9,
+        124.0,
+        636.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "society ripe for",
+      "texte_balise": "society ripe for",
+      "bbox": [
+        467.9,
+        619.6,
+        548.1,
+        634.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "culture and",
+      "texte_balise": "culture and",
+      "bbox": [
+        338.0,
+        619.9,
+        398.0,
+        634.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Machines!",
+      "texte_balise": "Machines!",
+      "bbox": [
+        200.0,
+        622.0,
+        254.0,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brian McClellan",
+      "texte_balise": "Brian McClellan",
+      "bbox": [
+        1151.9,
+        629.6,
+        1234.1,
+        644.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the world!",
+      "texte_balise": "of the world!",
+      "bbox": [
+        606.0,
+        629.9,
+        668.0,
+        644.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Flintlock",
+      "texte_balise": "Flintlock",
+      "bbox": [
+        1019.9,
+        631.6,
+        1066.1,
+        646.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magical Realism",
+      "texte_balise": "Magical Realism",
+      "bbox": [
+        876.0,
+        632.0,
+        960.0,
+        646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "zombies?",
+      "texte_balise": "zombies?",
+      "bbox": [
+        60.0,
+        640.0,
+        112.0,
+        652.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "history",
+      "texte_balise": "history",
+      "bbox": [
+        348.0,
+        640.0,
+        386.0,
+        654.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "revolution",
+      "texte_balise": "revolution",
+      "bbox": [
+        480.0,
+        640.0,
+        536.0,
+        652.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Swords & Sorcery,",
+      "texte_balise": "Swords & Sorcery,",
+      "bbox": [
+        872.0,
+        694.0,
+        964.0,
+        708.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Historical Fantasy",
+      "texte_balise": "Historical Fantasy",
+      "bbox": [
+        321.9,
+        699.5,
+        414.1,
+        716.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fairy Tale",
+      "texte_balise": "Fairy Tale",
+      "bbox": [
+        748.0,
+        700.0,
+        800.0,
+        718.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steampunk",
+      "texte_balise": "Steampunk",
+      "bbox": [
+        196.0,
+        701.9,
+        258.0,
+        716.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dystopian",
+      "texte_balise": "Dystopian",
+      "bbox": [
+        480.0,
+        701.9,
+        536.0,
+        718.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Apocalyptic",
+      "texte_balise": "Apocalyptic",
+      "bbox": [
+        604.0,
+        701.9,
+        668.0,
+        718.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zombie Fiction",
+      "texte_balise": "Zombie Fiction",
+      "bbox": [
+        46.0,
+        702.0,
+        124.0,
+        718.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dark Fantasy",
+      "texte_balise": "Dark Fantasy",
+      "bbox": [
+        1030.0,
+        702.0,
+        1098.0,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weird",
+      "texte_balise": "Weird",
+      "bbox": [
+        1180.0,
+        702.0,
+        1214.0,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Adventure",
+      "texte_balise": "Adventure",
+      "bbox": [
+        893.8,
+        713.3,
+        948.2,
+        726.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Perdido Street",
+      "texte_balise": "Perdido Street",
+      "bbox": [
+        1157.9,
+        753.4,
+        1236.1,
+        770.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Parable of the",
+      "texte_balise": "Parable of the",
+      "bbox": [
+        599.9,
+        753.7,
+        674.1,
+        770.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Final Empire by",
+      "texte_balise": "The Final Empire by",
+      "bbox": [
+        865.9,
+        761.4,
+        964.1,
+        778.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leviathan by Scott",
+      "texte_balise": "Leviathan by Scott",
+      "bbox": [
+        183.9,
+        761.7,
+        280.1,
+        778.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bone Doll's Twin",
+      "texte_balise": "The Bone Doll's Twin",
+      "bbox": [
+        1012.0,
+        762.0,
+        1116.0,
+        776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lions of Al-Rassan",
+      "texte_balise": "The Lions of Al-Rassan",
+      "bbox": [
+        320.0,
+        764.0,
+        434.0,
+        776.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Red Rising by Pierce",
+      "texte_balise": "Red Rising by Pierce",
+      "bbox": [
+        460.0,
+        764.0,
+        564.0,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wicked by Gregory",
+      "texte_balise": "Wicked by Gregory",
+      "bbox": [
+        716.0,
+        764.0,
+        814.0,
+        780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feed by Mira Grant",
+      "texte_balise": "Feed by Mira Grant",
+      "bbox": [
+        42.0,
+        774.0,
+        140.0,
+        788.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sower by Octavia",
+      "texte_balise": "Sower by Octavia",
+      "bbox": [
+        594.0,
+        774.0,
+        682.0,
+        786.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Station by China",
+      "texte_balise": "Station by China",
+      "bbox": [
+        1156.0,
+        774.0,
+        1240.0,
+        788.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Westerfeld",
+      "texte_balise": "Westerfeld",
+      "bbox": [
+        201.7,
+        780.9,
+        262.3,
+        799.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Lynn Flewelling",
+      "texte_balise": "by Lynn Flewelling",
+      "bbox": [
+        1017.9,
+        781.5,
+        1110.1,
+        798.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Guy Gavriel Kay",
+      "texte_balise": "by Guy Gavriel Kay",
+      "bbox": [
+        328.0,
+        782.0,
+        424.0,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brown",
+      "texte_balise": "Brown",
+      "bbox": [
+        496.0,
+        782.0,
+        530.0,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Maguire",
+      "texte_balise": "Maguire",
+      "bbox": [
+        742.0,
+        782.0,
+        788.0,
+        800.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brandon Sanderson",
+      "texte_balise": "Brandon Sanderson",
+      "bbox": [
+        864.0,
+        782.0,
+        966.0,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Butler",
+      "texte_balise": "Butler",
+      "bbox": [
+        620.0,
+        792.0,
+        656.0,
+        808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mieville",
+      "texte_balise": "Mieville",
+      "bbox": [
+        1174.0,
+        792.0,
+        1220.0,
+        808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Traitor Baru",
+      "texte_balise": "The Traitor Baru",
+      "bbox": [
+        470.0,
+        806.0,
+        554.0,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daughter of the",
+      "texte_balise": "Daughter of the",
+      "bbox": [
+        726.0,
+        807.9,
+        806.0,
+        822.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "World War Z by Max",
+      "texte_balise": "World War Z by Max",
+      "bbox": [
+        38.0,
+        816.0,
+        142.0,
+        834.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "God's War by",
+      "texte_balise": "God's War by",
+      "bbox": [
+        1163.8,
+        817.2,
+        1234.2,
+        832.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Boneshaker by Cherie",
+      "texte_balise": "Boneshaker by Cherie",
+      "bbox": [
+        178.0,
+        818.0,
+        288.0,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golem and the",
+      "texte_balise": "The Golem and the",
+      "bbox": [
+        328.0,
+        818.0,
+        424.0,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fifth Season by",
+      "texte_balise": "The Fifth Season by",
+      "bbox": [
+        590.0,
+        818.0,
+        688.0,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Deed of Paksennarion",
+      "texte_balise": "The Deed of Paksennarion",
+      "bbox": [
+        848.0,
+        818.0,
+        982.0,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forest by Juliet",
+      "texte_balise": "Forest by Juliet",
+      "bbox": [
+        724.0,
+        825.8,
+        806.0,
+        842.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cormorant by Seth",
+      "texte_balise": "Cormorant by Seth",
+      "bbox": [
+        462.0,
+        826.0,
+        562.0,
+        842.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sabriel by Garth Nix",
+      "texte_balise": "Sabriel by Garth Nix",
+      "bbox": [
+        1010.0,
+        826.0,
+        1116.0,
+        842.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kameron Hurley",
+      "texte_balise": "Kameron Hurley",
+      "bbox": [
+        1157.9,
+        835.7,
+        1240.1,
+        850.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Brooks",
+      "texte_balise": "Brooks",
+      "bbox": [
+        72.0,
+        836.0,
+        110.0,
+        850.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Priest",
+      "texte_balise": "Priest",
+      "bbox": [
+        214.0,
+        836.0,
+        250.0,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jinni by Helene Wecker",
+      "texte_balise": "Jinni by Helene Wecker",
+      "bbox": [
+        316.0,
+        836.0,
+        434.0,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "N.K. Jemisin",
+      "texte_balise": "N.K. Jemisin",
+      "bbox": [
+        606.0,
+        836.0,
+        670.0,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Elizabeth Moon",
+      "texte_balise": "by Elizabeth Moon",
+      "bbox": [
+        866.0,
+        836.0,
+        962.0,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dickenson",
+      "texte_balise": "Dickenson",
+      "bbox": [
+        485.9,
+        845.8,
+        540.1,
+        858.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marillier",
+      "texte_balise": "Marillier",
+      "bbox": [
+        742.0,
+        846.0,
+        788.0,
+        860.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

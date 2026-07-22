@@ -1,0 +1,618 @@
+{
+  "fichier": "01_2022.jpeg",
+  "date": "2026-07-21T19:28:36.199677+00:00",
+  "taille_origine": [
+    2550,
+    5250
+  ],
+  "hauteur_ligne_mediane": 23.4,
+  "regime": "grille",
+  "regime_source": "vlm:grid",
+  "nb_blocs": 6,
+  "nb_noeuds": 108,
+  "tiers": [
+    "A Nigthware",
+    "Evola",
+    "knew every raindr",
+    "Niccolò Machiavelli",
+    "Trembling",
+    "de Assis"
+  ],
+  "intitules_isoles": [
+    "t2BH7AGzXrG.",
+    "- Since that anon's chart was literally illegible, I recreated it",
+    "for (you).",
+    "A Nigthware",
+    "Evola",
+    "knew every raindr",
+    "Ishiguro",
+    "Knowies",
+    "Niccolò Machiavelli",
+    "Trembling",
+    "de Assis"
+  ],
+  "blocs": [
+    {
+      "tier": "A Nigthware",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "The Man Who",
+          "auteur": "Was Thursday",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "Disgrace",
+          "auteur": "(oetzee",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "Horeynus Orca",
+          "auteur": "D'Arigo",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "White Noise",
+          "auteur": "Delillo",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "Revolt Against",
+          "auteur": "the Modern",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "The Tunnel",
+          "auteur": "Gass",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "Dead Souls",
+          "auteur": "Gogol",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "The Histories",
+          "auteur": "Herodotus",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "On the Road",
+          "auteur": "Kerouac",
+          "tier": "A Nigthware"
+        },
+        {
+          "titre": "Sometimes a",
+          "auteur": "Great Notion",
+          "tier": "A Nigthware"
+        }
+      ]
+    },
+    {
+      "tier": "Evola",
+      "bbox": null,
+      "nb_lignes": 51,
+      "noeuds": [
+        {
+          "titre": "My Struggle",
+          "auteur": "Book 1",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Tao Te Ching",
+          "auteur": "Lao-Tzu",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Les cualls ue",
+          "auteur": "Maldoror",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Les Chants de",
+          "auteur": "Maldoror",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Road",
+          "auteur": "McCarthy",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Green Face",
+          "auteur": "Meyrink",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Spring Snow",
+          "auteur": "Mishima",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Kafka on the",
+          "auteur": "Shore",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Complete",
+          "auteur": "Stories",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Animal Farm",
+          "auteur": "Orwell",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Metamorphoses",
+          "auteur": "Ovid",
+          "tier": "Evola"
+        },
+        {
+          "titre": "131.",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "132.",
+          "auteur": "HYPERION",
+          "tier": "Evola"
+        },
+        {
+          "titre": "133.",
+          "auteur": "WALDEN",
+          "tier": "Evola"
+        },
+        {
+          "titre": "134.",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "135.",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "136.",
+          "auteur": "HUNTER'S ALBUM",
+          "tier": "Evola"
+        },
+        {
+          "titre": "137.",
+          "auteur": "Rabbit,",
+          "tier": "Evola"
+        },
+        {
+          "titre": "138.",
+          "auteur": "Virginia Wolfe",
+          "tier": "Evola"
+        },
+        {
+          "titre": "139.",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "140.",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "Dying Inside",
+          "auteur": "Silverberg",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Hyperion",
+          "auteur": "Simmons",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Walden",
+          "auteur": "1 noteau",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Hobbit",
+          "auteur": "Tolkien",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Silmarillion",
+          "auteur": "Tolkien",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Sketches From a",
+          "auteur": "Hunter's Album",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Rabbit Run",
+          "auteur": "Updike",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Waves",
+          "auteur": "Woolf",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Watership Down",
+          "auteur": "Adams",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Complete",
+          "auteur": "Works",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The City of God",
+          "auteur": "Augustine",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Darkness",
+          "auteur": "That Comes",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Flowers of",
+          "auteur": "Evil",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Long Ships",
+          "auteur": "Bengtsson",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Thomas the",
+          "auteur": "Obscure",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Fahrenheit 451",
+          "auteur": "Bradbury",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Jane Eyre",
+          "auteur": "Bronte",
+          "tier": "Evola"
+        },
+        {
+          "titre": "The Dream of the",
+          "auteur": "Red Chamber",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Alice in",
+          "auteur": "Wonderland",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Memoirs From",
+          "auteur": "Beyond the Grave",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Roger Ackroyd",
+          "auteur": "161.",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Danielewski",
+          "auteur": "162.",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Plateaus",
+          "auteur": "163.",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Carol",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "Flaubert",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "Gaddis",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "Gibson",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "mukhovsk™",
+          "auteur": null,
+          "tier": "Evola"
+        },
+        {
+          "titre": "Tomoromica",
+          "auteur": "169.",
+          "tier": "Evola"
+        },
+        {
+          "titre": "Willows",
+          "auteur": "170.",
+          "tier": "Evola"
+        }
+      ]
+    },
+    {
+      "tier": "knew every raindr",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "The Reign of",
+          "auteur": "Quantity",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Pan",
+          "auteur": "Hamsun",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Phenomenology",
+          "auteur": "of Spirit",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Being and Time",
+          "auteur": "Heidegger",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "The Sun Also Rises",
+          "auteur": "Hemingway",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Narcissus and",
+          "auteur": "Goldmund",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Gödel, Escher,",
+          "auteur": "Bach",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "The Remains of",
+          "auteur": "the Day",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Jesus' Son",
+          "auteur": "Johnson",
+          "tier": "knew every raindr"
+        },
+        {
+          "titre": "Men in the Sun",
+          "auteur": "Kanafani",
+          "tier": "knew every raindr"
+        }
+      ]
+    },
+    {
+      "tier": "Niccolò Machiavelli",
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Critique of Pure",
+          "auteur": "Reason",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "Zorba the Greek",
+          "auteur": "Kazantzakis",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "Fear and",
+          "auteur": null,
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "A Separate Peace",
+          "auteur": "Knowles",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "The Prince",
+          "auteur": "Machiavelli",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "The Posthumous",
+          "auteur": "Memoirs of Brás",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "The Heart is a",
+          "auteur": "Lonely Hunter",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "I'm Glad My",
+          "auteur": "Mom Died",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "A Canticle for",
+          "auteur": "Leibowitz",
+          "tier": "Niccolò Machiavelli"
+        },
+        {
+          "titre": "Gone With the",
+          "auteur": "Wind",
+          "tier": "Niccolò Machiavelli"
+        }
+      ]
+    },
+    {
+      "tier": "Trembling",
+      "bbox": null,
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Kant",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "Kierkegaard",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "Cubas",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "McCullers",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "McCurdy",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "Miller Jr.",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "Miller Jr",
+          "auteur": null,
+          "tier": "Trembling"
+        },
+        {
+          "titre": "Mitchell",
+          "auteur": null,
+          "tier": "Trembling"
+        }
+      ]
+    },
+    {
+      "tier": "de Assis",
+      "bbox": null,
+      "nb_lignes": 19,
+      "noeuds": [
+        {
+          "titre": "Qualities",
+          "auteur": "192.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Policeman",
+          "auteur": "193.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Petronius",
+          "auteur": null,
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Western Front",
+          "auteur": "195.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Seventh",
+          "auteur": "196.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Pastoral",
+          "auteur": "197.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Saint-Exupery",
+          "auteur": "198.",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Spenser",
+          "auteur": null,
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Stevenson",
+          "auteur": null,
+          "tier": "de Assis"
+        },
+        {
+          "titre": "The Ego and Its",
+          "auteur": "Own",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Gulliver's Travels",
+          "auteur": "Swift",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "The Táin",
+          "auteur": "Kinsella",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "The Imitation of",
+          "auteur": "Christ",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Johnny Got His",
+          "auteur": "Gun",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "The Aenid",
+          "auteur": "Vergil",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Laurus",
+          "auteur": "Vodolazkin",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Collected Poems",
+          "auteur": "Yeats",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "Musashi",
+          "auteur": "Yoshikawa",
+          "tier": "de Assis"
+        },
+        {
+          "titre": "The Beast in Man",
+          "auteur": "Zola",
+          "tier": "de Assis"
+        }
+      ]
+    }
+  ]
+}

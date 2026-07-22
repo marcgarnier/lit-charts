@@ -1,0 +1,937 @@
+{
+  "fichier": "10_Intro Short Story 1.jpeg",
+  "date": "2026-07-21T19:28:36.526527+00:00",
+  "taille_origine": [
+    1578,
+    1425
+  ],
+  "hauteur_ligne_mediane": 16.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 47,
+  "nb_noeuds": 69,
+  "tiers": [
+    "E.T.A. Hoffmann",
+    "Alexander Pushkin",
+    "Prosper Mérimée",
+    "Joseph Conrad",
+    "DEAD MEN TELL NO TALES"
+  ],
+  "intitules_isoles": [
+    "Meda Almana",
+    "Strange Tales from a Chinese Studio",
+    "& Other Stories",
+    "The Lady with the Little"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        16.1,
+        18.0,
+        1559.7,
+        71.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "a /lit/erary introduction guide - recommended short story collections",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        16.1,
+        116.8,
+        373.9,
+        155.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "19th century or earlier",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        715.6,
+        192.4,
+        805.1,
+        263.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "TALES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MOONLIGHT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RAIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        711.0,
+        343.6,
+        807.3,
+        359.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Meda Almana",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "E.T.A. Hoffmann",
+      "bbox": [
+        883.0,
+        386.7,
+        984.0,
+        430.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Golden Pot",
+          "auteur": null,
+          "tier": "E.T.A. Hoffmann"
+        },
+        {
+          "titre": "A row talenty RichirStbener",
+          "auteur": null,
+          "tier": "E.T.A. Hoffmann"
+        }
+      ]
+    },
+    {
+      "tier": "Alexander Pushkin",
+      "bbox": [
+        1316.5,
+        386.7,
+        1419.7,
+        421.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Queen of Spades",
+          "auteur": null,
+          "tier": "Alexander Pushkin"
+        },
+        {
+          "titre": "aho Oince Stones",
+          "auteur": null,
+          "tier": "Alexander Pushkin"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        243.1,
+        387.0,
+        314.3,
+        401.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Aesop's Fables",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Prosper Mérimée",
+      "bbox": [
+        1100.9,
+        389.5,
+        1188.1,
+        421.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Carmen",
+          "auteur": null,
+          "tier": "Prosper Mérimée"
+        },
+        {
+          "titre": "and Other Storie",
+          "auteur": null,
+          "tier": "Prosper Mérimée"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        39.0,
+        428.4,
+        185.8,
+        442.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Tales from the Thousand and One Nights",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        472.5,
+        428.4,
+        607.8,
+        458.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PU SONGLING",
+          "auteur": "Strange Tales from a Chinese Studio",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        458.7,
+        490.3,
+        623.9,
+        556.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Strange Tales from a",
+          "auteur": "Chinese Studio",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        681.2,
+        490.3,
+        834.9,
+        556.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Tales of Moonlight",
+          "auteur": "and Rain",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        885.3,
+        490.3,
+        1048.2,
+        559.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Golden Pot",
+          "auteur": "and Other Tales",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        25.2,
+        492.6,
+        208.7,
+        533.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Tales from the Thousand",
+          "auteur": "and One Nights",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        268.4,
+        492.6,
+        378.4,
+        510.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Aesop's Fables",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1087.2,
+        492.6,
+        1279.8,
+        533.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Carmen and Other Stories",
+          "auteur": "by Prosper Mérimée",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1307.4,
+        494.7,
+        1497.7,
+        556.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Queen of Spades and",
+          "auteur": "Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        695.0,
+        613.6,
+        825.7,
+        652.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE BEST SHORT STORIES OF",
+          "auteur": "FYODOR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        64.2,
+        662.1,
+        149.1,
+        673.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "COLLECTED",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        22.8,
+        698.2,
+        204.2,
+        740.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NIKOLAI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        41.2,
+        764.9,
+        206.5,
+        813.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GOGOL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1344.1,
+        781.2,
+        1456.4,
+        816.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GUSTAVE FLAUBERT",
+          "auteur": "Three Tales",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        465.6,
+        790.4,
+        539.0,
+        824.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Ivan Turgenev",
+          "auteur": "First Love",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        284.4,
+        817.4,
+        399.1,
+        859.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "EDGAR ALLAN POE",
+          "auteur": "The Fall of The House of Usher",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1110.1,
+        827.0,
+        1266.1,
+        856.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LEO TOLSTOY",
+          "auteur": "The Death of lean lyich and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        899.1,
+        829.3,
+        1043.6,
+        856.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LEO TOLSTOY",
+          "auteur": "The Kreuber Sonata and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        41.3,
+        893.4,
+        190.4,
+        934.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Collected Tales",
+          "auteur": "of Nikolai Gogol",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1325.7,
+        893.4,
+        1474.8,
+        934.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Three Tales",
+          "auteur": "by Gustave Flaubert",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        247.7,
+        895.4,
+        438.1,
+        962.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Fall of The House of",
+          "auteur": "Usher and Other Writings",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        486.2,
+        895.4,
+        619.3,
+        960.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "First Love and",
+          "auteur": "Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        892.2,
+        895.4,
+        1045.9,
+        967.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Kreutzer Sonata",
+          "auteur": "and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1100.9,
+        895.4,
+        1279.8,
+        960.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Death of Ivan Ilych",
+          "auteur": "and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        678.9,
+        898.1,
+        846.3,
+        939.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Best Short Stories",
+          "auteur": "of Fyodor Dostoevsky",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        681.2,
+        998.9,
+        832.6,
+        1095.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "DOLESLAY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PR US",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE SINS OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHILDHOOD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "& Other Stories",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        272.9,
+        1003.5,
+        394.5,
+        1072.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "PENGUIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMBROSE BIERCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TALES OF SOLDIERS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND CIVILIANS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND OTHER STORIES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Joseph Conrad",
+      "bbox": [
+        887.6,
+        1193.2,
+        981.7,
+        1228.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Heart of Darkness",
+          "auteur": null,
+          "tier": "Joseph Conrad"
+        },
+        {
+          "titre": "and Other Tale",
+          "auteur": null,
+          "tier": "Joseph Conrad"
+        }
+      ]
+    },
+    {
+      "tier": "DEAD MEN TELL NO TALES",
+      "bbox": [
+        463.1,
+        1216.1,
+        614.7,
+        1255.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ÉMILE ZOLA",
+          "auteur": null,
+          "tier": "DEAD MEN TELL NO TALES"
+        },
+        {
+          "titre": "SARY OUTS STUSS",
+          "auteur": null,
+          "tier": "DEAD MEN TELL NO TALES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1334.9,
+        1218.8,
+        1461.0,
+        1265.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ANTON CHEKHOV",
+          "auteur": "The Lody with the Little Dog",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        50.5,
+        1223.1,
+        178.9,
+        1253.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GUY DE MAUPASSANT",
+          "auteur": "A Parision Affair and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1100.9,
+        1241.7,
+        1266.1,
+        1253.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Wand No. 6 and Other Storio, 1802-1895",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        34.4,
+        1299.0,
+        204.1,
+        1363.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A Parisian Affair",
+          "auteur": "and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        261.0,
+        1301.1,
+        411.0,
+        1389.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Tales of Soldiers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and Civilians",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and Other Stories",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by Ambrose Bierce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        451.8,
+        1301.1,
+        637.6,
+        1345.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dead Men Tell No Tales",
+          "auteur": "by Émile Zola",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        676.6,
+        1301.1,
+        844.0,
+        1365.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Sins of Childhood",
+          "auteur": "and Other Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        910.4,
+        1301.1,
+        1043.6,
+        1366.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Heart of Darkness",
+          "auteur": "and Other Tales",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1103.2,
+        1303.1,
+        1266.1,
+        1368.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Ward No. 6 and Other",
+          "auteur": "Stories, 1892-1895",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1307.4,
+        1303.1,
+        1488.5,
+        1391.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Lady with the Little",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dog and Other Stories,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "1896-1904",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by Anton Chekhov",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

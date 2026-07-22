@@ -1,0 +1,171 @@
+{
+  "fichier": "17_Meme Poetry.jpeg",
+  "date": "2026-07-21T19:28:36.625232+00:00",
+  "taille_origine": [
+    905,
+    613
+  ],
+  "hauteur_ligne_mediane": 33.1,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 5,
+  "nb_noeuds": 18,
+  "tiers": [
+    "POEMAS"
+  ],
+  "intitules_isoles": [
+    "official /lit/ meme trilogy"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        101.9,
+        20.0,
+        787.1,
+        131.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "official /lit/ meme trilogy",
+          "auteur": "POETRY EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "POEMAS",
+      "bbox": [
+        625.1,
+        172.8,
+        807.3,
+        345.4
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "COMPLETOS",
+          "auteur": null,
+          "tier": "POEMAS"
+        },
+        {
+          "titre": "DE ALBERTO",
+          "auteur": null,
+          "tier": "POEMAS"
+        },
+        {
+          "titre": "CAEIRO",
+          "auteur": null,
+          "tier": "POEMAS"
+        },
+        {
+          "titre": "FERNANDO PESSON",
+          "auteur": null,
+          "tier": "POEMAS"
+        },
+        {
+          "titre": "TEXTO INTEGRAL",
+          "auteur": null,
+          "tier": "POEMAS"
+        },
+        {
+          "titre": "COM COMENTÁRIOS",
+          "auteur": null,
+          "tier": "POEMAS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        29.7,
+        179.7,
+        277.7,
+        455.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CANTOS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EZRA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POUND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        347.6,
+        233.6,
+        549.4,
+        363.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "STÉPHANE MALLARME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "UN COUP DE DÉS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JAMAIS N'ABOLIRA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LE HASARD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POÊME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        379.6,
+        481.2,
+        519.4,
+        487.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NOUVELLE REYCE FRANÇAIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

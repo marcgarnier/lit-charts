@@ -1,0 +1,1587 @@
+{
+  "fichier": "pol_Politics 1 (British).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:55.359221+00:00",
+  "duree_s": 4.8,
+  "taille_origine": [
+    4000,
+    3000
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 143,
+  "lignes": [
+    {
+      "texte": "Ipoll reading-Brit Edition",
+      "texte_balise": "Ipoll reading-Brit Edition",
+      "bbox": [
+        328.3,
+        46.9,
+        3732.7,
+        393.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contemporary",
+      "texte_balise": "Contemporary",
+      "bbox": [
+        500.0,
+        364.0,
+        1366.7,
+        512.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classical",
+      "texte_balise": "Classical",
+      "bbox": [
+        2765.8,
+        366.0,
+        3264.7,
+        487.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEX BRUMMER",
+      "texte_balise": "ALEX BRUMMER",
+      "bbox": [
+        1284.6,
+        518.8,
+        1505.6,
+        564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARGARET",
+      "texte_balise": "MARGARET",
+      "bbox": [
+        1608.4,
+        525.0,
+        2011.7,
+        595.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Abolition",
+      "texte_balise": "The Abolition",
+      "bbox": [
+        18.8,
+        529.5,
+        365.8,
+        581.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD OVERTON",
+      "texte_balise": "RICHARD OVERTON",
+      "bbox": [
+        3653.0,
+        534.4,
+        3859.3,
+        562.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GIANTS OF POLITICAL THOUGHT",
+      "texte_balise": "GIANTS OF POLITICAL THOUGHT",
+      "bbox": [
+        2860.5,
+        539.1,
+        3230.9,
+        576.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE AUDIO CLASSICS SERIES™",
+      "texte_balise": "THE AUDIO CLASSICS SERIES™",
+      "bbox": [
+        2939.7,
+        575.1,
+        3151.8,
+        605.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Britain",
+      "texte_balise": "of Britain",
+      "bbox": [
+        18.6,
+        589.6,
+        267.5,
+        638.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THATCHER",
+      "texte_balise": "THATCHER",
+      "bbox": [
+        1603.5,
+        594.1,
+        2011.9,
+        671.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN ARROW AGAINST",
+      "texte_balise": "AN ARROW AGAINST",
+      "bbox": [
+        3653.0,
+        604.5,
+        3939.0,
+        642.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOUGLAS MURRAY",
+      "texte_balise": "DOUGLAS MURRAY",
+      "bbox": [
+        426.7,
+        609.4,
+        759.7,
+        646.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALL TYRANTS",
+      "texte_balise": "ALL TYRANTS",
+      "bbox": [
+        3657.4,
+        640.6,
+        3850.2,
+        676.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TWO TREATISES OF",
+      "texte_balise": "TWO TREATISES OF",
+      "bbox": [
+        2921.3,
+        641.6,
+        3170.1,
+        689.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "from Winston Churchill",
+      "texte_balise": "from Winston Churchill",
+      "bbox": [
+        23.4,
+        646.4,
+        272.0,
+        670.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Princess Diana",
+      "texte_balise": "to Princess Diana",
+      "bbox": [
+        23.4,
+        670.3,
+        211.0,
+        693.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PATH TO POWER",
+      "texte_balise": "THE PATH TO POWER",
+      "bbox": [
+        1613.1,
+        670.3,
+        2011.7,
+        698.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY",
+      "texte_balise": "HOLY",
+      "bbox": [
+        2128.5,
+        687.8,
+        2410.7,
+        784.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOVERNMENT",
+      "texte_balise": "GOVERNMENT",
+      "bbox": [
+        2959.0,
+        689.1,
+        3137.2,
+        735.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISLAM",
+      "texte_balise": "ISLAM",
+      "bbox": [
+        398.6,
+        698.4,
+        811.3,
+        876.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Locke",
+      "texte_balise": "John Locke",
+      "bbox": [
+        3001.2,
+        735.9,
+        3104.3,
+        759.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLE",
+      "texte_balise": "BIBLE",
+      "bbox": [
+        2133.4,
+        782.1,
+        2396.5,
+        867.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LONDONISTAN",
+      "texte_balise": "LONDONISTAN",
+      "bbox": [
+        800.0,
+        827.2,
+        1183.3,
+        893.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KING JAMES VERSION",
+      "texte_balise": "KING JAMES VERSION",
+      "bbox": [
+        2133.6,
+        876.2,
+        2415.0,
+        909.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEVIATHAN",
+      "texte_balise": "LEVIATHAN",
+      "bbox": [
+        2456.7,
+        883.6,
+        2837.5,
+        972.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPHILIA",
+      "texte_balise": "OPHILIA",
+      "bbox": [
+        389.2,
+        895.3,
+        787.8,
+        1073.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS",
+      "texte_balise": "THOMAS",
+      "bbox": [
+        2518.2,
+        989.1,
+        2780.8,
+        1068.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARREC",
+      "texte_balise": "HARREC",
+      "bbox": [
+        2508.8,
+        1064.1,
+        2785.5,
+        1120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOBBES",
+      "texte_balise": "HOBBES",
+      "bbox": [
+        2515.3,
+        1066.8,
+        2786.8,
+        1162.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDMUND BURKE",
+      "texte_balise": "EDMUND BURKE",
+      "bbox": [
+        3348.2,
+        1073.0,
+        3535.8,
+        1097.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Peter Hitchens",
+      "texte_balise": "Peter Hitchens",
+      "bbox": [
+        18.8,
+        1078.0,
+        365.8,
+        1120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "4 Olive Tree",
+      "texte_balise": "4 Olive Tree",
+      "bbox": [
+        2280.7,
+        1097.4,
+        2438.0,
+        1152.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MELANIE PHILLIPS",
+      "texte_balise": "MELANIE PHILLIPS",
+      "bbox": [
+        858.1,
+        1101.6,
+        1120.8,
+        1120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I COMPANIES IN FOREIGN HANDS",
+      "texte_balise": "I COMPANIES IN FOREIGN HANDS",
+      "bbox": [
+        1242.7,
+        1101.6,
+        1547.5,
+        1120.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRITISH COMPANIES IN FOREIGN HANDS",
+      "texte_balise": "BRITISH COMPANIES IN FOREIGN HANDS",
+      "bbox": [
+        1250.0,
+        1104.0,
+        1546.9,
+        1130.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reflections on the Revolution in France",
+      "texte_balise": "Reflections on the Revolution in France",
+      "bbox": [
+        3302.1,
+        1114.6,
+        3593.7,
+        1146.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A VERY METROPOLITAN MALADY",
+      "texte_balise": "A VERY METROPOLITAN MALADY",
+      "bbox": [
+        421.9,
+        1119.8,
+        770.8,
+        1151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- THE HIDDEN THREAT TO OUR ECONOMY",
+      "texte_balise": "- THE HIDDEN THREAT TO OUR ECONOMY",
+      "bbox": [
+        1244.8,
+        1135.0,
+        1546.9,
+        1146.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OXORD WORLDSCLASSOS",
+      "texte_balise": "OXORD WORLDSCLASSOS",
+      "bbox": [
+        2880.2,
+        1177.0,
+        3213.5,
+        1187.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE PURPLE",
+      "texte_balise": "THE PURPLE",
+      "bbox": [
+        25.8,
+        1181.0,
+        359.6,
+        1246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spollt",
+      "texte_balise": "Spollt",
+      "bbox": [
+        1619.8,
+        1187.5,
+        1911.5,
+        1286.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WATERMELONS",
+      "texte_balise": "WATERMELONS",
+      "bbox": [
+        421.6,
+        1196.8,
+        765.9,
+        1287.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS CARLYLE",
+      "texte_balise": "THOMAS CARLYLE",
+      "bbox": [
+        2484.4,
+        1197.9,
+        2802.1,
+        1234.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2239.6,
+        1203.1,
+        2286.5,
+        1224.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID HUME",
+      "texte_balise": "DAVID HUME",
+      "bbox": [
+        2968.8,
+        1213.5,
+        3130.2,
+        1240.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DECLINE AND FALL",
+      "texte_balise": "DECLINE AND FALL",
+      "bbox": [
+        2078.1,
+        1224.0,
+        2447.9,
+        1266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        3432.3,
+        1224.0,
+        3500.0,
+        1265.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The English in the West",
+      "texte_balise": "The English in the West",
+      "bbox": [
+        3666.7,
+        1229.0,
+        3974.0,
+        1266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIVOTUTION,",
+      "texte_balise": "RIVOTUTION,",
+      "bbox": [
+        15.3,
+        1238.7,
+        375.3,
+        1370.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AN ENQUIRY CONCERNING",
+      "texte_balise": "AN ENQUIRY CONCERNING",
+      "bbox": [
+        2890.6,
+        1244.8,
+        3203.1,
+        1271.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theory",
+      "texte_balise": "Theory",
+      "bbox": [
+        3432.3,
+        1260.1,
+        3549.9,
+        1316.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE",
+      "texte_balise": "OF THE",
+      "bbox": [
+        2224.0,
+        1265.6,
+        2296.9,
+        1292.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW TO BE AN MP",
+      "texte_balise": "HOW TO BE AN MP",
+      "bbox": [
+        1191.8,
+        1271.6,
+        1584.3,
+        1369.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUMAN UNDERSTANDING",
+      "texte_balise": "HUMAN UNDERSTANDING",
+      "bbox": [
+        2895.8,
+        1276.0,
+        3203.1,
+        1302.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Indies",
+      "texte_balise": "Indies",
+      "bbox": [
+        3781.3,
+        1276.0,
+        3864.6,
+        1307.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROMAN EMPIRE",
+      "texte_balise": "ROMAN EMPIRE",
+      "bbox": [
+        2104.2,
+        1296.9,
+        2421.9,
+        1339.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ECUNUMY ANU SIEALING YUUR CHILUREN'S FUTURE",
+      "texte_balise": "THE ECUNUMY ANU SIEALING YUUR CHILUREN'S FUTURE",
+      "bbox": [
+        458.3,
+        1312.5,
+        729.2,
+        1323.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        3432.3,
+        1312.5,
+        3474.0,
+        1354.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or, The Bow of Ulysses",
+      "texte_balise": "or, The Bow of Ulysses",
+      "bbox": [
+        3666.7,
+        1322.9,
+        3974.0,
+        1359.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDWARD GIBBON",
+      "texte_balise": "EDWARD GIBBON",
+      "bbox": [
+        2197.9,
+        1349.0,
+        2333.3,
+        1375.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE YBAR THAT CHANGED BVERYTHING",
+      "texte_balise": "THE YBAR THAT CHANGED BVERYTHING",
+      "bbox": [
+        31.3,
+        1359.0,
+        354.2,
+        1385.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOUGHN PAUL FLYNN",
+      "texte_balise": "DOUGHN PAUL FLYNN",
+      "bbox": [
+        1203.1,
+        1359.0,
+        1489.6,
+        1427.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moral",
+      "texte_balise": "Moral",
+      "bbox": [
+        3432.3,
+        1359.4,
+        3531.2,
+        1401.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sentiments",
+      "texte_balise": "Sentiments",
+      "bbox": [
+        3437.4,
+        1400.6,
+        3599.1,
+        1438.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the toxic cult of sentimentality",
+      "texte_balise": "the toxic cult of sentimentality",
+      "bbox": [
+        1614.6,
+        1421.9,
+        1989.6,
+        1453.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EURO-CRUSADER",
+      "texte_balise": "EURO-CRUSADER",
+      "bbox": [
+        1400.9,
+        1426.3,
+        1578.3,
+        1469.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBOT",
+      "texte_balise": "ROBOT",
+      "bbox": [
+        1192.7,
+        1427.1,
+        1333.3,
+        1500.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRAVE NEW WORLD",
+      "texte_balise": "BRAVE NEW WORLD",
+      "bbox": [
+        869.8,
+        1447.9,
+        1125.0,
+        1474.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALDOUS HUXLEY",
+      "texte_balise": "ALDOUS HUXLEY",
+      "bbox": [
+        906.2,
+        1479.0,
+        1093.7,
+        1500.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW TO TAKE THE OATH EVANGELIST",
+      "texte_balise": "HOW TO TAKE THE OATH EVANGELIST",
+      "bbox": [
+        1197.9,
+        1489.6,
+        1572.9,
+        1536.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAPPINESS",
+      "texte_balise": "HAPPINESS",
+      "bbox": [
+        1197.9,
+        1541.7,
+        1328.1,
+        1583.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEODORE",
+      "texte_balise": "THEODORE",
+      "bbox": [
+        1619.6,
+        1545.4,
+        1833.6,
+        1584.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITCH DOCTOR UFF MEDIA EXTREME",
+      "texte_balise": "WITCH DOCTOR UFF MEDIA EXTREME",
+      "bbox": [
+        1213.5,
+        1583.0,
+        1567.7,
+        1667.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DALRYMPLE",
+      "texte_balise": "DALRYMPLE",
+      "bbox": [
+        1614.6,
+        1588.5,
+        1838.5,
+        1630.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON HEROES",
+      "texte_balise": "ON HEROES",
+      "bbox": [
+        2479.2,
+        1609.0,
+        2817.7,
+        1661.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES ANTHONY FROUDE",
+      "texte_balise": "JAMES ANTHONY FROUDE",
+      "bbox": [
+        3708.3,
+        1609.0,
+        3927.1,
+        1620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ETART WING",
+      "texte_balise": "ETART WING",
+      "bbox": [
+        1385.4,
+        1619.8,
+        1578.1,
+        1677.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADAM",
+      "texte_balise": "ADAM",
+      "bbox": [
+        3406.3,
+        1625.0,
+        3588.5,
+        1677.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERO-WORSHIP",
+      "texte_balise": "HERO-WORSHIP",
+      "bbox": [
+        2479.2,
+        1671.9,
+        2822.9,
+        1713.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SMITH",
+      "texte_balise": "SMITH",
+      "bbox": [
+        3401.0,
+        1682.3,
+        3599.0,
+        1729.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIGEL FARAGE",
+      "texte_balise": "NIGEL FARAGE",
+      "bbox": [
+        67.6,
+        1713.2,
+        317.8,
+        1760.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& THE HEROIC IN HISTORY",
+      "texte_balise": "& THE HEROIC IN HISTORY",
+      "bbox": [
+        2489.6,
+        1713.5,
+        2812.5,
+        1745.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOREWORD BY THE SPEAKER, JOHN BERCOW",
+      "texte_balise": "FOREWORD BY THE SPEAKER, JOHN BERCOW",
+      "bbox": [
+        1197.9,
+        1718.8,
+        1578.1,
+        1760.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIALL",
+      "texte_balise": "NIALL",
+      "bbox": [
+        1291.5,
+        1780.7,
+        1500.1,
+        1839.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WEALTH",
+      "texte_balise": "THE WEALTH",
+      "bbox": [
+        2499.1,
+        1781.7,
+        2818.7,
+        1858.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIMAL",
+      "texte_balise": "ANIMAL",
+      "bbox": [
+        406.2,
+        1791.3,
+        786.5,
+        1859.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW WE",
+      "texte_balise": "HOW WE",
+      "bbox": [
+        57.1,
+        1827.2,
+        328.3,
+        1881.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAXATION No",
+      "texte_balise": "TAXATION No",
+      "bbox": [
+        2177.1,
+        1838.5,
+        2406.2,
+        1875.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF NATIONS",
+      "texte_balise": "OF NATIONS",
+      "bbox": [
+        2499.7,
+        1852.5,
+        2797.2,
+        1918.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARM",
+      "texte_balise": "FARM",
+      "bbox": [
+        406.3,
+        1859.4,
+        671.9,
+        1932.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FERGUSON",
+      "texte_balise": "FERGUSON",
+      "bbox": [
+        1218.8,
+        1859.4,
+        1562.5,
+        1911.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARM",
+      "texte_balise": "FARM",
+      "bbox": [
+        407.9,
+        1874.7,
+        670.6,
+        1926.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mere",
+      "texte_balise": "Mere",
+      "bbox": [
+        1609.4,
+        1875.0,
+        1791.7,
+        1942.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF NATIONS",
+      "texte_balise": "OF NATIONS",
+      "bbox": [
+        2499.4,
+        1875.0,
+        2794.8,
+        1917.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TYRANNY",
+      "texte_balise": "TYRANNY",
+      "bbox": [
+        2213.5,
+        1885.1,
+        2369.9,
+        1922.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INVENTED",
+      "texte_balise": "INVENTED",
+      "bbox": [
+        20.8,
+        1895.8,
+        359.4,
+        1947.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADAM SMITH",
+      "texte_balise": "ADAM SMITH",
+      "bbox": [
+        2588.5,
+        1916.7,
+        2744.8,
+        1948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aulhor of THE ASCENT OF MONEY",
+      "texte_balise": "Aulhor of THE ASCENT OF MONEY",
+      "bbox": [
+        1252.1,
+        1931.0,
+        1533.4,
+        1940.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Author of THE ASCENT OF MONEY",
+      "texte_balise": "Author of THE ASCENT OF MONEY",
+      "bbox": [
+        1250.0,
+        1932.0,
+        1531.2,
+        1943.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity",
+      "texte_balise": "Christianity",
+      "bbox": [
+        1609.1,
+        1936.0,
+        1984.7,
+        2017.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE ORWELL",
+      "texte_balise": "GEORGE ORWELL",
+      "bbox": [
+        401.0,
+        1937.5,
+        776.0,
+        2000.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Answer to the Resolutions and",
+      "texte_balise": "An Answer to the Resolutions and",
+      "bbox": [
+        2147.7,
+        1949.9,
+        2429.1,
+        1973.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Answer to the Kesolutions and",
+      "texte_balise": "An Answer to the Kesolutions and",
+      "bbox": [
+        2151.0,
+        1958.0,
+        2427.1,
+        1969.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREEDOM",
+      "texte_balise": "FREEDOM",
+      "bbox": [
+        37.5,
+        1959.4,
+        351.7,
+        2010.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PREEDOM",
+      "texte_balise": "PREEDOM",
+      "bbox": [
+        36.5,
+        1963.5,
+        349.0,
+        2020.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GREAT",
+      "texte_balise": "THE GREAT",
+      "bbox": [
+        1255.2,
+        1963.5,
+        1531.2,
+        2005.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Address of the American Congress",
+      "texte_balise": "Address of the American Congress",
+      "bbox": [
+        2147.7,
+        1977.9,
+        2424.4,
+        1987.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Madress or the American congress",
+      "texte_balise": "Madress or the American congress",
+      "bbox": [
+        2151.0,
+        1979.0,
+        2427.1,
+        1990.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEGENERATION",
+      "texte_balise": "DEGENERATION",
+      "bbox": [
+        1213.5,
+        2015.6,
+        1572.9,
+        2057.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW INSTITUTIONS DECAY",
+      "texte_balise": "HOW INSTITUTIONS DECAY",
+      "bbox": [
+        1250.0,
+        2078.0,
+        1536.5,
+        2089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHIT.",
+      "texte_balise": "WHIT.",
+      "bbox": [
+        74.9,
+        2099.3,
+        323.7,
+        2147.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "and ECONOMIES DIE",
+      "texte_balise": "and ECONOMIES DIE",
+      "bbox": [
+        1281.3,
+        2104.0,
+        1505.2,
+        2115.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEP",
+      "texte_balise": "THEP",
+      "bbox": [
+        886.3,
+        2123.4,
+        980.1,
+        2151.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAMERON",
+      "texte_balise": "CAMERON",
+      "bbox": [
+        825.0,
+        2145.1,
+        1163.3,
+        2209.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by",
+      "texte_balise": "by",
+      "bbox": [
+        2274.3,
+        2146.9,
+        2302.5,
+        2175.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATTERS",
+      "texte_balise": "MATTERS",
+      "bbox": [
+        51.4,
+        2164.3,
+        337.9,
+        2218.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Samuel Johnson",
+      "texte_balise": "Samuel Johnson",
+      "bbox": [
+        2194.5,
+        2170.0,
+        2386.9,
+        2203.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "s. Lewis.",
+      "texte_balise": "s. Lewis.",
+      "bbox": [
+        1666.6,
+        2187.8,
+        2040.6,
+        2316.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELUSION",
+      "texte_balise": "DELUSION",
+      "bbox": [
+        829.9,
+        2202.3,
+        1163.1,
+        2264.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgotten Proofs",
+      "texte_balise": "Forgotten Proofs",
+      "bbox": [
+        2208.7,
+        2240.6,
+        2372.8,
+        2273.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C.",
+      "texte_balise": "C.",
+      "bbox": [
+        1608.4,
+        2254.7,
+        1697.5,
+        2310.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PETER HITCHENS",
+      "texte_balise": "PETER HITCHENS",
+      "bbox": [
+        825.3,
+        2273.4,
+        1167.6,
+        2310.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANIEL HANNAN",
+      "texte_balise": "DANIEL HANNAN",
+      "bbox": [
+        56.3,
+        2282.6,
+        337.6,
+        2310.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UPDATED EDITION OF THE BROKEN COMPASS",
+      "texte_balise": "UPDATED EDITION OF THE BROKEN COMPASS",
+      "bbox": [
+        830.0,
+        2315.6,
+        1158.3,
+        2325.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        1612.6,
+        2346.7,
+        2007.6,
+        2472.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ËNOCH POWELL",
+      "texte_balise": "ËNOCH POWELL",
+      "bbox": [
+        393.9,
+        2348.4,
+        792.5,
+        2428.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASCISM",
+      "texte_balise": "FASCISM",
+      "bbox": [
+        1214.5,
+        2348.4,
+        1570.9,
+        2409.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID",
+      "texte_balise": "DAVID",
+      "bbox": [
+        61.0,
+        2367.2,
+        314.2,
+        2423.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROGER SCRUTON",
+      "texte_balise": "ROGER SCRUTON",
+      "bbox": [
+        848.8,
+        2367.2,
+        1139.5,
+        2404.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "100 Questions Asked & Answered",
+      "texte_balise": "100 Questions Asked & Answered",
+      "bbox": [
+        1209.8,
+        2404.5,
+        1570.9,
+        2451.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STARKEY",
+      "texte_balise": "STARKEY",
+      "bbox": [
+        18.7,
+        2423.0,
+        361.1,
+        2484.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CROWN&",
+      "texte_balise": "CROWN&",
+      "bbox": [
+        32.8,
+        2484.4,
+        351.7,
+        2540.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COUNTRY",
+      "texte_balise": "COUNTRY",
+      "bbox": [
+        28.1,
+        2535.9,
+        356.4,
+        2592.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE KINGS & QUEENS",
+      "texte_balise": "THE KINGS & QUEENS",
+      "bbox": [
+        61.0,
+        2596.9,
+        323.6,
+        2620.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF ENGLAND: A HISTORY",
+      "texte_balise": "OF ENGLAND: A HISTORY",
+      "bbox": [
+        46.9,
+        2620.3,
+        342.3,
+        2643.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOW TO BE A",
+      "texte_balise": "HOW TO BE A",
+      "bbox": [
+        839.4,
+        2714.1,
+        1148.9,
+        2761.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONSERVATIVE",
+      "texte_balise": "CONSERVATIVE",
+      "bbox": [
+        820.6,
+        2765.6,
+        1172.3,
+        2812.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREEDOM & REALITY",
+      "texte_balise": "FREEDOM & REALITY",
+      "bbox": [
+        396.3,
+        2775.3,
+        795.0,
+        2843.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oswald Mosley",
+      "texte_balise": "Oswald Mosley",
+      "bbox": [
+        1233.3,
+        2798.2,
+        1547.5,
+        2845.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE ORWELL",
+      "texte_balise": "GEORGE ORWELL",
+      "bbox": [
+        1716.3,
+        2821.9,
+        1908.6,
+        2850.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A PAPERFRONT",
+      "texte_balise": "A PAPERFRONT",
+      "bbox": [
+        459.6,
+        2835.9,
+        642.4,
+        2859.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "20n",
+      "texte_balise": "20n",
+      "bbox": [
+        731.5,
+        2850.0,
+        773.7,
+        2859.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

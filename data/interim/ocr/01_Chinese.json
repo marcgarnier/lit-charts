@@ -1,0 +1,1994 @@
+{
+  "fichier": "01_Chinese.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:48:28.086080+00:00",
+  "duree_s": 3.7,
+  "taille_origine": [
+    3393,
+    3598
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 180,
+  "lignes": [
+    {
+      "texte": "/lit/ Guide to Chinese Literature",
+      "texte_balise": "/lit/ Guide to Chinese Literature",
+      "bbox": [
+        4.9,
+        19.7,
+        892.6,
+        74.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICAL CHINESE LITERATURE",
+      "texte_balise": "CLASSICAL CHINESE LITERATURE",
+      "bbox": [
+        49.3,
+        108.0,
+        882.8,
+        148.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plays",
+      "texte_balise": "Plays",
+      "bbox": [
+        1583.1,
+        152.5,
+        1696.5,
+        201.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Four Great Classics",
+      "texte_balise": "The Four Great Classics",
+      "bbox": [
+        103.6,
+        177.0,
+        572.1,
+        216.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Peach Bosom Fan",
+      "texte_balise": "Peach Bosom Fan",
+      "bbox": [
+        2342.6,
+        211.5,
+        2500.4,
+        251.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• Peony Pavilion",
+      "texte_balise": "• Peony Pavilion",
+      "bbox": [
+        2100.9,
+        216.0,
+        2258.7,
+        246.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAO XUFOIN",
+      "texte_balise": "CAO XUFOIN",
+      "bbox": [
+        912.4,
+        221.0,
+        1001.1,
+        241.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "mory of che",
+      "texte_balise": "mory of che",
+      "bbox": [
+        1952.9,
+        226.0,
+        2031.9,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WATER",
+      "texte_balise": "THE WATER",
+      "bbox": [
+        384.7,
+        250.9,
+        557.3,
+        280.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Dream",
+      "texte_balise": "A Dream",
+      "bbox": [
+        2673.0,
+        255.8,
+        2746.9,
+        276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The DREAM",
+      "texte_balise": "The DREAM",
+      "bbox": [
+        868.0,
+        265.7,
+        1001.1,
+        290.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Journey to the We",
+      "texte_balise": "The Journey to the We",
+      "bbox": [
+        143.0,
+        275.5,
+        295.9,
+        300.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the southerr",
+      "texte_balise": "the southerr",
+      "bbox": [
+        2673.0,
+        285.0,
+        2771.6,
+        295.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARGIN",
+      "texte_balise": "MARGIN",
+      "bbox": [
+        384.7,
+        285.3,
+        552.3,
+        314.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ofthe",
+      "texte_balise": "ofthe",
+      "bbox": [
+        912.4,
+        290.3,
+        956.7,
+        314.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOUCh",
+      "texte_balise": "BOUCh",
+      "bbox": [
+        2673.0,
+        309.9,
+        2722.3,
+        319.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RED CHAMBER",
+      "texte_balise": "RED CHAMBER",
+      "bbox": [
+        848.3,
+        314.9,
+        1020.9,
+        339.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'HREI",
+      "texte_balise": "'HREI",
+      "bbox": [
+        655.9,
+        354.2,
+        725.0,
+        378.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "INGDOM!",
+      "texte_balise": "INGDOM!",
+      "bbox": [
+        655.9,
+        378.8,
+        789.1,
+        403.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other Classics",
+      "texte_balise": "Other Classics",
+      "bbox": [
+        1553.5,
+        629.7,
+        1834.6,
+        674.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Religion and Philosophy",
+      "texte_balise": "Religion and Philosophy",
+      "bbox": [
+        98.6,
+        634.6,
+        586.9,
+        684.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        3121.8,
+        703.5,
+        3166.1,
+        728.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e Plum in the",
+      "texte_balise": "e Plum in the",
+      "bbox": [
+        1657.0,
+        708.0,
+        1780.3,
+        733.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CREATION",
+      "texte_balise": "CREATION",
+      "bbox": [
+        1849.4,
+        708.4,
+        2002.3,
+        757.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EICHING",
+      "texte_balise": "EICHING",
+      "bbox": [
+        1149.1,
+        723.2,
+        1257.6,
+        762.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Fountainhead",
+      "texte_balise": "Fountainhead",
+      "bbox": [
+        3077.4,
+        723.2,
+        3210.5,
+        747.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "olden Vase. CHIN",
+      "texte_balise": "olden Vase. CHIN",
+      "bbox": [
+        1657.0,
+        733.0,
+        1795.1,
+        753.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CARNAT",
+      "texte_balise": "THE CARNAT",
+      "bbox": [
+        2357.3,
+        738.0,
+        2470.8,
+        748.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GODS",
+      "texte_balise": "GODS",
+      "bbox": [
+        1888.8,
+        742.9,
+        1967.7,
+        772.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CIENT OPERAC",
+      "texte_balise": "CIENT OPERAC",
+      "bbox": [
+        2845.6,
+        742.9,
+        2963.9,
+        753.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e Erotica",
+      "texte_balise": "e Erotica",
+      "bbox": [
+        3131.6,
+        742.9,
+        3215.5,
+        777.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        2091.0,
+        752.7,
+        2145.3,
+        782.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRAYER MAT",
+      "texte_balise": "PRAYER MAT",
+      "bbox": [
+        2352.4,
+        752.7,
+        2475.7,
+        772.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chinese",
+      "texte_balise": "Chinese",
+      "bbox": [
+        3067.5,
+        752.7,
+        3151.3,
+        782.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MENGZI",
+      "texte_balise": "MENGZI",
+      "bbox": [
+        646.0,
+        757.3,
+        794.1,
+        787.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CONFUCIUS",
+      "texte_balise": "CONFUCIUS",
+      "bbox": [
+        399.5,
+        762.6,
+        557.3,
+        787.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAO DE JING",
+      "texte_balise": "DAO DE JING",
+      "bbox": [
+        152.9,
+        777.0,
+        340.3,
+        802.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        887.7,
+        777.3,
+        1035.7,
+        836.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dragon King's",
+      "texte_balise": "Dragon King's",
+      "bbox": [
+        2086.1,
+        782.0,
+        2253.8,
+        817.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANALECTS",
+      "texte_balise": "ANALECTS",
+      "bbox": [
+        399.3,
+        786.5,
+        557.4,
+        817.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daughter",
+      "texte_balise": "Daughter",
+      "bbox": [
+        2125.6,
+        811.8,
+        2248.8,
+        846.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARTERS",
+      "texte_balise": "CHARTERS",
+      "bbox": [
+        3077.4,
+        983.9,
+        3200.7,
+        993.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The 3",
+      "texte_balise": "The 3",
+      "bbox": [
+        1610.7,
+        1101.0,
+        1714.2,
+        1144.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHEN FU",
+      "texte_balise": "SHEN FU",
+      "bbox": [
+        2076.2,
+        1102.0,
+        2189.7,
+        1127.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1612.7,
+        1106.9,
+        1657.0,
+        1131.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Strange Tales",
+      "texte_balise": "Strange Tales",
+      "bbox": [
+        1839.2,
+        1110.0,
+        1987.8,
+        1143.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FuRRAInEREn COUCH",
+      "texte_balise": "THE FuRRAInEREn COUCH",
+      "bbox": [
+        2830.8,
+        1121.7,
+        2998.5,
+        1151.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE LMBROIDERED COUCH",
+      "texte_balise": "HE LMBROIDERED COUCH",
+      "bbox": [
+        2830.8,
+        1123.9,
+        2998.5,
+        1158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZHUANGZI",
+      "texte_balise": "ZHUANGZI",
+      "bbox": [
+        177.5,
+        1126.6,
+        315.6,
+        1161.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HAN FEIZI",
+      "texte_balise": "HAN FEIZI",
+      "bbox": [
+        414.3,
+        1126.6,
+        532.6,
+        1136.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GRAND HISTORIAN",
+      "texte_balise": "THE GRAND HISTORIAN",
+      "bbox": [
+        3067.5,
+        1126.6,
+        3220.4,
+        1161.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAN FELLI",
+      "texte_balise": "HAN FELLI",
+      "bbox": [
+        414.3,
+        1128.8,
+        532.6,
+        1138.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCHOLARS",
+      "texte_balise": "SCHOLARS",
+      "bbox": [
+        1612.7,
+        1136.5,
+        1736.0,
+        1161.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "from a",
+      "texte_balise": "from a",
+      "bbox": [
+        1883.9,
+        1141.0,
+        1938.2,
+        1166.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASIC",
+      "texte_balise": "BASIC",
+      "bbox": [
+        636.2,
+        1148.5,
+        690.4,
+        1158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Six Records",
+      "texte_balise": "Six Records",
+      "bbox": [
+        2155.1,
+        1157.9,
+        2258.7,
+        1183.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chinese Studio",
+      "texte_balise": "Chinese Studio",
+      "bbox": [
+        1829.7,
+        1161.0,
+        1997.3,
+        1186.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of a",
+      "texte_balise": "of a",
+      "bbox": [
+        2184.7,
+        1187.9,
+        2234.1,
+        1212.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ife Adrift",
+      "texte_balise": "ife Adrift",
+      "bbox": [
+        2169.9,
+        1210.0,
+        2253.8,
+        1235.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Life Adrift",
+      "texte_balise": "Life Adrift",
+      "bbox": [
+        2165.0,
+        1212.5,
+        2253.8,
+        1237.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLATON WATSON",
+      "texte_balise": "BLATON WATSON",
+      "bbox": [
+        424.1,
+        1315.8,
+        527.7,
+        1335.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In the inner",
+      "texte_balise": "In the inner",
+      "bbox": [
+        2633.5,
+        1325.8,
+        2732.2,
+        1335.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Juarters",
+      "texte_balise": "Juarters",
+      "bbox": [
+        2589.1,
+        1335.6,
+        2756.8,
+        1370.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY L THENCHENG",
+      "texte_balise": "BY L THENCHENG",
+      "bbox": [
+        2875.2,
+        1350.4,
+        2944.2,
+        1375.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MODERN CHINESE LITERATURE",
+      "texte_balise": "MODERN CHINESE LITERATURE",
+      "bbox": [
+        4.9,
+        1463.6,
+        784.1,
+        1508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writers born in Qing Dvnastv (1644 - 1911)",
+      "texte_balise": "Writers born in Qing Dvnastv (1644 - 1911)",
+      "bbox": [
+        54.2,
+        1537.5,
+        917.3,
+        1576.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writers born in Republic Period (1912 - 1949)",
+      "texte_balise": "Writers born in Republic Period (1912 - 1949)",
+      "bbox": [
+        1055.4,
+        1547.4,
+        1962.8,
+        1596.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writers born in PRC (1949 - Present)",
+      "texte_balise": "Writers born in PRC (1949 - Present)",
+      "bbox": [
+        2041.7,
+        1547.4,
+        2771.6,
+        1591.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Midnight",
+      "texte_balise": "Midnight",
+      "bbox": [
+        754.5,
+        1606.5,
+        932.1,
+        1660.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IFE AND DEATH",
+      "texte_balise": "IFE AND DEATH",
+      "bbox": [
+        2707.5,
+        1635.6,
+        2870.2,
+        1660.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mo Van",
+      "texte_balise": "Mo Van",
+      "bbox": [
+        3047.8,
+        1640.6,
+        3107.0,
+        1650.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "XINGJIAN",
+      "texte_balise": "XINGJIAN",
+      "bbox": [
+        1824.7,
+        1665.5,
+        1933.2,
+        1700.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Camel",
+      "texte_balise": "Camel",
+      "bbox": [
+        330.4,
+        1670.5,
+        429.1,
+        1695.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EAYER",
+      "texte_balise": "EAYER",
+      "bbox": [
+        2091.0,
+        1670.5,
+        2199.5,
+        1714.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Teahouse",
+      "texte_balise": "Teahouse",
+      "bbox": [
+        552.3,
+        1690.2,
+        670.7,
+        1719.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Eleen?",
+      "texte_balise": "Eleen?",
+      "bbox": [
+        1265.8,
+        1694.0,
+        1437.5,
+        1743.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ME ALONE",
+      "texte_balise": "ME ALONE",
+      "bbox": [
+        2071.3,
+        1704.6,
+        2199.5,
+        1754.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Xiangzi",
+      "texte_balise": "Xiangzi",
+      "bbox": [
+        360.0,
+        1704.9,
+        463.6,
+        1744.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chang",
+      "texte_balise": "Chang",
+      "bbox": [
+        1266.3,
+        1723.6,
+        1466.5,
+        1786.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Soul",
+      "texte_balise": "Soul",
+      "bbox": [
+        1607.7,
+        1749.3,
+        1681.7,
+        1793.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lust,",
+      "texte_balise": "Lust,",
+      "bbox": [
+        1272.4,
+        1773.9,
+        1346.4,
+        1808.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mountain",
+      "texte_balise": "Mountain",
+      "bbox": [
+        1573.2,
+        1783.7,
+        1721.2,
+        1818.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Buying a Fishing Rod",
+      "texte_balise": "Buying a Fishing Rod",
+      "bbox": [
+        1775.4,
+        1793.5,
+        1908.6,
+        1818.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Caution",
+      "texte_balise": "Caution",
+      "bbox": [
+        1267.4,
+        1803.4,
+        1415.4,
+        1842.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sorrow",
+      "texte_balise": "Sorrow",
+      "bbox": [
+        3279.6,
+        1808.3,
+        3348.6,
+        1828.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MURONG",
+      "texte_balise": "MURONG",
+      "bbox": [
+        2081.2,
+        1877.3,
+        2189.7,
+        1901.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TRAVELS",
+      "texte_balise": "THE TRAVELS",
+      "bbox": [
+        759.5,
+        1961.0,
+        951.8,
+        1990.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF LAO",
+      "texte_balise": "OF LAO",
+      "bbox": [
+        759.3,
+        1980.1,
+        882.9,
+        2010.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bei Dao",
+      "texte_balise": "Bei Dao",
+      "bbox": [
+        1844.5,
+        1980.4,
+        1908.6,
+        2005.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIFE AND DEATH",
+      "texte_balise": "TIFE AND DEATH",
+      "bbox": [
+        295.9,
+        1985.4,
+        424.1,
+        1995.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAN",
+      "texte_balise": "CAN",
+      "bbox": [
+        877.8,
+        1985.6,
+        951.8,
+        2010.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bet ac",
+      "texte_balise": "Bet ac",
+      "bbox": [
+        1607.7,
+        1995.4,
+        1662.0,
+        2005.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1075.1,
+        2000.4,
+        1119.5,
+        2029.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Wild",
+      "texte_balise": "* Wild",
+      "bbox": [
+        64.1,
+        2005.3,
+        182.5,
+        2039.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hy liu B",
+      "texte_balise": "hy liu B",
+      "bbox": [
+        828.5,
+        2015.2,
+        882.8,
+        2025.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TALES OF",
+      "texte_balise": "TALES OF",
+      "bbox": [
+        320.6,
+        2025.0,
+        394.5,
+        2039.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELEVENTH",
+      "texte_balise": "ELEVENTH",
+      "bbox": [
+        1075.1,
+        2025.0,
+        1218.1,
+        2049.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Waves",
+      "texte_balise": "Waves",
+      "bbox": [
+        1607.7,
+        2025.0,
+        1657.0,
+        2039.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The August Sleepwalker",
+      "texte_balise": "The August Sleepwalker",
+      "bbox": [
+        1795.1,
+        2025.0,
+        1957.9,
+        2039.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOTR TOTEM",
+      "texte_balise": "WOTR TOTEM",
+      "bbox": [
+        1297.0,
+        2044.3,
+        1435.1,
+        2054.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Grass",
+      "texte_balise": "Grass",
+      "bbox": [
+        128.2,
+        2049.6,
+        207.1,
+        2079.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YU HUA",
+      "texte_balise": "YU HUA",
+      "bbox": [
+        2041.7,
+        2069.3,
+        2105.8,
+        2094.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Xion",
+      "texte_balise": "In Xion",
+      "bbox": [
+        182.5,
+        2108.3,
+        221.9,
+        2133.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RAISE",
+      "texte_balise": "RAISE",
+      "bbox": [
+        2766.7,
+        2123.5,
+        2835.7,
+        2143.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        2919.6,
+        2128.4,
+        2963.9,
+        2162.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chronicle",
+      "texte_balise": "Chronicle",
+      "bbox": [
+        2530.0,
+        2133.4,
+        2608.9,
+        2143.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIAG",
+      "texte_balise": "VIAG",
+      "bbox": [
+        310.7,
+        2143.2,
+        360.0,
+        2153.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROTHERS",
+      "texte_balise": "BROTHERS",
+      "bbox": [
+        2115.7,
+        2148.1,
+        2229.1,
+        2172.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wandering, Forth",
+      "texte_balise": "Wandering, Forth",
+      "bbox": [
+        2919.6,
+        2162.9,
+        3121.8,
+        2222.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blood Merchant",
+      "texte_balise": "Blood Merchant",
+      "bbox": [
+        2510.2,
+        2172.8,
+        2633.5,
+        2182.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTERN",
+      "texte_balise": "ANTERN",
+      "bbox": [
+        2756.8,
+        2187.5,
+        2860.4,
+        2212.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YU HUA",
+      "texte_balise": "YU HUA",
+      "bbox": [
+        2539.8,
+        2207.2,
+        2608.9,
+        2227.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Liu Cixin",
+      "texte_balise": "Liu Cixin",
+      "bbox": [
+        3062.6,
+        2217.1,
+        3131.6,
+        2256.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE BoOK &",
+      "texte_balise": "THE BoOK &",
+      "bbox": [
+        2485.1,
+        2284.1,
+        2668.5,
+        2332.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THe BoOK &",
+      "texte_balise": "THe BoOK &",
+      "bbox": [
+        2485.6,
+        2288.0,
+        2663.1,
+        2332.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Years",
+      "texte_balise": "Years",
+      "bbox": [
+        1370.9,
+        2295.5,
+        1469.7,
+        2325.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ten",
+      "texte_balise": "Ten",
+      "bbox": [
+        1302.0,
+        2295.9,
+        1375.9,
+        2325.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tch",
+      "texte_balise": "Tch",
+      "bbox": [
+        1302.0,
+        2298.2,
+        1366.1,
+        2327.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HALF OF MAN",
+      "texte_balise": "HALF OF MAN",
+      "bbox": [
+        1780.2,
+        2314.8,
+        1967.9,
+        2355.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANGHAI",
+      "texte_balise": "HANGHAI",
+      "bbox": [
+        794.0,
+        2320.5,
+        951.8,
+        2345.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANGHAI",
+      "texte_balise": "ANGHAI",
+      "bbox": [
+        813.7,
+        2322.9,
+        946.9,
+        2347.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SWORD",
+      "texte_balise": "THE SWORD",
+      "bbox": [
+        2519.8,
+        2324.3,
+        2678.2,
+        2365.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "06 MAdnESS",
+      "texte_balise": "06 MAdnESS",
+      "bbox": [
+        1302.0,
+        2325.1,
+        1469.6,
+        2355.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "06 Madness",
+      "texte_balise": "06 Madness",
+      "bbox": [
+        1302.0,
+        2327.8,
+        1469.6,
+        2357.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAMILY",
+      "texte_balise": "FAMILY",
+      "bbox": [
+        44.4,
+        2350.0,
+        231.8,
+        2433.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAMIL",
+      "texte_balise": "FAMIL",
+      "bbox": [
+        49.3,
+        2352.4,
+        231.8,
+        2426.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IS WOMAN",
+      "texte_balise": "IS WOMAN",
+      "bbox": [
+        1799.6,
+        2353.0,
+        1948.5,
+        2396.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Han Can Gin",
+      "texte_balise": "* Han Can Gin",
+      "bbox": [
+        1316.8,
+        2361.9,
+        1454.8,
+        2391.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Importance ol Livine",
+      "texte_balise": "Importance ol Livine",
+      "bbox": [
+        527.7,
+        2376.9,
+        680.6,
+        2386.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ting",
+      "texte_balise": "ting",
+      "bbox": [
+        2125.6,
+        2394.3,
+        2219.3,
+        2428.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEE",
+      "texte_balise": "SEE",
+      "bbox": [
+        394.5,
+        2401.6,
+        414.3,
+        2505.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H",
+      "texte_balise": "H",
+      "bbox": [
+        2258.7,
+        2404.2,
+        2283.4,
+        2433.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KING",
+      "texte_balise": "KING",
+      "bbox": [
+        2742.0,
+        2426.2,
+        2791.3,
+        2450.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gian THE",
+      "texte_balise": "gian THE",
+      "bbox": [
+        1622.5,
+        2499.8,
+        1731.0,
+        2529.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Duane",
+      "texte_balise": "by Duane",
+      "bbox": [
+        1538.7,
+        2512.5,
+        1602.8,
+        2542.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SORROWS",
+      "texte_balise": "SORROWS",
+      "bbox": [
+        1548.4,
+        2523.8,
+        1731.2,
+        2560.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MA JIAN",
+      "texte_balise": "MA JIAN",
+      "bbox": [
+        3240.1,
+        2539.5,
+        3314.1,
+        2559.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thinde Caseme",
+      "texte_balise": "Thinde Caseme",
+      "bbox": [
+        562.2,
+        2544.4,
+        641.1,
+        2554.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZHANG XIANLIANG",
+      "texte_balise": "ZHANG XIANLIANG",
+      "bbox": [
+        1795.1,
+        2553.8,
+        1957.9,
+        2588.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF EGRET LAKE",
+      "texte_balise": "OF EGRET LAKE",
+      "bbox": [
+        1563.3,
+        2558.8,
+        1731.0,
+        2583.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fens Jicat",
+      "texte_balise": "Fens Jicat",
+      "bbox": [
+        1336.5,
+        2563.8,
+        1430.2,
+        2588.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXPRESS",
+      "texte_balise": "EXPRESS",
+      "bbox": [
+        808.8,
+        2583.8,
+        946.9,
+        2608.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MY COUNTRY AND",
+      "texte_balise": "MY COUNTRY AND",
+      "bbox": [
+        527.7,
+        2672.4,
+        690.4,
+        2687.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VERTICAL",
+      "texte_balise": "VERTICAL",
+      "bbox": [
+        2278.4,
+        2682.3,
+        2431.3,
+        2721.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MY PEOPLE",
+      "texte_balise": "MY PEOPLE",
+      "bbox": [
+        557.3,
+        2687.2,
+        660.8,
+        2711.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shen",
+      "texte_balise": "Shen",
+      "bbox": [
+        340.3,
+        2697.0,
+        404.4,
+        2721.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Congwen",
+      "texte_balise": "Congwen",
+      "bbox": [
+        350.1,
+        2731.5,
+        453.7,
+        2761.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DICASE DON'T CALL ME HUMAN",
+      "texte_balise": "DICASE DON'T CALL ME HUMAN",
+      "bbox": [
+        2727.2,
+        2731.5,
+        2865.3,
+        2741.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I LOVE",
+      "texte_balise": "I LOVE",
+      "bbox": [
+        3240.1,
+        2770.6,
+        3343.7,
+        2805.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOLLARS",
+      "texte_balise": "DOLLARS",
+      "bbox": [
+        3235.1,
+        2805.2,
+        3378.3,
+        2849.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BORDER TOWN",
+      "texte_balise": "BORDER TOWN",
+      "bbox": [
+        44.4,
+        2805.3,
+        231.8,
+        2830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MOTION",
+      "texte_balise": "MOTION",
+      "bbox": [
+        2283.2,
+        2814.5,
+        2431.5,
+        2855.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WANG SHUO",
+      "texte_balise": "WANG SHUO",
+      "bbox": [
+        2756.8,
+        2874.3,
+        2875.2,
+        2898.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SİLVER CİTY",
+      "texte_balise": "SİLVER CİTY",
+      "bbox": [
+        1045.5,
+        2908.5,
+        1247.7,
+        2948.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beacock",
+      "texte_balise": "Beacock",
+      "bbox": [
+        2485.3,
+        2937.4,
+        2683.2,
+        3013.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I LOVE AND",
+      "texte_balise": "I LOVE AND",
+      "bbox": [
+        3269.7,
+        2948.1,
+        3353.5,
+        2982.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HONG",
+      "texte_balise": "HONG",
+      "bbox": [
+        2737.1,
+        2953.0,
+        2825.9,
+        2977.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YING",
+      "texte_balise": "YING",
+      "bbox": [
+        2820.9,
+        2953.0,
+        2894.9,
+        2977.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fang Fang",
+      "texte_balise": "Fang Fang",
+      "bbox": [
+        3003.4,
+        2953.0,
+        3102.0,
+        2982.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WANG BONDAGE",
+      "texte_balise": "WANG BONDAGE",
+      "bbox": [
+        3185.9,
+        2962.5,
+        3363.4,
+        3017.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Changes in",
+      "texte_balise": "Changes in",
+      "bbox": [
+        59.0,
+        2981.9,
+        207.3,
+        3017.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Children",
+      "texte_balise": "Children",
+      "bbox": [
+        3003.2,
+        2991.6,
+        3107.2,
+        3022.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SUN",
+      "texte_balise": "THE SUN",
+      "bbox": [
+        290.6,
+        2995.9,
+        394.9,
+        3023.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cries",
+      "texte_balise": "Cries",
+      "bbox": [
+        2564.5,
+        2997.4,
+        2677.9,
+        3046.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Li Village",
+      "texte_balise": "Li Village",
+      "bbox": [
+        54.0,
+        3020.8,
+        212.3,
+        3062.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHINES OVER",
+      "texte_balise": "SHINES OVER",
+      "bbox": [
+        295.9,
+        3022.0,
+        448.8,
+        3046.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the",
+      "texte_balise": "of the",
+      "bbox": [
+        3018.2,
+        3026.4,
+        3092.2,
+        3051.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SANGGAN",
+      "texte_balise": "THE SANGGAN",
+      "bbox": [
+        300.8,
+        3046.4,
+        458.6,
+        3071.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bitter River",
+      "texte_balise": "Bitter River",
+      "bbox": [
+        2973.8,
+        3046.4,
+        3136.6,
+        3081.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIVER",
+      "texte_balise": "RIVER",
+      "bbox": [
+        295.9,
+        3071.2,
+        369.9,
+        3095.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Baptism.",
+      "texte_balise": "Baptism.",
+      "bbox": [
+        522.8,
+        3071.2,
+        631.3,
+        3100.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chan Shante",
+      "texte_balise": "Chan Shante",
+      "bbox": [
+        88.8,
+        3076.1,
+        177.5,
+        3086.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Concubine",
+      "texte_balise": "Concubine",
+      "bbox": [
+        2742.0,
+        3159.8,
+        2855.4,
+        3194.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Shanghai",
+      "texte_balise": "of Shanghai",
+      "bbox": [
+        2766.7,
+        3184.3,
+        2894.9,
+        3219.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HONC",
+      "texte_balise": "HONC",
+      "bbox": [
+        2283.4,
+        3218.9,
+        2357.3,
+        3228.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHITE* *E",
+      "texte_balise": "WHITE* *E",
+      "bbox": [
+        2505.2,
+        3282.5,
+        2678.0,
+        3317.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CELINGYAN SNAKE",
+      "texte_balise": "CELINGYAN SNAKE",
+      "bbox": [
+        2505.2,
+        3312.2,
+        2682.9,
+        3352.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= SERVE •",
+      "texte_balise": "= SERVE •",
+      "bbox": [
+        2110.8,
+        3435.1,
+        2243.9,
+        3490.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PEOPLE!",
+      "texte_balise": "PEOPLE!",
+      "bbox": [
+        2140.4,
+        3484.8,
+        2229.1,
+        3509.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OWERS",
+      "texte_balise": "OWERS",
+      "bbox": [
+        3023.1,
+        3494.6,
+        3151.3,
+        3524.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

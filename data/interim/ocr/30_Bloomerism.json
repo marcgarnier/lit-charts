@@ -1,0 +1,927 @@
+{
+  "fichier": "30_Bloomerism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:20.299511+00:00",
+  "duree_s": 4.7,
+  "taille_origine": [
+    3023,
+    3000
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 83,
+  "lignes": [
+    {
+      "texte": "BLOOMERISM.",
+      "texte_balise": "BLOOMERISM.",
+      "bbox": [
+        768.3,
+        175.0,
+        2254.7,
+        287.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PARTIAL COLLECTION OF TRUE BLOOMÉRIST LITERATURE, BEING",
+      "texte_balise": "PARTIAL COLLECTION OF TRUE BLOOMÉRIST LITERATURE, BEING",
+      "bbox": [
+        264.5,
+        337.5,
+        2758.5,
+        412.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPRESENTATIVE OF THE BLOOMER ETHOS, TYPICAL OF THE",
+      "texte_balise": "REPRESENTATIVE OF THE BLOOMER ETHOS, TYPICAL OF THE",
+      "bbox": [
+        342.7,
+        439.5,
+        2680.3,
+        505.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLOOMER GENERATION.",
+      "texte_balise": "BLOOMER GENERATION.",
+      "bbox": [
+        1045.7,
+        518.5,
+        1977.3,
+        571.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pecto vare a",
+      "texte_balise": "Pecto vare a",
+      "bbox": [
+        1845.4,
+        887.2,
+        1955.3,
+        896.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PecTo varela",
+      "texte_balise": "PecTo varela",
+      "bbox": [
+        1845.4,
+        888.0,
+        1959.7,
+        897.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COSIMO CLASSIC.",
+      "texte_balise": "COSIMO CLASSIC.",
+      "bbox": [
+        966.7,
+        892.1,
+        1045.7,
+        914.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(88.58)",
+      "texte_balise": "(88.58)",
+      "bbox": [
+        2588.0,
+        900.9,
+        2733.0,
+        927.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE AUTOBIOGRAPHY OF",
+      "texte_balise": "THE AUTOBIOGRAPHY OF",
+      "bbox": [
+        584.4,
+        905.2,
+        896.4,
+        936.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faith and Action",
+      "texte_balise": "Faith and Action",
+      "bbox": [
+        2192.6,
+        914.1,
+        2368.3,
+        940.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ST. IGNATIUS LOYOLA",
+      "texte_balise": "ST. IGNATIUS LOYOLA",
+      "bbox": [
+        584.4,
+        940.2,
+        892.0,
+        967.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry James Coleridge",
+      "texte_balise": "Henry James Coleridge",
+      "bbox": [
+        2548.5,
+        944.8,
+        2776.9,
+        975.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Helmut Stellrecht",
+      "texte_balise": "By Helmut Stellrecht",
+      "bbox": [
+        2218.9,
+        945.0,
+        2346.3,
+        967.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By Helmut Stellrech",
+      "texte_balise": "By Helmut Stellrech",
+      "bbox": [
+        2218.9,
+        953.2,
+        2337.6,
+        967.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WITH RELATED DOCUMENT",
+      "texte_balise": "WITH RELATED DOCUMENT",
+      "bbox": [
+        764.5,
+        980.0,
+        892.0,
+        989.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LIFE AND",
+      "texte_balise": "THE LIFE AND",
+      "bbox": [
+        2552.9,
+        1045.9,
+        2776.9,
+        1077.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LETTERS OF ST.",
+      "texte_balise": "LETTERS OF ST.",
+      "bbox": [
+        2539.7,
+        1089.8,
+        2785.7,
+        1121.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANCIS XAVIER",
+      "texte_balise": "FRANCIS XAVIER",
+      "bbox": [
+        2539.7,
+        1133.8,
+        2790.1,
+        1164.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dark",
+      "texte_balise": "The Dark",
+      "bbox": [
+        953.5,
+        1168.9,
+        1261.0,
+        1221.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAINT J",
+      "texte_balise": "SAINT J",
+      "bbox": [
+        232.9,
+        1203.9,
+        342.7,
+        1230.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Click D",
+      "texte_balise": "Click D",
+      "bbox": [
+        2218.9,
+        1221.0,
+        2302.4,
+        1248.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Night",
+      "texte_balise": "Night",
+      "bbox": [
+        957.9,
+        1221.5,
+        1151.2,
+        1282.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "APO",
+      "texte_balise": "APO",
+      "bbox": [
+        285.6,
+        1234.6,
+        347.1,
+        1256.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the Soul",
+      "texte_balise": "of the Soul",
+      "bbox": [
+        953.5,
+        1278.5,
+        1296.2,
+        1327.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ETICA",
+      "texte_balise": "ETICA",
+      "bbox": [
+        1801.5,
+        1278.5,
+        2012.4,
+        1335.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ST. JOHN OF THE CROSS",
+      "texte_balise": "ST. JOHN OF THE CROSS",
+      "bbox": [
+        971.1,
+        1331.0,
+        1283.0,
+        1353.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVOLUCIONARIA",
+      "texte_balise": "REVOLUCIONARIA",
+      "bbox": [
+        1805.9,
+        1331.1,
+        2012.4,
+        1353.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "pretentan.p xpm onn",
+      "texte_balise": "pretentan.p xpm onn",
+      "bbox": [
+        224.1,
+        1581.0,
+        540.4,
+        1612.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        1072.1,
+        1598.7,
+        1164.4,
+        1655.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Cantra kaduna.",
+      "texte_balise": "* Cantra kaduna.",
+      "bbox": [
+        241.7,
+        1611.8,
+        531.7,
+        1643.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE LITTLE",
+      "texte_balise": "THE LITTLE",
+      "bbox": [
+        680.8,
+        1632.4,
+        852.7,
+        1665.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEMOIRS OF TEANNE",
+      "texte_balise": "MEMOIRS OF TEANNE",
+      "bbox": [
+        1792.7,
+        1633.8,
+        2051.9,
+        1660.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2262.9,
+        1638.2,
+        2306.8,
+        1655.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Little Prince",
+      "texte_balise": "Little Prince",
+      "bbox": [
+        988.5,
+        1654.9,
+        1265.6,
+        1713.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAG",
+      "texte_balise": "NAG",
+      "bbox": [
+        2201.3,
+        1664.5,
+        2368.3,
+        1712.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D'ARC, SURNAMED LA",
+      "texte_balise": "D'ARC, SURNAMED LA",
+      "bbox": [
+        1788.3,
+        1668.9,
+        2056.3,
+        1695.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLOWERS OF ST.",
+      "texte_balise": "FLOWERS OF ST.",
+      "bbox": [
+        654.7,
+        1673.0,
+        874.4,
+        1700.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Written and illustrated by",
+      "texte_balise": "Written and illustrated by",
+      "bbox": [
+        1032.6,
+        1703.9,
+        1239.1,
+        1730.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PUCELLE D'ORLEANS",
+      "texte_balise": "PUCELLE D'ORLEANS",
+      "bbox": [
+        1792.7,
+        1703.9,
+        2051.9,
+        1730.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANCIS OF ASSISI",
+      "texte_balise": "FRANCIS OF ASSISI",
+      "bbox": [
+        641.5,
+        1708.0,
+        892.0,
+        1735.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAMMADI",
+      "texte_balise": "HAMMADI",
+      "bbox": [
+        2166.2,
+        1721.5,
+        2403.5,
+        1756.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Antoine de Saint Exupéry",
+      "texte_balise": "Antoine de Saint Exupéry",
+      "bbox": [
+        1019.4,
+        1725.9,
+        1247.9,
+        1748.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Contat bey throw",
+      "texte_balise": "Contat bey throw",
+      "bbox": [
+        2557.2,
+        1730.0,
+        2763.8,
+        1783.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "With the History of Her Times",
+      "texte_balise": "With the History of Her Times",
+      "bbox": [
+        1814.7,
+        1752.0,
+        2030.0,
+        1774.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rendered Into English Verse",
+      "texte_balise": "Rendered Into English Verse",
+      "bbox": [
+        663.5,
+        1756.6,
+        865.6,
+        1779.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCRIPTURES",
+      "texte_balise": "SCRIPTURES",
+      "bbox": [
+        2161.8,
+        1765.4,
+        2407.9,
+        1796.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROTHERS™GRIMM",
+      "texte_balise": "BROTHERS™GRIMM",
+      "bbox": [
+        2526.2,
+        1767.8,
+        2786.0,
+        1815.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK ZIPES",
+      "texte_balise": "JACK ZIPES",
+      "bbox": [
+        2627.5,
+        1813.6,
+        2728.6,
+        1836.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE REVISED AND",
+      "texte_balise": "THE REVISED AND",
+      "bbox": [
+        2205.7,
+        1822.0,
+        2359.5,
+        1840.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UPDATED TRANSLATION",
+      "texte_balise": "UPDATED TRANSLATION",
+      "bbox": [
+        2183.8,
+        1839.9,
+        2385.9,
+        1862.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ald",
+      "texte_balise": "ald",
+      "bbox": [
+        496.5,
+        1848.7,
+        540.4,
+        1870.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OE CACDEN NOSTIC TEYTO",
+      "texte_balise": "OE CACDEN NOSTIC TEYTO",
+      "bbox": [
+        2153.0,
+        1866.0,
+        2412.2,
+        1875.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE LIFE OF",
+      "texte_balise": "THE LIFE OF",
+      "bbox": [
+        193.3,
+        1896.9,
+        347.1,
+        1910.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE OREOR",
+      "texte_balise": "HE OREOR",
+      "bbox": [
+        193.3,
+        1901.0,
+        347.1,
+        1910.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "by",
+      "texte_balise": "by",
+      "bbox": [
+        1911.3,
+        1910.1,
+        1937.7,
+        1932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ho",
+      "texte_balise": "ho",
+      "bbox": [
+        751.4,
+        1914.5,
+        782.1,
+        1932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bp",
+      "texte_balise": "bp",
+      "bbox": [
+        1907.0,
+        1914.6,
+        1937.7,
+        1936.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Saint Katherine",
+      "texte_balise": "Saint Katherine",
+      "bbox": [
+        193.3,
+        1918.9,
+        457.0,
+        1958.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bp",
+      "texte_balise": "bp",
+      "bbox": [
+        751.4,
+        1918.9,
+        782.1,
+        1940.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Đ. I. Ireland",
+      "texte_balise": "Đ. I. Ireland",
+      "bbox": [
+        1845.4,
+        1931.9,
+        1999.2,
+        1958.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tames Rhoades",
+      "texte_balise": "Tames Rhoades",
+      "bbox": [
+        681.1,
+        1932.0,
+        852.4,
+        1958.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Đ I Treland",
+      "texte_balise": "Đ I Treland",
+      "bbox": [
+        1845.4,
+        1932.0,
+        2003.6,
+        1954.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARVIN MEYER",
+      "texte_balise": "MARVIN MEYER",
+      "bbox": [
+        2214.5,
+        1936.0,
+        2355.1,
+        1954.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Rhoades",
+      "texte_balise": "James Rhoades",
+      "bbox": [
+        681.1,
+        1936.5,
+        852.4,
+        1962.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Alexandria",
+      "texte_balise": "of Alexandria",
+      "bbox": [
+        188.9,
+        1967.0,
+        421.8,
+        2007.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOIE-PETER FLINK. PALIT-HIBERT POIRIE",
+      "texte_balise": "WOIE-PETER FLINK. PALIT-HIBERT POIRIE",
+      "bbox": [
+        2139.8,
+        1980.0,
+        2416.6,
+        1989.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES M. ROBINSON",
+      "texte_balise": "JAMES M. ROBINSON",
+      "bbox": [
+        2214.5,
+        1988.9,
+        2355.1,
+        2011.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgotten 05,00ks",
+      "texte_balise": "Forgotten 05,00ks",
+      "bbox": [
+        1845.4,
+        1993.0,
+        1999.2,
+        2020.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgotten O3,0oks",
+      "texte_balise": "Forgotten O3,0oks",
+      "bbox": [
+        1845.4,
+        1993.7,
+        1999.2,
+        2020.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgotten Qooks",
+      "texte_balise": "Forgotten Qooks",
+      "bbox": [
+        689.8,
+        1997.8,
+        843.6,
+        2024.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Forgotten QBooks",
+      "texte_balise": "Forgotten QBooks",
+      "bbox": [
+        689.8,
+        2002.4,
+        843.6,
+        2024.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Capgrave TRANSLATED BY KAREN A. WINSTEA",
+      "texte_balise": "John Capgrave TRANSLATED BY KAREN A. WINSTEA",
+      "bbox": [
+        193.3,
+        2050.8,
+        514.1,
+        2064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PISTIS SOPHIA",
+      "texte_balise": "PISTIS SOPHIA",
+      "bbox": [
+        975.4,
+        2327.6,
+        1278.6,
+        2371.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SON OF GOD",
+      "texte_balise": "A SON OF GOD",
+      "bbox": [
+        1362.1,
+        2336.4,
+        1656.5,
+        2380.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A GNOSTIC GOSPEL",
+      "texte_balise": "A GNOSTIC GOSPEL",
+      "bbox": [
+        1041.4,
+        2371.6,
+        1217.1,
+        2397.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LIFE AND PHILOSOPHY OF",
+      "texte_balise": "THE LIFE AND PHILOSOPHY OF",
+      "bbox": [
+        1362.1,
+        2384.5,
+        1660.9,
+        2406.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AKHNATON KING OF EGYPT",
+      "texte_balise": "AKHNATON KING OF EGYPT",
+      "bbox": [
+        1375.3,
+        2411.1,
+        1652.1,
+        2433.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The SPIRITUAL",
+      "texte_balise": "The SPIRITUAL",
+      "bbox": [
+        1801.5,
+        2635.3,
+        1994.8,
+        2670.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXERCISES",
+      "texte_balise": "EXERCISES",
+      "bbox": [
+        1818.8,
+        2664.9,
+        1973.1,
+        2702.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of SAINT IGNATIUS",
+      "texte_balise": "of SAINT IGNATIUS",
+      "bbox": [
+        1783.9,
+        2696.8,
+        2016.8,
+        2723.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G. R. S. MEAD",
+      "texte_balise": "G. R. S. MEAD",
+      "bbox": [
+        1067.7,
+        2749.2,
+        1190.7,
+        2776.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAVITRI DEVI",
+      "texte_balise": "SAVITRI DEVI",
+      "bbox": [
+        1436.8,
+        2749.2,
+        1586.2,
+        2776.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TAN-CLASSICS",
+      "texte_balise": "TAN-CLASSICS",
+      "bbox": [
+        1836.6,
+        2771.5,
+        1968.5,
+        2789.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

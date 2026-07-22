@@ -1,0 +1,762 @@
+{
+  "fichier": "30_Rhetoric.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:22.595432+00:00",
+  "duree_s": 0.9,
+  "taille_origine": [
+    2000,
+    2000
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 68,
+  "lignes": [
+    {
+      "texte": "DiStA",
+      "texte_balise": "DiStA",
+      "bbox": [
+        162.8,
+        336.3,
+        189.0,
+        342.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Demosthenes",
+      "texte_balise": "Demosthenes",
+      "bbox": [
+        1564.0,
+        336.3,
+        1633.7,
+        350.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato",
+      "texte_balise": "Plato",
+      "bbox": [
+        433.1,
+        339.2,
+        459.3,
+        347.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristotle",
+      "texte_balise": "Aristotle",
+      "bbox": [
+        723.8,
+        339.2,
+        770.3,
+        350.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Phaedrus",
+      "texte_balise": "Phaedrus",
+      "bbox": [
+        162.8,
+        345.0,
+        215.1,
+        359.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art of Rhetoric",
+      "texte_balise": "The Art of Rhetoric",
+      "bbox": [
+        723.8,
+        350.7,
+        819.8,
+        368.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gorgias",
+      "texte_balise": "Gorgias",
+      "bbox": [
+        433.1,
+        350.8,
+        476.7,
+        365.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Selected Sneeches",
+      "texte_balise": "Selected Sneeches",
+      "bbox": [
+        1564.0,
+        353.7,
+        1654.1,
+        359.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A new masduien ty Rebis Waccfeld",
+      "texte_balise": "A new masduien ty Rebis Waccfeld",
+      "bbox": [
+        433.1,
+        362.4,
+        537.8,
+        376.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Asew tandussn to kebin Wenrfes",
+      "texte_balise": "Asew tandussn to kebin Wenrfes",
+      "bbox": [
+        1564.0,
+        365.3,
+        1662.8,
+        371.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Aneatransiuian iwPohin Waterlieldl",
+      "texte_balise": "Aneatransiuian iwPohin Waterlieldl",
+      "bbox": [
+        723.8,
+        368.2,
+        851.7,
+        374.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CICERO",
+      "texte_balise": "CICERO",
+      "bbox": [
+        485.4,
+        550.5,
+        552.4,
+        568.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LORBCLASSICALHRRARY",
+      "texte_balise": "LORBCLASSICALHRRARY",
+      "bbox": [
+        189.0,
+        559.6,
+        305.2,
+        565.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ICICERO1",
+      "texte_balise": "ICICERO1",
+      "bbox": [
+        209.3,
+        585.7,
+        284.9,
+        600.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUINTILIAN",
+      "texte_balise": "QUINTILIAN",
+      "bbox": [
+        761.6,
+        585.7,
+        857.6,
+        600.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On the",
+      "texte_balise": "On the",
+      "bbox": [
+        476.7,
+        594.4,
+        564.0,
+        629.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RHETORICA",
+      "texte_balise": "RHETORICA",
+      "bbox": [
+        212.2,
+        602.9,
+        284.9,
+        617.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ORATOR'S EDUCATION",
+      "texte_balise": "THE ORATOR'S EDUCATION",
+      "bbox": [
+        735.5,
+        603.1,
+        883.7,
+        617.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AD HERENNIUM",
+      "texte_balise": "AD HERENNIUM",
+      "bbox": [
+        200.6,
+        617.5,
+        296.5,
+        632.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ideal Orator",
+      "texte_balise": "Ideal Orator",
+      "bbox": [
+        436.0,
+        623.4,
+        601.7,
+        664.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cicero",
+      "texte_balise": "Cicero",
+      "bbox": [
+        1566.9,
+        664.0,
+        1604.7,
+        675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Political Speeches",
+      "texte_balise": "Political Speeches",
+      "bbox": [
+        1566.9,
+        675.4,
+        1659.9,
+        693.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "dios by D, H. Berr",
+      "texte_balise": "dios by D, H. Berr",
+      "bbox": [
+        1601.7,
+        695.4,
+        1648.3,
+        701.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARRY CAPLAN",
+      "texte_balise": "HARRY CAPLAN",
+      "bbox": [
+        215.1,
+        768.3,
+        279.1,
+        780.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James M. May &-Jakob Wise",
+      "texte_balise": "James M. May &-Jakob Wise",
+      "bbox": [
+        453.5,
+        809.0,
+        584.3,
+        826.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HANDLIST OF",
+      "texte_balise": "A HANDLIST OF",
+      "bbox": [
+        1218.0,
+        811.9,
+        1398.3,
+        841.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RHETORICAL",
+      "texte_balise": "RHETORICAL",
+      "bbox": [
+        1218.0,
+        843.8,
+        1369.2,
+        869.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TERMS SECOND EDITION",
+      "texte_balise": "TERMS SECOND EDITION",
+      "bbox": [
+        1218.0,
+        875.2,
+        1401.2,
+        904.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD A. LANHAM",
+      "texte_balise": "RICHARD A. LANHAM",
+      "bbox": [
+        1218.0,
+        991.6,
+        1398.3,
+        1015.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cicero",
+      "texte_balise": "Cicero",
+      "bbox": [
+        1566.9,
+        997.4,
+        1604.7,
+        1011.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Defence Speeches",
+      "texte_balise": "Defence Speeches",
+      "bbox": [
+        1566.9,
+        1010.9,
+        1659.9,
+        1028.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dafanra Choorhod",
+      "texte_balise": "Dafanra Choorhod",
+      "bbox": [
+        1566.9,
+        1014.8,
+        1654.1,
+        1021.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Famamortlis",
+      "texte_balise": "Famamortlis",
+      "bbox": [
+        218.0,
+        1035.1,
+        279.1,
+        1046.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Farnsworth's",
+      "texte_balise": "Farnsworth's",
+      "bbox": [
+        218.0,
+        1037.4,
+        279.1,
+        1049.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CLASSICAL ENGLISH",
+      "texte_balise": "CLASSICAL ENGLISH",
+      "bbox": [
+        162.8,
+        1046.7,
+        334.3,
+        1064.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RHETORIC",
+      "texte_balise": "RHETORIC",
+      "bbox": [
+        200.6,
+        1064.1,
+        296.5,
+        1078.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1284.9,
+        1087.3,
+        1348.8,
+        1116.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARD FARNSWORTH",
+      "texte_balise": "WARD FARNSWORTH",
+      "bbox": [
+        194.8,
+        1092.5,
+        302.3,
+        1101.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RHETORICAL",
+      "texte_balise": "RHETORICAL",
+      "bbox": [
+        1229.6,
+        1121.0,
+        1395.4,
+        1156.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRADITION",
+      "texte_balise": "TRADITION",
+      "bbox": [
+        1241.0,
+        1152.2,
+        1384.0,
+        1189.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "READINGS FROM CLANICAL TIME",
+      "texte_balise": "READINGS FROM CLANICAL TIME",
+      "bbox": [
+        1235.5,
+        1199.7,
+        1383.7,
+        1214.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRICIA ZELY AND WAT ICE HERBERG",
+      "texte_balise": "PATRICIA ZELY AND WAT ICE HERBERG",
+      "bbox": [
+        1229.7,
+        1324.4,
+        1392.4,
+        1341.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WINSTON CHURCHILL",
+      "texte_balise": "WINSTON CHURCHILL",
+      "bbox": [
+        1587.2,
+        1359.2,
+        1712.2,
+        1373.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Riad Toll Team and Cheat.",
+      "texte_balise": "Riad Toll Team and Cheat.",
+      "bbox": [
+        1595.9,
+        1379.5,
+        1706.4,
+        1385.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Great Speeches",
+      "texte_balise": "The Great Speeches",
+      "bbox": [
+        1610.5,
+        1391.1,
+        1689.0,
+        1405.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CH. PERELMAN",
+      "texte_balise": "CH. PERELMAN",
+      "bbox": [
+        197.7,
+        1489.5,
+        287.8,
+        1504.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kenneth",
+      "texte_balise": "Kenneth",
+      "bbox": [
+        970.9,
+        1504.0,
+        1052.4,
+        1527.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        229.7,
+        1507.1,
+        261.6,
+        1521.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICAL",
+      "texte_balise": "CLASSICAL",
+      "bbox": [
+        723.8,
+        1510.0,
+        883.7,
+        1536.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BURKE",
+      "texte_balise": "BURKE",
+      "bbox": [
+        973.8,
+        1524.5,
+        1066.9,
+        1559.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L OLBRECHTS• TYTECA",
+      "texte_balise": "L OLBRECHTS• TYTECA",
+      "bbox": [
+        177.3,
+        1527.4,
+        308.1,
+        1536.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RHETORIC",
+      "texte_balise": "RHETORIC",
+      "bbox": [
+        726.7,
+        1541.9,
+        880.8,
+        1568.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Rhetoric",
+      "texte_balise": "A Rhetoric",
+      "bbox": [
+        970.4,
+        1557.2,
+        1073.2,
+        1587.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR THE",
+      "texte_balise": "FOR THE",
+      "bbox": [
+        776.2,
+        1570.4,
+        831.4,
+        1585.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Motives",
+      "texte_balise": "of Motives",
+      "bbox": [
+        970.8,
+        1582.0,
+        1075.7,
+        1606.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MODERN",
+      "texte_balise": "MODERN",
+      "bbox": [
+        735.4,
+        1593.5,
+        869.3,
+        1620.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW",
+      "texte_balise": "THE NEW",
+      "bbox": [
+        162.6,
+        1619.0,
+        337.4,
+        1656.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        488.4,
+        1623.1,
+        511.6,
+        1640.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STUDENT",
+      "texte_balise": "STUDENT",
+      "bbox": [
+        732.6,
+        1623.1,
+        869.2,
+        1649.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Realm",
+      "texte_balise": "Realm",
+      "bbox": [
+        485.5,
+        1643.4,
+        534.9,
+        1660.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        485.5,
+        1663.7,
+        505.8,
+        1678.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RHETORIC",
+      "texte_balise": "RHETORIC",
+      "bbox": [
+        162.8,
+        1669.5,
+        340.1,
+        1707.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourth Edition",
+      "texte_balise": "Fourth Edition",
+      "bbox": [
+        747.1,
+        1675.3,
+        860.5,
+        1692.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rhetoric",
+      "texte_balise": "Rhetoric",
+      "bbox": [
+        488.4,
+        1686.9,
+        546.5,
+        1701.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDWARD P. 1. CORBETT",
+      "texte_balise": "EDWARD P. 1. CORBETT",
+      "bbox": [
+        729.7,
+        1718.8,
+        877.9,
+        1733.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Treatise on Antonantation",
+      "texte_balise": "A Treatise on Antonantation",
+      "bbox": [
+        186.0,
+        1721.2,
+        302.3,
+        1736.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT J. CONNORS",
+      "texte_balise": "ROBERT J. CONNORS",
+      "bbox": [
+        735.5,
+        1741.9,
+        872.1,
+        1759.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chaim Perelman",
+      "texte_balise": "Chaim Perelman",
+      "bbox": [
+        418.6,
+        1776.7,
+        569.8,
+        1797.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

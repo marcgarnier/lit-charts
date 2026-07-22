@@ -1,0 +1,1851 @@
+{
+  "fichier": "05_Evola 2.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:17.722325+00:00",
+  "duree_s": 6.6,
+  "taille_origine": [
+    5000,
+    3827
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 167,
+  "lignes": [
+    {
+      "texte": "START",
+      "texte_balise": "START",
+      "bbox": [
+        2048.6,
+        88.3,
+        2342.1,
+        186.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        89.6,
+        101.6,
+        1152.9,
+        227.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERE",
+      "texte_balise": "HERE",
+      "bbox": [
+        2072.7,
+        190.6,
+        2318.0,
+        287.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANDATORY",
+      "texte_balise": "MANDATORY",
+      "bbox": [
+        4055.9,
+        201.8,
+        4701.5,
+        318.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "READING GUIDE",
+      "texte_balise": "READING GUIDE",
+      "bbox": [
+        89.6,
+        256.8,
+        1152.9,
+        376.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2156.5,
+        328.6,
+        2240.1,
+        358.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MYSTERY",
+      "texte_balise": "MYSTERY",
+      "bbox": [
+        2078.7,
+        352.1,
+        2323.9,
+        418.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OPTIONAL",
+      "texte_balise": "OPTIONAL",
+      "bbox": [
+        4068.1,
+        358.5,
+        4581.8,
+        478.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the GRAIL",
+      "texte_balise": "of the GRAIL",
+      "bbox": [
+        2072.9,
+        424.2,
+        2317.8,
+        466.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "METAPHYSICS OF WAR",
+      "texte_balise": "METAPHYSICS OF WAR",
+      "bbox": [
+        675.0,
+        537.8,
+        991.6,
+        568.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "METAPHYSICS OF WAR",
+      "texte_balise": "METAPHYSICS OF WAR",
+      "bbox": [
+        1624.9,
+        543.3,
+        1869.8,
+        573.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BATTLE, VICTORY AND DEATH IN THE WORLD OF TRADITION",
+      "texte_balise": "BATTLE, VICTORY AND DEATH IN THE WORLD OF TRADITION",
+      "bbox": [
+        681.0,
+        567.6,
+        1123.1,
+        591.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        2072.9,
+        668.6,
+        2323.8,
+        699.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIT TITS",
+      "texte_balise": "TIT TITS",
+      "bbox": [
+        1768.2,
+        729.0,
+        1845.9,
+        740.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EVOLA",
+      "texte_balise": "EVOLA",
+      "bbox": [
+        1774.2,
+        746.9,
+        1851.9,
+        770.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        2532.9,
+        806.3,
+        2777.8,
+        848.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEDITATION ON THE PEAKS",
+      "texte_balise": "MEDITATION ON THE PEAKS",
+      "bbox": [
+        2885.3,
+        818.6,
+        3267.6,
+        860.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EROS AND THE MYSTERIES OF LOVE",
+      "texte_balise": "EROS AND THE MYSTERIES OF LOVE",
+      "bbox": [
+        4109.9,
+        824.6,
+        4605.7,
+        854.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEDITATIONS",
+      "texte_balise": "HEDITATIONS",
+      "bbox": [
+        2526.9,
+        854.4,
+        2789.7,
+        902.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE METAPHYSICS OF SEX",
+      "texte_balise": "THE METAPHYSICS OF SEX",
+      "bbox": [
+        4109.9,
+        854.4,
+        4313.0,
+        878.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANUNTAIN HEMRING AS METAP",
+      "texte_balise": "ANUNTAIN HEMRING AS METAP",
+      "bbox": [
+        2897.3,
+        860.4,
+        3130.2,
+        872.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DO FID THE SPRITUAL GUEST",
+      "texte_balise": "DO FID THE SPRITUAL GUEST",
+      "bbox": [
+        3136.2,
+        860.4,
+        3363.2,
+        872.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON THE PEARS",
+      "texte_balise": "ON THE PEARS",
+      "bbox": [
+        2520.9,
+        901.8,
+        2789.7,
+        944.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAGIC",
+      "texte_balise": "MAGIC",
+      "bbox": [
+        453.7,
+        1068.8,
+        711.1,
+        1165.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTION TO MAGIC",
+      "texte_balise": "INTRODUCTION TO MAGIC",
+      "bbox": [
+        806.5,
+        1099.1,
+        1141.0,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HERMETIC TRADITION",
+      "texte_balise": "THE HERMETIC TRADITION",
+      "bbox": [
+        1983.3,
+        1099.1,
+        2317.8,
+        1129.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERmETIC",
+      "texte_balise": "HERmETIC",
+      "bbox": [
+        1654.7,
+        1111.4,
+        1810.0,
+        1141.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAUIC",
+      "texte_balise": "MAUIC",
+      "bbox": [
+        451.5,
+        1116.0,
+        697.2,
+        1162.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHNIQUES FOR THE MAGUS",
+      "texte_balise": "CHNIQUES FOR THE MAGUS",
+      "bbox": [
+        1015.9,
+        1116.0,
+        1221.8,
+        1155.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TECH",
+      "texte_balise": "TECH",
+      "bbox": [
+        991.6,
+        1123.3,
+        1039.4,
+        1153.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IQUES FOR THE MAGUS",
+      "texte_balise": "IQUES FOR THE MAGUS",
+      "bbox": [
+        1045.4,
+        1123.3,
+        1224.6,
+        1153.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RITUALS AND PRACTICAL",
+      "texte_balise": "RITUALS AND PRACTICAL",
+      "bbox": [
+        800.5,
+        1128.8,
+        991.6,
+        1153.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YMBOLS • TEACHINGS OF THE ROYAL AR",
+      "texte_balise": "YMBOLS • TEACHINGS OF THE ROYAL AR",
+      "bbox": [
+        1983.3,
+        1135.0,
+        2287.9,
+        1147.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRADITIOn",
+      "texte_balise": "TRADITIOn",
+      "bbox": [
+        1660.6,
+        1146.5,
+        1810.2,
+        1177.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "patton",
+      "texte_balise": "patton",
+      "bbox": [
+        1653.4,
+        1155.9,
+        1799.5,
+        1169.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "EAST & WEST",
+      "texte_balise": "EAST & WEST",
+      "bbox": [
+        3345.2,
+        1302.1,
+        3542.5,
+        1338.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Easts West",
+      "texte_balise": "Easts West",
+      "bbox": [
+        2998.8,
+        1302.5,
+        3237.8,
+        1350.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julius Evola",
+      "texte_balise": "Julius Evola",
+      "bbox": [
+        1654.7,
+        1326.1,
+        1810.0,
+        1356.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPARATIVE STUDIES IN PURSUIT OF TRADITION",
+      "texte_balise": "COMPARATIVE STUDIES IN PURSUIT OF TRADITION",
+      "bbox": [
+        3345.3,
+        1332.3,
+        3727.6,
+        1362.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        3022.7,
+        1355.8,
+        3219.8,
+        1380.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAGAN IMPERIALISM",
+      "texte_balise": "PAGAN IMPERIALISM",
+      "bbox": [
+        1958.8,
+        1660.1,
+        2264.3,
+        1701.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RECOGNITIONS",
+      "texte_balise": "RECOGNITIONS",
+      "bbox": [
+        810.1,
+        1660.6,
+        1009.3,
+        1693.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIES ON MEN AND PROBLEMS FROM THE PERSPECTIVE OF THE RIGHT",
+      "texte_balise": "DIES ON MEN AND PROBLEMS FROM THE PERSPECTIVE OF THE RIGHT",
+      "bbox": [
+        843.3,
+        1687.2,
+        1361.2,
+        1713.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        504.6,
+        1713.4,
+        657.4,
+        1747.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RECOGNITIONS",
+      "texte_balise": "RECOGNITIONS",
+      "bbox": [
+        451.5,
+        1760.2,
+        703.9,
+        1813.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOOM THE DEOSOFCTIVE OF THE DICH",
+      "texte_balise": "FOOM THE DEOSOFCTIVE OF THE DICH",
+      "bbox": [
+        484.7,
+        1833.3,
+        664.0,
+        1846.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOCKING O",
+      "texte_balise": "DOCKING O",
+      "bbox": [
+        2994.7,
+        1859.7,
+        3233.7,
+        1873.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TANTRA, SHAKTI, AND THE SECRET WI",
+      "texte_balise": "TANTRA, SHAKTI, AND THE SECRET WI",
+      "bbox": [
+        4575.0,
+        1879.5,
+        4867.2,
+        1932.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AWAKENING",
+      "texte_balise": "AWAKENING",
+      "bbox": [
+        2994.7,
+        1879.8,
+        3247.0,
+        1919.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DING TO THE EARLIEST BUDDHIST TEXTS",
+      "texte_balise": "DING TO THE EARLIEST BUDDHIST TEXTS",
+      "bbox": [
+        3685.3,
+        1899.4,
+        3990.7,
+        1932.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pagan",
+      "texte_balise": "Pagan",
+      "bbox": [
+        1693.2,
+        1919.6,
+        1799.5,
+        1959.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Imperialism",
+      "texte_balise": "Imperialism",
+      "bbox": [
+        1659.8,
+        1952.0,
+        1839.5,
+        1993.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        2376.9,
+        1984.4,
+        2842.3,
+        2074.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE YOGA",
+      "texte_balise": "THE YOGA",
+      "bbox": [
+        4256.3,
+        2032.0,
+        4435.6,
+        2065.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF POWER",
+      "texte_balise": "OF POWER",
+      "bbox": [
+        4256.3,
+        2065.5,
+        4442.2,
+        2099.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(1898-1974)",
+      "texte_balise": "(1898-1974)",
+      "bbox": [
+        2436.6,
+        2071.0,
+        2775.9,
+        2146.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        4262.9,
+        2152.1,
+        4435.6,
+        2178.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEN 7Y",
+      "texte_balise": "MEN 7Y",
+      "bbox": [
+        962.7,
+        2198.2,
+        1122.3,
+        2252.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVOLT",
+      "texte_balise": "REVOLT",
+      "bbox": [
+        1706.5,
+        2205.2,
+        1839.3,
+        2251.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        2994.7,
+        2211.7,
+        3247.0,
+        2245.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEN AMONG THE RUINS",
+      "texte_balise": "MEN AMONG THE RUINS",
+      "bbox": [
+        93.0,
+        2225.2,
+        425.0,
+        2258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVOLT AGAINST THE MODERN WORLD",
+      "texte_balise": "REVOLT AGAINST THE MODERN WORLD",
+      "bbox": [
+        1965.5,
+        2225.2,
+        2496.7,
+        2258.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POST-WAR REFLECTIONS OF A RADICAL TRADITIONALIST",
+      "texte_balise": "POST-WAR REFLECTIONS OF A RADICAL TRADITIONALIST",
+      "bbox": [
+        99.6,
+        2251.4,
+        531.2,
+        2278.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGAINST",
+      "texte_balise": "AGAINST",
+      "bbox": [
+        1713.1,
+        2251.7,
+        1832.7,
+        2291.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IMAMONG",
+      "texte_balise": "IMAMONG",
+      "bbox": [
+        955.7,
+        2262.8,
+        1202.4,
+        2327.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MODERN",
+      "texte_balise": "MODERN",
+      "bbox": [
+        1713.1,
+        2318.1,
+        1839.3,
+        2371.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORLD",
+      "texte_balise": "WORLD",
+      "bbox": [
+        1719.8,
+        2371.3,
+        1839.3,
+        2411.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MRUINS",
+      "texte_balise": "MRUINS",
+      "bbox": [
+        956.2,
+        2404.5,
+        1128.8,
+        2464.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julius Evola (or Giulio Cesare Andrea Evola, 19 May 1898•",
+      "texte_balise": "Julius Evola (or Giulio Cesare Andrea Evola, 19 May 1898•",
+      "bbox": [
+        4196.5,
+        2417.5,
+        4900.4,
+        2451.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Julius Evola (or Giulio Cesare Andrea Evola, 19 May 1898",
+      "texte_balise": "Julius Evola (or Giulio Cesare Andrea Evola, 19 May 1898",
+      "bbox": [
+        4198.6,
+        2421.7,
+        4898.3,
+        2451.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TRADITIONALIST",
+      "texte_balise": "A TRADITIONALIST",
+      "bbox": [
+        3751.1,
+        2439.9,
+        3931.5,
+        2475.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "11 June 1974) was an Italian philosopher and esoteric",
+      "texte_balise": "11 June 1974) was an Italian philosopher and esoteric",
+      "bbox": [
+        4204.5,
+        2445.3,
+        4910.3,
+        2481.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "11 June 1974) was an Italian philosopher and esoterio",
+      "texte_balise": "11 June 1974) was an Italian philosopher and esoterio",
+      "bbox": [
+        4196.5,
+        2450.9,
+        4900.4,
+        2470.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONFRONTS FASCISM",
+      "texte_balise": "CONFRONTS FASCISM",
+      "bbox": [
+        3738.4,
+        2464.3,
+        3944.2,
+        2504.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "scholar.",
+      "texte_balise": "scholar.",
+      "bbox": [
+        4196.5,
+        2477.5,
+        4302.8,
+        2510.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASCISM VIEWED",
+      "texte_balise": "FASCISM VIEWED",
+      "bbox": [
+        3034.5,
+        2484.2,
+        3213.8,
+        2517.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NAUCAL INAUEFIUNALIOE",
+      "texte_balise": "A NAUCAL INAUEFIUNALIOE",
+      "bbox": [
+        962.9,
+        2511.6,
+        1202.2,
+        2523.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "FROM THE RIGHT",
+      "texte_balise": "FROM THE RIGHT",
+      "bbox": [
+        3034.5,
+        2517.4,
+        3207.2,
+        2550.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Born in me to family of clan landed try la",
+      "texte_balise": "Born in me to family of clan landed try la",
+      "bbox": [
+        4196.5,
+        2530.3,
+        4900.4,
+        2583.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Born in Rome to a family of the Sicilian landed gentry, Evola",
+      "texte_balise": "Born in Rome to a family of the Sicilian landed gentry, Evola",
+      "bbox": [
+        4204.5,
+        2535.5,
+        4904.3,
+        2565.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        3379.8,
+        2563.7,
+        3592.3,
+        2597.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Was",
+      "texte_balise": "Was",
+      "bbox": [
+        4204.5,
+        2571.4,
+        4252.4,
+        2583.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fa sesea olcesoles",
+      "texte_balise": "fa sesea olcesoles",
+      "bbox": [
+        4264.4,
+        2571.4,
+        4736.8,
+        2583.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "as wds",
+      "texte_balise": "as wds",
+      "bbox": [
+        4742.8,
+        2571.4,
+        4898.3,
+        2583.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EVOLI",
+      "texte_balise": "EVOLI",
+      "bbox": [
+        1726.4,
+        2577.2,
+        1826.0,
+        2590.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "characterised by 'an anti-bourgeois approach hostile to",
+      "texte_balise": "characterised by 'an anti-bourgeois approach hostile to",
+      "bbox": [
+        4198.6,
+        2589.0,
+        4904.3,
+        2619.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JULIUS EVOLA",
+      "texte_balise": "JULIUS EVOLA",
+      "bbox": [
+        3008.0,
+        2597.1,
+        3240.4,
+        2630.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "both the dominant tradition of the West - Christianity and",
+      "texte_balise": "both the dominant tradition of the West - Christianity and",
+      "bbox": [
+        4203.2,
+        2617.0,
+        4900.4,
+        2650.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "contenoo arv",
+      "texte_balise": "contenoo arv",
+      "bbox": [
+        4491.6,
+        2654.7,
+        4677.0,
+        2667.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "anolesm",
+      "texte_balise": "anolesm",
+      "bbox": [
+        4204.5,
+        2655.1,
+        4342.1,
+        2667.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ane",
+      "texte_balise": "ane",
+      "bbox": [
+        4384.0,
+        2655.1,
+        4443.8,
+        2667.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "…TO",
+      "texte_balise": "…TO",
+      "bbox": [
+        4449.8,
+        2655.1,
+        4485.6,
+        2667.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "UnG",
+      "texte_balise": "UnG",
+      "bbox": [
+        4844.5,
+        2655.1,
+        4898.3,
+        2667.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ana lo contemoolary civilizallul",
+      "texte_balise": "ana lo contemoolary civilizallul",
+      "bbox": [
+        4389.1,
+        2656.7,
+        4800.8,
+        2670.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'modern world' of democracy and materialism'.",
+      "texte_balise": "'modern world' of democracy and materialism'.",
+      "bbox": [
+        4204.5,
+        2673.0,
+        4766.7,
+        2703.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'modern world' of democracy and materialism",
+      "texte_balise": "'modern world' of democracy and materialism",
+      "bbox": [
+        4203.2,
+        2676.5,
+        4754.3,
+        2696.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES ON THE",
+      "texte_balise": "NOTES ON THE",
+      "bbox": [
+        3415.1,
+        2714.9,
+        3552.6,
+        2750.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vuns onee no suuee a lle vonce aa stooe",
+      "texte_balise": "vuns onee no suuee a lle vonce aa stooe",
+      "bbox": [
+        4204.5,
+        2738.8,
+        4898.3,
+        2750.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THIRD REICH",
+      "texte_balise": "THIRD REICH",
+      "bbox": [
+        3421.1,
+        2744.8,
+        3552.6,
+        2781.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and painter, journalist, alpinist, scholar, linguist, Orientalist",
+      "texte_balise": "and painter, journalist, alpinist, scholar, linguist, Orientalist",
+      "bbox": [
+        4198.6,
+        2756.3,
+        4898.3,
+        2792.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE BOW AND THE CLUB",
+      "texte_balise": "THE BOW AND THE CLUB",
+      "bbox": [
+        1967.7,
+        2786.1,
+        2302.6,
+        2822.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and political commentator\", he has been described as a",
+      "texte_balise": "and political commentator\", he has been described as a",
+      "bbox": [
+        4204.5,
+        2786.1,
+        4904.3,
+        2817.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIDE THE TIGER",
+      "texte_balise": "RIDE THE TIGER",
+      "bbox": [
+        95.7,
+        2792.3,
+        311.0,
+        2817.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "** THE BOW **",
+      "texte_balise": "** THE BOW **",
+      "bbox": [
+        1644.7,
+        2798.5,
+        1854.1,
+        2828.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SURVIVAL MANUAL FOR THE ARISTOCRATS OF THE SOUL",
+      "texte_balise": "A SURVIVAL MANUAL FOR THE ARISTOCRATS OF THE SOUL",
+      "bbox": [
+        95.7,
+        2816.5,
+        538.3,
+        2846.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'rare example of universality in an age of specialization.",
+      "texte_balise": "'rare example of universality in an age of specialization.",
+      "bbox": [
+        4204.5,
+        2816.5,
+        4868.4,
+        2846.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE CLUB",
+      "texte_balise": "AND THE CLUB",
+      "bbox": [
+        1638.8,
+        2834.4,
+        1854.1,
+        2864.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASCISM VIEWED FROM THE RIGHT",
+      "texte_balise": "FASCISM VIEWED FROM THE RIGHT",
+      "bbox": [
+        2978.5,
+        2857.9,
+        3462.9,
+        2894.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yet behind it all lay a singular emphasis on, and pursuit of,",
+      "texte_balise": "Yet behind it all lay a singular emphasis on, and pursuit of,",
+      "bbox": [
+        4198.6,
+        2870.3,
+        4904.3,
+        2900.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a gireet relationsnio to the Aosollte ror vola ihe centel",
+      "texte_balise": "a gireet relationsnio to the Aosollte ror vola ihe centel",
+      "bbox": [
+        4198.6,
+        2906.2,
+        4898.3,
+        2918.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of all things was not man, but rather the Transcendent.'",
+      "texte_balise": "of all things was not man, but rather the Transcendent.'",
+      "bbox": [
+        4204.5,
+        2923.6,
+        4904.3,
+        2960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "metaphysica",
+      "texte_balise": "metaphysica",
+      "bbox": [
+        4270.3,
+        2960.0,
+        4431.8,
+        2978.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "have",
+      "texte_balise": "have",
+      "bbox": [
+        4832.5,
+        2960.0,
+        4898.3,
+        2978.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COlVICLIOT",
+      "texte_balise": "COlVICLIOT",
+      "bbox": [
+        4449.8,
+        2966.0,
+        4575.4,
+        2978.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "cal",
+      "texte_balise": "cal",
+      "bbox": [
+        4593.3,
+        2966.0,
+        4641.1,
+        2978.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "seel",
+      "texte_balise": "seel",
+      "bbox": [
+        4712.9,
+        2966.0,
+        4772.7,
+        2978.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "determined both Evola's stance on socio-political issues,",
+      "texte_balise": "determined both Evola's stance on socio-political issues,",
+      "bbox": [
+        4198.6,
+        2983.9,
+        4904.3,
+        3007.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and his",
+      "texte_balise": "and his",
+      "bbox": [
+        4204.5,
+        3007.9,
+        4312.2,
+        3043.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "antipathetic attitude towards",
+      "texte_balise": "antipathetic attitude towards",
+      "bbox": [
+        4312.2,
+        3007.9,
+        4689.0,
+        3043.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "all professional,",
+      "texte_balise": "all professional,",
+      "bbox": [
+        4695.0,
+        3007.9,
+        4904.3,
+        3043.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIGER",
+      "texte_balise": "TIGER",
+      "bbox": [
+        1106.5,
+        3031.8,
+        1214.1,
+        3079.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "schuimenla cue a lv outles",
+      "texte_balise": "schuimenla cue a lv outles",
+      "bbox": [
+        4204.5,
+        3049.7,
+        4587.3,
+        3061.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "NOTES ON THE THIRD REICH",
+      "texte_balise": "NOTES ON THE THIRD REICH",
+      "bbox": [
+        2978.5,
+        3085.6,
+        3361.2,
+        3121.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The author",
+      "texte_balise": "The author",
+      "bbox": [
+        4198.6,
+        3097.1,
+        4360.0,
+        3127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "many",
+      "texte_balise": "many",
+      "bbox": [
+        4395.9,
+        3097.5,
+        4473.7,
+        3127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "books",
+      "texte_balise": "books",
+      "bbox": [
+        4485.6,
+        3097.5,
+        4563.4,
+        3127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on",
+      "texte_balise": "on",
+      "bbox": [
+        4569.4,
+        3097.5,
+        4623.2,
+        3121.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "esoteric,",
+      "texte_balise": "esoteric,",
+      "bbox": [
+        4623.2,
+        3097.5,
+        4730.9,
+        3127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "political",
+      "texte_balise": "political",
+      "bbox": [
+        4742.8,
+        3097.5,
+        4850.5,
+        3121.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        4850.5,
+        3097.5,
+        4904.3,
+        3127.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hermetic Tradition.",
+      "texte_balise": "The Hermetic Tradition.",
+      "bbox": [
+        4539.5,
+        3126.8,
+        4838.5,
+        3145.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rencous",
+      "texte_balise": "rencous",
+      "bbox": [
+        4204.5,
+        3133.4,
+        4306.2,
+        3145.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LODICS",
+      "texte_balise": "LODICS",
+      "bbox": [
+        4318.2,
+        3133.4,
+        4395.9,
+        3145.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "anciene",
+      "texte_balise": "anciene",
+      "bbox": [
+        4401.9,
+        3133.4,
+        4533.5,
+        3145.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Doctrine of Awakening and Eros and the Mysteries of Love),",
+      "texte_balise": "Doctrine of Awakening and Eros and the Mysteries of Love),",
+      "bbox": [
+        4204.5,
+        3151.4,
+        4904.3,
+        3181.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "his best-known work remains Revolt Against the Modern",
+      "texte_balise": "his best-known work remains Revolt Against the Modern",
+      "bbox": [
+        4204.5,
+        3175.2,
+        4904.3,
+        3211.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "wone aue cial calue omoe cvscuon uicas",
+      "texte_balise": "wone aue cial calue omoe cvscuon uicas",
+      "bbox": [
+        4204.5,
+        3217.1,
+        4898.3,
+        3229.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "been described as 'the gateway to his thought\".",
+      "texte_balise": "been described as 'the gateway to his thought\".",
+      "bbox": [
+        4204.5,
+        3234.7,
+        4772.7,
+        3265.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Since his death his writings have influenced right-wing",
+      "texte_balise": "Since his death his writings have influenced right-wing",
+      "bbox": [
+        4198.6,
+        3294.9,
+        4898.3,
+        3312.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Th PATH",
+      "texte_balise": "Th PATH",
+      "bbox": [
+        1668.7,
+        3318.8,
+        1830.1,
+        3361.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "reactionary and conservative political hought not only in",
+      "texte_balise": "reactionary and conservative political hought not only in",
+      "bbox": [
+        4204.5,
+        3318.8,
+        4904.3,
+        3354.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RECOMMENDED READING ORDER FOR BEGINNERS:",
+      "texte_balise": "RECOMMENDED READING ORDER FOR BEGINNERS:",
+      "bbox": [
+        95.7,
+        3342.5,
+        681.8,
+        3372.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "his native Italy, but throughout continental Europe and,",
+      "texte_balise": "his native Italy, but throughout continental Europe and,",
+      "bbox": [
+        4204.5,
+        3342.5,
+        4904.3,
+        3378.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PATH OF CINNABAR",
+      "texte_balise": "THE PATH OF CINNABAR",
+      "bbox": [
+        1973.7,
+        3348.7,
+        2296.7,
+        3378.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TRADITIONALIST CONFRONTS FASCISM",
+      "texte_balise": "A TRADITIONALIST CONFRONTS FASCISM",
+      "bbox": [
+        2978.5,
+        3348.7,
+        3534.7,
+        3384.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CINNABAR",
+      "texte_balise": "CINNABAR",
+      "bbox": [
+        1626.8,
+        3366.6,
+        1878.0,
+        3408.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN INTELLECTUAL AUTOBI",
+      "texte_balise": "AN INTELLECTUAL AUTOBI",
+      "bbox": [
+        1967.7,
+        3372.2,
+        2171.1,
+        3402.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAPHY OF JULIUS EVOLA",
+      "texte_balise": "GRAPHY OF JULIUS EVOLA",
+      "bbox": [
+        2182.9,
+        3378.0,
+        2380.4,
+        3403.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1) The Mystery of the Grail, Meditation on the Peaks, Metaphysics of War",
+      "texte_balise": "1) The Mystery of the Grail, Meditation on the Peaks, Metaphysics of War",
+      "bbox": [
+        95.7,
+        3384.5,
+        986.8,
+        3420.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "increasingly, une englisn-speaking world. Neverneless, ne",
+      "texte_balise": "increasingly, une englisn-speaking world. Neverneless, ne",
+      "bbox": [
+        4204.5,
+        3384.5,
+        4898.3,
+        3402.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "should not be considered primarily as a political thinker, but",
+      "texte_balise": "should not be considered primarily as a political thinker, but",
+      "bbox": [
+        4204.5,
+        3402.0,
+        4904.3,
+        3438.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2) Hermetic Tradition",
+      "texte_balise": "2) Hermetic Tradition",
+      "bbox": [
+        95.7,
+        3414.3,
+        364.8,
+        3450.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rather as an exponent of the wider Traditionalist Schoo",
+      "texte_balise": "rather as an exponent of the wider Traditionalist Schoo",
+      "bbox": [
+        4210.5,
+        3432.4,
+        4898.3,
+        3462.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3) East and West, The Yoga of Power, The Doctrine of Awakening",
+      "texte_balise": "3) East and West, The Yoga of Power, The Doctrine of Awakening",
+      "bbox": [
+        95.7,
+        3444.1,
+        885.2,
+        3480.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "That encomoasses e wolk or sea e volas as rae",
+      "texte_balise": "That encomoasses e wolk or sea e volas as rae",
+      "bbox": [
+        4204.5,
+        3468.3,
+        4898.3,
+        3480.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "4) Pagan Imperialism",
+      "texte_balise": "4) Pagan Imperialism",
+      "bbox": [
+        95.7,
+        3473.8,
+        364.8,
+        3510.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guénon, Titus Burckhardt and Frithjof Schuon.",
+      "texte_balise": "Guénon, Titus Burckhardt and Frithjof Schuon.",
+      "bbox": [
+        4204.5,
+        3486.2,
+        4754.8,
+        3516.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "5) Recognitions",
+      "texte_balise": "5) Recognitions",
+      "bbox": [
+        95.7,
+        3498.1,
+        293.1,
+        3534.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "6) Revolt Against the Modern World",
+      "texte_balise": "6) Revolt Against the Modern World",
+      "bbox": [
+        95.7,
+        3534.0,
+        532.3,
+        3564.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "8) Rice Ane Tig th",
+      "texte_balise": "8) Rice Ane Tig th",
+      "bbox": [
+        94.8,
+        3554.8,
+        306.0,
+        3626.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": ") Men Among the Ruins",
+      "texte_balise": ") Men Among the Ruins",
+      "bbox": [
+        119.6,
+        3557.9,
+        406.7,
+        3594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "You can skip steps 3 and 5 and go straight into Pagan Imperialism and then the",
+      "texte_balise": "You can skip steps 3 and 5 and go straight into Pagan Imperialism and then the",
+      "bbox": [
+        95.7,
+        3629.7,
+        1082.5,
+        3665.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Big Three but you will miss a lot not reading his books dealing with the East.",
+      "texte_balise": "Big Three but you will miss a lot not reading his books dealing with the East.",
+      "bbox": [
+        95.7,
+        3659.6,
+        1022.7,
+        3695.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Worldview\" is not based on books; it is an internal form, which at times in a person with little education",
+      "texte_balise": "\"Worldview\" is not based on books; it is an internal form, which at times in a person with little education",
+      "bbox": [
+        3409.1,
+        3659.6,
+        4641.1,
+        3695.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ULIUS",
+      "texte_balise": "ULIUS",
+      "bbox": [
+        1632.8,
+        3671.5,
+        1752.4,
+        3701.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "is expressed much more brightly, than in some other \"intellectual\" or scientist.\"",
+      "texte_balise": "is expressed much more brightly, than in some other \"intellectual\" or scientist.\"",
+      "bbox": [
+        3409.1,
+        3689.4,
+        4342.1,
+        3719.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Julius Evola",
+      "texte_balise": "- Julius Evola",
+      "bbox": [
+        4348.1,
+        3689.4,
+        4515.6,
+        3719.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

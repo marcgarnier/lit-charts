@@ -1,0 +1,454 @@
+{
+  "fichier": "29_Older Women Younger Men.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:15.107686+00:00",
+  "duree_s": 2.1,
+  "taille_origine": [
+    2500,
+    1976
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 40,
+  "lignes": [
+    {
+      "texte": "BLACK",
+      "texte_balise": "BLACK",
+      "bbox": [
+        1064.3,
+        88.7,
+        1428.5,
+        165.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VLADIMIR",
+      "texte_balise": "VLADIMIR",
+      "bbox": [
+        1584.3,
+        101.7,
+        1878.6,
+        163.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NABOKOV",
+      "texte_balise": "NABOKOV",
+      "bbox": [
+        1572.7,
+        154.4,
+        1885.7,
+        219.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AGOSTINO",
+      "texte_balise": "AGOSTINO",
+      "bbox": [
+        2162.1,
+        188.8,
+        2256.5,
+        207.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALBERTO MORAVIA",
+      "texte_balise": "ALBERTO MORAVIA",
+      "bbox": [
+        2129.4,
+        213.8,
+        2289.2,
+        232.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSLATED BY",
+      "texte_balise": "TRANSLATED BY",
+      "bbox": [
+        2162.1,
+        253.8,
+        2256.5,
+        272.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AFKA ON THE S",
+      "texte_balise": "AFKA ON THE S",
+      "bbox": [
+        159.9,
+        257.8,
+        359.7,
+        279.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL . MUUKE",
+      "texte_balise": "MICHAEL . MUUKE",
+      "bbox": [
+        2154.8,
+        275.8,
+        2260.2,
+        283.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "siepnenvizinczey",
+      "texte_balise": "siepnenvizinczey",
+      "bbox": [
+        592.3,
+        279.6,
+        897.5,
+        319.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Praise of",
+      "texte_balise": "Praise of",
+      "bbox": [
+        588.3,
+        303.1,
+        843.4,
+        354.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "77",
+      "texte_balise": "77",
+      "bbox": [
+        1108.3,
+        308.6,
+        1144.6,
+        326.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Older Women",
+      "texte_balise": "Older Women",
+      "bbox": [
+        599.6,
+        348.5,
+        919.3,
+        395.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KING",
+      "texte_balise": "KING",
+      "bbox": [
+        1653.3,
+        348.5,
+        1816.9,
+        410.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(ovel",
+      "texte_balise": "(ovel",
+      "bbox": [
+        1315.4,
+        374.0,
+        1380.8,
+        395.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "QUEEN",
+      "texte_balise": "QUEEN",
+      "bbox": [
+        1623.8,
+        401.3,
+        1835.5,
+        466.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KNAVE",
+      "texte_balise": "KNAVE",
+      "bbox": [
+        1635.0,
+        464.1,
+        1835.2,
+        523.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARUKI MURAKAMI",
+      "texte_balise": "HARUKI MURAKAMI",
+      "bbox": [
+        138.1,
+        533.5,
+        436.0,
+        566.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KERST",
+      "texte_balise": "KERST",
+      "bbox": [
+        1104.7,
+        541.0,
+        1210.0,
+        562.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEPHEN KING",
+      "texte_balise": "STEPHEN KING",
+      "bbox": [
+        621.0,
+        764.6,
+        916.0,
+        832.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Reader",
+      "texte_balise": "The Reader",
+      "bbox": [
+        178.1,
+        780.3,
+        410.6,
+        813.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR THE FIRST TIME COMPLETE & UNCUT",
+      "texte_balise": "FOR THE FIRST TIME COMPLETE & UNCUT",
+      "bbox": [
+        606.8,
+        838.2,
+        912.1,
+        860.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        588.7,
+        868.6,
+        643.2,
+        926.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STAND",
+      "texte_balise": "STAND",
+      "bbox": [
+        614.1,
+        875.0,
+        926.6,
+        1060.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NORWEGIAN",
+      "texte_balise": "NORWEGIAN",
+      "bbox": [
+        1712.6,
+        975.0,
+        1884.4,
+        1024.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOOD",
+      "texte_balise": "WOOD",
+      "bbox": [
+        1758.7,
+        1023.9,
+        1845.9,
+        1060.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Breath",
+      "texte_balise": "Breath",
+      "bbox": [
+        1101.0,
+        1111.9,
+        1399.0,
+        1191.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cal",
+      "texte_balise": "Cal",
+      "bbox": [
+        2107.6,
+        1126.4,
+        2321.9,
+        1228.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bernhard Schlink",
+      "texte_balise": "Bernhard Schlink",
+      "bbox": [
+        159.9,
+        1173.6,
+        432.4,
+        1202.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIM WINTON",
+      "texte_balise": "TIM WINTON",
+      "bbox": [
+        1101.0,
+        1195.4,
+        1395.3,
+        1231.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARUKI MURAKAMI",
+      "texte_balise": "HARUKI MURAKAMI",
+      "bbox": [
+        1577.0,
+        1220.7,
+        1907.7,
+        1246.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELFRIEDE JELINEK",
+      "texte_balise": "ELFRIEDE JELINEK",
+      "bbox": [
+        595.9,
+        1413.2,
+        923.0,
+        1445.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARIO",
+      "texte_balise": "MARIO",
+      "bbox": [
+        192.6,
+        1420.5,
+        290.7,
+        1445.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VARGAS",
+      "texte_balise": "VARGAS",
+      "bbox": [
+        188.9,
+        1445.7,
+        298.0,
+        1471.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Older Women",
+      "texte_balise": "Older Women",
+      "bbox": [
+        970.2,
+        1456.5,
+        2183.9,
+        1624.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LLOSA",
+      "texte_balise": "LLOSA",
+      "bbox": [
+        199.7,
+        1474.5,
+        287.2,
+        1497.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In Praise of the",
+      "texte_balise": "In Praise of the",
+      "bbox": [
+        159.9,
+        1511.3,
+        327.0,
+        1536.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stepmother",
+      "texte_balise": "Stepmother",
+      "bbox": [
+        174.4,
+        1540.3,
+        312.5,
+        1565.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with Younger Men",
+      "texte_balise": "with Younger Men",
+      "bbox": [
+        962.9,
+        1671.0,
+        2205.7,
+        1827.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•PianoLeache",
+      "texte_balise": "•PianoLeache",
+      "bbox": [
+        643.2,
+        1747.3,
+        897.5,
+        1790.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A NOVEL",
+      "texte_balise": "A NOVEL",
+      "bbox": [
+        824.9,
+        1787.2,
+        912.1,
+        1812.6
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

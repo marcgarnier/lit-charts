@@ -1,0 +1,361 @@
+{
+  "fichier": "08_Revolutionary.jpeg",
+  "date": "2026-07-21T19:28:36.480757+00:00",
+  "taille_origine": [
+    1200,
+    838
+  ],
+  "hauteur_ligne_mediane": 17.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 15,
+  "nb_noeuds": 32,
+  "tiers": [
+    "ANARCHIST"
+  ],
+  "intitules_isoles": [
+    "A practical reading list for impatient revolutionaries"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        335.0,
+        40.5,
+        870.0,
+        224.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Victory Now",
+          "auteur": "A practical reading list for impatient revolutionaries",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        105.9,
+        249.6,
+        172.1,
+        262.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Georges Sorel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1002.0,
+        252.0,
+        1128.0,
+        338.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE MOST",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DANGEROUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GAME",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ADVANCED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VAN TRAPPINC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        564.0,
+        254.0,
+        642.0,
+        300.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "James Mason",
+          "auteur": "SIEGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        328.0,
+        258.0,
+        416.0,
+        292.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE ART",
+          "auteur": "oF WAR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ANARCHIST",
+      "bbox": [
+        750.8,
+        264.8,
+        917.3,
+        384.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THIK",
+          "auteur": null,
+          "tier": "ANARCHIST"
+        },
+        {
+          "titre": "COOKBOCK",
+          "auteur": null,
+          "tier": "ANARCHIST"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        89.9,
+        305.5,
+        190.1,
+        340.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Reflections",
+          "auteur": "on violence",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.0,
+        398.0,
+        406.0,
+        412.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SUN TZU",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1020.0,
+        416.0,
+        1108.0,
+        428.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RAGNAR BENSON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        75.8,
+        542.0,
+        202.0,
+        604.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ERNESTO CHE GUEVARA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Guerrilla",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Warfare",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EXTOR TOPOTR COReEeTIONE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1002.0,
+        542.0,
+        1134.0,
+        698.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "MIXAZUKI FULSHING HOUSETRISENTS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RISH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REPUBLICAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ARMY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MANUAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GUERRILLA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARFARE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STRATIGTES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DEFENSIVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DEFENSIVE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        789.8,
+        551.5,
+        884.2,
+        594.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Güerrilla",
+          "auteur": "WARFARE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        537.9,
+        558.0,
+        668.1,
+        598.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JACK DONOVAN",
+          "auteur": "THE WAY OF MEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        312.0,
+        586.0,
+        422.0,
+        630.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ON WAR",
+          "auteur": "NOUL HOWAU e TIE PACI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        76.0,
+        740.0,
+        192.0,
+        748.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "POREWORD BY HARPEY \"POMBO\" VELEGAS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

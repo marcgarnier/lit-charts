@@ -1,0 +1,762 @@
+{
+  "fichier": "28_Doomer.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:08.328289+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    2593,
+    768
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 68,
+  "lignes": [
+    {
+      "texte": "DOOMER /LIT/ CHART",
+      "texte_balise": "DOOMER /LIT/ CHART",
+      "bbox": [
+        35.2,
+        16.0,
+        968.8,
+        102.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MCRP3-01A",
+      "texte_balise": "MCRP3-01A",
+      "bbox": [
+        1505.9,
+        51.2,
+        1611.4,
+        67.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "U.S. MARINE CORPS",
+      "texte_balise": "U.S. MARINE CORPS",
+      "bbox": [
+        2295.7,
+        57.6,
+        2561.0,
+        90.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCOUT/SNIPER",
+      "texte_balise": "SCOUT/SNIPER",
+      "bbox": [
+        2295.7,
+        92.8,
+        2557.8,
+        124.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MASTERS",
+      "texte_balise": "MASTERS",
+      "bbox": [
+        56.5,
+        109.3,
+        244.0,
+        188.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIELD MANUAL",
+      "texte_balise": "FIELD MANUAL",
+      "bbox": [
+        1387.6,
+        112.0,
+        1573.1,
+        131.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FIRST BOOKINA FRRIYING SPACE TRIC",
+      "texte_balise": "THE FIRST BOOKINA FRRIYING SPACE TRIC",
+      "bbox": [
+        348.5,
+        121.6,
+        508.4,
+        138.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAINING MANUAL",
+      "texte_balise": "TRAINING MANUAL",
+      "bbox": [
+        2295.7,
+        128.0,
+        2557.8,
+        157.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLY",
+      "texte_balise": "HOLY",
+      "bbox": [
+        1119.1,
+        137.6,
+        1211.8,
+        166.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STARSHIP",
+      "texte_balise": "STARSHIP",
+      "bbox": [
+        591.4,
+        143.7,
+        684.3,
+        173.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE U.S. ALMIS MARINE CURPS",
+      "texte_balise": "THE U.S. ALMIS MARINE CURPS",
+      "bbox": [
+        2030.3,
+        147.0,
+        2199.7,
+        154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Satanic Bible",
+      "texte_balise": "The Satanic Bible",
+      "bbox": [
+        824.9,
+        156.8,
+        997.6,
+        186.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Counterinsurgency",
+      "texte_balise": "Counterinsurgency",
+      "bbox": [
+        2011.1,
+        156.8,
+        2215.7,
+        179.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIFLE MARKSMANSHIP",
+      "texte_balise": "RIFLE MARKSMANSHIP",
+      "bbox": [
+        1378.0,
+        160.0,
+        1582.7,
+        176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLE",
+      "texte_balise": "BIBLE",
+      "bbox": [
+        1119.1,
+        163.2,
+        1211.8,
+        192.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TROOPERS",
+      "texte_balise": "TROOPERS",
+      "bbox": [
+        591.3,
+        168.7,
+        690.8,
+        196.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T MAN",
+      "texte_balise": "T MAN",
+      "bbox": [
+        2231.7,
+        169.6,
+        2279.7,
+        189.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Field Manual",
+      "texte_balise": "Field Manual",
+      "bbox": [
+        2046.3,
+        179.0,
+        2180.5,
+        195.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anton Szandor LaVey",
+      "texte_balise": "Anton Szandor LaVey",
+      "bbox": [
+        818.5,
+        182.0,
+        1000.8,
+        208.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U.S. MARINE",
+      "texte_balise": "U.S. MARINE",
+      "bbox": [
+        1688.2,
+        192.0,
+        1988.7,
+        237.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDOOM",
+      "texte_balise": "EDOOM",
+      "bbox": [
+        51.2,
+        214.4,
+        243.0,
+        297.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLOSE COMBAT FIGHTING",
+      "texte_balise": "CLOSE COMBAT FIGHTING",
+      "bbox": [
+        1691.4,
+        233.6,
+        1985.5,
+        256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANDBOOK",
+      "texte_balise": "HANDBOOK",
+      "bbox": [
+        1736.1,
+        268.8,
+        1934.4,
+        297.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Polt",
+      "texte_balise": "Polt",
+      "bbox": [
+        716.2,
+        326.4,
+        751.4,
+        400.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Robert A.",
+      "texte_balise": "Robert A.",
+      "bbox": [
+        587.9,
+        338.2,
+        655.8,
+        365.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID KUSHNER",
+      "texte_balise": "DAVID KUSHNER",
+      "bbox": [
+        60.7,
+        355.0,
+        236.6,
+        374.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEINLEIN",
+      "texte_balise": "HEINLEIN",
+      "bbox": [
+        585.0,
+        358.2,
+        716.3,
+        406.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MILITARY",
+      "texte_balise": "MILITARY",
+      "bbox": [
+        1956.7,
+        364.8,
+        2071.8,
+        387.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U.S. Marine Corps.",
+      "texte_balise": "U.S. Marine Corps.",
+      "bbox": [
+        1403.6,
+        371.0,
+        1537.9,
+        387.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KNEE DEEP",
+      "texte_balise": "KNEE DEEP",
+      "bbox": [
+        377.3,
+        374.0,
+        482.8,
+        397.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXPLOSIVES, TM",
+      "texte_balise": "EXPLOSIVES, TM",
+      "bbox": [
+        1924.8,
+        387.0,
+        2110.2,
+        406.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "March 2001",
+      "texte_balise": "March 2001",
+      "bbox": [
+        1419.6,
+        390.0,
+        1505.9,
+        397.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN THE DEAD",
+      "texte_balise": "IN THE DEAD",
+      "bbox": [
+        367.7,
+        393.6,
+        489.2,
+        413.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9-1300-214, ARMY",
+      "texte_balise": "9-1300-214, ARMY",
+      "bbox": [
+        1931.2,
+        406.0,
+        2100.6,
+        429.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Novelby Dafyddab Hugl",
+      "texte_balise": "& Novelby Dafyddab Hugl",
+      "bbox": [
+        361.3,
+        412.8,
+        495.6,
+        429.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MILITARY",
+      "texte_balise": "MILITARY",
+      "bbox": [
+        1959.9,
+        432.0,
+        2071.8,
+        448.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KAVMC 2894",
+      "texte_balise": "KAVMC 2894",
+      "bbox": [
+        1800.1,
+        444.8,
+        1844.8,
+        451.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        1966.1,
+        450.1,
+        2068.8,
+        471.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GAME ENGINE",
+      "texte_balise": "GAME ENGINE",
+      "bbox": [
+        885.6,
+        470.0,
+        1071.1,
+        509.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GAME ENGINE",
+      "texte_balise": "GAME ENGINE",
+      "bbox": [
+        607.4,
+        476.5,
+        786.6,
+        512.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SMALL WARS MANUAL",
+      "texte_balise": "SMALL WARS MANUAL",
+      "bbox": [
+        1637.0,
+        483.0,
+        1841.6,
+        506.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERATOR'S MANUAL",
+      "texte_balise": "PERATOR'S MANUAL",
+      "bbox": [
+        2129.4,
+        489.6,
+        2346.8,
+        509.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "US Army and",
+      "texte_balise": "US Army and",
+      "bbox": [
+        1963.1,
+        505.6,
+        2071.8,
+        528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK BOOK",
+      "texte_balise": "BLACK BOOK",
+      "bbox": [
+        888.8,
+        512.0,
+        1067.9,
+        541.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BLACK BOOK",
+      "texte_balise": "BLACK BOOK",
+      "bbox": [
+        610.5,
+        514.3,
+        783.5,
+        548.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LODELS:",
+      "texte_balise": "LODELS:",
+      "bbox": [
+        2126.2,
+        521.6,
+        2209.3,
+        534.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2100 & 2400",
+      "texte_balise": "2100 & 2400",
+      "bbox": [
+        2206.1,
+        521.6,
+        2314.8,
+        541.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.survivalebooks.com",
+      "texte_balise": "www.survivalebooks.com",
+      "bbox": [
+        1931.2,
+        528.0,
+        2100.6,
+        544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A WARNING:",
+      "texte_balise": "A WARNING:",
+      "bbox": [
+        2382.0,
+        531.0,
+        2445.9,
+        547.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISOLINE POWERED CHAIN SAW",
+      "texte_balise": "ISOLINE POWERED CHAIN SAW",
+      "bbox": [
+        2129.4,
+        537.6,
+        2314.8,
+        550.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Always Wear Eye Protection",
+      "texte_balise": "Always Wear Eye Protection",
+      "bbox": [
+        2135.8,
+        572.8,
+        2292.5,
+        589.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOOM",
+      "texte_balise": "DOOM",
+      "bbox": [
+        637.4,
+        584.1,
+        767.1,
+        627.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOLFENSTEIN 3D",
+      "texte_balise": "WOLFENSTEIN 3D",
+      "bbox": [
+        914.4,
+        595.0,
+        1045.5,
+        611.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOOM BIBLE",
+      "texte_balise": "DOOM BIBLE",
+      "bbox": [
+        1298.1,
+        598.0,
+        1585.9,
+        630.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"THANKS!!\"",
+      "texte_balise": "\"THANKS!!\"",
+      "bbox": [
+        2238.1,
+        608.0,
+        2359.6,
+        627.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "i Bater ve my thank you for your purchase!",
+      "texte_balise": "i Bater ve my thank you for your purchase!",
+      "bbox": [
+        2286.1,
+        630.0,
+        2487.5,
+        650.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BY ToM HALL",
+      "texte_balise": "BY ToM HALL",
+      "bbox": [
+        1298.1,
+        633.6,
+        1451.6,
+        656.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a are a a disoring perace and macimum let from your amit.",
+      "texte_balise": "a are a a disoring perace and macimum let from your amit.",
+      "bbox": [
+        2139.0,
+        646.0,
+        2481.1,
+        675.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "REVISION NUMBER .02",
+      "texte_balise": "REVISION NUMBER .02",
+      "bbox": [
+        1298.1,
+        656.0,
+        1557.1,
+        678.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DATE: 11/28/92",
+      "texte_balise": "DATE: 11/28/92",
+      "bbox": [
+        1298.1,
+        678.0,
+        1509.1,
+        698.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OULAN/WEED EATE",
+      "texte_balise": "OULAN/WEED EATE",
+      "bbox": [
+        2119.8,
+        700.8,
+        2257.3,
+        717.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1= EDITION",
+      "texte_balise": "1= EDITION",
+      "bbox": [
+        713.0,
+        707.0,
+        786.5,
+        726.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2nd EDITION",
+      "texte_balise": "2nd EDITION",
+      "bbox": [
+        984.8,
+        710.0,
+        1067.9,
+        726.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U.S. MARINE CORPS",
+      "texte_balise": "U.S. MARINE CORPS",
+      "bbox": [
+        1637.0,
+        710.0,
+        1723.3,
+        726.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARIEN SANGLARD",
+      "texte_balise": "FARIEN SANGLARD",
+      "bbox": [
+        888.8,
+        716.8,
+        972.0,
+        723.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1940 EDITION",
+      "texte_balise": "1940 EDITION",
+      "bbox": [
+        1637.0,
+        723.0,
+        1701.0,
+        736.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shreveport, Lonisiana 71139-9329",
+      "texte_balise": "Shreveport, Lonisiana 71139-9329",
+      "bbox": [
+        2113.4,
+        723.0,
+        2279.7,
+        739.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARINE CORPS",
+      "texte_balise": "ARINE CORPS",
+      "bbox": [
+        1864.0,
+        729.6,
+        2020.7,
+        749.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

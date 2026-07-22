@@ -1,0 +1,1057 @@
+{
+  "fichier": "21_Mathematics Trench.jpeg",
+  "date": "2026-07-21T19:28:36.659394+00:00",
+  "taille_origine": [
+    1300,
+    3900
+  ],
+  "hauteur_ligne_mediane": 22.1,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 31,
+  "nb_noeuds": 119,
+  "tiers": [],
+  "intitules_isoles": [
+    "Multiplication",
+    "Negative Numbers",
+    "Order of Operations",
+    "Decimals",
+    "Factors",
+    "Fractions",
+    "Powers",
+    "Radicais",
+    "Cartesian Coordinates",
+    "Pre-Algebra",
+    "Irrational Numbers",
+    "Functions",
+    "Geometry",
+    "Trig Functions",
+    "Calculus",
+    "Limits",
+    "Optimization",
+    "Integration",
+    "Multivariable Calculus",
+    "Triple Integrals",
+    "Vectors",
+    "Differential Equations",
+    "Bessel functions",
+    "Partial Differential Equations",
+    "Strokes Theorem",
+    "Linear Algebra",
+    "Tensors",
+    "Linear Transformations",
+    "Vector Spaces",
+    "Chaos Theory",
+    "Eigenvalues",
+    "Eigenvectors",
+    "Convergence",
+    "Fourier Series",
+    "Serious Math",
+    "Abstract Algebra",
+    "Hilbert Spaces",
+    "Banach Spaces",
+    "Game theory",
+    "Combinatorics",
+    "Complex Analysis",
+    "Complex functions",
+    "Holomorphic Functions",
+    "Euclidean Space",
+    "Non Euclidean Geometry",
+    "Ring Theory",
+    "Galois Theory",
+    "Gröbner basis",
+    "Algebraic Number Theory",
+    "Automorphic Forms",
+    "Clifford Algebra",
+    "Lie Algebras",
+    "Infinitesmal transformations",
+    "E7 Lie Groups",
+    "Genius Level Gap",
+    "Symplectic Geometry",
+    "Random Matricies",
+    "Homological Mirror Symmetry",
+    "Complex Kleinian Groups",
+    "Perfectoid Spaces",
+    "Millenium Prize Problems",
+    "Riemann Hypothesis",
+    "Yang-Mills",
+    "Hodge Conjecture",
+    "Optimization of Complex Adaptive Systems",
+    "Inter-universal Teichmüller theory",
+    "Warning",
+    "Mathematical Capacity",
+    "of the human brain.",
+    "Poly-Dimensional Topology",
+    "One-Time Pad Decryption",
+    "Random Sequence Extrapolation"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        94.0,
+        22.0,
+        1182.0,
+        98.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MATHEMATICS TRENCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        526.0,
+        125.8,
+        614.0,
+        150.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Counting",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        670.0,
+        141.9,
+        820.0,
+        206.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Human",
+          "auteur": "Subtraction",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.0,
+        167.8,
+        570.1,
+        324.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Addition",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Multiplication",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Division",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Order of Operations",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        630.0,
+        236.0,
+        814.0,
+        298.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Basic Geometry",
+          "auteur": "Negative Numbers",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        575.9,
+        329.8,
+        666.1,
+        352.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Decimals",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        371.9,
+        353.5,
+        446.1,
+        374.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Factors",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        478.0,
+        380.0,
+        568.0,
+        402.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Fractions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        526.0,
+        401.9,
+        824.0,
+        560.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Powers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cartesian Coordinates",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Irrational Numbers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Variables",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Equations",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        372.0,
+        425.9,
+        488.0,
+        496.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Radicais",
+          "auteur": "Pre-Algebra",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        338.0,
+        561.6,
+        834.0,
+        1373.6
+      ],
+      "nb_lignes": 33,
+      "noeuds": [
+        {
+          "titre": "Functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Elementary Algebra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Polynomials",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Logarithms",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Geometry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Trigonometry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Radian",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Trig Functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Pre- Calculus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Calculus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Limits",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Parametric Equations",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Differentiation",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Optimization",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Integration",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Inverse chain rule",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Series",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Multivariable Calculus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Triple Integrals",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Vectors",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Differential Equations",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Bessel functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Partial Differential Equations",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Strokes Theorem",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Linear Algebra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tensors",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Linear Transformations",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Vector Spaces",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Chaos Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Eigenvalues",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Eigenvectors",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Convergence",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Fourier Series",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        694.0,
+        622.0,
+        750.0,
+        642.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Slope",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        549.9,
+        661.4,
+        636.1,
+        680.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Matrices",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        656.0,
+        676.0,
+        840.0,
+        698.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Complex Numbers",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        709.8,
+        737.0,
+        816.2,
+        761.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Unit Circle",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        726.0,
+        801.9,
+        818.0,
+        822.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Statistics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        100.0,
+        1415.5,
+        230.0,
+        1435.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Serious Math",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        346.0,
+        1459.5,
+        838.0,
+        2371.6
+      ],
+      "nb_lignes": 34,
+      "noeuds": [
+        {
+          "titre": "Abstract Algebra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Real Analysis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Banach Spaces",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Game theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Combinatorics",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Complex functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Holomorphic Functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Topology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Riemann Surfaces",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Homotopy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Homeomorphism",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Euclidean Space",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Non Euclidean Geometry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Algebra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Groups",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ring Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Galois Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Differential Geometry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Number Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hairy Ball Theorem",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Algebraic Topology",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Groupoids",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Smooth Manifolds",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Algebraic Geometry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Knot Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Control Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Projective Variety",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gröbner basis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Algebraic Number Theory",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Automorphic Forms",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Clifford Algebra",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Lie Algebras",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Infinitesmal transformations",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "E7 Lie Groups",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        616.0,
+        1495.5,
+        828.0,
+        1551.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Calculus of Variations",
+          "auteur": "Hilbert Spaces",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1039.5,
+        1588.9,
+        1130.9,
+        2156.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ostraction",
+          "auteur": "Abstra",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        628.0,
+        1609.4,
+        802.0,
+        1631.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Complex Analysis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        80.0,
+        2424.5,
+        254.0,
+        2446.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Genius Level Gap",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        344.0,
+        2490.5,
+        556.0,
+        2514.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Symplectic Geometry",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        342.0,
+        2520.4,
+        834.0,
+        2684.3
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Random Matricies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Meromorphic functions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Homological Mirror Symmetry",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Complex Kleinian Groups",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Perfectoid Spaces",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Poincaré conjecture",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Isoparametric hypersurfaces",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        338.0,
+        2546.2,
+        462.0,
+        2570.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Cohomology",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        322.0,
+        2712.3,
+        852.3,
+        2956.1
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Millenium Prize Problems",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Riemann Hypothesis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Yang-Mills",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Birch and Swinnerton-Dyer conjecture",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Hodge Conjecture",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "P=NP",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Optimization of Complex Adaptive Systems",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        509.8,
+        2985.5,
+        848.2,
+        3012.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Inter-universal Teichmüller theory",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        38.0,
+        3205.7,
+        310.0,
+        3322.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Warning",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mathematical Capacity",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the human brain.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Advanced Al required after",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "this point",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        334.0,
+        3262.0,
+        848.0,
+        3354.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Irrational pattern functions",
+          "auteur": "System Entropy Deconvolution",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        394.0,
+        3382.0,
+        646.0,
+        3404.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "One-Time Pad Decryption",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        492.0,
+        3436.0,
+        818.0,
+        3458.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Random Sequence Extrapolation",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

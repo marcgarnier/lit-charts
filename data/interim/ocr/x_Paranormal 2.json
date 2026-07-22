@@ -1,0 +1,707 @@
+{
+  "fichier": "x_Paranormal 2.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:59:03.996922+00:00",
+  "duree_s": 0.6,
+  "taille_origine": [
+    1000,
+    1000
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 63,
+  "lignes": [
+    {
+      "texte": "THR REMASTEREO FOLL-COLOK BERTION",
+      "texte_balise": "THR REMASTEREO FOLL-COLOK BERTION",
+      "bbox": [
+        22.0,
+        26.0,
+        200.0,
+        40.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "JOE HILLO",
+      "texte_balise": "JOE HILLO",
+      "bbox": [
+        436.9,
+        39.8,
+        588.1,
+        93.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anothec",
+      "texte_balise": "Anothec",
+      "bbox": [
+        623.8,
+        47.3,
+        776.2,
+        92.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARLAN ELLISON",
+      "texte_balise": "HARLAN ELLISON",
+      "bbox": [
+        818.0,
+        62.0,
+        964.0,
+        80.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vänner of the 1966",
+      "texte_balise": "vänner of the 1966",
+      "bbox": [
+        838.0,
+        78.0,
+        946.0,
+        90.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tugo and Nebula Award:",
+      "texte_balise": "Tugo and Nebula Award:",
+      "bbox": [
+        824.0,
+        86.0,
+        960.0,
+        98.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "yukito ayarsuji",
+      "texte_balise": "yukito ayarsuji",
+      "bbox": [
+        622.0,
+        89.8,
+        704.0,
+        104.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEART-",
+      "texte_balise": "HEART-",
+      "bbox": [
+        449.7,
+        91.0,
+        590.3,
+        135.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I HAVE NO MOUTH",
+      "texte_balise": "I HAVE NO MOUTH",
+      "bbox": [
+        818.0,
+        98.0,
+        962.0,
+        116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOUSE OF LEAVES",
+      "texte_balise": "HOUSE OF LEAVES",
+      "bbox": [
+        50.0,
+        102.0,
+        178.0,
+        114.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& I MUST SCREAM",
+      "texte_balise": "& I MUST SCREAM",
+      "bbox": [
+        820.0,
+        114.0,
+        962.0,
+        132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVEE EREODONE STORGBON",
+      "texte_balise": "EVEE EREODONE STORGBON",
+      "bbox": [
+        818.0,
+        128.0,
+        964.0,
+        148.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SEVEN NEW",
+      "texte_balise": "SEVEN NEW",
+      "bbox": [
+        822.0,
+        128.0,
+        860.0,
+        138.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHAPED",
+      "texte_balise": "SHAPED",
+      "bbox": [
+        441.8,
+        133.4,
+        588.2,
+        178.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOTH",
+      "texte_balise": "GOTH",
+      "bbox": [
+        251.6,
+        143.1,
+        422.4,
+        226.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARK Z. DANTELEWSKI",
+      "texte_balise": "MARK Z. DANTELEWSKI",
+      "bbox": [
+        48.0,
+        164.0,
+        176.0,
+        176.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOX",
+      "texte_balise": "BOX",
+      "bbox": [
+        498.0,
+        180.0,
+        580.0,
+        222.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTSUICHI",
+      "texte_balise": "OTSUICHI",
+      "bbox": [
+        255.7,
+        226.8,
+        424.3,
+        275.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'It will baunt you and startle you",
+      "texte_balise": "'It will baunt you and startle you",
+      "bbox": [
+        457.9,
+        227.6,
+        576.2,
+        240.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and stay with you, and yes,",
+      "texte_balise": "and stay with you, and yes,",
+      "bbox": [
+        484.0,
+        238.0,
+        582.0,
+        250.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "visit you in your dreams",
+      "texte_balise": "visit you in your dreams",
+      "bbox": [
+        462.0,
+        250.0,
+        554.0,
+        260.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SCARY",
+      "texte_balise": "SCARY",
+      "bbox": [
+        665.9,
+        323.8,
+        766.1,
+        352.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Danid Kong",
+      "texte_balise": "Danid Kong",
+      "bbox": [
+        56.7,
+        331.2,
+        172.3,
+        378.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the BLinD",
+      "texte_balise": "the BLinD",
+      "bbox": [
+        810.0,
+        344.0,
+        954.0,
+        396.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "h aa",
+      "texte_balise": "h aa",
+      "bbox": [
+        546.0,
+        346.0,
+        596.0,
+        356.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "STORIES",
+      "texte_balise": "STORIES",
+      "bbox": [
+        656.0,
+        350.0,
+        778.0,
+        378.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOS4A2",
+      "texte_balise": "NOS4A2",
+      "bbox": [
+        256.0,
+        352.0,
+        410.0,
+        408.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Tell in the Dark",
+      "texte_balise": "to Tell in the Dark",
+      "bbox": [
+        664.0,
+        380.0,
+        768.0,
+        396.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETRY AND",
+      "texte_balise": "POETRY AND",
+      "bbox": [
+        502.0,
+        382.0,
+        602.0,
+        394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROSE OF",
+      "texte_balise": "PROSE OF",
+      "bbox": [
+        522.0,
+        398.0,
+        600.0,
+        410.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OwL",
+      "texte_balise": "OwL",
+      "bbox": [
+        814.0,
+        400.0,
+        934.0,
+        454.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ALEXANDER POPE",
+      "texte_balise": "ALEXANDER POPE",
+      "bbox": [
+        456.0,
+        416.0,
+        602.0,
+        428.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jo HN",
+      "texte_balise": "Jo HN",
+      "bbox": [
+        44.0,
+        424.0,
+        86.0,
+        454.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DiES",
+      "texte_balise": "DiES",
+      "bbox": [
+        44.0,
+        436.0,
+        100.0,
+        470.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "XITKD Y Aubrey Williams",
+      "texte_balise": "XITKD Y Aubrey Williams",
+      "bbox": [
+        494.0,
+        454.0,
+        600.0,
+        460.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A SUVEL",
+      "texte_balise": "A SUVEL",
+      "bbox": [
+        318.0,
+        458.0,
+        344.0,
+        464.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sadesh Hodayat",
+      "texte_balise": "Sadesh Hodayat",
+      "bbox": [
+        813.9,
+        459.6,
+        926.1,
+        482.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e rile",
+      "texte_balise": "e rile",
+      "bbox": [
+        60.0,
+        460.0,
+        102.0,
+        482.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "End",
+      "texte_balise": "End",
+      "bbox": [
+        60.0,
+        474.0,
+        104.0,
+        500.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOE HILL",
+      "texte_balise": "JOE HILL",
+      "bbox": [
+        256.0,
+        486.0,
+        410.0,
+        530.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected from Folklore and",
+      "texte_balise": "Collected from Folklore and",
+      "bbox": [
+        664.0,
+        500.0,
+        774.0,
+        510.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Retold by Alvin Schweartz",
+      "texte_balise": "Retold by Alvin Schweartz",
+      "bbox": [
+        666.0,
+        510.0,
+        770.0,
+        522.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Drawings by Stephen Gammell",
+      "texte_balise": "Drawings by Stephen Gammell",
+      "bbox": [
+        656.0,
+        522.0,
+        782.0,
+        534.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS HABRI",
+      "texte_balise": "THOMAS HABRI",
+      "bbox": [
+        42.0,
+        577.8,
+        190.0,
+        626.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Haunting",
+      "texte_balise": "The Haunting",
+      "bbox": [
+        685.7,
+        580.7,
+        804.3,
+        613.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ":sor mnai embral pos.",
+      "texte_balise": ":sor mnai embral pos.",
+      "bbox": [
+        478.0,
+        586.0,
+        574.0,
+        596.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "\"'Achirnes notable beighte ef eaaiodesr\"",
+      "texte_balise": "\"'Achirnes notable beighte ef eaaiodesr\"",
+      "bbox": [
+        272.0,
+        592.0,
+        396.0,
+        606.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Turn of",
+      "texte_balise": "The Turn of",
+      "bbox": [
+        835.8,
+        599.2,
+        966.2,
+        626.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WELCOME TO",
+      "texte_balise": "WELCOME TO",
+      "bbox": [
+        465.9,
+        601.7,
+        588.1,
+        630.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the King",
+      "texte_balise": "the King",
+      "bbox": [
+        276.0,
+        604.0,
+        394.0,
+        630.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Hill House",
+      "texte_balise": "of Hill House",
+      "bbox": [
+        674.0,
+        604.0,
+        788.0,
+        632.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Screw",
+      "texte_balise": "the Screw",
+      "bbox": [
+        842.0,
+        624.0,
+        952.0,
+        650.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in yellow",
+      "texte_balise": "in yellow",
+      "bbox": [
+        269.9,
+        625.5,
+        392.1,
+        648.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIGHT VALE",
+      "texte_balise": "NIGHT VALE",
+      "bbox": [
+        463.9,
+        633.5,
+        590.1,
+        666.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "om Shirley Jackson",
+      "texte_balise": "om Shirley Jackson",
+      "bbox": [
+        664.0,
+        634.0,
+        800.0,
+        656.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERE W. ChamBeRS",
+      "texte_balise": "ROBERE W. ChamBeRS",
+      "bbox": [
+        282.0,
+        648.0,
+        384.0,
+        658.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HENRY JAMES",
+      "texte_balise": "HENRY JAMES",
+      "bbox": [
+        844.0,
+        650.0,
+        930.0,
+        662.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aer The Lottery",
+      "texte_balise": "aer The Lottery",
+      "bbox": [
+        740.0,
+        654.0,
+        792.0,
+        666.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SILENCE",
+      "texte_balise": "THE SILENCE",
+      "bbox": [
+        40.0,
+        722.0,
+        190.0,
+        772.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITED BY ROBERT KEVAROUGH",
+      "texte_balise": "EDITED BY ROBERT KEVAROUGH",
+      "bbox": [
+        842.0,
+        758.0,
+        952.0,
+        768.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF THE LAMBS",
+      "texte_balise": "OF THE LAMBS",
+      "bbox": [
+        42.0,
+        772.0,
+        200.0,
+        822.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More /x/ Book",
+      "texte_balise": "More /x/ Book",
+      "bbox": [
+        290.0,
+        840.0,
+        674.0,
+        896.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reccomendations",
+      "texte_balise": "Reccomendations",
+      "bbox": [
+        136.0,
+        888.0,
+        832.0,
+        964.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

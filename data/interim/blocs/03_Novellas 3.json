@@ -1,0 +1,3489 @@
+{
+  "fichier": "03_Novellas 3.jpeg",
+  "date": "2026-07-21T19:28:36.330686+00:00",
+  "taille_origine": [
+    3000,
+    3312
+  ],
+  "hauteur_ligne_mediane": 22.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 180,
+  "nb_noeuds": 256,
+  "tiers": [
+    "volcano",
+    "So the line",
+    "THIS IS OVE OF THOSE-A BOOK OF",
+    "Richard Brautigan",
+    "Mr. Palomar",
+    "A Bohemian Youth",
+    "The Witch-Herbalist",
+    "A Tiger for Malgudi",
+    "The Wine of Astonishment",
+    "A NOVEL",
+    "MAR X",
+    "BRELLERS",
+    "HONK",
+    "ETGAR KERET",
+    "The Literary Conference",
+    "Escape Hatch",
+    "The Diary of Mr. Pinke",
+    "Earth and Ashes",
+    "Phosphor in Dreamland"
+  ],
+  "intitules_isoles": [
+    "The White Ship",
+    "Carter",
+    "The Hour",
+    "Loitering with Intent",
+    "Hugo",
+    "Stone",
+    "in a",
+    "Landslide",
+    "Shyness & Dignity",
+    "All This Belongs",
+    "Echenoz."
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        405.5,
+        21.8,
+        497.1,
+        48.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The White Ship",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        863.4,
+        39.2,
+        937.5,
+        69.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ove",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        614.8,
+        52.3,
+        671.5,
+        78.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FLATS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2476.7,
+        108.9,
+        2734.0,
+        340.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "152,071",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "20,000",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CHRISTIE MALRY'S",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- OWN DOUBLE ENTRY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Christie Mary's Own Double Entry",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        859.0,
+        117.7,
+        959.3,
+        161.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Angela",
+          "auteur": "Carter",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2764.5,
+        270.2,
+        2838.7,
+        278.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "telecram",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        100.3,
+        313.8,
+        191.9,
+        357.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dark Spring",
+          "auteur": "Unica Zurn",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1609.0,
+        318.1,
+        1696.2,
+        362.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Motorman",
+          "auteur": "David Ohle",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2795.0,
+        318.1,
+        2891.0,
+        361.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Telegram",
+          "auteur": "Putu Wijaya",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1016.0,
+        322.0,
+        1277.6,
+        362.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Log of the S.S. The Mrs Unguentine",
+          "auteur": "stanley crawtord",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1321.2,
+        322.0,
+        1456.4,
+        357.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Summer Book",
+          "auteur": "ove Jonsson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1792.2,
+        322.0,
+        1979.7,
+        357.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A sorrow bevond Dreams",
+          "auteur": "Peter Handke",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2018.9,
+        322.0,
+        2219.5,
+        362.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Roadside Picnic",
+          "auteur": "Arkady & Boris Strugatsky",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2284.9,
+        322.0,
+        2437.5,
+        362.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Asleep in the Sun",
+          "auteur": "Adolfo Bioy Casares",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        566.9,
+        322.5,
+        710.8,
+        366.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Flats/Quake",
+          "auteur": "Rudolph Wurlitzer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        823.9,
+        322.5,
+        929.0,
+        367.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Love",
+          "auteur": "Angela Carter",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        327.0,
+        326.8,
+        453.5,
+        366.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The White Ship",
+          "auteur": "Chingiz Aimatov",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2755.7,
+        404.6,
+        2921.7,
+        440.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "shusaku endo",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        305.2,
+        421.8,
+        423.0,
+        475.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "For Love",
+          "auteur": "of Norway",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2306.7,
+        427.0,
+        2454.9,
+        501.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A TOMB FOR",
+          "auteur": "BORIS DAVIDOVICH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        558.1,
+        431.0,
+        689.0,
+        522.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "john hawkes",
+          "auteur": "Cravesty",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1609.0,
+        475.0,
+        1722.4,
+        575.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Hour",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the Star",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Clarice",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sector",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "volcano",
+      "bbox": [
+        2740.4,
+        579.7,
+        2945.6,
+        723.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Volcano",
+          "auteur": null,
+          "tier": "volcano"
+        },
+        {
+          "titre": "Shusaku Endo",
+          "auteur": null,
+          "tier": "volcano"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        21.8,
+        684.0,
+        274.7,
+        728.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Lost Honor of Katharina Blum",
+          "auteur": "Heinrich Boll",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2250.0,
+        684.0,
+        2468.0,
+        728.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Tomb For Boris Davidovich",
+          "auteur": "Danilo Kis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1295.1,
+        684.2,
+        1473.8,
+        728.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Fatale",
+          "auteur": "Jean-Patrick Manchette",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        584.3,
+        688.5,
+        689.0,
+        728.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Travesty",
+          "auteur": "John Hawkes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        802.3,
+        688.5,
+        959.3,
+        732.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Journey into the Past",
+          "auteur": "Stefan Zweig",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2045.1,
+        688.5,
+        2180.2,
+        719.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Cerret ReNdezVous",
+          "auteur": "Koho the",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2520.3,
+        688.5,
+        2664.2,
+        719.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Meanlace Nights",
+          "auteur": "Elizaheth Hardwick",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        318.3,
+        692.9,
+        462.2,
+        706.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "For Love or Norway",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1042.2,
+        692.9,
+        1229.7,
+        723.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "rs nree women",
+          "auteur": "Paulo Emílio Sales Gomes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.7,
+        692.9,
+        1704.9,
+        723.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Hour of the stor",
+          "auteur": "Clarice Licnertor",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1796.5,
+        692.9,
+        1944.8,
+        728.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Painter of signs",
+          "auteur": "R.K. Narayan",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        56.7,
+        767.0,
+        231.1,
+        776.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE VICEROY OF QUIDAH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2742.7,
+        767.0,
+        2904.1,
+        784.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "- Cvnthia Ozick",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "So the line",
+      "bbox": [
+        1316.9,
+        775.7,
+        1434.6,
+        862.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "3low It Al",
+          "auteur": null,
+          "tier": "So the line"
+        },
+        {
+          "titre": "Away",
+          "auteur": null,
+          "tier": "So the line"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2027.6,
+        775.7,
+        2180.2,
+        810.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE WINE OF",
+          "auteur": "ASTONISHMENT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.5,
+        788.8,
+        1251.5,
+        945.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CONCRETE",
+          "auteur": "BERNHAAD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1578.5,
+        793.1,
+        1687.5,
+        841.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HARRY",
+          "auteur": "MULISCH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1814.0,
+        801.9,
+        1883.7,
+        819.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TUTUOLA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2311.0,
+        801.9,
+        2407.0,
+        811.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Tier for Maloud",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.4,
+        819.3,
+        994.2,
+        898.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Spark",
+          "auteur": "Loitering with Intent",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2502.7,
+        958.2,
+        2686.2,
+        1016.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "calvino",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        610.5,
+        966.0,
+        693.3,
+        983.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOSEF HIRŠAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        74.1,
+        971.8,
+        218.0,
+        994.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRUCE CHATWIN",
+          "auteur": "BRUCE CHAIWIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THIS IS OVE OF THOSE-A BOOK OF",
+      "bbox": [
+        1064.0,
+        983.0,
+        1238.4,
+        1097.0
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "MSTERIQUS DARK BEAUTY\"",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "MISTERIQUS DARK BEAUTY\"",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "-10S ANGLES TATES",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "-LOS AUGEES TIME.",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "Concrete",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "Thomas Rornhard",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        },
+        {
+          "titre": "Thomas Bernhard",
+          "auteur": null,
+          "tier": "THIS IS OVE OF THOSE-A BOOK OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2738.4,
+        1006.7,
+        2925.9,
+        1098.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CANNIBAL GALAXY",
+          "auteur": "The Cannibal Galaxy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Richard Brautigan",
+      "bbox": [
+        1247.1,
+        1019.7,
+        1513.1,
+        1098.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "ard Brautigan",
+          "auteur": null,
+          "tier": "Richard Brautigan"
+        },
+        {
+          "titre": "So the Wind Won't Blow it All Away",
+          "auteur": null,
+          "tier": "Richard Brautigan"
+        },
+        {
+          "titre": "o the wind wont Blow italsway",
+          "auteur": null,
+          "tier": "Richard Brautigan"
+        },
+        {
+          "titre": "Richard Brautigan",
+          "auteur": null,
+          "tier": "Richard Brautigan"
+        }
+      ]
+    },
+    {
+      "tier": "Mr. Palomar",
+      "bbox": [
+        2533.4,
+        1054.6,
+        2633.7,
+        1098.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Italo Calvino",
+          "auteur": null,
+          "tier": "Mr. Palomar"
+        },
+        {
+          "titre": "tan a ving",
+          "auteur": null,
+          "tier": "Mr. Palomar"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.3,
+        1059.0,
+        244.2,
+        1198.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Viceroy of Ouidah",
+          "auteur": "Bruce Chatwin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        314.0,
+        1059.0,
+        488.4,
+        1098.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Month in the Country",
+          "auteur": "carr",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "A Bohemian Youth",
+      "bbox": [
+        579.9,
+        1059.0,
+        723.8,
+        1105.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Josef Hirsal",
+          "auteur": null,
+          "tier": "A Bohemian Youth"
+        },
+        {
+          "titre": "Joset Hirea",
+          "auteur": null,
+          "tier": "A Bohemian Youth"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        801.9,
+        1059.0,
+        1003.3,
+        1209.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Loitering with Intent",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Muriel Spark",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ISLE OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ISLE OE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DREAMS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Witch-Herbalist",
+      "bbox": [
+        1792.2,
+        1059.0,
+        1940.4,
+        1101.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Witch.Herhalis",
+          "auteur": null,
+          "tier": "The Witch-Herbalist"
+        },
+        {
+          "titre": "Amos Tutuola",
+          "auteur": null,
+          "tier": "The Witch-Herbalist"
+        },
+        {
+          "titre": "Amos Tutuo d",
+          "auteur": null,
+          "tier": "The Witch-Herbalist"
+        }
+      ]
+    },
+    {
+      "tier": "A Tiger for Malgudi",
+      "bbox": [
+        2280.5,
+        1059.0,
+        2428.8,
+        1105.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "R.K. Narayan",
+          "auteur": null,
+          "tier": "A Tiger for Malgudi"
+        },
+        {
+          "titre": "R.K. Naravan",
+          "auteur": null,
+          "tier": "A Tiger for Malgudi"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1574.1,
+        1063.0,
+        1683.2,
+        1107.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Assault",
+          "auteur": "Harry Mulisch",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Wine of Astonishment",
+      "bbox": [
+        2005.8,
+        1066.0,
+        2197.7,
+        1101.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The wine nt actonichment",
+          "auteur": null,
+          "tier": "The Wine of Astonishment"
+        },
+        {
+          "titre": "far ave are",
+          "auteur": null,
+          "tier": "The Wine of Astonishment"
+        },
+        {
+          "titre": "cor Lovel ace",
+          "auteur": null,
+          "tier": "The Wine of Astonishment"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1116.2,
+        1128.7,
+        1242.8,
+        1211.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "OLD",
+          "auteur": "FLOATING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        318.2,
+        1131.4,
+        488.5,
+        1184.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VE D",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LOVER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        579.9,
+        1137.0,
+        719.5,
+        1181.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "IN the DUTCH",
+          "auteur": "MOUNTAINS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2734.0,
+        1141.8,
+        2934.6,
+        1197.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Jacques Pouli",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Lacques Poulit",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MISTER BLU",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MISTER BLUE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1787.7,
+        1146.1,
+        1953.6,
+        1216.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PAUL",
+          "auteur": "AUSTER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1539.2,
+        1189.7,
+        1687.5,
+        1215.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MAHFOUZ",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2398.3,
+        1194.0,
+        2450.6,
+        1207.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "• e n",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2506.4,
+        1207.7,
+        2678.2,
+        1281.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CLAUS",
+          "auteur": "Hugo",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1377.9,
+        1283.8,
+        1465.1,
+        1340.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Stone",
+          "auteur": "in a",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        314.0,
+        1344.7,
+        497.1,
+        1397.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MARCUERITE",
+          "auteur": "DURAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "A NOVEL",
+      "bbox": [
+        802.2,
+        1374.8,
+        1003.0,
+        1462.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Isle of Dreams",
+          "auteur": null,
+          "tier": "A NOVEL"
+        },
+        {
+          "titre": "KAIZO HINO",
+          "auteur": null,
+          "tier": "A NOVEL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        340.1,
+        1427.0,
+        475.3,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Lover",
+          "auteur": "Marguerite Duras",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.3,
+        1427.0,
+        1212.2,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Old Floating Cloud",
+          "auteur": "Can Xue",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1308.1,
+        1427.0,
+        1460.8,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Stone in a Landslide",
+          "auteur": "Maria Barbal",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1513.1,
+        1427.0,
+        1739.8,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Day the Leader was Killed",
+          "auteur": "Naguib Mahfouz",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1766.0,
+        1427.0,
+        1975.3,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "In the Country of Last Things",
+          "auteur": "Paul Auster",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2045.1,
+        1427.0,
+        2158.4,
+        1462.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Pigeon",
+          "auteur": "Patrick Sucking",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2276.2,
+        1431.8,
+        2424.4,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Kitchen",
+          "auteur": "Banana Yoshimoto",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2520.3,
+        1431.8,
+        2625.0,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Swordfish",
+          "auteur": "Hugo Claus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2764.5,
+        1431.8,
+        2882.3,
+        1471.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mister Blue",
+          "auteur": "Jacques Poulin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        69.8,
+        1436.0,
+        204.9,
+        1475.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Aladdin'c Proh am",
+          "auteur": "Ernst Junger",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        558.1,
+        1436.0,
+        728.2,
+        1467.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "in the butch Mountouns",
+          "auteur": "(ees Nooteboom",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2747.1,
+        1501.0,
+        2895.3,
+        1549.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GABRIEL GARCÍA",
+          "auteur": "MÁRQUEZ",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        295.9,
+        1505.8,
+        475.8,
+        1562.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FES NOOTEROOM",
+          "auteur": "The Following Story",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1050.8,
+        1531.9,
+        1238.4,
+        1706.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE DEATH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AUTHOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GILBERT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ADAIR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.1,
+        1551.9,
+        981.5,
+        1606.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "babyfucker",
+          "auteur": "bilingual edition",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2755.8,
+        1588.5,
+        2899.7,
+        1628.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Of Love",
+          "auteur": "nd Other Demons",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        82.8,
+        1619.0,
+        209.3,
+        1641.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KADD IS H",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        558.1,
+        1623.0,
+        645.3,
+        1645.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Piu Sola",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "MAR X",
+      "bbox": [
+        2018.5,
+        1630.7,
+        2215.1,
+        1837.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "FAMILY",
+          "auteur": null,
+          "tier": "MAR X"
+        },
+        {
+          "titre": "SAGA",
+          "auteur": null,
+          "tier": "MAR X"
+        },
+        {
+          "titre": "The Marx Family Saga",
+          "auteur": null,
+          "tier": "MAR X"
+        },
+        {
+          "titre": "Juan Goytisolo",
+          "auteur": null,
+          "tier": "MAR X"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1783.4,
+        1640.8,
+        1962.2,
+        1684.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SABOTAGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2507.3,
+        1693.0,
+        2655.5,
+        1750.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Shyness & Dignity",
+          "auteur": "DAG SOLSTAD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        859.0,
+        1714.8,
+        933.1,
+        1723.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "URS ANEMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2254.4,
+        1732.0,
+        2354.7,
+        1754.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "STEVE AYLETT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1548.0,
+        1745.0,
+        1661.3,
+        1754.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "the other city michal aiva",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2515.9,
+        1788.1,
+        2651.3,
+        1832.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Shyness & Dignity",
+          "auteur": "Dag Solstad",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2271.8,
+        1788.8,
+        2407.0,
+        1832.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Crime Studio",
+          "auteur": "Steve Aylett",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2729.7,
+        1788.8,
+        2925.9,
+        1828.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Of Love and Other Demons",
+          "auteur": "Gabrie Garcia Marquez",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        305.2,
+        1793.0,
+        457.8,
+        1837.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Following Story",
+          "auteur": "Cees Nooteboom",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.5,
+        1793.0,
+        1229.7,
+        1915.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Death of the Author",
+          "auteur": "Gilbert Adair",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1321.2,
+        1793.0,
+        1443.3,
+        1836.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Angels & Insects",
+          "auteur": "A.S. Byatt",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1800.9,
+        1793.0,
+        1927.3,
+        1837.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Loving Sabotage",
+          "auteur": "Amelie Nothomb",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        837.2,
+        1793.1,
+        941.9,
+        1832.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "babyfucker",
+          "auteur": "Urs Allemann",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        566.9,
+        1797.0,
+        706.4,
+        1832.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Chaos and All That",
+          "auteur": "lin calmi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1574.1,
+        1797.0,
+        1678.8,
+        1828.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Other situ",
+          "auteur": "Michal divaz",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        39.2,
+        1801.8,
+        252.9,
+        1832.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Kaddlich for an inhorn Child",
+          "auteur": "mro Hartoey",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "BRELLERS",
+      "bbox": [
+        2026.8,
+        1864.8,
+        2194.1,
+        2019.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HAPPY",
+          "auteur": null,
+          "tier": "BRELLERS"
+        },
+        {
+          "titre": "CAMPERS",
+          "auteur": null,
+          "tier": "BRELLERS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1835.8,
+        1871.2,
+        1962.3,
+        2024.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "A Short",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rhetoric for",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Leaving the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Family",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Peter Dimock",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.3,
+        1875.2,
+        706.4,
+        1928.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "AMos Oz",
+          "auteur": "Panther in the Basement",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1325.4,
+        1884.3,
+        1456.4,
+        1955.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE DIARY",
+          "auteur": "MR. PINKE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2790.7,
+        1897.6,
+        2851.7,
+        1962.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "carth",
+          "auteur": "ashes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.6,
+        1901.4,
+        1687.6,
+        1958.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "'EADER'",
+          "auteur": "BLOCI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HONK",
+      "bbox": [
+        2250.0,
+        1936.8,
+        2433.1,
+        2037.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "IF YOU LOVE",
+          "auteur": null,
+          "tier": "HONK"
+        },
+        {
+          "titre": "HOODITE",
+          "auteur": null,
+          "tier": "HONK"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        383.7,
+        1967.3,
+        475.3,
+        2036.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PHOSPHOR",
+          "auteur": "DREAMLAND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1133.7,
+        2032.6,
+        1220.9,
+        2093.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ESCAPE",
+          "auteur": "HATCH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        793.6,
+        2036.9,
+        937.5,
+        2050.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TO DESTROY MYSELF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        78.5,
+        2070.0,
+        239.8,
+        2114.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Tereira Veclares",
+          "auteur": "eclare",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ETGAR KERET",
+      "bbox": [
+        2014.5,
+        2101.4,
+        2206.4,
+        2205.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Kneller's Happy Campers",
+          "auteur": null,
+          "tier": "ETGAR KERET"
+        },
+        {
+          "titre": "Etaar Keret",
+          "auteur": null,
+          "tier": "ETGAR KERET"
+        },
+        {
+          "titre": "tigar kerel",
+          "auteur": null,
+          "tier": "ETGAR KERET"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2241.3,
+        2124.0,
+        2446.2,
+        2202.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DANIEL EVAN WEISS",
+          "auteur": "Honk if you Love Aphrodite",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Literary Conference",
+      "bbox": [
+        2489.8,
+        2154.0,
+        2668.6,
+        2196.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "¡ne treror conterence",
+          "auteur": null,
+          "tier": "The Literary Conference"
+        },
+        {
+          "titre": "cacar fire",
+          "auteur": null,
+          "tier": "The Literary Conference"
+        },
+        {
+          "titre": "Lesor are",
+          "auteur": null,
+          "tier": "The Literary Conference"
+        }
+      ]
+    },
+    {
+      "tier": "Escape Hatch",
+      "bbox": [
+        1055.2,
+        2158.0,
+        1194.8,
+        2202.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Vladimir Makanin",
+          "auteur": null,
+          "tier": "Escape Hatch"
+        },
+        {
+          "titre": "voom monin",
+          "auteur": null,
+          "tier": "Escape Hatch"
+        }
+      ]
+    },
+    {
+      "tier": "The Diary of Mr. Pinke",
+      "bbox": [
+        1295.1,
+        2158.8,
+        1469.5,
+        2202.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "the Diary or mr. Pinke",
+          "auteur": null,
+          "tier": "The Diary of Mr. Pinke"
+        },
+        {
+          "titre": "Ewald Murrer",
+          "auteur": null,
+          "tier": "The Diary of Mr. Pinke"
+        },
+        {
+          "titre": "awold Murre",
+          "auteur": null,
+          "tier": "The Diary of Mr. Pinke"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1556.7,
+        2158.8,
+        1674.4,
+        2202.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Reader's Block",
+          "auteur": "David Markson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1774.7,
+        2158.8,
+        1984.0,
+        2198.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Short Rhetoric for Leaving",
+          "auteur": "Peter Dimock",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Earth and Ashes",
+      "bbox": [
+        2755.8,
+        2161.5,
+        2877.9,
+        2205.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Earth mad Ashor",
+          "auteur": null,
+          "tier": "Earth and Ashes"
+        },
+        {
+          "titre": "Atiq Rahimi",
+          "auteur": null,
+          "tier": "Earth and Ashes"
+        },
+        {
+          "titre": "Atia Rohimi",
+          "auteur": null,
+          "tier": "Earth and Ashes"
+        }
+      ]
+    },
+    {
+      "tier": "Phosphor in Dreamland",
+      "bbox": [
+        292.2,
+        2163.0,
+        475.3,
+        2207.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Rikki Ducornet",
+          "auteur": null,
+          "tier": "Phosphor in Dreamland"
+        },
+        {
+          "titre": "Kikk pucorne",
+          "auteur": null,
+          "tier": "Phosphor in Dreamland"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.3,
+        2163.0,
+        719.5,
+        2205.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Panther in the Basement",
+          "auteur": "AMOS UZ",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        736.9,
+        2163.0,
+        994.2,
+        2207.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "I Have the Right to Destroy Myself",
+          "auteur": "Young-Ha Kim",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        91.6,
+        2167.5,
+        222.4,
+        2202.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Paraira Doriarac",
+          "auteur": "Peretro becores",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        344.4,
+        2241.5,
+        475.4,
+        2305.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "mer",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"her",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ABSENCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ARSENCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2018.9,
+        2250.2,
+        2084.3,
+        2279.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ondiaki",
+          "auteur": "ondjaki",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        130.8,
+        2254.6,
+        222.4,
+        2270.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Vase land.",
+          "auteur": "Kafka's Leopard",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2494.2,
+        2293.8,
+        2651.2,
+        2310.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CONVERSATION WITH SPINOZ",
+          "auteur": "CONVERSATION WITH SPIN A",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        584.3,
+        2306.8,
+        689.0,
+        2406.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "IRER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ALBERT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OSSER)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HE COLOF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "F INFAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2010.2,
+        2306.8,
+        2088.7,
+        2370.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "GOOD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOOL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MOPING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MORNING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COMRADES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1129.4,
+        2314.0,
+        1190.4,
+        2348.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Beside",
+          "auteur": "une",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2276.2,
+        2405.6,
+        2420.1,
+        2449.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "All This Belongs",
+          "auteur": "to Me",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2795.1,
+        2427.0,
+        2847.4,
+        2462.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "In the",
+          "auteur": "alest",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1574.1,
+        2431.7,
+        1678.8,
+        2453.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DAVID ALBAHARI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1295.1,
+        2449.0,
+        1478.2,
+        2471.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CARLOS FUENTES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        292.2,
+        2505.8,
+        466.6,
+        2567.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "• Muño Moli",
+          "auteur": "In Her Absence",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        87.2,
+        2523.0,
+        218.0,
+        2567.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Kafka's Leopards",
+          "auteur": "Moacyr Scliar",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2768.8,
+        2527.2,
+        2869.2,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "In the Flesh",
+          "auteur": "Christa Wolf",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.4,
+        2527.6,
+        933.1,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Tales of Galicia",
+          "auteur": "Andrze Stasiuk",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        562.5,
+        2531.9,
+        710.8,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Colors of Intamy",
+          "auteur": "Albert Cossery",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1325.6,
+        2531.9,
+        1434.6,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Inez",
+          "auteur": "Carlos Fuentes",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1539.2,
+        2531.9,
+        1718.0,
+        2636.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BOM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dovid Alhahari",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMOS OZ",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SUDDENLY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2014.5,
+        2531.9,
+        2202.0,
+        2575.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Good Morning Comrades",
+          "auteur": "Ondjaki",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2254.4,
+        2531.9,
+        2424.4,
+        2576.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "All This Belongs to Me",
+          "auteur": "Petra Hulova",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2476.7,
+        2531.9,
+        2681.7,
+        2576.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Conversations With Spinoza",
+          "auteur": "Goce Smilevski",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1068.3,
+        2536.0,
+        1186.0,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Beside the seo",
+          "auteur": "Veronique Olmi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1809.6,
+        2536.3,
+        1936.0,
+        2571.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "eurobedino",
+          "auteur": "Patrik Ourednik",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        327.0,
+        2597.0,
+        453.5,
+        2662.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "\\ magical novel' Björ",
+          "auteur": "THE BLUE FOX",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        806.7,
+        2610.4,
+        968.0,
+        2680.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Housekeeper",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2725.3,
+        2614.7,
+        2939.0,
+        2637.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Waitress Was New",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2253.9,
+        2622.8,
+        2428.9,
+        2768.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE NORTH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF GOD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STEVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STERN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1770.2,
+        2623.5,
+        1962.2,
+        2737.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BONSAI",
+          "auteur": "ALEJANDRO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1286.3,
+        2627.8,
+        1478.2,
+        2650.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MOVING PARTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2036.3,
+        2789.1,
+        2180.2,
+        2819.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HERMAPHRODITE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2516.0,
+        2880.6,
+        2668.6,
+        2920.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Next World Novella",
+          "auteur": "Monthias Politycki",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.9,
+        2884.9,
+        218.0,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Agape Agape",
+          "auteur": "William Gaddis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        335.8,
+        2884.9,
+        436.0,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Blue Fox",
+          "auteur": "sion",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1055.2,
+        2884.9,
+        1199.1,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Book of Words",
+          "auteur": "Jenny Ernenbeck",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1539.2,
+        2884.9,
+        1709.3,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Suddenly in the Depths",
+          "auteur": "Amos •7",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1796.5,
+        2884.9,
+        1940.4,
+        2929.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Bonsai",
+          "auteur": "Alejandro Zambra",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2032.0,
+        2884.9,
+        2180.2,
+        2929.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Hermaphrodite",
+          "auteur": "Daniel Grandbois",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2280.5,
+        2884.9,
+        2411.3,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The North of God",
+          "auteur": "Steve Stern",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2742.7,
+        2884.9,
+        2912.8,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Waitress Was New",
+          "auteur": "Dominique Fabre",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        745.6,
+        2889.0,
+        1011.6,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Housekeeper and the Professor",
+          "auteur": "Yoko dagwa",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1312.5,
+        2889.0,
+        1439.0,
+        2933.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Moving Parts",
+          "auteur": "Magdalena Tulli",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        571.2,
+        2893.6,
+        671.5,
+        2924.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Piano",
+          "auteur": "Jenn Echenoz",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.4,
+        2989.5,
+        950.6,
+        3124.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "down",
+          "auteur": "RABBIT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        396.8,
+        2993.9,
+        475.3,
+        3041.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jean",
+          "auteur": "Echenoz.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        527.6,
+        2998.2,
+        715.1,
+        3063.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DENIS",
+          "auteur": "JOHNSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1203.5,
+        3046.0,
+        2843.0,
+        3146.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "100 CONTEMPORARY NOVELLAS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        148.3,
+        3133.3,
+        222.4,
+        3168.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Brothers",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        361.9,
+        3155.1,
+        466.6,
+        3190.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lightning",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        780.5,
+        3207.0,
+        946.2,
+        3225.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JUAN PABLO VILLALOBOS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        100.3,
+        3250.3,
+        209.3,
+        3295.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Brothers",
+          "auteur": "Asko Sahiberg",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        331.4,
+        3251.0,
+        436.0,
+        3290.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Lightning",
+          "auteur": "Jean Echenoz",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        784.9,
+        3255.0,
+        950.6,
+        3290.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Down the Rabbit Hole",
+          "auteur": "huan Dahlo Villainhoc",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        571.2,
+        3259.7,
+        680.2,
+        3290.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Train Dronme",
+          "auteur": "hanic Inhneon",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

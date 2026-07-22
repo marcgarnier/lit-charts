@@ -1,0 +1,2819 @@
+{
+  "fichier": "01_Novellas.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:48:34.821995+00:00",
+  "duree_s": 2.4,
+  "taille_origine": [
+    1988,
+    2085
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 255,
+  "lignes": [
+    {
+      "texte": "a /literary introduction guide - recommended novellas",
+      "texte_balise": "a /literary introduction guide - recommended novellas",
+      "bbox": [
+        14.4,
+        17.0,
+        1586.4,
+        87.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the",
+      "texte_balise": "the",
+      "bbox": [
+        75.1,
+        170.3,
+        112.7,
+        193.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEAGUING CLASSICS",
+      "texte_balise": "TEAGUING CLASSICS",
+      "bbox": [
+        262.9,
+        176.0,
+        361.2,
+        182.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "VINTACLCOE",
+      "texte_balise": "VINTACLCOE",
+      "bbox": [
+        528.8,
+        176.1,
+        598.1,
+        181.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Sorrows",
+      "texte_balise": "Sorrows",
+      "bbox": [
+        40.5,
+        181.9,
+        121.4,
+        205.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIKHAIL LERMONTOV",
+      "texte_balise": "MIKHAIL LERMONTOV",
+      "bbox": [
+        251.4,
+        187.6,
+        372.7,
+        199.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COSSANE",
+      "texte_balise": "THE COSSANE",
+      "bbox": [
+        705.0,
+        199.0,
+        786.0,
+        205.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "of Voury",
+      "texte_balise": "of Voury",
+      "bbox": [
+        31.8,
+        207.8,
+        115.6,
+        242.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HERO OUR USE",
+      "texte_balise": "HERO OUR USE",
+      "bbox": [
+        251.4,
+        207.8,
+        369.9,
+        214.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MURDERS",
+      "texte_balise": "MURDERS",
+      "bbox": [
+        508.6,
+        219.4,
+        577.9,
+        233.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALIEN HEARTS",
+      "texte_balise": "ALIEN HEARTS",
+      "bbox": [
+        1811.7,
+        230.9,
+        1881.1,
+        245.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUY DE ARUPISSANT",
+      "texte_balise": "SUY DE ARUPISSANT",
+      "bbox": [
+        1803.1,
+        242.0,
+        1886.9,
+        257.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "UNDERGROUND",
+      "texte_balise": "UNDERGROUND",
+      "bbox": [
+        918.9,
+        332.0,
+        1005.6,
+        346.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHERE PERFER DO LARISSE BEETHORSE",
+      "texte_balise": "RICHERE PERFER DO LARISSE BEETHORSE",
+      "bbox": [
+        904.4,
+        372.0,
+        1014.2,
+        378.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IVAN TURGENE",
+      "texte_balise": "IVAN TURGENE",
+      "bbox": [
+        1361.0,
+        372.0,
+        1436.1,
+        378.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CUTE HAU ASTON",
+      "texte_balise": "CUTE HAU ASTON",
+      "bbox": [
+        1560.3,
+        383.9,
+        1667.3,
+        390.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pieve and It",
+      "texte_balise": "Pieve and It",
+      "bbox": [
+        1589.2,
+        395.0,
+        1641.3,
+        407.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Sorrows of",
+      "texte_balise": "The Sorrows of",
+      "bbox": [
+        52.0,
+        415.7,
+        158.9,
+        433.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Spring Torrents",
+      "texte_balise": "Spring Torrents",
+      "bbox": [
+        1352.2,
+        418.2,
+        1462.2,
+        439.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cossacks",
+      "texte_balise": "The Cossacks",
+      "bbox": [
+        699.2,
+        418.4,
+        794.6,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Hero of Our Time",
+      "texte_balise": "A Hero of Our Time",
+      "bbox": [
+        242.7,
+        418.6,
+        384.3,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Murders in the Rue Morgue",
+      "texte_balise": "The Murders in the Rue Morgue",
+      "bbox": [
+        419.0,
+        418.6,
+        641.5,
+        439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Notes From Underground",
+      "texte_balise": "Notes From Underground",
+      "bbox": [
+        864.0,
+        418.6,
+        1046.0,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thérèse Raquin",
+      "texte_balise": "Thérèse Raquin",
+      "bbox": [
+        1126.9,
+        418.6,
+        1233.8,
+        436.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Alien Hearts",
+      "texte_balise": "Alien Hearts",
+      "bbox": [
+        1797.3,
+        418.6,
+        1886.9,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre and Jean",
+      "texte_balise": "Pierre and Jean",
+      "bbox": [
+        1563.2,
+        421.0,
+        1670.2,
+        439.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Young Werther",
+      "texte_balise": "Young Werther",
+      "bbox": [
+        54.9,
+        438.6,
+        161.8,
+        459.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Mikhail Lermontov",
+      "texte_balise": "by Mikhail Lermontov",
+      "bbox": [
+        234.1,
+        438.8,
+        395.9,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Leo Tolstoy",
+      "texte_balise": "by Leo Tolstoy",
+      "bbox": [
+        696.4,
+        438.8,
+        797.5,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Fyodor Dostoevsky",
+      "texte_balise": "by Fyodor Dostoevsky",
+      "bbox": [
+        881.3,
+        438.8,
+        1037.3,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Emile Zola",
+      "texte_balise": "by Emile Zola",
+      "bbox": [
+        1124.0,
+        438.8,
+        1225.2,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Edgar Allan Poe",
+      "texte_balise": "by Edgar Allan Poe",
+      "bbox": [
+        462.3,
+        441.7,
+        598.1,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ivan Turgenev",
+      "texte_balise": "by Ivan Turgenev",
+      "bbox": [
+        1346.5,
+        441.7,
+        1467.9,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Guy de Maupassant",
+      "texte_balise": "by Guy de Maupassant",
+      "bbox": [
+        1537.2,
+        441.7,
+        1701.9,
+        462.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Guy de Maupassant",
+      "texte_balise": "by Guy de Maupassant",
+      "bbox": [
+        1768.4,
+        441.7,
+        1933.1,
+        459.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Johann Goethe",
+      "texte_balise": "by Johann Goethe",
+      "bbox": [
+        46.2,
+        461.9,
+        173.4,
+        479.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780143105633",
+      "texte_balise": "9780143105633",
+      "bbox": [
+        254.3,
+        461.9,
+        364.1,
+        476.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099529583",
+      "texte_balise": "9780099529583",
+      "bbox": [
+        473.9,
+        461.9,
+        583.7,
+        479.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780679734529",
+      "texte_balise": "9780679734529",
+      "bbox": [
+        904.4,
+        461.9,
+        1014.2,
+        476.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780199536856",
+      "texte_balise": "9780199536856",
+      "bbox": [
+        1124.0,
+        461.9,
+        1236.7,
+        476.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780812975048",
+      "texte_balise": "9780812975048",
+      "bbox": [
+        693.5,
+        464.8,
+        800.4,
+        479.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780140443691",
+      "texte_balise": "9780140443691",
+      "bbox": [
+        1352.3,
+        464.8,
+        1462.1,
+        482.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780140443585",
+      "texte_balise": "9780140443585",
+      "bbox": [
+        1560.3,
+        464.8,
+        1670.2,
+        479.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9781590172605",
+      "texte_balise": "9781590172605",
+      "bbox": [
+        1791.5,
+        464.8,
+        1901.3,
+        479.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141023441",
+      "texte_balise": "9780141023441",
+      "bbox": [
+        54.9,
+        482.1,
+        161.8,
+        499.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VINTAGE CONAN DOYLE",
+      "texte_balise": "VINTAGE CONAN DOYLE",
+      "bbox": [
+        476.8,
+        557.0,
+        603.9,
+        572.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HADA MERKD",
+      "texte_balise": "HADA MERKD",
+      "bbox": [
+        75.1,
+        583.0,
+        153.1,
+        595.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HAI",
+      "texte_balise": "HAI",
+      "bbox": [
+        907.3,
+        626.4,
+        1011.3,
+        678.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FScoff",
+      "texte_balise": "FScoff",
+      "bbox": [
+        1759.7,
+        626.4,
+        1881.1,
+        663.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hermonn",
+      "texte_balise": "hermonn",
+      "bbox": [
+        1542.8,
+        645.4,
+        1693.5,
+        679.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fizgerald",
+      "texte_balise": "Fizgerald",
+      "bbox": [
+        1759.6,
+        657.7,
+        1930.4,
+        716.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Botchan",
+      "texte_balise": "Botchan",
+      "bbox": [
+        1103.7,
+        666.4,
+        1251.3,
+        701.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAS MANI",
+      "texte_balise": "MAS MANI",
+      "bbox": [
+        1384.1,
+        672.6,
+        1441.9,
+        687.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hesse",
+      "texte_balise": "Hesse",
+      "bbox": [
+        1545.9,
+        675.5,
+        1635.5,
+        701.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HHHN",
+      "texte_balise": "HHHN",
+      "bbox": [
+        910.2,
+        684.1,
+        1014.2,
+        718.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ENIGE",
+      "texte_balise": "ENIGE",
+      "bbox": [
+        1427.4,
+        695.7,
+        1482.3,
+        721.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Siddharthe",
+      "texte_balise": "Siddharthe",
+      "bbox": [
+        1540.0,
+        698.0,
+        1673.2,
+        728.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEAT",
+      "texte_balise": "DEAT",
+      "bbox": [
+        1326.3,
+        698.6,
+        1375.4,
+        721.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Natsume Soseki",
+      "texte_balise": "Natsume Soseki",
+      "bbox": [
+        1106.7,
+        701.0,
+        1248.3,
+        719.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL HENRY BEIN",
+      "texte_balise": "MICHAEL HENRY BEIN",
+      "bbox": [
+        1346.5,
+        741.9,
+        1459.2,
+        756.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HENRY JAME",
+      "texte_balise": "HENRY JAME",
+      "bbox": [
+        286.1,
+        750.5,
+        349.6,
+        756.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H. G. WELLS",
+      "texte_balise": "H. G. WELLS",
+      "bbox": [
+        707.9,
+        756.0,
+        771.5,
+        768.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lime Saler",
+      "texte_balise": "Lime Saler",
+      "bbox": [
+        297.6,
+        765.0,
+        341.0,
+        771.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MICHAEL CUYNINGHAM",
+      "texte_balise": "MICHAEL CUYNINGHAM",
+      "bbox": [
+        1346.5,
+        765.0,
+        1459.2,
+        779.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hadji Murad",
+      "texte_balise": "Hadji Murad",
+      "bbox": [
+        69.2,
+        801.8,
+        164.8,
+        820.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Study in Scarlet",
+      "texte_balise": "A Study in Scarlet",
+      "bbox": [
+        465.2,
+        802.5,
+        592.4,
+        823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Daisy Miller",
+      "texte_balise": "Daisy Miller",
+      "bbox": [
+        277.4,
+        805.0,
+        361.2,
+        823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Time Machine",
+      "texte_balise": "The Time Machine",
+      "bbox": [
+        679.0,
+        808.0,
+        809.1,
+        826.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Turn of the Screw",
+      "texte_balise": "The Turn of the Screw",
+      "bbox": [
+        881.3,
+        808.0,
+        1034.5,
+        826.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Botchan",
+      "texte_balise": "Botchan",
+      "bbox": [
+        1138.5,
+        811.2,
+        1199.2,
+        825.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Death in Venice",
+      "texte_balise": "Death in Venice",
+      "bbox": [
+        1352.3,
+        814.0,
+        1462.1,
+        831.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Siddhartha",
+      "texte_balise": "Siddhartha",
+      "bbox": [
+        1580.4,
+        819.1,
+        1658.8,
+        837.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Great Gatsby",
+      "texte_balise": "The Great Gatsby",
+      "bbox": [
+        1788.6,
+        819.8,
+        1912.9,
+        837.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Leo Tolstoy",
+      "texte_balise": "by Leo Tolstoy",
+      "bbox": [
+        66.5,
+        825.6,
+        170.5,
+        843.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Arthur Conan Doyle",
+      "texte_balise": "by Arthur Conan Doyle",
+      "bbox": [
+        445.0,
+        825.6,
+        609.7,
+        846.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Henry James",
+      "texte_balise": "by Henry James",
+      "bbox": [
+        901.4,
+        827.9,
+        1014.3,
+        849.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Henry James",
+      "texte_balise": "by Henry James",
+      "bbox": [
+        265.8,
+        828.0,
+        378.5,
+        846.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by H.G. Wells",
+      "texte_balise": "by H.G. Wells",
+      "bbox": [
+        696.4,
+        831.0,
+        794.6,
+        849.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Natsume Soseki",
+      "texte_balise": "by Natsume Soseki",
+      "bbox": [
+        1109.6,
+        831.0,
+        1245.4,
+        852.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Mann",
+      "texte_balise": "by Thomas Mann",
+      "bbox": [
+        1343.6,
+        837.0,
+        1467.9,
+        854.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by F. Scott Fitzgerald",
+      "texte_balise": "by F. Scott Fitzgerald",
+      "bbox": [
+        1777.1,
+        840.0,
+        1927.3,
+        860.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Hermann Hesse",
+      "texte_balise": "by Hermann Hesse",
+      "bbox": [
+        1557.5,
+        842.9,
+        1690.4,
+        860.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780812967111",
+      "texte_balise": "9780812967111",
+      "bbox": [
+        63.6,
+        845.8,
+        170.5,
+        863.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141441344",
+      "texte_balise": "9780141441344",
+      "bbox": [
+        262.9,
+        848.7,
+        372.7,
+        866.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099530534",
+      "texte_balise": "9780099530534",
+      "bbox": [
+        468.1,
+        848.7,
+        580.8,
+        863.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141439976",
+      "texte_balise": "9780141439976",
+      "bbox": [
+        690.6,
+        851.6,
+        800.4,
+        868.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141194370",
+      "texte_balise": "9780141194370",
+      "bbox": [
+        901.5,
+        851.6,
+        1008.4,
+        868.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9784770030481",
+      "texte_balise": "9784770030481",
+      "bbox": [
+        1121.1,
+        854.5,
+        1230.9,
+        868.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780060576172",
+      "texte_balise": "9780060576172",
+      "bbox": [
+        1352.3,
+        857.3,
+        1462.1,
+        874.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141189574",
+      "texte_balise": "9780141189574",
+      "bbox": [
+        1566.1,
+        863.1,
+        1678.8,
+        880.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141182636",
+      "texte_balise": "9780141182636",
+      "bbox": [
+        1797.3,
+        863.1,
+        1907.1,
+        877.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIMAL.",
+      "texte_balise": "ANIMAL.",
+      "bbox": [
+        1141.3,
+        955.0,
+        1222.4,
+        973.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIMAL",
+      "texte_balise": "ANIMAL",
+      "bbox": [
+        1147.0,
+        957.7,
+        1222.4,
+        975.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hemingway",
+      "texte_balise": "hemingway",
+      "bbox": [
+        1334.6,
+        959.5,
+        1482.7,
+        997.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AT THE MOUNTAINS",
+      "texte_balise": "AT THE MOUNTAINS",
+      "bbox": [
+        476.8,
+        972.8,
+        580.8,
+        979.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARM",
+      "texte_balise": "FARM",
+      "bbox": [
+        1147.1,
+        975.5,
+        1222.4,
+        1001.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UP MADNESS",
+      "texte_balise": "UP MADNESS",
+      "bbox": [
+        494.1,
+        980.9,
+        566.3,
+        992.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Old Man and i",
+      "texte_balise": "The Old Man and i",
+      "bbox": [
+        1337.9,
+        989.8,
+        1413.0,
+        1004.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Old Man and the",
+      "texte_balise": "The Old Man and the",
+      "bbox": [
+        1337.9,
+        990.0,
+        1424.5,
+        1005.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John",
+      "texte_balise": "John",
+      "bbox": [
+        757.1,
+        1019.0,
+        809.1,
+        1042.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEINBECK",
+      "texte_balise": "STEINBECK",
+      "bbox": [
+        673.1,
+        1038.4,
+        820.8,
+        1077.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranger",
+      "texte_balise": "The Stranger",
+      "bbox": [
+        323.6,
+        1050.8,
+        395.9,
+        1065.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BERT CARES",
+      "texte_balise": "BERT CARES",
+      "bbox": [
+        323.6,
+        1071.0,
+        390.1,
+        1077.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ALBERE GAMUS",
+      "texte_balise": "ALBERE GAMUS",
+      "bbox": [
+        323.6,
+        1073.4,
+        390.1,
+        1079.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TASUNARI KAWABATA",
+      "texte_balise": "TASUNARI KAWABATA",
+      "bbox": [
+        1548.8,
+        1091.0,
+        1699.0,
+        1111.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "VASUNARI KAWABATA",
+      "texte_balise": "VASUNARI KAWABATA",
+      "bbox": [
+        1774.2,
+        1091.0,
+        1921.5,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        765.7,
+        1091.2,
+        791.7,
+        1105.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INSUNAR KAWABATA",
+      "texte_balise": "INSUNAR KAWABATA",
+      "bbox": [
+        1774.2,
+        1096.5,
+        1921.5,
+        1105.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICE",
+      "texte_balise": "MICE",
+      "bbox": [
+        754.2,
+        1105.6,
+        809.1,
+        1120.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROLANO CENSES",
+      "texte_balise": "ROLANO CENSES",
+      "bbox": [
+        1574.8,
+        1117.0,
+        1670.2,
+        1132.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        759.9,
+        1120.0,
+        797.5,
+        1134.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NO CUESTRI",
+      "texte_balise": "NO CUESTRI",
+      "bbox": [
+        1811.7,
+        1120.0,
+        1886.9,
+        1132.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CHOLSKO CORSES'",
+      "texte_balise": "CHOLSKO CORSES'",
+      "bbox": [
+        1577.7,
+        1122.4,
+        1667.3,
+        1128.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE BLIND OWL",
+      "texte_balise": "THE BLIND OWL",
+      "bbox": [
+        892.9,
+        1134.0,
+        1008.4,
+        1149.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEN",
+      "texte_balise": "MEN",
+      "bbox": [
+        751.3,
+        1134.5,
+        809.1,
+        1151.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHEL BULGAROY",
+      "texte_balise": "MICHEL BULGAROY",
+      "bbox": [
+        66.5,
+        1137.0,
+        150.3,
+        1149.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SADEGH HEDAYAT",
+      "texte_balise": "SADEGH HEDAYAT",
+      "bbox": [
+        892.9,
+        1150.8,
+        988.2,
+        1165.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADors Hear",
+      "texte_balise": "ADors Hear",
+      "bbox": [
+        83.8,
+        1154.7,
+        130.0,
+        1163.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SABECH HEDAYAT",
+      "texte_balise": "SABECH HEDAYAT",
+      "bbox": [
+        892.9,
+        1154.7,
+        985.3,
+        1163.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE ORWELL,",
+      "texte_balise": "GEORGE ORWELL,",
+      "bbox": [
+        1147.1,
+        1156.7,
+        1248.4,
+        1183.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ass rem",
+      "texte_balise": "Ass rem",
+      "bbox": [
+        83.8,
+        1156.8,
+        130.0,
+        1162.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "HOP LOMETE",
+      "texte_balise": "HOP LOMETE",
+      "bbox": [
+        482.6,
+        1156.8,
+        575.0,
+        1162.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "TAME AGO MAR COSTERO",
+      "texte_balise": "TAME AGO MAR COSTERO",
+      "bbox": [
+        895.8,
+        1162.7,
+        991.1,
+        1177.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Stranger",
+      "texte_balise": "The Stranger",
+      "bbox": [
+        274.2,
+        1192.9,
+        367.2,
+        1213.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Dog's Heart",
+      "texte_balise": "A Dog's Heart",
+      "bbox": [
+        57.7,
+        1194.1,
+        159.0,
+        1214.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "At The Mountains of Madness",
+      "texte_balise": "At The Mountains of Madness",
+      "bbox": [
+        427.7,
+        1194.4,
+        632.8,
+        1211.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Of Mice and Men",
+      "texte_balise": "Of Mice and Men",
+      "bbox": [
+        687.7,
+        1194.4,
+        809.1,
+        1211.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Animal Farm",
+      "texte_balise": "Animal Farm",
+      "bbox": [
+        1141.4,
+        1199.8,
+        1236.7,
+        1217.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Blind Owl",
+      "texte_balise": "The Blind Owl",
+      "bbox": [
+        918.9,
+        1202.8,
+        1020.0,
+        1220.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Old Man and the Sea",
+      "texte_balise": "The Old Man and the Sea",
+      "bbox": [
+        1320.5,
+        1202.8,
+        1496.8,
+        1220.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thousand Cranes",
+      "texte_balise": "Thousand Cranes",
+      "bbox": [
+        1563.2,
+        1205.7,
+        1684.6,
+        1220.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Snow Country",
+      "texte_balise": "Snow Country",
+      "bbox": [
+        1797.3,
+        1205.7,
+        1898.4,
+        1223.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Albert Camus",
+      "texte_balise": "by Albert Camus",
+      "bbox": [
+        262.9,
+        1214.6,
+        384.3,
+        1234.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by H.P. Lovecraft",
+      "texte_balise": "by H.P. Lovecraft",
+      "bbox": [
+        462.3,
+        1214.6,
+        586.6,
+        1234.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by John Steinbeck",
+      "texte_balise": "by John Steinbeck",
+      "bbox": [
+        684.8,
+        1214.6,
+        812.0,
+        1234.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Mikhail Bulgakov",
+      "texte_balise": "by Mikhail Bulgakov",
+      "bbox": [
+        40.5,
+        1217.5,
+        187.8,
+        1234.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Sadegh Hedayat",
+      "texte_balise": "by Sadegh Hedayat",
+      "bbox": [
+        901.5,
+        1223.3,
+        1043.1,
+        1243.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by George Orwell",
+      "texte_balise": "by George Orwell",
+      "bbox": [
+        1126.9,
+        1223.3,
+        1251.2,
+        1240.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernest Hemingway",
+      "texte_balise": "by Ernest Hemingway",
+      "bbox": [
+        1326.3,
+        1223.3,
+        1485.2,
+        1243.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Yasunari Kawabata",
+      "texte_balise": "by Yasunari Kawabata",
+      "bbox": [
+        1545.9,
+        1225.7,
+        1704.8,
+        1246.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Yasunari Kawabata",
+      "texte_balise": "by Yasunari Kawabata",
+      "bbox": [
+        1768.4,
+        1225.7,
+        1927.3,
+        1246.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780140455151",
+      "texte_balise": "9780140455151",
+      "bbox": [
+        54.9,
+        1237.7,
+        164.7,
+        1255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780679720201",
+      "texte_balise": "9780679720201",
+      "bbox": [
+        268.7,
+        1237.7,
+        378.5,
+        1255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780812974416",
+      "texte_balise": "9780812974416",
+      "bbox": [
+        471.0,
+        1237.7,
+        580.8,
+        1252.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141023571",
+      "texte_balise": "9780141023571",
+      "bbox": [
+        693.5,
+        1237.7,
+        803.3,
+        1255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141036137",
+      "texte_balise": "9780141036137",
+      "bbox": [
+        1132.7,
+        1243.4,
+        1242.5,
+        1260.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9781847490698",
+      "texte_balise": "9781847490698",
+      "bbox": [
+        913.1,
+        1246.3,
+        1022.9,
+        1260.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099908401",
+      "texte_balise": "9780099908401",
+      "bbox": [
+        1355.2,
+        1246.3,
+        1465.0,
+        1260.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780679762652",
+      "texte_balise": "9780679762652",
+      "bbox": [
+        1566.1,
+        1249.2,
+        1675.9,
+        1263.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780679761044",
+      "texte_balise": "9780679761044",
+      "bbox": [
+        1791.5,
+        1249.2,
+        1898.4,
+        1266.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIN TAS VONNEGUT",
+      "texte_balise": "VIN TAS VONNEGUT",
+      "bbox": [
+        1820.4,
+        1352.6,
+        1921.5,
+        1358.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Juan Rulfo",
+      "texte_balise": "Juan Rulfo",
+      "bbox": [
+        248.5,
+        1352.8,
+        367.0,
+        1373.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STHEGRYING",
+      "texte_balise": "STHEGRYING",
+      "bbox": [
+        1548.2,
+        1354.1,
+        1725.6,
+        1415.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "PEDRO PÁRAMO",
+      "texte_balise": "PEDRO PÁRAMO",
+      "bbox": [
+        248.5,
+        1373.1,
+        401.6,
+        1396.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAY 4",
+      "texte_balise": "RAY 4",
+      "bbox": [
+        37.6,
+        1381.6,
+        106.9,
+        1410.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEKSANDR",
+      "texte_balise": "ALEKSANDR",
+      "bbox": [
+        1115.4,
+        1390.4,
+        1199.2,
+        1404.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRADBURY",
+      "texte_balise": "BRADBURY",
+      "bbox": [
+        28.8,
+        1401.8,
+        173.4,
+        1445.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOLZHENITSYN",
+      "texte_balise": "SOLZHENITSYN",
+      "bbox": [
+        1115.4,
+        1410.6,
+        1219.4,
+        1425.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0FL01493",
+      "texte_balise": "0FL01493",
+      "bbox": [
+        1551.7,
+        1410.6,
+        1725.1,
+        1474.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ONE DAY IN THE LIFE",
+      "texte_balise": "ONE DAY IN THE LIFE",
+      "bbox": [
+        1118.3,
+        1427.6,
+        1256.9,
+        1445.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF IVAN DENISOVICH",
+      "texte_balise": "OF IVAN DENISOVICH",
+      "bbox": [
+        1115.4,
+        1448.1,
+        1256.9,
+        1465.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "5",
+      "texte_balise": "5",
+      "bbox": [
+        1834.9,
+        1450.9,
+        1924.4,
+        1563.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "e Key",
+      "texte_balise": "e Key",
+      "bbox": [
+        762.8,
+        1508.5,
+        809.1,
+        1528.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EAHRENHEIT 45",
+      "texte_balise": "EAHRENHEIT 45",
+      "bbox": [
+        31.7,
+        1510.8,
+        167.7,
+        1540.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAUGHTI",
+      "texte_balise": "SLAUGHTI",
+      "bbox": [
+        1791.5,
+        1525.9,
+        1840.6,
+        1540.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS PYNCHO",
+      "texte_balise": "THOMAS PYNCHO",
+      "bbox": [
+        1571.9,
+        1528.5,
+        1699.0,
+        1557.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DOTE ANNIVERSARY EDITION",
+      "texte_balise": "THE DOTE ANNIVERSARY EDITION",
+      "bbox": [
+        34.7,
+        1540.3,
+        176.3,
+        1551.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Emer Batter Storannie Anal",
+      "texte_balise": "* Emer Batter Storannie Anal",
+      "bbox": [
+        468.1,
+        1557.4,
+        598.1,
+        1566.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "fess Grace with the Sea",
+      "texte_balise": "fess Grace with the Sea",
+      "bbox": [
+        1340.7,
+        1560.4,
+        1447.7,
+        1574.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Junichiro Tanizaki",
+      "texte_balise": "Junichiro Tanizaki",
+      "bbox": [
+        736.8,
+        1563.3,
+        843.7,
+        1577.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fahrenheit 451",
+      "texte_balise": "Fahrenheit 451",
+      "bbox": [
+        54.9,
+        1580.4,
+        161.8,
+        1598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pedro Páramo",
+      "texte_balise": "Pedro Páramo",
+      "bbox": [
+        274.5,
+        1580.4,
+        375.6,
+        1598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Giovanni's Room",
+      "texte_balise": "Giovanni's Room",
+      "bbox": [
+        485.4,
+        1580.4,
+        601.0,
+        1598.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Key",
+      "texte_balise": "The Key",
+      "bbox": [
+        733.9,
+        1583.3,
+        791.8,
+        1601.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Day in the Life",
+      "texte_balise": "One Day in the Life",
+      "bbox": [
+        1121.1,
+        1583.4,
+        1256.9,
+        1600.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Clockwork Orange",
+      "texte_balise": "A Clockwork Orange",
+      "bbox": [
+        901.5,
+        1586.4,
+        1048.9,
+        1606.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sailor Who Fell",
+      "texte_balise": "The Sailor Who Fell",
+      "bbox": [
+        1340.7,
+        1589.3,
+        1476.6,
+        1606.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Crying of Lot 49",
+      "texte_balise": "The Crying of Lot 49",
+      "bbox": [
+        1566.1,
+        1589.3,
+        1713.5,
+        1609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slaughterhouse 5",
+      "texte_balise": "Slaughterhouse 5",
+      "bbox": [
+        1791.5,
+        1589.3,
+        1912.9,
+        1609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Juan Rulfo",
+      "texte_balise": "by Juan Rulfo",
+      "bbox": [
+        274.4,
+        1603.0,
+        372.9,
+        1624.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ray Bradbury",
+      "texte_balise": "by Ray Bradbury",
+      "bbox": [
+        49.1,
+        1603.4,
+        170.5,
+        1621.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by James Baldwin",
+      "texte_balise": "by James Baldwin",
+      "bbox": [
+        479.7,
+        1603.4,
+        603.9,
+        1621.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Jun'ichiro Tanizaki",
+      "texte_balise": "by Jun'ichiro Tanizaki",
+      "bbox": [
+        693.5,
+        1606.4,
+        843.7,
+        1623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Anthony Burgess",
+      "texte_balise": "by Anthony Burgess",
+      "bbox": [
+        901.5,
+        1606.4,
+        1043.1,
+        1626.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Ivan Denisovich",
+      "texte_balise": "of Ivan Denisovich",
+      "bbox": [
+        1126.9,
+        1606.4,
+        1256.9,
+        1623.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "From Grace With The Sea",
+      "texte_balise": "From Grace With The Sea",
+      "bbox": [
+        1320.5,
+        1612.3,
+        1499.7,
+        1629.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Pynchon",
+      "texte_balise": "by Thomas Pynchon",
+      "bbox": [
+        1566.1,
+        1612.3,
+        1713.5,
+        1632.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Kurt Vonnegut",
+      "texte_balise": "by Kurt Vonnegut",
+      "bbox": [
+        1788.6,
+        1612.3,
+        1915.8,
+        1629.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780345410016",
+      "texte_balise": "9780345410016",
+      "bbox": [
+        52.0,
+        1623.9,
+        161.8,
+        1641.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141186351",
+      "texte_balise": "9780141186351",
+      "bbox": [
+        488.3,
+        1623.9,
+        598.1,
+        1641.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Aleksandr Solzhenitsyn",
+      "texte_balise": "by Aleksandr Solzhenitsyn",
+      "bbox": [
+        1100.9,
+        1626.4,
+        1283.0,
+        1647.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9781852427269",
+      "texte_balise": "9781852427269",
+      "bbox": [
+        268.7,
+        1626.8,
+        378.5,
+        1641.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099466871",
+      "texte_balise": "9780099466871",
+      "bbox": [
+        713.7,
+        1626.8,
+        820.6,
+        1644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141182605",
+      "texte_balise": "9780141182605",
+      "bbox": [
+        916.0,
+        1629.6,
+        1025.8,
+        1646.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Yukio Mishima",
+      "texte_balise": "by Yukio Mishima",
+      "bbox": [
+        1346.5,
+        1635.4,
+        1476.6,
+        1652.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099532613",
+      "texte_balise": "9780099532613",
+      "bbox": [
+        1586.4,
+        1635.4,
+        1696.2,
+        1649.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099800200",
+      "texte_balise": "9780099800200",
+      "bbox": [
+        1794.4,
+        1635.4,
+        1904.2,
+        1649.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099496991",
+      "texte_balise": "9780099496991",
+      "bbox": [
+        1135.6,
+        1649.8,
+        1242.5,
+        1664.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099284796",
+      "texte_balise": "9780099284796",
+      "bbox": [
+        1358.1,
+        1655.6,
+        1467.9,
+        1672.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kazuo",
+      "texte_balise": "Kazuo",
+      "bbox": [
+        537.5,
+        1721.9,
+        601.0,
+        1742.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "100",
+      "texte_balise": "100",
+      "bbox": [
+        1632.6,
+        1721.9,
+        1681.7,
+        1779.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O",
+      "texte_balise": "O",
+      "bbox": [
+        1589.2,
+        1733.4,
+        1618.1,
+        1762.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ishiguro",
+      "texte_balise": "Ishiguro",
+      "bbox": [
+        482.5,
+        1739.0,
+        601.0,
+        1768.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DYING",
+      "texte_balise": "THE DYING",
+      "bbox": [
+        1118.3,
+        1756.3,
+        1176.0,
+        1773.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1",
+      "texte_balise": "1",
+      "bbox": [
+        1615.2,
+        1762.2,
+        1649.9,
+        1799.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A Pale View of Hills",
+      "texte_balise": "A Pale View of Hills",
+      "bbox": [
+        488.3,
+        1770.9,
+        627.0,
+        1788.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIMA",
+      "texte_balise": "ANIMA",
+      "bbox": [
+        1115.4,
+        1773.7,
+        1170.3,
+        1799.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Haruki Murakami",
+      "texte_balise": "Haruki Murakami",
+      "bbox": [
+        690.6,
+        1779.3,
+        826.4,
+        1797.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saul",
+      "texte_balise": "Saul",
+      "bbox": [
+        901.5,
+        1782.4,
+        988.2,
+        1822.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GABRIEL",
+      "texte_balise": "GABRIEL",
+      "bbox": [
+        1329.0,
+        1784.5,
+        1488.3,
+        1826.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GABRIEL",
+      "texte_balise": "GABRIEL",
+      "bbox": [
+        262.9,
+        1787.8,
+        416.2,
+        1823.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILIP",
+      "texte_balise": "PHILIP",
+      "bbox": [
+        1115.4,
+        1808.3,
+        1167.4,
+        1834.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEG",
+      "texte_balise": "MEG",
+      "bbox": [
+        1600.1,
+        1808.3,
+        1721.5,
+        1949.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRACTER O-",
+      "texte_balise": "TRACTER O-",
+      "bbox": [
+        69.3,
+        1811.2,
+        156.0,
+        1817.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Bellow",
+      "texte_balise": "Bellow",
+      "bbox": [
+        898.3,
+        1818.6,
+        1029.1,
+        1861.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GARCIA",
+      "texte_balise": "GARCIA",
+      "bbox": [
+        265.6,
+        1818.8,
+        413.4,
+        1855.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CROSSED DESTINIES",
+      "texte_balise": "CROSSED DESTINIES",
+      "bbox": [
+        54.9,
+        1819.9,
+        173.4,
+        1834.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GAR",
+      "texte_balise": "GAR",
+      "bbox": [
+        1335.0,
+        1825.6,
+        1415.9,
+        1854.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROTH",
+      "texte_balise": "ROTH",
+      "bbox": [
+        1115.4,
+        1831.4,
+        1274.3,
+        1932.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DELILLO",
+      "texte_balise": "DELILLO",
+      "bbox": [
+        1560.7,
+        1834.1,
+        1673.1,
+        1957.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARONEZ",
+      "texte_balise": "MARONEZ",
+      "bbox": [
+        1332.0,
+        1848.4,
+        1479.5,
+        1877.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MÁRQUEZ",
+      "texte_balise": "MÁRQUEZ",
+      "bbox": [
+        265.8,
+        1848.5,
+        416.1,
+        1886.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Actual",
+      "texte_balise": "The Actual",
+      "bbox": [
+        898.6,
+        1860.2,
+        1054.7,
+        1886.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "italo",
+      "texte_balise": "italo",
+      "bbox": [
+        34.7,
+        1874.6,
+        69.3,
+        1889.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "calvino",
+      "texte_balise": "calvino",
+      "bbox": [
+        49.1,
+        1877.3,
+        193.6,
+        1918.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "South OF THE BORDER",
+      "texte_balise": "South OF THE BORDER",
+      "bbox": [
+        693.2,
+        1890.4,
+        829.5,
+        1916.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WEST OF THE SUN",
+      "texte_balise": "WEST OF THE SUN",
+      "bbox": [
+        731.1,
+        1912.1,
+        832.2,
+        1926.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Memories of mos",
+      "texte_balise": "Memories of mos",
+      "bbox": [
+        1384.1,
+        1929.1,
+        1479.4,
+        1938.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Melanchal Whores",
+      "texte_balise": "Melanchal Whores",
+      "bbox": [
+        1369.6,
+        1938.0,
+        1482.3,
+        1952.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Point Omega",
+      "texte_balise": "Point Omega",
+      "bbox": [
+        1586.1,
+        1968.4,
+        1679.1,
+        1991.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "South of the Border,",
+      "texte_balise": "South of the Border,",
+      "bbox": [
+        690.6,
+        1969.7,
+        832.2,
+        1987.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Memories of My Melancholy Whores",
+      "texte_balise": "Memories of My Melancholy Whores",
+      "bbox": [
+        1283.0,
+        1969.7,
+        1540.1,
+        1990.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Castle of Crossed Destinies",
+      "texte_balise": "The Castle of Crossed Destinies",
+      "bbox": [
+        11.6,
+        1972.6,
+        222.5,
+        1987.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chronicle of a Death Foretold",
+      "texte_balise": "Chronicle of a Death Foretold",
+      "bbox": [
+        239.8,
+        1972.6,
+        442.1,
+        1990.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Pale View of Hills",
+      "texte_balise": "A Pale View of Hills",
+      "bbox": [
+        488.3,
+        1972.6,
+        624.1,
+        1990.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Actual",
+      "texte_balise": "The Actual",
+      "bbox": [
+        942.0,
+        1972.6,
+        1020.0,
+        1987.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Dying Animal",
+      "texte_balise": "The Dying Animal",
+      "bbox": [
+        1129.8,
+        1972.6,
+        1256.9,
+        1990.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "West of the Sun",
+      "texte_balise": "West of the Sun",
+      "bbox": [
+        707.9,
+        1989.9,
+        817.7,
+        2007.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Saul Bellow",
+      "texte_balise": "by Saul Bellow",
+      "bbox": [
+        930.3,
+        1992.2,
+        1034.6,
+        2013.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Italo Calvino",
+      "texte_balise": "by Italo Calvino",
+      "bbox": [
+        54.9,
+        1992.8,
+        167.6,
+        2013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Philip Roth",
+      "texte_balise": "by Philip Roth",
+      "bbox": [
+        1141.4,
+        1992.8,
+        1242.5,
+        2013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Gabriel García Márquez",
+      "texte_balise": "by Gabriel García Márquez",
+      "bbox": [
+        1314.7,
+        1992.8,
+        1508.3,
+        2010.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Don DeLillo",
+      "texte_balise": "by Don DeLillo",
+      "bbox": [
+        1583.5,
+        1992.8,
+        1690.4,
+        2010.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Gabriel García Márquez",
+      "texte_balise": "by Gabriel García Márquez",
+      "bbox": [
+        239.8,
+        1995.7,
+        433.4,
+        2013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Kazuo Ishiguro",
+      "texte_balise": "by Kazuo Ishiguro",
+      "bbox": [
+        491.2,
+        1995.7,
+        624.1,
+        2016.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Haruki Murakami",
+      "texte_balise": "by Haruki Murakami",
+      "bbox": [
+        687.7,
+        2012.9,
+        838.0,
+        2033.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780330513777",
+      "texte_balise": "9780330513777",
+      "bbox": [
+        1580.6,
+        2012.9,
+        1690.4,
+        2030.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099268055",
+      "texte_balise": "9780099268055",
+      "bbox": [
+        54.9,
+        2015.8,
+        164.7,
+        2030.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141032467",
+      "texte_balise": "9780141032467",
+      "bbox": [
+        280.3,
+        2015.8,
+        390.1,
+        2033.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780571225378",
+      "texte_balise": "9780571225378",
+      "bbox": [
+        502.8,
+        2015.8,
+        612.6,
+        2033.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141188843",
+      "texte_balise": "9780141188843",
+      "bbox": [
+        930.4,
+        2015.8,
+        1037.3,
+        2030.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099422693",
+      "texte_balise": "9780099422693",
+      "bbox": [
+        1135.6,
+        2015.8,
+        1245.4,
+        2030.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780141028736",
+      "texte_balise": "9780141028736",
+      "bbox": [
+        1355.2,
+        2015.8,
+        1465.0,
+        2030.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "9780099448570",
+      "texte_balise": "9780099448570",
+      "bbox": [
+        707.9,
+        2036.0,
+        814.8,
+        2050.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ver. 1.4, by Croaker & anon",
+      "texte_balise": "ver. 1.4, by Croaker & anon",
+      "bbox": [
+        1785.7,
+        2061.9,
+        1979.3,
+        2079.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

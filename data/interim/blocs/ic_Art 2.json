@@ -1,0 +1,694 @@
+{
+  "fichier": "ic_Art 2.jpeg",
+  "date": "2026-07-21T19:28:36.791433+00:00",
+  "taille_origine": [
+    1120,
+    1556
+  ],
+  "hauteur_ligne_mediane": 18.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 21,
+  "nb_noeuds": 81,
+  "tiers": [
+    "A Smarter Way to Improve",
+    "FIGURE"
+  ],
+  "intitules_isoles": [
+    "A Smarter Way to Improve",
+    "Work through the material within each group simultaneously.",
+    "Spend at least 2-4 months (25 hours per week) per group and revisit past material regularly.",
+    "Peter Han - Dynamic Bible (+ Dynamic Sketching 1 & 2 is optional)",
+    "Charles",
+    "Light & Form",
+    "Drawing",
+    "Course",
+    "scenery:",
+    "landscapes",
+    "and seascapes",
+    "Matt Kohr - Ctrl Paint: Digital Realism Starter Kit",
+    "concepts that you didn't understand or haven't mastered the first",
+    "time through. You should also be adding new resources that target",
+    "specific areas you wish to improve in and upping the quantity and",
+    "pushing the experimentation in your original art even farther."
+  ],
+  "blocs": [
+    {
+      "tier": "A Smarter Way to Improve",
+      "bbox": [
+        33.9,
+        24.9,
+        1054.4,
+        353.0
+      ],
+      "nb_lignes": 18,
+      "noeuds": [
+        {
+          "titre": "Work through the material within each group simultaneously.",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Spend at least 2-4 months (25 hours per week) per group and revisit past material regularly.",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Mindfully copy art that you like and create your own often alongside studying these resources.",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Share your drawing attempts with others for feedback to avoid bad habits and losing direction.",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Perspective and constructional drawing",
+          "auteur": "Group 2",
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Observational drawing and simple human construction",
+          "auteur": "Group 1",
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Drawing and Sketching Objects and",
+          "auteur": "Scott Robertson - How to Draw",
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Bert Dodson - Keys to Drawing",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Environments from Your Imagination",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Steve Huston - Figure Drawing for Artists: Making Every Mark Count",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Peter Han - Dynamic Bible (+ Dynamic Sketching 1 & 2 is optional)",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Keys to",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "DYNAMIC",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "BIBLE",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "Drawing",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "DRAW",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        },
+        {
+          "titre": "BERT DODSON",
+          "auteur": null,
+          "tier": "A Smarter Way to Improve"
+        }
+      ]
+    },
+    {
+      "tier": "FIGURE",
+      "bbox": [
+        264.5,
+        390.5,
+        337.3,
+        430.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DRAWING",
+          "auteur": null,
+          "tier": "FIGURE"
+        },
+        {
+          "titre": "FOR ARTISTS",
+          "auteur": null,
+          "tier": "FIGURE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        31.7,
+        502.0,
+        387.0,
+        694.3
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Grayscale Rendering",
+          "auteur": "Group 3",
+          "tier": null
+        },
+        {
+          "titre": "Digital Painting Starter Kit",
+          "auteur": "Matt Kohr - Ctrl Paint",
+          "tier": null
+        },
+        {
+          "titre": "Charles Bargue - Drawing Course",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Charles",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Bargue ne",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DIGITAL PAINTING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STARTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KIT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ackerman",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        558.9,
+        511.0,
+        977.5,
+        724.0
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Color theory, rendering, and illustration techniques",
+          "auteur": "Group 4",
+          "tier": null
+        },
+        {
+          "titre": "Color Starter Kit",
+          "auteur": "Matt Kohr - Ctrl Paint",
+          "tier": null
+        },
+        {
+          "titre": "Dorian Iten - Mastering Light and Form",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COLOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STARTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DORIAN IrEN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KIT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mastering",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Light & Form",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "On-Demand Course",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.0,
+        721.0,
+        334.9,
+        733.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ACR Edition",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.0,
+        723.7,
+        138.0,
+        741.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BASIC2",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        194.6,
+        726.0,
+        224.0,
+        737.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BASIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        278.2,
+        759.9,
+        346.2,
+        794.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Drawing",
+          "auteur": "Course",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        40.7,
+        818.7,
+        504.6,
+        889.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Figure and environment composition",
+          "auteur": "Group 5",
+          "tier": null
+        },
+        {
+          "titre": "Drawing and Composition for",
+          "auteur": "Marcos Mateu-Mestre - Framed Ink",
+          "tier": null
+        },
+        {
+          "titre": "visual storytellers",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jack Hamm - Drawing Scenery, Seascapes, and Landscapes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        561.1,
+        821.0,
+        1054.4,
+        943.1
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Human Anatomy and construction",
+          "auteur": "Group 6",
+          "tier": null
+        },
+        {
+          "titre": "Scott Eaton - Anatomy for the Artist + Portraiture and Facial Anatomy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Design and Invention",
+          "auteur": "Michael Hampton - Figure Drawing",
+          "tier": null
+        },
+        {
+          "titre": "Uldis Zarins - Anatomy for Sculptors + Anatomy of Facial Expressions",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SCOTT EATO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ANATOMY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FOR ARTISTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        65.6,
+        916.0,
+        181.0,
+        968.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RA",
+          "auteur": "INK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        364.3,
+        934.1,
+        445.8,
+        1000.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Drawing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "scenery:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "landscapes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and seascapes",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        570.2,
+        1038.0,
+        662.9,
+        1045.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SOMERSET HOUSE, LONDON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        531.7,
+        1153.0,
+        683.3,
+        1181.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FIGURE DRAWING",
+          "auteur": "Design and Invention",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        726.3,
+        1158.0,
+        864.3,
+        1225.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ULDIS ZARNS",
+          "auteur": "ANATOMYFOR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        918.6,
+        1168.9,
+        1058.9,
+        1230.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ANATOMY",
+          "auteur": "OF FACIAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        40.7,
+        1182.8,
+        482.0,
+        1393.2
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Advanced Rendering",
+          "auteur": "Group 7",
+          "tier": null
+        },
+        {
+          "titre": "The Fundamentals of Light,",
+          "auteur": "Scott Robertson - How to Render",
+          "tier": null
+        },
+        {
+          "titre": "Shadow, and Reflectivity",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Digital Realism Starter Kit",
+          "auteur": "Matt Kohr - Ctrl Paint",
+          "tier": null
+        },
+        {
+          "titre": "DIGITAL REALISM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "3",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STARTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RENDER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KIT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        529.5,
+        1363.8,
+        583.8,
+        1375.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Michael Hompton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        502.1,
+        1366.0,
+        1106.4,
+        1531.1
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "909x0",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Once you \"complete\" the resources on this list your next step is",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to go through them yet again at a faster pace with a focus on the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "concepts that you didn't understand or haven't mastered the first",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "time through. You should also be adding new resources that target",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "specific areas you wish to improve in and upping the quantity and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pushing the experimentation in your original art even farther.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        262.5,
+        1422.6,
+        298.7,
+        1433.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DIGITAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        441.2,
+        1429.0,
+        479.7,
+        1445.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CALISM C",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

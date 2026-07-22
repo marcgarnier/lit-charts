@@ -1,0 +1,729 @@
+{
+  "fichier": "12_Darre Pill (Nazi.).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:06.215996+00:00",
+  "duree_s": 0.5,
+  "taille_origine": [
+    653,
+    1104
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 65,
+  "lignes": [
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        24.0,
+        12.0,
+        127.8,
+        68.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Darre",
+      "texte_balise": "Darre",
+      "bbox": [
+        21.6,
+        72.7,
+        180.1,
+        125.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The unity of blood and soil must be restored.",
+      "texte_balise": "The unity of blood and soil must be restored.",
+      "bbox": [
+        351.5,
+        76.0,
+        611.1,
+        92.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Richard Walther Darré)",
+      "texte_balise": "(Richard Walther Darré)",
+      "bbox": [
+        411.4,
+        106.0,
+        553.2,
+        124.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pill",
+      "texte_balise": "Pill",
+      "bbox": [
+        24.0,
+        134.0,
+        131.8,
+        190.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRON PILL",
+      "texte_balise": "IRON PILL",
+      "bbox": [
+        435.3,
+        195.9,
+        517.2,
+        210.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Alias \"Green Pill)",
+      "texte_balise": "(Alias \"Green Pill)",
+      "bbox": [
+        141.8,
+        196.0,
+        223.7,
+        208.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUSTRIAL SOCIETY",
+      "texte_balise": "GUSTRIAL SOCIETY",
+      "bbox": [
+        215.7,
+        400.0,
+        285.6,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The One-Straw",
+      "texte_balise": "The One-Straw",
+      "bbox": [
+        535.2,
+        402.0,
+        611.1,
+        412.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMD IT'S FUTU",
+      "texte_balise": "AMD IT'S FUTU",
+      "bbox": [
+        225.7,
+        408.0,
+        281.6,
+        416.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANIFESTO",
+      "texte_balise": "MANIFESTO",
+      "bbox": [
+        57.9,
+        414.0,
+        149.8,
+        424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Revolution",
+      "texte_balise": "Revolution",
+      "bbox": [
+        543.2,
+        414.0,
+        601.1,
+        424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WAY OF MEN",
+      "texte_balise": "THE WAY OF MEN",
+      "bbox": [
+        357.4,
+        419.5,
+        453.4,
+        438.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For The Abolition Of",
+      "texte_balise": "For The Abolition Of",
+      "bbox": [
+        61.9,
+        518.0,
+        145.8,
+        528.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Interest-Slavery",
+      "texte_balise": "Interest-Slavery",
+      "bbox": [
+        69.9,
+        528.0,
+        135.8,
+        538.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifesto for the",
+      "texte_balise": "Manifesto for the",
+      "bbox": [
+        51.9,
+        552.0,
+        147.8,
+        562.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Industria/ Society",
+      "texte_balise": "Industria/ Society",
+      "bbox": [
+        203.7,
+        552.0,
+        301.5,
+        564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Way of Men",
+      "texte_balise": "The Way of Men",
+      "bbox": [
+        361.4,
+        552.0,
+        451.3,
+        564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The One-Straw",
+      "texte_balise": "The One-Straw",
+      "bbox": [
+        529.2,
+        552.0,
+        611.1,
+        562.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Revolution",
+      "texte_balise": "Revolution",
+      "bbox": [
+        527.2,
+        564.0,
+        591.1,
+        574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abolition of",
+      "texte_balise": "Abolition of",
+      "bbox": [
+        51.9,
+        566.0,
+        121.8,
+        576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and it's Future",
+      "texte_balise": "and it's Future",
+      "bbox": [
+        203.7,
+        566.0,
+        285.6,
+        576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Jack Donovan",
+      "texte_balise": "by Jack Donovan",
+      "bbox": [
+        359.4,
+        566.0,
+        455.3,
+        578.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Interest Slavery",
+      "texte_balise": "Interest Slavery",
+      "bbox": [
+        51.9,
+        578.0,
+        137.8,
+        590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ted Kaczynski",
+      "texte_balise": "by Ted Kaczynski",
+      "bbox": [
+        203.7,
+        578.0,
+        301.5,
+        590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Masanobu",
+      "texte_balise": "by Masanobu",
+      "bbox": [
+        527.2,
+        578.0,
+        603.1,
+        590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fukuoka",
+      "texte_balise": "Fukuoka",
+      "bbox": [
+        527.1,
+        591.6,
+        577.2,
+        602.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Gottfried Feder",
+      "texte_balise": "by Gottfried Feder",
+      "bbox": [
+        49.9,
+        592.0,
+        153.8,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Detox",
+      "texte_balise": "Detox",
+      "bbox": [
+        209.6,
+        629.7,
+        299.6,
+        660.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRIMITIVE",
+      "texte_balise": "PRIMITIVE",
+      "bbox": [
+        569.1,
+        636.0,
+        611.1,
+        644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HISTORY OF",
+      "texte_balise": "A HISTORY OF",
+      "bbox": [
+        69.9,
+        650.0,
+        135.8,
+        660.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOK",
+      "texte_balise": "BOOK",
+      "bbox": [
+        207.6,
+        657.7,
+        253.7,
+        674.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CENTRAL BANKING",
+      "texte_balise": "CENTRAL BANKING",
+      "bbox": [
+        59.9,
+        660.0,
+        145.8,
+        670.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEO THE",
+      "texte_balise": "LEO THE",
+      "bbox": [
+        59.9,
+        672.0,
+        77.9,
+        676.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A History of Central",
+      "texte_balise": "A History of Central",
+      "bbox": [
+        43.9,
+        768.0,
+        155.8,
+        780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Genetic Similarity",
+      "texte_balise": "Genetic Similarity",
+      "bbox": [
+        351.5,
+        768.0,
+        455.3,
+        782.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Detox Book",
+      "texte_balise": "The Detox Book",
+      "bbox": [
+        207.7,
+        770.0,
+        295.5,
+        782.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Purposeful",
+      "texte_balise": "The Purposeful",
+      "bbox": [
+        521.2,
+        772.0,
+        607.1,
+        784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Banking",
+      "texte_balise": "Banking",
+      "bbox": [
+        43.9,
+        780.0,
+        93.9,
+        794.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Theory,",
+      "texte_balise": "Theory,",
+      "bbox": [
+        351.5,
+        782.0,
+        395.4,
+        794.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Bruce Fife",
+      "texte_balise": "by Bruce Fife",
+      "bbox": [
+        205.7,
+        784.0,
+        281.6,
+        796.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Primitive",
+      "texte_balise": "Primitive",
+      "bbox": [
+        521.2,
+        786.0,
+        575.1,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Stephen Goodson",
+      "texte_balise": "by Stephen Goodson",
+      "bbox": [
+        43.9,
+        794.0,
+        161.8,
+        806.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ethnocentrism, and",
+      "texte_balise": "Ethnocentrism, and",
+      "bbox": [
+        351.5,
+        796.0,
+        461.3,
+        806.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Marty Gallagher",
+      "texte_balise": "by Marty Gallagher",
+      "bbox": [
+        521.2,
+        800.0,
+        625.0,
+        812.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Group Selection",
+      "texte_balise": "Group Selection",
+      "bbox": [
+        353.5,
+        808.0,
+        443.3,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These texts provide an introduction",
+      "texte_balise": "These texts provide an introduction",
+      "bbox": [
+        45.9,
+        820.0,
+        315.5,
+        836.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by John Rushton",
+      "texte_balise": "by John Rushton",
+      "bbox": [
+        351.5,
+        822.0,
+        445.3,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to physical fitness, nutrition, history,",
+      "texte_balise": "to physical fitness, nutrition, history,",
+      "bbox": [
+        41.9,
+        840.0,
+        323.5,
+        858.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "psychology, economics, and",
+      "texte_balise": "psychology, economics, and",
+      "bbox": [
+        43.9,
+        858.0,
+        263.6,
+        876.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sustainable agriculture. The purpose",
+      "texte_balise": "sustainable agriculture. The purpose",
+      "bbox": [
+        43.9,
+        878.0,
+        325.5,
+        894.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GAIA'S GARDEN",
+      "texte_balise": "GAIA'S GARDEN",
+      "bbox": [
+        365.4,
+        892.0,
+        459.3,
+        908.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of these texts is to help the reader",
+      "texte_balise": "of these texts is to help the reader",
+      "bbox": [
+        43.9,
+        894.0,
+        303.5,
+        912.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "understand men, our place on and",
+      "texte_balise": "understand men, our place on and",
+      "bbox": [
+        41.9,
+        916.0,
+        307.5,
+        932.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "relation to this earth, and how to live",
+      "texte_balise": "relation to this earth, and how to live",
+      "bbox": [
+        41.9,
+        934.0,
+        319.5,
+        952.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a meaningful life.",
+      "texte_balise": "a meaningful life.",
+      "bbox": [
+        43.9,
+        954.0,
+        175.7,
+        970.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Do not succumb to self-destructive",
+      "texte_balise": "Do not succumb to self-destructive",
+      "bbox": [
+        43.9,
+        992.0,
+        311.5,
+        1006.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "consumerism to fill the void of",
+      "texte_balise": "consumerism to fill the void of",
+      "bbox": [
+        43.9,
+        1010.0,
+        275.6,
+        1024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gaia's Garden",
+      "texte_balise": "Gaia's Garden",
+      "bbox": [
+        359.4,
+        1012.0,
+        441.3,
+        1024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Growth of the Soil",
+      "texte_balise": "Growth of the Soil",
+      "bbox": [
+        521.2,
+        1014.0,
+        623.0,
+        1024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Toby Hemenway",
+      "texte_balise": "by Toby Hemenway",
+      "bbox": [
+        359.4,
+        1026.0,
+        469.3,
+        1038.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Knut Hamsun",
+      "texte_balise": "by Knut Hamsun",
+      "bbox": [
+        519.2,
+        1028.0,
+        613.1,
+        1040.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "modern nihilism: fight back against",
+      "texte_balise": "modern nihilism: fight back against",
+      "bbox": [
+        43.9,
+        1030.0,
+        313.5,
+        1046.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "capitalism and the international kike",
+      "texte_balise": "capitalism and the international kike",
+      "bbox": [
+        43.9,
+        1048.0,
+        317.5,
+        1064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "banking cartel.",
+      "texte_balise": "banking cartel.",
+      "bbox": [
+        43.9,
+        1068.0,
+        157.8,
+        1084.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1266 @@
+{
+  "fichier": "21_British Conservatism.jpeg",
+  "date": "2026-07-21T19:28:36.657883+00:00",
+  "taille_origine": [
+    3000,
+    3212
+  ],
+  "hauteur_ligne_mediane": 26.4,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 59,
+  "nb_noeuds": 106,
+  "tiers": [
+    "L THE",
+    "SYBIL, OR THE",
+    "THE",
+    "STORY"
+  ],
+  "intitules_isoles": [
+    "Salisbury Review",
+    "-Sn. Sanitation on che",
+    "Great Tradition",
+    "Edited by Roger Scruton",
+    "Forgotten 23oofs"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        680.2,
+        91.5,
+        2241.3,
+        156.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A BEGINNER'S CHART",
+          "auteur": "BRITISH CONSERVATISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1251.5,
+        270.2,
+        1670.1,
+        313.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONTEMPORARY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2502.9,
+        475.1,
+        2803.8,
+        614.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "CONSERVATIVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THINKERS:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Essays from The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Salisbury Review",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2097.4,
+        479.5,
+        2354.7,
+        562.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Roger Scruton",
+          "auteur": "THE MEANING OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1635.2,
+        501.2,
+        1931.7,
+        575.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Roger SCRUTON",
+          "auteur": "ARGUMENTS FOR COVSERVATISH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1247.1,
+        501.3,
+        1478.2,
+        531.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROGER SCRUTON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        798.0,
+        553.6,
+        1072.7,
+        579.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONSERVATISM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        811.0,
+        680.0,
+        1050.9,
+        763.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "-Sn. Sanitation on che",
+          "auteur": "Great Tradition",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1696.2,
+        745.3,
+        1870.6,
+        871.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A POLITICAL",
+          "auteur": "PHILOSOPHY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1216.6,
+        797.3,
+        1508.7,
+        880.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HOW TO BE A",
+          "auteur": "CONSERVATIVE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        850.3,
+        819.3,
+        1024.7,
+        845.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Roger Scruton",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2485.5,
+        889.2,
+        2808.1,
+        1050.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Edited by Roger Scruton",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONSERVATIVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ESSAYS",
+          "auteur": "THINKERS",
+          "tier": null
+        },
+        {
+          "titre": "FROM THE SALISBURY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REVIEW",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        771.8,
+        932.8,
+        1064.0,
+        1015.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "AN",
+          "auteur": "CoNSERVATISM",
+          "tier": null
+        },
+        {
+          "titre": "CONSERVATISM. AN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "INVITIATION TO THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GREAT TRADITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2053.8,
+        932.8,
+        2302.3,
+        989.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE MEANING OF",
+          "auteur": "CONSERVATISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1622.1,
+        937.1,
+        1866.3,
+        989.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ARGUMENTS FOR",
+          "auteur": "CONSERVATISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1260.2,
+        941.2,
+        1486.9,
+        998.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "How To BE A",
+          "auteur": "CONSERVATIVE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "L THE",
+      "bbox": [
+        872.1,
+        1259.3,
+        1173.0,
+        1620.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "ABOLITION",
+          "auteur": null,
+          "tier": "L THE"
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": "L THE"
+        },
+        {
+          "titre": "BRITAIN",
+          "auteur": null,
+          "tier": "L THE"
+        },
+        {
+          "titre": "From Winston Churchill",
+          "auteur": null,
+          "tier": "L THE"
+        },
+        {
+          "titre": "to Theresa May",
+          "auteur": null,
+          "tier": "L THE"
+        },
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": "L THE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1874.9,
+        1385.6,
+        2167.3,
+        1559.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ABOLITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF LIBERTY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Decline of Order and Justice in England",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1364.8,
+        1464.0,
+        1657.4,
+        1720.9
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "THER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CAMERON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DELUSION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "UPDATED EDITION OF THE BROKEN COMPASS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE CAMERON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DELUSION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2393.9,
+        1485.7,
+        2625.0,
+        1516.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNCONVKNEONAU",
+          "auteur": "WISDOM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2398.3,
+        1581.5,
+        2620.6,
+        1603.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1892.4,
+        1594.5,
+        2149.7,
+        1629.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PETER HITCHENS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        863.4,
+        1664.3,
+        1138.1,
+        1721.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE ABOLITION OF",
+          "auteur": "BRITAIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1866.2,
+        1668.5,
+        2136.6,
+        1725.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE ABOLITION OF",
+          "auteur": "LIBERTY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2350.2,
+        1668.6,
+        2620.6,
+        1725.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "UNCONVENTIONAL",
+          "auteur": "WISDOM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1325.6,
+        1768.8,
+        1565.4,
+        1812.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HISTORIC",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        588.7,
+        1925.3,
+        902.6,
+        1951.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONOR CRUISE O'BRIEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "SYBIL, OR THE",
+      "bbox": [
+        1063.1,
+        1947.2,
+        1374.4,
+        2034.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TWO NATIONS.",
+          "auteur": null,
+          "tier": "SYBIL, OR THE"
+        },
+        {
+          "titre": "LAUND.",
+          "auteur": null,
+          "tier": "SYBIL, OR THE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        165.7,
+        1956.1,
+        379.4,
+        1991.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "REFLECTIONS ON THE",
+          "auteur": "REVOITITION IN FRANCE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1687.5,
+        2065.0,
+        1800.9,
+        2113.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EDMUND",
+          "auteur": "BURKE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1591.6,
+        2204.1,
+        1800.9,
+        2282.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A VINDICATION",
+          "auteur": "OF NATURAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE",
+      "bbox": [
+        592.9,
+        2213.0,
+        898.3,
+        2523.0
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "GREAT",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "CREAT",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "MELODY",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "A THEMATIC BIOGRAPHY OF",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "EDMUND",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "BURKE",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "THE GREAT MELODY:",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "A THEMATIC",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "BIOGRAPHY OF",
+          "auteur": null,
+          "tier": "THE"
+        },
+        {
+          "titre": "EDMUND BURKE",
+          "auteur": null,
+          "tier": "THE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2001.1,
+        2265.0,
+        2280.8,
+        2470.4
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "THE FIRST & SECOND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TREATISES OF GOVERNMENT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "JOHN LOCKE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CANTANES OC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TWO TREATISES OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOVERNMENT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1260.1,
+        2269.6,
+        1373.6,
+        2296.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NOVEL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1059.6,
+        2269.7,
+        1251.5,
+        2296.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "IS AN 1845",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2511.6,
+        2326.0,
+        2664.2,
+        2365.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THOMAS HOBBES",
+          "auteur": "Leviathan",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1090.1,
+        2330.8,
+        1347.4,
+        2357.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BENJAMIN DISRAELI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1072.6,
+        2405.0,
+        1356.1,
+        2462.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SYBIL; OR THE TWo",
+          "auteur": "NATIONS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        139.1,
+        2409.0,
+        427.3,
+        2498.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "REFLECTIONS ON",
+          "auteur": "THE REVOLUTION IN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1548.0,
+        2409.0,
+        1818.3,
+        2462.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A VINDICATION OF",
+          "auteur": "NATURAL SOCIETY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2511.6,
+        2418.1,
+        2677.3,
+        2444.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LEVIATHAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1988.4,
+        2601.3,
+        2032.0,
+        2618.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        213.7,
+        2623.1,
+        410.1,
+        2720.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Michael",
+          "auteur": "Oakeshott",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        693.3,
+        2644.9,
+        802.3,
+        2685.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PENGUIN",
+          "auteur": "HOOKS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1116.3,
+        2644.9,
+        1360.5,
+        2771.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A DEFENCE OF",
+          "auteur": "ARISTOCRACY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "STORY",
+      "bbox": [
+        1556.0,
+        2666.7,
+        1819.0,
+        2872.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "RADICAL",
+          "auteur": null,
+          "tier": "STORY"
+        },
+        {
+          "titre": "The Life of RICHARD OASTLER",
+          "auteur": null,
+          "tier": "STORY"
+        },
+        {
+          "titre": "CECIL DRIVER",
+          "auteur": null,
+          "tier": "STORY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1988.4,
+        2736.5,
+        2032.0,
+        2758.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WAY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        636.6,
+        2749.6,
+        841.6,
+        2889.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "THE CASE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FOR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONSERVATISM",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "QUINTIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HOGG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        161.2,
+        2801.9,
+        405.7,
+        2946.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ationalism",
+          "auteur": "in politics and",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2126.9,
+        2880.5,
+        2272.8,
+        2944.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WAY",
+          "auteur": "HAROLD MACMILLAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1133.7,
+        2889.2,
+        1343.0,
+        2994.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "by",
+          "auteur": "Anthony Al. Ludobici",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2520.3,
+        2937.2,
+        2677.3,
+        2959.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CONINGSBY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2437.5,
+        2993.9,
+        2742.7,
+        3085.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Benjamin Disraeli",
+          "auteur": "CONINGSBY; OR, THE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        161.3,
+        2998.0,
+        309.6,
+        3007.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NEW AND EXPANDED EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2014.5,
+        3024.0,
+        2276.2,
+        3051.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE MIDDLE WAY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        597.4,
+        3046.0,
+        828.5,
+        3102.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE CASE FOR",
+          "auteur": "CONSERVATISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1526.0,
+        3046.0,
+        1818.3,
+        3134.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "TORY RADICAL",
+          "tier": null
+        },
+        {
+          "titre": "LIFE OF RICHARD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OASTLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        126.5,
+        3050.6,
+        431.7,
+        3137.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "RATIONALISM IN",
+          "auteur": "POLITICS AND OTHER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1050.9,
+        3050.6,
+        1268.9,
+        3107.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A DEFENCE OF",
+          "auteur": "ARISTOCRACY",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

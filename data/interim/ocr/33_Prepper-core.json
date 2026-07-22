@@ -1,0 +1,2863 @@
+{
+  "fichier": "33_Prepper-core.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:57:37.536776+00:00",
+  "duree_s": 3.7,
+  "taille_origine": [
+    3584,
+    2484
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 259,
+  "lignes": [
+    {
+      "texte": "Communist",
+      "texte_balise": "Communist",
+      "bbox": [
+        2608.8,
+        2.0,
+        2918.3,
+        117.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lt. Col. Dave Grossman",
+      "texte_balise": "Lt. Col. Dave Grossman",
+      "bbox": [
+        1104.4,
+        10.0,
+        1281.5,
+        36.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Book of",
+      "texte_balise": "The Book of",
+      "bbox": [
+        2286.9,
+        15.6,
+        2536.9,
+        57.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRIOT",
+      "texte_balise": "PATRIOT",
+      "bbox": [
+        62.5,
+        20.8,
+        260.5,
+        57.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRINCIPLES OF",
+      "texte_balise": "PRINCIPLES OF",
+      "bbox": [
+        343.8,
+        20.8,
+        619.9,
+        62.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MOHAMMED'S",
+      "texte_balise": "MOHAMMED'S",
+      "bbox": [
+        698.0,
+        46.7,
+        927.3,
+        77.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON KILLING",
+      "texte_balise": "ON KILLING",
+      "bbox": [
+        1057.5,
+        46.7,
+        1281.5,
+        72.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1713.9,
+        46.7,
+        1880.6,
+        114.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERSONAL",
+      "texte_balise": "PERSONAL",
+      "bbox": [
+        421.8,
+        56.2,
+        620.1,
+        99.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRE TEAM",
+      "texte_balise": "FIRE TEAM",
+      "bbox": [
+        31.3,
+        62.0,
+        286.5,
+        103.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAS",
+      "texte_balise": "SAS",
+      "bbox": [
+        2922.4,
+        62.3,
+        3250.6,
+        254.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Five Rings",
+      "texte_balise": "Five Rings",
+      "bbox": [
+        2286.9,
+        67.5,
+        2516.1,
+        109.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMMON SENSE",
+      "texte_balise": "COMMON SENSE",
+      "bbox": [
+        2016.0,
+        72.7,
+        2214.0,
+        98.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        3271.4,
+        83.1,
+        3339.2,
+        119.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KORAN",
+      "texte_balise": "KORAN",
+      "bbox": [
+        755.2,
+        87.9,
+        875.3,
+        119.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEFENSE",
+      "texte_balise": "DEFENSE",
+      "bbox": [
+        458.1,
+        97.2,
+        620.2,
+        131.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifesto",
+      "texte_balise": "Manifesto",
+      "bbox": [
+        2630.7,
+        109.1,
+        2901.6,
+        218.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Way",
+      "texte_balise": "Way",
+      "bbox": [
+        3271.4,
+        109.1,
+        3339.2,
+        150.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Illustrated",
+      "texte_balise": "Illustrated",
+      "bbox": [
+        3386.0,
+        109.1,
+        3479.8,
+        135.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Encyclopedia",
+      "texte_balise": "Encyclopedia",
+      "bbox": [
+        3385.9,
+        129.0,
+        3516.5,
+        161.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ART of",
+      "texte_balise": "ART of",
+      "bbox": [
+        1666.8,
+        134.5,
+        1917.2,
+        203.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Things",
+      "texte_balise": "Things",
+      "bbox": [
+        3281.9,
+        145.4,
+        3375.6,
+        171.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Work",
+      "texte_balise": "Work",
+      "bbox": [
+        3276.7,
+        171.4,
+        3349.6,
+        197.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Technology",
+      "texte_balise": "Technology",
+      "bbox": [
+        3380.8,
+        181.8,
+        3495.4,
+        207.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        1703.4,
+        223.3,
+        1896.2,
+        290.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON WAR",
+      "texte_balise": "ON WAR",
+      "bbox": [
+        1307.5,
+        238.8,
+        1614.9,
+        306.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        2938.0,
+        238.9,
+        3245.4,
+        306.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jeff",
+      "texte_balise": "Jeff",
+      "bbox": [
+        494.9,
+        254.5,
+        552.2,
+        280.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cooper",
+      "texte_balise": "Cooper",
+      "bbox": [
+        494.9,
+        280.4,
+        604.3,
+        311.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANDBOOK",
+      "texte_balise": "HANDBOOK",
+      "bbox": [
+        2938.0,
+        295.6,
+        3245.5,
+        358.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Carl von Clausewitz",
+      "texte_balise": "Carl von Clausewitz",
+      "bbox": [
+        1307.5,
+        332.4,
+        1614.9,
+        368.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Why Muslims Kill For Islam",
+      "texte_balise": "Why Muslims Kill For Islam",
+      "bbox": [
+        687.6,
+        337.6,
+        932.5,
+        363.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[THE ULTIMATE GUIDE TO\"",
+      "texte_balise": "[THE ULTIMATE GUIDE TO\"",
+      "bbox": [
+        2952.2,
+        343.7,
+        3221.0,
+        396.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        30.7,
+        350.0,
+        287.0,
+        403.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUN TZU",
+      "texte_balise": "SUN TZU",
+      "bbox": [
+        1640.8,
+        378.3,
+        1943.2,
+        442.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVING ANYWHERE",
+      "texte_balise": "SURVIVING ANYWHERE",
+      "bbox": [
+        2974.5,
+        378.7,
+        3229.8,
+        420.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tommy Robinson",
+      "texte_balise": "Tommy Robinson",
+      "bbox": [
+        687.6,
+        394.7,
+        812.7,
+        420.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARL MARX & FREDERICK ENGELS",
+      "texte_balise": "KARL MARX & FREDERICK ENGELS",
+      "bbox": [
+        2599.4,
+        410.3,
+        2927.6,
+        436.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAUL MARKEL",
+      "texte_balise": "PAUL MARKEL",
+      "bbox": [
+        31.3,
+        420.7,
+        291.7,
+        451.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN 'LOFTY WISEMAN",
+      "texte_balise": "JOHN 'LOFTY WISEMAN",
+      "bbox": [
+        2938.0,
+        420.7,
+        3245.4,
+        462.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTERNATION",
+      "texte_balise": "INTERNATION",
+      "bbox": [
+        2656.7,
+        457.0,
+        2740.1,
+        462.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Miyamoto Musashi",
+      "texte_balise": "Miyamoto Musashi",
+      "bbox": [
+        2328.6,
+        462.2,
+        2599.4,
+        493.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC MULTI",
+      "texte_balise": "THE CLASSIC MULTI",
+      "bbox": [
+        2943.3,
+        472.6,
+        3047.4,
+        483.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "—New York Times Besseller-",
+      "texte_balise": "—New York Times Besseller-",
+      "bbox": [
+        2042.0,
+        508.6,
+        2229.6,
+        534.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RULES",
+      "texte_balise": "RULES",
+      "bbox": [
+        2620.3,
+        514.1,
+        2734.9,
+        545.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U.S. ARMY",
+      "texte_balise": "U.S. ARMY",
+      "bbox": [
+        3312.8,
+        523.0,
+        3511.4,
+        567.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Madison and John Jay",
+      "texte_balise": "James Madison and John Jay",
+      "bbox": [
+        1031.4,
+        534.6,
+        1234.6,
+        560.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Guerrilla Warfare",
+      "texte_balise": "On Guerrilla Warfare",
+      "bbox": [
+        1328.4,
+        539.6,
+        1599.3,
+        571.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAINING FOR",
+      "texte_balise": "TRAINING FOR",
+      "bbox": [
+        1677.4,
+        539.6,
+        1880.6,
+        566.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR",
+      "texte_balise": "FOR",
+      "bbox": [
+        2620.3,
+        545.3,
+        2693.2,
+        571.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ", ARMY",
+      "texte_balise": ", ARMY",
+      "bbox": [
+        3063.1,
+        555.6,
+        3203.7,
+        592.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "U.S.",
+      "texte_balise": "U.S.",
+      "bbox": [
+        2974.5,
+        555.7,
+        3068.3,
+        597.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRST AID",
+      "texte_balise": "FIRST AID",
+      "bbox": [
+        3317.9,
+        564.3,
+        3506.2,
+        609.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SUDDEN VIOLENCE",
+      "texte_balise": "SUDDEN VIOLENCE",
+      "bbox": [
+        1677.4,
+        565.6,
+        1948.3,
+        597.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FEDERALIST",
+      "texte_balise": "THE FEDERALIST",
+      "bbox": [
+        1021.0,
+        571.3,
+        1255.4,
+        597.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUSH",
+      "texte_balise": "BUSH",
+      "bbox": [
+        1990.0,
+        571.3,
+        2266.0,
+        644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Encyclopedia of",
+      "texte_balise": "The Encyclopedia of",
+      "bbox": [
+        83.2,
+        575.5,
+        245.0,
+        608.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PAPERS",
+      "texte_balise": "PAPERS",
+      "bbox": [
+        1083.5,
+        597.2,
+        1187.7,
+        628.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUERRI",
+      "texte_balise": "GUERRI",
+      "bbox": [
+        2964.1,
+        597.2,
+        3141.2,
+        633.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ILA",
+      "texte_balise": "ILA",
+      "bbox": [
+        3162.0,
+        597.2,
+        3214.1,
+        628.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COUNTRY",
+      "texte_balise": "COUNTRY",
+      "bbox": [
+        20.3,
+        600.5,
+        313.1,
+        682.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        3333.8,
+        606.9,
+        3495.6,
+        644.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G",
+      "texte_balise": "G",
+      "bbox": [
+        2500.5,
+        623.2,
+        2547.3,
+        685.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASIC",
+      "texte_balise": "BASIC",
+      "bbox": [
+        739.6,
+        638.3,
+        896.2,
+        691.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARBARI",
+      "texte_balise": "WARBARI",
+      "bbox": [
+        2984.9,
+        638.8,
+        3203.7,
+        669.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CRAFT",
+      "texte_balise": "CRAFT",
+      "bbox": [
+        1989.8,
+        643.4,
+        2266.2,
+        712.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOREWDRO BY ANNE APPLEBAUR",
+      "texte_balise": "FOREWDRO BY ANNE APPLEBAUR",
+      "bbox": [
+        2307.7,
+        643.5,
+        2453.6,
+        654.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Volume 3",
+      "texte_balise": "Volume 3",
+      "bbox": [
+        2312.9,
+        664.5,
+        2427.5,
+        690.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RADICALS",
+      "texte_balise": "RADICALS",
+      "bbox": [
+        2634.7,
+        672.1,
+        2928.9,
+        802.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIVING",
+      "texte_balise": "LIVING",
+      "bbox": [
+        52.0,
+        674.9,
+        281.4,
+        732.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANDBOOK",
+      "texte_balise": "HANDBOOK",
+      "bbox": [
+        2958.9,
+        675.1,
+        3219.3,
+        716.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FEDERALIST:",
+      "texte_balise": "FEDERALIST:",
+      "bbox": [
+        1015.8,
+        690.7,
+        1265.9,
+        721.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ECONOMICS",
+      "texte_balise": "ECONOMICS",
+      "bbox": [
+        661.6,
+        695.9,
+        974.1,
+        742.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "101%",
+      "texte_balise": "101%",
+      "bbox": [
+        1994.2,
+        708.6,
+        2199.3,
+        781.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A COLLECTION OF",
+      "texte_balise": "A COLLECTION OF",
+      "bbox": [
+        1057.5,
+        737.4,
+        1213.8,
+        763.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Citizen's Guide to the Economy",
+      "texte_balise": "A Citizen's Guide to the Economy",
+      "bbox": [
+        677.2,
+        758.2,
+        958.5,
+        794.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ES SAYS,",
+      "texte_balise": "ES SAYS,",
+      "bbox": [
+        1031.4,
+        768.4,
+        1255.4,
+        799.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feld Guide to",
+      "texte_balise": "Feld Guide to",
+      "bbox": [
+        2010.8,
+        784.2,
+        2240.0,
+        815.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "-the Art of —",
+      "texte_balise": "-the Art of —",
+      "bbox": [
+        2068.1,
+        815.1,
+        2229.6,
+        831.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS SOWELL",
+      "texte_balise": "THOMAS SOWELL",
+      "bbox": [
+        708.5,
+        815.3,
+        932.5,
+        846.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "72 Practical Drills",
+      "texte_balise": "72 Practical Drills",
+      "bbox": [
+        1682.6,
+        820.4,
+        1911.8,
+        851.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILDERNESS",
+      "texte_balise": "WILDERNESS",
+      "bbox": [
+        2047.3,
+        836.1,
+        2250.4,
+        867.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW CONSTITUTION,",
+      "texte_balise": "NEW CONSTITUTION,",
+      "bbox": [
+        979.3,
+        862.1,
+        1286.7,
+        888.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        2052.5,
+        867.3,
+        2245.2,
+        893.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CONSTITUTION",
+      "texte_balise": "THE CONSTITUTION",
+      "bbox": [
+        333.4,
+        872.4,
+        640.7,
+        898.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN EXPERIMENT IN LITERARY INVESTIGATION",
+      "texte_balise": "AN EXPERIMENT IN LITERARY INVESTIGATION",
+      "bbox": [
+        2307.7,
+        872.4,
+        2552.6,
+        898.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "for Realistic",
+      "texte_balise": "for Realistic",
+      "bbox": [
+        2724.5,
+        898.4,
+        2818.2,
+        919.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OR THE",
+      "texte_balise": "OR THE",
+      "bbox": [
+        437.6,
+        903.4,
+        531.3,
+        914.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rory Miller",
+      "texte_balise": "Rory Miller",
+      "bbox": [
+        1682.6,
+        903.4,
+        1823.3,
+        929.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNITED STATES",
+      "texte_balise": "UNITED STATES",
+      "bbox": [
+        369.9,
+        914.0,
+        599.1,
+        945.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AS AGREED UPON BY THI",
+      "texte_balise": "AS AGREED UPON BY THI",
+      "bbox": [
+        1052.3,
+        914.0,
+        1213.8,
+        924.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEKSANDR SOLZHENITSYN",
+      "texte_balise": "ALEKSANDR SOLZHENITSYN",
+      "bbox": [
+        2302.5,
+        919.2,
+        2547.3,
+        945.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FEDERAL CONVENTION,",
+      "texte_balise": "FEDERAL CONVENTION,",
+      "bbox": [
+        1000.2,
+        934.3,
+        1271.1,
+        960.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mao Tse-tuna",
+      "texte_balise": "Mao Tse-tuna",
+      "bbox": [
+        1489.9,
+        945.2,
+        1594.0,
+        960.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "..its only keepers, the people",
+      "texte_balise": "..its only keepers, the people",
+      "bbox": [
+        380.3,
+        950.3,
+        599.1,
+        976.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saul D. Alinsky",
+      "texte_balise": "Saul D. Alinsky",
+      "bbox": [
+        2724.5,
+        950.3,
+        2917.2,
+        976.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Denartment of the Army",
+      "texte_balise": "Denartment of the Army",
+      "bbox": [
+        3000.6,
+        950.3,
+        3177.7,
+        960.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEPARTMENT OF THE ARMY",
+      "texte_balise": "DEPARTMENT OF THE ARMY",
+      "bbox": [
+        3302.7,
+        950.3,
+        3531.9,
+        976.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COPIES SOLD",
+      "texte_balise": "COPIES SOLD",
+      "bbox": [
+        20.8,
+        955.3,
+        88.6,
+        976.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HARPERPERENNIAL CO",
+      "texte_balise": "HARPERPERENNIAL CO",
+      "bbox": [
+        2307.7,
+        955.3,
+        2417.1,
+        971.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEPTEMBER. -3-",
+      "texte_balise": "SEPTEMBER. -3-",
+      "bbox": [
+        1057.5,
+        976.3,
+        1219.0,
+        986.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Notional Rastcallay",
+      "texte_balise": "Notional Rastcallay",
+      "bbox": [
+        2620.3,
+        997.1,
+        2875.5,
+        1007.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAROE",
+      "texte_balise": "WAROE",
+      "bbox": [
+        1640.8,
+        1001.7,
+        1948.4,
+        1080.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*Nursing Drug Guide",
+      "texte_balise": "*Nursing Drug Guide",
+      "bbox": [
+        52.1,
+        1007.3,
+        270.9,
+        1038.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOK 1 OF THE SURVIVALIST SERIE",
+      "texte_balise": "BOOK 1 OF THE SURVIVALIST SERIE",
+      "bbox": [
+        2016.0,
+        1007.3,
+        2214.0,
+        1018.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM R.FORSTCHEN",
+      "texte_balise": "WILLIAM R.FORSTCHEN",
+      "bbox": [
+        3287.1,
+        1012.3,
+        3547.5,
+        1038.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        755.3,
+        1012.7,
+        802.2,
+        1043.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRIOTS",
+      "texte_balise": "PATRIOTS",
+      "bbox": [
+        2291.9,
+        1017.1,
+        2589.2,
+        1086.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FM 21-76",
+      "texte_balise": "FM 21-76",
+      "bbox": [
+        416.7,
+        1017.9,
+        588.7,
+        1064.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OVER TWO MILLION COPIES SOLO",
+      "texte_balise": "OVER TWO MILLION COPIES SOLO",
+      "bbox": [
+        1031.4,
+        1017.9,
+        1229.4,
+        1028.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GOING",
+      "texte_balise": "GOING",
+      "bbox": [
+        2005.2,
+        1032.2,
+        2230.0,
+        1102.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DISASTER",
+      "texte_balise": "DISASTER",
+      "bbox": [
+        671.7,
+        1042.8,
+        885.9,
+        1102.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nursing 2017",
+      "texte_balise": "Nursing 2017",
+      "bbox": [
+        51.7,
+        1047.4,
+        266.1,
+        1102.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JORDAN B",
+      "texte_balise": "JORDAN B",
+      "bbox": [
+        989.8,
+        1049.0,
+        1271.1,
+        1090.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        3073.5,
+        1054.2,
+        3125.6,
+        1080.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEPARTMENT OF THE ARMY FIELD MANUAL",
+      "texte_balise": "SEPARTMENT OF THE ARMY FIELD MANUAL",
+      "bbox": [
+        385.5,
+        1059.2,
+        578.2,
+        1085.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FLEA",
+      "texte_balise": "THE FLEA",
+      "bbox": [
+        1640.9,
+        1064.2,
+        1948.3,
+        1132.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        2963.7,
+        1073.4,
+        3235.3,
+        1139.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONE",
+      "texte_balise": "ONE",
+      "bbox": [
+        3328.4,
+        1079.5,
+        3495.8,
+        1164.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IN ANOVEL OR",
+      "texte_balise": "IN ANOVEL OR",
+      "bbox": [
+        2307.7,
+        1085.2,
+        2443.2,
+        1127.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        2443.2,
+        1085.4,
+        2542.1,
+        1111.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FLEA",
+      "texte_balise": "THE FLEA",
+      "bbox": [
+        1646.1,
+        1086.5,
+        1943.1,
+        1134.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        2964.0,
+        1086.5,
+        3235.1,
+        1144.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEADLY",
+      "texte_balise": "DEADLY",
+      "bbox": [
+        2620.2,
+        1090.3,
+        2823.5,
+        1132.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL OF SURVIVAL",
+      "texte_balise": "A NOVEL OF SURVIVAL",
+      "bbox": [
+        2328.6,
+        1092.0,
+        2547.3,
+        1118.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETERSON",
+      "texte_balise": "PETERSON",
+      "bbox": [
+        989.8,
+        1095.8,
+        1271.1,
+        1137.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRUG",
+      "texte_balise": "DRUG",
+      "bbox": [
+        46.2,
+        1099.3,
+        271.5,
+        1190.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIARIES",
+      "texte_balise": "DIARIES",
+      "bbox": [
+        692.5,
+        1099.9,
+        870.3,
+        1159.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOME",
+      "texte_balise": "HOME",
+      "bbox": [
+        1974.0,
+        1110.5,
+        2261.2,
+        1216.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIARIES",
+      "texte_balise": "DIARIES",
+      "bbox": [
+        692.6,
+        1112.3,
+        865.0,
+        1165.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INFINE COMING COLLARD:",
+      "texte_balise": "INFINE COMING COLLARD:",
+      "bbox": [
+        2307.7,
+        1118.0,
+        2557.8,
+        1129.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC STUDY",
+      "texte_balise": "THE CLASSIC STUDY",
+      "bbox": [
+        1646.1,
+        1126.9,
+        1901.4,
+        1158.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEDICINE",
+      "texte_balise": "MEDICINE",
+      "bbox": [
+        2964.0,
+        1131.7,
+        3235.1,
+        1194.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SKILLS",
+      "texte_balise": "SKILLS",
+      "bbox": [
+        2620.0,
+        1136.3,
+        2797.6,
+        1179.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUERRILLA WARFARE",
+      "texte_balise": "GUERRILLA WARFARE",
+      "bbox": [
+        1651.3,
+        1152.9,
+        1937.9,
+        1179.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERRILLA WARFAI",
+      "texte_balise": "ERRILLA WARFAI",
+      "bbox": [
+        1687.8,
+        1154.5,
+        1901.4,
+        1180.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL",
+      "texte_balise": "SURVIVAL",
+      "bbox": [
+        390.7,
+        1178.9,
+        573.0,
+        1236.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONE MAN'S QUEST TO",
+      "texte_balise": "ONE MAN'S QUEST TO",
+      "bbox": [
+        760.6,
+        1180.5,
+        922.0,
+        1206.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANDBOOK",
+      "texte_balise": "HANDBOOK",
+      "bbox": [
+        51.5,
+        1181.9,
+        276.7,
+        1248.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ONE MANIC QUEST TO",
+      "texte_balise": "ONE MANIC QUEST TO",
+      "bbox": [
+        760.6,
+        1184.1,
+        916.8,
+        1194.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The SEAL Operativo's Guide",
+      "texte_balise": "The SEAL Operativo's Guide",
+      "bbox": [
+        2620.3,
+        1184.1,
+        2880.7,
+        1210.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "W",
+      "texte_balise": "W",
+      "bbox": [
+        1432.6,
+        1185.7,
+        1489.9,
+        1237.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12 RULES",
+      "texte_balise": "12 RULES",
+      "bbox": [
+        1026.2,
+        1189.1,
+        1229.4,
+        1231.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The SEAL Operatives Guide",
+      "texte_balise": "The SEAL Operatives Guide",
+      "bbox": [
+        2620.3,
+        1190.9,
+        2875.5,
+        1206.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Handbook",
+      "texte_balise": "Handbook",
+      "bbox": [
+        3026.4,
+        1193.3,
+        3172.7,
+        1226.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SECOND",
+      "texte_balise": "SECOND",
+      "bbox": [
+        3250.5,
+        1204.5,
+        3578.9,
+        1288.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "to Eluding Pursuero,",
+      "texte_balise": "to Eluding Pursuero,",
+      "bbox": [
+        2620.3,
+        1204.8,
+        2823.4,
+        1231.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEARN EVERYTHINI",
+      "texte_balise": "LEARN EVERYTHINI",
+      "bbox": [
+        771.0,
+        1211.6,
+        906.4,
+        1222.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NECESSARY TO SURVIVE",
+      "texte_balise": "NECESSARY TO SURVIVE",
+      "bbox": [
+        750.1,
+        1220.1,
+        932.5,
+        1251.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NECESSARY TO SURVIVE",
+      "texte_balise": "NECESSARY TO SURVIVE",
+      "bbox": [
+        750.1,
+        1232.4,
+        927.3,
+        1248.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Evadine Canture and Survivin",
+      "texte_balise": "Evadine Canture and Survivin",
+      "bbox": [
+        2620.3,
+        1236.0,
+        2912.0,
+        1246.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR LIFE",
+      "texte_balise": "FOR LIFE",
+      "bbox": [
+        1031.3,
+        1245.9,
+        1229.5,
+        1288.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE APOCALYPSE",
+      "texte_balise": "THE APOCALYPSE",
+      "bbox": [
+        776.2,
+        1256.8,
+        901.2,
+        1267.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Any Dangerous Situation",
+      "texte_balise": "Any Dangerous Situation",
+      "bbox": [
+        2625.5,
+        1256.8,
+        2849.5,
+        1267.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JA NOVEL",
+      "texte_balise": "JA NOVEL",
+      "bbox": [
+        2000.4,
+        1282.7,
+        2068.1,
+        1303.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "R",
+      "texte_balise": "R",
+      "bbox": [
+        1443.0,
+        1293.1,
+        1479.4,
+        1365.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZA HUVEL",
+      "texte_balise": "ZA HUVEL",
+      "bbox": [
+        2000.4,
+        1294.7,
+        2062.9,
+        1305.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AN ANTIDOTE TO CHAOS",
+      "texte_balise": "AN ANTIDOTE TO CHAOS",
+      "bbox": [
+        1031.4,
+        1309.8,
+        1229.4,
+        1336.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AN ANTINOTE TO CHANC",
+      "texte_balise": "AN ANTINOTE TO CHANC",
+      "bbox": [
+        1036.7,
+        1313.9,
+        1224.2,
+        1324.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "+",
+      "texte_balise": "+",
+      "bbox": [
+        3110.0,
+        1320.7,
+        3177.7,
+        1398.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAM",
+      "texte_balise": "SAM",
+      "bbox": [
+        849.1,
+        1350.3,
+        906.4,
+        1381.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ETER",
+      "texte_balise": "ETER",
+      "bbox": [
+        3328.7,
+        1357.1,
+        3578.8,
+        1455.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHERIDAN",
+      "texte_balise": "SHERIDAN",
+      "bbox": [
+        817.9,
+        1388.2,
+        948.1,
+        1419.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMERICAN",
+      "texte_balise": "AMERICAN",
+      "bbox": [
+        2031.6,
+        1409.0,
+        2245.2,
+        1450.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wol",
+      "texte_balise": "Wol",
+      "bbox": [
+        104.2,
+        1414.2,
+        151.1,
+        1424.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLINT EMERSON",
+      "texte_balise": "CLINT EMERSON",
+      "bbox": [
+        2641.1,
+        1434.8,
+        2922.4,
+        1460.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES WESLEY, RAWLES",
+      "texte_balise": "JAMES WESLEY, RAWLES",
+      "bbox": [
+        2312.9,
+        1439.7,
+        2568.2,
+        1466.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "losenh Alton Mo",
+      "texte_balise": "losenh Alton Mo",
+      "bbox": [
+        3136.0,
+        1439.7,
+        3240.2,
+        1450.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ger the App for Weekly Updates",
+      "texte_balise": "Ger the App for Weekly Updates",
+      "bbox": [
+        31.3,
+        1445.3,
+        255.3,
+        1476.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT TABER",
+      "texte_balise": "ROBERT TABER",
+      "bbox": [
+        1698.2,
+        1450.5,
+        1891.0,
+        1476.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amy Alton ARNF",
+      "texte_balise": "Amy Alton ARNF",
+      "bbox": [
+        3130.8,
+        1460.7,
+        3240.2,
+        1471.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VIOLENCE",
+      "texte_balise": "VIOLENCE",
+      "bbox": [
+        1328.2,
+        1496.4,
+        1599.5,
+        1565.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW YORK TIMES BESTSELLER",
+      "texte_balise": "NEW YORK TIMES BESTSELLER",
+      "bbox": [
+        661.6,
+        1502.5,
+        963.7,
+        1544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NATIONAL BESTSELLER",
+      "texte_balise": "NATIONAL BESTSELLER",
+      "bbox": [
+        1958.7,
+        1502.5,
+        2266.0,
+        1512.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1088.7,
+        1518.0,
+        1166.9,
+        1544.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIEN-HANG T. NGUYEN",
+      "texte_balise": "LIEN-HANG T. NGUYEN",
+      "bbox": [
+        3318.3,
+        1528.4,
+        3516.3,
+        1538.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DON'T",
+      "texte_balise": "DON'T",
+      "bbox": [
+        666.3,
+        1532.0,
+        964.3,
+        1633.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK DONOVAN",
+      "texte_balise": "JACK DONOVAN",
+      "bbox": [
+        1693.0,
+        1533.6,
+        1880.6,
+        1559.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES WESLEY, RAWLES",
+      "texte_balise": "JAMES WESLEY, RAWLES",
+      "bbox": [
+        1963.9,
+        1543.7,
+        2266.0,
+        1570.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE DAY OF THE",
+      "texte_balise": "THE DAY OF THE",
+      "bbox": [
+        364.5,
+        1548.4,
+        521.1,
+        1581.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAW",
+      "texte_balise": "LAW",
+      "bbox": [
+        1057.5,
+        1549.2,
+        1208.6,
+        1601.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "When Heaven",
+      "texte_balise": "When Heaven",
+      "bbox": [
+        2302.5,
+        1549.2,
+        2526.5,
+        1580.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        1422.1,
+        1559.6,
+        1500.3,
+        1616.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WAY OF MEN",
+      "texte_balise": "THE WAY OF MEN",
+      "bbox": [
+        1630.3,
+        1563.9,
+        1943.2,
+        1628.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARK ATWOOD LAWRENC",
+      "texte_balise": "MARK ATWOOD LAWRENC",
+      "bbox": [
+        2755.7,
+        1564.7,
+        2917.2,
+        1575.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOUNDER OF SURVIVALBLOG.COM",
+      "texte_balise": "FOUNDER OF SURVIVALBLOG.COM",
+      "bbox": [
+        1963.8,
+        1567.7,
+        2266.2,
+        1593.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROPE",
+      "texte_balise": "ROPE",
+      "bbox": [
+        354.2,
+        1575.2,
+        520.9,
+        1663.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMBERS",
+      "texte_balise": "EMBERS",
+      "bbox": [
+        2901.6,
+        1575.2,
+        3188.1,
+        1668.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Earth",
+      "texte_balise": "and Earth",
+      "bbox": [
+        2302.5,
+        1590.6,
+        2469.2,
+        1621.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIND",
+      "texte_balise": "MIND",
+      "bbox": [
+        1380.5,
+        1606.3,
+        1536.7,
+        1673.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Changed Places",
+      "texte_balise": "Changed Places",
+      "bbox": [
+        2307.7,
+        1626.6,
+        2568.2,
+        1663.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HURT",
+      "texte_balise": "HURT",
+      "bbox": [
+        661.3,
+        1631.5,
+        969.2,
+        1731.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVE",
+      "texte_balise": "SURVIVE",
+      "bbox": [
+        1969.1,
+        1632.3,
+        2245.2,
+        1679.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHELTERS.",
+      "texte_balise": "SHELTERS.",
+      "bbox": [
+        52.1,
+        1653.1,
+        260.5,
+        1684.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Vietnamese Woman's",
+      "texte_balise": "A Vietnamese Woman's",
+      "bbox": [
+        2302.5,
+        1668.6,
+        2500.5,
+        1694.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTAR",
+      "texte_balise": "NOTAR",
+      "bbox": [
+        2917.2,
+        1673.8,
+        3162.0,
+        1756.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE END OF",
+      "texte_balise": "THE END OF",
+      "bbox": [
+        1990.0,
+        1678.6,
+        2234.8,
+        1731.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHACKS, AND",
+      "texte_balise": "SHACKS, AND",
+      "bbox": [
+        26.0,
+        1689.4,
+        286.5,
+        1720.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANOI'S",
+      "texte_balise": "HANOI'S",
+      "bbox": [
+        3250.1,
+        1698.4,
+        3579.3,
+        1810.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Journev trom war to Peace",
+      "texte_balise": "Journev trom war to Peace",
+      "bbox": [
+        2302.5,
+        1699.6,
+        2516.1,
+        1710.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE WORLD",
+      "texte_balise": "THE WORLD",
+      "bbox": [
+        1979.5,
+        1725.5,
+        2250.4,
+        1767.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHANTIES",
+      "texte_balise": "SHANTIES",
+      "bbox": [
+        57.3,
+        1725.8,
+        260.5,
+        1756.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEOPLE",
+      "texte_balise": "PEOPLE",
+      "bbox": [
+        661.5,
+        1730.7,
+        969.0,
+        1814.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Classic Guide to",
+      "texte_balise": "The Classic Guide to",
+      "bbox": [
+        57.3,
+        1756.5,
+        260.5,
+        1777.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WE KNOW IT",
+      "texte_balise": "WE KNOW IT",
+      "bbox": [
+        1995.2,
+        1767.3,
+        2229.6,
+        1808.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Building Wilderness Shelters",
+      "texte_balise": "Building Wilderness Shelters",
+      "bbox": [
+        15.6,
+        1777.5,
+        296.9,
+        1803.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D. C. BEARD",
+      "texte_balise": "D. C. BEARD",
+      "bbox": [
+        88.6,
+        1798.5,
+        229.2,
+        1824.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WAR",
+      "texte_balise": "WAR",
+      "bbox": [
+        3271.4,
+        1803.7,
+        3578.8,
+        1897.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "D DON'T TATE",
+      "texte_balise": "D DON'T TATE",
+      "bbox": [
+        713.7,
+        1819.3,
+        927.3,
+        1840.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEIR STUFF",
+      "texte_balise": "THEIR STUFF",
+      "bbox": [
+        729.3,
+        1845.2,
+        901.2,
+        1871.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TALL OF AN EMPIRE 2",
+      "texte_balise": "THE TALL OF AN EMPIRE 2",
+      "bbox": [
+        2943.3,
+        1845.2,
+        3130.8,
+        1871.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Training and Preparation for",
+      "texte_balise": "Training and Preparation for",
+      "bbox": [
+        1328.4,
+        1850.4,
+        1583.6,
+        1876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TACTICS. TECHNIQUES",
+      "texte_balise": "TACTICS. TECHNIQUES",
+      "bbox": [
+        1963.9,
+        1850.4,
+        2266.0,
+        1876.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A LIBERTARIAN MANIFESTO",
+      "texte_balise": "A LIBERTARIAN MANIFESTO",
+      "bbox": [
+        708.5,
+        1871.2,
+        911.6,
+        1897.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Extreme Violence",
+      "texte_balise": "Extreme Violence",
+      "bbox": [
+        1375.3,
+        1881.4,
+        1542.0,
+        1907.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND TECHNOLOGIES",
+      "texte_balise": "AND TECHNOLOGIES",
+      "bbox": [
+        1979.5,
+        1881.4,
+        2255.6,
+        1907.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRÉDÉRIC",
+      "texte_balise": "FRÉDÉRIC",
+      "bbox": [
+        1015.8,
+        1886.8,
+        1255.4,
+        1923.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hal History of the War for Peace in Vietnal",
+      "texte_balise": "hal History of the War for Peace in Vietnal",
+      "bbox": [
+        3344.4,
+        1897.2,
+        3568.4,
+        1923.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VARG FREEBORN",
+      "texte_balise": "VARG FREEBORN",
+      "bbox": [
+        1302.0,
+        1900.6,
+        1615.2,
+        1971.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATT KIBBE",
+      "texte_balise": "MATT KIBBE",
+      "bbox": [
+        661.6,
+        1902.3,
+        963.7,
+        1949.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR UNCERTAIN TIMES",
+      "texte_balise": "FOR UNCERTAIN TIMES",
+      "bbox": [
+        1963.9,
+        1902.3,
+        2271.3,
+        1933.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEVON STACK",
+      "texte_balise": "DEVON STACK",
+      "bbox": [
+        364.3,
+        1916.0,
+        609.9,
+        1971.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASTIAT",
+      "texte_balise": "BASTIAT",
+      "bbox": [
+        1010.4,
+        1922.1,
+        1255.6,
+        1970.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FREDRIK LOGEVALL_",
+      "texte_balise": "FREDRIK LOGEVALL_",
+      "bbox": [
+        2943.3,
+        1928.3,
+        3250.6,
+        1959.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE LY HAYSLIP",
+      "texte_balise": "LE LY HAYSLIP",
+      "bbox": [
+        2302.5,
+        1949.1,
+        2443.2,
+        1975.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        812.7,
+        2037.4,
+        880.4,
+        2078.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        2083.7,
+        2037.4,
+        2146.2,
+        2068.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1422.1,
+        2047.8,
+        1505.5,
+        2078.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        104.2,
+        2058.1,
+        218.8,
+        2110.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anti-",
+      "texte_balise": "Anti-",
+      "bbox": [
+        786.2,
+        2072.8,
+        922.4,
+        2126.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EVERYTHING",
+      "texte_balise": "EVERYTHING",
+      "bbox": [
+        2016.0,
+        2078.9,
+        2214.0,
+        2110.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIGHTEOUS",
+      "texte_balise": "RIGHTEOUS",
+      "bbox": [
+        1349.2,
+        2089.3,
+        1573.2,
+        2120.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        448.0,
+        2110.1,
+        541.8,
+        2156.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sorrow",
+      "texte_balise": "Sorrow",
+      "bbox": [
+        46.5,
+        2113.6,
+        271.3,
+        2168.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Federalist",
+      "texte_balise": "Federalist",
+      "bbox": [
+        739.7,
+        2120.5,
+        963.7,
+        2182.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUBBLE",
+      "texte_balise": "BUBBLE",
+      "bbox": [
+        2047.1,
+        2125.1,
+        2177.7,
+        2162.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIND",
+      "texte_balise": "MIND",
+      "bbox": [
+        1400.9,
+        2134.8,
+        1516.3,
+        2173.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Quiet",
+      "texte_balise": "Quiet",
+      "bbox": [
+        432.4,
+        2151.6,
+        557.4,
+        2203.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BASICS OF",
+      "texte_balise": "BASICS OF",
+      "bbox": [
+        1657.9,
+        2156.7,
+        1905.4,
+        2231.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Endome For Centrol Bank Policy",
+      "texte_balise": "The Endome For Centrol Bank Policy",
+      "bbox": [
+        2036.8,
+        2167.2,
+        2193.1,
+        2193.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of War",
+      "texte_balise": "of War",
+      "bbox": [
+        67.4,
+        2171.3,
+        271.2,
+        2225.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Papers",
+      "texte_balise": "Papers",
+      "bbox": [
+        755.3,
+        2182.8,
+        911.6,
+        2250.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RESISTANCE",
+      "texte_balise": "RESISTANCE",
+      "bbox": [
+        1656.7,
+        2195.0,
+        1937.2,
+        2275.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "American",
+      "texte_balise": "American",
+      "bbox": [
+        395.9,
+        2198.4,
+        599.1,
+        2239.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHY GOOD",
+      "texte_balise": "WHY GOOD",
+      "bbox": [
+        1396.1,
+        2208.8,
+        1526.3,
+        2235.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEOPLE ARE DIVIDED",
+      "texte_balise": "PEOPLE ARE DIVIDED",
+      "bbox": [
+        1349.2,
+        2234.7,
+        1573.2,
+        2261.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and ha",
+      "texte_balise": "and ha",
+      "bbox": [
+        833.5,
+        2239.9,
+        890.8,
+        2250.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Constitutional",
+      "texte_balise": "Constitutional",
+      "bbox": [
+        765.6,
+        2249.4,
+        927.4,
+        2282.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL OF NORTH VIETNAM",
+      "texte_balise": "A NOVEL OF NORTH VIETNAM",
+      "bbox": [
+        5.2,
+        2255.2,
+        312.6,
+        2281.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRABIAM GREENE",
+      "texte_balise": "GRABIAM GREENE",
+      "bbox": [
+        406.3,
+        2260.7,
+        588.7,
+        2287.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRACTICAL FREEDOMISTA",
+      "texte_balise": "THE PRACTICAL FREEDOMISTA",
+      "bbox": [
+        1656.6,
+        2281.1,
+        1927.4,
+        2323.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Convention",
+      "texte_balise": "Convention",
+      "bbox": [
+        781.4,
+        2281.5,
+        911.6,
+        2307.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RELIGION",
+      "texte_balise": "RELIGION",
+      "bbox": [
+        1401.2,
+        2286.4,
+        1516.0,
+        2312.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bao Ninh",
+      "texte_balise": "Bao Ninh",
+      "bbox": [
+        52.1,
+        2307.1,
+        265.7,
+        2349.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Debates",
+      "texte_balise": "Debates",
+      "bbox": [
+        797.0,
+        2312.6,
+        896.0,
+        2338.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Being Good",
+      "texte_balise": "Being Good",
+      "bbox": [
+        1000.1,
+        2322.5,
+        1276.4,
+        2385.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JONATHAN",
+      "texte_balise": "JONATHAN",
+      "bbox": [
+        1344.0,
+        2359.4,
+        1562.8,
+        2406.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAIDT",
+      "texte_balise": "HAIDT",
+      "bbox": [
+        1401.2,
+        2405.8,
+        1526.4,
+        2437.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIMON BLACKBURN",
+      "texte_balise": "SIMON BLACKBURN",
+      "bbox": [
+        995.0,
+        2437.0,
+        1286.7,
+        2463.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

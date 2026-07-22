@@ -1,0 +1,229 @@
+{
+  "fichier": "03_Bane Pill (Bane from Batman).jpeg",
+  "date": "2026-07-21T19:28:36.312065+00:00",
+  "taille_origine": [
+    1000,
+    944
+  ],
+  "hauteur_ligne_mediane": 19.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 9,
+  "nb_noeuds": 19,
+  "tiers": [
+    "Starting",
+    "CIAS"
+  ],
+  "intitules_isoles": [
+    "> Is a big guy",
+    "> Knows that what really matters is the plan",
+    "> Not afraid of getting himself caught",
+    "> Expert plane-crasher",
+    "> Is in charge"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        379.2,
+        95.6,
+        608.3,
+        133.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BANE PILL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Starting",
+      "bbox": [
+        66.0,
+        287.8,
+        202.2,
+        384.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Strength",
+          "auteur": null,
+          "tier": "Starting"
+        },
+        {
+          "titre": "Basic Barbell Training",
+          "auteur": null,
+          "tier": "Starting"
+        },
+        {
+          "titre": "Jed Edition",
+          "auteur": null,
+          "tier": "Starting"
+        },
+        {
+          "titre": "Mark Ripperoe",
+          "auteur": null,
+          "tier": "Starting"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        416.0,
+        288.0,
+        546.0,
+        344.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Nto tocke",
+          "auteur": "Fundamentals of",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        608.0,
+        288.0,
+        718.0,
+        334.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BATMAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        851.3,
+        289.1,
+        902.7,
+        302.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Mbsb..",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CIAS",
+      "bbox": [
+        246.0,
+        310.0,
+        364.0,
+        458.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "SECRET",
+          "auteur": null,
+          "tier": "CIAS"
+        },
+        {
+          "titre": "OPERATIONS",
+          "auteur": null,
+          "tier": "CIAS"
+        },
+        {
+          "titre": "HARRY ROSITZKE",
+          "auteur": null,
+          "tier": "CIAS"
+        },
+        {
+          "titre": "Whailodekely MuMSHeroek",
+          "auteur": null,
+          "tier": "CIAS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        766.0,
+        408.0,
+        904.0,
+        450.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "STRATEGIC",
+          "auteur": "PLANNING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        418.0,
+        440.0,
+        486.0,
+        450.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "John D. Anderson, je",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        401.7,
+        592.0,
+        874.0,
+        727.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "> Is a big guy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "> Knows that what really matters is the plan",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "> Not afraid of getting himself caught",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "> Expert plane-crasher",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "> Is in charge",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

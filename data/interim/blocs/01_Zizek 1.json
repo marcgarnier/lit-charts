@@ -1,0 +1,855 @@
+{
+  "fichier": "01_Zizek 1.jpeg",
+  "date": "2026-07-21T19:28:36.225721+00:00",
+  "taille_origine": [
+    531,
+    1734
+  ],
+  "hauteur_ligne_mediane": 14.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 26,
+  "nb_noeuds": 95,
+  "tiers": [
+    "HOPE"
+  ],
+  "intitules_isoles": [
+    "Who is Zizek?",
+    "Zizek is a Slovenian Marxist",
+    "philosopher who could quite",
+    "possibly be the most popular",
+    "anti-capitalist philosopher in the",
+    "west. Even those who certainly",
+    "aren't Marxist or anti-capitalist",
+    "sometimes find reading his views",
+    "helpful as he offers a view unlike",
+    "any other in the West.",
+    "However, having written over 40 books in English, ranging from dense,",
+    "1000 page Hegelian works to >200 page interviews, it can be difficult to",
+    "know where to start. This is a general guide for someone who wants to",
+    "get into Zizek.",
+    "This is an easy sampler for Zizek, if you",
+    "understandable that you probably wouldn't",
+    "get through one of his books. The Perverts",
+    "Guide to Ideology offers a starting line for",
+    "his views and gives you an idea of what you",
+    "might be in for. You can also watch any one",
+    "number of his lectures If you like. Some will",
+    "be less accessible than others.",
+    "[as of May 2017] comments on",
+    "Election, the US election, Brexit, etc.",
+    "and soon, but for a man whose opinion",
+    "seems to change like the tides, many",
+    "fans eagerly take up his works that will",
+    "only be relevant for a month.",
+    "Impossible or Trouble in Paradise.",
+    "Demanding the Impossible is",
+    "commentating on some [at the time]",
+    "Paradise is perhaps Zizeks most",
+    "on the wide scale of the 2008 financial",
+    "read. Violence offers six different views of",
+    "how exactly violence function in this post-",
+    "neoliberal globalist society, it's purpose,",
+    "what violence even is and so on. Likely one",
+    "of his most accessible philosophical works",
+    "it has been both praised and damned by",
+    "all. This is essentially the point of no",
+    "return and if you still want more after this",
+    "it's likely you'll have a library filled with",
+    "Zizek in no time.",
+    "Neighbors",
+    "Hegel is my homeboy [note: these works are",
+    "almost inaccessible to the general public]",
+    "The Parallax View",
+    "Slavoj Zizek"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        8.0,
+        14.0,
+        223.6,
+        77.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "So you want to",
+          "auteur": "read Zizek",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4.0,
+        97.9,
+        225.6,
+        263.7
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Who is Zizek?",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Zizek is a Slovenian Marxist",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "philosopher who could quite",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "possibly be the most popular",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "anti-capitalist philosopher in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "west. Even those who certainly",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "aren't Marxist or anti-capitalist",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sometimes find reading his views",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "helpful as he offers a view unlike",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "any other in the West.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        8.0,
+        281.7,
+        507.0,
+        349.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "However, having written over 40 books in English, ranging from dense,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "1000 page Hegelian works to >200 page interviews, it can be difficult to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "know where to start. This is a general guide for someone who wants to",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "get into Zizek.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        195.6,
+        367.6,
+        487.1,
+        515.5
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "This is an easy sampler for Zizek, if you",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "can't even get through his film, it's",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "understandable that you probably wouldn't",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "get through one of his books. The Perverts",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Guide to Ideology offers a starting line for",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "his views and gives you an idea of what you",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "might be in for. You can also watch any one",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "number of his lectures If you like. Some will",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "be less accessible than others.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        43.9,
+        381.6,
+        135.7,
+        405.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE PERVERT'S",
+          "auteur": "GUIDE TO IDEOLOGY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.6,
+        599.4,
+        133.7,
+        685.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "SLAVO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE *EK",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COUR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ACIL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        195.6,
+        601.4,
+        463.1,
+        749.2
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Zizeks most recent English publication",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "[as of May 2017] comments on",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "contemporary issues such as the French",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Election, the US election, Brexit, etc.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "This will obviously be an outdated book",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and soon, but for a man whose opinion",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "seems to change like the tides, many",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "fans eagerly take up his works that will",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "only be relevant for a month.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HOPE",
+      "bbox": [
+        23.9,
+        712.9,
+        129.9,
+        797.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "LESS",
+          "auteur": null,
+          "tier": "HOPE"
+        },
+        {
+          "titre": "FLOO",
+          "auteur": null,
+          "tier": "HOPE"
+        },
+        {
+          "titre": "NESS",
+          "auteur": null,
+          "tier": "HOPE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.5,
+        835.1,
+        521.0,
+        1000.8
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Choose between Demanding the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Impossible or Trouble in Paradise.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Demanding the Impossible is",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "essentially a 200 page interview, also",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "commentating on some [at the time]",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "contemporary issues. Trouble in",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Paradise is perhaps Zizeks most",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "focused anti-capitalist work, focusing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "on the wide scale of the 2008 financial",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "collapse.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        147.6,
+        837.1,
+        233.7,
+        997.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Slavoj",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Zizek",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Trouble",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "in",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Paradise",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        35.9,
+        867.1,
+        101.0,
+        968.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "SLAVOJ",
+          "auteur": "žIŻEK'",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        75.9,
+        1048.7,
+        183.7,
+        1094.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "• SLAVOJ",
+          "auteur": "ŽIŽEK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        209.6,
+        1056.7,
+        497.1,
+        1238.5
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "Violence is the work even non-Zizek fans",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "read. Violence offers six different views of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "how exactly violence function in this post-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "neoliberal globalist society, it's purpose,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "what violence even is and so on. Likely one",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of his most accessible philosophical works",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "it has been both praised and damned by",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "all. This is essentially the point of no",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "return and if you still want more after this",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "it's likely you'll have a library filled with",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Zizek in no time.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        137.7,
+        1309.6,
+        217.6,
+        1340.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "More anti-",
+          "auteur": "capitalism?",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.0,
+        1310.4,
+        111.8,
+        1340.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "More American",
+          "auteur": "Imperialism?",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        251.5,
+        1310.4,
+        383.3,
+        1338.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "More contemporary",
+          "auteur": "issues?",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        405.2,
+        1312.4,
+        527.0,
+        1340.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "More 20th century",
+          "auteur": "communism?",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        129.8,
+        1360.4,
+        189.6,
+        1414.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "FIRST AS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TRAGEDY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEN AS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FARCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        411.2,
+        1360.4,
+        505.2,
+        1501.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "In",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Defense",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Lost:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Causes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SLAVOI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ZIZEK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        257.5,
+        1366.4,
+        367.3,
+        1430.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Refugees.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Terror and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Other Troubles",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "with the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Neighbors",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        287.5,
+        1462.3,
+        347.3,
+        1472.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Slavoy Zilck",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        105.8,
+        1504.2,
+        399.2,
+        1536.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "these works are",
+          "auteur": "Hegel is my homeboy [note",
+          "tier": null
+        },
+        {
+          "titre": "almost inaccessible to the general public]",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        287.5,
+        1558.2,
+        377.3,
+        1568.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Parallax View",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        127.7,
+        1566.2,
+        229.6,
+        1602.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LESSTHAN",
+          "auteur": "NOTHING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        137.7,
+        1667.7,
+        221.7,
+        1702.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SLAVOJ",
+          "auteur": "ZIZEK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.5,
+        1714.0,
+        327.4,
+        1726.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Slavoj Zizek",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

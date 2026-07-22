@@ -1,0 +1,1321 @@
+{
+  "fichier": "02_Horror.jpeg",
+  "date": "2026-07-21T19:28:36.293596+00:00",
+  "taille_origine": [
+    1378,
+    1438
+  ],
+  "hauteur_ligne_mediane": 13.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 64,
+  "nb_noeuds": 104,
+  "tiers": [
+    "WASHINGTON",
+    "Strange Case of Dr. Jekyll",
+    "Shirley",
+    "THE SILENCE",
+    "Dest Ghost Stories",
+    "WHARGOUL",
+    "Heart-",
+    "BDWARD LEE"
+  ],
+  "intitules_isoles": [
+    "Horror Guide",
+    "Classic Horror",
+    "Of Hill House",
+    "Rething Elinked Mis Way Come",
+    "Algernon Blackwacd",
+    "New Horror"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        611.7,
+        10.0,
+        768.3,
+        36.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Horror Guide",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.3,
+        46.0,
+        144.1,
+        67.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Classic Horror",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        682.7,
+        64.3,
+        810.1,
+        129.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Legend of",
+          "auteur": "SLEEPY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        879.0,
+        66.9,
+        1008.4,
+        142.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Complete Storics and Poems of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EDGAR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ALLAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "POE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1077.3,
+        71.0,
+        1177.6,
+        117.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Retre artille bulla i sole t",
+          "auteur": "the king",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        344.5,
+        83.4,
+        440.5,
+        123.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE TURN",
+          "auteur": "OF THE SCREW",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        202.5,
+        83.6,
+        263.1,
+        94.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRAM STOKER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1265.3,
+        85.7,
+        1317.5,
+        94.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE MONK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.1,
+        200.7,
+        108.6,
+        211.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "....",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WASHINGTON",
+      "bbox": [
+        674.4,
+        219.5,
+        831.0,
+        295.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "IRVING",
+          "auteur": null,
+          "tier": "WASHINGTON"
+        },
+        {
+          "titre": "The Legend of Sleepy Hollow",
+          "auteur": null,
+          "tier": "WASHINGTON"
+        },
+        {
+          "titre": "Washington Irving",
+          "auteur": null,
+          "tier": "WASHINGTON"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        329.8,
+        250.8,
+        455.2,
+        280.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Turn of the Screw",
+          "auteur": "Henry James",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2.1,
+        255.0,
+        79.3,
+        282.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Frankenstien",
+          "auteur": "Mary Shelly",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        169.1,
+        259.2,
+        244.3,
+        284.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dracula",
+          "auteur": "Bram Stoker",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Strange Case of Dr. Jekyll",
+      "bbox": [
+        488.6,
+        261.0,
+        638.9,
+        303.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "and Mr. Hyde",
+          "auteur": null,
+          "tier": "Strange Case of Dr. Jekyll"
+        },
+        {
+          "titre": "Robert Louis Sterenson",
+          "auteur": null,
+          "tier": "Strange Case of Dr. Jekyll"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        874.8,
+        265.0,
+        1014.7,
+        291.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Complete Stories and",
+          "auteur": "Poems of Edgar Allan Poe",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1056.5,
+        267.5,
+        1171.3,
+        293.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The King in Yellow",
+          "auteur": "Robert W. Chambers",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1211.0,
+        275.9,
+        1286.1,
+        299.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Monk",
+          "auteur": "Mattew Lewis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        27.1,
+        313.5,
+        98.1,
+        351.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CHARLES ROBERT",
+          "auteur": "MEI. MOTH THE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        150.3,
+        395.0,
+        288.1,
+        504.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "GHOST",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND HORROR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "STORIES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AMBROSE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BIERCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ghost and Horror Stories",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Ambrose Bierce",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        -0.7,
+        482.8,
+        163.6,
+        596.9
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Melmoth The Wanderer",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Charles Maturin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "zoth Century",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Commemorative Edition",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NECRONOMICON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1050.1,
+        549.7,
+        1183.9,
+        656.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE *_ BESTSELLER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FABM THE AUTHOR OF HANNIBAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THOMAS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HARRIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        874.5,
+        550.8,
+        1010.8,
+        612.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "STEPHEN",
+          "auteur": "KING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        344.5,
+        551.8,
+        407.1,
+        562.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SEMASTERMORKS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        526.1,
+        561.8,
+        657.7,
+        621.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CLIVE BARKER",
+          "auteur": "BOOKS OF BLOOD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        703.6,
+        568.5,
+        833.1,
+        610.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "RAY BRADBURY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        348.7,
+        572.7,
+        473.9,
+        596.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LAMILEGENA",
+          "auteur": "RICHARD MATHESON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1213.1,
+        587.0,
+        1340.4,
+        735.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DAN SIMMONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SONG",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KALI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Shirley",
+      "bbox": [
+        175.1,
+        608.2,
+        302.7,
+        700.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Jackson",
+          "auteur": null,
+          "tier": "Shirley"
+        },
+        {
+          "titre": "Ine Haunting",
+          "auteur": null,
+          "tier": "Shirley"
+        },
+        {
+          "titre": "Of Hill House",
+          "auteur": null,
+          "tier": "Shirley"
+        }
+      ]
+    },
+    {
+      "tier": "THE SILENCE",
+      "bbox": [
+        1025.1,
+        706.0,
+        1181.7,
+        805.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "OF THE LAMBS",
+          "auteur": null,
+          "tier": "THE SILENCE"
+        },
+        {
+          "titre": "The Silence of the Lambs",
+          "auteur": null,
+          "tier": "THE SILENCE"
+        },
+        {
+          "titre": "Thomas Harris",
+          "auteur": null,
+          "tier": "THE SILENCE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        722.4,
+        725.0,
+        822.6,
+        746.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Rething Elinked Mis Way Come",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        0.0,
+        739.9,
+        127.4,
+        785.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "IL. P LOTECRANE",
+          "auteur": "Collected Stories of H.P.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        164.9,
+        758.7,
+        313.2,
+        784.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Haunting of Hill House",
+          "auteur": "Shirley Jackson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.1,
+        765.0,
+        436.4,
+        790.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "I Am Legend",
+          "auteur": "Richard Matheson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        672.3,
+        765.0,
+        845.6,
+        859.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Something Wicked This Way",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Comes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Ray Bradbury",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE HOUSE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ON THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BORDERLAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.8,
+        767.0,
+        651.4,
+        824.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Books of Blood Volumes 1-3",
+          "auteur": "Clive Barker",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1208.9,
+        767.0,
+        1286.1,
+        792.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Song Of Kali",
+          "auteur": "Dan Simmons",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        872.7,
+        777.5,
+        947.9,
+        790.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Stephen King",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        340.3,
+        817.0,
+        446.8,
+        855.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MERVYN PEAKE",
+          "auteur": "BOY IN DARKNESS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        505.0,
+        847.7,
+        607.8,
+        874.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DEMAIAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Dest Ghost Stories",
+      "bbox": [
+        6.1,
+        925.3,
+        121.2,
+        974.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Algernon Blackwacd",
+          "auteur": null,
+          "tier": "Dest Ghost Stories"
+        },
+        {
+          "titre": "kard win as Irroditon by",
+          "auteur": null,
+          "tier": "Dest Ghost Stories"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        323.6,
+        984.0,
+        413.4,
+        1010.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Boy in Darkness",
+          "auteur": "Merryn Peake",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        490.7,
+        986.5,
+        565.8,
+        1014.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Pet Sematary",
+          "auteur": "Stephen King",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2.1,
+        990.7,
+        116.9,
+        1016.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Best Ghost Stories of",
+          "auteur": "Algernon Blackwood",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        152.3,
+        990.7,
+        275.6,
+        1028.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Casting the Runes and",
+          "auteur": "Other Ghost Stories",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        651.4,
+        997.0,
+        785.0,
+        1022.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "House on the Borderland",
+          "auteur": "William Hodgson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1.9,
+        1049.9,
+        138.0,
+        1075.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "New Horror",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1187.9,
+        1086.2,
+        1348.9,
+        1123.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOE HILL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        732.8,
+        1093.0,
+        799.7,
+        1106.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "*Der pills no pene",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WHARGOUL",
+      "bbox": [
+        1016.4,
+        1102.4,
+        1169.2,
+        1199.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DAYE",
+          "auteur": null,
+          "tier": "WHARGOUL"
+        },
+        {
+          "titre": "BROCKIE",
+          "auteur": null,
+          "tier": "WHARGOUL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        597.1,
+        1105.7,
+        663.9,
+        1139.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PILO",
+          "auteur": "FAMILY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.4,
+        1120.3,
+        144.1,
+        1137.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OCCULTATION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Heart-",
+      "bbox": [
+        1187.5,
+        1142.9,
+        1349.3,
+        1319.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Shaped",
+          "auteur": null,
+          "tier": "Heart-"
+        },
+        {
+          "titre": "Box",
+          "auteur": null,
+          "tier": "Heart-"
+        },
+        {
+          "titre": "ANDICEL",
+          "auteur": null,
+          "tier": "Heart-"
+        },
+        {
+          "titre": "Sooner or later the dedicate up",
+          "auteur": null,
+          "tier": "Heart-"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        751.6,
+        1190.7,
+        827.0,
+        1264.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BULLET",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THROUGIE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "VOUR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "FACE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        181.6,
+        1191.2,
+        323.6,
+        1225.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "the best of",
+          "auteur": "JOEL. LARSDALE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        352.9,
+        1231.1,
+        478.1,
+        1270.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TLATRO",
+          "auteur": "GROT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        352.9,
+        1287.5,
+        480.2,
+        1300.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THOMAS LGOTTI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "BDWARD LEE",
+      "bbox": [
+        672.3,
+        1287.5,
+        826.8,
+        1342.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Bullet Through Your Face",
+          "auteur": null,
+          "tier": "BDWARD LEE"
+        },
+        {
+          "titre": "Edward Lee",
+          "auteur": null,
+          "tier": "BDWARD LEE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        503.2,
+        1289.2,
+        659.8,
+        1340.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "*WILL ELLIOTT",
+          "auteur": "The Pilo Family Circus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        0.0,
+        1289.6,
+        139.9,
+        1338.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LAIRD BARRON",
+          "auteur": "Occultation",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        173.3,
+        1314.7,
+        319.4,
+        1325.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Best of Joe R. Lansdale",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.1,
+        1316.8,
+        423.8,
+        1342.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Teatro Grottesco",
+          "auteur": "Thomas Ligotti",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        839.3,
+        1323.0,
+        947.9,
+        1346.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Devil Next Door",
+          "auteur": "Tim Curran",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1008.4,
+        1329.3,
+        1142.1,
+        1354.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Whargoul",
+          "auteur": "Dave Brockie (of GWAR)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1183.8,
+        1337.7,
+        1284.0,
+        1361.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Heart-Shaped Box",
+          "auteur": "Joe Hill",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

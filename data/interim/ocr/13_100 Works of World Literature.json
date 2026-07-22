@@ -1,0 +1,1675 @@
+{
+  "fichier": "13_100 Works of World Literature.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:26.603702+00:00",
+  "duree_s": 3.3,
+  "taille_origine": [
+    3248,
+    2456
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 151,
+  "lignes": [
+    {
+      "texte": "100 Great Works of World Literature",
+      "texte_balise": "100 Great Works of World Literature",
+      "bbox": [
+        1657.0,
+        4.7,
+        2119.7,
+        33.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Novels & Short Stories",
+      "texte_balise": "Novels & Short Stories",
+      "bbox": [
+        580.7,
+        9.0,
+        930.0,
+        38.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays & Other Works",
+      "texte_balise": "Essays & Other Works",
+      "bbox": [
+        2563.5,
+        9.0,
+        2903.4,
+        42.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plays",
+      "texte_balise": "Plays",
+      "bbox": [
+        1831.7,
+        56.6,
+        1916.7,
+        89.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THRAGHIS",
+      "texte_balise": "THRAGHIS",
+      "bbox": [
+        402.6,
+        63.2,
+        512.9,
+        110.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Jorge Luis",
+      "texte_balise": "Jorge Luis",
+      "bbox": [
+        986.7,
+        79.9,
+        1095.3,
+        103.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BORGES",
+      "texte_balise": "BORGES",
+      "bbox": [
+        967.7,
+        107.9,
+        1114.3,
+        146.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VERING",
+      "texte_balise": "VERING",
+      "bbox": [
+        1166.1,
+        198.0,
+        1298.3,
+        240.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "second series",
+      "texte_balise": "second series",
+      "bbox": [
+        2898.7,
+        249.8,
+        2960.0,
+        278.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Niconuchean Ethics",
+      "texte_balise": "The Niconuchean Ethics",
+      "bbox": [
+        2247.2,
+        263.8,
+        2369.9,
+        282.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Arabian Nights",
+      "texte_balise": "The Arabian Nights",
+      "bbox": [
+        401.3,
+        339.4,
+        524.0,
+        348.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "vane Austen - Pride",
+      "texte_balise": "vane Austen - Pride",
+      "bbox": [
+        599.6,
+        339.4,
+        727.0,
+        348.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aristotle -",
+      "texte_balise": "Aristotle -",
+      "bbox": [
+        2270.8,
+        343.8,
+        2341.6,
+        362.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "shomon & 17 Other",
+      "texte_balise": "shomon & 17 Other",
+      "bbox": [
+        212.4,
+        348.7,
+        335.2,
+        372.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected Fictior",
+      "texte_balise": "Collected Fictior",
+      "bbox": [
+        972.5,
+        348.7,
+        1076.4,
+        367.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wuthering Heishts",
+      "texte_balise": "Wuthering Heishts",
+      "bbox": [
+        1161.3,
+        348.7,
+        1279.4,
+        372.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Stranger",
+      "texte_balise": "The Stranger",
+      "bbox": [
+        1369.1,
+        348.7,
+        1454.0,
+        367.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Augustine - Confession:",
+      "texte_balise": "Augustine - Confession:",
+      "bbox": [
+        2436.0,
+        348.7,
+        2591.8,
+        358.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confucius - Analects",
+      "texte_balise": "Confucius - Analects",
+      "bbox": [
+        2624.8,
+        348.7,
+        2766.5,
+        358.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Raloh Waldo Emerson -",
+      "texte_balise": "Raloh Waldo Emerson -",
+      "bbox": [
+        2827.8,
+        348.7,
+        2974.2,
+        358.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Herodotus - Histories",
+      "texte_balise": "Herodotus - Histories",
+      "bbox": [
+        3007.2,
+        348.7,
+        3148.9,
+        358.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a rejudice",
+      "texte_balise": "a rejudice",
+      "bbox": [
+        594.8,
+        357.7,
+        670.4,
+        367.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays",
+      "texte_balise": "Essays",
+      "bbox": [
+        2827.8,
+        367.6,
+        2875.0,
+        377.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aeschylus - Orestela",
+      "texte_balise": "Aeschylus - Orestela",
+      "bbox": [
+        1586.2,
+        395.7,
+        1723.1,
+        405.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GREAT DIALOGUES",
+      "texte_balise": "GREAT DIALOGUES",
+      "bbox": [
+        2818.4,
+        405.3,
+        2978.9,
+        428.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "As I",
+      "texte_balise": "As I",
+      "bbox": [
+        1392.7,
+        409.7,
+        1449.3,
+        433.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anton Chekhov's",
+      "texte_balise": "Anton Chekhov's",
+      "bbox": [
+        207.7,
+        414.7,
+        354.1,
+        424.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF PLATO",
+      "texte_balise": "OF PLATO",
+      "bbox": [
+        2846.6,
+        428.4,
+        2979.0,
+        457.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Short Stories",
+      "texte_balise": "Short Stories",
+      "bbox": [
+        207.7,
+        428.7,
+        330.5,
+        452.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAUST",
+      "texte_balise": "FAUST",
+      "bbox": [
+        1798.4,
+        432.6,
+        1917.0,
+        467.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAY DYING",
+      "texte_balise": "LAY DYING",
+      "bbox": [
+        1350.2,
+        438.3,
+        1487.1,
+        457.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HENRIK IBSEN",
+      "texte_balise": "HENRIK IBSEN",
+      "bbox": [
+        1978.1,
+        452.5,
+        2086.7,
+        461.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM FAULKNE",
+      "texte_balise": "WILLIAM FAULKNE",
+      "bbox": [
+        1350.2,
+        471.3,
+        1472.9,
+        485.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARÂNAZOV",
+      "texte_balise": "KARÂNAZOV",
+      "bbox": [
+        797.8,
+        551.5,
+        911.1,
+        579.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EXPECTATIONS",
+      "texte_balise": "EXPECTATIONS",
+      "bbox": [
+        576.0,
+        556.2,
+        745.9,
+        579.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOSTON CRITIOAL EDITION",
+      "texte_balise": "A NOSTON CRITIOAL EDITION",
+      "bbox": [
+        1345.5,
+        640.5,
+        1482.4,
+        650.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "•....",
+      "texte_balise": "•....",
+      "bbox": [
+        1784.5,
+        659.9,
+        1916.7,
+        683.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Fyodor Dostoevsky -",
+      "texte_balise": "Fyodor Dostoevsky -",
+      "bbox": [
+        953.6,
+        673.5,
+        1095.3,
+        692.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato - Dialogue",
+      "texte_balise": "Plato - Dialogue",
+      "bbox": [
+        2837.3,
+        673.5,
+        2945.9,
+        683.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Faulkner - A!",
+      "texte_balise": "William Faulkner - A!",
+      "bbox": [
+        1350.0,
+        678.0,
+        1487.5,
+        693.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joseph Conrad -",
+      "texte_balise": "Joseph Conrad -",
+      "bbox": [
+        406.0,
+        678.5,
+        514.6,
+        688.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles Dickens -",
+      "texte_balise": "Charles Dickens -",
+      "bbox": [
+        585.4,
+        678.5,
+        703.4,
+        688.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Genree Flint",
+      "texte_balise": "Genree Flint",
+      "bbox": [
+        1166.1,
+        678.5,
+        1260.5,
+        688.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Johann Wolfeant von",
+      "texte_balise": "Johann Wolfeant von",
+      "bbox": [
+        1789.2,
+        692.5,
+        1926.1,
+        716.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "short stories",
+      "texte_balise": "short stories",
+      "bbox": [
+        217.2,
+        697.5,
+        302.1,
+        707.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aneironn",
+      "texte_balise": "Aneironn",
+      "bbox": [
+        406.0,
+        697.6,
+        467.4,
+        702.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "TAO TE CHING",
+      "texte_balise": "TAO TE CHING",
+      "bbox": [
+        2832.6,
+        725.5,
+        2960.0,
+        744.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SOUND",
+      "texte_balise": "THE SOUND",
+      "bbox": [
+        33.0,
+        730.5,
+        151.1,
+        754.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CIE",
+      "texte_balise": "CIE",
+      "bbox": [
+        2223.6,
+        801.3,
+        2431.3,
+        900.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Shakespeate",
+      "texte_balise": "Shakespeate",
+      "bbox": [
+        1987.5,
+        829.5,
+        2096.1,
+        853.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TH THAT N",
+      "texte_balise": "TH THAT N",
+      "bbox": [
+        1378.5,
+        857.4,
+        1477.7,
+        881.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ONeN THE TRIES",
+      "texte_balise": "ONeN THE TRIES",
+      "bbox": [
+        576.0,
+        862.4,
+        731.7,
+        872.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE LAST",
+      "texte_balise": "THE LAST",
+      "bbox": [
+        1005.6,
+        876.4,
+        1076.4,
+        886.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IS A TRUNG MAN",
+      "texte_balise": "IS A TRUNG MAN",
+      "bbox": [
+        604.3,
+        881.4,
+        712.9,
+        900.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "99228",
+      "texte_balise": "99228",
+      "bbox": [
+        1657.0,
+        989.8,
+        1746.7,
+        1022.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Franz Kafka - The Castle",
+      "texte_balise": "Franz Kafka - The Castle",
+      "bbox": [
+        944.2,
+        999.2,
+        1114.1,
+        1018.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Joyce - Ulveser",
+      "texte_balise": "James Joyce - Ulveser",
+      "bbox": [
+        779.0,
+        1003.9,
+        915.9,
+        1013.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Franz Kafka - The Tri",
+      "texte_balise": "Franz Kafka - The Tri",
+      "bbox": [
+        1326.6,
+        1003.9,
+        1472.9,
+        1013.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lao Tzu - Tao Te Chins",
+      "texte_balise": "Lao Tzu - Tao Te Chins",
+      "bbox": [
+        2809.0,
+        1003.9,
+        2964.7,
+        1013.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pillow Bool",
+      "texte_balise": "The Pillow Bool",
+      "bbox": [
+        2469.0,
+        1008.3,
+        2558.7,
+        1032.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sound and the Fury",
+      "texte_balise": "Sound and the Fury",
+      "bbox": [
+        18.9,
+        1027.3,
+        141.6,
+        1037.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kalidasa - Sakuntala",
+      "texte_balise": "Kalidasa - Sakuntala",
+      "bbox": [
+        1591.0,
+        1027.3,
+        1727.9,
+        1037.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORMAC MCCARTHY",
+      "texte_balise": "CORMAC MCCARTHY",
+      "bbox": [
+        948.9,
+        1046.2,
+        1137.7,
+        1070.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complete works",
+      "texte_balise": "Complete works",
+      "bbox": [
+        1973.3,
+        1046.2,
+        2081.9,
+        1056.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other Resources",
+      "texte_balise": "Other Resources",
+      "bbox": [
+        2572.9,
+        1060.2,
+        2832.6,
+        1089.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "he Complote Play",
+      "texte_balise": "he Complote Play",
+      "bbox": [
+        1586.2,
+        1098.2,
+        1727.9,
+        1122.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.interleaves.org/~ rteeter/greatbooks.html: Amazing site that catalogs nearly any",
+      "texte_balise": "www.interleaves.org/~ rteeter/greatbooks.html: Amazing site that catalogs nearly any",
+      "bbox": [
+        2195.2,
+        1098.2,
+        3181.9,
+        1131.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "www.interleaves.org/ rteeter/greatbooks.html: Amazing site that catalogs nearly any",
+      "texte_balise": "www.interleaves.org/ rteeter/greatbooks.html: Amazing site that catalogs nearly any",
+      "bbox": [
+        2195.2,
+        1098.6,
+        3181.9,
+        1132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "blood meridian",
+      "texte_balise": "blood meridian",
+      "bbox": [
+        986.7,
+        1102.9,
+        1095.3,
+        1112.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "le complete rIC",
+      "texte_balise": "le complete rIC",
+      "bbox": [
+        1595.7,
+        1108.0,
+        1713.7,
+        1117.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the ening redeve in the well",
+      "texte_balise": "the ening redeve in the well",
+      "bbox": [
+        977.2,
+        1117.1,
+        1114.1,
+        1145.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yasunari",
+      "texte_balise": "Yasunari",
+      "bbox": [
+        9.4,
+        1131.2,
+        136.9,
+        1154.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "literary list you could think of, from lifetime reading plans to university reading lists.",
+      "texte_balise": "literary list you could think of, from lifetime reading plans to university reading lists.",
+      "bbox": [
+        2195.2,
+        1135.9,
+        3177.2,
+        1164.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yasunar",
+      "texte_balise": "Yasunar",
+      "bbox": [
+        193.6,
+        1136.3,
+        311.6,
+        1159.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Kawabata",
+      "texte_balise": "Kawabata",
+      "bbox": [
+        9.4,
+        1155.1,
+        170.0,
+        1183.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "owoooto",
+      "texte_balise": "owoooto",
+      "bbox": [
+        23.6,
+        1159.3,
+        165.3,
+        1178.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "awabate",
+      "texte_balise": "awabate",
+      "bbox": [
+        207.7,
+        1159.5,
+        354.1,
+        1183.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "awebate",
+      "texte_balise": "awebate",
+      "bbox": [
+        203.0,
+        1159.8,
+        354.1,
+        1183.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ONE HOTTES",
+      "texte_balise": "ONE HOTTES",
+      "bbox": [
+        779.0,
+        1164.6,
+        930.0,
+        1183.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "DELEELE",
+      "texte_balise": "DELEELE",
+      "bbox": [
+        779.0,
+        1168.9,
+        925.3,
+        1178.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Harold Bloom's Western Canon: A gigantic list detailing the most important works of",
+      "texte_balise": "Harold Bloom's Western Canon: A gigantic list detailing the most important works of",
+      "bbox": [
+        2195.2,
+        1173.2,
+        3177.2,
+        1197.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Snow",
+      "texte_balise": "Snow",
+      "bbox": [
+        4.7,
+        1183.0,
+        80.3,
+        1201.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crane",
+      "texte_balise": "Crane",
+      "bbox": [
+        193.6,
+        1183.0,
+        278.5,
+        1234.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and",
+      "texte_balise": "and",
+      "bbox": [
+        283.3,
+        1183.0,
+        330.5,
+        1211.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "snow",
+      "texte_balise": "snow",
+      "bbox": [
+        9.4,
+        1188.1,
+        80.3,
+        1207.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "cranes",
+      "texte_balise": "cranes",
+      "bbox": [
+        198.3,
+        1192.8,
+        297.4,
+        1230.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Country",
+      "texte_balise": "Country",
+      "bbox": [
+        9.4,
+        1201.9,
+        113.3,
+        1225.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "literature to the Western world, from The Epic of Gilgamesh to Angels in America.",
+      "texte_balise": "literature to the Western world, from The Epic of Gilgamesh to Angels in America.",
+      "bbox": [
+        2195.2,
+        1201.9,
+        3153.6,
+        1230.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "https://encyclopediadramatica.se/Bookz: A tutorial on how to use #bookz, an",
+      "texte_balise": "https://encyclopediadramatica.se/Bookz: A tutorial on how to use #bookz, an",
+      "bbox": [
+        2200.0,
+        1239.1,
+        3111.1,
+        1268.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRC channel that has the largest free base of books on the internet",
+      "texte_balise": "IRC channel that has the largest free base of books on the internet",
+      "bbox": [
+        2200.0,
+        1272.6,
+        2993.1,
+        1301.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "http://pynchonwiki.com/: A wiki on Thomas Pynchon's novels that contains",
+      "texte_balise": "http://pynchonwiki.com/: A wiki on Thomas Pynchon's novels that contains",
+      "bbox": [
+        2195.2,
+        1310.1,
+        3092.2,
+        1339.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Yasunari Kawabata -",
+      "texte_balise": "Yasunari Kawabata -",
+      "bbox": [
+        28.3,
+        1329.0,
+        155.8,
+        1339.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ": Mann - The",
+      "texte_balise": ": Mann - The",
+      "bbox": [
+        646.8,
+        1329.0,
+        722.3,
+        1339.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gabriel Garcia Marquez - On",
+      "texte_balise": "gabriel Garcia Marquez - On",
+      "bbox": [
+        764.8,
+        1329.5,
+        939.5,
+        1338.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Magic Mountain",
+      "texte_balise": "Magic Mountain",
+      "bbox": [
+        599.6,
+        1338.6,
+        703.4,
+        1357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blood Meridian",
+      "texte_balise": "Blood Meridian",
+      "bbox": [
+        982.0,
+        1338.6,
+        1081.1,
+        1357.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sea of Fertility",
+      "texte_balise": "The Sea of Fertility",
+      "bbox": [
+        1369.1,
+        1338.6,
+        1496.5,
+        1362.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cond and aler",
+      "texte_balise": "Cond and aler",
+      "bbox": [
+        415.4,
+        1343.0,
+        519.3,
+        1353.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "annotations and guides that make reading the greatest living novelist more enjoyable.",
+      "texte_balise": "annotations and guides that make reading the greatest living novelist more enjoyable.",
+      "bbox": [
+        2200.0,
+        1343.0,
+        3196.1,
+        1372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sophocles - Plays",
+      "texte_balise": "Sophocles - Plays",
+      "bbox": [
+        1605.1,
+        1348.0,
+        1723.1,
+        1372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "widell Mountain",
+      "texte_balise": "widell Mountain",
+      "bbox": [
+        594.8,
+        1348.4,
+        698.7,
+        1357.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moby-Dick",
+      "texte_balise": "Moby-Dick",
+      "bbox": [
+        1180.2,
+        1348.4,
+        1251.0,
+        1357.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ine sea or rercuity",
+      "texte_balise": "ine sea or rercuity",
+      "bbox": [
+        1369.1,
+        1348.4,
+        1491.8,
+        1357.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "son",
+      "texte_balise": "son",
+      "bbox": [
+        1123.6,
+        1362.5,
+        1326.6,
+        1437.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS",
+      "texte_balise": "THOMAS",
+      "bbox": [
+        793.1,
+        1400.2,
+        920.6,
+        1437.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poems",
+      "texte_balise": "Poems",
+      "bbox": [
+        2365.2,
+        1419.1,
+        2469.0,
+        1447.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Pynchon",
+      "texte_balise": "Thomas Pynchon",
+      "bbox": [
+        1147.2,
+        1428.5,
+        1303.0,
+        1456.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PYNCHON",
+      "texte_balise": "PYNCHON",
+      "bbox": [
+        783.7,
+        1466.2,
+        930.0,
+        1503.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE COMPLET",
+      "texte_balise": "THE COMPLET",
+      "bbox": [
+        2639.0,
+        1475.6,
+        2804.2,
+        1499.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POEMS OF",
+      "texte_balise": "POEMS OF",
+      "bbox": [
+        2643.7,
+        1503.7,
+        2818.4,
+        1532.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAVITY'S RAINBOW",
+      "texte_balise": "GRAVITY'S RAINBOW",
+      "bbox": [
+        948.9,
+        1517.7,
+        1128.3,
+        1536.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "4H CRYING OF LOT",
+      "texte_balise": "4H CRYING OF LOT",
+      "bbox": [
+        779.0,
+        1532.2,
+        930.0,
+        1579.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EMILY",
+      "texte_balise": "EMILY",
+      "bbox": [
+        2638.8,
+        1540.8,
+        2813.9,
+        1589.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mason E- Dixon",
+      "texte_balise": "Mason E- Dixon",
+      "bbox": [
+        1147.1,
+        1564.7,
+        1303.1,
+        1593.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hare rane",
+      "texte_balise": "Hare rane",
+      "bbox": [
+        2445.2,
+        1578.0,
+        2625.1,
+        1618.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PYNCHON",
+      "texte_balise": "PYNCHON",
+      "bbox": [
+        977.2,
+        1584.0,
+        1095.3,
+        1607.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ashben",
+      "texte_balise": "Ashben",
+      "bbox": [
+        1930.9,
+        1584.0,
+        2048.9,
+        1626.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ron",
+      "texte_balise": "ron",
+      "bbox": [
+        1142.5,
+        1588.8,
+        1321.9,
+        1654.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DICKINSON",
+      "texte_balise": "DICKINSON",
+      "bbox": [
+        2639.0,
+        1588.8,
+        2818.4,
+        1617.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vladimir Nabokov - Lolita",
+      "texte_balise": "Vladimir Nabokov - Lolita",
+      "bbox": [
+        4.7,
+        1649.6,
+        174.7,
+        1668.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The core on Lot 49",
+      "texte_balise": "The core on Lot 49",
+      "bbox": [
+        779.0,
+        1649.6,
+        925.3,
+        1692.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hone cha -",
+      "texte_balise": "hone cha -",
+      "bbox": [
+        1166.1,
+        1649.6,
+        1293.5,
+        1692.6
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The Epic af Cigames",
+      "texte_balise": "The Epic af Cigames",
+      "bbox": [
+        2875.0,
+        1697.2,
+        2960.0,
+        1716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[ANIZAKIR",
+      "texte_balise": "[ANIZAKIR",
+      "bbox": [
+        1185.0,
+        1716.0,
+        1288.8,
+        1758.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Matsuo Basho - The Narrow",
+      "texte_balise": "Matsuo Basho - The Narrow",
+      "bbox": [
+        2063.0,
+        1744.3,
+        2247.2,
+        1758.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Ashbery - Poems",
+      "texte_balise": "John Ashbery - Poems",
+      "bbox": [
+        1893.1,
+        1748.5,
+        2039.4,
+        1758.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hart Crane - Poem:",
+      "texte_balise": "Hart Crane - Poem:",
+      "bbox": [
+        2469.0,
+        1748.5,
+        2596.5,
+        1758.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Epic of Gilgamesh",
+      "texte_balise": "The Epic of Gilgamesh",
+      "bbox": [
+        2846.7,
+        1748.5,
+        2988.3,
+        1758.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF JARMTH ROME",
+      "texte_balise": "OF JARMTH ROME",
+      "bbox": [
+        3035.6,
+        1810.3,
+        3191.3,
+        1843.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TUELEY",
+      "texte_balise": "TUELEY",
+      "bbox": [
+        972.5,
+        1848.0,
+        1066.9,
+        1857.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CANTO",
+      "texte_balise": "CANTO",
+      "bbox": [
+        2308.5,
+        1862.1,
+        2393.5,
+        1885.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GENERAL",
+      "texte_balise": "GENERAL",
+      "bbox": [
+        2299.1,
+        1890.4,
+        2403.0,
+        1914.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo Tolstoy - War & Peace",
+      "texte_balise": "Leo Tolstoy - War & Peace",
+      "bbox": [
+        1326.6,
+        1975.2,
+        1510.7,
+        1998.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Salman Rushdie",
+      "texte_balise": "Salman Rushdie",
+      "bbox": [
+        23.6,
+        1980.0,
+        132.2,
+        1989.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Momenaal: Chilih.",
+      "texte_balise": "Momenaal: Chilih.",
+      "bbox": [
+        221.9,
+        1980.0,
+        344.6,
+        1989.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Standhal. The",
+      "texte_balise": "Standhal. The",
+      "bbox": [
+        793.1,
+        1980.0,
+        892.3,
+        1989.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jonathan Swift",
+      "texte_balise": "Jonathan Swift",
+      "bbox": [
+        986.7,
+        1980.0,
+        1090.5,
+        1989.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "linkies Tonicali",
+      "texte_balise": "linkies Tonicali",
+      "bbox": [
+        1166.1,
+        1980.0,
+        1298.3,
+        1989.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Natsume Soseki - Kokord",
+      "texte_balise": "Natsume Soseki - Kokord",
+      "bbox": [
+        382.4,
+        1984.3,
+        547.6,
+        1994.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Midnight's Children",
+      "texte_balise": "Midnight's Children",
+      "bbox": [
+        28.3,
+        1998.3,
+        146.3,
+        2008.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Red and the Black",
+      "texte_balise": "Red and the Black",
+      "bbox": [
+        793.1,
+        1998.3,
+        911.1,
+        2008.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Makioka Sisters",
+      "texte_balise": "The Makioka Sisters",
+      "bbox": [
+        1170.8,
+        1998.3,
+        1298.3,
+        2008.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVENTURES d",
+      "texte_balise": "ADVENTURES d",
+      "bbox": [
+        23.6,
+        2045.9,
+        165.2,
+        2060.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUCKIFBERRY",
+      "texte_balise": "HUCKIFBERRY",
+      "bbox": [
+        28.3,
+        2060.1,
+        170.0,
+        2083.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Rumi _ Mathnaw",
+      "texte_balise": "Rumi _ Mathnaw",
+      "bbox": [
+        3054.4,
+        2074.2,
+        3163.0,
+        2083.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Li Po - Poem:",
+      "texte_balise": "Li Po - Poem:",
+      "bbox": [
+        2860.9,
+        2078.9,
+        2955.3,
+        2088.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARK I WAIN",
+      "texte_balise": "MARK I WAIN",
+      "bbox": [
+        42.5,
+        2116.2,
+        146.3,
+        2126.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nathanael West - Novels",
+      "texte_balise": "Nathanael West - Novels",
+      "bbox": [
+        188.8,
+        2300.1,
+        354.1,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lu Xun - Complete Fiction",
+      "texte_balise": "Lu Xun - Complete Fiction",
+      "bbox": [
+        963.1,
+        2305.1,
+        1142.5,
+        2324.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Virgil - Aen",
+      "texte_balise": "Virgil - Aen",
+      "bbox": [
+        2110.3,
+        2375.9,
+        2190.5,
+        2390.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leaves of Gras",
+      "texte_balise": "Leaves of Gras",
+      "bbox": [
+        2483.2,
+        2394.7,
+        2587.1,
+        2404.2
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

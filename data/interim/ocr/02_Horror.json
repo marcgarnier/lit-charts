@@ -1,0 +1,1730 @@
+{
+  "fichier": "02_Horror.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:49:26.518993+00:00",
+  "duree_s": 1.1,
+  "taille_origine": [
+    1378,
+    1438
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 156,
+  "lignes": [
+    {
+      "texte": "Horror Guide",
+      "texte_balise": "Horror Guide",
+      "bbox": [
+        611.7,
+        10.0,
+        768.3,
+        36.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classic Horror",
+      "texte_balise": "Classic Horror",
+      "bbox": [
+        6.3,
+        46.0,
+        144.1,
+        67.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Legend of",
+      "texte_balise": "The Legend of",
+      "bbox": [
+        701.4,
+        64.3,
+        795.6,
+        84.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complete Storics and Poems of",
+      "texte_balise": "Complete Storics and Poems of",
+      "bbox": [
+        879.0,
+        66.9,
+        1006.4,
+        79.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Retre artille bulla i sole t",
+      "texte_balise": "Retre artille bulla i sole t",
+      "bbox": [
+        1079.4,
+        71.0,
+        1177.6,
+        82.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "EDGAR",
+      "texte_balise": "EDGAR",
+      "bbox": [
+        927.0,
+        77.3,
+        1006.4,
+        100.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLEEPY",
+      "texte_balise": "SLEEPY",
+      "bbox": [
+        695.2,
+        79.2,
+        797.6,
+        106.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE TURN",
+      "texte_balise": "THE TURN",
+      "bbox": [
+        357.0,
+        83.4,
+        426.0,
+        96.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRAM STOKER",
+      "texte_balise": "BRAM STOKER",
+      "bbox": [
+        202.5,
+        83.6,
+        263.1,
+        94.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the king",
+      "texte_balise": "the king",
+      "bbox": [
+        1081.5,
+        83.6,
+        1175.5,
+        102.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MONK",
+      "texte_balise": "THE MONK",
+      "bbox": [
+        1265.3,
+        85.7,
+        1317.5,
+        94.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF THE SCREW",
+      "texte_balise": "OF THE SCREW",
+      "bbox": [
+        344.5,
+        96.0,
+        440.5,
+        109.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In VeLLOW",
+      "texte_balise": "In VeLLOW",
+      "bbox": [
+        1077.3,
+        100.0,
+        1177.6,
+        117.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALLAN",
+      "texte_balise": "ALLAN",
+      "bbox": [
+        929.1,
+        100.3,
+        1004.3,
+        119.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOLLOW",
+      "texte_balise": "HOLLOW",
+      "bbox": [
+        682.7,
+        104.4,
+        810.1,
+        129.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hone Tarces",
+      "texte_balise": "Hone Tarces",
+      "bbox": [
+        365.4,
+        112.9,
+        419.7,
+        123.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POE",
+      "texte_balise": "POE",
+      "bbox": [
+        956.2,
+        117.0,
+        1008.4,
+        142.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "....",
+      "texte_balise": "....",
+      "bbox": [
+        27.1,
+        200.7,
+        108.6,
+        211.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WASHINGTON",
+      "texte_balise": "WASHINGTON",
+      "bbox": [
+        682.7,
+        219.5,
+        810.1,
+        238.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IRVING",
+      "texte_balise": "IRVING",
+      "bbox": [
+        712.0,
+        238.3,
+        778.8,
+        255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Turn of the Screw",
+      "texte_balise": "The Turn of the Screw",
+      "bbox": [
+        329.9,
+        250.8,
+        455.2,
+        263.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Frankenstien",
+      "texte_balise": "Frankenstien",
+      "bbox": [
+        2.1,
+        255.0,
+        79.3,
+        265.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dracula",
+      "texte_balise": "Dracula",
+      "bbox": [
+        169.1,
+        259.2,
+        215.1,
+        269.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Strange Case of Dr. Jekyll",
+      "texte_balise": "Strange Case of Dr. Jekyll",
+      "bbox": [
+        488.6,
+        261.0,
+        638.9,
+        276.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Complete Stories and",
+      "texte_balise": "The Complete Stories and",
+      "bbox": [
+        874.8,
+        265.0,
+        1014.7,
+        278.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry James",
+      "texte_balise": "Henry James",
+      "bbox": [
+        329.8,
+        265.3,
+        405.1,
+        280.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The King in Yellow",
+      "texte_balise": "The King in Yellow",
+      "bbox": [
+        1056.5,
+        267.5,
+        1160.9,
+        280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mary Shelly",
+      "texte_balise": "Mary Shelly",
+      "bbox": [
+        2.1,
+        269.6,
+        73.1,
+        282.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Legend of Sleepy Hollow",
+      "texte_balise": "The Legend of Sleepy Hollow",
+      "bbox": [
+        674.4,
+        269.6,
+        831.0,
+        282.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bram Stoker",
+      "texte_balise": "Bram Stoker",
+      "bbox": [
+        171.2,
+        273.8,
+        244.3,
+        284.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Monk",
+      "texte_balise": "The Monk",
+      "bbox": [
+        1211.0,
+        275.9,
+        1267.3,
+        286.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and Mr. Hyde",
+      "texte_balise": "and Mr. Hyde",
+      "bbox": [
+        488.6,
+        278.0,
+        563.7,
+        291.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poems of Edgar Allan Poe",
+      "texte_balise": "Poems of Edgar Allan Poe",
+      "bbox": [
+        874.8,
+        278.0,
+        1012.6,
+        291.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert W. Chambers",
+      "texte_balise": "Robert W. Chambers",
+      "bbox": [
+        1056.5,
+        280.0,
+        1171.3,
+        293.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Washington Irving",
+      "texte_balise": "Washington Irving",
+      "bbox": [
+        676.5,
+        282.0,
+        776.7,
+        295.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mattew Lewis",
+      "texte_balise": "Mattew Lewis",
+      "bbox": [
+        1211.0,
+        288.0,
+        1286.1,
+        299.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Louis Sterenson",
+      "texte_balise": "Robert Louis Sterenson",
+      "bbox": [
+        488.6,
+        292.6,
+        622.2,
+        303.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHARLES ROBERT",
+      "texte_balise": "CHARLES ROBERT",
+      "bbox": [
+        27.1,
+        313.5,
+        98.1,
+        324.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MEI. MOTH THE",
+      "texte_balise": "MEI. MOTH THE",
+      "bbox": [
+        31.3,
+        334.0,
+        96.0,
+        345.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WANDERER",
+      "texte_balise": "WANDERER",
+      "bbox": [
+        39.7,
+        344.9,
+        85.6,
+        351.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GHOST",
+      "texte_balise": "GHOST",
+      "bbox": [
+        160.8,
+        395.0,
+        198.3,
+        407.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND HORROR",
+      "texte_balise": "AND HORROR",
+      "bbox": [
+        158.7,
+        407.6,
+        229.7,
+        420.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORIES",
+      "texte_balise": "STORIES",
+      "bbox": [
+        160.7,
+        420.0,
+        204.7,
+        432.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMBROSE",
+      "texte_balise": "AMBROSE",
+      "bbox": [
+        160.8,
+        441.0,
+        210.9,
+        453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIERCE",
+      "texte_balise": "BIERCE",
+      "bbox": [
+        160.8,
+        453.6,
+        200.4,
+        466.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ghost and Horror Stories",
+      "texte_balise": "Ghost and Horror Stories",
+      "bbox": [
+        152.4,
+        478.6,
+        288.1,
+        491.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Melmoth The Wanderer",
+      "texte_balise": "Melmoth The Wanderer",
+      "bbox": [
+        -0.0,
+        482.8,
+        129.4,
+        495.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Ambrose Bierce",
+      "texte_balise": "of Ambrose Bierce",
+      "bbox": [
+        150.3,
+        493.0,
+        252.6,
+        504.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles Maturin",
+      "texte_balise": "Charles Maturin",
+      "bbox": [
+        -0.0,
+        495.0,
+        89.8,
+        508.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "zoth Century",
+      "texte_balise": "zoth Century",
+      "bbox": [
+        -0.7,
+        517.1,
+        163.6,
+        550.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE *_ BESTSELLER",
+      "texte_balise": "THE *_ BESTSELLER",
+      "bbox": [
+        1075.3,
+        549.7,
+        1154.6,
+        560.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEPHEN",
+      "texte_balise": "STEPHEN",
+      "bbox": [
+        874.5,
+        550.8,
+        1010.8,
+        594.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEMASTERMORKS",
+      "texte_balise": "SEMASTERMORKS",
+      "bbox": [
+        344.5,
+        551.8,
+        407.1,
+        562.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Commemorative Edition",
+      "texte_balise": "Commemorative Edition",
+      "bbox": [
+        31.3,
+        556.0,
+        125.3,
+        566.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FABM THE AUTHOR OF HANNIBAL",
+      "texte_balise": "FABM THE AUTHOR OF HANNIBAL",
+      "bbox": [
+        1054.4,
+        558.0,
+        1177.6,
+        571.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLIVE BARKER",
+      "texte_balise": "CLIVE BARKER",
+      "bbox": [
+        532.3,
+        561.8,
+        647.3,
+        583.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NECRONOMICON",
+      "texte_balise": "NECRONOMICON",
+      "bbox": [
+        12.3,
+        567.2,
+        146.4,
+        596.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAY BRADBURY",
+      "texte_balise": "RAY BRADBURY",
+      "bbox": [
+        703.6,
+        568.5,
+        833.1,
+        610.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS",
+      "texte_balise": "THOMAS",
+      "bbox": [
+        1050.2,
+        568.5,
+        1183.8,
+        612.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAMILEGENA",
+      "texte_balise": "LAMILEGENA",
+      "bbox": [
+        423.8,
+        572.7,
+        473.9,
+        581.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KING",
+      "texte_balise": "KING",
+      "bbox": [
+        895.6,
+        578.8,
+        989.7,
+        612.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD MATHESON",
+      "texte_balise": "RICHARD MATHESON",
+      "bbox": [
+        348.7,
+        583.0,
+        473.9,
+        596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAN SIMMONS",
+      "texte_balise": "DAN SIMMONS",
+      "bbox": [
+        1217.2,
+        587.0,
+        1340.4,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOOKS OF BLOOD",
+      "texte_balise": "BOOKS OF BLOOD",
+      "bbox": [
+        526.1,
+        591.5,
+        657.7,
+        621.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shirley",
+      "texte_balise": "Shirley",
+      "bbox": [
+        175.4,
+        608.2,
+        265.2,
+        641.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HARRIS",
+      "texte_balise": "HARRIS",
+      "bbox": [
+        1050.1,
+        610.0,
+        1183.9,
+        656.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SONG",
+      "texte_balise": "SONG",
+      "bbox": [
+        1213.1,
+        612.4,
+        1340.4,
+        647.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jackson",
+      "texte_balise": "Jackson",
+      "bbox": [
+        175.1,
+        636.2,
+        296.7,
+        665.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of",
+      "texte_balise": "of",
+      "bbox": [
+        1256.9,
+        652.1,
+        1304.9,
+        693.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ine Haunting",
+      "texte_balise": "Ine Haunting",
+      "bbox": [
+        177.5,
+        664.7,
+        302.7,
+        683.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Of Hill House",
+      "texte_balise": "Of Hill House",
+      "bbox": [
+        177.5,
+        683.0,
+        296.5,
+        700.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KALI",
+      "texte_balise": "KALI",
+      "bbox": [
+        1217.2,
+        704.4,
+        1340.4,
+        735.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SILENCE",
+      "texte_balise": "THE SILENCE",
+      "bbox": [
+        1054.4,
+        706.0,
+        1175.5,
+        738.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rething Elinked Mis Way Come",
+      "texte_balise": "Rething Elinked Mis Way Come",
+      "bbox": [
+        722.4,
+        725.0,
+        822.6,
+        746.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "OF THE LAMBS",
+      "texte_balise": "OF THE LAMBS",
+      "bbox": [
+        1050.2,
+        735.7,
+        1181.7,
+        769.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IL. P LOTECRANE",
+      "texte_balise": "IL. P LOTECRANE",
+      "bbox": [
+        29.2,
+        739.9,
+        127.4,
+        750.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Haunting of Hill House",
+      "texte_balise": "The Haunting of Hill House",
+      "bbox": [
+        164.9,
+        758.7,
+        313.2,
+        771.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected Stories of H.P.",
+      "texte_balise": "Collected Stories of H.P.",
+      "bbox": [
+        0.0,
+        760.8,
+        127.4,
+        773.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I Am Legend",
+      "texte_balise": "I Am Legend",
+      "bbox": [
+        336.1,
+        765.0,
+        407.1,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Something Wicked This Way",
+      "texte_balise": "Something Wicked This Way",
+      "bbox": [
+        691.1,
+        765.0,
+        845.6,
+        780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Books of Blood Volumes 1-3",
+      "texte_balise": "Books of Blood Volumes 1-3",
+      "bbox": [
+        503.2,
+        767.0,
+        651.4,
+        778.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Song Of Kali",
+      "texte_balise": "Song Of Kali",
+      "bbox": [
+        1211.0,
+        767.0,
+        1282.0,
+        780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shirley Jackson",
+      "texte_balise": "Shirley Jackson",
+      "bbox": [
+        164.9,
+        771.0,
+        252.6,
+        784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lorecraft",
+      "texte_balise": "Lorecraft",
+      "bbox": [
+        0.0,
+        775.4,
+        50.1,
+        785.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen King",
+      "texte_balise": "Stephen King",
+      "bbox": [
+        872.7,
+        777.5,
+        947.9,
+        790.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Matheson",
+      "texte_balise": "Richard Matheson",
+      "bbox": [
+        338.2,
+        779.6,
+        436.4,
+        790.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Clive Barker",
+      "texte_balise": "Clive Barker",
+      "bbox": [
+        503.2,
+        779.6,
+        574.2,
+        790.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comes",
+      "texte_balise": "Comes",
+      "bbox": [
+        691.1,
+        779.6,
+        730.8,
+        790.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Silence of the Lambs",
+      "texte_balise": "The Silence of the Lambs",
+      "bbox": [
+        1025.1,
+        779.6,
+        1160.9,
+        792.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dan Simmons",
+      "texte_balise": "Dan Simmons",
+      "bbox": [
+        1208.9,
+        779.6,
+        1286.1,
+        792.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ray Bradbury",
+      "texte_balise": "Ray Bradbury",
+      "bbox": [
+        691.1,
+        792.0,
+        764.2,
+        805.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Harris",
+      "texte_balise": "Thomas Harris",
+      "bbox": [
+        1025.1,
+        794.0,
+        1106.6,
+        805.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEPHEN KING",
+      "texte_balise": "STEPHEN KING",
+      "bbox": [
+        496.8,
+        799.7,
+        614.0,
+        824.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE HOUSE",
+      "texte_balise": "THE HOUSE",
+      "bbox": [
+        684.8,
+        815.0,
+        764.2,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MERVYN PEAKE",
+      "texte_balise": "MERVYN PEAKE",
+      "bbox": [
+        342.4,
+        817.0,
+        444.7,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ON THE",
+      "texte_balise": "ON THE",
+      "bbox": [
+        712.0,
+        827.7,
+        764.2,
+        844.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOY IN DARKNESS",
+      "texte_balise": "BOY IN DARKNESS",
+      "bbox": [
+        340.3,
+        834.0,
+        446.8,
+        844.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BORDERLAND",
+      "texte_balise": "BORDERLAND",
+      "bbox": [
+        672.3,
+        842.3,
+        766.3,
+        859.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND GrIER STRING",
+      "texte_balise": "AND GrIER STRING",
+      "bbox": [
+        340.3,
+        844.0,
+        446.8,
+        855.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DEMAIAR",
+      "texte_balise": "DEMAIAR",
+      "bbox": [
+        505.0,
+        847.7,
+        607.8,
+        874.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dest Ghost Stories",
+      "texte_balise": "Dest Ghost Stories",
+      "bbox": [
+        6.1,
+        925.3,
+        121.2,
+        953.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algernon Blackwacd",
+      "texte_balise": "Algernon Blackwacd",
+      "bbox": [
+        10.4,
+        951.0,
+        121.1,
+        966.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "kard win as Irroditon by",
+      "texte_balise": "kard win as Irroditon by",
+      "bbox": [
+        27.1,
+        963.5,
+        106.5,
+        974.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Boy in Darkness",
+      "texte_balise": "Boy in Darkness",
+      "bbox": [
+        323.6,
+        984.0,
+        413.4,
+        997.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pet Sematary",
+      "texte_balise": "Pet Sematary",
+      "bbox": [
+        490.7,
+        986.5,
+        561.6,
+        999.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Best Ghost Stories of",
+      "texte_balise": "Best Ghost Stories of",
+      "bbox": [
+        2.1,
+        990.7,
+        116.9,
+        1001.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Casting the Runes and",
+      "texte_balise": "Casting the Runes and",
+      "bbox": [
+        154.5,
+        990.7,
+        275.6,
+        1001.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Merryn Peake",
+      "texte_balise": "Merryn Peake",
+      "bbox": [
+        323.6,
+        997.0,
+        403.0,
+        1010.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "House on the Borderland",
+      "texte_balise": "House on the Borderland",
+      "bbox": [
+        651.4,
+        997.0,
+        785.0,
+        1010.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephen King",
+      "texte_balise": "Stephen King",
+      "bbox": [
+        490.7,
+        999.0,
+        565.8,
+        1014.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Algernon Blackwood",
+      "texte_balise": "Algernon Blackwood",
+      "bbox": [
+        2.1,
+        1003.0,
+        112.7,
+        1016.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other Ghost Stories",
+      "texte_balise": "Other Ghost Stories",
+      "bbox": [
+        154.5,
+        1003.0,
+        263.1,
+        1014.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William Hodgson",
+      "texte_balise": "William Hodgson",
+      "bbox": [
+        651.4,
+        1009.5,
+        745.4,
+        1022.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "M.R. James",
+      "texte_balise": "M.R. James",
+      "bbox": [
+        152.3,
+        1015.4,
+        217.2,
+        1028.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "New Horror",
+      "texte_balise": "New Horror",
+      "bbox": [
+        1.9,
+        1049.9,
+        138.0,
+        1075.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOE HILL",
+      "texte_balise": "JOE HILL",
+      "bbox": [
+        1187.9,
+        1086.2,
+        1348.9,
+        1123.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*Der pills no pene",
+      "texte_balise": "*Der pills no pene",
+      "bbox": [
+        732.8,
+        1093.0,
+        799.7,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHARGOUL",
+      "texte_balise": "WHARGOUL",
+      "bbox": [
+        1016.4,
+        1102.4,
+        1167.5,
+        1150.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PILO",
+      "texte_balise": "PILO",
+      "bbox": [
+        599.2,
+        1105.7,
+        655.6,
+        1124.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OCCULTATION",
+      "texte_balise": "OCCULTATION",
+      "bbox": [
+        10.4,
+        1120.3,
+        144.1,
+        1137.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAMILY",
+      "texte_balise": "FAMILY",
+      "bbox": [
+        597.1,
+        1126.6,
+        663.9,
+        1139.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heart-",
+      "texte_balise": "Heart-",
+      "bbox": [
+        1192.1,
+        1142.9,
+        1346.8,
+        1183.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAYE",
+      "texte_balise": "DAYE",
+      "bbox": [
+        1121.2,
+        1155.8,
+        1158.8,
+        1178.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROCKIE",
+      "texte_balise": "BROCKIE",
+      "bbox": [
+        1110.8,
+        1176.7,
+        1169.2,
+        1199.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shaped",
+      "texte_balise": "Shaped",
+      "bbox": [
+        1187.5,
+        1185.6,
+        1349.3,
+        1239.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BULLET",
+      "texte_balise": "BULLET",
+      "bbox": [
+        753.6,
+        1190.7,
+        827.0,
+        1210.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the best of",
+      "texte_balise": "the best of",
+      "bbox": [
+        181.6,
+        1191.2,
+        250.6,
+        1204.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOEL. LARSDALE",
+      "texte_balise": "JOEL. LARSDALE",
+      "bbox": [
+        194.2,
+        1203.9,
+        323.6,
+        1225.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THROUGIE",
+      "texte_balise": "THROUGIE",
+      "bbox": [
+        751.6,
+        1210.2,
+        826.8,
+        1224.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VOUR",
+      "texte_balise": "VOUR",
+      "bbox": [
+        762.0,
+        1224.7,
+        816.4,
+        1245.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TLATRO",
+      "texte_balise": "TLATRO",
+      "bbox": [
+        373.7,
+        1231.1,
+        457.2,
+        1249.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Box",
+      "texte_balise": "Box",
+      "bbox": [
+        1223.5,
+        1237.3,
+        1321.6,
+        1277.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FACE",
+      "texte_balise": "FACE",
+      "bbox": [
+        760.0,
+        1243.6,
+        816.4,
+        1264.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GROT",
+      "texte_balise": "GROT",
+      "bbox": [
+        352.9,
+        1249.9,
+        413.4,
+        1270.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TESCO",
+      "texte_balise": "TESCO",
+      "bbox": [
+        409.2,
+        1249.9,
+        478.1,
+        1268.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THOMAS LGOTTI",
+      "texte_balise": "THOMAS LGOTTI",
+      "bbox": [
+        352.9,
+        1287.5,
+        480.2,
+        1300.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BDWARD LEE",
+      "texte_balise": "BDWARD LEE",
+      "bbox": [
+        680.6,
+        1287.5,
+        826.8,
+        1313.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDICEL",
+      "texte_balise": "ANDICEL",
+      "bbox": [
+        1244.4,
+        1287.5,
+        1292.4,
+        1298.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "*WILL ELLIOTT",
+      "texte_balise": "*WILL ELLIOTT",
+      "bbox": [
+        592.9,
+        1289.2,
+        659.8,
+        1302.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAIRD BARRON",
+      "texte_balise": "LAIRD BARRON",
+      "bbox": [
+        14.6,
+        1289.6,
+        139.9,
+        1302.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sooner or later the dedicate up",
+      "texte_balise": "Sooner or later the dedicate up",
+      "bbox": [
+        1194.3,
+        1306.0,
+        1330.0,
+        1319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Occultation",
+      "texte_balise": "Occultation",
+      "bbox": [
+        1.8,
+        1312.3,
+        67.1,
+        1325.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Best of Joe R. Lansdale",
+      "texte_balise": "The Best of Joe R. Lansdale",
+      "bbox": [
+        173.3,
+        1314.7,
+        319.4,
+        1325.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Teatro Grottesco",
+      "texte_balise": "Teatro Grottesco",
+      "bbox": [
+        336.1,
+        1316.8,
+        423.8,
+        1329.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pilo Family Circus",
+      "texte_balise": "The Pilo Family Circus",
+      "bbox": [
+        503.2,
+        1316.8,
+        626.4,
+        1327.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bullet Through Your Face",
+      "texte_balise": "Bullet Through Your Face",
+      "bbox": [
+        674.4,
+        1316.8,
+        812.2,
+        1329.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil Next Door",
+      "texte_balise": "The Devil Next Door",
+      "bbox": [
+        841.4,
+        1323.0,
+        947.9,
+        1333.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Laird Barron",
+      "texte_balise": "Laird Barron",
+      "bbox": [
+        0.0,
+        1327.0,
+        71.0,
+        1338.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Ligotti",
+      "texte_balise": "Thomas Ligotti",
+      "bbox": [
+        336.1,
+        1329.0,
+        417.6,
+        1342.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Will Elliot",
+      "texte_balise": "Will Elliot",
+      "bbox": [
+        503.2,
+        1329.0,
+        561.6,
+        1340.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Whargoul",
+      "texte_balise": "Whargoul",
+      "bbox": [
+        1010.5,
+        1329.3,
+        1064.8,
+        1339.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edward Lee",
+      "texte_balise": "Edward Lee",
+      "bbox": [
+        672.3,
+        1331.0,
+        737.0,
+        1342.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tim Curran",
+      "texte_balise": "Tim Curran",
+      "bbox": [
+        839.3,
+        1335.6,
+        906.1,
+        1346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heart-Shaped Box",
+      "texte_balise": "Heart-Shaped Box",
+      "bbox": [
+        1185.9,
+        1337.7,
+        1284.0,
+        1348.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dave Brockie (of GWAR)",
+      "texte_balise": "Dave Brockie (of GWAR)",
+      "bbox": [
+        1008.4,
+        1341.9,
+        1142.1,
+        1354.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joe Hill",
+      "texte_balise": "Joe Hill",
+      "bbox": [
+        1183.8,
+        1350.0,
+        1231.8,
+        1361.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

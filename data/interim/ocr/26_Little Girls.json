@@ -1,0 +1,1026 @@
+{
+  "fichier": "26_Little Girls.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:58.674498+00:00",
+  "duree_s": 1.7,
+  "taille_origine": [
+    1918,
+    1434
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 92,
+  "lignes": [
+    {
+      "texte": "A /Lit/ Guide to Little Girls",
+      "texte_balise": "A /Lit/ Guide to Little Girls",
+      "bbox": [
+        409.8,
+        55.7,
+        1538.9,
+        128.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROALD",
+      "texte_balise": "ROALD",
+      "bbox": [
+        1577.9,
+        236.7,
+        1675.5,
+        270.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "[PORTIN NODEEN CLASSIES",
+      "texte_balise": "[PORTIN NODEEN CLASSIES",
+      "bbox": [
+        1759.1,
+        242.0,
+        1873.4,
+        253.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEIL GAIMAN",
+      "texte_balise": "NEIL GAIMAN",
+      "bbox": [
+        1170.9,
+        250.6,
+        1265.7,
+        267.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE KE PALAC",
+      "texte_balise": "THE KE PALAC",
+      "bbox": [
+        295.5,
+        261.7,
+        345.7,
+        267.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAHL",
+      "texte_balise": "DAHL",
+      "bbox": [
+        1577.5,
+        263.6,
+        1675.8,
+        304.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAEL ENDE",
+      "texte_balise": "MICHAEL ENDE",
+      "bbox": [
+        922.8,
+        264.5,
+        1034.3,
+        278.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Orala",
+      "texte_balise": "Orala",
+      "bbox": [
+        1198.8,
+        267.3,
+        1243.4,
+        295.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Lippi",
+      "texte_balise": "Lippi",
+      "bbox": [
+        1764.7,
+        272.9,
+        1859.5,
+        306.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Little Women",
+      "texte_balise": "Little Women",
+      "bbox": [
+        719.3,
+        281.0,
+        786.2,
+        295.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATILDA",
+      "texte_balise": "MATILDA",
+      "bbox": [
+        1572.3,
+        297.9,
+        1678.2,
+        328.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ongstockir",
+      "texte_balise": "ongstockir",
+      "bbox": [
+        1787.0,
+        303.5,
+        1848.3,
+        317.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PRINCESS",
+      "texte_balise": "THE PRINCESS",
+      "bbox": [
+        471.1,
+        378.7,
+        588.2,
+        393.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEIDI",
+      "texte_balise": "HEIDI",
+      "bbox": [
+        1365.8,
+        380.7,
+        1474.9,
+        407.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MoMe",
+      "texte_balise": "MoMe",
+      "bbox": [
+        925.5,
+        387.0,
+        1031.5,
+        426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND THE GOBLIN",
+      "texte_balise": "AND THE GOBLIN",
+      "bbox": [
+        471.1,
+        395.0,
+        588.2,
+        412.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHANNA SPYRI",
+      "texte_balise": "JOHANNA SPYRI",
+      "bbox": [
+        1385.5,
+        406.5,
+        1458.0,
+        420.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By GEURGE MACDUNALD",
+      "texte_balise": "By GEURGE MACDUNALD",
+      "bbox": [
+        473.9,
+        417.7,
+        582.6,
+        426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Princess",
+      "texte_balise": "The Princess",
+      "bbox": [
+        465.6,
+        434.0,
+        543.6,
+        448.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Coraline",
+      "texte_balise": "Coraline",
+      "bbox": [
+        1159.6,
+        436.8,
+        1229.5,
+        454.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alice's Adventures in Wonderland and",
+      "texte_balise": "Alice's Adventures in Wonderland and",
+      "bbox": [
+        2.8,
+        437.0,
+        231.4,
+        451.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ice Palace",
+      "texte_balise": "The Ice Palace",
+      "bbox": [
+        237.0,
+        437.0,
+        354.0,
+        454.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Little Women",
+      "texte_balise": "Little Women",
+      "bbox": [
+        683.0,
+        442.7,
+        794.5,
+        457.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Momo",
+      "texte_balise": "Momo",
+      "bbox": [
+        917.2,
+        442.7,
+        970.2,
+        456.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pippi Longstocking",
+      "texte_balise": "Pippi Longstocking",
+      "bbox": [
+        1731.2,
+        445.5,
+        1901.3,
+        465.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and the Goblin",
+      "texte_balise": "and the Goblin",
+      "bbox": [
+        462.8,
+        448.0,
+        552.0,
+        462.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heidi Johana Spyri)",
+      "texte_balise": "Heidi Johana Spyri)",
+      "bbox": [
+        1340.9,
+        448.0,
+        1499.8,
+        465.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Through the Looking-Glass",
+      "texte_balise": "Through the Looking-Glass",
+      "bbox": [
+        5.6,
+        451.0,
+        167.3,
+        465.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Tarjei Vesaas)",
+      "texte_balise": "(Tarjei Vesaas)",
+      "bbox": [
+        239.8,
+        456.7,
+        359.6,
+        473.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "(Louisa May Alcott)",
+      "texte_balise": "(Louisa May Alcott)",
+      "bbox": [
+        685.8,
+        456.7,
+        836.3,
+        473.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Neil Gaiman)",
+      "texte_balise": "(Neil Gaiman)",
+      "bbox": [
+        1156.9,
+        456.7,
+        1271.2,
+        471.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Matilda (Roald Dahl",
+      "texte_balise": "Matilda (Roald Dahl",
+      "bbox": [
+        1547.2,
+        456.7,
+        1706.1,
+        471.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Michael Ende)",
+      "texte_balise": "(Michael Ende)",
+      "bbox": [
+        917.2,
+        459.0,
+        1037.1,
+        473.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(George MacDonald)",
+      "texte_balise": "(George MacDonald)",
+      "bbox": [
+        462.8,
+        462.0,
+        588.2,
+        476.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Lewis Carrol)",
+      "texte_balise": "(Lewis Carrol)",
+      "bbox": [
+        2.8,
+        465.0,
+        94.8,
+        479.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Astrid Lindgreen)",
+      "texte_balise": "(Astrid Lindgreen)",
+      "bbox": [
+        1731.2,
+        465.0,
+        1895.7,
+        484.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MADELINE",
+      "texte_balise": "MADELINE",
+      "bbox": [
+        1349.2,
+        481.5,
+        1485.9,
+        507.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Little Princess",
+      "texte_balise": "A Little Princess",
+      "bbox": [
+        942.3,
+        501.0,
+        1014.8,
+        515.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILIP PULL MAI",
+      "texte_balise": "PHILIP PULL MAI",
+      "bbox": [
+        1580.7,
+        543.0,
+        1675.5,
+        560.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Secret Garden",
+      "texte_balise": "The Secret Garden",
+      "bbox": [
+        696.9,
+        601.0,
+        819.6,
+        618.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What Katy Did",
+      "texte_balise": "What Katy Did",
+      "bbox": [
+        262.0,
+        631.9,
+        348.5,
+        649.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anne of Green Gables",
+      "texte_balise": "Anne of Green Gables",
+      "bbox": [
+        421.0,
+        673.8,
+        621.7,
+        691.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Little Princess",
+      "texte_balise": "A Little Princess",
+      "bbox": [
+        892.1,
+        673.8,
+        1078.9,
+        696.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What Katy did",
+      "texte_balise": "What Katy did",
+      "bbox": [
+        225.8,
+        676.6,
+        365.2,
+        699.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Secret Garden",
+      "texte_balise": "The Secret Garden",
+      "bbox": [
+        660.7,
+        679.0,
+        867.0,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What Maisie Knew",
+      "texte_balise": "What Maisie Knew",
+      "bbox": [
+        1134.6,
+        679.0,
+        1315.8,
+        699.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Madeline",
+      "texte_balise": "Madeline",
+      "bbox": [
+        1335.4,
+        679.4,
+        1432.9,
+        698.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zazie in the Metro",
+      "texte_balise": "Zazie in the Metro",
+      "bbox": [
+        39.0,
+        685.0,
+        178.4,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "His Dark Materials",
+      "texte_balise": "His Dark Materials",
+      "bbox": [
+        1558.4,
+        685.0,
+        1703.3,
+        702.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Lucy Maud Montgomery) (Frances Burnett)",
+      "texte_balise": "(Lucy Maud Montgomery) (Frances Burnett)",
+      "bbox": [
+        418.2,
+        696.0,
+        861.4,
+        724.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Susan Coolidge)",
+      "texte_balise": "(Susan Coolidge)",
+      "bbox": [
+        223.0,
+        698.9,
+        387.5,
+        721.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Frances Burnett)",
+      "texte_balise": "(Frances Burnett)",
+      "bbox": [
+        894.9,
+        701.7,
+        1092.8,
+        721.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Raymond Queneau)",
+      "texte_balise": "(Raymond Queneau)",
+      "bbox": [
+        36.2,
+        704.0,
+        195.1,
+        721.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Henry James)",
+      "texte_balise": "(Henry James)",
+      "bbox": [
+        1131.8,
+        704.0,
+        1274.0,
+        727.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Ludwig Bemelmans) (Philip Pullman)",
+      "texte_balise": "(Ludwig Bemelmans) (Philip Pullman)",
+      "bbox": [
+        1335.4,
+        704.0,
+        1683.8,
+        727.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dark/disturbing",
+      "texte_balise": "Dark/disturbing",
+      "bbox": [
+        8.4,
+        790.8,
+        242.5,
+        824.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A. N. WILSON",
+      "texte_balise": "A. N. WILSON",
+      "bbox": [
+        933.9,
+        840.9,
+        1056.6,
+        858.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BastaRd ouT of caroLina",
+      "texte_balise": "BastaRd ouT of caroLina",
+      "bbox": [
+        270.4,
+        849.0,
+        398.7,
+        860.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRYN. GREENWOOD",
+      "texte_balise": "BRYN. GREENWOOD",
+      "bbox": [
+        1173.7,
+        852.0,
+        1293.5,
+        858.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADorn Alican",
+      "texte_balise": "ADorn Alican",
+      "bbox": [
+        292.7,
+        871.5,
+        370.8,
+        877.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "1 The Enchante",
+      "texte_balise": "1 The Enchante",
+      "bbox": [
+        1614.1,
+        882.7,
+        1672.7,
+        894.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALL THE",
+      "texte_balise": "ALL THE",
+      "bbox": [
+        1190.4,
+        885.0,
+        1276.8,
+        899.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UGLY AND",
+      "texte_balise": "UGLY AND",
+      "bbox": [
+        1184.8,
+        913.0,
+        1288.0,
+        930.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Belvedere Field",
+      "texte_balise": "The Belvedere Field",
+      "bbox": [
+        713.7,
+        938.0,
+        847.5,
+        955.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WONDERFUL",
+      "texte_balise": "WONDERFUL",
+      "bbox": [
+        1176.4,
+        941.1,
+        1296.3,
+        957.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anthony Nobbs",
+      "texte_balise": "Anthony Nobbs",
+      "bbox": [
+        736.0,
+        960.6,
+        825.2,
+        975.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THINGS",
+      "texte_balise": "THINGS",
+      "bbox": [
+        1198.8,
+        971.8,
+        1271.2,
+        988.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TICER TIGER",
+      "texte_balise": "TICER TIGER",
+      "bbox": [
+        512.9,
+        977.1,
+        605.0,
+        994.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lalita",
+      "texte_balise": "Lalita",
+      "bbox": [
+        1421.7,
+        980.0,
+        1477.6,
+        1002.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VLADIMIR NABOKOV",
+      "texte_balise": "VLADIMIR NABOKOV",
+      "bbox": [
+        1399.5,
+        1024.7,
+        1502.6,
+        1039.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tiger Tiger",
+      "texte_balise": "Tiger Tiger",
+      "bbox": [
+        482.2,
+        1043.7,
+        580.0,
+        1064.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dream Children",
+      "texte_balise": "Dream Children",
+      "bbox": [
+        922.8,
+        1044.0,
+        1078.9,
+        1061.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mouchette",
+      "texte_balise": "Mouchette",
+      "bbox": [
+        13.9,
+        1044.2,
+        133.8,
+        1063.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Belvedere Field",
+      "texte_balise": "The Belvedere Field",
+      "bbox": [
+        694.2,
+        1047.0,
+        861.4,
+        1064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bastard Out of Carolina",
+      "texte_balise": "Bastard Out of Carolina",
+      "bbox": [
+        259.3,
+        1049.7,
+        440.5,
+        1066.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "All the ugly and wonderful things",
+      "texte_balise": "All the ugly and wonderful things",
+      "bbox": [
+        1120.7,
+        1049.7,
+        1366.0,
+        1069.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lolita",
+      "texte_balise": "Lolita",
+      "bbox": [
+        1377.2,
+        1052.5,
+        1424.6,
+        1066.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Enchanter",
+      "texte_balise": "The Enchanter",
+      "bbox": [
+        1580.7,
+        1055.0,
+        1695.0,
+        1072.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Margaux Fragoso)",
+      "texte_balise": "(Margaux Fragoso)",
+      "bbox": [
+        482.3,
+        1063.7,
+        646.8,
+        1083.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Dorothy Allison)",
+      "texte_balise": "(Dorothy Allison)",
+      "bbox": [
+        256.5,
+        1066.0,
+        395.9,
+        1083.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Anthony Nobbs)",
+      "texte_balise": "(Anthony Nobbs)",
+      "bbox": [
+        694.2,
+        1066.0,
+        839.1,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(A.N Wilson)",
+      "texte_balise": "(A.N Wilson)",
+      "bbox": [
+        920.0,
+        1066.0,
+        1051.0,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Bryn Greenwood)",
+      "texte_balise": "(Bryn Greenwood)",
+      "bbox": [
+        1117.9,
+        1066.0,
+        1262.9,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Vladimir Nabokov)",
+      "texte_balise": "(Vladimir Nabokov)",
+      "bbox": [
+        1377.2,
+        1069.0,
+        1530.5,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Georges Bernanos)",
+      "texte_balise": "(Georges Bernanos)",
+      "bbox": [
+        13.9,
+        1072.0,
+        231.4,
+        1094.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Vladimir Nabokov)",
+      "texte_balise": "(Vladimir Nabokov)",
+      "bbox": [
+        1580.7,
+        1074.8,
+        1731.2,
+        1089.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mathilda",
+      "texte_balise": "Mathilda",
+      "bbox": [
+        309.2,
+        1129.5,
+        384.9,
+        1150.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAMB",
+      "texte_balise": "LAMB",
+      "bbox": [
+        97.5,
+        1191.6,
+        153.4,
+        1214.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MADY WOLSTONECRAFT CHELLEY",
+      "texte_balise": "MADY WOLSTONECRAFT CHELLEY",
+      "bbox": [
+        270.4,
+        1264.0,
+        421.0,
+        1270.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mathilda",
+      "texte_balise": "Mathilda",
+      "bbox": [
+        256.4,
+        1341.8,
+        329.0,
+        1359.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lamb (Bonnie Nadzam)",
+      "texte_balise": "Lamb (Bonnie Nadzam)",
+      "bbox": [
+        30.7,
+        1361.6,
+        211.9,
+        1376.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(Mary Wollstonecraft)",
+      "texte_balise": "(Mary Wollstonecraft)",
+      "bbox": [
+        253.7,
+        1361.6,
+        432.1,
+        1381.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

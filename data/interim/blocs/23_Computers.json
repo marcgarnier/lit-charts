@@ -1,0 +1,1472 @@
+{
+  "fichier": "23_Computers.jpeg",
+  "date": "2026-07-21T19:28:36.680909+00:00",
+  "taille_origine": [
+    1134,
+    2268
+  ],
+  "hauteur_ligne_mediane": 15.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 67,
+  "nb_noeuds": 125,
+  "tiers": [
+    "Precalculus",
+    "PROGRAMMING",
+    "The Practice of",
+    "Artificial Intelligence",
+    "DEEP"
+  ],
+  "intitules_isoles": [
+    "parallel-algorithms-book.com",
+    "- Start at top and work left to right in order",
+    "- Do all the exercises, you learn by doing",
+    "- Use Abe Books to buy International version at only 10% reg price",
+    "Imperative & Functional Computation, Algorithms Design/Analysis,",
+    "Language Theory, O/S, Hardware, Theory of Computation, Graphs,",
+    "- Security elective lecture series:",
+    "howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html",
+    "- The Art of Computer Programming Series by Don Knuth (DEK)",
+    "- This is not a 'reference' there's exercises for a reason",
+    "- Even the tape drive algorithms are still relevant, as modern RAM is fastest accessed sequentially",
+    "- You will kek at all the new blog posts that just reinvent Knuth algorithms from the 1960s",
+    "- You can contribute to library writing for newer languages (Rust, Go)",
+    "- Try Guix functional package manager (or GuixSD)",
+    "- Look up your local university compsci dept events page",
+    "- Try some Cryptography",
+    "www.hyperelliptic.org/tanja/teaching.html",
+    "https://cr.yp.to/talks.html",
+    "https://cryptopals.com/"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        7.9,
+        6.0,
+        158.1,
+        113.9
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "WINNER OF THE PULITZER PRIZE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GODEL,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ESCHER,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BACH:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AN ETERNAL GOLDEN BRAID",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Precalculus",
+      "bbox": [
+        187.8,
+        9.4,
+        306.2,
+        77.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A Prelude lo Calculus",
+          "auteur": null,
+          "tier": "Precalculus"
+        },
+        {
+          "titre": "Send Else",
+          "auteur": null,
+          "tier": "Precalculus"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        894.0,
+        16.0,
+        1060.0,
+        40.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mathematics for Computer Science",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "revised Mooday 18ª May, 2015,01:43",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        680.0,
+        22.0,
+        768.0,
+        67.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ESSENTIALS OF",
+          "auteur": "PROGRAMMING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        572.0,
+        40.0,
+        628.0,
+        69.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Interpretation",
+          "auteur": "Proprams",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        796.0,
+        44.0,
+        830.0,
+        48.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THEOD LITRON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        536.0,
+        79.9,
+        570.0,
+        87.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Seen Laden",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        892.0,
+        87.9,
+        1058.0,
+        217.8
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "Eric Lehman",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Google Inc.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "F Thomson Leighton",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Deperiment of Mathematics",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and the Computer Sciense and Al Laboratoes,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Akanai Techoolgies",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Albert R Meyer",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Depertment of Electral Enzineering and Compur Science",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "and the Computer Scinoe and Al Laboracey:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        56.0,
+        141.9,
+        76.0,
+        159.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "E",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        192.0,
+        183.2,
+        300.0,
+        223.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Sheldon Adler",
+          "auteur": "will Student Slalion Manal",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2.0,
+        189.9,
+        162.0,
+        279.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "DOUGLAS R",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HOFSTADTER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "А МЕТАРИРИ КР. РЕМА МОР МАСНІМІЯ",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SECOND EDITION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        678.0,
+        203.8,
+        798.0,
+        213.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Daniel P. Friedman and Mitchel Wand",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        400.0,
+        237.4,
+        484.0,
+        281.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MODERN",
+          "auteur": "OPERATING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        340.0,
+        243.8,
+        386.0,
+        253.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TANENBAUM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        180.0,
+        251.8,
+        316.0,
+        293.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THRO CONFOR",
+          "auteur": "COMPUTER SYSTEMS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        500.0,
+        259.8,
+        656.0,
+        306.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "Algorithm Design",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        680.0,
+        267.8,
+        836.0,
+        311.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Introduction to the Theory of",
+          "auteur": "COMPUTATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        876.0,
+        277.8,
+        1116.0,
+        329.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Algorithm Design:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Parallel & Sequential",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        872.0,
+        357.7,
+        1116.0,
+        377.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "parallel-algorithms-book.com",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "PROGRAMMING",
+      "bbox": [
+        10.0,
+        373.7,
+        148.0,
+        469.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "LANGUAGE",
+          "auteur": null,
+          "tier": "PROGRAMMING"
+        },
+        {
+          "titre": "BRIAN W KERNICHAN",
+          "auteur": null,
+          "tier": "PROGRAMMING"
+        },
+        {
+          "titre": "DENNIS M.RITCHIE",
+          "auteur": null,
+          "tier": "PROGRAMMING"
+        },
+        {
+          "titre": "PRONCE BAL STONE ME",
+          "auteur": null,
+          "tier": "PROGRAMMING"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        696.0,
+        425.7,
+        822.0,
+        437.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MICHAEL SIPSER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        538.0,
+        437.7,
+        622.0,
+        469.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Steven S. Skiena",
+          "auteur": "2 Springer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        194.0,
+        449.6,
+        300.0,
+        459.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRYANT • O'HALLARON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        168.0,
+        493.6,
+        244.0,
+        503.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gradule Tats le Mathematio",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        260.0,
+        493.6,
+        312.0,
+        519.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GTM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        520.0,
+        495.6,
+        576.0,
+        503.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROBERT HARPER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Practice of",
+      "bbox": [
+        667.7,
+        504.0,
+        820.3,
+        589.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Programming",
+          "auteur": null,
+          "tier": "The Practice of"
+        },
+        {
+          "titre": "Brian W. Kernighan",
+          "auteur": null,
+          "tier": "The Practice of"
+        },
+        {
+          "titre": "Rob Pike",
+          "auteur": null,
+          "tier": "The Practice of"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        18.0,
+        513.6,
+        144.0,
+        561.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Introduction to",
+          "auteur": "LINEAR ALGEBRA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        168.0,
+        543.6,
+        264.0,
+        587.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Keinnard Ulestel",
+          "auteur": "Graph Theory",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        520.0,
+        563.6,
+        652.0,
+        613.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Practical Foundations for",
+          "auteur": "PROGRAMMING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        866.0,
+        627.5,
+        1036.0,
+        699.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MYTHICAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MAN-MONTH",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REDERICK P. BROOKE. JR.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        718.0,
+        637.5,
+        748.0,
+        647.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gerereity",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Artificial Intelligence",
+      "bbox": [
+        388.0,
+        677.5,
+        486.0,
+        715.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A Modern Approach",
+          "auteur": null,
+          "tier": "Artificial Intelligence"
+        },
+        {
+          "titre": "This/ Earin",
+          "auteur": null,
+          "tier": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.0,
+        681.5,
+        138.0,
+        697.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GILBERT STRANG",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        336.0,
+        685.5,
+        366.0,
+        715.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Russell",
+          "auteur": "Norvig",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        264.0,
+        695.5,
+        308.0,
+        707.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "• Springer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        406.0,
+        759.4,
+        970.0,
+        807.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Computer Science Core",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DEEP",
+      "bbox": [
+        22.7,
+        784.4,
+        276.2,
+        1031.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "RULES FOR FOCUSED SUCCESS",
+          "auteur": null,
+          "tier": "DEEP"
+        },
+        {
+          "titre": "IN A DISTRACTED WORLD",
+          "auteur": null,
+          "tier": "DEEP"
+        },
+        {
+          "titre": "WORK",
+          "auteur": null,
+          "tier": "DEEP"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        288.0,
+        829.3,
+        988.0,
+        957.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "- Read \"Deep Work\" first",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Start at top and work left to right in order",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Do all the exercises, you learn by doing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Look up book author's homepage, often video lectures, free draft",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Use Abe Books to buy International version at only 10% reg price",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        288.0,
+        987.2,
+        1014.0,
+        1089.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "- This is a typical undergrad core:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Inis is a typical undergrad core:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Imperative & Functional Computation, Algorithms Design/Analysis,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Language Theory, O/S, Hardware, Theory of Computation, Graphs,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Linear Algebra applications, Al, plus software 'engineering'",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        1057.2,
+        244.0,
+        1091.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CAL NEWPORT",
+          "auteur": "AUTHOR OF SO GOOD THEY CANT IGNORE YOU",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        290.0,
+        1117.1,
+        1128.0,
+        1167.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "- Security elective lecture series:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        996.0,
+        1326.7,
+        1028.0,
+        1342.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MIX",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.0,
+        1330.7,
+        362.0,
+        1346.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE AXT UP",
+          "auteur": "CMPUTER PAOGRAMMING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        414.0,
+        1358.7,
+        478.0,
+        1368.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EXTENDED A ITS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        696.0,
+        1358.7,
+        740.0,
+        1376.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE CLAS",
+          "auteur": "NEWLY UPDAT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        622.0,
+        1362.7,
+        648.0,
+        1372.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NEWIX",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        274.0,
+        1384.7,
+        320.0,
+        1412.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BATHEMATICAL",
+          "auteur": "PELIIRLARIES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        80.0,
+        1388.7,
+        178.0,
+        1404.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE ANTUR",
+          "auteur": "COMPUTER PROGRAMMINC",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        495.8,
+        1394.1,
+        550.0,
+        1482.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The Art",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Compul",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Program",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HOUSES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Sorting and So",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        407.8,
+        1394.5,
+        468.2,
+        1453.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Art",
+          "auteur": "Compute",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        578.0,
+        1394.7,
+        618.0,
+        1452.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The a",
+          "auteur": "Comy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        700.0,
+        1398.7,
+        754.0,
+        1456.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Art",
+          "auteur": "Compu",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        626.0,
+        1404.7,
+        682.0,
+        1498.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The A",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Comp",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Progr",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MMIX",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A RSC Comp",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        78.0,
+        1438.7,
+        148.0,
+        1468.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A (PARTIAL) DRAFT",
+          "auteur": "SATISFIABILITY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        718.0,
+        1484.6,
+        752.0,
+        1492.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "That Wann",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        420.0,
+        1514.6,
+        482.0,
+        1528.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DONALD ES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        598.0,
+        1518.6,
+        640.0,
+        1534.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DONALY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        730.0,
+        1518.6,
+        766.0,
+        1528.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DONALL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        512.0,
+        1520.6,
+        560.0,
+        1530.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DONALD 1",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        656.0,
+        1522.6,
+        690.0,
+        1534.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DONAL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        442.0,
+        1656.5,
+        934.0,
+        1702.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Masters Degree Core",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.0,
+        1742.4,
+        1090.0,
+        1870.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "- The Art of Computer Programming Series by Don Knuth (DEK)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- This is not a 'reference' there's exercises for a reason",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Even the tape drive algorithms are still relevant, as modern RAM is fastest accessed sequentially",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- You will kek at all the new blog posts that just reinvent Knuth algorithms from the 1960s",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- You can contribute to library writing for newer languages (Rust, Go)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        424.0,
+        1900.3,
+        1112.0,
+        2026.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "- Try Guix functional package manager (or GuixSD)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Try microkernels (Hurd/debian, rumpkernel.org, libos)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Read journals and type their article DOI# into sci-hub for access",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Try a grad level seminar www.cs.cmu.edu/~rwh/courses/hott/",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Look up your local university compsci dept events page",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        224.4,
+        1913.6,
+        381.5,
+        1979.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GNU EMACS",
+          "auteur": "MANUAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        28.9,
+        1948.3,
+        139.4,
+        1997.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GNU Emace Reference Card",
+          "auteur": "Starting Fines",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        424.0,
+        2082.1,
+        900.0,
+        2182.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "- Try some Cryptography",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "www.hyperelliptic.org/tanja/teaching.html",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "https://cr.yp.to/talks.html",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "https://cryptopals.com/",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

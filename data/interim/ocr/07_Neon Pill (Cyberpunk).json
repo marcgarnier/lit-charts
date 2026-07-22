@@ -1,0 +1,1565 @@
+{
+  "fichier": "07_Neon Pill (Cyberpunk).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:52:20.489336+00:00",
+  "duree_s": 1.6,
+  "taille_origine": [
+    1480,
+    2584
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 141,
+  "lignes": [
+    {
+      "texte": "MEDM PILL",
+      "texte_balise": "MEDM PILL",
+      "bbox": [
+        344.2,
+        21.5,
+        1187.4,
+        90.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRESERVE YOUR SOFTWARE AT ANY COST.",
+      "texte_balise": "PRESERVE YOUR SOFTWARE AT ANY COST.",
+      "bbox": [
+        1161.6,
+        152.6,
+        1389.7,
+        163.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE REST IS MEAT.",
+      "texte_balise": "THE REST IS MEAT.",
+      "bbox": [
+        1226.2,
+        162.9,
+        1325.1,
+        174.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOFTWARE",
+      "texte_balise": "SOFTWARE",
+      "bbox": [
+        1143.8,
+        174.5,
+        1405.3,
+        266.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STAND ON",
+      "texte_balise": "STAND ON",
+      "bbox": [
+        102.7,
+        202.5,
+        248.0,
+        257.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZANZIBAR",
+      "texte_balise": "ZANZIBAR",
+      "bbox": [
+        103.2,
+        249.1,
+        249.6,
+        299.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELECTRIC",
+      "texte_balise": "ELECTRIC",
+      "bbox": [
+        468.8,
+        302.4,
+        598.2,
+        329.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN BRUNNER",
+      "texte_balise": "JOHN BRUNNER",
+      "bbox": [
+        105.3,
+        306.9,
+        247.5,
+        340.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHEEP",
+      "texte_balise": "SHEEP",
+      "bbox": [
+        477.5,
+        324.2,
+        576.6,
+        352.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philip K Dick",
+      "texte_balise": "Philip K Dick",
+      "bbox": [
+        496.8,
+        379.6,
+        570.2,
+        396.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        783.0,
+        440.6,
+        847.6,
+        468.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ShochUJove",
+      "texte_balise": "ShochUJove",
+      "bbox": [
+        785.2,
+        475.0,
+        974.5,
+        503.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Pider",
+      "texte_balise": "Pider",
+      "bbox": [
+        873.4,
+        503.0,
+        972.3,
+        535.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RUDY RUCKER",
+      "texte_balise": "RUDY RUCKER",
+      "bbox": [
+        1200.3,
+        517.6,
+        1344.5,
+        537.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Author of WHITE LIGHT and SPACETIME DONUTS",
+      "texte_balise": "Author of WHITE LIGHT and SPACETIME DONUTS",
+      "bbox": [
+        1163.8,
+        535.2,
+        1383.2,
+        545.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The shockwave Rider",
+      "texte_balise": "The shockwave Rider",
+      "bbox": [
+        737.8,
+        558.6,
+        1094.9,
+        573.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Androids",
+      "texte_balise": "Androids",
+      "bbox": [
+        436.7,
+        561.0,
+        587.3,
+        578.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stand on Zanzibar",
+      "texte_balise": "Stand on Zanzibar",
+      "bbox": [
+        30.1,
+        563.1,
+        350.6,
+        578.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Do",
+      "texte_balise": "Do",
+      "bbox": [
+        380.8,
+        563.1,
+        415.2,
+        578.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dream",
+      "texte_balise": "Dream",
+      "bbox": [
+        608.8,
+        563.1,
+        701.3,
+        578.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sheep? John Brunner",
+      "texte_balise": "Sheep? John Brunner",
+      "bbox": [
+        608.8,
+        578.2,
+        963.7,
+        597.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Ware Trilogy",
+      "texte_balise": "The Ware Trilogy",
+      "bbox": [
+        1144.4,
+        578.2,
+        1445.6,
+        595.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Electric",
+      "texte_balise": "Electric",
+      "bbox": [
+        436.7,
+        580.3,
+        598.0,
+        597.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John Brunner",
+      "texte_balise": "John Brunner",
+      "bbox": [
+        32.3,
+        582.5,
+        256.0,
+        597.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "O f",
+      "texte_balise": "O f",
+      "bbox": [
+        380.8,
+        582.5,
+        415.2,
+        595.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Rucker",
+      "texte_balise": "Rucker",
+      "bbox": [
+        1239.1,
+        595.4,
+        1348.8,
+        610.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudy",
+      "texte_balise": "Rudy",
+      "bbox": [
+        1144.4,
+        597.5,
+        1217.6,
+        612.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philip K Dick",
+      "texte_balise": "Philip K Dick",
+      "bbox": [
+        380.8,
+        599.6,
+        623.8,
+        616.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF THE DULLOWO ABI",
+      "texte_balise": "AUTHOR OF THE DULLOWO ABI",
+      "bbox": [
+        1230.5,
+        646.6,
+        1329.4,
+        657.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* NEAL STEPHENSON",
+      "texte_balise": "* NEAL STEPHENSON",
+      "bbox": [
+        1161.6,
+        651.3,
+        1385.3,
+        677.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLE LAFOR ASCER FLUFL ALL FOR DALINE",
+      "texte_balise": "FLE LAFOR ASCER FLUFL ALL FOR DALINE",
+      "bbox": [
+        137.7,
+        659.5,
+        284.0,
+        670.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DR.ADDER",
+      "texte_balise": "DR.ADDER",
+      "bbox": [
+        73.1,
+        670.4,
+        292.6,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SNOW CRASH",
+      "texte_balise": "SNOW CRASH",
+      "bbox": [
+        1169.9,
+        686.9,
+        1398.6,
+        761.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT SILVERBERG",
+      "texte_balise": "ROBERT SILVERBERG",
+      "bbox": [
+        836.8,
+        698.5,
+        944.4,
+        709.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KW JETER",
+      "texte_balise": "KW JETER",
+      "bbox": [
+        101.1,
+        704.5,
+        258.1,
+        730.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EDITED BY TERRY CARR",
+      "texte_balise": "EDITED BY TERRY CARR",
+      "bbox": [
+        839.0,
+        711.5,
+        948.7,
+        722.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW RCE SCIENCE",
+      "texte_balise": "THE NEW RCE SCIENCE",
+      "bbox": [
+        843.3,
+        730.5,
+        948.7,
+        741.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEUROMANCER",
+      "texte_balise": "NEUROMANCER",
+      "bbox": [
+        793.8,
+        786.7,
+        993.8,
+        818.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TILLIAM GIE",
+      "texte_balise": "TILLIAM GIE",
+      "bbox": [
+        802.4,
+        814.4,
+        942.2,
+        834.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dr Adder",
+      "texte_balise": "Dr Adder",
+      "bbox": [
+        71.0,
+        1033.9,
+        219.4,
+        1046.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sprawl Trilogy",
+      "texte_balise": "The Sprawl Trilogy",
+      "bbox": [
+        740.0,
+        1036.0,
+        1075.6,
+        1053.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Snow",
+      "texte_balise": "Snow",
+      "bbox": [
+        1131.5,
+        1038.2,
+        1206.8,
+        1053.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crash",
+      "texte_balise": "Crash",
+      "bbox": [
+        1226.2,
+        1038.2,
+        1318.7,
+        1053.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Burning",
+      "texte_balise": "Burning",
+      "bbox": [
+        417.3,
+        1042.5,
+        544.2,
+        1059.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chrome",
+      "texte_balise": "Chrome",
+      "bbox": [
+        567.9,
+        1042.5,
+        679.8,
+        1057.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "K.W. Jeter",
+      "texte_balise": "K.W. Jeter",
+      "bbox": [
+        71.0,
+        1051.1,
+        258.1,
+        1068.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nilliam Gibson",
+      "texte_balise": "Nilliam Gibson",
+      "bbox": [
+        740.0,
+        1055.3,
+        1000.3,
+        1070.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neal",
+      "texte_balise": "Neal",
+      "bbox": [
+        1131.5,
+        1057.5,
+        1202.5,
+        1072.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stephenson",
+      "texte_balise": "Stephenson",
+      "bbox": [
+        1226.2,
+        1057.5,
+        1413.3,
+        1074.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        417.3,
+        1061.8,
+        546.4,
+        1076.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gibson",
+      "texte_balise": "Gibson",
+      "bbox": [
+        567.9,
+        1061.8,
+        679.8,
+        1076.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETER WATTS",
+      "texte_balise": "PETER WATTS",
+      "bbox": [
+        51.6,
+        1115.2,
+        286.1,
+        1143.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WINNER OF THE PHILIP' DICK AWARD",
+      "texte_balise": "WINNER OF THE PHILIP' DICK AWARD",
+      "bbox": [
+        445.3,
+        1132.7,
+        621.7,
+        1145.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BER OF THE PHILIP A DICK AWARD",
+      "texte_balise": "BER OF THE PHILIP A DICK AWARD",
+      "bbox": [
+        464.7,
+        1133.0,
+        621.7,
+        1144.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD K",
+      "texte_balise": "RICHARD K",
+      "bbox": [
+        430.2,
+        1145.2,
+        628.1,
+        1176.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD K.",
+      "texte_balise": "RICHARD K.",
+      "bbox": [
+        430.2,
+        1148.0,
+        638.9,
+        1178.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "charles stross",
+      "texte_balise": "charles stross",
+      "bbox": [
+        787.3,
+        1149.9,
+        1019.7,
+        1178.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STARFISH",
+      "texte_balise": "STARFISH",
+      "bbox": [
+        53.6,
+        1162.0,
+        286.3,
+        1223.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORGAN",
+      "texte_balise": "MORGAN",
+      "bbox": [
+        428.1,
+        1173.6,
+        634.6,
+        1210.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AUTHOR OF BON HU",
+      "texte_balise": "AUTHOR OF BON HU",
+      "bbox": [
+        808.8,
+        1177.9,
+        914.2,
+        1188.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RUTHOR OF ON BONDID!",
+      "texte_balise": "RUTHOR OF ON BONDID!",
+      "bbox": [
+        808.8,
+        1178.0,
+        940.1,
+        1189.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "at Woken E",
+      "texte_balise": "at Woken E",
+      "bbox": [
+        512.0,
+        1212.7,
+        559.3,
+        1223.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALTERED",
+      "texte_balise": "ALTERED",
+      "bbox": [
+        425.6,
+        1243.4,
+        544.6,
+        1284.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NEW TORK TIMIS NOTABLE BO",
+      "texte_balise": "A NEW TORK TIMIS NOTABLE BO",
+      "bbox": [
+        66.7,
+        1244.1,
+        253.8,
+        1257.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L NEW TORK TIMIS NOTABLE",
+      "texte_balise": "L NEW TORK TIMIS NOTABLE",
+      "bbox": [
+        71.0,
+        1244.9,
+        238.8,
+        1257.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARBON",
+      "texte_balise": "CARBON",
+      "bbox": [
+        520.5,
+        1295.9,
+        638.9,
+        1334.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIVER OF GODS",
+      "texte_balise": "RIVER OF GODS",
+      "bbox": [
+        1142.3,
+        1332.6,
+        1389.7,
+        1369.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IAN McDONALD",
+      "texte_balise": "IAN McDONALD",
+      "bbox": [
+        1163.8,
+        1379.9,
+        1366.0,
+        1401.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "accelerando",
+      "texte_balise": "accelerando",
+      "bbox": [
+        828.2,
+        1466.3,
+        978.8,
+        1487.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A TAKESHI KOVACS NOVEN",
+      "texte_balise": "A TAKESHI KOVACS NOVEN",
+      "bbox": [
+        432.4,
+        1470.6,
+        531.3,
+        1481.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Rifters",
+      "texte_balise": "The Rifters",
+      "bbox": [
+        17.2,
+        1517.7,
+        223.7,
+        1532.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trilogy",
+      "texte_balise": "Trilogy",
+      "bbox": [
+        221.6,
+        1517.9,
+        374.3,
+        1535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Takeshi",
+      "texte_balise": "The Takeshi",
+      "bbox": [
+        391.5,
+        1519.7,
+        595.9,
+        1535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Accelerando",
+      "texte_balise": "Accelerando",
+      "bbox": [
+        783.0,
+        1532.9,
+        987.4,
+        1548.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trilogy",
+      "texte_balise": "Trilogy",
+      "bbox": [
+        520.1,
+        1536.6,
+        656.5,
+        1558.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kovaes",
+      "texte_balise": "Kovaes",
+      "bbox": [
+        391.1,
+        1536.8,
+        505.9,
+        1556.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Peter",
+      "texte_balise": "Peter",
+      "bbox": [
+        17.2,
+        1537.2,
+        124.8,
+        1550.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Watts",
+      "texte_balise": "Watts",
+      "bbox": [
+        129.1,
+        1537.2,
+        221.6,
+        1550.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "River",
+      "texte_balise": "River",
+      "bbox": [
+        1148.7,
+        1541.5,
+        1243.4,
+        1556.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• f",
+      "texte_balise": "• f",
+      "bbox": [
+        1260.6,
+        1541.5,
+        1299.3,
+        1556.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gods",
+      "texte_balise": "Gods",
+      "bbox": [
+        1320.8,
+        1541.5,
+        1394.0,
+        1556.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles",
+      "texte_balise": "Charles",
+      "bbox": [
+        783.0,
+        1552.3,
+        929.3,
+        1567.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stross",
+      "texte_balise": "Stross",
+      "bbox": [
+        933.6,
+        1552.3,
+        1045.5,
+        1567.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard K. Morgan",
+      "texte_balise": "Richard K. Morgan",
+      "bbox": [
+        391.5,
+        1556.6,
+        712.0,
+        1573.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I an",
+      "texte_balise": "I an",
+      "bbox": [
+        1153.0,
+        1560.7,
+        1211.1,
+        1575.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McDonald",
+      "texte_balise": "McDonald",
+      "bbox": [
+        1226.2,
+        1560.9,
+        1374.6,
+        1575.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CABIN CONOR - DARICE CODEROSDU",
+      "texte_balise": "CABIN CONOR - DARICE CODEROSDU",
+      "bbox": [
+        845.4,
+        1599.6,
+        1011.0,
+        1616.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TRANSMETROPOUITAN",
+      "texte_balise": "TRANSMETROPOUITAN",
+      "bbox": [
+        786.4,
+        1612.6,
+        1047.4,
+        1702.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PROG 158",
+      "texte_balise": "PROG 158",
+      "bbox": [
+        58.1,
+        1623.2,
+        105.4,
+        1634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AKIRA",
+      "texte_balise": "AKIRA",
+      "bbox": [
+        413.2,
+        1623.5,
+        672.2,
+        1746.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "12 JULY 90",
+      "texte_balise": "12 JULY 90",
+      "bbox": [
+        58.1,
+        1633.7,
+        105.4,
+        1644.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "arity",
+      "texte_balise": "arity",
+      "bbox": [
+        1286.4,
+        1661.9,
+        1350.9,
+        1676.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "singu",
+      "texte_balise": "singu",
+      "bbox": [
+        1196.0,
+        1664.1,
+        1271.3,
+        1676.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AL TORNADO",
+      "texte_balise": "AL TORNADO",
+      "bbox": [
+        154.9,
+        1676.6,
+        245.2,
+        1698.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRITAIN'S NOT",
+      "texte_balise": "BRITAIN'S NOT",
+      "bbox": [
+        53.8,
+        1728.5,
+        120.5,
+        1737.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANY QUESTIONS?",
+      "texte_balise": "ANY QUESTIONS?",
+      "bbox": [
+        256.0,
+        1730.6,
+        346.3,
+        1743.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OTOMO KATSUHIRO",
+      "texte_balise": "OTOMO KATSUHIRO",
+      "bbox": [
+        423.8,
+        1734.6,
+        518.4,
+        1752.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "COMIC HERO",
+      "texte_balise": "COMIC HERO",
+      "bbox": [
+        55.9,
+        1739.2,
+        118.3,
+        1748.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAYS DOWN",
+      "texte_balise": "LAYS DOWN",
+      "bbox": [
+        51.6,
+        1747.7,
+        116.2,
+        1760.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LAW",
+      "texte_balise": "THE LAW",
+      "bbox": [
+        53.8,
+        1758.6,
+        96.8,
+        1771.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-INSIDE:",
+      "texte_balise": "-INSIDE:",
+      "bbox": [
+        53.8,
+        1771.5,
+        103.3,
+        1782.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Akira",
+      "texte_balise": "Akira",
+      "bbox": [
+        417.3,
+        1988.6,
+        509.8,
+        2003.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Judge Dredd",
+      "texte_balise": "Judge Dredd",
+      "bbox": [
+        109.7,
+        1995.1,
+        314.1,
+        2012.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Transmetropolitan",
+      "texte_balise": "Transmetropolitan",
+      "bbox": [
+        772.3,
+        2001.5,
+        1094.9,
+        2018.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Otomo Katsuhiro",
+      "texte_balise": "Otomo Katsuhiro",
+      "bbox": [
+        419.5,
+        2008.0,
+        701.3,
+        2023.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Singularity 7",
+      "texte_balise": "Singularity 7",
+      "bbox": [
+        1144.4,
+        2012.3,
+        1387.5,
+        2029.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "2000AD",
+      "texte_balise": "2000AD",
+      "bbox": [
+        109.7,
+        2014.4,
+        219.4,
+        2027.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Warren Ellis",
+      "texte_balise": "Warren Ellis",
+      "bbox": [
+        772.3,
+        2018.4,
+        998.1,
+        2036.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ben",
+      "texte_balise": "Ben",
+      "bbox": [
+        1144.4,
+        2031.6,
+        1200.3,
+        2046.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Templesmiuth",
+      "texte_balise": "Templesmiuth",
+      "bbox": [
+        1221.9,
+        2031.6,
+        1445.6,
+        2048.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "3100",
+      "texte_balise": "3100",
+      "bbox": [
+        294.7,
+        2091.8,
+        324.8,
+        2104.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G U R",
+      "texte_balise": "G U R",
+      "bbox": [
+        815.3,
+        2098.2,
+        959.4,
+        2128.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "-bERPUNK",
+      "texte_balise": "-bERPUNK",
+      "bbox": [
+        432.4,
+        2100.4,
+        697.0,
+        2179.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "sechnoir",
+      "texte_balise": "sechnoir",
+      "bbox": [
+        1199.7,
+        2114.4,
+        1426.8,
+        2168.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HADOWRUN",
+      "texte_balise": "HADOWRUN",
+      "bbox": [
+        111.6,
+        2116.1,
+        314.4,
+        2159.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CYBERPUNK",
+      "texte_balise": "CYBERPUNK",
+      "bbox": [
+        817.4,
+        2139.1,
+        1067.0,
+        2175.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Meh-Tech Low-Life Roleplaying Sourcebook",
+      "texte_balise": "Meh-Tech Low-Life Roleplaying Sourcebook",
+      "bbox": [
+        830.3,
+        2175.3,
+        1054.1,
+        2190.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE CLASSIC ROLEPLAYING GAME OF THE DARK FUTURE",
+      "texte_balise": "THE CLASSIC ROLEPLAYING GAME OF THE DARK FUTURE",
+      "bbox": [
+        425.9,
+        2182.1,
+        712.0,
+        2193.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "maharise",
+      "texte_balise": "maharise",
+      "bbox": [
+        417.3,
+        2237.9,
+        449.6,
+        2246.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Малс",
+      "texte_balise": "Малс",
+      "bbox": [
+        417.3,
+        2278.8,
+        436.7,
+        2289.5
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Sarth.",
+      "texte_balise": "Sarth.",
+      "bbox": [
+        417.3,
+        2296.0,
+        445.3,
+        2300.3
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Morale",
+      "texte_balise": "Morale",
+      "bbox": [
+        415.2,
+        2304.6,
+        441.0,
+        2308.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "migh tech,",
+      "texte_balise": "migh tech,",
+      "bbox": [
+        1316.5,
+        2323.9,
+        1389.7,
+        2356.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The crozir",
+      "texte_balise": "The crozir",
+      "bbox": [
+        417.3,
+        2334.2,
+        460.3,
+        2345.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "hard-boiled",
+      "texte_balise": "hard-boiled",
+      "bbox": [
+        1310.1,
+        2356.2,
+        1398.3,
+        2382.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "replaying",
+      "texte_balise": "replaying",
+      "bbox": [
+        1305.8,
+        2382.0,
+        1387.5,
+        2427.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERSA",
+      "texte_balise": "ERSA",
+      "bbox": [
+        258.1,
+        2397.0,
+        314.1,
+        2422.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TOYS BITINEN HIS",
+      "texte_balise": "TOYS BITINEN HIS",
+      "bbox": [
+        862.6,
+        2427.1,
+        1045.5,
+        2442.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "WHERE MAN MEETS MAGIC AND MACHIN",
+      "texte_balise": "WHERE MAN MEETS MAGIC AND MACHIN",
+      "bbox": [
+        49.5,
+        2433.1,
+        316.2,
+        2455.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CP 3000,0",
+      "texte_balise": "CP 3000,0",
+      "bbox": [
+        417.3,
+        2440.0,
+        469.0,
+        2451.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STEVE JACKSON GAMES",
+      "texte_balise": "STEVE JACKSON GAMES",
+      "bbox": [
+        808.8,
+        2455.0,
+        1071.3,
+        2472.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shadowrun",
+      "texte_balise": "Shadowrun",
+      "bbox": [
+        45.2,
+        2476.5,
+        210.8,
+        2491.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cyberpunk 2020",
+      "texte_balise": "Cyberpunk 2020",
+      "bbox": [
+        410.9,
+        2483.0,
+        673.3,
+        2500.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tech",
+      "texte_balise": "Tech",
+      "bbox": [
+        1206.8,
+        2489.4,
+        1279.9,
+        2502.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Noir",
+      "texte_balise": "Noir",
+      "bbox": [
+        1301.5,
+        2489.4,
+        1374.6,
+        2502.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GURPS Cyberpunk",
+      "texte_balise": "GURPS Cyberpunk",
+      "bbox": [
+        783.0,
+        2491.6,
+        1064.8,
+        2507.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FASA Corporation",
+      "texte_balise": "FASA Corporation",
+      "bbox": [
+        45.2,
+        2495.9,
+        344.2,
+        2513.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Talsonian",
+      "texte_balise": "Talsonian",
+      "bbox": [
+        441.0,
+        2500.2,
+        634.6,
+        2517.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Games",
+      "texte_balise": "Games",
+      "bbox": [
+        636.5,
+        2501.9,
+        729.5,
+        2517.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jeremy Keller",
+      "texte_balise": "Jeremy Keller",
+      "bbox": [
+        1206.8,
+        2506.6,
+        1449.9,
+        2524.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Steve Jackson Games",
+      "texte_balise": "Steve Jackson Games",
+      "bbox": [
+        783.0,
+        2508.8,
+        1142.3,
+        2526.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

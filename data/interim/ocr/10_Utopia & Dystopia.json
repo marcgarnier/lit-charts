@@ -1,0 +1,894 @@
+{
+  "fichier": "10_Utopia & Dystopia.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:46.745210+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    1575,
+    1057
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 80,
+  "lignes": [
+    {
+      "texte": "UTOPIA",
+      "texte_balise": "UTOPIA",
+      "bbox": [
+        1291.0,
+        20.2,
+        1378.2,
+        41.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DY STOPIA",
+      "texte_balise": "DY STOPIA",
+      "bbox": [
+        405.2,
+        20.6,
+        524.2,
+        41.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALDOUS",
+      "texte_balise": "ALDOUS",
+      "bbox": [
+        1373.5,
+        73.2,
+        1515.5,
+        100.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ranz katka",
+      "texte_balise": "ranz katka",
+      "bbox": [
+        620.3,
+        75.0,
+        789.9,
+        105.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NAKER LUNCH",
+      "texte_balise": "NAKER LUNCH",
+      "bbox": [
+        421.2,
+        75.5,
+        485.3,
+        96.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SF MASTERWO",
+      "texte_balise": "SF MASTERWO",
+      "bbox": [
+        228.9,
+        82.4,
+        240.4,
+        169.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PERCEN CLAC",
+      "texte_balise": "PERCEN CLAC",
+      "bbox": [
+        1174.4,
+        86.9,
+        1272.8,
+        91.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "SAMUEL DELANY",
+      "texte_balise": "SAMUEL DELANY",
+      "bbox": [
+        267.8,
+        91.5,
+        389.2,
+        105.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HUXLEY",
+      "texte_balise": "HUXLEY",
+      "bbox": [
+        1371.3,
+        96.1,
+        1515.5,
+        121.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1984",
+      "texte_balise": "1984",
+      "bbox": [
+        48.1,
+        100.7,
+        180.9,
+        125.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dhalgren",
+      "texte_balise": "Dhalgren",
+      "bbox": [
+        331.9,
+        105.2,
+        389.2,
+        116.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UTOPIA",
+      "texte_balise": "UTOPIA",
+      "bbox": [
+        1201.9,
+        107.5,
+        1247.6,
+        119.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRAVE",
+      "texte_balise": "BRAVE",
+      "bbox": [
+        1405.6,
+        121.3,
+        1481.1,
+        137.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NEW",
+      "texte_balise": "NEW",
+      "bbox": [
+        1414.8,
+        135.0,
+        1469.7,
+        151.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORLD",
+      "texte_balise": "WORLD",
+      "bbox": [
+        1405.5,
+        148.2,
+        1481.2,
+        163.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FISKADORO",
+      "texte_balise": "FISKADORO",
+      "bbox": [
+        840.2,
+        164.7,
+        961.5,
+        176.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the trial",
+      "texte_balise": "the trial",
+      "bbox": [
+        656.9,
+        219.0,
+        755.6,
+        240.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHNSON.",
+      "texte_balise": "JOHNSON.",
+      "bbox": [
+        885.9,
+        244.8,
+        991.2,
+        256.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CORMAC",
+      "texte_balise": "CORMAC",
+      "bbox": [
+        221.9,
+        280.7,
+        366.4,
+        314.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TA LEVIN",
+      "texte_balise": "TA LEVIN",
+      "bbox": [
+        1362.1,
+        288.3,
+        1517.8,
+        320.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "H. G. Wells",
+      "texte_balise": "H. G. Wells",
+      "bbox": [
+        439.5,
+        294.7,
+        574.6,
+        313.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In the Country",
+      "texte_balise": "In the Country",
+      "bbox": [
+        66.4,
+        297.4,
+        192.3,
+        324.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILL SELF",
+      "texte_balise": "WILL SELF",
+      "bbox": [
+        625.0,
+        306.6,
+        780.6,
+        331.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McCARTHY",
+      "texte_balise": "McCARTHY",
+      "bbox": [
+        222.0,
+        310.8,
+        391.5,
+        343.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This Porter",
+      "texte_balise": "This Porter",
+      "bbox": [
+        1355.1,
+        312.8,
+        1527.0,
+        346.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0 0 D",
+      "texte_balise": "0 0 D",
+      "bbox": [
+        959.2,
+        315.7,
+        995.8,
+        327.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Last Things",
+      "texte_balise": "of Last Things",
+      "bbox": [
+        72.9,
+        323.3,
+        194.9,
+        353.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Day",
+      "texte_balise": "Day",
+      "bbox": [
+        1405.6,
+        334.0,
+        1465.1,
+        359.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISLAME",
+      "texte_balise": "ISLAME",
+      "bbox": [
+        1172.1,
+        338.6,
+        1256.8,
+        350.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The BOOK of DAVE",
+      "texte_balise": "The BOOK of DAVE",
+      "bbox": [
+        625.0,
+        420.6,
+        782.9,
+        437.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Time Machine",
+      "texte_balise": "Time Machine",
+      "bbox": [
+        423.5,
+        439.3,
+        592.9,
+        464.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ROAD",
+      "texte_balise": "THE ROAD",
+      "bbox": [
+        299.9,
+        450.6,
+        391.5,
+        471.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROSEMARY'S BABY",
+      "texte_balise": "ROSEMARY'S BABY",
+      "bbox": [
+        1362.1,
+        464.4,
+        1515.5,
+        480.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ORD OF THE FLES",
+      "texte_balise": "ORD OF THE FLES",
+      "bbox": [
+        219.8,
+        489.5,
+        389.2,
+        503.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MAEL PERCY",
+      "texte_balise": "MAEL PERCY",
+      "bbox": [
+        1414.8,
+        491.5,
+        1533.8,
+        512.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ait crashes beorattaced ael capicons",
+      "texte_balise": "Ait crashes beorattaced ael capicons",
+      "bbox": [
+        43.5,
+        496.5,
+        190.0,
+        505.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "O R",
+      "texte_balise": "O R",
+      "bbox": [
+        643.3,
+        498.5,
+        714.2,
+        523.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTHONY",
+      "texte_balise": "ANTHONY",
+      "bbox": [
+        842.4,
+        498.8,
+        906.5,
+        503.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WILLIAM GOLDING",
+      "texte_balise": "WILLIAM GOLDING",
+      "bbox": [
+        222.1,
+        503.3,
+        391.5,
+        514.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "URSULAK",
+      "texte_balise": "URSULAK",
+      "bbox": [
+        1140.0,
+        507.9,
+        1316.3,
+        535.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MAN IN THE",
+      "texte_balise": "THE MAN IN THE",
+      "bbox": [
+        45.8,
+        510.2,
+        190.0,
+        530.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RAY",
+      "texte_balise": "RAY",
+      "bbox": [
+        430.4,
+        528.5,
+        485.3,
+        553.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HIGH CASTLE",
+      "texte_balise": "HIGH CASTLE",
+      "bbox": [
+        54.9,
+        533.1,
+        180.9,
+        553.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND",
+      "texte_balise": "AND",
+      "bbox": [
+        666.2,
+        533.1,
+        741.7,
+        556.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE GUIN",
+      "texte_balise": "LE GUIN",
+      "bbox": [
+        1151.5,
+        533.1,
+        1295.7,
+        558.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRADBURY",
+      "texte_balise": "BRADBURY",
+      "bbox": [
+        423.4,
+        546.0,
+        590.8,
+        577.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NOVEL BY PHILIP K. DICK",
+      "texte_balise": "A NOVEL BY PHILIP K. DICK",
+      "bbox": [
+        43.5,
+        555.5,
+        190.0,
+        567.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ГНЕ",
+      "texte_balise": "ГНЕ",
+      "bbox": [
+        1213.3,
+        560.5,
+        1238.5,
+        572.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "CRAKE",
+      "texte_balise": "CRAKE",
+      "bbox": [
+        627.2,
+        562.4,
+        783.0,
+        593.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLOCKWORK",
+      "texte_balise": "CLOCKWORK",
+      "bbox": [
+        826.4,
+        565.1,
+        1002.7,
+        581.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DISPO",
+      "texte_balise": "DISPO",
+      "bbox": [
+        1137.8,
+        569.7,
+        1213.3,
+        588.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISKD",
+      "texte_balise": "ISKD",
+      "bbox": [
+        1261.4,
+        569.7,
+        1316.3,
+        585.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ORANGE",
+      "texte_balise": "ORANGE",
+      "bbox": [
+        853.9,
+        599.4,
+        972.9,
+        624.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TIME",
+      "texte_balise": "TIME",
+      "bbox": [
+        1488.0,
+        601.7,
+        1531.5,
+        615.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RGARE",
+      "texte_balise": "RGARE",
+      "bbox": [
+        668.5,
+        622.3,
+        757.7,
+        640.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "451",
+      "texte_balise": "451",
+      "bbox": [
+        538.0,
+        629.2,
+        595.2,
+        658.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ir yu wire stocker ny tAIL SAFE",
+      "texte_balise": "ir yu wire stocker ny tAIL SAFE",
+      "bbox": [
+        45.8,
+        640.4,
+        187.7,
+        652.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FAHRENHEIT",
+      "texte_balise": "FAHRENHEIT",
+      "bbox": [
+        423.5,
+        642.9,
+        540.3,
+        656.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TWOO",
+      "texte_balise": "TWOO",
+      "bbox": [
+        668.5,
+        647.5,
+        741.7,
+        661.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and SEVEN DATS IN WAY, this revel",
+      "texte_balise": "and SEVEN DATS IN WAY, this revel",
+      "bbox": [
+        45.8,
+        649.4,
+        187.7,
+        661.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A REASONE SUAR",
+      "texte_balise": "A REASONE SUAR",
+      "bbox": [
+        1442.2,
+        649.4,
+        1531.5,
+        654.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The IRON",
+      "texte_balise": "The IRON",
+      "bbox": [
+        283.9,
+        704.3,
+        384.6,
+        718.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLADONOV",
+      "texte_balise": "PLADONOV",
+      "bbox": [
+        457.8,
+        704.7,
+        565.4,
+        718.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "KARIN",
+      "texte_balise": "KARIN",
+      "bbox": [
+        814.7,
+        706.0,
+        993.8,
+        751.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Come TonNent",
+      "texte_balise": "Come TonNent",
+      "bbox": [
+        1176.7,
+        707.0,
+        1277.4,
+        713.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "EREWHON",
+      "texte_balise": "EREWHON",
+      "bbox": [
+        1387.3,
+        711.5,
+        1499.5,
+        725.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE HISTORY OF RASSELAS",
+      "texte_balise": "THE HISTORY OF RASSELAS",
+      "bbox": [
+        1156.1,
+        716.1,
+        1300.3,
+        727.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        469.3,
+        718.4,
+        501.3,
+        729.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HEEL",
+      "texte_balise": "HEEL",
+      "bbox": [
+        320.4,
+        720.1,
+        387.0,
+        735.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Houndation",
+      "texte_balise": "Houndation",
+      "bbox": [
+        441.8,
+        727.5,
+        579.2,
+        750.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Swastıka Mıght",
+      "texte_balise": "Swastıka Mıght",
+      "bbox": [
+        617.8,
+        731.1,
+        792.3,
+        778.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A nord by JACK LONDON",
+      "texte_balise": "A nord by JACK LONDON",
+      "bbox": [
+        226.6,
+        736.3,
+        386.9,
+        748.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SAMUEL BiTTIER",
+      "texte_balise": "SAMUEL BiTTIER",
+      "bbox": [
+        1396.4,
+        741.3,
+        1483.4,
+        748.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BOYE",
+      "texte_balise": "BOYE",
+      "bbox": [
+        815.0,
+        748.1,
+        993.5,
+        798.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KALLOCAIN",
+      "texte_balise": "KALLOCAIN",
+      "bbox": [
+        815.0,
+        796.2,
+        995.8,
+        823.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LITERAR",
+      "texte_balise": "LITERAR",
+      "bbox": [
+        1357.5,
+        885.4,
+        1430.8,
+        890.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLEASE NOTE THAT THIS IS AN INCOMPLETE",
+      "texte_balise": "PLEASE NOTE THAT THIS IS AN INCOMPLETE",
+      "bbox": [
+        348.0,
+        965.1,
+        732.6,
+        981.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIST, AND THAT SOME OF THE LISTED ITEMS",
+      "texte_balise": "LIST, AND THAT SOME OF THE LISTED ITEMS",
+      "bbox": [
+        345.6,
+        985.9,
+        732.7,
+        1009.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CAN BE READ AS BOTHA DYSTOPIAN OR",
+      "texte_balise": "CAN BE READ AS BOTHA DYSTOPIAN OR",
+      "bbox": [
+        348.0,
+        1009.0,
+        702.8,
+        1023.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UTOPIAN WORK.",
+      "texte_balise": "UTOPIAN WORK.",
+      "bbox": [
+        345.7,
+        1027.0,
+        489.9,
+        1046.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "fichier": "17_Utopianism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:55:37.887063+00:00",
+  "duree_s": 1.3,
+  "taille_origine": [
+    1500,
+    1500
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 89,
+  "lignes": [
+    {
+      "texte": "/lit/ Guide to Utopianism",
+      "texte_balise": "/lit/ Guide to Utopianism",
+      "bbox": [
+        412.1,
+        67.6,
+        1114.1,
+        133.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The New",
+      "texte_balise": "The New",
+      "bbox": [
+        811.0,
+        187.3,
+        933.2,
+        216.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUIN CLASSICS",
+      "texte_balise": "PENGUIN CLASSICS",
+      "bbox": [
+        556.0,
+        198.0,
+        649.7,
+        205.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS MORE",
+      "texte_balise": "THOMAS MORE",
+      "bbox": [
+        562.5,
+        211.0,
+        647.5,
+        225.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atlantis",
+      "texte_balise": "Atlantis",
+      "bbox": [
+        819.8,
+        218.0,
+        924.4,
+        246.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UTOPIA",
+      "texte_balise": "UTOPIA",
+      "bbox": [
+        582.1,
+        228.9,
+        625.7,
+        239.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLATO",
+      "texte_balise": "PLATO",
+      "bbox": [
+        233.3,
+        248.5,
+        329.2,
+        274.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A UTOPIAN NOVEL",
+      "texte_balise": "A UTOPIAN NOVEL",
+      "bbox": [
+        811.0,
+        252.9,
+        935.3,
+        266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REPUBLIC",
+      "texte_balise": "REPUBLIC",
+      "bbox": [
+        233.3,
+        276.9,
+        377.2,
+        305.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE Expulsion of the",
+      "texte_balise": "THE Expulsion of the",
+      "bbox": [
+        1107.6,
+        285.6,
+        1229.7,
+        301.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Triumphant Beast",
+      "texte_balise": "Triumphant Beast",
+      "bbox": [
+        1111.9,
+        303.0,
+        1225.3,
+        318.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSLATED BY",
+      "texte_balise": "TRANSLATED BY",
+      "bbox": [
+        233.3,
+        348.8,
+        303.1,
+        360.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "G.M.A. GRUBE",
+      "texte_balise": "G.M.A. GRUBE",
+      "bbox": [
+        231.1,
+        359.7,
+        357.6,
+        377.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVISEO BY C.D.C. REEVE",
+      "texte_balise": "REVISEO BY C.D.C. REEVE",
+      "bbox": [
+        231.1,
+        379.0,
+        344.5,
+        392.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SIR FRANCIS BACON",
+      "texte_balise": "SIR FRANCIS BACON",
+      "bbox": [
+        798.0,
+        403.0,
+        946.2,
+        416.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Utopia",
+      "texte_balise": "Utopia",
+      "bbox": [
+        558.1,
+        464.4,
+        645.3,
+        490.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The New",
+      "texte_balise": "The New",
+      "bbox": [
+        808.9,
+        466.6,
+        928.8,
+        488.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Republic",
+      "texte_balise": "The Republic",
+      "bbox": [
+        215.8,
+        468.5,
+        390.3,
+        497.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Expulsion of the",
+      "texte_balise": "The Expulsion of the",
+      "bbox": [
+        1037.8,
+        468.8,
+        1310.3,
+        493.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plato",
+      "texte_balise": "Plato",
+      "bbox": [
+        272.5,
+        492.7,
+        331.4,
+        514.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas More",
+      "texte_balise": "Thomas More",
+      "bbox": [
+        525.4,
+        492.7,
+        675.9,
+        512.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atlantis",
+      "texte_balise": "Atlantis",
+      "bbox": [
+        815.2,
+        496.3,
+        922.4,
+        519.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Triumphant Beast",
+      "texte_balise": "Triumphant Beast",
+      "bbox": [
+        1055.2,
+        497.0,
+        1292.9,
+        523.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Francis Bacon",
+      "texte_balise": "Francis Bacon",
+      "bbox": [
+        791.4,
+        523.0,
+        948.4,
+        539.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Giordano Bruno",
+      "texte_balise": "Giordano Bruno",
+      "bbox": [
+        1087.9,
+        523.0,
+        1262.4,
+        543.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cambridge",
+      "texte_balise": "Cambridge",
+      "bbox": [
+        789.2,
+        630.1,
+        830.7,
+        636.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEXTS",
+      "texte_balise": "TEXTS",
+      "bbox": [
+        1081.4,
+        638.8,
+        1105.4,
+        649.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History of",
+      "texte_balise": "History of",
+      "bbox": [
+        789.2,
+        649.7,
+        830.7,
+        661.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Political",
+      "texte_balise": "Political",
+      "bbox": [
+        789.2,
+        660.6,
+        824.1,
+        671.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thought",
+      "texte_balise": "Thought",
+      "bbox": [
+        789.2,
+        673.7,
+        824.1,
+        684.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fénelon",
+      "texte_balise": "Fénelon",
+      "bbox": [
+        1153.3,
+        686.8,
+        1220.9,
+        704.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TALITICAL",
+      "texte_balise": "TALITICAL",
+      "bbox": [
+        1072.7,
+        697.7,
+        1111.9,
+        706.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Harrington",
+      "texte_balise": "Harrington",
+      "bbox": [
+        789.2,
+        715.1,
+        891.7,
+        736.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La Citta del Sole:",
+      "texte_balise": "La Citta del Sole:",
+      "bbox": [
+        246.4,
+        723.8,
+        357.6,
+        739.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Commonwealth",
+      "texte_balise": "The Commonwealth",
+      "bbox": [
+        789.2,
+        739.0,
+        941.9,
+        754.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dialogo Poetico",
+      "texte_balise": "Dialogo Poetico",
+      "bbox": [
+        248.3,
+        739.9,
+        353.4,
+        760.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Telemachus",
+      "texte_balise": "Telemachus",
+      "bbox": [
+        1083.1,
+        750.0,
+        1232.2,
+        801.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Oceana and",
+      "texte_balise": "of Oceana and",
+      "bbox": [
+        787.1,
+        760.9,
+        896.1,
+        778.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The City of the Sun:",
+      "texte_balise": "The City of the Sun:",
+      "bbox": [
+        233.3,
+        774.0,
+        368.5,
+        791.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Johann Valentin Andrea",
+      "texte_balise": "Johann Valentin Andrea",
+      "bbox": [
+        499.3,
+        776.0,
+        684.6,
+        794.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A System of Politics",
+      "texte_balise": "A System of Politics",
+      "bbox": [
+        787.1,
+        780.5,
+        937.5,
+        802.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Poctical Dialogue",
+      "texte_balise": "A Poctical Dialogue",
+      "bbox": [
+        235.5,
+        791.0,
+        368.5,
+        809.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANO",
+      "texte_balise": "CHRISTIANO",
+      "bbox": [
+        503.6,
+        798.0,
+        682.4,
+        824.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edited by",
+      "texte_balise": "Edited by",
+      "bbox": [
+        789.2,
+        808.9,
+        828.5,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tommaso Campuncila",
+      "texte_balise": "Tommaso Campuncila",
+      "bbox": [
+        261.6,
+        815.0,
+        337.9,
+        822.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.G.A.",
+      "texte_balise": "J.G.A.",
+      "bbox": [
+        787.1,
+        821.9,
+        817.6,
+        832.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "- POLIS -",
+      "texte_balise": "- POLIS -",
+      "bbox": [
+        510.2,
+        826.0,
+        673.7,
+        850.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pocock",
+      "texte_balise": "Pocock",
+      "bbox": [
+        791.4,
+        832.8,
+        815.4,
+        843.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRIGON",
+      "texte_balise": "TRIGON",
+      "bbox": [
+        566.9,
+        856.8,
+        619.2,
+        867.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The City of the Sun",
+      "texte_balise": "The City of the Sun",
+      "bbox": [
+        172.2,
+        900.0,
+        425.1,
+        927.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianopolis",
+      "texte_balise": "Christianopolis",
+      "bbox": [
+        492.7,
+        902.6,
+        691.1,
+        926.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Commonwealth of The Adventures of",
+      "texte_balise": "The Commonwealth of The Adventures of",
+      "bbox": [
+        715.1,
+        902.6,
+        1277.6,
+        924.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Johann Valentin",
+      "texte_balise": "Johann Valentin",
+      "bbox": [
+        501.5,
+        926.6,
+        682.4,
+        948.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tommaso Campanella",
+      "texte_balise": "Tommaso Campanella",
+      "bbox": [
+        178.8,
+        928.8,
+        418.6,
+        948.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oceana",
+      "texte_balise": "Oceana",
+      "bbox": [
+        813.2,
+        931.0,
+        913.5,
+        952.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Telemachus",
+      "texte_balise": "Telemachus",
+      "bbox": [
+        1074.9,
+        931.0,
+        1236.2,
+        952.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andreae",
+      "texte_balise": "Andreae",
+      "bbox": [
+        547.2,
+        952.3,
+        638.9,
+        970.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "James Harrington",
+      "texte_balise": "James Harrington",
+      "bbox": [
+        767.4,
+        959.0,
+        963.7,
+        979.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Francois Fenelon",
+      "texte_balise": "Francois Fenelon",
+      "bbox": [
+        1064.0,
+        959.0,
+        1249.3,
+        975.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTOINE-NICHOLAS",
+      "texte_balise": "ANTOINE-NICHOLAS",
+      "bbox": [
+        538.5,
+        1037.8,
+        654.1,
+        1050.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cambridge",
+      "texte_balise": "Cambridge",
+      "bbox": [
+        1090.1,
+        1044.3,
+        1135.9,
+        1055.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE CONDORCET",
+      "texte_balise": "DE CONDORCET",
+      "bbox": [
+        538.5,
+        1048.7,
+        651.9,
+        1062.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEVARAMBIANS",
+      "texte_balise": "SEVARAMBIANS",
+      "bbox": [
+        279.1,
+        1053.1,
+        372.8,
+        1064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Texts in the",
+      "texte_balise": "Texts in the",
+      "bbox": [
+        1090.1,
+        1055.0,
+        1135.9,
+        1066.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "History of",
+      "texte_balise": "History of",
+      "bbox": [
+        1087.9,
+        1068.0,
+        1129.4,
+        1077.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A UTOPIAN NOVRI",
+      "texte_balise": "A UTOPIAN NOVRI",
+      "bbox": [
+        279.1,
+        1074.9,
+        370.6,
+        1084.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Politient",
+      "texte_balise": "Politient",
+      "bbox": [
+        1090.1,
+        1081.4,
+        1122.8,
+        1085.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OUTLINES",
+      "texte_balise": "OUTLINES",
+      "bbox": [
+        562.5,
+        1090.1,
+        627.9,
+        1101.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "thouch!",
+      "texte_balise": "thouch!",
+      "bbox": [
+        1090.1,
+        1094.5,
+        1122.8,
+        1098.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HICTOPICAT VIEW",
+      "texte_balise": "HICTOPICAT VIEW",
+      "bbox": [
+        542.9,
+        1109.7,
+        645.3,
+        1116.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Progress of the Human Mind",
+      "texte_balise": "Progress of the Human Mind",
+      "bbox": [
+        514.5,
+        1127.0,
+        678.1,
+        1142.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fourier",
+      "texte_balise": "Fourier",
+      "bbox": [
+        1090.1,
+        1131.4,
+        1162.1,
+        1151.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Theory of the",
+      "texte_balise": "The Theory of the",
+      "bbox": [
+        1087.9,
+        1157.7,
+        1234.0,
+        1182.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Four Movements",
+      "texte_balise": "Four Movements",
+      "bbox": [
+        1090.1,
+        1181.7,
+        1225.3,
+        1197.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Edited by",
+      "texte_balise": "Edited by",
+      "bbox": [
+        1087.9,
+        1229.7,
+        1129.4,
+        1241.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT OWEN",
+      "texte_balise": "ROBERT OWEN",
+      "bbox": [
+        835.0,
+        1244.9,
+        904.8,
+        1256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A New Viese of Society and Other Whitings",
+      "texte_balise": "A New Viese of Society and Other Whitings",
+      "bbox": [
+        800.1,
+        1260.0,
+        939.7,
+        1273.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of the",
+      "texte_balise": "The History of the",
+      "bbox": [
+        181.0,
+        1314.7,
+        420.8,
+        1341.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Progress of the",
+      "texte_balise": "Progress of the",
+      "bbox": [
+        497.1,
+        1314.7,
+        699.9,
+        1341.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A New View of",
+      "texte_balise": "A New View of",
+      "bbox": [
+        771.8,
+        1316.9,
+        968.0,
+        1339.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Theory of the",
+      "texte_balise": "The Theory of the",
+      "bbox": [
+        1048.7,
+        1316.9,
+        1284.2,
+        1343.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sevarambians",
+      "texte_balise": "Sevarambians",
+      "bbox": [
+        209.3,
+        1343.0,
+        394.6,
+        1364.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Human Spirit",
+      "texte_balise": "Human Spirit",
+      "bbox": [
+        512.4,
+        1343.0,
+        686.8,
+        1369.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Society",
+      "texte_balise": "Society",
+      "bbox": [
+        817.1,
+        1344.1,
+        918.6,
+        1369.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Four Movements",
+      "texte_balise": "Four Movements",
+      "bbox": [
+        1057.4,
+        1345.0,
+        1275.4,
+        1367.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Denis Veiras",
+      "texte_balise": "Denis Veiras",
+      "bbox": [
+        235.5,
+        1369.0,
+        370.6,
+        1387.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marquis de Condorcet",
+      "texte_balise": "Marquis de Condorcet",
+      "bbox": [
+        477.5,
+        1371.0,
+        721.7,
+        1391.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Owen",
+      "texte_balise": "Robert Owen",
+      "bbox": [
+        795.8,
+        1371.0,
+        939.7,
+        1391.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Charles Fourier",
+      "texte_balise": "Charles Fourier",
+      "bbox": [
+        1081.4,
+        1371.0,
+        1251.5,
+        1391.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

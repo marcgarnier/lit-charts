@@ -1,0 +1,938 @@
+{
+  "fichier": "09_Autodidactism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:10.495036+00:00",
+  "duree_s": 0.9,
+  "taille_origine": [
+    720,
+    2277
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 84,
+  "lignes": [
+    {
+      "texte": "/lit/",
+      "texte_balise": "/lit/",
+      "bbox": [
+        18.0,
+        18.0,
+        78.0,
+        44.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUIDES",
+      "texte_balise": "GUIDES",
+      "bbox": [
+        20.0,
+        54.0,
+        74.0,
+        64.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Learning to Learn",
+      "texte_balise": "Learning to Learn",
+      "bbox": [
+        148.0,
+        86.0,
+        584.0,
+        142.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(A Brief Reading Guide)",
+      "texte_balise": "(A Brief Reading Guide)",
+      "bbox": [
+        206.0,
+        144.0,
+        530.0,
+        168.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOWTO READ",
+      "texte_balise": "HOWTO READ",
+      "bbox": [
+        588.0,
+        256.0,
+        674.0,
+        268.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NA BOOK ~",
+      "texte_balise": "NA BOOK ~",
+      "bbox": [
+        590.0,
+        268.0,
+        672.0,
+        280.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How to Read a Book",
+      "texte_balise": "How to Read a Book",
+      "bbox": [
+        396.0,
+        270.0,
+        568.0,
+        288.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORTIMER J. ADLER",
+      "texte_balise": "MORTIMER J. ADLER",
+      "bbox": [
+        396.0,
+        294.0,
+        542.0,
+        310.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Autodidact Core",
+      "texte_balise": "Autodidact Core",
+      "bbox": [
+        48.0,
+        322.0,
+        282.0,
+        350.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS Of STUDYING)",
+      "texte_balise": "(BASICS Of STUDYING)",
+      "bbox": [
+        50.0,
+        358.0,
+        214.0,
+        374.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        592.0,
+        360.0,
+        628.0,
+        376.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRIVIUM",
+      "texte_balise": "TRIVIUM",
+      "bbox": [
+        591.9,
+        371.4,
+        662.1,
+        390.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Trivium",
+      "texte_balise": "The Trivium",
+      "bbox": [
+        394.0,
+        376.0,
+        510.0,
+        394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE LIBERAL",
+      "texte_balise": "THE LIBERAL",
+      "bbox": [
+        594.0,
+        392.0,
+        652.0,
+        402.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARTS OF LOGIC",
+      "texte_balise": "ARTS OF LOGIC",
+      "bbox": [
+        591.9,
+        393.6,
+        664.1,
+        414.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SISTER MIRIAM JOSEPH",
+      "texte_balise": "SISTER MIRIAM JOSEPH",
+      "bbox": [
+        396.0,
+        400.0,
+        562.0,
+        414.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The basics of thinking and the structure",
+      "texte_balise": "The basics of thinking and the structure",
+      "bbox": [
+        52.0,
+        410.0,
+        332.0,
+        426.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND RHETORIC",
+      "texte_balise": "AND RHETORIC",
+      "bbox": [
+        594.0,
+        426.0,
+        664.0,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of ideas you think about.",
+      "texte_balise": "of ideas you think about.",
+      "bbox": [
+        52.0,
+        434.0,
+        226.0,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oxford",
+      "texte_balise": "Oxford",
+      "bbox": [
+        592.0,
+        467.9,
+        672.0,
+        494.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Oxford Essential",
+      "texte_balise": "The Oxford Essential",
+      "bbox": [
+        396.0,
+        476.0,
+        556.0,
+        490.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SSENTIAL",
+      "texte_balise": "SSENTIAL",
+      "bbox": [
+        598.0,
+        494.0,
+        670.0,
+        504.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guide to Writing",
+      "texte_balise": "Guide to Writing",
+      "bbox": [
+        395.9,
+        497.7,
+        544.1,
+        522.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guide to",
+      "texte_balise": "Guide to",
+      "bbox": [
+        598.0,
+        506.0,
+        666.0,
+        524.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Writing",
+      "texte_balise": "Writing",
+      "bbox": [
+        598.4,
+        519.4,
+        663.7,
+        545.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THOMAS S. KANE",
+      "texte_balise": "THOMAS S. KANE",
+      "bbox": [
+        396.0,
+        526.0,
+        518.0,
+        540.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Critical Thinking",
+      "texte_balise": "Critical Thinking",
+      "bbox": [
+        50.0,
+        692.0,
+        304.0,
+        728.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Creative and Critical Thinking",
+      "texte_balise": "Creative and Critical Thinking",
+      "bbox": [
+        403.7,
+        704.1,
+        672.3,
+        730.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS Of COGNITION)",
+      "texte_balise": "(BASICS Of COGNITION)",
+      "bbox": [
+        50.0,
+        730.0,
+        222.0,
+        746.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "W. EDGAR MOORE",
+      "texte_balise": "W. EDGAR MOORE",
+      "bbox": [
+        474.0,
+        732.0,
+        602.0,
+        744.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "What are you doing when you think?",
+      "texte_balise": "What are you doing when you think?",
+      "bbox": [
+        50.0,
+        780.0,
+        308.0,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How do you take your thinking beyond",
+      "texte_balise": "How do you take your thinking beyond",
+      "bbox": [
+        50.0,
+        804.0,
+        326.0,
+        822.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the limits of your biology?",
+      "texte_balise": "the limits of your biology?",
+      "bbox": [
+        50.0,
+        828.0,
+        234.0,
+        848.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KAHNEMAN",
+      "texte_balise": "KAHNEMAN",
+      "bbox": [
+        510.0,
+        846.0,
+        568.0,
+        854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thinking, Fast and Slow",
+      "texte_balise": "Thinking, Fast and Slow",
+      "bbox": [
+        432.0,
+        882.0,
+        642.0,
+        904.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANIEL KAHNEMAN",
+      "texte_balise": "DANIEL KAHNEMAN",
+      "bbox": [
+        468.0,
+        906.0,
+        610.0,
+        918.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Self-Improvement",
+      "texte_balise": "Self-Improvement",
+      "bbox": [
+        50.0,
+        1056.0,
+        312.0,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Discourses",
+      "texte_balise": "The Discourses",
+      "bbox": [
+        468.0,
+        1068.0,
+        604.0,
+        1086.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS of PSYCHOLOGY)",
+      "texte_balise": "(BASICS of PSYCHOLOGY)",
+      "bbox": [
+        50.0,
+        1089.9,
+        236.0,
+        1105.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS Of PSYCHOLOGY)",
+      "texte_balise": "(BASICS Of PSYCHOLOGY)",
+      "bbox": [
+        50.0,
+        1090.0,
+        236.0,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EPICTETUS",
+      "texte_balise": "EPICTETUS",
+      "bbox": [
+        496.0,
+        1096.0,
+        578.0,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Habits to become a better thinker.",
+      "texte_balise": "Habits to become a better thinker.",
+      "bbox": [
+        52.0,
+        1142.0,
+        294.0,
+        1156.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Overcoming emotions that impede",
+      "texte_balise": "Overcoming emotions that impede",
+      "bbox": [
+        52.0,
+        1164.0,
+        298.0,
+        1182.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "your ability to see things as they are.",
+      "texte_balise": "your ability to see things as they are.",
+      "bbox": [
+        50.0,
+        1188.0,
+        304.0,
+        1206.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Primer in Positive Psychology",
+      "texte_balise": "A Primer in Positive Psychology",
+      "bbox": [
+        402.0,
+        1244.0,
+        674.0,
+        1266.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTOPHER PETERSON",
+      "texte_balise": "CHRISTOPHER PETERSON",
+      "bbox": [
+        448.0,
+        1271.8,
+        628.0,
+        1283.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These books are for understanding the purpose of a",
+      "texte_balise": "These books are for understanding the purpose of a",
+      "bbox": [
+        292.0,
+        1381.7,
+        656.0,
+        1399.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Liberal Arts",
+      "texte_balise": "Liberal Arts",
+      "bbox": [
+        54.0,
+        1397.7,
+        226.0,
+        1425.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "subject and the fundamentals that govern it.",
+      "texte_balise": "subject and the fundamentals that govern it.",
+      "bbox": [
+        290.0,
+        1405.7,
+        602.0,
+        1423.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS Of SUBJECTS)",
+      "texte_balise": "(BASICS Of SUBJECTS)",
+      "bbox": [
+        52.0,
+        1437.7,
+        212.0,
+        1453.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Stepping stones to more sophisticated kinds of thinking",
+      "texte_balise": "Stepping stones to more sophisticated kinds of thinking",
+      "bbox": [
+        290.0,
+        1453.6,
+        684.0,
+        1471.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and subjects that combine multiple forms of thought.",
+      "texte_balise": "and subjects that combine multiple forms of thought.",
+      "bbox": [
+        290.0,
+        1477.6,
+        664.0,
+        1495.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Art of Fiction",
+      "texte_balise": "The Art of Fiction",
+      "bbox": [
+        94.0,
+        1577.5,
+        240.0,
+        1593.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Atlas of World History",
+      "texte_balise": "Atlas of World History",
+      "bbox": [
+        360.0,
+        1577.5,
+        534.0,
+        1597.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRICK O'BRIEN",
+      "texte_balise": "PATRICK O'BRIEN",
+      "bbox": [
+        362.0,
+        1593.5,
+        476.0,
+        1609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVID LODGE",
+      "texte_balise": "DAVID LODGE",
+      "bbox": [
+        96.0,
+        1597.5,
+        186.0,
+        1609.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bible",
+      "texte_balise": "The Bible",
+      "bbox": [
+        95.8,
+        1644.7,
+        176.2,
+        1664.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Interpretation of Cultures",
+      "texte_balise": "The Interpretation of Cultures",
+      "bbox": [
+        362.0,
+        1645.5,
+        602.0,
+        1663.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(KJV OR NKJV)",
+      "texte_balise": "(KJV OR NKJV)",
+      "bbox": [
+        95.9,
+        1665.1,
+        192.1,
+        1683.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CLIFFORD GEERTZ",
+      "texte_balise": "CLIFFORD GEERTZ",
+      "bbox": [
+        362.0,
+        1667.5,
+        482.0,
+        1677.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pre-Calculus",
+      "texte_balise": "Pre-Calculus",
+      "bbox": [
+        94.0,
+        1709.4,
+        202.0,
+        1727.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Western Philosophy: An Anthology",
+      "texte_balise": "Western Philosophy: An Anthology",
+      "bbox": [
+        360.0,
+        1709.4,
+        628.0,
+        1731.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOHN COTTINGHAM",
+      "texte_balise": "JOHN COTTINGHAM",
+      "bbox": [
+        359.6,
+        1727.4,
+        492.3,
+        1745.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "C. STITZ AND J. ZEAGER",
+      "texte_balise": "C. STITZ AND J. ZEAGER",
+      "bbox": [
+        96.0,
+        1731.4,
+        250.0,
+        1745.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Music in Theory and Practice",
+      "texte_balise": "Music in Theory and Practice",
+      "bbox": [
+        96.0,
+        1779.4,
+        326.0,
+        1801.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introductory College Textbook in:",
+      "texte_balise": "Introductory College Textbook in:",
+      "bbox": [
+        360.0,
+        1779.4,
+        626.0,
+        1801.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHYSICS / CHEMISTRY / BIOLOGY",
+      "texte_balise": "PHYSICS / CHEMISTRY / BIOLOGY",
+      "bbox": [
+        362.0,
+        1799.4,
+        582.0,
+        1813.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BRUCE BENWARD",
+      "texte_balise": "BRUCE BENWARD",
+      "bbox": [
+        98.0,
+        1801.4,
+        210.0,
+        1811.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IMPROVE",
+      "texte_balise": "IMPROVE",
+      "bbox": [
+        516.0,
+        1903.3,
+        560.0,
+        1915.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YOUR",
+      "texte_balise": "YOUR",
+      "bbox": [
+        524.0,
+        1913.3,
+        552.0,
+        1925.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SOCIAL",
+      "texte_balise": "SOCIAL",
+      "bbox": [
+        522.0,
+        1925.3,
+        552.0,
+        1935.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SKILLS",
+      "texte_balise": "SKILLS",
+      "bbox": [
+        522.0,
+        1933.3,
+        554.0,
+        1945.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Social Skills",
+      "texte_balise": "Social Skills",
+      "bbox": [
+        50.0,
+        1985.2,
+        220.0,
+        2011.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Improve Your Social Skills",
+      "texte_balise": "Improve Your Social Skills",
+      "bbox": [
+        420.0,
+        1999.2,
+        650.0,
+        2023.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(BASICS Of COMMUNICATION)",
+      "texte_balise": "(BASICS Of COMMUNICATION)",
+      "bbox": [
+        52.0,
+        2021.2,
+        266.0,
+        2037.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANIEL WENDLER",
+      "texte_balise": "DANIEL WENDLER",
+      "bbox": [
+        472.0,
+        2027.2,
+        600.0,
+        2039.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An investigation into how others think.",
+      "texte_balise": "An investigation into how others think.",
+      "bbox": [
+        52.0,
+        2073.2,
+        328.0,
+        2089.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "These books aim to prevent you from",
+      "texte_balise": "These books aim to prevent you from",
+      "bbox": [
+        54.0,
+        2121.1,
+        314.0,
+        2137.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WTO",
+      "texte_balise": "WTO",
+      "bbox": [
+        532.0,
+        2125.1,
+        560.0,
+        2133.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "listen",
+      "texte_balise": "listen",
+      "bbox": [
+        526.0,
+        2133.1,
+        560.0,
+        2143.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "misunderstanding people and neglecting",
+      "texte_balise": "misunderstanding people and neglecting",
+      "bbox": [
+        52.0,
+        2145.1,
+        340.0,
+        2161.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "alternative ways of thinking.",
+      "texte_balise": "alternative ways of thinking.",
+      "bbox": [
+        52.0,
+        2169.1,
+        246.0,
+        2185.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "How to Speak, How to Listen",
+      "texte_balise": "How to Speak, How to Listen",
+      "bbox": [
+        414.0,
+        2175.1,
+        660.0,
+        2199.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORTIMER J. ADLER",
+      "texte_balise": "MORTIMER J. ADLER",
+      "bbox": [
+        466.0,
+        2205.1,
+        610.0,
+        2217.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

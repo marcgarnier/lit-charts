@@ -1,0 +1,1466 @@
+{
+  "fichier": "15_Counter-Revolution (French).jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:58.279890+00:00",
+  "duree_s": 2.2,
+  "taille_origine": [
+    2984,
+    2290
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 132,
+  "lignes": [
+    {
+      "texte": "Contre-Révolution",
+      "texte_balise": "Contre-Révolution",
+      "bbox": [
+        550.8,
+        -0.0,
+        2480.9,
+        199.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Histoire, penseurs et littérateurs",
+      "texte_balise": "Histoire, penseurs et littérateurs",
+      "bbox": [
+        1847.7,
+        212.0,
+        2632.7,
+        278.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Thomas Molnar",
+      "texte_balise": "Thomas Molnar",
+      "bbox": [
+        2199.0,
+        355.6,
+        2450.5,
+        382.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "AUGUSTIN COCHIN",
+      "texte_balise": "AUGUSTIN COCHIN",
+      "bbox": [
+        1080.0,
+        364.0,
+        1227.4,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jean de VIGUERIE",
+      "texte_balise": "Jean de VIGUERIE",
+      "bbox": [
+        1865.0,
+        364.0,
+        2038.5,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES MANUELS D'HISTOIRE DE",
+      "texte_balise": "LES MANUELS D'HISTOIRE DE",
+      "bbox": [
+        1461.3,
+        380.1,
+        1631.1,
+        417.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LA REVOLUTION",
+      "texte_balise": "LA REVOLUTION",
+      "bbox": [
+        229.9,
+        381.6,
+        472.8,
+        403.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LES SOCIÉTÉS",
+      "texte_balise": "LES SOCIÉTÉS",
+      "bbox": [
+        1006.2,
+        403.0,
+        1301.2,
+        455.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANÇAISE",
+      "texte_balise": "FRANÇAISE",
+      "bbox": [
+        260.2,
+        403.3,
+        446.7,
+        425.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LE",
+      "texte_balise": "LE",
+      "bbox": [
+        728.7,
+        403.3,
+        767.7,
+        425.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARION SIGAUT",
+      "texte_balise": "MARION SIGAUT",
+      "bbox": [
+        1483.3,
+        416.0,
+        1613.4,
+        434.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "La contre-",
+      "texte_balise": "La contre-",
+      "bbox": [
+        2203.3,
+        416.0,
+        2420.2,
+        447.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LA CONJURATION",
+      "texte_balise": "LA CONJURATION",
+      "bbox": [
+        2619.7,
+        429.0,
+        2780.2,
+        451.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIVRE",
+      "texte_balise": "LIVRE",
+      "bbox": [
+        641.4,
+        431.5,
+        859.3,
+        487.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "révolution",
+      "texte_balise": "révolution",
+      "bbox": [
+        2203.3,
+        451.0,
+        2428.8,
+        481.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE PENSÉE",
+      "texte_balise": "DE PENSÉE",
+      "bbox": [
+        1036.6,
+        455.0,
+        1270.8,
+        507.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTICHRETIENNE",
+      "texte_balise": "ANTICHRETIENNE",
+      "bbox": [
+        2702.1,
+        459.7,
+        2866.9,
+        481.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NOIR",
+      "texte_balise": "NOIR",
+      "bbox": [
+        650.6,
+        490.0,
+        850.1,
+        542.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE LA CENTRALISATION",
+      "texte_balise": "DE LA CENTRALISATION",
+      "bbox": [
+        1440.0,
+        494.0,
+        1661.2,
+        516.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Temple Maconniqu",
+      "texte_balise": "Le Temple Maconniqu",
+      "bbox": [
+        2650.0,
+        494.0,
+        2823.5,
+        507.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MONARCHIQUE À LA",
+      "texte_balise": "MONARCHIQUE À LA",
+      "bbox": [
+        1448.6,
+        516.0,
+        1648.1,
+        542.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ET LA DÉMOCRATIE MODERNE",
+      "texte_balise": "ET LA DÉMOCRATIE MODERNE",
+      "bbox": [
+        1027.9,
+        520.0,
+        1279.5,
+        542.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "l'Eglise Catholique",
+      "texte_balise": "l'Eglise Catholique",
+      "bbox": [
+        2663.0,
+        524.7,
+        2814.8,
+        546.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RÉVOLUTION BOURGEOISE",
+      "texte_balise": "RÉVOLUTION BOURGEOISE",
+      "bbox": [
+        1418.3,
+        537.8,
+        1674.2,
+        564.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE LA",
+      "texte_balise": "DE LA",
+      "bbox": [
+        702.6,
+        546.0,
+        798.0,
+        572.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RÉVOLUTION",
+      "texte_balise": "RÉVOLUTION",
+      "bbox": [
+        611.5,
+        576.8,
+        884.8,
+        615.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "études d'histoire",
+      "texte_balise": "études d'histoire",
+      "bbox": [
+        1080.0,
+        585.0,
+        1223.1,
+        607.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'ABSOLUTISME ROYAL",
+      "texte_balise": "L'ABSOLUTISME ROYAL",
+      "bbox": [
+        1461.6,
+        585.0,
+        1630.8,
+        603.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ET SES OPPOSANTS",
+      "texte_balise": "ET SES OPPOSANTS",
+      "bbox": [
+        1474.7,
+        598.0,
+        1622.1,
+        620.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "révolutionnaire",
+      "texte_balise": "révolutionnaire",
+      "bbox": [
+        1088.6,
+        602.8,
+        1214.4,
+        624.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRANÇAISE",
+      "texte_balise": "FRANÇAISE",
+      "bbox": [
+        624.6,
+        611.5,
+        871.8,
+        650.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A:",
+      "texte_balise": "A:",
+      "bbox": [
+        2021.1,
+        620.1,
+        2042.8,
+        646.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "LES DEUX PATRIES",
+      "texte_balise": "LES DEUX PATRIES",
+      "bbox": [
+        1817.3,
+        654.8,
+        2086.2,
+        681.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre Gaxotte",
+      "texte_balise": "Pierre Gaxotte",
+      "bbox": [
+        264.5,
+        685.0,
+        442.4,
+        724.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "10 18",
+      "texte_balise": "10 18",
+      "bbox": [
+        2272.7,
+        702.5,
+        2424.5,
+        755.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DMM",
+      "texte_balise": "DMM",
+      "bbox": [
+        1917.0,
+        719.9,
+        1982.1,
+        737.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FAVARn",
+      "texte_balise": "FAVARn",
+      "bbox": [
+        321.0,
+        728.6,
+        377.3,
+        737.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Réflexions sur",
+      "texte_balise": "Réflexions sur",
+      "bbox": [
+        1908.4,
+        858.7,
+        2094.9,
+        885.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rétif de la Bretonne",
+      "texte_balise": "Rétif de la Bretonne",
+      "bbox": [
+        208.2,
+        863.0,
+        490.1,
+        889.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JOSEPH",
+      "texte_balise": "JOSEPH",
+      "bbox": [
+        1509.3,
+        876.0,
+        1587.4,
+        897.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MALLET DU PAN",
+      "texte_balise": "MALLET DU PAN",
+      "bbox": [
+        2684.7,
+        880.0,
+        2810.5,
+        902.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "la révolution",
+      "texte_balise": "la révolution",
+      "bbox": [
+        1934.4,
+        889.0,
+        2094.9,
+        915.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Nuits de Paris",
+      "texte_balise": "Les Nuits de Paris",
+      "bbox": [
+        208.2,
+        893.0,
+        394.7,
+        915.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DE MAISTRE",
+      "texte_balise": "DE MAISTRE",
+      "bbox": [
+        1413.9,
+        897.7,
+        1682.8,
+        932.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tant depuis",
+      "texte_balise": "tant depuis",
+      "bbox": [
+        676.6,
+        906.0,
+        793.7,
+        919.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "de France",
+      "texte_balise": "de France",
+      "bbox": [
+        1964.5,
+        913.9,
+        2095.1,
+        942.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Faition de lean Tarloot et Vachet Delon",
+      "texte_balise": "Faition de lean Tarloot et Vachet Delon",
+      "bbox": [
+        208.2,
+        919.0,
+        433.7,
+        928.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CONSINBRATTONS",
+      "texte_balise": "CONSINBRATTONS",
+      "bbox": [
+        2663.0,
+        945.4,
+        2827.9,
+        954.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Edmund",
+      "texte_balise": "Edmund",
+      "bbox": [
+        1995.0,
+        953.3,
+        2095.0,
+        976.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "• ma famille. DEclus ing",
+      "texte_balise": "• ma famille. DEclus ing",
+      "bbox": [
+        601.8,
+        972.9,
+        837.9,
+        1012.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Burke",
+      "texte_balise": "Burke",
+      "bbox": [
+        2021.1,
+        975.8,
+        2094.9,
+        997.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "1793",
+      "texte_balise": "1793",
+      "bbox": [
+        1110.3,
+        1002.0,
+        1171.0,
+        1019.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"LOUIS XVI",
+      "texte_balise": "\"LOUIS XVI",
+      "bbox": [
+        597.5,
+        1007.3,
+        894.2,
+        1067.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Préface de",
+      "texte_balise": "Préface de",
+      "bbox": [
+        2008.1,
+        1010.0,
+        2090.5,
+        1032.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philippe",
+      "texte_balise": "Philippe",
+      "bbox": [
+        2025.5,
+        1027.8,
+        2094.9,
+        1045.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Raynand",
+      "texte_balise": "Raynand",
+      "bbox": [
+        2016.8,
+        1049.5,
+        2090.5,
+        1058.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "oin de mes pensées et",
+      "texte_balise": "oin de mes pensées et",
+      "bbox": [
+        607.2,
+        1058.0,
+        785.0,
+        1084.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "oin de mes penses",
+      "texte_balise": "oin de mes penses",
+      "bbox": [
+        607.2,
+        1062.0,
+        759.0,
+        1084.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ence mes derniero volinto e",
+      "texte_balise": "ence mes derniero volinto e",
+      "bbox": [
+        650.6,
+        1079.8,
+        871.8,
+        1106.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "& EPREUVES DE LEUR AUTHENTICIT",
+      "texte_balise": "& EPREUVES DE LEUR AUTHENTICIT",
+      "bbox": [
+        607.2,
+        1097.0,
+        867.4,
+        1123.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "SUR LA NATURE DE LA",
+      "texte_balise": "SUR LA NATURE DE LA",
+      "bbox": [
+        2658.7,
+        1101.5,
+        2840.9,
+        1123.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ater, je lepre de la reevvir",
+      "texte_balise": "ater, je lepre de la reevvir",
+      "bbox": [
+        609.8,
+        1118.3,
+        881.9,
+        1172.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MAROUS DELA MAISONEORT",
+      "texte_balise": "MAROUS DELA MAISONEORT",
+      "bbox": [
+        2212.0,
+        1118.9,
+        2476.5,
+        1132.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARQUIS DE LA MAISONFORT",
+      "texte_balise": "MARQUIS DE LA MAISONFORT",
+      "bbox": [
+        2212.0,
+        1119.0,
+        2480.9,
+        1141.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RÉVOLUTION FRANÇAISE",
+      "texte_balise": "RÉVOLUTION FRANÇAISE",
+      "bbox": [
+        2645.7,
+        1123.0,
+        2849.5,
+        1145.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVOT TITION FRANCATSE",
+      "texte_balise": "REVOT TITION FRANCATSE",
+      "bbox": [
+        2645.7,
+        1127.5,
+        2845.2,
+        1136.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ratener, je lepni de la recevoir",
+      "texte_balise": "ratener, je lepni de la recevoir",
+      "bbox": [
+        602.9,
+        1132.0,
+        884.8,
+        1167.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Mémoires",
+      "texte_balise": "Mémoires",
+      "bbox": [
+        2285.7,
+        1140.6,
+        2411.5,
+        1166.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OUI EN PROTON ET LA DOREE",
+      "texte_balise": "OUI EN PROTON ET LA DOREE",
+      "bbox": [
+        2658.7,
+        1140.6,
+        2836.5,
+        1167.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "QUI EN PROLONGENT A DURER",
+      "texte_balise": "QUI EN PROLONGENT A DURER",
+      "bbox": [
+        2658.7,
+        1145.0,
+        2836.5,
+        1171.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "d'un agent",
+      "texte_balise": "d'un agent",
+      "bbox": [
+        2281.3,
+        1157.6,
+        2415.9,
+        1188.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "l'anns ses menter",
+      "texte_balise": "l'anns ses menter",
+      "bbox": [
+        637.6,
+        1162.0,
+        776.4,
+        1184.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "d'apes zes mentes,",
+      "texte_balise": "d'apes zes mentes,",
+      "bbox": [
+        637.6,
+        1162.0,
+        785.0,
+        1188.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "mais par ce",
+      "texte_balise": "mais par ce",
+      "bbox": [
+        780.7,
+        1162.0,
+        889.1,
+        1184.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "mais par cu",
+      "texte_balise": "mais par cu",
+      "bbox": [
+        780.7,
+        1162.0,
+        893.5,
+        1184.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "doffer en sacrifice a Dieu sn",
+      "texte_balise": "doffer en sacrifice a Dieu sn",
+      "bbox": [
+        641.9,
+        1183.9,
+        893.5,
+        1214.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Arr en sacrifice a Dieu in",
+      "texte_balise": "Arr en sacrifice a Dieu in",
+      "bbox": [
+        659.3,
+        1188.0,
+        893.5,
+        1219.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "royaliste",
+      "texte_balise": "royaliste",
+      "bbox": [
+        2290.0,
+        1188.5,
+        2402.8,
+        1210.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "rovaliste",
+      "texte_balise": "rovaliste",
+      "bbox": [
+        2294.4,
+        1192.6,
+        2398.5,
+        1205.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Plurid",
+      "texte_balise": "Plurid",
+      "bbox": [
+        2008.1,
+        1201.5,
+        2068.8,
+        1223.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ÉDITIONS DU TRIDENT",
+      "texte_balise": "ÉDITIONS DU TRIDENT",
+      "bbox": [
+        2667.4,
+        1205.6,
+        2832.2,
+        1223.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "que que nues en forn",
+      "texte_balise": "que que nues en forn",
+      "bbox": [
+        662.8,
+        1212.6,
+        881.2,
+        1252.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EDITIONS DU TRIDENI",
+      "texte_balise": "EDITIONS DU TRIDENI",
+      "bbox": [
+        2667.4,
+        1214.0,
+        2827.9,
+        1223.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "agnes que nous en forn",
+      "texte_balise": "agnes que nous en forn",
+      "bbox": [
+        667.9,
+        1218.8,
+        884.8,
+        1249.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "folio classique",
+      "texte_balise": "folio classique",
+      "bbox": [
+        368.7,
+        1227.0,
+        485.8,
+        1249.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "folio dassique",
+      "texte_balise": "folio dassique",
+      "bbox": [
+        373.0,
+        1227.5,
+        485.8,
+        1254.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MERCRE DE FRANCI",
+      "texte_balise": "MERCRE DE FRANCI",
+      "bbox": [
+        2216.3,
+        1227.5,
+        2472.2,
+        1245.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MERCURE",
+      "texte_balise": "MERCURE",
+      "bbox": [
+        2212.0,
+        1231.6,
+        2324.7,
+        1240.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Louis de BoNAld",
+      "texte_balise": "Louis de BoNAld",
+      "bbox": [
+        251.6,
+        1366.0,
+        438.1,
+        1392.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RIVAROL",
+      "texte_balise": "RIVAROL",
+      "bbox": [
+        1075.6,
+        1375.0,
+        1223.1,
+        1401.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "A. BLANC DE SAINT-BONNET",
+      "texte_balise": "A. BLANC DE SAINT-BONNET",
+      "bbox": [
+        2246.7,
+        1388.0,
+        2428.8,
+        1401.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LOUIS VEUILLOI",
+      "texte_balise": "LOUIS VEUILLOI",
+      "bbox": [
+        2671.7,
+        1405.0,
+        2819.2,
+        1414.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "CHAMFORT",
+      "texte_balise": "CHAMFORT",
+      "bbox": [
+        1053.9,
+        1405.3,
+        1244.8,
+        1431.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "La vraie",
+      "texte_balise": "La vraie",
+      "bbox": [
+        234.0,
+        1417.4,
+        451.2,
+        1458.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEVULUIION",
+      "texte_balise": "KEVULUIION",
+      "bbox": [
+        1483.3,
+        1427.0,
+        1609.1,
+        1435.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DONOSO CORTES",
+      "texte_balise": "DONOSO CORTES",
+      "bbox": [
+        1865.0,
+        1431.0,
+        2038.5,
+        1453.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "VAUVENARGUES",
+      "texte_balise": "VAUVENARGUES",
+      "bbox": [
+        1010.6,
+        1431.3,
+        1288.2,
+        1457.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "POLITIQUE",
+      "texte_balise": "POLITIQUE",
+      "bbox": [
+        2238.0,
+        1448.7,
+        2446.2,
+        1474.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'ART DE L'INSOLENCE",
+      "texte_balise": "L'ART DE L'INSOLENCE",
+      "bbox": [
+        1014.9,
+        1457.0,
+        1283.8,
+        1483.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Révolution",
+      "texte_balise": "Révolution",
+      "bbox": [
+        203.8,
+        1457.4,
+        485.8,
+        1500.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essai",
+      "texte_balise": "Essai",
+      "bbox": [
+        1860.7,
+        1479.0,
+        1912.7,
+        1500.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REELLE",
+      "texte_balise": "REELLE",
+      "bbox": [
+        2264.0,
+        1487.7,
+        2415.8,
+        1513.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sur le catholicisme",
+      "texte_balise": "sur le catholicisme",
+      "bbox": [
+        1865.0,
+        1505.0,
+        2012.5,
+        1514.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chateaubriand",
+      "texte_balise": "Chateaubriand",
+      "bbox": [
+        663.6,
+        1505.1,
+        837.1,
+        1526.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "L'illusion",
+      "texte_balise": "L'illusion",
+      "bbox": [
+        2671.7,
+        1509.4,
+        2823.5,
+        1535.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "le libéralisme",
+      "texte_balise": "le libéralisme",
+      "bbox": [
+        1865.0,
+        1518.0,
+        1977.8,
+        1540.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essai sur les révolutions",
+      "texte_balise": "Essai sur les révolutions",
+      "bbox": [
+        624.6,
+        1531.0,
+        876.1,
+        1553.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "et le socialisme",
+      "texte_balise": "et le socialisme",
+      "bbox": [
+        1865.0,
+        1539.8,
+        1999.5,
+        1561.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "libérale",
+      "texte_balise": "libérale",
+      "bbox": [
+        2667.4,
+        1539.8,
+        2823.5,
+        1570.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Génie du christianisme",
+      "texte_balise": "Génie du christianisme",
+      "bbox": [
+        628.9,
+        1557.0,
+        867.4,
+        1579.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Maxence Carot",
+      "texte_balise": "Maxence Carot",
+      "bbox": [
+        1014.9,
+        1570.0,
+        1093.0,
+        1583.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Dominique Martin Morin",
+      "texte_balise": "Dominique Martin Morin",
+      "bbox": [
+        1865.0,
+        1661.0,
+        2034.2,
+        1674.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TES AMIS DE:",
+      "texte_balise": "TES AMIS DE:",
+      "bbox": [
+        2242.3,
+        1674.0,
+        2333.4,
+        1683.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Réponse à Madame de Stae.",
+      "texte_balise": "Réponse à Madame de Stae.",
+      "bbox": [
+        203.8,
+        1691.5,
+        485.8,
+        1705.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SONS DA PARIS",
+      "texte_balise": "SONS DA PARIS",
+      "bbox": [
+        2693.4,
+        1726.0,
+        2793.2,
+        1731.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Baudelaire",
+      "texte_balise": "Baudelaire",
+      "bbox": [
+        611.5,
+        1873.7,
+        763.3,
+        1899.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LA CATHEDRALE",
+      "texte_balise": "LA CATHEDRALE",
+      "bbox": [
+        1795.6,
+        1873.7,
+        2090.5,
+        1917.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Rene kazın",
+      "texte_balise": "Rene kazın",
+      "bbox": [
+        2298.7,
+        1886.7,
+        2398.5,
+        1895.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Ernest Hello",
+      "texte_balise": "Ernest Hello",
+      "bbox": [
+        1088.6,
+        1895.0,
+        1210.1,
+        1917.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fusées",
+      "texte_balise": "Fusées",
+      "bbox": [
+        615.9,
+        1904.0,
+        689.6,
+        1925.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bloy",
+      "texte_balise": "Bloy",
+      "bbox": [
+        1440.0,
+        1904.0,
+        1535.4,
+        1947.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Paul Bourget",
+      "texte_balise": "Paul Bourget",
+      "bbox": [
+        2701.7,
+        1923.8,
+        2871.5,
+        1950.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "La terre",
+      "texte_balise": "La terre",
+      "bbox": [
+        2281.4,
+        1925.7,
+        2420.2,
+        1956.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Barbey d'Aurevilly",
+      "texte_balise": "Barbey d'Aurevilly",
+      "bbox": [
+        229.9,
+        1930.0,
+        477.1,
+        1960.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "L'HOMME",
+      "texte_balise": "L'HOMME",
+      "bbox": [
+        1058.1,
+        1942.0,
+        1240.7,
+        1983.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Et autres fragments posthumes",
+      "texte_balise": "Et autres fragments posthumes",
+      "bbox": [
+        611.5,
+        1943.0,
+        793.7,
+        1960.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Désespéré",
+      "texte_balise": "Le Désespéré",
+      "bbox": [
+        1440.0,
+        1943.0,
+        1613.4,
+        1969.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Le Disciple",
+      "texte_balise": "Le Disciple",
+      "bbox": [
+        2771.5,
+        1956.0,
+        2875.6,
+        1978.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Les Diaboliques",
+      "texte_balise": "Les Diaboliques",
+      "bbox": [
+        329.6,
+        1960.0,
+        477.1,
+        1986.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "qui meurt",
+      "texte_balise": "qui meurt",
+      "bbox": [
+        2259.7,
+        1960.0,
+        2437.5,
+        2004.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "J.R. HEISHANS",
+      "texte_balise": "J.R. HEISHANS",
+      "bbox": [
+        1938.7,
+        1964.7,
+        2094.9,
+        1986.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Les Classanes de Poch",
+      "texte_balise": "Les Classanes de Poch",
+      "bbox": [
+        2693.4,
+        2203.0,
+        2814.8,
+        2212.0
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

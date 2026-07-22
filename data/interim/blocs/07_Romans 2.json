@@ -1,0 +1,1017 @@
+{
+  "fichier": "07_Romans 2.jpeg",
+  "date": "2026-07-21T19:28:36.448402+00:00",
+  "taille_origine": [
+    6100,
+    3721
+  ],
+  "hauteur_ligne_mediane": 45.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 45,
+  "nb_noeuds": 88,
+  "tiers": [
+    "Resume With The Romans",
+    "HISTORICAE",
+    "DECLINE AND FALL"
+  ],
+  "intitules_isoles": [
+    "Oxford University's",
+    "A Brief History of the Romans",
+    "Roman history. I don't see it recommended often, but",
+    "Rolfe Humphries",
+    "from Early Rome. Read alongside A Brief History.",
+    "Seneca the Younger was a Roman philosopher who served as",
+    "Meditations",
+    "The last of the Five Good Emperors, Marcus Aurelius was almost",
+    "An ancient history on the first few rulers of the Judo-Claudian",
+    "line, with the most focus being on Tiberius. Augustus is glossed",
+    "over in a few pages. Since Suetonius documents the same period,",
+    "feel free to skip this text if you're anxious to move on.",
+    "A biographical history on the Jewish Wars, a series of wars",
+    "that eventually lead to the new line of Roman emperors, the",
+    "Flavian dynasty."
+  ],
+  "blocs": [
+    {
+      "tier": "Resume With The Romans",
+      "bbox": [
+        1575.8,
+        -0.0,
+        2973.7,
+        273.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Oxford University's",
+          "auteur": null,
+          "tier": "Resume With The Romans"
+        },
+        {
+          "titre": "A Brief History of the Romans",
+          "auteur": null,
+          "tier": "Resume With The Romans"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3578.4,
+        283.5,
+        3817.1,
+        372.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Aeneid",
+          "auteur": "Virgil",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4699.7,
+        284.8,
+        4996.4,
+        396.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OVID.",
+          "auteur": "METAMORPHOSES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5060.1,
+        308.1,
+        5391.2,
+        389.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Metamorphoses",
+          "auteur": "Ovid",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2091.3,
+        337.1,
+        2991.9,
+        634.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "This is the textbook I used to first learn Ancient",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Roman history. I don't see it recommended often, but",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "I feel like Oxford's texts are the easiest to digest.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Alternatives I see that get recommended all the time",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "would be Rubicon by Tom Holland or SPQR by",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mary Beard.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5060.1,
+        458.4,
+        5995.4,
+        651.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A collection of myths, most I'm sure you already know,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "written in narrative poetry, chronicling everything from",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rome's creation myth to Julius Caesar's deification.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Its one of the most influential texts ever.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1655.7,
+        494.1,
+        2015.9,
+        564.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HER HISTOR",
+          "auteur": "THE ROMANS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3206.6,
+        527.3,
+        3520.9,
+        588.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE AENEID",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4763.6,
+        655.6,
+        4932.5,
+        692.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Rolfe Humphries",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        104.5,
+        772.6,
+        319.6,
+        820.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EPICUREA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HISTORICAE",
+      "bbox": [
+        1742.8,
+        854.1,
+        1934.7,
+        1017.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ATLAS",
+          "auteur": null,
+          "tier": "HISTORICAE"
+        },
+        {
+          "titre": "ANCIENT",
+          "auteur": null,
+          "tier": "HISTORICAE"
+        },
+        {
+          "titre": "ROME",
+          "auteur": null,
+          "tier": "HISTORICAE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2091.2,
+        864.8,
+        2765.3,
+        959.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Penguin",
+          "auteur": "Historical Atlas of Ancient Rome",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3567.0,
+        871.5,
+        4119.0,
+        959.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Early History of Rome",
+          "auteur": "Livy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3253.2,
+        883.5,
+        3451.0,
+        953.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EIVY",
+          "auteur": "HISTORY OF ROME",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4729.0,
+        883.5,
+        4984.6,
+        976.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ODES AND SATIRES OF",
+          "auteur": "HORACE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2091.4,
+        1028.8,
+        3073.2,
+        1174.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A good companion text to the Brief History which is more",
+          "auteur": "about showing the geographical expansion of Rome from",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3567.0,
+        1028.8,
+        4548.9,
+        1221.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "A very long (but mostly lost) series of ancient history of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rome. The first 45 or so of 142 books exist and do a",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Rome. The first 45 or so of 142 books exist and do al",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "great job at narrating a lot of the founding myths and wars",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "from Early Rome. Read alongside A Brief History.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        407.5,
+        1388.5,
+        821.5,
+        1479.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Letters from a Stoic",
+          "auteur": "Seneca the Younger",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2031.2,
+        1414.3,
+        2367.6,
+        1498.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "On the Republic",
+          "auteur": "Cicero",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3564.3,
+        1459.3,
+        4224.4,
+        1544.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Commentary on the Gallic Wars",
+          "auteur": "Julius Caesar",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4741.4,
+        1497.8,
+        4994.0,
+        1569.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE THEBAID",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3227.6,
+        1503.1,
+        3487.0,
+        1558.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CALLIC WAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        407.5,
+        1543.5,
+        1533.1,
+        1789.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Seneca the Younger was a Roman philosopher who served as",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "tutor and later advisor to Nero. He was forced to commit suicide",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "due to the belief he was a part of an assassination attempt on",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Nero. His school of thought was stoicism, a Hellenistic philosophy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "which most Roman emperors followed.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2024.7,
+        1569.4,
+        3059.7,
+        1808.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "A political philosophy text written in the format of a Socratic",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "dialogue. Cicero was a Roman senetor who favored a",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "skeptical approach to solving issues. Living alongside",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Julius Caesar, he was almost a member of the Triumvirate",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "that Caesar, Pompey, and Crassus formed.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3564.3,
+        1614.6,
+        4573.4,
+        1814.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "That one book about corn. Julius Caesar's firsthand account",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the war that made him the most powerful man in Rome.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "If you plan on learning Latin, many consider this",
+          "auteur": "Side note",
+          "tier": null
+        },
+        {
+          "titre": "to be one of the easiest books to read in its original Latin.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1688.3,
+        1711.5,
+        1908.3,
+        1743.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Republic and The Laws",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3350.8,
+        1750.2,
+        3486.6,
+        1821.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "JULIUS",
+          "auteur": "CAESAR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        407.5,
+        2008.0,
+        659.9,
+        2092.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Meditations",
+          "auteur": "Marcus Aurelius",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3312.0,
+        2034.4,
+        3441.4,
+        2066.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SUETONIUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3570.7,
+        2040.8,
+        3991.2,
+        2125.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Twelve Caesars",
+          "auteur": "Suetonius",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2031.2,
+        2047.3,
+        2723.3,
+        2137.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Deeds of the Divine Augustus",
+          "auteur": "Augustus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4812.7,
+        2053.4,
+        4922.7,
+        2086.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE SATIRES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        407.4,
+        2163.5,
+        1578.4,
+        2363.7
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "The last of the Five Good Emperors, Marcus Aurelius was almost",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "always on campaign in his life, expanding the borders of Rome.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Meditations is a collection of private notes the emperor Marcus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Aurelius made to himself about stoic philosophy while on campaign.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Aurelius made to himsell about stoic philosophy while on campaign.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3570.7,
+        2195.4,
+        4663.9,
+        2390.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Ancient biographies on Julius Caesar and the first eleven Roman",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "emperors. Despite being the ancient equivalent to a tabloid",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "magazine, The Twelve Caesars is one of the most influential",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "books in the study of Roman history.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2024.7,
+        2208.8,
+        3130.9,
+        2396.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "A short funerary inscription for Augustus, written by himself",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The inscription is important as it shows the image Augustus",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "tried to portray, his mastery of propaganda, and the establishment",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the Judo-Claudian line.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        64.0,
+        2604.2,
+        326.0,
+        2679.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ESSENTIAL",
+          "auteur": "PLOTINUS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1734.5,
+        2627.2,
+        1891.7,
+        2720.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ENGUIN CLASS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TACITUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE ANNALS OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IMPERIAL ROME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4778.7,
+        2633.2,
+        4953.3,
+        2680.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE COMPLETE POEMS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2025.6,
+        2656.1,
+        2264.3,
+        2738.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Annals",
+          "auteur": "Tacitus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3317.7,
+        2679.8,
+        3474.9,
+        2738.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PLAUTUS",
+          "auteur": "THE COMEDY OF ASSES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2019.8,
+        2807.8,
+        3119.8,
+        3005.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "An ancient history on the first few rulers of the Judo-Claudian",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "line, with the most focus being on Tiberius. Augustus is glossed",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "over in a few pages. Since Suetonius documents the same period,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "feel free to skip this text if you're anxious to move on.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1734.5,
+        3202.8,
+        1909.2,
+        3278.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PENGUIN CLASSIC",
+          "auteur": "JOSEPH US",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DECLINE AND FALL",
+      "bbox": [
+        3224.5,
+        3214.0,
+        3533.3,
+        3349.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ROMAN EMPIRE",
+          "auteur": null,
+          "tier": "DECLINE AND FALL"
+        },
+        {
+          "titre": "EDWARD GIBBU!",
+          "auteur": null,
+          "tier": "DECLINE AND FALL"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2025.6,
+        3232.4,
+        2374.8,
+        3319.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Jewish Wars",
+          "auteur": "Josephus",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2025.6,
+        3389.5,
+        3032.5,
+        3535.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "A biographical history on the Jewish Wars, a series of wars",
+          "auteur": "that eventually lead to the new line of Roman emperors, the",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

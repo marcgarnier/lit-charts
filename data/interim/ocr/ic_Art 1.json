@@ -1,0 +1,1224 @@
+{
+  "fichier": "ic_Art 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:58:45.474087+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    900,
+    1560
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 110,
+  "lignes": [
+    {
+      "texte": "/ic/ book list",
+      "texte_balise": "/ic/ book list",
+      "bbox": [
+        213.5,
+        38.0,
+        621.8,
+        111.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "figure drawing:",
+      "texte_balise": "figure drawing:",
+      "bbox": [
+        612.1,
+        133.8,
+        727.7,
+        152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIGURE DRAWING",
+      "texte_balise": "FIGURE DRAWING",
+      "bbox": [
+        45.3,
+        140.6,
+        170.0,
+        152.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRAWING",
+      "texte_balise": "DRAWING",
+      "bbox": [
+        464.6,
+        142.2,
+        523.8,
+        159.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DYNAMIC",
+      "texte_balise": "DYNAMIC",
+      "bbox": [
+        464.7,
+        156.5,
+        523.7,
+        172.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HANDS",
+      "texte_balise": "HANDS",
+      "bbox": [
+        467.0,
+        170.1,
+        523.7,
+        190.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Figure Drawing: Design and Invention\" -",
+      "texte_balise": "\"Figure Drawing: Design and Invention\" -",
+      "bbox": [
+        614.4,
+        172.0,
+        879.6,
+        188.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BURNE HOGARTH",
+      "texte_balise": "BURNE HOGARTH",
+      "bbox": [
+        467.0,
+        190.0,
+        521.4,
+        200.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael Hampton,",
+      "texte_balise": "Michael Hampton,",
+      "bbox": [
+        612.1,
+        192.7,
+        730.0,
+        206.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Constructive Anatomy \" -",
+      "texte_balise": "\"Constructive Anatomy \" -",
+      "bbox": [
+        614.4,
+        208.6,
+        777.6,
+        224.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREII",
+      "texte_balise": "ANDREII",
+      "bbox": [
+        333.2,
+        213.1,
+        378.6,
+        224.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George B. Bridgmon",
+      "texte_balise": "George B. Bridgmon",
+      "bbox": [
+        204.0,
+        217.7,
+        283.4,
+        229.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "George Bridgman",
+      "texte_balise": "George Bridgman",
+      "bbox": [
+        614.4,
+        229.0,
+        725.4,
+        243.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CONSTRUCTIVE",
+      "texte_balise": "CONSTRUCTIVE",
+      "bbox": [
+        199.5,
+        231.3,
+        303.8,
+        247.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Figure Drawing for All its Worth\" -",
+      "texte_balise": "\"Figure Drawing for All its Worth\" -",
+      "bbox": [
+        614.4,
+        242.6,
+        843.3,
+        261.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANATOMY",
+      "texte_balise": "ANATOMY",
+      "bbox": [
+        201.8,
+        247.2,
+        272.0,
+        260.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andrew Loomis",
+      "texte_balise": "Andrew Loomis",
+      "bbox": [
+        614.4,
+        265.0,
+        714.1,
+        279.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Drawing Dynamic Hands\" -",
+      "texte_balise": "\"Drawing Dynamic Hands\" -",
+      "bbox": [
+        614.4,
+        281.0,
+        798.0,
+        297.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIGURE DRAWING",
+      "texte_balise": "FIGURE DRAWING",
+      "bbox": [
+        312.8,
+        283.0,
+        455.7,
+        306.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Burne Hogarth",
+      "texte_balise": "Burne Hogarth",
+      "bbox": [
+        614.4,
+        301.6,
+        707.3,
+        315.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR ALL ITS WORTH",
+      "texte_balise": "FOR ALL ITS WORTH",
+      "bbox": [
+        312.8,
+        306.0,
+        455.7,
+        324.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Force\" -",
+      "texte_balise": "\"Force\" -",
+      "bbox": [
+        614.4,
+        315.0,
+        677.8,
+        333.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Michael D. Mattesi",
+      "texte_balise": "Michael D. Mattesi",
+      "bbox": [
+        612.1,
+        337.8,
+        734.5,
+        351.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANATOMY",
+      "texte_balise": "ANATOMY",
+      "bbox": [
+        519.0,
+        339.6,
+        600.9,
+        358.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRAWING",
+      "texte_balise": "DRAWING",
+      "bbox": [
+        265.2,
+        346.6,
+        337.8,
+        360.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vilppu",
+      "texte_balise": "Vilppu",
+      "bbox": [
+        183.6,
+        351.5,
+        260.7,
+        383.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "FOR THE",
+      "texte_balise": "FOR THE",
+      "bbox": [
+        532.7,
+        353.7,
+        587.2,
+        365.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Vilppu Drawing Manual\" -",
+      "texte_balise": "\"Vilppu Drawing Manual\" -",
+      "bbox": [
+        614.4,
+        353.7,
+        791.2,
+        370.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MANUAL",
+      "texte_balise": "MANUAL",
+      "bbox": [
+        272.0,
+        365.1,
+        340.1,
+        378.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARTIST",
+      "texte_balise": "ARTIST",
+      "bbox": [
+        525.9,
+        365.1,
+        589.4,
+        380.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Glenn Vilppu",
+      "texte_balise": "Glenn Vilppu",
+      "bbox": [
+        612.0,
+        373.4,
+        700.6,
+        390.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "42 fall page plates",
+      "texte_balise": "42 fall page plates",
+      "bbox": [
+        530.5,
+        378.7,
+        587.2,
+        390.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Die Gestalt des Menschen\" -",
+      "texte_balise": "\"Die Gestalt des Menschen\" -",
+      "bbox": [
+        614.4,
+        390.0,
+        800.3,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gottfried Bammes?",
+      "texte_balise": "Gottfried Bammes?",
+      "bbox": [
+        401.3,
+        396.8,
+        476.1,
+        406.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Die Gestalt",
+      "texte_balise": "Die Gestalt",
+      "bbox": [
+        401.3,
+        405.9,
+        446.6,
+        415.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gottfried Bammes",
+      "texte_balise": "Gottfried Bammes",
+      "bbox": [
+        612.1,
+        410.0,
+        727.7,
+        424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Anatomy for the Artist\" -",
+      "texte_balise": "\"Anatomy for the Artist\" -",
+      "bbox": [
+        614.4,
+        426.0,
+        777.6,
+        442.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jeno Barcsay",
+      "texte_balise": "Jeno Barcsay",
+      "bbox": [
+        612.1,
+        446.7,
+        696.0,
+        460.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Force",
+      "texte_balise": "Force",
+      "bbox": [
+        83.9,
+        469.4,
+        181.4,
+        487.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "drawing & illustration",
+      "texte_balise": "drawing & illustration",
+      "bbox": [
+        612.1,
+        483.0,
+        768.5,
+        501.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"How to Draw\"-",
+      "texte_balise": "\"How to Draw\"-",
+      "bbox": [
+        614.4,
+        519.0,
+        725.4,
+        535.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Creative",
+      "texte_balise": "Creative",
+      "bbox": [
+        476.1,
+        539.7,
+        589.4,
+        571.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Scott Robertson",
+      "texte_balise": "Scott Robertson",
+      "bbox": [
+        612.1,
+        539.7,
+        714.1,
+        553.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Famous Artists Course\" -",
+      "texte_balise": "\"Famous Artists Course\" -",
+      "bbox": [
+        614.4,
+        555.5,
+        782.1,
+        571.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Illu/tration",
+      "texte_balise": "Illu/tration",
+      "bbox": [
+        464.5,
+        565.4,
+        603.3,
+        595.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Various",
+      "texte_balise": "Various",
+      "bbox": [
+        614.4,
+        575.9,
+        664.2,
+        589.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRAW",
+      "texte_balise": "DRAW",
+      "bbox": [
+        136.0,
+        580.3,
+        183.7,
+        594.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Practice & Science of Drawing\" -",
+      "texte_balise": "\"The Practice & Science of Drawing\" -",
+      "bbox": [
+        614.4,
+        591.8,
+        859.2,
+        610.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Harold Speed",
+      "texte_balise": "Harold Speed",
+      "bbox": [
+        612.1,
+        612.0,
+        698.2,
+        626.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Creative Illustration\"",
+      "texte_balise": "\"Creative Illustration\"",
+      "bbox": [
+        614.4,
+        628.0,
+        759.4,
+        644.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-Andrew Loomis",
+      "texte_balise": "-Andrew Loomis",
+      "bbox": [
+        612.1,
+        648.0,
+        720.9,
+        662.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        344.6,
+        653.0,
+        376.3,
+        668.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PRACTICE",
+      "texte_balise": "PRACTICE",
+      "bbox": [
+        342.1,
+        665.7,
+        415.1,
+        685.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& SCIENCE OF",
+      "texte_balise": "& SCIENCE OF",
+      "bbox": [
+        349.1,
+        682.5,
+        437.5,
+        696.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Painting:",
+      "texte_balise": "Painting:",
+      "bbox": [
+        612.1,
+        684.8,
+        671.0,
+        700.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DRAWING",
+      "texte_balise": "DRAWING",
+      "bbox": [
+        346.7,
+        697.2,
+        446.8,
+        715.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by ANDREW LOOMIS",
+      "texte_balise": "by ANDREW LOOMIS",
+      "bbox": [
+        469.1,
+        706.6,
+        600.9,
+        733.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HAROLD SPEED",
+      "texte_balise": "HAROLD SPEED",
+      "bbox": [
+        346.6,
+        715.2,
+        406.0,
+        727.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Alla Prima\" -",
+      "texte_balise": "\"Alla Prima\" -",
+      "bbox": [
+        614.4,
+        718.8,
+        709.6,
+        735.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Schmid",
+      "texte_balise": "Richard Schmid",
+      "bbox": [
+        614.4,
+        739.0,
+        714.1,
+        753.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Imaginative",
+      "texte_balise": "Imaginative",
+      "bbox": [
+        444.3,
+        741.3,
+        587.2,
+        766.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Color and",
+      "texte_balise": "Color and",
+      "bbox": [
+        328.7,
+        743.6,
+        419.4,
+        771.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALLA PRIMA",
+      "texte_balise": "ALLA PRIMA",
+      "bbox": [
+        49.9,
+        748.0,
+        238.0,
+        773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Color and Light\" -",
+      "texte_balise": "\"Color and Light\" -",
+      "bbox": [
+        614.4,
+        755.0,
+        739.0,
+        773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Realism",
+      "texte_balise": "Realism",
+      "bbox": [
+        487.3,
+        763.5,
+        585.0,
+        787.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Light",
+      "texte_balise": "Light",
+      "bbox": [
+        351.4,
+        768.7,
+        421.7,
+        802.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Everything I Know About Painting",
+      "texte_balise": "Everything I Know About Painting",
+      "bbox": [
+        70.3,
+        773.0,
+        219.9,
+        785.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Gurney",
+      "texte_balise": "James Gurney",
+      "bbox": [
+        611.9,
+        774.5,
+        702.9,
+        792.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Imaginative Realism\" -",
+      "texte_balise": "\"Imaginative Realism\" -",
+      "bbox": [
+        614.4,
+        791.0,
+        766.2,
+        809.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "James Gurney",
+      "texte_balise": "James Gurney",
+      "bbox": [
+        612.1,
+        811.5,
+        700.5,
+        827.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Guide for the",
+      "texte_balise": "A Guide for the",
+      "bbox": [
+        265.2,
+        845.8,
+        324.2,
+        857.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Comics/Animation:",
+      "texte_balise": "Comics/Animation:",
+      "bbox": [
+        612.1,
+        848.0,
+        736.8,
+        861.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Exist",
+      "texte_balise": "Exist",
+      "bbox": [
+        569.0,
+        857.1,
+        591.7,
+        868.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Framed Ink\"-",
+      "texte_balise": "\"Framed Ink\"-",
+      "bbox": [
+        614.4,
+        882.0,
+        714.1,
+        898.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Marcos Marteu-Mestre",
+      "texte_balise": "Marcos Marteu-Mestre",
+      "bbox": [
+        612.1,
+        902.0,
+        754.9,
+        916.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "By RICHARD SCHMID",
+      "texte_balise": "By RICHARD SCHMID",
+      "bbox": [
+        79.3,
+        911.5,
+        210.8,
+        925.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Comics and Sequential Art\" -",
+      "texte_balise": "\"Comics and Sequential Art\" -",
+      "bbox": [
+        614.4,
+        918.0,
+        804.8,
+        936.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ERSTANDMO",
+      "texte_balise": "ERSTANDMO",
+      "bbox": [
+        374.1,
+        938.7,
+        462.5,
+        961.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Will Eisner",
+      "texte_balise": "Will Eisner",
+      "bbox": [
+        614.4,
+        938.7,
+        686.9,
+        952.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RICHARD WILLIAMS",
+      "texte_balise": "RICHARD WILLIAMS",
+      "bbox": [
+        491.9,
+        941.0,
+        582.6,
+        955.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Will EiSNER",
+      "texte_balise": "Will EiSNER",
+      "bbox": [
+        222.0,
+        944.7,
+        306.2,
+        964.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FRA",
+      "texte_balise": "FRA",
+      "bbox": [
+        40.8,
+        950.1,
+        77.1,
+        965.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Understanding Comics\"",
+      "texte_balise": "\"Understanding Comics\"",
+      "bbox": [
+        614.4,
+        956.9,
+        775.3,
+        973.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMICS",
+      "texte_balise": "COMICS",
+      "bbox": [
+        192.7,
+        959.1,
+        333.2,
+        1015.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMES",
+      "texte_balise": "COMES",
+      "bbox": [
+        349.1,
+        959.1,
+        462.5,
+        988.6
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "IN",
+      "texte_balise": "IN",
+      "bbox": [
+        58.9,
+        961.4,
+        106.5,
+        990.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EXPANDED EDITION",
+      "texte_balise": "EXPANDED EDITION",
+      "bbox": [
+        501.0,
+        965.6,
+        571.3,
+        979.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- Scott McCloud",
+      "texte_balise": "- Scott McCloud",
+      "bbox": [
+        612.1,
+        975.0,
+        716.4,
+        991.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Animator's Survival Kit\"-",
+      "texte_balise": "\"The Animator's Survival Kit\"-",
+      "bbox": [
+        614.4,
+        993.0,
+        813.9,
+        1007.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Richard Williams",
+      "texte_balise": "Richard Williams",
+      "bbox": [
+        614.4,
+        1011.0,
+        723.2,
+        1025.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Advanced Animation\" -",
+      "texte_balise": "\"Advanced Animation\" -",
+      "bbox": [
+        614.4,
+        1027.0,
+        768.5,
+        1043.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SEQUENTIAL",
+      "texte_balise": "SEQUENTIAL",
+      "bbox": [
+        192.3,
+        1032.6,
+        331.3,
+        1071.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preston Blair",
+      "texte_balise": "Preston Blair",
+      "bbox": [
+        612.1,
+        1047.6,
+        696.0,
+        1061.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARTE",
+      "texte_balise": "ARTE",
+      "bbox": [
+        195.0,
+        1065.7,
+        328.7,
+        1111.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'ANIMATOR'S",
+      "texte_balise": "'ANIMATOR'S",
+      "bbox": [
+        485.1,
+        1070.1,
+        587.2,
+        1093.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Philosophy of Art:",
+      "texte_balise": "Philosophy of Art:",
+      "bbox": [
+        612.1,
+        1083.8,
+        727.7,
+        1100.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SURVIVAL KIT",
+      "texte_balise": "SURVIVAL KIT",
+      "bbox": [
+        482.8,
+        1092.5,
+        587.2,
+        1116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McCLO",
+      "texte_balise": "McCLO",
+      "bbox": [
+        396.7,
+        1108.8,
+        437.5,
+        1122.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "· \"Art & Fear\"",
+      "texte_balise": "· \"Art & Fear\"",
+      "bbox": [
+        602.9,
+        1119.2,
+        696.1,
+        1136.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David Bayles & Ted Orland",
+      "texte_balise": "David Bayles & Ted Orland",
+      "bbox": [
+        612.1,
+        1138.0,
+        786.6,
+        1154.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ADVANCED",
+      "texte_balise": "ADVANCED",
+      "bbox": [
+        40.8,
+        1142.8,
+        170.0,
+        1160.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Art Spirit\"",
+      "texte_balise": "\"The Art Spirit\"",
+      "bbox": [
+        612.1,
+        1156.0,
+        714.1,
+        1172.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANIMATION",
+      "texte_balise": "ANIMATION",
+      "bbox": [
+        36.3,
+        1158.7,
+        172.3,
+        1179.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Henri",
+      "texte_balise": "Robert Henri",
+      "bbox": [
+        612.1,
+        1176.8,
+        696.0,
+        1188.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ast",
+      "texte_balise": "Ast",
+      "bbox": [
+        201.8,
+        1181.3,
+        265.2,
+        1217.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Preston Blair",
+      "texte_balise": "Preston Blair",
+      "bbox": [
+        70.3,
+        1185.8,
+        142.8,
+        1199.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "&Tear",
+      "texte_balise": "&Tear",
+      "bbox": [
+        206.3,
+        1219.9,
+        263.0,
+        1242.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE ART SPIRIT",
+      "texte_balise": "THE ART SPIRIT",
+      "bbox": [
+        312.8,
+        1297.0,
+        419.4,
+        1315.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Robert Henri",
+      "texte_balise": "Robert Henri",
+      "bbox": [
+        344.5,
+        1314.5,
+        419.5,
+        1331.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DAVIO BAYLES • TRO ORLAND",
+      "texte_balise": "DAVIO BAYLES • TRO ORLAND",
+      "bbox": [
+        183.6,
+        1319.7,
+        274.3,
+        1331.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

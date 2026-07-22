@@ -1,0 +1,672 @@
+{
+  "fichier": "16_Anarcho-Primitivism.jpeg",
+  "date": "2026-07-21T19:28:36.606664+00:00",
+  "taille_origine": [
+    1088,
+    735
+  ],
+  "hauteur_ligne_mediane": 16.3,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 34,
+  "nb_noeuds": 47,
+  "tiers": [
+    "Technological",
+    "The Kigiom",
+    "Anarchy"
+  ],
+  "intitules_isoles": [
+    "Anti-Tech",
+    "Tess He Kunali",
+    "The Kingdom of God",
+    "Modernity",
+    "Emptiness",
+    "John Moore",
+    "Anarchy"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        7.9,
+        14.0,
+        378.0,
+        86.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "An Anarcho-Primitivist Reading List",
+          "auteur": "Origins",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        531.9,
+        57.5,
+        642.1,
+        82.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ted Kaczynski",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        758.0,
+        103.9,
+        820.0,
+        113.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AND ITS FUTURE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        925.9,
+        111.8,
+        990.1,
+        175.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Anti-Tech",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Revolution:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Why and Home:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Tess He Kunali",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        748.0,
+        203.7,
+        830.0,
+        221.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Unidentir Vestrite",
+          "auteur": "...",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Technological",
+      "bbox": [
+        533.9,
+        239.1,
+        672.1,
+        351.5
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Slavery",
+          "auteur": null,
+          "tier": "Technological"
+        },
+        {
+          "titre": "John Zerzan",
+          "auteur": null,
+          "tier": "Technological"
+        },
+        {
+          "titre": "AGAINST",
+          "auteur": null,
+          "tier": "Technological"
+        },
+        {
+          "titre": "CIVILIZATION",
+          "auteur": null,
+          "tier": "Technological"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        740.0,
+        241.7,
+        844.0,
+        277.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Industrial Society",
+          "auteur": "and It's Future",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        896.0,
+        241.7,
+        1022.0,
+        279.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Anti-Tech Revolution:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Why and How",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        232.0,
+        249.7,
+        308.0,
+        267.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Elisée Reclus",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        51.9,
+        251.2,
+        124.1,
+        272.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Leo Tolstoy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        380.0,
+        253.7,
+        504.0,
+        273.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Henry David Thoreal",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        52.0,
+        297.6,
+        136.0,
+        329.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LEO",
+          "auteur": "TOLSTOY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        424.0,
+        309.6,
+        458.0,
+        319.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "МАВПЕЛ",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        756.0,
+        327.5,
+        832.0,
+        347.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "UTURE CANEY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        910.0,
+        331.4,
+        1006.0,
+        349.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Eng on optiness",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        242.0,
+        371.5,
+        310.0,
+        419.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ANARCHY.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GEOGRAPHY.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MODERNITY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ELSEE HEELUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "The Kigiom",
+      "bbox": [
+        38.0,
+        393.0,
+        152.0,
+        479.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Is Within You",
+          "auteur": null,
+          "tier": "The Kigiom"
+        },
+        {
+          "titre": "The Kingdom of God",
+          "auteur": null,
+          "tier": "The Kigiom"
+        },
+        {
+          "titre": "Is Within You",
+          "auteur": null,
+          "tier": "The Kigiom"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        220.0,
+        449.4,
+        340.0,
+        487.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Anarchy, Geography",
+          "auteur": "Modernity",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        418.0,
+        459.4,
+        464.0,
+        475.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Walden",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        927.8,
+        481.3,
+        994.0,
+        519.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Running on",
+          "auteur": "Emptiness",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        576.0,
+        485.3,
+        690.0,
+        503.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Against Civilisation",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        744.0,
+        487.3,
+        844.0,
+        503.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Future Primitive",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4.0,
+        513.3,
+        94.0,
+        531.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "John Moore",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        926.0,
+        541.3,
+        1000.0,
+        565.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ELEMENTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Anarchy",
+      "bbox": [
+        227.9,
+        554.8,
+        288.1,
+        603.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "and",
+          "auteur": null,
+          "tier": "Anarchy"
+        },
+        {
+          "titre": "Ecstasy",
+          "auteur": null,
+          "tier": "Anarchy"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        798.0,
+        569.2,
+        836.0,
+        579.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TWLIEHTER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        596.0,
+        593.2,
+        672.0,
+        607.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WHY HOPE?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        932.0,
+        643.1,
+        994.0,
+        653.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOIN ZERZAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        751.9,
+        688.7,
+        842.1,
+        727.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Twilight of the",
+          "auteur": "Machines",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        930.0,
+        689.0,
+        1002.0,
+        725.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Elements of",
+          "auteur": "Refusal",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        598.0,
+        693.1,
+        666.0,
+        711.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Why Hope?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        219.9,
+        694.5,
+        296.1,
+        731.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Anarchy and",
+          "auteur": "Ecstasy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        54.0,
+        694.9,
+        126.0,
+        731.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "i Primitivist",
+          "auteur": "Primer",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        383.9,
+        695.1,
+        462.1,
+        731.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Anarchist",
+          "auteur": "Speculations",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

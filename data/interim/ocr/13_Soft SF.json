@@ -1,0 +1,1422 @@
+{
+  "fichier": "13_Soft SF.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:35.079008+00:00",
+  "duree_s": 2.1,
+  "taille_origine": [
+    1600,
+    2400
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 128,
+  "lignes": [
+    {
+      "texte": "Selected Soft SF",
+      "texte_balise": "Selected Soft SF",
+      "bbox": [
+        455.8,
+        81.0,
+        1069.8,
+        153.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "'Soft science fiction, or soft SF, is a category of science fiction that uses less probable or realistic science",
+      "texte_balise": "'Soft science fiction, or soft SF, is a category of science fiction that uses less probable or realistic science",
+      "bbox": [
+        311.6,
+        227.7,
+        1230.2,
+        249.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "elements. It either explores the \"soft\" sciences, and especially the social sciences, rather than engineering",
+      "texte_balise": "elements. It either explores the \"soft\" sciences, and especially the social sciences, rather than engineering",
+      "bbox": [
+        311.6,
+        257.9,
+        1230.2,
+        277.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or the \"hard\" sciences, or is not scientifically accurate, or both of the former. Soft science fiction of",
+      "texte_balise": "or the \"hard\" sciences, or is not scientifically accurate, or both of the former. Soft science fiction of",
+      "bbox": [
+        311.6,
+        285.8,
+        1183.7,
+        307.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "either type is often more concerned with character and speculative societies, rather than scientific or",
+      "texte_balise": "either type is often more concerned with character and speculative societies, rather than scientific or",
+      "bbox": [
+        311.6,
+        316.0,
+        1202.3,
+        335.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "engineering speculations.'",
+      "texte_balise": "engineering speculations.'",
+      "bbox": [
+        311.6,
+        343.9,
+        541.9,
+        365.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SF MASTERWORKS",
+      "texte_balise": "SF MASTERWORKS",
+      "bbox": [
+        1209.3,
+        402.0,
+        1348.8,
+        418.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SF MASTERWORKS",
+      "texte_balise": "SF MASTERWORKS",
+      "bbox": [
+        109.3,
+        415.9,
+        239.5,
+        430.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ursula ko leguin",
+      "texte_balise": "ursula ko leguin",
+      "bbox": [
+        502.3,
+        422.9,
+        748.8,
+        446.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "B•R•A•D•B•U-R•Y",
+      "texte_balise": "B•R•A•D•B•U-R•Y",
+      "bbox": [
+        853.5,
+        434.5,
+        1137.2,
+        471.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EARTH ABIDES",
+      "texte_balise": "EARTH ABIDES",
+      "bbox": [
+        1383.7,
+        450.8,
+        1509.3,
+        469.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOWNWARD TO THE EARTH",
+      "texte_balise": "DOWNWARD TO THE EARTH",
+      "bbox": [
+        158.1,
+        462.0,
+        388.4,
+        479.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GEORGE R. STEWART",
+      "texte_balise": "GEORGE R. STEWART",
+      "bbox": [
+        1220.9,
+        474.0,
+        1511.6,
+        500.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE MARTIAN CHRONICLES",
+      "texte_balise": "THE MARTIAN CHRONICLES",
+      "bbox": [
+        872.1,
+        476.0,
+        1123.3,
+        495.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROBERT SILVERBERGI",
+      "texte_balise": "ROBERT SILVERBERGI",
+      "bbox": [
+        118.6,
+        483.0,
+        397.7,
+        509.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GRAND",
+      "texte_balise": "GRAND",
+      "bbox": [
+        902.3,
+        504.2,
+        960.5,
+        515.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITIONS",
+      "texte_balise": "EDITIONS",
+      "bbox": [
+        1048.8,
+        504.2,
+        1132.6,
+        515.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Weene Steenberg goes tocays",
+      "texte_balise": "Weene Steenberg goes tocays",
+      "bbox": [
+        237.2,
+        518.0,
+        348.8,
+        530.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        602.3,
+        590.2,
+        660.5,
+        618.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LATHE",
+      "texte_balise": "LATHE",
+      "bbox": [
+        537.0,
+        633.7,
+        723.4,
+        683.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "_OF",
+      "texte_balise": "_OF",
+      "bbox": [
+        602.3,
+        713.3,
+        648.8,
+        738.9
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HEAVEN",
+      "texte_balise": "HEAVEN",
+      "bbox": [
+        532.6,
+        766.8,
+        723.3,
+        804.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Man seeks forgiveness from an",
+      "texte_balise": "Man seeks forgiveness from an",
+      "bbox": [
+        93.0,
+        894.6,
+        365.1,
+        915.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A man's dreams have the power to",
+      "texte_balise": "A man's dreams have the power to",
+      "bbox": [
+        465.1,
+        901.5,
+        765.1,
+        920.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A student of anthropology survives",
+      "texte_balise": "A student of anthropology survives",
+      "bbox": [
+        1202.3,
+        903.9,
+        1509.3,
+        925.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Linked short stories from the",
+      "texte_balise": "Linked short stories from the",
+      "bbox": [
+        851.2,
+        906.0,
+        1107.0,
+        922.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "extraterrestrial race of sentient",
+      "texte_balise": "extraterrestrial race of sentient",
+      "bbox": [
+        93.0,
+        924.8,
+        374.4,
+        941.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "transform Earth retroactively - he",
+      "texte_balise": "transform Earth retroactively - he",
+      "bbox": [
+        462.8,
+        929.0,
+        767.4,
+        948.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Martian frontier. Exploration tales,",
+      "texte_balise": "Martian frontier. Exploration tales,",
+      "bbox": [
+        851.2,
+        934.0,
+        1162.8,
+        955.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "an apocalyptic virus. He aims to",
+      "texte_balise": "an apocalyptic virus. He aims to",
+      "bbox": [
+        1202.3,
+        934.0,
+        1486.0,
+        953.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "elephants on a former Earth colony.",
+      "texte_balise": "elephants on a former Earth colony.",
+      "bbox": [
+        93.0,
+        952.7,
+        409.3,
+        974.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "seeks the help of an oneirologist who",
+      "texte_balise": "seeks the help of an oneirologist who",
+      "bbox": [
+        465.1,
+        959.6,
+        788.4,
+        978.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "find survivors and establish a new",
+      "texte_balise": "find survivors and establish a new",
+      "bbox": [
+        1202.3,
+        962.0,
+        1504.7,
+        978.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "prose-poems. A beautiful Martian",
+      "texte_balise": "prose-poems. A beautiful Martian",
+      "bbox": [
+        851.2,
+        964.0,
+        1148.8,
+        983.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Religion, rebirth, post-colonial,",
+      "texte_balise": "Religion, rebirth, post-colonial,",
+      "bbox": [
+        93.0,
+        980.6,
+        372.1,
+        1001.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "begins to use him to build a utopia.",
+      "texte_balise": "begins to use him to build a utopia.",
+      "bbox": [
+        465.1,
+        987.5,
+        774.4,
+        1008.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "society and its debasement by",
+      "texte_balise": "society and its debasement by",
+      "bbox": [
+        851.2,
+        992.0,
+        1111.6,
+        1013.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "society while holding onto old",
+      "texte_balise": "society while holding onto old",
+      "bbox": [
+        1202.3,
+        992.0,
+        1467.4,
+        1011.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Joseph Conrad influence.",
+      "texte_balise": "Joseph Conrad influence.",
+      "bbox": [
+        90.7,
+        1010.8,
+        314.0,
+        1029.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reality and dreams, Taoist subtext.",
+      "texte_balise": "Reality and dreams, Taoist subtext.",
+      "bbox": [
+        465.1,
+        1017.7,
+        772.1,
+        1036.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "knowledge. Much religious and",
+      "texte_balise": "knowledge. Much religious and",
+      "bbox": [
+        1202.3,
+        1020.0,
+        1479.1,
+        1041.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "humans. Old problems are",
+      "texte_balise": "humans. Old problems are",
+      "bbox": [
+        851.2,
+        1022.0,
+        1086.0,
+        1041.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "philosophical observation.",
+      "texte_balise": "philosophical observation.",
+      "bbox": [
+        1202.3,
+        1047.9,
+        1432.6,
+        1069.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "exported to the colonies.",
+      "texte_balise": "exported to the colonies.",
+      "bbox": [
+        851.2,
+        1050.0,
+        1067.4,
+        1069.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE INSPIRATION FOR BLADE RUNNER",
+      "texte_balise": "THE INSPIRATION FOR BLADE RUNNER",
+      "bbox": [
+        130.2,
+        1106.0,
+        376.7,
+        1118.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SF MASTERWORKS",
+      "texte_balise": "SF MASTERWORKS",
+      "bbox": [
+        486.0,
+        1113.0,
+        632.6,
+        1127.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SF MASTERWORKS",
+      "texte_balise": "SF MASTERWORKS",
+      "bbox": [
+        1253.5,
+        1126.7,
+        1274.4,
+        1412.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DO ANDROIDS",
+      "texte_balise": "DO ANDROIDS",
+      "bbox": [
+        125.6,
+        1126.9,
+        367.4,
+        1150.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ARKADY & BORIS",
+      "texte_balise": "ARKADY & BORIS",
+      "bbox": [
+        1309.3,
+        1150.0,
+        1537.2,
+        1178.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DREAM OF",
+      "texte_balise": "DREAM OF",
+      "bbox": [
+        179.1,
+        1159.0,
+        355.8,
+        1185.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MORE THAN HUMAN",
+      "texte_balise": "MORE THAN HUMAN",
+      "bbox": [
+        604.7,
+        1164.0,
+        802.3,
+        1183.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STRUGATSKY",
+      "texte_balise": "STRUGATSKY",
+      "bbox": [
+        1360.5,
+        1178.1,
+        1537.2,
+        1205.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEODORE STURGEON",
+      "texte_balise": "THEODORE STURGEON",
+      "bbox": [
+        497.7,
+        1185.0,
+        807.0,
+        1213.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ELECTRIC",
+      "texte_balise": "ELECTRIC",
+      "bbox": [
+        227.9,
+        1194.3,
+        383.7,
+        1217.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Roadside Picnic",
+      "texte_balise": "Roadside Picnic",
+      "bbox": [
+        1372.1,
+        1215.0,
+        1537.2,
+        1238.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One of the we fear nuthenic a",
+      "texte_balise": "One of the we fear nuthenic a",
+      "bbox": [
+        497.7,
+        1224.0,
+        634.9,
+        1238.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One of the were few authentic a",
+      "texte_balise": "One of the were few authentic a",
+      "bbox": [
+        497.7,
+        1224.5,
+        634.9,
+        1236.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tenpices acience Nation can boast",
+      "texte_balise": "tenpices acience Nation can boast",
+      "bbox": [
+        644.2,
+        1224.5,
+        790.7,
+        1236.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHEEP?",
+      "texte_balise": "SHEEP?",
+      "bbox": [
+        279.0,
+        1229.1,
+        404.7,
+        1252.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES BLISH",
+      "texte_balise": "JAMES BLISH",
+      "bbox": [
+        495.3,
+        1237.9,
+        560.5,
+        1252.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JAMES SUCH",
+      "texte_balise": "JAMES SUCH",
+      "bbox": [
+        495.3,
+        1238.0,
+        562.8,
+        1250.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bric",
+      "texte_balise": "Bric",
+      "bbox": [
+        876.7,
+        1252.4,
+        1004.7,
+        1322.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Brian",
+      "texte_balise": "Brian",
+      "bbox": [
+        876.2,
+        1252.9,
+        1058.7,
+        1323.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aldiss",
+      "texte_balise": "Aldiss",
+      "bbox": [
+        860.0,
+        1316.0,
+        1086.7,
+        1402.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Hothousei",
+      "texte_balise": "Hothousei",
+      "bbox": [
+        866.0,
+        1386.6,
+        1160.7,
+        1471.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"A KIND OF",
+      "texte_balise": "\"A KIND OF",
+      "bbox": [
+        316.3,
+        1391.5,
+        374.4,
+        1403.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A PROPHET:\"",
+      "texte_balise": "A PROPHET:\"",
+      "bbox": [
+        311.6,
+        1472.9,
+        379.1,
+        1485.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "- ERIC P. NASH",
+      "texte_balise": "- ERIC P. NASH",
+      "bbox": [
+        307.0,
+        1500.8,
+        386.0,
+        1512.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW YORK TONES",
+      "texte_balise": "THE NEW YORK TONES",
+      "bbox": [
+        297.7,
+        1514.7,
+        393.0,
+        1526.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PHILIP K. DICK",
+      "texte_balise": "PHILIP K. DICK",
+      "bbox": [
+        225.6,
+        1568.0,
+        416.3,
+        1589.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BEEN CLARICE",
+      "texte_balise": "BEEN CLARICE",
+      "bbox": [
+        900.0,
+        1579.8,
+        1016.3,
+        1591.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "INTRODUCTION BY ROGER ZELAZNY",
+      "texte_balise": "INTRODUCTION BY ROGER ZELAZNY",
+      "bbox": [
+        230.2,
+        1586.7,
+        416.3,
+        1601.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Six orphans have the power to",
+      "texte_balise": "Six orphans have the power to",
+      "bbox": [
+        490.7,
+        1642.5,
+        758.1,
+        1663.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Soviet era SF. Black-market smugglers",
+      "texte_balise": "Soviet era SF. Black-market smugglers",
+      "bbox": [
+        1214.0,
+        1644.8,
+        1555.8,
+        1663.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A far Earth future where the planet is",
+      "texte_balise": "A far Earth future where the planet is",
+      "bbox": [
+        855.6,
+        1645.9,
+        1188.6,
+        1671.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In a post-nuclear world a bounty",
+      "texte_balise": "In a post-nuclear world a bounty",
+      "bbox": [
+        100.0,
+        1647.0,
+        395.3,
+        1666.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "combine (blesh) as one organism,",
+      "texte_balise": "combine (blesh) as one organism,",
+      "bbox": [
+        490.7,
+        1672.7,
+        790.7,
+        1694.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hunter is employed to 'retire' a an",
+      "texte_balise": "hunter is employed to 'retire' a an",
+      "bbox": [
+        102.3,
+        1675.0,
+        400.0,
+        1696.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of alien relics from a forbidden zone on",
+      "texte_balise": "of alien relics from a forbidden zone on",
+      "bbox": [
+        1214.0,
+        1675.0,
+        1565.1,
+        1689.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "very hot, and vegetation has evolved",
+      "texte_balise": "very hot, and vegetation has evolved",
+      "bbox": [
+        855.8,
+        1679.7,
+        1174.4,
+        1701.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "being the next level of evolution. The",
+      "texte_balise": "being the next level of evolution. The",
+      "bbox": [
+        490.7,
+        1702.9,
+        814.0,
+        1719.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Earth. A story told from the street-level",
+      "texte_balise": "Earth. A story told from the street-level",
+      "bbox": [
+        1214.0,
+        1702.9,
+        1565.1,
+        1722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "advanced model of androids who are",
+      "texte_balise": "advanced model of androids who are",
+      "bbox": [
+        102.3,
+        1705.0,
+        425.6,
+        1722.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "frenziedly. Humanoids (small and",
+      "texte_balise": "frenziedly. Humanoids (small and",
+      "bbox": [
+        855.8,
+        1709.9,
+        1151.2,
+        1731.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "novel follows their youth and",
+      "texte_balise": "novel follows their youth and",
+      "bbox": [
+        488.4,
+        1730.8,
+        746.5,
+        1749.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "point of view of a smuggler among",
+      "texte_balise": "point of view of a smuggler among",
+      "bbox": [
+        1214.0,
+        1730.8,
+        1520.9,
+        1752.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "barely distinguishable from humans.",
+      "texte_balise": "barely distinguishable from humans.",
+      "bbox": [
+        102.3,
+        1733.0,
+        423.3,
+        1754.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "green struggle to survive among the",
+      "texte_balise": "green struggle to survive among the",
+      "bbox": [
+        855.8,
+        1737.8,
+        1181.4,
+        1759.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "development. How should the next",
+      "texte_balise": "development. How should the next",
+      "bbox": [
+        490.7,
+        1758.7,
+        793.0,
+        1780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "other rapacious 'stalkers', A mix of the",
+      "texte_balise": "other rapacious 'stalkers', A mix of the",
+      "bbox": [
+        1214.0,
+        1758.7,
+        1555.8,
+        1780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PKD looks at what is the essential",
+      "texte_balise": "PKD looks at what is the essential",
+      "bbox": [
+        102.3,
+        1763.0,
+        395.3,
+        1780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "branches of large trees in primordial",
+      "texte_balise": "branches of large trees in primordial",
+      "bbox": [
+        855.8,
+        1765.7,
+        1183.7,
+        1787.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "level of humans behave? Sturgeon",
+      "texte_balise": "level of humans behave? Sturgeon",
+      "bbox": [
+        488.4,
+        1788.9,
+        788.4,
+        1807.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "subtle, oblique, hard-boiled grit and",
+      "texte_balise": "subtle, oblique, hard-boiled grit and",
+      "bbox": [
+        1214.0,
+        1788.9,
+        1537.2,
+        1810.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "human quality (empathy.)",
+      "texte_balise": "human quality (empathy.)",
+      "bbox": [
+        100.0,
+        1791.0,
+        330.2,
+        1812.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "societies. An outcast male explores",
+      "texte_balise": "societies. An outcast male explores",
+      "bbox": [
+        855.8,
+        1795.9,
+        1160.5,
+        1814.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "writes poetically if melodramatically.",
+      "texte_balise": "writes poetically if melodramatically.",
+      "bbox": [
+        490.7,
+        1816.8,
+        820.9,
+        1838.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "atmospheric.",
+      "texte_balise": "atmospheric.",
+      "bbox": [
+        1214.0,
+        1819.1,
+        1330.2,
+        1837.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the world with a mind-controlling",
+      "texte_balise": "the world with a mind-controlling",
+      "bbox": [
+        855.6,
+        1820.7,
+        1160.7,
+        1844.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fungus.",
+      "texte_balise": "fungus.",
+      "bbox": [
+        855.8,
+        1854.0,
+        923.3,
+        1872.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SE MASTERWORRS",
+      "texte_balise": "SE MASTERWORRS",
+      "bbox": [
+        1230.2,
+        1870.0,
+        1372.1,
+        1884.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "JACK FINNEY",
+      "texte_balise": "JACK FINNEY",
+      "bbox": [
+        232.6,
+        1900.0,
+        420.9,
+        1931.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A retarded floor sweeper is",
+      "texte_balise": "A retarded floor sweeper is",
+      "bbox": [
+        960.5,
+        1907.0,
+        1200.0,
+        1928.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MASTERWORKS",
+      "texte_balise": "MASTERWORKS",
+      "bbox": [
+        116.3,
+        1909.7,
+        144.2,
+        2137.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In an idealised 1950s suburbia",
+      "texte_balise": "In an idealised 1950s suburbia",
+      "bbox": [
+        472.1,
+        1919.0,
+        744.2,
+        1935.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLOWERS FOR ALGERNON",
+      "texte_balise": "FLOWERS FOR ALGERNON",
+      "bbox": [
+        1302.3,
+        1919.0,
+        1530.2,
+        1938.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Body Snatchers",
+      "texte_balise": "The Body Snatchers",
+      "bbox": [
+        181.4,
+        1935.0,
+        420.9,
+        1961.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "gradually transformed into",
+      "texte_balise": "gradually transformed into",
+      "bbox": [
+        960.5,
+        1937.6,
+        1200.0,
+        1959.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DANIEL KEYES",
+      "texte_balise": "DANIEL KEYES",
+      "bbox": [
+        1244.2,
+        1942.0,
+        1530.2,
+        1968.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a doctor and his ex-lover",
+      "texte_balise": "a doctor and his ex-lover",
+      "bbox": [
+        474.4,
+        1946.9,
+        697.7,
+        1963.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "a genius after an",
+      "texte_balise": "a genius after an",
+      "bbox": [
+        960.5,
+        1967.8,
+        1111.6,
+        1986.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "struggle against a",
+      "texte_balise": "struggle against a",
+      "bbox": [
+        472.1,
+        1977.0,
+        634.9,
+        1996.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WIThER Of THE HUOD AND ANIME NELLA SVIMDI",
+      "texte_balise": "WIThER Of THE HUOD AND ANIME NELLA SVIMDI",
+      "bbox": [
+        1239.5,
+        1977.0,
+        1488.4,
+        1991.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "experiment. The story's",
+      "texte_balise": "experiment. The story's",
+      "bbox": [
+        960.5,
+        1995.7,
+        1167.4,
+        2017.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "conspiracy of body-snatching",
+      "texte_balise": "conspiracy of body-snatching",
+      "bbox": [
+        474.4,
+        2005.0,
+        737.2,
+        2026.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "first-person narration",
+      "texte_balise": "first-person narration",
+      "bbox": [
+        960.5,
+        2025.9,
+        1158.1,
+        2044.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "extraterrestrial spores. An",
+      "texte_balise": "extraterrestrial spores. An",
+      "bbox": [
+        474.4,
+        2035.0,
+        707.0,
+        2054.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "shows his gradually",
+      "texte_balise": "shows his gradually",
+      "bbox": [
+        960.5,
+        2053.8,
+        1137.2,
+        2075.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "entertaining tale with popular",
+      "texte_balise": "entertaining tale with popular",
+      "bbox": [
+        474.4,
+        2063.0,
+        739.5,
+        2082.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "increasing intelligence",
+      "texte_balise": "increasing intelligence",
+      "bbox": [
+        960.5,
+        2081.7,
+        1160.5,
+        2103.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "appeal as well as insights about",
+      "texte_balise": "appeal as well as insights about",
+      "bbox": [
+        474.4,
+        2093.0,
+        753.5,
+        2112.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(beginning with gibberish",
+      "texte_balise": "(beginning with gibberish",
+      "bbox": [
+        958.1,
+        2111.9,
+        1190.7,
+        2135.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the nature of fear, perception,",
+      "texte_balise": "the nature of fear, perception,",
+      "bbox": [
+        472.1,
+        2121.0,
+        739.5,
+        2142.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and becoming more",
+      "texte_balise": "and becoming more",
+      "bbox": [
+        960.1,
+        2135.5,
+        1137.7,
+        2163.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the paranormal and",
+      "texte_balise": "the paranormal and",
+      "bbox": [
+        471.8,
+        2145.3,
+        649.3,
+        2171.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "eloquent) and the",
+      "texte_balise": "eloquent) and the",
+      "bbox": [
+        960.5,
+        2170.0,
+        1116.3,
+        2191.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "psychology.",
+      "texte_balise": "psychology.",
+      "bbox": [
+        472.1,
+        2179.3,
+        579.1,
+        2200.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "realisation he will die.",
+      "texte_balise": "realisation he will die.",
+      "bbox": [
+        960.5,
+        2200.0,
+        1158.1,
+        2216.4
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

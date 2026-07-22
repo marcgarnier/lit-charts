@@ -1,0 +1,268 @@
+{
+  "fichier": "03_Qurans.jpeg",
+  "date": "2026-07-21T19:28:36.332874+00:00",
+  "taille_origine": [
+    1500,
+    1000
+  ],
+  "hauteur_ligne_mediane": 33.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 12,
+  "nb_noeuds": 20,
+  "tiers": [
+    "Avoid:"
+  ],
+  "intitules_isoles": [
+    "Sahih International",
+    "Badly outdated.",
+    "Arberry",
+    "* Almost all Quran translations follow a mainstream Sunni interpretation, these are notable exceptions"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        148.3,
+        30.5,
+        1410.6,
+        148.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Which Quran should I get?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        82.7,
+        225.6,
+        407.9,
+        290.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Easy to read",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Avoid:",
+      "bbox": [
+        1057.4,
+        243.3,
+        1377.9,
+        427.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Sahih International",
+          "auteur": null,
+          "tier": "Avoid:"
+        },
+        {
+          "titre": "Translated by a Saudi school teacher.",
+          "auteur": null,
+          "tier": "Avoid:"
+        },
+        {
+          "titre": "Amateurish.",
+          "auteur": null,
+          "tier": "Avoid:"
+        },
+        {
+          "titre": "Abdullah Yusuf All",
+          "auteur": null,
+          "tier": "Avoid:"
+        },
+        {
+          "titre": "Badly outdated.",
+          "auteur": null,
+          "tier": "Avoid:"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        87.2,
+        333.0,
+        405.5,
+        366.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "M.A.S. Abdul Haleem",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        610.5,
+        333.0,
+        865.6,
+        397.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "For study",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        610.5,
+        552.3,
+        865.6,
+        634.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Many notes",
+          "auteur": "The Study Quran",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        256.3,
+        556.0,
+        581.3,
+        627.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Intermediate notes",
+          "auteur": "Muhammad Asad",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        43.4,
+        556.5,
+        211.7,
+        664.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Few notes",
+          "auteur": "Arthur J.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        970.2,
+        581.7,
+        1434.6,
+        642.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Denominational*",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        579.9,
+        810.1,
+        1486.9,
+        996.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Salafi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Muhammad Taqi-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ud-Din al-Hilali",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "& Muhsin Khan",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "* Almost all Quran translations follow a mainstream Sunni interpretation, these are notable exceptions",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        673.7,
+        812.6,
+        961.5,
+        922.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Sufi",
+          "auteur": "Abdalhaqq Bewley",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        356.1,
+        818.3,
+        537.7,
+        925.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Shiite",
+          "auteur": "Syed V. Mir",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

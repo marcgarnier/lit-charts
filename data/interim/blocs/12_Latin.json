@@ -1,0 +1,1477 @@
+{
+  "fichier": "12_Latin.jpeg",
+  "date": "2026-07-21T19:28:36.553831+00:00",
+  "taille_origine": [
+    6535,
+    6535
+  ],
+  "hauteur_ligne_mediane": 34.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 69,
+  "nb_noeuds": 122,
+  "tiers": [
+    "Meta",
+    "Textbook",
+    "LINGVA",
+    "LATIN",
+    "Advanced Grammar",
+    "VOX LATINA",
+    "FLORUS",
+    "Note: Tacitus and Virgil are the",
+    "P. VERGILI"
+  ],
+  "intitules_isoles": [
+    "Learn about the language that",
+    "the Lingua Latina readers,",
+    "notes and exercises, entirely in",
+    "Latin. There are about a dozen",
+    "Story of a World Language",
+    "Read the English first. Then read",
+    "the Latin, referring to the facing",
+    "page to check meanings or",
+    "words. Repeat until you can read",
+    "the Latin unaided.",
+    "advanced fluency in the"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        122.5,
+        163.3,
+        1240.6,
+        296.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LATIN CHART",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1061.7,
+        432.3,
+        1526.8,
+        517.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Start here",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3905.7,
+        525.7,
+        3951.6,
+        561.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Г",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4063.6,
+        585.1,
+        4421.7,
+        665.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dictionary",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Meta",
+      "bbox": [
+        5289.3,
+        587.0,
+        5804.9,
+        760.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Learn about the language that",
+          "auteur": null,
+          "tier": "Meta"
+        },
+        {
+          "titre": "vou are learnina.",
+          "auteur": null,
+          "tier": "Meta"
+        }
+      ]
+    },
+    {
+      "tier": "Textbook",
+      "bbox": [
+        2409.8,
+        627.8,
+        2986.7,
+        918.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Most people will benefit from",
+          "auteur": null,
+          "tier": "Textbook"
+        },
+        {
+          "titre": "following a school book alongside",
+          "auteur": null,
+          "tier": "Textbook"
+        },
+        {
+          "titre": "the Lingua Latina readers,",
+          "auteur": null,
+          "tier": "Textbook"
+        },
+        {
+          "titre": "especially if you are unfamiliar",
+          "auteur": null,
+          "tier": "Textbook"
+        },
+        {
+          "titre": "with inflected languages. Pick one.",
+          "auteur": null,
+          "tier": "Textbook"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4023.1,
+        719.4,
+        4513.2,
+        832.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The textbooks include",
+          "auteur": "vocabularies, but thereafter a",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        255.3,
+        770.7,
+        944.5,
+        842.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Lingua Latina series",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5040.3,
+        808.1,
+        5309.9,
+        975.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "History",
+          "auteur": "of Latin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5565.0,
+        852.3,
+        6106.1,
+        934.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Latin linguistics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LINGVA",
+      "bbox": [
+        1067.0,
+        867.5,
+        1230.5,
+        964.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LATINA",
+          "auteur": null,
+          "tier": "LINGVA"
+        },
+        {
+          "titre": "PER SE ILLVSTRATA",
+          "auteur": null,
+          "tier": "LINGVA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        289.3,
+        933.3,
+        828.2,
+        1153.7
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Series of illustrated readers with",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ruoulcu icuuclo vill",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "notes and exercises, entirely in",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Latin. There are about a dozen",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "maller volumes with difficulty ir",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "smaller volumes with diftıculty ın",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "between Familia Romana and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Roma Aeterna.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1974.1,
+        1030.6,
+        2333.2,
+        1089.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WHEELOCK'S LATIN",
+          "auteur": "WHEELOCK'S LATI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4107.1,
+        1035.6,
+        4386.1,
+        1315.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Pocket",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Oxford",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Oxtord",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Latin",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dictionary",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3078.6,
+        1061.7,
+        3308.3,
+        1174.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "CAMBRIDGE",
+          "auteur": "LATIN COURSE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5702.8,
+        1094.8,
+        5896.8,
+        1199.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LATIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LANGUAGE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5105.5,
+        1128.0,
+        5355.6,
+        1214.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "AD",
+          "auteur": "INFINITVM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2535.7,
+        1321.6,
+        2830.7,
+        1491.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LEARN TO READ",
+          "auteur": "LATIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5729.5,
+        1332.9,
+        5865.6,
+        1355.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "L.R. PALMER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5122.5,
+        1367.0,
+        5343.7,
+        1431.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A BIOGRAPHY OF",
+          "auteur": "LATIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4118.4,
+        1491.7,
+        4351.0,
+        1520.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The workd's most trusted dictionarics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5088.5,
+        1508.7,
+        5372.1,
+        1537.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NICHOLAS OSTLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.9,
+        1554.1,
+        1219.8,
+        1679.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HANS H ORBERC",
+          "auteur": "LINGVA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        521.9,
+        1633.5,
+        669.4,
+        1661.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ROMANI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1038.1,
+        1735.6,
+        1174.3,
+        1775.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "COL OOVA",
+          "auteur": "PERSONARVM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5060.1,
+        1871.7,
+        5372.1,
+        2002.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Story of a World Language",
+          "auteur": "LATIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LATIN",
+      "bbox": [
+        5706.8,
+        2143.9,
+        5979.1,
+        2342.6
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "A LINGUISTIC",
+          "auteur": null,
+          "tier": "LATIN"
+        },
+        {
+          "titre": "INTRODUCTION",
+          "auteur": null,
+          "tier": "LATIN"
+        },
+        {
+          "titre": "Renato Oniga",
+          "auteur": null,
+          "tier": "LATIN"
+        },
+        {
+          "titre": "aw Norma Cahiland",
+          "auteur": null,
+          "tier": "LATIN"
+        }
+      ]
+    },
+    {
+      "tier": "Advanced Grammar",
+      "bbox": [
+        2365.5,
+        2177.9,
+        3069.0,
+        2404.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "For reference, and clarification",
+          "auteur": null,
+          "tier": "Advanced Grammar"
+        },
+        {
+          "titre": "of difficult constructions.",
+          "auteur": null,
+          "tier": "Advanced Grammar"
+        },
+        {
+          "titre": "(autism warning)",
+          "auteur": null,
+          "tier": "Advanced Grammar"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1071.9,
+        2291.3,
+        1202.9,
+        2382.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TATARA",
+          "auteur": "LATINA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        464.8,
+        2346.4,
+        686.4,
+        2404.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CAESAR",
+          "auteur": "DE BELLO GALLICO VI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "VOX LATINA",
+      "bbox": [
+        5649.8,
+        2647.4,
+        6053.1,
+        2864.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "THE PRONUNCIATION",
+          "auteur": null,
+          "tier": "VOX LATINA"
+        },
+        {
+          "titre": "OF CLASSICAL LATIN",
+          "auteur": null,
+          "tier": "VOX LATINA"
+        },
+        {
+          "titre": "W.SIDNEY ALLEN",
+          "auteur": null,
+          "tier": "VOX LATINA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2592.3,
+        2660.1,
+        2779.8,
+        2723.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LATIN",
+          "auteur": "GRAMMAR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4101.4,
+        2660.1,
+        4430.4,
+        2841.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Etymological Dictionary of",
+          "auteur": "Latin",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5150.5,
+        2750.3,
+        5383.8,
+        2926.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "HISTORY OF THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LATIN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LANGUAGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James Clackson and Geoffrey Homocks",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2598.1,
+        2813.2,
+        2785.3,
+        2887.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "B.L. GILDERSLEEVE",
+          "auteur": "CONZALEZ LODGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4220.5,
+        3062.8,
+        4305.6,
+        3074.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Michid e Vaur",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        487.9,
+        3386.2,
+        1151.6,
+        3465.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Easy bilingual texts",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        510.5,
+        3533.6,
+        1055.1,
+        3715.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Read the English first. Then read",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the Latin, referring to the facing",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "page to check meanings or",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "words. Repeat until you can read",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the Latin unaided.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2172.7,
+        3856.9,
+        2683.2,
+        3919.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Latin literature",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        414.1,
+        3924.9,
+        669.4,
+        3953.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CORNELIUS NEPOS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "FLORUS",
+      "bbox": [
+        936.0,
+        3924.9,
+        1106.2,
+        3993.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "EPITOME OF",
+          "auteur": null,
+          "tier": "FLORUS"
+        },
+        {
+          "titre": "ROMAN HISTORY",
+          "auteur": null,
+          "tier": "FLORUS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5116.8,
+        3947.6,
+        5355.1,
+        4032.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Poetry",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3613.5,
+        3981.6,
+        4277.2,
+        4066.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Philosophy/Politics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2178.0,
+        3987.3,
+        2717.2,
+        4283.5
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "ou can now read the Romans ir",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "heir original glorious language",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "You should eventually read the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "entire extant canon, thouah",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "beware that some authors are",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "significantly more difficult than",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "others. Here is a summary of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "highlights.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Note: Tacitus and Virgil are the",
+      "bbox": [
+        2802.3,
+        3993.0,
+        3329.9,
+        4220.9
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "pinnacles of classical prose and",
+          "auteur": null,
+          "tier": "Note: Tacitus and Virgil are the"
+        },
+        {
+          "titre": "verse respectively. If you can",
+          "auteur": null,
+          "tier": "Note: Tacitus and Virgil are the"
+        },
+        {
+          "titre": "read them, you have achievea",
+          "auteur": null,
+          "tier": "Note: Tacitus and Virgil are the"
+        },
+        {
+          "titre": "advanced fluency in the",
+          "auteur": null,
+          "tier": "Note: Tacitus and Virgil are the"
+        },
+        {
+          "titre": "language.",
+          "auteur": null,
+          "tier": "Note: Tacitus and Virgil are the"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        5309.7,
+        4219.8,
+        5610.3,
+        4276.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "P. OVIDI NASONIS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "P. OVIDI NASONIS I",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "METAMORPHOSES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IETANUKTHUDED",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3522.8,
+        4242.5,
+        3772.4,
+        4287.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "MACKON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MAKKONS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "EPISTVLAE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LISTENE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4090.0,
+        4242.5,
+        4243.2,
+        4253.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ORAONES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        499.2,
+        4253.8,
+        578.6,
+        4265.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "C. ROLFE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4923.9,
+        4299.2,
+        5077.1,
+        4310.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "KPIGRAMMAA",
+          "auteur": "EPIGRAMMAA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        919.0,
+        4531.9,
+        1117.5,
+        4543.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TOER CLACCICAL IRRARI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        402.8,
+        4571.6,
+        658.0,
+        4617.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "QUINTUS CURTIUS",
+          "auteur": "HISTORY OF ALFYANDER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2524.4,
+        4588.6,
+        2774.0,
+        4668.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "History",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4056.0,
+        4588.6,
+        4277.2,
+        4599.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OXFORD CLASSICAL TENTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4033.3,
+        4804.1,
+        4339.6,
+        4832.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EXERRAZZE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "P. VERGILI",
+      "bbox": [
+        5394.4,
+        4813.7,
+        5531.3,
+        4900.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MARONIS",
+          "auteur": null,
+          "tier": "P. VERGILI"
+        },
+        {
+          "titre": "PHRA",
+          "auteur": null,
+          "tier": "P. VERGILI"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3477.4,
+        4821.1,
+        3857.5,
+        4934.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "D2222222251",
+          "auteur": "L.ANNAEI SENECAE H",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4867.2,
+        4821.1,
+        5133.8,
+        4877.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Q. HORATI FLACCI",
+          "auteur": "OPERA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2808.0,
+        4866.5,
+        3029.2,
+        4917.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TITI LIVI",
+          "auteur": "AD VADE GUNDILA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2314.5,
+        4877.8,
+        2569.8,
+        4928.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "C. CAESARIS",
+          "auteur": "COMMENTARIORVM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2308.8,
+        5229.4,
+        2603.8,
+        5303.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "OXFORD CLASSICAL TEXTS",
+          "auteur": "=======!",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3551.1,
+        5246.4,
+        3778.0,
+        5257.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OXFORD CLASSICAL TEYTS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2280.4,
+        5467.6,
+        2649.2,
+        5541.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "0===xxx=",
+          "auteur": "C. SVETONI TRANQVILLI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3487.0,
+        5472.5,
+        3834.2,
+        5498.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "dexxxxxerl",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4714.0,
+        5513.0,
+        5258.6,
+        5575.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "There is also much great Latin",
+          "auteur": "literature from other neriods No",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        3487.0,
+        5799.4,
+        3517.7,
+        5947.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "====",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1123.2,
+        5947.5,
+        1276.4,
+        5973.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MAIN LICE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2277.0,
+        5968.0,
+        2644.6,
+        5998.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "0xxxxxzz=0",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        4089.5,
+        6228.5,
+        4273.3,
+        6238.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SEXE IVOISSYTO G80SXO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

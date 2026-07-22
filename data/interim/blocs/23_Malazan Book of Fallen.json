@@ -1,0 +1,975 @@
+{
+  "fichier": "23_Malazan Book of Fallen.jpeg",
+  "date": "2026-07-21T19:28:36.682624+00:00",
+  "taille_origine": [
+    2000,
+    1197
+  ],
+  "hauteur_ligne_mediane": 14.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 42,
+  "nb_noeuds": 86,
+  "tiers": [
+    "A•",
+    "It will make the most sense if",
+    "Some readers have reported successful.",
+    "Goats of"
+  ],
+  "intitules_isoles": [
+    "The Malazan Book of the Fallen",
+    "(Erikson)",
+    "So you want to read all the Malazan books, but aren't sure what's the best order to read them in? Well, fear not! Here is a layout of all the Malazan books which have been",
+    "So here's how this works. Start on the left, with Gardens of the Moon (or if you want to start with a novella instead of a novel, start with Night of Knives). Work your way from left",
+    "example, reading Memories of Ice before you read Gardens of the Moon wouldn't make much sense - it would be like reading The Two Towers before reading The Fellowship of the Ring.",
+    "The Adventures of Bauchelain & Korbal Broach",
+    "Dashed blue lines are minor bits of continuity. You won't spoil anything or have any continuity problems if you don't follow the dashed blue lines. They are just there to give you an",
+    "\"Vader is Luke's fatherl\" before you watch Empire Strikes Back.",
+    "You want to read the main Malazan Book of the Fallen and Novels of the Malazan Empire series, intertwined, but not the short stories?",
+    "ou want to read EVERYTHING, from start to end, in the most logical narrative order?",
+    "3ot >> BF >> DG >> tLoLE >> WoBM >> Mol >> Hoc >> T >> NoK >> tBH >> tHD >> RG >> RotCG >> TtH >> GoG >> sw >> DoD >> ost >> tcG >> BaB >> Asl >> cPT >> FoD >> FoL >> Wis",
+    "Makes sense? Now you can figure out whatever reading order is best for you and go enjoy some books!",
+    "Night of Knives is a possible starting point",
+    "t is a prequel of sorts, and takes place before all other Malazal",
+    "ook of the Fallen and Novels of the Malazan Empire book",
+    "It can be read at virtually any time, but is best read at least",
+    "Crimson Guardi",
+    "While it is not outright recommended, some"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        14.5,
+        12.7,
+        523.6,
+        87.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Reading Order Recommendations",
+          "auteur": "for all Malazan Novels",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1427.2,
+        17.1,
+        1552.4,
+        52.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Legend:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1517.3,
+        78.4,
+        1755.8,
+        172.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Malazan Book of the Fallen",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(Erikson)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Novels of the Malazan Empire",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "(Esslemont)",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        17.4,
+        109.9,
+        936.0,
+        339.9
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "So you want to read all the Malazan books, but aren't sure what's the best order to read them in? Well, fear not! Here is a layout of all the Malazan books which have been",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "published (so far). I know, I know, it's huge and intimidating. (But c'mon, if you didn't want huge and intimidating why would you want to read Malazan?!)",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "So here's how this works. Start on the left, with Gardens of the Moon (or if you want to start with a novella instead of a novel, start with Night of Knives). Work your way from left",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "to right. The blue lines show the general progression of storines from book to book so before vou read any book vou want to read the books pointing to it in solid blue. first Fo",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "example, reading Memories of Ice before you read Gardens of the Moon wouldn't make much sense - it would be like reading The Two Towers before reading The Fellowship of the Ring.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Dashed blue lines are minor bits of continuity. You won't spoil anything or have any continuity problems if you don't follow the dashed blue lines. They are just there to give you an",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "idea where some books fit in relation to each other.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The dashed red lines indicate the biggest spoilers present in the series, ones which may not easily follow the inter-continuity of the storylines. You should really, really, REALLY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "avoid reading a book before reading the book that it spoils. For example, reading Dust of Dreams before Return of the Crimson Guard is like someone in the street shouting",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Vader is Luke's fatherl\" before you watch Empire Strikes Back.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "So, putting all that together, there's a lot of ways you can work your way from left to right. Let's look at some examples!",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "You want to read the main Malazan Book of the Fallen and Novels of the Malazan Empire series, intertwined, but not the short stories?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1514.4,
+        191.8,
+        1875.0,
+        227.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Adventures of Bauchelain & Korbal Broach",
+          "auteur": "(Erikson)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1517.4,
+        246.8,
+        1691.9,
+        281.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Kharkanas Trilogy",
+          "auteur": "(Erikson)",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1520.3,
+        310.9,
+        1627.9,
+        325.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Miscellaneous",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        17.4,
+        365.7,
+        1139.5,
+        421.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ou want to read EVERYTHING, from start to end, in the most logical narrative order?",
+          "auteur": "3ot >> BF >> DG >> tLoLE >> WoBM >> Mol >> Hoc >> T >> NoK >> tBH >> tHD >> RG >> RotCG >> TtH >> GoG >> sw >> DoD >> ost >> tcG >> BaB >> Asl >> cPT >> FoD >> FoL >> Wis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "A•",
+      "bbox": [
+        1465.1,
+        395.1,
+        1593.0,
+        435.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Major narrative continuity",
+          "auteur": null,
+          "tier": "A•"
+        },
+        {
+          "titre": "you should toad is belore b",
+          "auteur": null,
+          "tier": "A•"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1799.4,
+        418.4,
+        1921.5,
+        447.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "to comans major sporels",
+          "auteur": "Tor evenis in a Tou snould",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "It will make the most sense if",
+      "bbox": [
+        1630.8,
+        432.6,
+        1761.6,
+        464.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "sted pete buts",
+          "auteur": null,
+          "tier": "It will make the most sense if"
+        },
+        {
+          "titre": "no bie dear you dont",
+          "auteur": null,
+          "tier": "It will make the most sense if"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        14.5,
+        458.6,
+        534.9,
+        473.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Makes sense? Now you can figure out whatever reading order is best for you and go enjoy some books!",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        223.8,
+        514.2,
+        488.4,
+        615.9
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "Night of Knives is a possible starting point",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "t is a prequel of sorts, and takes place before all other Malazal",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ook of the Fallen and Novels of the Malazan Empire book",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "It can be read at virtually any time, but is best read at least",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "burre the boreramero do aimeduceo dotte charactere",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "who appear in The Bonehunters.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Night of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Knives",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1014.5,
+        589.5,
+        1104.7,
+        618.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Return of the",
+          "auteur": "Crimson Guardi",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1747.1,
+        589.8,
+        1784.9,
+        601.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Blood",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1235.5,
+        595.5,
+        1351.7,
+        618.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "→ stonewielder",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1863.4,
+        601.4,
+        1901.2,
+        607.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ASSall",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        613.4,
+        650.5,
+        805.2,
+        685.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "While it is not outright recommended, some",
+          "auteur": "then read Gardens of the Moon inroven to",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1257.8,
+        663.3,
+        1348.8,
+        710.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "+---",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        296.5,
+        679.4,
+        412.8,
+        755.4
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "here is one major",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "revelation maris revealed",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "I Do Mentor Knives are",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Deachouse Gates so",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "wichever book Is read",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "second l notes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "as surprising",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        680.2,
+        706.0,
+        738.4,
+        735.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Midnight",
+          "auteur": "Tides",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1613.4,
+        706.0,
+        1689.0,
+        723.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Crippled",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1389.5,
+        708.4,
+        1436.0,
+        735.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dust of",
+          "auteur": "Dreams",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        915.7,
+        708.9,
+        970.9,
+        735.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Reaper's",
+          "auteur": "Gale",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Some readers have reported successful.",
+      "bbox": [
+        130.8,
+        819.3,
+        305.2,
+        854.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "starine wan weacnouse Gates and",
+          "auteur": null,
+          "tier": "Some readers have reported successful."
+        },
+        {
+          "titre": "readine Gardens ovine moon arer.",
+          "auteur": null,
+          "tier": "Some readers have reported successful."
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        319.8,
+        825.1,
+        389.5,
+        848.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Deadhouse",
+          "auteur": "Gates",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        561.0,
+        825.1,
+        619.2,
+        848.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "House of",
+          "auteur": "Chains",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        770.0,
+        825.1,
+        863.7,
+        851.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "Bonehunters",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.9,
+        941.2,
+        191.9,
+        976.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Gardens orne Moon is te",
+          "auteur": "most common and most",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        203.5,
+        947.1,
+        270.3,
+        967.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Gardens or",
+          "auteur": "the Moon",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        439.0,
+        947.1,
+        502.9,
+        967.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "viemones",
+          "auteur": "of Ice",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1154.1,
+        947.1,
+        1203.5,
+        967.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "roll the",
+          "auteur": "Hounds",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1497.1,
+        947.1,
+        1564.0,
+        970.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "oro sceptre",
+          "auteur": "Throne",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Goats of",
+      "bbox": [
+        1171.5,
+        1060.1,
+        1418.6,
+        1142.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Glory",
+          "auteur": null,
+          "tier": "Goats of"
+        },
+        {
+          "titre": "This is a short story which was published in the anthology",
+          "auteur": null,
+          "tier": "Goats of"
+        },
+        {
+          "titre": "Swords and bark acid. The new sword and Sorcert",
+          "auteur": null,
+          "tier": "Goats of"
+        },
+        {
+          "titre": "has no sooners or shared characters wi ant othe",
+          "auteur": null,
+          "tier": "Goats of"
+        },
+        {
+          "titre": "novels, but noticeably takes place after Toll the Hounds.",
+          "auteur": null,
+          "tier": "Goats of"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        555.2,
+        1060.2,
+        625.1,
+        1086.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Healthy",
+          "auteur": "Dead",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        69.8,
+        1063.1,
+        407.0,
+        1145.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "the lees of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Laughter's End",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Bauche ain & koral Broach novelles arelun mie stones that conzheve",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "any me impact or soolers torine main senes somer can be read arantimi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hese characters a so leature in Memories once burnou co nor needio havi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "read any of the novellas before reading Memories of Ice.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        311.0,
+        1063.1,
+        392.4,
+        1086.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The wurms of",
+          "auteur": "Blearmouth",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1619.2,
+        1063.1,
+        1677.3,
+        1086.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Forge of",
+          "auteur": "Darkness",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1851.7,
+        1063.1,
+        1907.0,
+        1086.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A Walk In",
+          "auteur": "Shadow",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.9,
+        1063.4,
+        142.4,
+        1086.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Blood",
+          "auteur": "Follows",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        869.2,
+        1063.4,
+        1110.5,
+        1145.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Crack'd",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Pot Trail",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Crack'a Portrails an extremely non-treationai",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "novelle and is almos more or an ateur commemar",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "then an actual narratve corsinhas no sporlers or stort",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "bearing on any other books, so can be read any time.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1747.1,
+        1072.1,
+        1782.0,
+        1086.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Light",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

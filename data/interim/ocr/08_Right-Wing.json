@@ -1,0 +1,2566 @@
+{
+  "fichier": "08_Right-Wing.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:53:02.182985+00:00",
+  "duree_s": 3.0,
+  "taille_origine": [
+    4000,
+    3549
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 232,
+  "lignes": [
+    {
+      "texte": "Traditionalism",
+      "texte_balise": "Traditionalism",
+      "bbox": [
+        1634.3,
+        5.5,
+        1839.3,
+        38.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The /lit/ guide to Right-wing Jiterature",
+      "texte_balise": "The /lit/ guide to Right-wing Jiterature",
+      "bbox": [
+        38.8,
+        33.0,
+        1606.6,
+        144.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Conservatism",
+      "texte_balise": "Conservatism",
+      "bbox": [
+        1634.3,
+        38.8,
+        1828.3,
+        72.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reactionary",
+      "texte_balise": "Reactionary",
+      "bbox": [
+        1628.8,
+        77.6,
+        1806.1,
+        105.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEY:",
+      "texte_balise": "KEY:",
+      "bbox": [
+        2055.4,
+        166.3,
+        2121.9,
+        194.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Literature that, by virtue of subject matter, setting or authorial background preach reaction against",
+      "texte_balise": "Literature that, by virtue of subject matter, setting or authorial background preach reaction against",
+      "bbox": [
+        94.2,
+        171.8,
+        1856.0,
+        211.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "modern-day society or explore what are commonly held to be \"right-wing\" ideals of tradition and",
+      "texte_balise": "modern-day society or explore what are commonly held to be \"right-wing\" ideals of tradition and",
+      "bbox": [
+        94.2,
+        210.6,
+        1811.6,
+        255.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Reactionary,",
+      "texte_balise": "= Reactionary,",
+      "bbox": [
+        2796.9,
+        214.0,
+        2981.8,
+        250.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Fascist,",
+      "texte_balise": "= Fascist,",
+      "bbox": [
+        2110.8,
+        216.0,
+        2232.7,
+        244.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ") = Anti-semitic / racist, (",
+      "texte_balise": ") = Anti-semitic / racist, (",
+      "bbox": [
+        2282.5,
+        216.0,
+        2576.2,
+        244.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Religious,• = Traditionalism,",
+      "texte_balise": "= Religious,• = Traditionalism,",
+      "bbox": [
+        3019.4,
+        216.0,
+        3407.2,
+        249.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Batshit Crazy",
+      "texte_balise": "= Batshit Crazy",
+      "bbox": [
+        3651.0,
+        216.0,
+        3839.3,
+        249.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Imperialism,",
+      "texte_balise": "= Imperialism,",
+      "bbox": [
+        3446.0,
+        221.7,
+        3617.7,
+        249.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "conservatism. Yes, we know \"right-wing\" is a vague and contradictorily - applied term, that's why we have a key.",
+      "texte_balise": "conservatism. Yes, we know \"right-wing\" is a vague and contradictorily - applied term, that's why we have a key.",
+      "bbox": [
+        94.2,
+        260.0,
+        1972.3,
+        299.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Neoconservative",
+      "texte_balise": "= Neoconservative",
+      "bbox": [
+        2376.7,
+        266.0,
+        2603.9,
+        288.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "= Aristocratic / elitist",
+      "texte_balise": "= Aristocratic / elitist",
+      "bbox": [
+        2681.4,
+        266.0,
+        2925.2,
+        294.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": ") = (apolitically) Nietzschean",
+      "texte_balise": ") = (apolitically) Nietzschean",
+      "bbox": [
+        3019.4,
+        266.0,
+        3351.8,
+        294.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Poetry",
+      "texte_balise": "Poetry",
+      "bbox": [
+        76.1,
+        383.9,
+        206.5,
+        424.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Morall essays",
+      "texte_balise": "Morall essays",
+      "bbox": [
+        2747.9,
+        487.7,
+        2897.5,
+        504.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HE CANTOS",
+      "texte_balise": "HE CANTOS",
+      "bbox": [
+        127.4,
+        504.0,
+        265.9,
+        549.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COLLECTED",
+      "texte_balise": "COLLECTED",
+      "bbox": [
+        1091.4,
+        532.0,
+        1196.7,
+        559.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William",
+      "texte_balise": "William",
+      "bbox": [
+        1601.1,
+        570.8,
+        1717.5,
+        604.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Blake",
+      "texte_balise": "Blake",
+      "bbox": [
+        1612.2,
+        593.0,
+        1689.8,
+        626.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "T.S. ELIOT",
+      "texte_balise": "T.S. ELIOT",
+      "bbox": [
+        1102.5,
+        626.0,
+        1185.6,
+        659.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudyard",
+      "texte_balise": "Rudyard",
+      "bbox": [
+        570.6,
+        626.2,
+        675.9,
+        653.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected Poems",
+      "texte_balise": "Collected Poems",
+      "bbox": [
+        1030.5,
+        720.0,
+        1241.0,
+        748.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Unfortunates",
+      "texte_balise": "The Unfortunates",
+      "bbox": [
+        1977.8,
+        720.0,
+        2193.9,
+        754.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "An Essay On Man",
+      "texte_balise": "An Essay On Man",
+      "bbox": [
+        2354.6,
+        720.0,
+        2576.2,
+        754.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Moral Essays",
+      "texte_balise": "Moral Essays",
+      "bbox": [
+        2731.3,
+        720.0,
+        2903.0,
+        748.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Complete Poetry & Prose of William Blake",
+      "texte_balise": "Complete Poetry & Prose of William Blake",
+      "bbox": [
+        1434.9,
+        726.0,
+        1944.6,
+        759.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected Poems of Rudyard Kipling",
+      "texte_balise": "Collected Poems of Rudyard Kipling",
+      "bbox": [
+        432.1,
+        737.0,
+        864.3,
+        765.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cantos",
+      "texte_balise": "The Cantos",
+      "bbox": [
+        121.9,
+        742.6,
+        271.5,
+        770.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Alexander Pope",
+      "texte_balise": "by Alexander Pope",
+      "bbox": [
+        2349.0,
+        764.7,
+        2581.7,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Alexander Pope",
+      "texte_balise": "by Alexander Pope",
+      "bbox": [
+        2703.6,
+        764.8,
+        2936.3,
+        792.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by T.S Eliot",
+      "texte_balise": "by T.S Eliot",
+      "bbox": [
+        1063.7,
+        770.0,
+        1207.8,
+        804.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by William Baer",
+      "texte_balise": "by William Baer",
+      "bbox": [
+        1994.5,
+        770.0,
+        2182.8,
+        798.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ezra Pound",
+      "texte_balise": "by Ezra Pound",
+      "bbox": [
+        105.3,
+        781.0,
+        288.1,
+        815.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by William Blake",
+      "texte_balise": "by William Blake",
+      "bbox": [
+        1551.2,
+        781.0,
+        1756.2,
+        809.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Rudyard Kipling",
+      "texte_balise": "by Rudyard Kipling",
+      "bbox": [
+        526.3,
+        786.9,
+        759.0,
+        820.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fiction",
+      "texte_balise": "Fiction",
+      "bbox": [
+        77.6,
+        881.1,
+        205.0,
+        914.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "women in",
+      "texte_balise": "women in",
+      "bbox": [
+        3662.0,
+        1019.7,
+        3778.4,
+        1031.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "HESSE",
+      "texte_balise": "HESSE",
+      "bbox": [
+        3008.3,
+        1141.6,
+        3180.1,
+        1208.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bostonians",
+      "texte_balise": "The Bostonians",
+      "bbox": [
+        1091.4,
+        1235.8,
+        1285.3,
+        1263.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tarr",
+      "texte_balise": "Tarr",
+      "bbox": [
+        1479.2,
+        1235.8,
+        1534.6,
+        1263.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Glass Bees",
+      "texte_balise": "The Glass Bees",
+      "bbox": [
+        1717.5,
+        1235.8,
+        1916.9,
+        1263.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Glass Bead Game",
+      "texte_balise": "The Glass Bead Game",
+      "bbox": [
+        2958.4,
+        1235.8,
+        3235.5,
+        1263.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Confessions of a Mask",
+      "texte_balise": "Confessions of a Mask",
+      "bbox": [
+        3274.2,
+        1235.8,
+        3551.2,
+        1269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Women in Love",
+      "texte_balise": "Women in Love",
+      "bbox": [
+        3623.3,
+        1235.8,
+        3817.2,
+        1263.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Collected Short Stories",
+      "texte_balise": "Collected Short Stories",
+      "bbox": [
+        1972.3,
+        1241.0,
+        2254.8,
+        1269.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Storm of Steel",
+      "texte_balise": "Storm of Steel",
+      "bbox": [
+        99.7,
+        1246.9,
+        271.5,
+        1275.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Secret Agent",
+      "texte_balise": "The Secret Agent",
+      "bbox": [
+        759.0,
+        1246.9,
+        980.6,
+        1280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Master and Margarita",
+      "texte_balise": "The Master and Margarita",
+      "bbox": [
+        2615.0,
+        1246.9,
+        2925.2,
+        1280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Growth of the Soil",
+      "texte_balise": "Growth of the Soil",
+      "bbox": [
+        2321.3,
+        1252.0,
+        2542.9,
+        1280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Demons",
+      "texte_balise": "Demons",
+      "bbox": [
+        482.0,
+        1252.4,
+        592.8,
+        1280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Wyndham Lewis",
+      "texte_balise": "by Wyndham Lewis",
+      "bbox": [
+        1401.7,
+        1280.0,
+        1639.9,
+        1313.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernst Jünger",
+      "texte_balise": "by Ernst Jünger",
+      "bbox": [
+        1717.5,
+        1280.0,
+        1916.9,
+        1308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Herman Hesse",
+      "texte_balise": "by Herman Hesse",
+      "bbox": [
+        2980.6,
+        1280.0,
+        3207.8,
+        1308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by D.H Lawrence",
+      "texte_balise": "by D.H Lawrence",
+      "bbox": [
+        3623.3,
+        1280.0,
+        3833.8,
+        1313.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernst Jünger",
+      "texte_balise": "by Ernst Jünger",
+      "bbox": [
+        88.6,
+        1285.7,
+        288.1,
+        1319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Henry James",
+      "texte_balise": "by Henry James",
+      "bbox": [
+        1085.9,
+        1285.7,
+        1290.9,
+        1319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Saki",
+      "texte_balise": "by Saki",
+      "bbox": [
+        2060.9,
+        1285.7,
+        2155.1,
+        1319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Yukio Mishima",
+      "texte_balise": "by Yukio Mishima",
+      "bbox": [
+        3302.3,
+        1285.8,
+        3523.3,
+        1315.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Fyodor Dostoyevsky",
+      "texte_balise": "by Fyodor Dostoyevsky",
+      "bbox": [
+        393.4,
+        1291.0,
+        681.4,
+        1324.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Joseph Conrad",
+      "texte_balise": "by Joseph Conrad",
+      "bbox": [
+        759.0,
+        1291.0,
+        986.1,
+        1324.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Knut Hamsun",
+      "texte_balise": "by Knut Hamsun",
+      "bbox": [
+        2332.4,
+        1291.0,
+        2537.4,
+        1319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Mikhail Bulgakov",
+      "texte_balise": "by Mikhail Bulgakov",
+      "bbox": [
+        2642.7,
+        1291.0,
+        2892.0,
+        1324.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ov yuko wishima",
+      "texte_balise": "ov yuko wishima",
+      "bbox": [
+        3301.9,
+        1291.0,
+        3512.5,
+        1308.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Outlawe",
+      "texte_balise": "Outlawe",
+      "bbox": [
+        2046.1,
+        1377.9,
+        2192.2,
+        1426.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IT CANNO",
+      "texte_balise": "IT CANNO",
+      "bbox": [
+        1750.0,
+        1384.8,
+        1848.8,
+        1396.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Camp",
+      "texte_balise": "Camp",
+      "bbox": [
+        2703.5,
+        1390.7,
+        2819.8,
+        1443.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BE STORMED",
+      "texte_balise": "BE STORMED",
+      "bbox": [
+        1750.0,
+        1402.3,
+        1866.3,
+        1419.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VONNE CEN",
+      "texte_balise": "VONNE CEN",
+      "bbox": [
+        2360.5,
+        1407.7,
+        2500.0,
+        1419.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        819.8,
+        1437.2,
+        872.1,
+        1460.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Saints",
+      "texte_balise": "Saints",
+      "bbox": [
+        2703.5,
+        1437.2,
+        2825.6,
+        1483.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chosen",
+      "texte_balise": "Chosen",
+      "bbox": [
+        779.1,
+        1448.9,
+        907.0,
+        1495.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Chaim Potok",
+      "texte_balise": "Chaim Potok",
+      "bbox": [
+        773.3,
+        1541.7,
+        912.8,
+        1571.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Welcome to the Monkey House* The Camp of the Saints",
+      "texte_balise": "Welcome to the Monkey House* The Camp of the Saints",
+      "bbox": [
+        2238.4,
+        1599.6,
+        2924.4,
+        1640.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Outlaws",
+      "texte_balise": "The Outlaws",
+      "bbox": [
+        2028.9,
+        1605.1,
+        2192.0,
+        1641.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Starship Troopers",
+      "texte_balise": "Starship Troopers",
+      "bbox": [
+        407.0,
+        1605.6,
+        633.7,
+        1634.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Chosen",
+      "texte_balise": "The Chosen",
+      "bbox": [
+        767.4,
+        1605.6,
+        924.4,
+        1634.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Magic Mountain",
+      "texte_balise": "The Magic Mountain",
+      "bbox": [
+        1366.3,
+        1605.6,
+        1622.1,
+        1640.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "It Cannot Be Stormed",
+      "texte_balise": "It Cannot Be Stormed",
+      "bbox": [
+        1662.8,
+        1605.6,
+        1930.2,
+        1640.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nostromo",
+      "texte_balise": "Nostromo",
+      "bbox": [
+        133.7,
+        1605.9,
+        261.6,
+        1634.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Buddenbrooks",
+      "texte_balise": "Buddenbrooks",
+      "bbox": [
+        1075.6,
+        1605.9,
+        1261.6,
+        1634.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Joseph Conrad",
+      "texte_balise": "by Joseph Conrad",
+      "bbox": [
+        93.0,
+        1646.6,
+        314.0,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Robert A. Heinlein",
+      "texte_balise": "by Robert A. Heinlein",
+      "bbox": [
+        383.7,
+        1646.6,
+        651.2,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Chaim Potok",
+      "texte_balise": "by Chaim Potok",
+      "bbox": [
+        750.0,
+        1646.6,
+        947.7,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Mann",
+      "texte_balise": "by Thomas Mann",
+      "bbox": [
+        1064.0,
+        1646.6,
+        1284.9,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Mann",
+      "texte_balise": "by Thomas Mann",
+      "bbox": [
+        1383.7,
+        1646.6,
+        1604.7,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernst von Salomon",
+      "texte_balise": "by Ernst von Salomon",
+      "bbox": [
+        1662.8,
+        1646.6,
+        1930.2,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ernst von Salomon",
+      "texte_balise": "by Ernst von Salomon",
+      "bbox": [
+        1988.4,
+        1646.6,
+        2255.8,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Kurt Vonnegut",
+      "texte_balise": "by Kurt Vonnegut",
+      "bbox": [
+        2302.3,
+        1646.6,
+        2523.3,
+        1675.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Jean Raspail",
+      "texte_balise": "by Jean Raspail",
+      "bbox": [
+        2662.8,
+        1646.6,
+        2866.3,
+        1681.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* specifically \"Harrison Bergeron\"",
+      "texte_balise": "* specifically \"Harrison Bergeron\"",
+      "bbox": [
+        2197.7,
+        1716.4,
+        2604.7,
+        1745.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nonfiction",
+      "texte_balise": "Nonfiction",
+      "bbox": [
+        93.0,
+        1762.9,
+        284.9,
+        1803.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CARIKLE",
+      "texte_balise": "CARIKLE",
+      "bbox": [
+        1447.7,
+        1873.4,
+        1587.2,
+        1925.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THIC",
+      "texte_balise": "THIC",
+      "bbox": [
+        2110.5,
+        1885.0,
+        2157.0,
+        1896.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Sin Quniy",
+      "texte_balise": "The Sin Quniy",
+      "bbox": [
+        2366.3,
+        1896.4,
+        2500.0,
+        1937.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "ALTERNATIVE",
+      "texte_balise": "ALTERNATIVE",
+      "bbox": [
+        2064.0,
+        1902.4,
+        2209.3,
+        1925.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "REVOLT",
+      "texte_balise": "REVOLT",
+      "bbox": [
+        2703.5,
+        1902.4,
+        2808.1,
+        1978.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "HERETICS",
+      "texte_balise": "HERETICS",
+      "bbox": [
+        3354.7,
+        1902.4,
+        3505.8,
+        1931.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PASSES",
+      "texte_balise": "PASSES",
+      "bbox": [
+        2697.7,
+        1966.4,
+        2831.4,
+        2047.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHESTEKTON",
+      "texte_balise": "CHESTEKTON",
+      "bbox": [
+        3354.7,
+        2053.6,
+        3505.8,
+        2106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OSWALD MOSLEY",
+      "texte_balise": "OSWALD MOSLEY",
+      "bbox": [
+        2064.0,
+        2059.3,
+        2209.3,
+        2082.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Republic",
+      "texte_balise": "The Republic",
+      "bbox": [
+        127.9,
+        2111.3,
+        296.5,
+        2146.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "On Heroes, Hero-Worship,",
+      "texte_balise": "On Heroes, Hero-Worship,",
+      "bbox": [
+        1377.9,
+        2123.3,
+        1697.7,
+        2158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lev duan",
+      "texte_balise": "Lev duan",
+      "bbox": [
+        453.5,
+        2129.2,
+        575.6,
+        2141.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Civilization of the",
+      "texte_balise": "The Civilization of the",
+      "bbox": [
+        732.6,
+        2129.2,
+        994.2,
+        2158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Alternative",
+      "texte_balise": "The Alternative",
+      "bbox": [
+        2034.9,
+        2129.2,
+        2220.9,
+        2158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Revolt of the Masses",
+      "texte_balise": "The Revolt of the Masses",
+      "bbox": [
+        2593.0,
+        2129.2,
+        2907.0,
+        2158.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Reign of Quantity",
+      "texte_balise": "The Reign of Quantity",
+      "bbox": [
+        2290.7,
+        2135.0,
+        2558.1,
+        2164.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Political Theology",
+      "texte_balise": "Political Theology",
+      "bbox": [
+        1093.0,
+        2140.8,
+        1314.0,
+        2170.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ride the Tiger",
+      "texte_balise": "Ride the Tiger",
+      "bbox": [
+        1738.4,
+        2140.8,
+        1912.8,
+        2170.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Popular Government",
+      "texte_balise": "Popular Government",
+      "bbox": [
+        2994.2,
+        2140.8,
+        3255.8,
+        2176.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heretics",
+      "texte_balise": "Heretics",
+      "bbox": [
+        3372.1,
+        2146.7,
+        3482.6,
+        2175.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Imperium",
+      "texte_balise": "Imperium",
+      "bbox": [
+        3680.2,
+        2152.5,
+        3802.3,
+        2175.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Hobbes",
+      "texte_balise": "by Thomas Hobbes",
+      "bbox": [
+        395.3,
+        2158.2,
+        639.5,
+        2187.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& The Heroic in History",
+      "texte_balise": "& The Heroic in History",
+      "bbox": [
+        1377.9,
+        2158.2,
+        1662.8,
+        2187.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Renaissance In Ilaly",
+      "texte_balise": "Renaissance In Ilaly",
+      "bbox": [
+        732.1,
+        2163.8,
+        977.0,
+        2188.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& the Signs of the Times",
+      "texte_balise": "& the Signs of the Times",
+      "bbox": [
+        2290.7,
+        2164.1,
+        2593.0,
+        2199.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Plato",
+      "texte_balise": "by Plato",
+      "bbox": [
+        157.0,
+        2169.9,
+        261.6,
+        2199.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by José Ortega y Gasset",
+      "texte_balise": "by José Ortega y Gasset",
+      "bbox": [
+        2598.8,
+        2175.7,
+        2912.8,
+        2210.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Oswald Mosley",
+      "texte_balise": "by Oswald Mosley",
+      "bbox": [
+        2017.4,
+        2181.2,
+        2244.2,
+        2210.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by G.K Chesterton",
+      "texte_balise": "by G.K Chesterton",
+      "bbox": [
+        3314.0,
+        2181.2,
+        3546.5,
+        2216.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Carl Schmitt",
+      "texte_balise": "by Carl Schmitt",
+      "bbox": [
+        1104.2,
+        2185.0,
+        1296.9,
+        2224.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Julius Evola",
+      "texte_balise": "by Julius Evola",
+      "bbox": [
+        1732.5,
+        2187.1,
+        1918.6,
+        2222.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Sir Henry Maine",
+      "texte_balise": "by Sir Henry Maine",
+      "bbox": [
+        3000.0,
+        2187.2,
+        3238.4,
+        2216.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ulick Varange",
+      "texte_balise": "by Ulick Varange",
+      "bbox": [
+        3639.5,
+        2193.2,
+        3848.8,
+        2228.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Carlyle",
+      "texte_balise": "by Thomas Carlyle",
+      "bbox": [
+        1407.0,
+        2199.0,
+        1633.7,
+        2234.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Jacob Burchardt",
+      "texte_balise": "by Jacob Burchardt",
+      "bbox": [
+        732.6,
+        2204.8,
+        988.4,
+        2240.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by René Guénon",
+      "texte_balise": "by René Guénon",
+      "bbox": [
+        2331.4,
+        2210.2,
+        2540.7,
+        2240.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I MEN Y",
+      "texte_balise": "I MEN Y",
+      "bbox": [
+        2476.5,
+        2318.8,
+        2581.7,
+        2352.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MEN T7",
+      "texte_balise": "MEN T7",
+      "bbox": [
+        2494.2,
+        2321.1,
+        2581.4,
+        2350.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRL ZELA CODICAT",
+      "texte_balise": "FIRL ZELA CODICAT",
+      "bbox": [
+        149.6,
+        2324.0,
+        288.1,
+        2352.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "F. A. HAYEK",
+      "texte_balise": "F. A. HAYEK",
+      "bbox": [
+        2127.8,
+        2326.4,
+        2261.7,
+        2356.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRICK.J.",
+      "texte_balise": "PATRICK.J.",
+      "bbox": [
+        3218.8,
+        2335.4,
+        3362.9,
+        2368.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PATRICK..",
+      "texte_balise": "PATRICK..",
+      "bbox": [
+        3220.9,
+        2338.6,
+        3366.3,
+        2367.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I AMONG",
+      "texte_balise": "I AMONG",
+      "bbox": [
+        2494.2,
+        2356.0,
+        2633.7,
+        2385.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "LAMONG",
+      "texte_balise": "LAMONG",
+      "bbox": [
+        2476.3,
+        2357.0,
+        2626.2,
+        2391.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "#",
+      "texte_balise": "#",
+      "bbox": [
+        171.7,
+        2363.1,
+        243.8,
+        2418.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "##",
+      "texte_balise": "##",
+      "bbox": [
+        180.2,
+        2367.6,
+        238.4,
+        2414.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTO THE",
+      "texte_balise": "INTO THE",
+      "bbox": [
+        488.4,
+        2373.1,
+        616.3,
+        2402.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BUCHANAN",
+      "texte_balise": "BUCHANAN",
+      "bbox": [
+        3215.0,
+        2373.1,
+        3378.0,
+        2414.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ỶỶ THE",
+      "texte_balise": "ỶỶ THE",
+      "bbox": [
+        2509.7,
+        2390.8,
+        2598.3,
+        2424.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TY THEYM",
+      "texte_balise": "TY THEYM",
+      "bbox": [
+        2511.6,
+        2390.9,
+        2627.9,
+        2426.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "THE BINSTITUTIEN UH",
+      "texte_balise": "THE BINSTITUTIEN UH",
+      "bbox": [
+        2133.0,
+        2396.0,
+        2254.8,
+        2407.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DECAY",
+      "texte_balise": "DECAY",
+      "bbox": [
+        847.6,
+        2401.9,
+        936.3,
+        2429.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FOR MY",
+      "texte_balise": "FOR MY",
+      "bbox": [
+        160.7,
+        2413.0,
+        260.4,
+        2446.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ГОП MY",
+      "texte_balise": "ГОП MY",
+      "bbox": [
+        162.8,
+        2414.1,
+        261.6,
+        2449.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "The DENTI",
+      "texte_balise": "The DENTI",
+      "bbox": [
+        3226.6,
+        2419.4,
+        3366.4,
+        2455.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The DEATH",
+      "texte_balise": "The DEATH",
+      "bbox": [
+        3218.5,
+        2422.4,
+        3363.2,
+        2458.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "RUINS",
+      "texte_balise": "RUINS",
+      "bbox": [
+        2488.4,
+        2431.6,
+        2593.0,
+        2460.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ПОПАЛІГ",
+      "texte_balise": "ПОПАЛІГ",
+      "bbox": [
+        144.0,
+        2457.3,
+        288.1,
+        2485.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "of the WEST",
+      "texte_balise": "of the WEST",
+      "bbox": [
+        3215.1,
+        2460.7,
+        3372.1,
+        2496.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IBERTY",
+      "texte_balise": "IBERTY",
+      "bbox": [
+        2149.6,
+        2468.4,
+        2249.3,
+        2518.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRERT",
+      "texte_balise": "TRERT",
+      "bbox": [
+        2157.0,
+        2472.3,
+        2226.7,
+        2507.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "For My Legionaries",
+      "texte_balise": "For My Legionaries",
+      "bbox": [
+        99.7,
+        2557.0,
+        338.0,
+        2590.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Into the Darkness",
+      "texte_balise": "Into the Darkness",
+      "bbox": [
+        437.7,
+        2562.6,
+        653.7,
+        2590.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Bow of Ulysses",
+      "texte_balise": "The Bow of Ulysses",
+      "bbox": [
+        1085.9,
+        2568.0,
+        1335.2,
+        2596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Essays on Catholicism, Liberalism, and Socialism",
+      "texte_balise": "Essays on Catholicism, Liberalism, and Socialism",
+      "bbox": [
+        1396.1,
+        2568.0,
+        1988.9,
+        2596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Men Among The Ruins",
+      "texte_balise": "Men Among The Ruins",
+      "bbox": [
+        2404.4,
+        2568.0,
+        2687.0,
+        2601.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Death of the West",
+      "texte_balise": "The Death of the West",
+      "bbox": [
+        3146.8,
+        2568.0,
+        3423.8,
+        2596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Industrial Society and Its Future",
+      "texte_balise": "Industrial Society and Its Future",
+      "bbox": [
+        3473.7,
+        2568.0,
+        3856.0,
+        2596.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Short History of Decay",
+      "texte_balise": "A Short History of Decay",
+      "bbox": [
+        714.7,
+        2573.7,
+        1013.9,
+        2601.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Constitution of Liberty",
+      "texte_balise": "The Constitution of Liberty",
+      "bbox": [
+        2027.7,
+        2573.7,
+        2343.5,
+        2601.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Defense of Aristocracy",
+      "texte_balise": "A Defense of Aristocracy",
+      "bbox": [
+        2764.5,
+        2573.7,
+        3063.7,
+        2601.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Corneliu Zelea Codreanu",
+      "texte_balise": "by Corneliu Zelea Codreanu",
+      "bbox": [
+        60.9,
+        2595.8,
+        410.0,
+        2629.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Lothrop Stoddard",
+      "texte_balise": "by Lothrop Stoddard",
+      "bbox": [
+        421.1,
+        2601.0,
+        675.9,
+        2629.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by James Anthony Froude",
+      "texte_balise": "by James Anthony Froude",
+      "bbox": [
+        1058.2,
+        2606.9,
+        1374.0,
+        2635.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Juan Donoso Cortés",
+      "texte_balise": "by Juan Donoso Cortés",
+      "bbox": [
+        1534.6,
+        2606.9,
+        1828.3,
+        2635.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Patrick Buchanan",
+      "texte_balise": "by Patrick Buchanan",
+      "bbox": [
+        3163.4,
+        2606.9,
+        3418.3,
+        2635.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Theodore Kazynski",
+      "texte_balise": "by Theodore Kazynski",
+      "bbox": [
+        3529.1,
+        2612.0,
+        3817.2,
+        2646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Julius Evola",
+      "texte_balise": "by Julius Evola",
+      "bbox": [
+        2454.3,
+        2618.0,
+        2642.7,
+        2651.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Anthony Ludovici",
+      "texte_balise": "by Anthony Ludovici",
+      "bbox": [
+        2797.8,
+        2618.0,
+        3041.6,
+        2646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by E.M. Cioran",
+      "texte_balise": "by E.M. Cioran",
+      "bbox": [
+        764.5,
+        2623.5,
+        947.4,
+        2651.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Friedrich A. Hayek",
+      "texte_balise": "by Friedrich A. Hayek",
+      "bbox": [
+        2055.4,
+        2623.5,
+        2315.8,
+        2651.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MENCKEN",
+      "texte_balise": "MENCKEN",
+      "bbox": [
+        155.1,
+        2717.8,
+        299.2,
+        2745.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WHY WE FIGHT",
+      "texte_balise": "WHY WE FIGHT",
+      "bbox": [
+        1290.9,
+        2734.0,
+        1440.4,
+        2768.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLOSING",
+      "texte_balise": "CLOSING",
+      "bbox": [
+        2420.6,
+        2738.5,
+        2582.2,
+        2796.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRESTOMATHY",
+      "texte_balise": "CHRESTOMATHY",
+      "bbox": [
+        155.1,
+        2745.5,
+        299.2,
+        2773.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CHRISTIANITI",
+      "texte_balise": "CHRISTIANITI",
+      "bbox": [
+        3662.0,
+        2789.8,
+        3772.9,
+        2817.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AMERICAN",
+      "texte_balise": "AMERICAN",
+      "bbox": [
+        2426.6,
+        2800.9,
+        2576.2,
+        2845.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIND",
+      "texte_balise": "MIND",
+      "bbox": [
+        2426.3,
+        2838.6,
+        2576.5,
+        2885.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CULTURE",
+      "texte_balise": "CULTURE",
+      "bbox": [
+        3678.7,
+        2845.2,
+        3761.8,
+        2878.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lightning",
+      "texte_balise": "The Lightning",
+      "bbox": [
+        2055.4,
+        2861.8,
+        2199.4,
+        2890.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TS ELIOT",
+      "texte_balise": "TS ELIOT",
+      "bbox": [
+        3673.1,
+        2884.0,
+        3767.3,
+        2928.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "and the Sun",
+      "texte_balise": "and the Sun",
+      "bbox": [
+        2066.5,
+        2889.5,
+        2182.8,
+        2906.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGLER",
+      "texte_balise": "PENGLER",
+      "bbox": [
+        1739.6,
+        2906.2,
+        1811.6,
+        2933.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALLAN BLOOM",
+      "texte_balise": "ALLAN BLOOM",
+      "bbox": [
+        2432.1,
+        2917.0,
+        2576.2,
+        2945.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Biocentric Worldview",
+      "texte_balise": "The Biocentric Worldview",
+      "bbox": [
+        465.4,
+        2950.5,
+        775.6,
+        2978.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Why We Fight",
+      "texte_balise": "Why We Fight",
+      "bbox": [
+        1273.8,
+        2953.6,
+        1452.0,
+        2991.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Mencken Chrestomathy",
+      "texte_balise": "A Mencken Chrestomathy",
+      "bbox": [
+        88.6,
+        2956.0,
+        398.9,
+        2984.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Against Democracy and Equality:",
+      "texte_balise": "Against Democracy and Equality:",
+      "bbox": [
+        819.9,
+        2956.0,
+        1224.4,
+        2984.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Decline of the West",
+      "texte_balise": "The Decline of the West",
+      "bbox": [
+        1584.5,
+        2956.0,
+        1878.1,
+        2989.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Origins and Doctrine",
+      "texte_balise": "Origins and Doctrine",
+      "bbox": [
+        3285.3,
+        2972.7,
+        3540.2,
+        3006.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Closing of the American Mind",
+      "texte_balise": "The Closing of the American Mind",
+      "bbox": [
+        2321.3,
+        2978.0,
+        2731.3,
+        3011.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reflections on the Revolution in France",
+      "texte_balise": "Reflections on the Revolution in France",
+      "bbox": [
+        2770.1,
+        2978.0,
+        3241.0,
+        3006.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Christianity & Culture",
+      "texte_balise": "Christianity & Culture",
+      "bbox": [
+        3590.0,
+        2978.0,
+        3844.9,
+        3011.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Lightning and the Sun",
+      "texte_balise": "The Lightning and the Sun",
+      "bbox": [
+        1966.8,
+        2983.7,
+        2288.1,
+        3017.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The European New Right",
+      "texte_balise": "The European New Right",
+      "bbox": [
+        869.8,
+        2989.0,
+        1180.1,
+        3017.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Ludwig Klages",
+      "texte_balise": "by Ludwig Klages",
+      "bbox": [
+        509.7,
+        2994.8,
+        731.3,
+        3028.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by H.L Mencken",
+      "texte_balise": "by H.L Mencken",
+      "bbox": [
+        127.4,
+        3000.0,
+        326.9,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Guillaume Faye",
+      "texte_balise": "by Guillaume Faye",
+      "bbox": [
+        1235.5,
+        3000.0,
+        1468.1,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Oswald Spengler",
+      "texte_balise": "by Oswald Spengler",
+      "bbox": [
+        1612.2,
+        3000.0,
+        1861.5,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Fascism",
+      "texte_balise": "of Fascism",
+      "bbox": [
+        3346.3,
+        3005.9,
+        3484.8,
+        3034.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by T.S Eliot",
+      "texte_balise": "by T.S Eliot",
+      "bbox": [
+        3645.3,
+        3016.4,
+        3789.6,
+        3050.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Savitri Devi",
+      "texte_balise": "by Savitri Devi",
+      "bbox": [
+        2038.6,
+        3027.1,
+        2216.2,
+        3062.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Tomislav Sunic",
+      "texte_balise": "by Tomislav Sunic",
+      "bbox": [
+        919.7,
+        3028.0,
+        1141.3,
+        3056.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Allan Bloom",
+      "texte_balise": "by Allan Bloom",
+      "bbox": [
+        2404.4,
+        3028.0,
+        2592.8,
+        3056.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Edmund Burke",
+      "texte_balise": "by Edmund Burke",
+      "bbox": [
+        2869.8,
+        3028.0,
+        3091.4,
+        3061.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "hii Cinionni Confile",
+      "texte_balise": "hii Cinionni Confile",
+      "bbox": [
+        3285.3,
+        3050.0,
+        3523.5,
+        3067.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "EMET VE'EMUNAS",
+      "texte_balise": "EMET VE'EMUNAS",
+      "bbox": [
+        1036.0,
+        3094.6,
+        1135.7,
+        3106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifesco",
+      "texte_balise": "Manifesco",
+      "bbox": [
+        1567.9,
+        3094.6,
+        1695.3,
+        3122.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "POETICAL THEORY",
+      "texte_balise": "POETICAL THEORY",
+      "bbox": [
+        2410.0,
+        3094.6,
+        2559.6,
+        3133.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Curopean",
+      "texte_balise": "Curopean",
+      "bbox": [
+        1573.4,
+        3127.8,
+        1689.8,
+        3155.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BIBLICAL",
+      "texte_balise": "BIBLICAL",
+      "bbox": [
+        144.0,
+        3155.5,
+        277.0,
+        3183.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kenaissance",
+      "texte_balise": "Kenaissance",
+      "bbox": [
+        1562.3,
+        3155.5,
+        1689.8,
+        3172.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LAW",
+      "texte_balise": "LAW",
+      "bbox": [
+        171.7,
+        3188.8,
+        254.8,
+        3216.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VILNAR",
+      "texte_balise": "VILNAR",
+      "bbox": [
+        2077.6,
+        3260.8,
+        2144.0,
+        3288.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "The Institutes of Biblical Law",
+      "texte_balise": "The Institutes of Biblical Law",
+      "bbox": [
+        77.6,
+        3327.0,
+        426.6,
+        3355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Reflections on Violence",
+      "texte_balise": "Reflections on Violence",
+      "bbox": [
+        459.8,
+        3327.0,
+        747.9,
+        3355.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emet Ve-Emunah: Statement",
+      "texte_balise": "Emet Ve-Emunah: Statement",
+      "bbox": [
+        908.6,
+        3332.9,
+        1268.7,
+        3361.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Manifesto for a European Renaissance",
+      "texte_balise": "Manifesto for a European Renaissance",
+      "bbox": [
+        1379.5,
+        3332.9,
+        1850.4,
+        3366.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Counter-Revolution",
+      "texte_balise": "The Counter-Revolution",
+      "bbox": [
+        1928.0,
+        3344.0,
+        2221.6,
+        3372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Fourth Political Theory",
+      "texte_balise": "The Fourth Political Theory",
+      "bbox": [
+        2310.2,
+        3344.0,
+        2637.1,
+        3377.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Principles of Conservative Judaism",
+      "texte_balise": "of Principles of Conservative Judaism",
+      "bbox": [
+        858.7,
+        3360.6,
+        1313.0,
+        3394.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Georges Sorel",
+      "texte_balise": "by Georges Sorel",
+      "bbox": [
+        498.6,
+        3366.0,
+        720.2,
+        3399.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Rousas John Rushdoony",
+      "texte_balise": "by Rousas John Rushdoony",
+      "bbox": [
+        83.1,
+        3377.0,
+        426.6,
+        3405.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Alain de Benoist",
+      "texte_balise": "by Alain de Benoist",
+      "bbox": [
+        1506.9,
+        3377.0,
+        1745.2,
+        3405.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Thomas Molnar",
+      "texte_balise": "by Thomas Molnar",
+      "bbox": [
+        1961.2,
+        3388.0,
+        2188.4,
+        3422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by Alexander Dugin",
+      "texte_balise": "by Alexander Dugin",
+      "bbox": [
+        2354.6,
+        3388.0,
+        2592.8,
+        3422.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "by the Jewish Theological Seminary of America",
+      "texte_balise": "by the Jewish Theological Seminary of America",
+      "bbox": [
+        819.9,
+        3399.0,
+        1390.6,
+        3433.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "fichier": "04_American Politics.jpeg",
+  "date": "2026-07-21T19:28:36.342134+00:00",
+  "taille_origine": [
+    883,
+    843
+  ],
+  "hauteur_ligne_mediane": 15.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 10,
+  "nb_noeuds": 20,
+  "tiers": [
+    "the official /lit/ guide to"
+  ],
+  "intitules_isoles": [
+    "Ich habe es dir gesagt",
+    "R. H. Limbaugh III",
+    "Reclam"
+  ],
+  "blocs": [
+    {
+      "tier": "the official /lit/ guide to",
+      "bbox": [
+        59.9,
+        3.4,
+        855.0,
+        330.1
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "Contemporary American",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Political Chought",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Marc Lévin",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Michel Alain Savage",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Gambridge Comparion",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Liberté et Tyrannie",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Une Nation Sauvage",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "SEAN HANNITY",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Ich habe es dir gesagt",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "R. H. Limbaugh III",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        },
+        {
+          "titre": "Reclam",
+          "auteur": null,
+          "tier": "the official /lit/ guide to"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        111.9,
+        205.8,
+        129.9,
+        219.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        73.9,
+        437.5,
+        167.8,
+        447.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "STEVEN CROWELL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        345.5,
+        473.2,
+        417.6,
+        493.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "lio chope",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.0,
+        475.4,
+        67.9,
+        479.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CAMBEIECE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        717.2,
+        483.4,
+        811.1,
+        493.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Les Classique de Poche",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        623.3,
+        593.3,
+        699.2,
+        603.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GOING ROGUE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        619.3,
+        653.2,
+        699.2,
+        663.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "PAUL DAVIS RYAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        145.8,
+        733.1,
+        229.7,
+        757.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Donald Trump",
+          "auteur": "The Art of the Deal",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        413.5,
+        769.1,
+        481.5,
+        797.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "G.L. BECK",
+          "auteur": "Control",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

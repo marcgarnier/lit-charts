@@ -1,0 +1,689 @@
+{
+  "fichier": "50_Bioshock Infinite.jpeg",
+  "date": "2026-07-21T19:28:36.773225+00:00",
+  "taille_origine": [
+    2976,
+    3576
+  ],
+  "hauteur_ligne_mediane": 43.2,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 24,
+  "nb_noeuds": 75,
+  "tiers": [
+    "JIAN",
+    "HOLY"
+  ],
+  "intitules_isoles": [
+    "Books that would be read",
+    "by the people of Columbia,",
+    "or that better inform about",
+    "the inspirations for the",
+    "setting of Columbia."
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        936.1,
+        410.7,
+        1392.8,
+        752.7
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "I NATIONAL BESTSELLER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DEVIL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IN THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CITY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WHITE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MURDER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MAGIC, AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MADNESS AT THE FAIR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THAT CHANGED AMERICA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "JIAN",
+      "bbox": [
+        2382.7,
+        519.1,
+        2776.1,
+        1149.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "GUNS TOOK",
+          "auteur": null,
+          "tier": "JIAN"
+        },
+        {
+          "titre": "A STORY OF 22ND-CENTURY AMERICA",
+          "auteur": null,
+          "tier": "JIAN"
+        },
+        {
+          "titre": "ROBERT CHARLES WILSON",
+          "auteur": null,
+          "tier": "JIAN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        324.4,
+        523.4,
+        635.9,
+        791.6
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CONSTITUTION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "UNITED STATES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "9) AMERICA",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND SELECTED WRITINGS OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE FOUNDING FATHERS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        960.3,
+        947.3,
+        1358.2,
+        1142.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "•San Francisco Chronicle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ERIK",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LARSON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AUTHOR OF AALLOY",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AUTHORME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1661.0,
+        1016.2,
+        2046.0,
+        1138.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ALEXIS DE TOCQUEVILLE",
+          "auteur": "Democracy in America",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        298.5,
+        1284.8,
+        657.5,
+        1488.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Constitution",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "United States",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of America",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2392.0,
+        1284.8,
+        2768.4,
+        1492.2
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Julian Comstock:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Story of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "22th Century",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "America",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1710.7,
+        1313.5,
+        2021.7,
+        1423.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Democracy in",
+          "auteur": "America",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        967.2,
+        1323.7,
+        1314.4,
+        1440.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": ".T.",
+          "auteur": "The Devil in",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2366.1,
+        1600.0,
+        2803.0,
+        1626.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE NATIONAL BESTSELLER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        263.9,
+        1621.7,
+        718.0,
+        1755.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "CLANSMAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1020.8,
+        1669.2,
+        1319.3,
+        1959.0
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PRINCIPLES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "QUANTUM MECHANICS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "P. A. M. DIRAC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AS TEN DETEST OF NEEDE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "pam Dirac",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THIRD EDITION",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "HOLY",
+      "bbox": [
+        1747.5,
+        1740.1,
+        2021.0,
+        2063.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BIBLE",
+          "auteur": null,
+          "tier": "HOLY"
+        },
+        {
+          "titre": "KING JAMES",
+          "auteur": null,
+          "tier": "HOLY"
+        },
+        {
+          "titre": "VERSION",
+          "auteur": null,
+          "tier": "HOLY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2322.8,
+        1926.9,
+        2660.2,
+        2326.0
+      ],
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "-The New Yorker",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "*With meticulous research and passionate style, Diana Preston",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "re-crates the tradedy that concumed Ching a century gon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Iris Chang, author of The Rape of Nanking",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "daddddddddddo",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE BOXER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "REBELLION",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "The Dramatic Story of China's War",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "on Foreimmers That Shook",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "on Foreigners That Sbook",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the World in the Summer of 1900",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DIANA PRESTON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1129.0,
+        2187.5,
+        1202.5,
+        2204.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "OXFORD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1812.4,
+        2196.1,
+        1959.5,
+        2239.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "COMMEMORATIVE",
+          "auteur": "EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.8,
+        2304.0,
+        722.4,
+        2360.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THOMAS DIXON JE",
+          "auteur": "THOMAS DIXON JR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1046.6,
+        2536.5,
+        1319.5,
+        2695.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Principles of",
+          "auteur": "Quantum",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        2473.9,
+        2566.3,
+        2695.2,
+        2663.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Boxer",
+          "auteur": "Rebellion",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1691.2,
+        2593.3,
+        2020.2,
+        2655.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Holy Bible",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        302.8,
+        2615.7,
+        614.2,
+        2658.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Clansman",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        189.4,
+        2900.7,
+        1372.1,
+        3143.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Bioshock",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1730.2,
+        2917.5,
+        2889.5,
+        3459.2
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Books that would be read",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "by the people of Columbia,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "or that better inform about",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the inspirations for the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "setting of Columbia.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        185.2,
+        3218.0,
+        1155.7,
+        3458.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Infinite",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

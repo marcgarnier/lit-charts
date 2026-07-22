@@ -1,0 +1,817 @@
+{
+  "fichier": "06_Anarchism.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:51:38.689054+00:00",
+  "duree_s": 0.7,
+  "taille_origine": [
+    640,
+    1280
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 73,
+  "lignes": [
+    {
+      "texte": "ANARCHISM READING LIST",
+      "texte_balise": "ANARCHISM READING LIST",
+      "bbox": [
+        98.0,
+        16.0,
+        544.0,
+        50.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Classics",
+      "texte_balise": "Classics",
+      "bbox": [
+        16.0,
+        128.0,
+        66.0,
+        140.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Pierre Proudhon: What Is Property?",
+      "texte_balise": "Pierre Proudhon: What Is Property?",
+      "bbox": [
+        16.0,
+        154.0,
+        204.0,
+        166.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alexander Berkman: What is Anarchism?",
+      "texte_balise": "Alexander Berkman: What is Anarchism?",
+      "bbox": [
+        16.0,
+        168.0,
+        230.0,
+        180.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Max Stimer: The Ego and Its Own",
+      "texte_balise": "Max Stimer: The Ego and Its Own",
+      "bbox": [
+        16.0,
+        180.0,
+        196.0,
+        194.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail Bakunin: God and State",
+      "texte_balise": "Mikhail Bakunin: God and State",
+      "bbox": [
+        16.0,
+        192.0,
+        184.0,
+        204.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Peter Kropotkin : The Conquest of Bread",
+      "texte_balise": "Peter Kropotkin : The Conquest of Bread",
+      "bbox": [
+        16.0,
+        206.0,
+        228.0,
+        218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Georges Orwell: Hommage to Catalonia",
+      "texte_balise": "Georges Orwell: Hommage to Catalonia",
+      "bbox": [
+        18.0,
+        218.0,
+        226.0,
+        232.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Errico Malatesta: Anarchy",
+      "texte_balise": "Errico Malatesta: Anarchy",
+      "bbox": [
+        18.0,
+        230.0,
+        154.0,
+        244.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emma Goldman: Anarchism and Other Essays",
+      "texte_balise": "Emma Goldman: Anarchism and Other Essays",
+      "bbox": [
+        16.0,
+        244.0,
+        258.0,
+        256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Max Stimer : Stirer's Critics",
+      "texte_balise": "Max Stimer : Stirer's Critics",
+      "bbox": [
+        16.0,
+        256.0,
+        164.0,
+        270.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo Tolstoy: Kingdom of God is Within You",
+      "texte_balise": "Leo Tolstoy: Kingdom of God is Within You",
+      "bbox": [
+        16.0,
+        270.0,
+        242.0,
+        284.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Libertarian Socialism / Social Anarchism",
+      "texte_balise": "Libertarian Socialism / Social Anarchism",
+      "bbox": [
+        16.0,
+        296.0,
+        242.0,
+        308.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Noam Chomsky: Manufacturing Consent",
+      "texte_balise": "Noam Chomsky: Manufacturing Consent",
+      "bbox": [
+        16.0,
+        320.0,
+        230.0,
+        334.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Murray Bookchin: Social Anarchism or Lifestyle Anarchism",
+      "texte_balise": "Murray Bookchin: Social Anarchism or Lifestyle Anarchism",
+      "bbox": [
+        16.0,
+        334.0,
+        318.0,
+        346.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Murray Bookchin: The Ecology of Freedom",
+      "texte_balise": "Murray Bookchin: The Ecology of Freedom",
+      "bbox": [
+        16.0,
+        346.0,
+        242.0,
+        360.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abdullah Ocalan: Democratic Confederalism",
+      "texte_balise": "Abdullah Ocalan: Democratic Confederalism",
+      "bbox": [
+        16.0,
+        358.0,
+        248.0,
+        372.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "David Graeber: Debt the 1st 5000 years",
+      "texte_balise": "David Graeber: Debt the 1st 5000 years",
+      "bbox": [
+        16.0,
+        372.0,
+        226.0,
+        386.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Individualism and Mutualism",
+      "texte_balise": "Individualism and Mutualism",
+      "bbox": [
+        16.0,
+        398.0,
+        178.0,
+        410.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kevin Carson: Studies in Mutualist Political Economy",
+      "texte_balise": "Kevin Carson: Studies in Mutualist Political Economy",
+      "bbox": [
+        16.0,
+        424.0,
+        292.0,
+        436.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "William B. Greene: Mutual Banking",
+      "texte_balise": "William B. Greene: Mutual Banking",
+      "bbox": [
+        16.0,
+        436.0,
+        200.0,
+        448.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Benjamin Tucker: Instead Of A Book, By A Man Too Busy To Write One",
+      "texte_balise": "Benjamin Tucker: Instead Of A Book, By A Man Too Busy To Write One",
+      "bbox": [
+        16.0,
+        446.0,
+        382.0,
+        462.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lysander Spooner: Vices Are Not Crimes: A vindication of Moral Liberty",
+      "texte_balise": "Lysander Spooner: Vices Are Not Crimes: A vindication of Moral Liberty",
+      "bbox": [
+        16.0,
+        462.0,
+        382.0,
+        476.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Emile Armand: Anarchist Individualism and Amorous Comradeship",
+      "texte_balise": "Emile Armand: Anarchist Individualism and Amorous Comradeship",
+      "bbox": [
+        16.0,
+        474.0,
+        354.0,
+        488.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Communism and Syndicalism",
+      "texte_balise": "Communism and Syndicalism",
+      "bbox": [
+        16.0,
+        500.0,
+        186.0,
+        512.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nestor Makhno 1 Organisalional Platform of the General Union of Anarchists (Draft)",
+      "texte_balise": "Nestor Makhno 1 Organisalional Platform of the General Union of Anarchists (Draft)",
+      "bbox": [
+        16.0,
+        526.0,
+        440.0,
+        538.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Peter Kropotkin : Anarchism & Anarchist communism",
+      "texte_balise": "Peter Kropotkin : Anarchism & Anarchist communism",
+      "bbox": [
+        16.0,
+        538.0,
+        286.0,
+        552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Errico Malatesia At The Cale",
+      "texte_balise": "Errico Malatesia At The Cale",
+      "bbox": [
+        16.0,
+        550.0,
+        168.0,
+        562.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudolf Rocker: Anarchosyndicalism. Theory and Practice",
+      "texte_balise": "Rudolf Rocker: Anarchosyndicalism. Theory and Practice",
+      "bbox": [
+        16.0,
+        564.0,
+        312.0,
+        578.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rudolf Rocker: Anarchism and AnarchoSyndicalism",
+      "texte_balise": "Rudolf Rocker: Anarchism and AnarchoSyndicalism",
+      "bbox": [
+        16.0,
+        576.0,
+        282.0,
+        590.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nestor Makhno The Struggle Against the State and Other Essays",
+      "texte_balise": "Nestor Makhno The Struggle Against the State and Other Essays",
+      "bbox": [
+        16.0,
+        590.0,
+        358.0,
+        602.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Insurrectionalism",
+      "texte_balise": "Insurrectionalism",
+      "bbox": [
+        16.0,
+        616.0,
+        118.0,
+        626.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Renzo Novatore: Toward the Creative Nothing",
+      "texte_balise": "Renzo Novatore: Toward the Creative Nothing",
+      "bbox": [
+        16.0,
+        640.0,
+        258.0,
+        654.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alfredo Bonnano: Armed Joy",
+      "texte_balise": "Alfredo Bonnano: Armed Joy",
+      "bbox": [
+        16.0,
+        654.0,
+        168.0,
+        666.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Invisible Comitee: The Coming Insurrection",
+      "texte_balise": "The Invisible Comitee: The Coming Insurrection",
+      "bbox": [
+        16.0,
+        666.0,
+        266.0,
+        680.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolll Landstreicher: Willful Disobedience",
+      "texte_balise": "Wolll Landstreicher: Willful Disobedience",
+      "bbox": [
+        16.0,
+        680.0,
+        232.0,
+        692.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crimethinc: Say You Want an Insurrection",
+      "texte_balise": "Crimethinc: Say You Want an Insurrection",
+      "bbox": [
+        16.0,
+        692.0,
+        234.0,
+        706.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CCF/FIA: Anarchy - Civil or Subversive?",
+      "texte_balise": "CCF/FIA: Anarchy - Civil or Subversive?",
+      "bbox": [
+        18.0,
+        704.0,
+        226.0,
+        718.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CCF/FIA: Individuality and the anarchist group",
+      "texte_balise": "CCF/FIA: Individuality and the anarchist group",
+      "bbox": [
+        16.0,
+        718.0,
+        256.0,
+        730.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CCF/FIA: A Conversation between Anarchists",
+      "texte_balise": "CCF/FIA: A Conversation between Anarchists",
+      "bbox": [
+        18.0,
+        730.0,
+        250.0,
+        742.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous: At Daggers Drawn with the Existent, Its Defenders and its False Crilics",
+      "texte_balise": "Anonymous: At Daggers Drawn with the Existent, Its Defenders and its False Crilics",
+      "bbox": [
+        16.0,
+        742.0,
+        448.0,
+        758.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Post-left Anarchism",
+      "texte_balise": "Post-left Anarchism",
+      "bbox": [
+        16.0,
+        770.0,
+        130.0,
+        780.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bob Black: The Abolition of Work",
+      "texte_balise": "Bob Black: The Abolition of Work",
+      "bbox": [
+        16.0,
+        794.0,
+        192.0,
+        808.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Feral Faun: Feral Revolution",
+      "texte_balise": "Feral Faun: Feral Revolution",
+      "bbox": [
+        16.0,
+        806.0,
+        170.0,
+        820.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bob Black: Anarchy After Leftism",
+      "texte_balise": "Bob Black: Anarchy After Leftism",
+      "bbox": [
+        16.0,
+        820.0,
+        188.0,
+        832.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jason McQuinn: Post-Left Anarchy: Leaving the Left Behind",
+      "texte_balise": "Jason McQuinn: Post-Left Anarchy: Leaving the Left Behind",
+      "bbox": [
+        16.0,
+        832.0,
+        328.0,
+        846.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jason McQuinn: Critical Self-Theory",
+      "texte_balise": "Jason McQuinn: Critical Self-Theory",
+      "bbox": [
+        16.0,
+        846.0,
+        208.0,
+        860.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Larry Law: Revolutionary Self Theory",
+      "texte_balise": "Larry Law: Revolutionary Self Theory",
+      "bbox": [
+        16.0,
+        858.0,
+        214.0,
+        872.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For Ourselfs: The Right To Be Greedy",
+      "texte_balise": "For Ourselfs: The Right To Be Greedy",
+      "bbox": [
+        16.0,
+        870.0,
+        218.0,
+        884.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lawrence Jarach: Anarchists. Don't let the Leftovers) Ruin your Appetite",
+      "texte_balise": "Lawrence Jarach: Anarchists. Don't let the Leftovers) Ruin your Appetite",
+      "bbox": [
+        16.0,
+        884.0,
+        392.0,
+        898.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lupus Dragonowl: Against Identity Politics",
+      "texte_balise": "Lupus Dragonowl: Against Identity Politics",
+      "bbox": [
+        16.0,
+        896.0,
+        234.0,
+        910.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Transhumanism",
+      "texte_balise": "Transhumanism",
+      "bbox": [
+        16.0,
+        922.0,
+        108.0,
+        934.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "McKencie Wark A Hacker Manifesto",
+      "texte_balise": "McKencie Wark A Hacker Manifesto",
+      "bbox": [
+        16.0,
+        946.0,
+        208.0,
+        960.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Andy Cameron: The Callfornian Ideology",
+      "texte_balise": "Andy Cameron: The Callfornian Ideology",
+      "bbox": [
+        16.0,
+        960.0,
+        230.0,
+        974.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mark Dery: Escape Velocity Cyberculfure at the End of the Century",
+      "texte_balise": "Mark Dery: Escape Velocity Cyberculfure at the End of the Century",
+      "bbox": [
+        16.0,
+        972.0,
+        366.0,
+        988.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Donna Haraway A Cyborg Manifesto",
+      "texte_balise": "Donna Haraway A Cyborg Manifesto",
+      "bbox": [
+        16.0,
+        986.0,
+        210.0,
+        1000.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Green Anarchy",
+      "texte_balise": "Green Anarchy",
+      "bbox": [
+        16.0,
+        1012.0,
+        104.0,
+        1024.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Fredy Perlman: Against His-Story, Against Leviathan",
+      "texte_balise": "Fredy Perlman: Against His-Story, Against Leviathan",
+      "bbox": [
+        16.0,
+        1038.0,
+        288.0,
+        1052.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ted Kazcynzki: Technological Slavery",
+      "texte_balise": "Ted Kazcynzki: Technological Slavery",
+      "bbox": [
+        16.0,
+        1050.0,
+        216.0,
+        1064.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ted Kaczynski: Anti-Tech Revolution: Why and How",
+      "texte_balise": "Ted Kaczynski: Anti-Tech Revolution: Why and How",
+      "bbox": [
+        15.9,
+        1062.0,
+        286.1,
+        1078.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anonymous: Desert",
+      "texte_balise": "Anonymous: Desert",
+      "bbox": [
+        16.0,
+        1076.0,
+        122.0,
+        1088.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jacques Camatte: Against Domestication",
+      "texte_balise": "Jacques Camatte: Against Domestication",
+      "bbox": [
+        16.0,
+        1088.0,
+        234.0,
+        1102.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Henry David Thoreau: Walden",
+      "texte_balise": "Henry David Thoreau: Walden",
+      "bbox": [
+        16.0,
+        1102.0,
+        178.0,
+        1116.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Nihilism",
+      "texte_balise": "Nihilism",
+      "bbox": [
+        16.0,
+        1128.0,
+        64.0,
+        1138.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aragorn!.: Anarchy, Nihilism, and the 21st Century",
+      "texte_balise": "Aragorn!.: Anarchy, Nihilism, and the 21st Century",
+      "bbox": [
+        16.0,
+        1154.0,
+        274.0,
+        1166.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aragoni: Anarchy and Nihilism: Consequences",
+      "texte_balise": "Aragoni: Anarchy and Nihilism: Consequences",
+      "bbox": [
+        16.0,
+        1166.0,
+        264.0,
+        1178.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Monsieur Dupont : Nihilist Communism",
+      "texte_balise": "Monsieur Dupont : Nihilist Communism",
+      "bbox": [
+        16.0,
+        1178.0,
+        216.0,
+        1190.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Serafsinski: Blessed is the Flame: An Introduction to Anarcho-Nihilism and Concentration Camp Resistance",
+      "texte_balise": "Serafsinski: Blessed is the Flame: An Introduction to Anarcho-Nihilism and Concentration Camp Resistance",
+      "bbox": [
+        16.0,
+        1190.0,
+        566.0,
+        1204.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sergey Nechayev: The Revolutionary Catechism",
+      "texte_balise": "Sergey Nechayev: The Revolutionary Catechism",
+      "bbox": [
+        16.0,
+        1204.0,
+        272.0,
+        1218.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lauren Berlant: Cruel Optimism",
+      "texte_balise": "Lauren Berlant: Cruel Optimism",
+      "bbox": [
+        16.0,
+        1218.0,
+        184.0,
+        1230.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Lee Edelman No Future: Queer Theory and the Death Drive",
+      "texte_balise": "Lee Edelman No Future: Queer Theory and the Death Drive",
+      "bbox": [
+        16.0,
+        1230.0,
+        330.0,
+        1242.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aragorl: Attentat",
+      "texte_balise": "Aragorl: Attentat",
+      "bbox": [
+        16.0,
+        1242.0,
+        112.0,
+        1256.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "8ch.net/anarcho/",
+      "texte_balise": "8ch.net/anarcho/",
+      "bbox": [
+        510.0,
+        1260.0,
+        638.0,
+        1274.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

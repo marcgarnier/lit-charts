@@ -1,0 +1,948 @@
+{
+  "fichier": "ic_Art 1.jpeg",
+  "date": "2026-07-21T19:28:36.790317+00:00",
+  "taille_origine": [
+    900,
+    1560
+  ],
+  "hauteur_ligne_mediane": 16.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 37,
+  "nb_noeuds": 92,
+  "tiers": [
+    "ANATOMY"
+  ],
+  "intitules_isoles": [
+    "figure drawing:",
+    "Andrew Loomis",
+    "\"Force\" -",
+    "Gottfried Bammes",
+    "\"Anatomy for the Artist\" -",
+    "Jeno Barcsay",
+    "Force",
+    "drawing & illustration",
+    "\"How to Draw\"-",
+    "\"Famous Artists Course\" -",
+    "\"The Practice & Science of Drawing\" -",
+    "Harold Speed",
+    "\"Creative Illustration\"",
+    "-Andrew Loomis",
+    "Richard Schmid",
+    "\"Imaginative Realism\" -",
+    "James Gurney",
+    "\"Framed Ink\"-",
+    "Marcos Marteu-Mestre",
+    "\"The Animator's Survival Kit\"-",
+    "Richard Williams",
+    "\"Advanced Animation\" -",
+    "· \"Art & Fear\"",
+    "\"The Art Spirit\""
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        213.5,
+        38.0,
+        621.8,
+        111.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "/ic/ book list",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.1,
+        133.8,
+        727.7,
+        152.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "figure drawing:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        45.3,
+        140.6,
+        170.0,
+        152.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FIGURE DRAWING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        464.6,
+        142.2,
+        523.8,
+        200.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "DRAWING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DYNAMIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HANDS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BURNE HOGARTH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.0,
+        172.0,
+        879.6,
+        460.3
+      ],
+      "nb_lignes": 16,
+      "noeuds": [
+        {
+          "titre": "Design and Invention\" -",
+          "auteur": "\"Figure Drawing",
+          "tier": null
+        },
+        {
+          "titre": "Michael Hampton,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Constructive Anatomy \" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "George Bridgman",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Figure Drawing for All its Worth\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Andrew Loomis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Drawing Dynamic Hands\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Burne Hogarth",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Force\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Michael D. Mattesi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Vilppu Drawing Manual\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Glenn Vilppu",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Die Gestalt des Menschen\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gottfried Bammes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Anatomy for the Artist\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Jeno Barcsay",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        333.2,
+        213.1,
+        378.6,
+        224.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANDREII",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        199.5,
+        217.7,
+        303.8,
+        260.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "George B. Bridgmon",
+          "auteur": "CONSTRUCTIVE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        312.8,
+        283.0,
+        455.7,
+        324.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FIGURE DRAWING",
+          "auteur": "FOR ALL ITS WORTH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ANATOMY",
+      "bbox": [
+        519.0,
+        339.6,
+        600.9,
+        390.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "FOR THE",
+          "auteur": null,
+          "tier": "ANATOMY"
+        },
+        {
+          "titre": "ARTIST",
+          "auteur": null,
+          "tier": "ANATOMY"
+        },
+        {
+          "titre": "42 fall page plates",
+          "auteur": null,
+          "tier": "ANATOMY"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        265.2,
+        346.6,
+        340.1,
+        378.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DRAWING",
+          "auteur": "MANUAL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        183.6,
+        351.5,
+        260.7,
+        383.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Vilppu",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        401.3,
+        396.8,
+        476.1,
+        415.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Gottfried Bammes?",
+          "auteur": "Die Gestalt",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        83.9,
+        469.4,
+        181.4,
+        487.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Force",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.1,
+        483.0,
+        859.2,
+        662.1
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "drawing & illustration",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"How to Draw\"-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Scott Robertson",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Famous Artists Course\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Various",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"The Practice & Science of Drawing\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Harold Speed",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Creative Illustration\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "-Andrew Loomis",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        464.5,
+        539.7,
+        603.3,
+        595.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Creative",
+          "auteur": "Illu/tration",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        136.0,
+        580.3,
+        183.7,
+        594.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DRAW",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        328.7,
+        653.0,
+        446.8,
+        802.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PRACTICE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "& SCIENCE OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DRAWING",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HAROLD SPEED",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Color and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Light",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        611.9,
+        684.8,
+        766.2,
+        827.8
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Painting:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Alla Prima\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Richard Schmid",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Color and Light\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James Gurney",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Imaginative Realism\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "James Gurney",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        444.3,
+        706.6,
+        600.9,
+        787.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "by ANDREW LOOMIS",
+          "auteur": "Imaginative",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        49.9,
+        748.0,
+        238.0,
+        785.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ALLA PRIMA",
+          "auteur": "Everything I Know About Painting",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        265.2,
+        845.8,
+        324.2,
+        857.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A Guide for the",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.1,
+        848.0,
+        736.8,
+        861.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Comics/Animation:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        569.0,
+        857.1,
+        591.7,
+        868.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Exist",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.1,
+        882.0,
+        813.9,
+        1061.2
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "\"Framed Ink\"-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Marcos Marteu-Mestre",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Comics and Sequential Art\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Will Eisner",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Understanding Comics\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "- Scott McCloud",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"The Animator's Survival Kit\"-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Richard Williams",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"Advanced Animation\" -",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Preston Blair",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        79.3,
+        911.5,
+        210.8,
+        925.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "By RICHARD SCHMID",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        349.1,
+        938.7,
+        462.5,
+        988.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ERSTANDMO",
+          "auteur": "COMES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        491.9,
+        941.0,
+        582.6,
+        979.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RICHARD WILLIAMS",
+          "auteur": "EXPANDED EDITION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        192.3,
+        944.7,
+        333.2,
+        1111.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Will EiSNER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COMICS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SEQUENTIAL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ARTE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        40.8,
+        950.1,
+        106.5,
+        990.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FRA",
+          "auteur": "IN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        482.8,
+        1070.1,
+        587.2,
+        1116.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "'ANIMATOR'S",
+          "auteur": "SURVIVAL KIT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        612.1,
+        1083.8,
+        727.7,
+        1100.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Philosophy of Art:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        396.7,
+        1108.8,
+        437.5,
+        1122.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "McCLO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        602.9,
+        1119.2,
+        786.6,
+        1188.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "· \"Art & Fear\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "David Bayles & Ted Orland",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "\"The Art Spirit\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Robert Henri",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        36.3,
+        1142.8,
+        172.3,
+        1199.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ADVANCED",
+          "auteur": "ANIMATION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        201.8,
+        1181.3,
+        265.2,
+        1242.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Ast",
+          "auteur": "&Tear",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        312.8,
+        1297.0,
+        419.5,
+        1331.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE ART SPIRIT",
+          "auteur": "Robert Henri",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        183.6,
+        1319.7,
+        274.3,
+        1331.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DAVIO BAYLES • TRO ORLAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

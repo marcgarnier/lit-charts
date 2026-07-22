@@ -1,0 +1,1114 @@
+{
+  "fichier": "17_Lain Pill (Cyberpunk).jpeg",
+  "date": "2026-07-21T19:28:36.624102+00:00",
+  "taille_origine": [
+    1520,
+    4648
+  ],
+  "hauteur_ligne_mediane": 25.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 51,
+  "nb_noeuds": 94,
+  "tiers": [
+    "She Dick",
+    "CE",
+    "DET",
+    "DEVILMA",
+    "LEBTES"
+  ],
+  "intitules_isoles": [
+    "The Three Stigmata of Palmer Eldritch",
+    "Jean Baudrillard The System",
+    "Flatline Constructs:",
+    "Gothic Materialism and",
+    "Cybernetic Theory-Fiction",
+    "Texts in the",
+    "Proved in Geometrical Order",
+    "Edited by"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        443.5,
+        28.0,
+        824.6,
+        92.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SOCIETY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        19.9,
+        37.5,
+        399.9,
+        86.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WE LIVE IN A",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        19.0,
+        37.9,
+        1488.3,
+        406.6
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "OF IMAGES, PERSONAS,",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AND ACCELERATING COMMUNICATION. BUT WHAT DOES",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THAT MEAN... PRESENT DAY, PRESENT TIME?",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "/lain:pill",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TAKE THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "•",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1159.9,
+        525.4,
+        1263.7,
+        538.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DOUGLAS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "She Dick",
+      "bbox": [
+        600.9,
+        691.0,
+        897.0,
+        905.2
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Four Novels of the 196os",
+          "auteur": null,
+          "tier": "She Dick"
+        },
+        {
+          "titre": "The Man in the High Castle",
+          "auteur": null,
+          "tier": "She Dick"
+        },
+        {
+          "titre": "The Three Stigmata of Palmer Eldritch",
+          "auteur": null,
+          "tier": "She Dick"
+        },
+        {
+          "titre": "Do Androids Dream of Electric Sheep?",
+          "auteur": null,
+          "tier": "She Dick"
+        },
+        {
+          "titre": "Ubik",
+          "auteur": null,
+          "tier": "She Dick"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1159.9,
+        708.7,
+        1402.9,
+        775.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CYBERIA",
+          "auteur": "LIFE IN THE TRENCHES OF HYPERSPACE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "CE",
+      "bbox": [
+        101.6,
+        799.2,
+        313.7,
+        947.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WILLIAM GIBSON",
+          "auteur": null,
+          "tier": "CE"
+        },
+        {
+          "titre": "GAIMAN",
+          "auteur": null,
+          "tier": "CE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        9.9,
+        1028.8,
+        469.3,
+        1095.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "gibson neuromancer",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1084.2,
+        1039.0,
+        1489.6,
+        1095.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "rushkoff cuberia",
+          "auteur": "rushkoff_cuberia",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        512.6,
+        1039.9,
+        1027.3,
+        1086.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "dick doandroidsdream",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DET",
+      "bbox": [
+        773.3,
+        1167.9,
+        872.7,
+        1644.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "DEVILMA",
+          "auteur": null,
+          "tier": "DET"
+        },
+        {
+          "titre": "GO NAGAI'S",
+          "auteur": null,
+          "tier": "DET"
+        },
+        {
+          "titre": "GO NAGAl'S",
+          "auteur": null,
+          "tier": "DET"
+        },
+        {
+          "titre": "The Classic Collection 1",
+          "auteur": null,
+          "tier": "DET"
+        },
+        {
+          "titre": "Z",
+          "auteur": null,
+          "tier": "DET"
+        }
+      ]
+    },
+    {
+      "tier": "DEVILMA",
+      "bbox": [
+        1292.4,
+        1173.3,
+        1387.4,
+        1635.8
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "DE",
+          "auteur": null,
+          "tier": "DEVILMA"
+        },
+        {
+          "titre": "GO NAGAI'S",
+          "auteur": null,
+          "tier": "DEVILMA"
+        },
+        {
+          "titre": "The Classic Collection 2",
+          "auteur": null,
+          "tier": "DEVILMA"
+        },
+        {
+          "titre": "Z",
+          "auteur": null,
+          "tier": "DEVILMA"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        95.0,
+        1178.9,
+        322.6,
+        1234.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "I he DO Fa",
+          "auteur": "THE GHOST IN THE SHELL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LEBTES",
+      "bbox": [
+        247.3,
+        1567.0,
+        360.2,
+        1622.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "UNG MAGAZIN",
+          "auteur": null,
+          "tier": "LEBTES"
+        },
+        {
+          "titre": "IZOKUBA",
+          "auteur": null,
+          "tier": "LEBTES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        110.5,
+        1609.3,
+        125.9,
+        1624.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "sat",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1079.2,
+        1699.6,
+        1461.5,
+        1762.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "nagai devilman2",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        556.7,
+        1706.0,
+        932.4,
+        1768.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "nagai_devilman1",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.9,
+        1706.5,
+        486.0,
+        1760.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "shirow ghost_shell",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        84.0,
+        1854.6,
+        311.5,
+        2076.0
+      ],
+      "nb_lignes": 11,
+      "noeuds": [
+        {
+          "titre": "*It appears impossible for anyone seriously interested in our",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "civilization to ignore this book.\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Saturday Review",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cybernetics",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "or Control and Communication in",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "the Animal and the Machine",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Reissue of the 1961 second edition",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Norbert Wiener",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Recipient of the 1963 National Medal of Science",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "forewords by",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Doug Hill and Sanjoy Mitter",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        631.9,
+        1854.6,
+        817.4,
+        1868.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DA CAPO SERIES IN SCIENCE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1124.3,
+        1922.8,
+        1268.2,
+        2093.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "NORBERT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WIENER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOD &",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GOLEM, Inc.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A Comment on Certain Points where",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cybernetics Impinges on Religion",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        605.3,
+        1936.0,
+        844.0,
+        2009.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE HUMAN USE",
+          "auteur": "OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        598.7,
+        2060.0,
+        844.0,
+        2078.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CYBERNETICS AND SOCIETY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        629.7,
+        2274.5,
+        817.4,
+        2294.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NORBERT WIENER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.9,
+        2369.5,
+        483.8,
+        2424.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "wiener_cybernetics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        581.0,
+        2369.5,
+        861.6,
+        2414.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "wiener huhb",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1080.3,
+        2369.5,
+        1462.6,
+        2424.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "wiener_godgolem",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        813.0,
+        2468.5,
+        868.3,
+        2499.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "the",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        583.3,
+        2484.0,
+        870.5,
+        2596.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Marshall McLuhan",
+          "auteur": "utenberg",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        77.3,
+        2559.0,
+        360.1,
+        2636.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ARSHALL MCLUHAN",
+          "auteur": "UNREBSTANDING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1122.3,
+        2645.0,
+        1400.7,
+        2698.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Jean Baudrillard The System",
+          "auteur": "of Objects",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        176.7,
+        2855.0,
+        291.6,
+        2871.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LEWIS H. LAPHAM",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1030.7,
+        2999.8,
+        1509.8,
+        3066.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "baudrillard objects",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        468.7,
+        3006.0,
+        937.3,
+        3069.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "mcluhan_gutenbergg",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        33.1,
+        3010.0,
+        360.1,
+        3054.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "mcluhan media",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        79.5,
+        3177.9,
+        322.6,
+        3200.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JEAN BAUDRILLARD",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        101.6,
+        3290.7,
+        304.9,
+        3379.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "SIMULACRA",
+          "auteur": "AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        589.7,
+        3398.9,
+        806.4,
+        3551.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "Flatline Constructs:",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gothic Materialism and",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Cybernetic Theory-Fiction",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Mark Fisher",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Forward by exmilitary",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1230.5,
+        3509.4,
+        1285.9,
+        3575.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "CCRU",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "19.97",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "1997",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "2003",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        97.2,
+        3522.7,
+        304.9,
+        3538.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Translated by Sheila Faria Glaser",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        278.4,
+        3604.5,
+        344.7,
+        3615.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MICHIGAN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1080.2,
+        3660.5,
+        1411.8,
+        3721.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ccru_writings",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        33.1,
+        3663.3,
+        386.6,
+        3707.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "baudrillard 55",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        532.4,
+        3663.3,
+        910.2,
+        3707.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "fisher flatline",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        249.5,
+        3820.1,
+        315.9,
+        3906.7
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Cambridge",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Texts in the",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "History of",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Philosophy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        649.5,
+        3831.1,
+        837.3,
+        3846.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BDE INCLISE TRIPIAK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        54.9,
+        3918.2,
+        256.3,
+        4029.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Spinoza",
+          "auteur": "Ethics",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        682.7,
+        3923.6,
+        808.6,
+        3941.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SHINGON 2EX1S",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        218.7,
+        4188.4,
+        309.3,
+        4217.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Edited by",
+          "auteur": "Matthew J. Kisner",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        576.6,
+        4347.7,
+        908.0,
+        4405.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "kukai_shingon",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        28.7,
+        4350.0,
+        380.0,
+        4401.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "spinoza ethics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "fichier": "09_2020.jpeg",
+  "date": "2026-07-21T19:28:36.486937+00:00",
+  "taille_origine": [
+    2381,
+    6000
+  ],
+  "hauteur_ligne_mediane": 24.2,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 4,
+  "nb_noeuds": 116,
+  "tiers": [
+    "Williams",
+    "4 Hopscotch+",
+    "Umberto"
+  ],
+  "intitules_isoles": [
+    "Williams",
+    "The Magic",
+    "Mountain",
+    "4 Hopscotch+",
+    "Umberto",
+    "* Novels in positions 81 to 100 are sorted alphabetically by book title since they received 4 votes each. The following entries also tied with 4 votes each:",
+    "Books with 3 votes or fewer are not included in this chart.",
+    "Last poll thread (Dec 27th): >>17129405"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": null,
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "Moby Dick",
+          "auteur": "Melville",
+          "tier": null
+        },
+        {
+          "titre": "Crime and",
+          "auteur": "Dostoyevsky",
+          "tier": null
+        },
+        {
+          "titre": "The Brothers",
+          "auteur": "Dostoyevsky",
+          "tier": null
+        },
+        {
+          "titre": "Lolita",
+          "auteur": "Nabokov",
+          "tier": null
+        },
+        {
+          "titre": "Don Quixote",
+          "auteur": "Cervantes",
+          "tier": null
+        },
+        {
+          "titre": "Ulysses",
+          "auteur": "Joyce",
+          "tier": null
+        },
+        {
+          "titre": "Infinite Jest",
+          "auteur": "Wallace",
+          "tier": null
+        },
+        {
+          "titre": "War and Peace",
+          "auteur": "Tolstoy",
+          "tier": null
+        },
+        {
+          "titre": "Stoner",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Anna Karenina",
+          "auteur": "Tolstoy",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Williams",
+      "bbox": null,
+      "nb_lignes": 74,
+      "noeuds": [
+        {
+          "titre": "Gravity's Rainbow",
+          "auteur": "Pynchon",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Blood Meridian",
+          "auteur": "McCarthy",
+          "tier": "Williams"
+        },
+        {
+          "titre": "In Search of Lost",
+          "auteur": "Proust",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Catch-22",
+          "auteur": "Heller",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Trial",
+          "auteur": "Kafka",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Stranger",
+          "auteur": "Camus",
+          "tier": "Williams"
+        },
+        {
+          "titre": "One Hundred",
+          "auteur": "García Márquez",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Notes from",
+          "auteur": "Dostoyevsky",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Sound and",
+          "auteur": "Faulkner",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Golden Bowl",
+          "auteur": "James",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Golden Boul",
+          "auteur": "James",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Count of",
+          "auteur": "[ 13 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "American Psycho",
+          "auteur": "[ 13 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Idiot",
+          "auteur": "[ 12 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "A Confederacy of",
+          "auteur": "[ 12]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Pale Fire",
+          "auteur": "[ 11]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Journey to the End",
+          "auteur": "[ 11 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Madame Bovary",
+          "auteur": "[ 11 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Making of",
+          "auteur": "[ 11 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Heart of Darkness",
+          "auteur": "[ 10 ]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Flanders Road",
+          "auteur": "L 10]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "No Longer Human",
+          "auteur": "Dazai",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Catcher in the",
+          "auteur": "Sallinger",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Absalom,",
+          "auteur": "Faulkner",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Voss",
+          "auteur": "White",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Brave New World",
+          "auteur": "Huxley",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Middlemarch",
+          "auteur": "Eliot",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Trilogy",
+          "auteur": "Beckett",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The",
+          "auteur": "Kafka",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Great",
+          "auteur": "Dickens",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Extinction",
+          "auteur": "Bernhard",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Lord of the",
+          "auteur": "Tolkien",
+          "tier": "Williams"
+        },
+        {
+          "titre": "1984",
+          "auteur": "Orwell",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Parade's End",
+          "auteur": "Ford",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Les Misérables",
+          "auteur": "Hugo",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Life and Opinions of",
+          "auteur": "Sterne",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Tristram Shandy,",
+          "auteur": "Sterne",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Artist as a Young",
+          "auteur": "Joyce",
+          "tier": "Williams"
+        },
+        {
+          "titre": "A Portrait of the",
+          "auteur": "Joyce",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Adventures of",
+          "auteur": "Twain",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Grass",
+          "auteur": "Simon",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Sun Also Rises",
+          "auteur": "Hemingway",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Dead Souls",
+          "auteur": "Gogol",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Man Without",
+          "auteur": "Musil",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Grapes of",
+          "auteur": "Steinbeck",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Slaughterhouse-",
+          "auteur": "Vonnegut",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Old Man and",
+          "auteur": "Hemingway",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Siddhartha",
+          "auteur": "Hesse",
+          "tier": "Williams"
+        },
+        {
+          "titre": "East of Eden",
+          "auteur": "Steinbeck",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Hunger",
+          "auteur": "Hamsun",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Riders in the",
+          "auteur": "White",
+          "tier": "Williams"
+        },
+        {
+          "titre": "The Portrait of a",
+          "auteur": "James",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Kokoro",
+          "auteur": "Soseki",
+          "tier": "Williams"
+        },
+        {
+          "titre": "THE",
+          "auteur": "OF THE",
+          "tier": "Williams"
+        },
+        {
+          "titre": "GLASTONBUBY ROMANCE",
+          "auteur": null,
+          "tier": "Williams"
+        },
+        {
+          "titre": "GLASTONBUBE ROMANCE",
+          "auteur": null,
+          "tier": "Williams"
+        },
+        {
+          "titre": "The GREAT",
+          "auteur": "GATSBY",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Yukio",
+          "auteur": "ofaMask",
+          "tier": "Williams"
+        },
+        {
+          "titre": "YUKIO",
+          "auteur": "ofaMask",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Mishimo",
+          "auteur": "ofaMask",
+          "tier": "Williams"
+        },
+        {
+          "titre": "ishima",
+          "auteur": "ofaMask",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Wuthering Heights",
+          "auteur": null,
+          "tier": "Williams"
+        },
+        {
+          "titre": "SOLI",
+          "auteur": "Thomas Pynchon",
+          "tier": "Williams"
+        },
+        {
+          "titre": "SOI",
+          "auteur": "Thomas Pynchon",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Wolfe",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Joyce",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Powys",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Lermontov",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Fitzgerald",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Rabelais",
+          "auteur": "[6]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Mishima",
+          "auteur": "[5]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Bronte",
+          "auteur": "[5]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Gaddis",
+          "auteur": "[ 5]",
+          "tier": "Williams"
+        },
+        {
+          "titre": "Pynchon",
+          "auteur": "[ 5]",
+          "tier": "Williams"
+        }
+      ]
+    },
+    {
+      "tier": "4 Hopscotch+",
+      "bbox": null,
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Independent",
+          "auteur": "Laxness",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Pride and",
+          "auteur": "Austen",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Magic",
+          "auteur": "Mann",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "To the Lighthouse",
+          "auteur": "Woolf",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Growth of the Soil",
+          "auteur": "Hamsun",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Posthumous",
+          "auteur": "Machado de Assis",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Frankenstein",
+          "auteur": "Shelley",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Hopscotch",
+          "auteur": "Cortázar",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Hobbit",
+          "auteur": "Tolkien",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "House of Leaves",
+          "auteur": "Danielewski",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "A Clockwork",
+          "auteur": "Burgess",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "À Rebours",
+          "auteur": "Huysmans",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Bell Jar",
+          "auteur": "PlathR",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Bethroded",
+          "auteur": "Manzoni",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Bleak House",
+          "auteur": "Dickens",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Buddenbrooks",
+          "auteur": "Mann",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "Candide",
+          "auteur": "Voltaire",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Cannibal",
+          "auteur": "Hawkes",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Death of Ivan",
+          "auteur": "Tolstoy",
+          "tier": "4 Hopscotch+"
+        },
+        {
+          "titre": "The Death of Virgil",
+          "auteur": "Broch",
+          "tier": "4 Hopscotch+"
+        }
+      ]
+    },
+    {
+      "tier": "Umberto",
+      "bbox": null,
+      "nb_lignes": 12,
+      "noeuds": [
+        {
+          "titre": "Death on Credit",
+          "auteur": "Céline",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Demons",
+          "auteur": "Dostoyevsky",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Dune",
+          "auteur": "Herbert",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "The Elementary",
+          "auteur": "Houellebecg",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Foucault's",
+          "auteur": "Eco",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "The History of Tom",
+          "auteur": null,
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Jones,",
+          "auteur": null,
+          "tier": "Umberto"
+        },
+        {
+          "titre": "The Hitchhiker's",
+          "auteur": "Adams",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Guide to the",
+          "auteur": "Adams",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "Libra",
+          "auteur": "DeLillo",
+          "tier": "Umberto"
+        },
+        {
+          "titre": "The Master and",
+          "auteur": null,
+          "tier": "Umberto"
+        },
+        {
+          "titre": "The Name of the",
+          "auteur": "Eco",
+          "tier": "Umberto"
+        }
+      ]
+    }
+  ]
+}

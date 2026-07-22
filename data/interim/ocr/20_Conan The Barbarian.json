@@ -1,0 +1,729 @@
+{
+  "fichier": "20_Conan The Barbarian.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:56:09.421805+00:00",
+  "duree_s": 0.8,
+  "taille_origine": [
+    936,
+    1230
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 65,
+  "lignes": [
+    {
+      "texte": "So you want to read",
+      "texte_balise": "So you want to read",
+      "bbox": [
+        278.0,
+        24.0,
+        656.0,
+        68.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Conan The Barbarian",
+      "texte_balise": "Conan The Barbarian",
+      "bbox": [
+        60.0,
+        84.0,
+        856.0,
+        170.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "There are two protips and three choices",
+      "texte_balise": "There are two protips and three choices",
+      "bbox": [
+        208.0,
+        206.0,
+        708.0,
+        238.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protip #1: Read Robert E. Howard's original stories first before any pastiches.",
+      "texte_balise": "Protip #1: Read Robert E. Howard's original stories first before any pastiches.",
+      "bbox": [
+        26.0,
+        276.0,
+        774.0,
+        302.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Protip #2: The stories are mostly self-contained, so there is no best order, which leads us to...",
+      "texte_balise": "Protip #2: The stories are mostly self-contained, so there is no best order, which leads us to...",
+      "bbox": [
+        25.9,
+        301.9,
+        920.1,
+        331.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Choice #1: Pick stories randomly",
+      "texte_balise": "Choice #1: Pick stories randomly",
+      "bbox": [
+        27.8,
+        367.7,
+        348.2,
+        396.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Choice #2: Read them in published order",
+      "texte_balise": "Choice #2: Read them in published order",
+      "bbox": [
+        27.7,
+        391.8,
+        424.3,
+        424.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Choice #3: Follow a chronology. Dale Rippke's is probably the most internally consistent.",
+      "texte_balise": "Choice #3: Follow a chronology. Dale Rippke's is probably the most internally consistent.",
+      "bbox": [
+        28.0,
+        424.0,
+        890.0,
+        450.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Published order",
+      "texte_balise": "Published order",
+      "bbox": [
+        34.0,
+        498.0,
+        202.0,
+        518.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dale Rippke Chronology",
+      "texte_balise": "Dale Rippke Chronology",
+      "bbox": [
+        604.0,
+        498.0,
+        860.0,
+        522.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Phoenix on the Sword",
+      "texte_balise": "The Phoenix on the Sword",
+      "bbox": [
+        34.0,
+        532.0,
+        256.0,
+        552.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Frost Giant's Daughter",
+      "texte_balise": "The Frost Giant's Daughter",
+      "bbox": [
+        604.0,
+        534.0,
+        832.0,
+        556.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Scarlet Citadel",
+      "texte_balise": "The Scarlet Citadel",
+      "bbox": [
+        34.0,
+        556.0,
+        196.0,
+        574.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The God in the Bowl",
+      "texte_balise": "The God in the Bowl",
+      "bbox": [
+        604.0,
+        558.0,
+        780.0,
+        576.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tower of the Elephant",
+      "texte_balise": "The Tower of the Elephant",
+      "bbox": [
+        33.6,
+        575.1,
+        260.4,
+        603.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Tower of the Elephant",
+      "texte_balise": "The Tower of the Elephant",
+      "bbox": [
+        604.0,
+        580.0,
+        828.0,
+        602.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Black Colossus",
+      "texte_balise": "Black Colossus",
+      "bbox": [
+        34.0,
+        602.0,
+        168.0,
+        620.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hall of the Dead",
+      "texte_balise": "The Hall of the Dead",
+      "bbox": [
+        604.0,
+        602.0,
+        780.0,
+        622.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Slithering Shadow (Xuthal of the Dusk)",
+      "texte_balise": "The Slithering Shadow (Xuthal of the Dusk)",
+      "bbox": [
+        33.7,
+        620.5,
+        402.3,
+        651.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rogues in the House",
+      "texte_balise": "Rogues in the House",
+      "bbox": [
+        601.6,
+        620.8,
+        780.3,
+        649.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pool of the Black One",
+      "texte_balise": "The Pool of the Black One",
+      "bbox": [
+        34.0,
+        648.0,
+        258.0,
+        666.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hand of Nergal",
+      "texte_balise": "The Hand of Nergal",
+      "bbox": [
+        604.0,
+        648.0,
+        770.0,
+        670.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Rogues in the House",
+      "texte_balise": "Rogues in the House",
+      "bbox": [
+        34.0,
+        670.0,
+        210.0,
+        692.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Black Colossus",
+      "texte_balise": "Black Colossus",
+      "bbox": [
+        604.0,
+        672.0,
+        736.0,
+        690.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shadows in the Moonlight (Iron Shadows in the Moon)",
+      "texte_balise": "Shadows in the Moonlight (Iron Shadows in the Moon)",
+      "bbox": [
+        34.0,
+        694.0,
+        494.0,
+        716.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shadows in the Moonlight",
+      "texte_balise": "Shadows in the Moonlight",
+      "bbox": [
+        604.0,
+        694.0,
+        826.0,
+        718.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Queen of the Black Coast",
+      "texte_balise": "Queen of the Black Coast",
+      "bbox": [
+        34.0,
+        716.0,
+        252.0,
+        738.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Queen of the Black Coast",
+      "texte_balise": "Queen of the Black Coast",
+      "bbox": [
+        604.0,
+        718.0,
+        820.0,
+        740.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil in Iron",
+      "texte_balise": "The Devil in Iron",
+      "bbox": [
+        34.0,
+        740.0,
+        180.0,
+        758.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Snout in the Dark",
+      "texte_balise": "The Snout in the Dark",
+      "bbox": [
+        604.0,
+        742.0,
+        788.0,
+        760.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The People of the Black Circle",
+      "texte_balise": "The People of the Black Circle",
+      "bbox": [
+        34.0,
+        762.0,
+        294.0,
+        784.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Slithering Shadow",
+      "texte_balise": "The Slithering Shadow",
+      "bbox": [
+        604.0,
+        762.0,
+        794.0,
+        786.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Witch Shall Be Born",
+      "texte_balise": "A Witch Shall Be Born",
+      "bbox": [
+        34.0,
+        786.0,
+        228.0,
+        804.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A Witch Shall Be Born",
+      "texte_balise": "A Witch Shall Be Born",
+      "bbox": [
+        604.0,
+        786.0,
+        798.0,
+        806.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jewels of Gwahlur (The Teeth of Gwahlur)",
+      "texte_balise": "Jewels of Gwahlur (The Teeth of Gwahlur)",
+      "bbox": [
+        34.0,
+        808.0,
+        396.0,
+        830.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil in Iron",
+      "texte_balise": "The Devil in Iron",
+      "bbox": [
+        604.0,
+        808.0,
+        748.0,
+        828.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beyond the Black River",
+      "texte_balise": "Beyond the Black River",
+      "bbox": [
+        34.0,
+        832.0,
+        236.0,
+        854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The People of the Black Circle",
+      "texte_balise": "The People of the Black Circle",
+      "bbox": [
+        604.0,
+        832.0,
+        862.0,
+        854.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shadows in Zamboula (The Man-Eaters of Zamboula)",
+      "texte_balise": "Shadows in Zamboula (The Man-Eaters of Zamboula)",
+      "bbox": [
+        34.0,
+        854.0,
+        484.0,
+        876.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shadows in Zamboula",
+      "texte_balise": "Shadows in Zamboula",
+      "bbox": [
+        604.0,
+        854.0,
+        790.0,
+        874.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hour of the Dragon",
+      "texte_balise": "The Hour of the Dragon",
+      "bbox": [
+        34.0,
+        878.0,
+        238.0,
+        900.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Drums of Tombalku",
+      "texte_balise": "Drums of Tombalku",
+      "bbox": [
+        604.0,
+        878.0,
+        776.0,
+        898.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Red Nails",
+      "texte_balise": "Red Nails",
+      "bbox": [
+        33.9,
+        901.3,
+        120.1,
+        920.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Vale of Lost Women",
+      "texte_balise": "The Vale of Lost Women",
+      "bbox": [
+        604.0,
+        902.0,
+        816.0,
+        920.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Pool of the Black One",
+      "texte_balise": "The Pool of the Black One",
+      "bbox": [
+        604.0,
+        924.0,
+        828.0,
+        944.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Posthumous",
+      "texte_balise": "Posthumous",
+      "bbox": [
+        34.0,
+        936.0,
+        152.0,
+        956.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Beyond the Black River",
+      "texte_balise": "Beyond the Black River",
+      "bbox": [
+        604.0,
+        948.0,
+        804.0,
+        968.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hyborian Age (essay)",
+      "texte_balise": "The Hyborian Age (essay)",
+      "bbox": [
+        34.0,
+        960.0,
+        248.0,
+        984.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Black Stranger",
+      "texte_balise": "The Black Stranger",
+      "bbox": [
+        603.4,
+        968.3,
+        764.5,
+        995.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The God in the Bowl",
+      "texte_balise": "The God in the Bowl",
+      "bbox": [
+        34.0,
+        984.0,
+        210.0,
+        1002.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Red Nails",
+      "texte_balise": "Red Nails",
+      "bbox": [
+        602.0,
+        993.8,
+        688.0,
+        1012.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Black Stranger",
+      "texte_balise": "The Black Stranger",
+      "bbox": [
+        34.0,
+        1008.0,
+        194.0,
+        1028.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Jewels of Gwahlur",
+      "texte_balise": "Jewels of Gwahlur",
+      "bbox": [
+        602.0,
+        1016.0,
+        762.0,
+        1036.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Frost-Giant's Daughter",
+      "texte_balise": "The Frost-Giant's Daughter",
+      "bbox": [
+        34.0,
+        1030.0,
+        262.0,
+        1052.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolves Beyond the Border",
+      "texte_balise": "Wolves Beyond the Border",
+      "bbox": [
+        604.0,
+        1040.0,
+        832.0,
+        1062.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Cimmeria (poem)",
+      "texte_balise": "Cimmeria (poem)",
+      "bbox": [
+        34.0,
+        1052.0,
+        184.0,
+        1074.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Phoenix on the Sword",
+      "texte_balise": "The Phoenix on the Sword",
+      "bbox": [
+        604.0,
+        1064.0,
+        826.0,
+        1082.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Drums of Tombalku (unfinished)",
+      "texte_balise": "Drums of Tombalku (unfinished)",
+      "bbox": [
+        32.0,
+        1076.0,
+        312.0,
+        1096.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Scarlet Citadel",
+      "texte_balise": "The Scarlet Citadel",
+      "bbox": [
+        604.0,
+        1086.0,
+        764.0,
+        1104.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hall of the Dead (synopsis)",
+      "texte_balise": "The Hall of the Dead (synopsis)",
+      "bbox": [
+        34.0,
+        1098.0,
+        298.0,
+        1120.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hour of the Dragon",
+      "texte_balise": "The Hour of the Dragon",
+      "bbox": [
+        604.0,
+        1110.0,
+        806.0,
+        1132.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Hand of Nergal (unfinished)",
+      "texte_balise": "The Hand of Nergal (unfinished)",
+      "bbox": [
+        34.0,
+        1122.0,
+        306.0,
+        1144.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Vale of Lost Women",
+      "texte_balise": "The Vale of Lost Women",
+      "bbox": [
+        34.0,
+        1146.0,
+        246.0,
+        1164.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Wolves Beyond the Border (unfinished)",
+      "texte_balise": "Wolves Beyond the Border (unfinished)",
+      "bbox": [
+        32.0,
+        1168.0,
+        366.0,
+        1190.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Snout in the Dark (unfinished)",
+      "texte_balise": "The Snout in the Dark (unfinished)",
+      "bbox": [
+        32.0,
+        1192.0,
+        324.0,
+        1212.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

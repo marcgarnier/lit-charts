@@ -1,0 +1,620 @@
+{
+  "fichier": "12_Anarcho-Syndicalism (French).jpeg",
+  "date": "2026-07-21T19:28:36.550323+00:00",
+  "taille_origine": [
+    1783,
+    1916
+  ],
+  "hauteur_ligne_mediane": 20.7,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 26,
+  "nb_noeuds": 56,
+  "tiers": [
+    "Anarcho-Syndicalistes",
+    "C'ASSIEITE AN BEURRE E",
+    "L'homme",
+    "LES MÉFAITS DES",
+    "Septentrion"
+  ],
+  "intitules_isoles": [
+    "y. griffuelhes",
+    "La Philosophie",
+    "L'homme",
+    "L'homme"
+  ],
+  "blocs": [
+    {
+      "tier": "Anarcho-Syndicalistes",
+      "bbox": [
+        36.3,
+        57.0,
+        1754.5,
+        334.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "et gauchistes couillus, proto fascistes et autres joyeusetés.",
+          "auteur": null,
+          "tier": "Anarcho-Syndicalistes"
+        },
+        {
+          "titre": "Plus besoin de lire Alain de Benoist qui vole toutes leurs idées.",
+          "auteur": null,
+          "tier": "Anarcho-Syndicalistes"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1018.9,
+        432.9,
+        1283.6,
+        527.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LE SABOTAGE",
+          "auteur": "Emile POUGET",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1497.9,
+        452.6,
+        1604.2,
+        471.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Georges Sorel",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        647.9,
+        460.6,
+        855.2,
+        548.9
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "OCTAVE MIRBEAU",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LA GREVE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DES ÉLECTEURS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "AVEC UN FLORILEGE INCIVIQUE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        272.1,
+        466.0,
+        422.4,
+        533.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "LA",
+          "auteur": "PORNOCRATIE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1446.1,
+        497.1,
+        1650.8,
+        585.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "REFLEXIONS",
+          "auteur": "SUR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1482.4,
+        784.3,
+        1619.7,
+        797.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "EDITIONS DU TRIDENT",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "C'ASSIEITE AN BEURRE E",
+      "bbox": [
+        622.0,
+        921.7,
+        901.9,
+        1051.7
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "LE GRAND SOIR",
+          "auteur": null,
+          "tier": "C'ASSIEITE AN BEURRE E"
+        },
+        {
+          "titre": "TEXTE DE PATAUD",
+          "auteur": null,
+          "tier": "C'ASSIEITE AN BEURRE E"
+        },
+        {
+          "titre": "Illustrations de A HELLE",
+          "auteur": null,
+          "tier": "C'ASSIEITE AN BEURRE E"
+        },
+        {
+          "titre": "lustrate",
+          "auteur": null,
+          "tier": "C'ASSIEITE AN BEURRE E"
+        },
+        {
+          "titre": "A. HELLE",
+          "auteur": null,
+          "tier": "C'ASSIEITE AN BEURRE E"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1041.8,
+        929.1,
+        1238.8,
+        945.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LES ETUDES CONTEMPORAINES",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        202.0,
+        931.7,
+        500.3,
+        1279.7
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "I. mercier.vega",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "I. mercier vega",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "y. griffuelhes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "anarcho-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "syndicalisme",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "syndicalisme",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "révolutionnaire",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        997.8,
+        994.1,
+        1280.3,
+        1082.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "La Philosophie",
+          "auteur": "Svndicaliste",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1412.2,
+        1032.2,
+        1581.0,
+        1092.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "L'ARGENT",
+          "auteur": "CHARLES PÉGUY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1067.7,
+        1110.8,
+        1215.4,
+        1147.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "par",
+          "auteur": "GEORGES GUY-GRAND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1062.5,
+        1289.5,
+        1161.0,
+        1318.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BERNARD",
+          "auteur": "Éditeur",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1142.9,
+        1289.5,
+        1215.4,
+        1302.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GRASSET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        344.7,
+        1305.0,
+        417.2,
+        1318.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SPARTACUS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        285.1,
+        1434.4,
+        425.0,
+        1452.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ÉDOUARD BERTH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        697.1,
+        1439.4,
+        803.4,
+        1457.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Georges Valois",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1070.3,
+        1462.9,
+        1223.2,
+        1475.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HUBERT LAGARDELLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1422.6,
+        1465.4,
+        1666.6,
+        1623.4
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "PIERRE ANDREU",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Notre Maitre.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "M. SOREL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "PREFACE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DANIEL HALEVY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "L'homme",
+      "bbox": [
+        645.3,
+        1482.9,
+        873.4,
+        1696.2
+      ],
+      "nb_lignes": 10,
+      "noeuds": [
+        {
+          "titre": "contre l'argent",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "Souvenirs de dix ans 1918-1928",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "édition présentée par Olivier Dard",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "LES ECRIVAINS DU NOUVEAU SIECLE",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "Georges Valor",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "L'homme",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "contre",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "l'argent",
+          "auteur": null,
+          "tier": "L'homme"
+        },
+        {
+          "titre": "pavenirs de dix a",
+          "auteur": null,
+          "tier": "L'homme"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1028.9,
+        1509.4,
+        1262.1,
+        1569.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "MISSION A ROME",
+          "auteur": "MUSSOLINI",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "LES MÉFAITS DES",
+      "bbox": [
+        220.3,
+        1677.8,
+        487.2,
+        1802.1
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "INTELLECTUELS",
+          "auteur": null,
+          "tier": "LES MÉFAITS DES"
+        },
+        {
+          "titre": "Préface de Georges Sorel",
+          "auteur": null,
+          "tier": "LES MÉFAITS DES"
+        },
+        {
+          "titre": "Présentation d'Alain de Benoist",
+          "auteur": null,
+          "tier": "LES MÉFAITS DES"
+        },
+        {
+          "titre": "KRISIS",
+          "auteur": null,
+          "tier": "LES MÉFAITS DES"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1093.6,
+        1732.2,
+        1205.1,
+        1758.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PARIS",
+          "auteur": "LIBRAIRIE PLON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1500.5,
+        1734.8,
+        1591.2,
+        1747.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "GRANNET",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Septentrion",
+      "bbox": [
+        772.3,
+        1773.6,
+        886.3,
+        1812.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "LIBRAIRE VALOIS",
+          "auteur": null,
+          "tier": "Septentrion"
+        },
+        {
+          "titre": "7. PLACE DE PANTAlON J",
+          "auteur": null,
+          "tier": "Septentrion"
+        }
+      ]
+    }
+  ]
+}

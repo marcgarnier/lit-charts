@@ -1,0 +1,59 @@
+{
+  "fichier": "ic_Art 3.jpeg",
+  "date": "2026-07-21T19:30:37.876712+00:00",
+  "nb_lignes_texte": 63,
+  "nb_caracteres": 802,
+  "registres_actifs": [
+    "point_entree",
+    "difficulte",
+    "prerequis"
+  ],
+  "score_total": 6,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 1,
+      "extraits": [
+        "THE HOLY TRINITY OF BEGINNER'S GUIDES"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 4,
+      "extraits": [
+        "ADVANCED ANATOMY",
+        "ADVANCED",
+        "EASY",
+        "PERSPECTIVE MADE EASY"
+      ]
+    },
+    "prerequis": {
+      "occurrences": 1,
+      "extraits": [
+        "AFTER YOU'VE READ THE FIRST 3"
+      ]
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

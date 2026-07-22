@@ -1,0 +1,54 @@
+{
+  "fichier": "05_Horror Authors.jpeg",
+  "date": "2026-07-21T19:30:37.449096+00:00",
+  "nb_lignes_texte": 195,
+  "nb_caracteres": 3426,
+  "registres_actifs": [
+    "injonction",
+    "progression"
+  ],
+  "score_total": 3,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 1,
+      "extraits": [
+        "Perchance to Dream: Selected... Don't Look Now: Selected Stories"
+      ]
+    },
+    "progression": {
+      "occurrences": 2,
+      "extraits": [
+        "The Girl Next Door",
+        "The House Next Door"
+      ]
+    }
+  }
+}

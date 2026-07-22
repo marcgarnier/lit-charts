@@ -1,0 +1,2291 @@
+{
+  "fichier": "13_Russian.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:54:32.921736+00:00",
+  "duree_s": 2.8,
+  "taille_origine": [
+    1364,
+    3394
+  ],
+  "nb_bandes": 3,
+  "nb_lignes": 207,
+  "lignes": [
+    {
+      "texte": "So you want to read",
+      "texte_balise": "So you want to read",
+      "bbox": [
+        367.5,
+        2.4,
+        660.5,
+        39.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Russian Literature",
+      "texte_balise": "Russian Literature",
+      "bbox": [
+        4.0,
+        40.0,
+        1242.0,
+        154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "19th Century:",
+      "texte_balise": "19th Century:",
+      "bbox": [
+        31.9,
+        167.1,
+        228.1,
+        200.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUEN",
+      "texte_balise": "PENGUEN",
+      "bbox": [
+        72.0,
+        226.0,
+        128.0,
+        236.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• CLASSICS",
+      "texte_balise": "• CLASSICS",
+      "bbox": [
+        130.0,
+        226.0,
+        202.0,
+        238.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIKOLAI GOGOL",
+      "texte_balise": "NIKOLAI GOGOL",
+      "bbox": [
+        564.0,
+        244.0,
+        676.0,
+        260.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIKHAIL. LERMONTOV",
+      "texte_balise": "MIKHAIL. LERMONTOV",
+      "bbox": [
+        60.0,
+        246.0,
+        212.0,
+        258.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A HERO OF OUR TIME",
+      "texte_balise": "A HERO OF OUR TIME",
+      "bbox": [
+        62.0,
+        266.0,
+        212.0,
+        280.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DIARY OF A MADMAN",
+      "texte_balise": "DIARY OF A MADMAN",
+      "bbox": [
+        546.0,
+        266.0,
+        692.0,
+        282.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND OTHER STORIES",
+      "texte_balise": "AND OTHER STORIES",
+      "bbox": [
+        552.0,
+        280.0,
+        690.0,
+        292.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "CLASSICS",
+      "texte_balise": "CLASSICS",
+      "bbox": [
+        874.0,
+        438.0,
+        936.0,
+        448.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "....",
+      "texte_balise": "....",
+      "bbox": [
+        1122.0,
+        444.0,
+        1186.0,
+        454.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TEN GUIN",
+      "texte_balise": "TEN GUIN",
+      "bbox": [
+        306.0,
+        452.0,
+        366.0,
+        462.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IVAN GONCHAROV",
+      "texte_balise": "IVAN GONCHAROV",
+      "bbox": [
+        794.0,
+        478.0,
+        918.0,
+        488.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IVAN TURGENEV",
+      "texte_balise": "IVAN TURGENEV",
+      "bbox": [
+        1054.0,
+        482.0,
+        1162.0,
+        494.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NIKOLAY GOGOL",
+      "texte_balise": "NIKOLAY GOGOL",
+      "bbox": [
+        326.0,
+        490.0,
+        438.0,
+        502.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Oblomou",
+      "texte_balise": "Oblomou",
+      "bbox": [
+        826.0,
+        495.9,
+        884.0,
+        510.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sketches from a Hunter's Album",
+      "texte_balise": "Sketches from a Hunter's Album",
+      "bbox": [
+        1008.0,
+        504.0,
+        1206.0,
+        522.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Dead Souls",
+      "texte_balise": "Dead Souls",
+      "bbox": [
+        346.0,
+        509.9,
+        418.0,
+        528.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Also translated: A Hunter's Sketches, A",
+      "texte_balise": "Also translated: A Hunter's Sketches, A",
+      "bbox": [
+        986.0,
+        526.0,
+        1208.0,
+        540.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sportsman's Sketches",
+      "texte_balise": "Sportsman's Sketches",
+      "bbox": [
+        986.0,
+        542.0,
+        1112.0,
+        554.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GREAT",
+      "texte_balise": "GREAT",
+      "bbox": [
+        632.0,
+        589.9,
+        722.0,
+        608.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolstoy",
+      "texte_balise": "Tolstoy",
+      "bbox": [
+        1119.2,
+        622.9,
+        1205.2,
+        651.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo",
+      "texte_balise": "Leo",
+      "bbox": [
+        1076.0,
+        628.0,
+        1116.0,
+        646.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SHORT",
+      "texte_balise": "SHORT",
+      "bbox": [
+        630.0,
+        631.9,
+        722.0,
+        652.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FATHERS AND SONS",
+      "texte_balise": "FATHERS AND SONS",
+      "bbox": [
+        62.0,
+        642.0,
+        194.0,
+        652.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WORKS",
+      "texte_balise": "WORKS",
+      "bbox": [
+        630.0,
+        676.0,
+        726.0,
+        696.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Leo",
+      "texte_balise": "Leo",
+      "bbox": [
+        628.0,
+        724.0,
+        708.0,
+        770.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WARIND PEACE",
+      "texte_balise": "WARIND PEACE",
+      "bbox": [
+        1032.0,
+        724.0,
+        1250.0,
+        750.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tolstoy",
+      "texte_balise": "Tolstoy",
+      "bbox": [
+        592.0,
+        768.0,
+        740.0,
+        838.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PEN QUEN",
+      "texte_balise": "PEN QUEN",
+      "bbox": [
+        818.0,
+        830.0,
+        880.0,
+        836.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Death of Ivan lych",
+      "texte_balise": "The Death of Ivan lych",
+      "bbox": [
+        584.0,
+        852.0,
+        694.0,
+        864.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Cossacks • Family Happiness",
+      "texte_balise": "The Cossacks • Family Happiness",
+      "bbox": [
+        554.0,
+        866.0,
+        710.0,
+        878.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction by Celanco Figes",
+      "texte_balise": "Introduction by Celanco Figes",
+      "bbox": [
+        1084.0,
+        866.0,
+        1196.0,
+        872.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LEO TOLSTOY",
+      "texte_balise": "LEO TOLSTOY",
+      "bbox": [
+        852.0,
+        868.0,
+        946.0,
+        880.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ivan TURGENEV",
+      "texte_balise": "Ivan TURGENEV",
+      "bbox": [
+        74.0,
+        870.0,
+        182.0,
+        880.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Devil - The Krentver Sonata",
+      "texte_balise": "The Devil - The Krentver Sonata",
+      "bbox": [
+        564.0,
+        880.0,
+        714.0,
+        892.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail Saltykov-Schedrin:",
+      "texte_balise": "Mikhail Saltykov-Schedrin:",
+      "bbox": [
+        250.0,
+        882.0,
+        482.0,
+        902.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Anna Karenina",
+      "texte_balise": "Anna Karenina",
+      "bbox": [
+        863.9,
+        887.7,
+        938.1,
+        902.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANN PASTERNAX SLATER",
+      "texte_balise": "ANN PASTERNAX SLATER",
+      "bbox": [
+        70.0,
+        890.0,
+        186.0,
+        900.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Master and Man • Fether Sergius • Hadji Murad",
+      "texte_balise": "Master and Man • Fether Sergius • Hadji Murad",
+      "bbox": [
+        526.0,
+        894.0,
+        750.0,
+        906.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The History of a Town,",
+      "texte_balise": "The History of a Town,",
+      "bbox": [
+        252.0,
+        904.0,
+        450.0,
+        924.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Alyosha the Pot",
+      "texte_balise": "Alyosha the Pot",
+      "bbox": [
+        602.0,
+        908.0,
+        674.0,
+        920.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Golovlyov Family",
+      "texte_balise": "The Golovlyov Family",
+      "bbox": [
+        250.0,
+        926.0,
+        438.0,
+        946.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BROTHERS",
+      "texte_balise": "BROTHERS",
+      "bbox": [
+        782.0,
+        1014.0,
+        952.0,
+        1060.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& NEW TRANSITON BY RICHARD PEVENT AND",
+      "texte_balise": "& NEW TRANSITON BY RICHARD PEVENT AND",
+      "bbox": [
+        28.0,
+        1022.0,
+        226.0,
+        1032.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NEW TRANSECTION BY RICHARD PEVEN AND",
+      "texte_balise": "A NEW TRANSECTION BY RICHARD PEVEN AND",
+      "bbox": [
+        28.8,
+        1022.9,
+        226.0,
+        1033.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOEVSKY",
+      "texte_balise": "FYODOR DOSTOEVSKY",
+      "bbox": [
+        566.0,
+        1046.0,
+        712.0,
+        1060.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        748.0,
+        1046.0,
+        776.0,
+        1058.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "or cerns alone s",
+      "texte_balise": "or cerns alone s",
+      "bbox": [
+        143.8,
+        1049.6,
+        223.9,
+        1054.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "KARAMAZOY",
+      "texte_balise": "KARAMAZOY",
+      "bbox": [
+        734.4,
+        1058.5,
+        947.1,
+        1115.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KARAMAZOV",
+      "texte_balise": "KARAMAZOV",
+      "bbox": [
+        744.0,
+        1060.0,
+        952.0,
+        1106.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The",
+      "texte_balise": "The",
+      "bbox": [
+        586.0,
+        1142.0,
+        612.0,
+        1154.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "IDIOT",
+      "texte_balise": "IDIOT",
+      "bbox": [
+        568.0,
+        1158.0,
+        626.0,
+        1182.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEMONS",
+      "texte_balise": "DEMONS",
+      "bbox": [
+        1012.0,
+        1174.0,
+        1194.0,
+        1202.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES",
+      "texte_balise": "NOTES",
+      "bbox": [
+        90.0,
+        1176.0,
+        176.0,
+        1192.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "growerared",
+      "texte_balise": "growerared",
+      "bbox": [
+        850.0,
+        1218.0,
+        914.0,
+        1228.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FROM",
+      "texte_balise": "FROM",
+      "bbox": [
+        98.0,
+        1221.8,
+        168.0,
+        1238.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-HE NEV TERCTAGEBYMIAES",
+      "texte_balise": "-HE NEV TERCTAGEBYMIAES",
+      "bbox": [
+        842.2,
+        1227.8,
+        922.3,
+        1236.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "FYODOR",
+      "texte_balise": "FYODOR",
+      "bbox": [
+        1011.9,
+        1243.4,
+        1080.1,
+        1258.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DOSTOEVSKY",
+      "texte_balise": "DOSTOEVSKY",
+      "bbox": [
+        1080.0,
+        1244.0,
+        1190.0,
+        1258.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOEVSKY",
+      "texte_balise": "FYODOR DOSTOEVSKY",
+      "bbox": [
+        1010.7,
+        1244.7,
+        1189.4,
+        1257.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW TRANSLATION BY",
+      "texte_balise": "THE NEW TRANSLATION BY",
+      "bbox": [
+        511.5,
+        1252.8,
+        614.2,
+        1263.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE NEW TRANSLATION BI",
+      "texte_balise": "THE NEW TRANSLATION BI",
+      "bbox": [
+        512.0,
+        1254.0,
+        616.0,
+        1262.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "VER",
+      "texte_balise": "VER",
+      "bbox": [
+        1041.5,
+        1263.2,
+        1072.3,
+        1271.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RICHARD PEYEAR",
+      "texte_balise": "RICHARD PEYEAR",
+      "bbox": [
+        529.9,
+        1266.7,
+        597.9,
+        1280.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "UNDERGROUND",
+      "texte_balise": "UNDERGROUND",
+      "bbox": [
+        30.8,
+        1267.3,
+        223.9,
+        1283.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOEVSKY",
+      "texte_balise": "FYODOR DOSTOEVSKY",
+      "bbox": [
+        741.6,
+        1271.4,
+        957.3,
+        1298.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FYODOR DOSTOYEVSKY",
+      "texte_balise": "FYODOR DOSTOYEVSKY",
+      "bbox": [
+        295.8,
+        1277.5,
+        449.9,
+        1289.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Crime and Punishment",
+      "texte_balise": "Crime and Punishment",
+      "bbox": [
+        314.3,
+        1293.8,
+        431.4,
+        1308.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OKHONSKY",
+      "texte_balise": "OKHONSKY",
+      "bbox": [
+        569.0,
+        1300.1,
+        610.1,
+        1308.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "TRANSLATE ACTED INSA BY A CHARD PEVEN AND LARISSA WOOHOUSAY",
+      "texte_balise": "TRANSLATE ACTED INSA BY A CHARD PEVEN AND LARISSA WOOHOUSAY",
+      "bbox": [
+        743.6,
+        1303.8,
+        955.2,
+        1314.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "B8e Fypdor Dostoevsky M",
+      "texte_balise": "B8e Fypdor Dostoevsky M",
+      "bbox": [
+        28.8,
+        1312.4,
+        223.9,
+        1326.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "*AKA: The Possessed",
+      "texte_balise": "*AKA: The Possessed",
+      "bbox": [
+        994.2,
+        1322.7,
+        1160.6,
+        1337.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Short Stories By Chekhov",
+      "texte_balise": "Short Stories By Chekhov",
+      "bbox": [
+        513.6,
+        1365.7,
+        714.9,
+        1384.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PENGUIN @",
+      "texte_balise": "PENGUIN @",
+      "bbox": [
+        324.4,
+        1379.5,
+        398.7,
+        1395.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(there are a million different",
+      "texte_balise": "(there are a million different",
+      "bbox": [
+        515.4,
+        1382.7,
+        743.8,
+        1402.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANTON CHEKHOV",
+      "texte_balise": "ANTON CHEKHOV",
+      "bbox": [
+        322.5,
+        1402.7,
+        464.3,
+        1419.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "collections, but whichever you",
+      "texte_balise": "collections, but whichever you",
+      "bbox": [
+        515.6,
+        1404.7,
+        753.9,
+        1423.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "А.С. ГРИБОЕДОВ",
+      "texte_balise": "А.С. ГРИБОЕДОВ",
+      "bbox": [
+        63.7,
+        1414.7,
+        234.2,
+        1433.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "choose should have at least",
+      "texte_balise": "choose should have at least",
+      "bbox": [
+        515.6,
+        1425.4,
+        737.5,
+        1439.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PLAYS",
+      "texte_balise": "PLAYS",
+      "bbox": [
+        367.6,
+        1427.1,
+        419.2,
+        1444.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ALEXANDER",
+      "texte_balise": "ALEXANDER",
+      "bbox": [
+        926.5,
+        1431.6,
+        1004.5,
+        1441.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ГОРЕ ОТ УМА",
+      "texte_balise": "ГОРЕ ОТ УМА",
+      "bbox": [
+        61.6,
+        1445.7,
+        195.2,
+        1464.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "some of these):",
+      "texte_balise": "some of these):",
+      "bbox": [
+        515.6,
+        1445.7,
+        638.9,
+        1462.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A.S. GRIBOYEDOV",
+      "texte_balise": "A.S. GRIBOYEDOV",
+      "bbox": [
+        63.7,
+        1480.7,
+        230.1,
+        1499.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Ward No. 6\"",
+      "texte_balise": "\"Ward No. 6\"",
+      "bbox": [
+        515.6,
+        1482.7,
+        626.5,
+        1499.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Lady with the Little Dog\"",
+      "texte_balise": "\"The Lady with the Little Dog\"",
+      "bbox": [
+        513.6,
+        1503.4,
+        749.8,
+        1526.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        934.7,
+        1507.6,
+        990.1,
+        1524.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "WOE FROM WIT",
+      "texte_balise": "WOE FROM WIT",
+      "bbox": [
+        63.7,
+        1509.6,
+        207.5,
+        1528.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The House with the",
+      "texte_balise": "\"The House with the",
+      "bbox": [
+        515.6,
+        1523.6,
+        675.8,
+        1540.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COLLECTED",
+      "texte_balise": "COLLECTED",
+      "bbox": [
+        883.3,
+        1532.2,
+        1039.4,
+        1548.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mezzanine\"",
+      "texte_balise": "Mezzanine\"",
+      "bbox": [
+        515.6,
+        1544.5,
+        610.1,
+        1558.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORIES",
+      "texte_balise": "STORIES",
+      "bbox": [
+        905.9,
+        1556.8,
+        1020.9,
+        1575.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Bishop\"",
+      "texte_balise": "\"The Bishop\"",
+      "bbox": [
+        513.6,
+        1562.6,
+        620.4,
+        1585.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Betrothed\" (also: Fiancée)",
+      "texte_balise": "\"The Betrothed\" (also: Fiancée)",
+      "bbox": [
+        515.6,
+        1585.6,
+        758.0,
+        1602.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"Anna on the Neck\"",
+      "texte_balise": "\"Anna on the Neck\"",
+      "bbox": [
+        515.6,
+        1604.1,
+        675.8,
+        1620.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Black Monk\"",
+      "texte_balise": "\"The Black Monk\"",
+      "bbox": [
+        515.6,
+        1624.6,
+        659.4,
+        1639.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Man in the Case/Shell,",
+      "texte_balise": "\"The Man in the Case/Shell,",
+      "bbox": [
+        515.6,
+        1645.2,
+        737.5,
+        1661.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Gooseberries, About Love\"",
+      "texte_balise": "Gooseberries, About Love\"",
+      "bbox": [
+        517.7,
+        1663.5,
+        729.2,
+        1682.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "(interrelated trilogy)",
+      "texte_balise": "(interrelated trilogy)",
+      "bbox": [
+        513.6,
+        1686.2,
+        675.8,
+        1704.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "EDITED WITH INTRODUCTION, DIBLOGRAPHY",
+      "texte_balise": "EDITED WITH INTRODUCTION, DIBLOGRAPHY",
+      "bbox": [
+        67.8,
+        1698.5,
+        226.0,
+        1708.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The Darling\"",
+      "texte_balise": "\"The Darling\"",
+      "bbox": [
+        515.6,
+        1702.5,
+        624.5,
+        1723.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& VOCABULARY BY RICHARD PEACE",
+      "texte_balise": "& VOCABULARY BY RICHARD PEACE",
+      "bbox": [
+        65.7,
+        1706.5,
+        193.1,
+        1717.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"In the Ravine\"",
+      "texte_balise": "\"In the Ravine\"",
+      "bbox": [
+        515.6,
+        1723.2,
+        636.8,
+        1739.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTES BY E.P. COSTELIO",
+      "texte_balise": "NOTES BY E.P. COSTELIO",
+      "bbox": [
+        65.7,
+        1725.3,
+        154.1,
+        1735.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "20th Century:",
+      "texte_balise": "20th Century:",
+      "bbox": [
+        22.6,
+        1764.3,
+        221.9,
+        1795.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BORIS PASTERNAK",
+      "texte_balise": "BORIS PASTERNAK",
+      "bbox": [
+        1064.1,
+        1803.3,
+        1312.6,
+        1828.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Mikhail Bulgakor",
+      "texte_balise": "Mikhail Bulgakor",
+      "bbox": [
+        870.9,
+        1808.8,
+        1031.3,
+        1841.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vasily Grossman",
+      "texte_balise": "Vasily Grossman",
+      "bbox": [
+        115.0,
+        1834.1,
+        199.3,
+        1846.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The MASTER",
+      "texte_balise": "The MASTER",
+      "bbox": [
+        550.5,
+        1836.2,
+        741.6,
+        1860.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LIFE AND FATE",
+      "texte_balise": "LIFE AND FATE",
+      "bbox": [
+        96.5,
+        1862.4,
+        217.7,
+        1875.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "0 22",
+      "texte_balise": "0 22",
+      "bbox": [
+        628.6,
+        1875.2,
+        653.2,
+        1885.4
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "MARGARITA",
+      "texte_balise": "MARGARITA",
+      "bbox": [
+        542.3,
+        1893.7,
+        749.8,
+        1918.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Aleksandr",
+      "texte_balise": "Aleksandr",
+      "bbox": [
+        279.2,
+        1915.2,
+        476.8,
+        1958.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Solzhenitsyn",
+      "texte_balise": "Solzhenitsyn",
+      "bbox": [
+        274.8,
+        1955.2,
+        507.9,
+        1996.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "One Day A",
+      "texte_balise": "One Day A",
+      "bbox": [
+        279.1,
+        1989.0,
+        435.7,
+        2024.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in the Life of",
+      "texte_balise": "in the Life of",
+      "bbox": [
+        281.3,
+        2014.0,
+        448.0,
+        2046.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ivan Denisoyich",
+      "texte_balise": "ivan Denisoyich",
+      "bbox": [
+        277.3,
+        2037.3,
+        503.3,
+        2074.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Heart",
+      "texte_balise": "Heart",
+      "bbox": [
+        803.2,
+        2045.6,
+        910.0,
+        2084.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Doctor",
+      "texte_balise": "Doctor",
+      "bbox": [
+        1105.2,
+        2047.7,
+        1277.7,
+        2086.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ofa Dog",
+      "texte_balise": "ofa Dog",
+      "bbox": [
+        800.5,
+        2086.9,
+        960.0,
+        2148.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TOARITA HAS AT LAST BEEN",
+      "texte_balise": "TOARITA HAS AT LAST BEEN",
+      "bbox": [
+        636.8,
+        2088.8,
+        733.4,
+        2095.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zhivago",
+      "texte_balise": "Zhivago",
+      "bbox": [
+        1073.4,
+        2092.5,
+        1302.8,
+        2147.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "toio Saea an",
+      "texte_balise": "toio Saea an",
+      "bbox": [
+        114.0,
+        2127.0,
+        192.0,
+        2133.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "REAT WORK\"-CHICAGO TRIUME",
+      "texte_balise": "REAT WORK\"-CHICAGO TRIUME",
+      "bbox": [
+        622.4,
+        2127.8,
+        741.6,
+        2134.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "-CHICADO TAIRUNG",
+      "texte_balise": "-CHICADO TAIRUNG",
+      "bbox": [
+        674.0,
+        2129.0,
+        742.0,
+        2135.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of the recotieth coreuny\"",
+      "texte_balise": "of the recotieth coreuny\"",
+      "bbox": [
+        118.0,
+        2135.0,
+        192.0,
+        2145.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "*The auther uf Tie",
+      "texte_balise": "*The auther uf Tie",
+      "bbox": [
+        792.9,
+        2144.2,
+        868.9,
+        2154.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "\"The author uf Tớc Kanier ead Harturhe and trarr o' e na:",
+      "texte_balise": "\"The author uf Tớc Kanier ead Harturhe and trarr o' e na:",
+      "bbox": [
+        794.0,
+        2147.0,
+        1038.0,
+        2153.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIKHAIL BULGAKOV",
+      "texte_balise": "MIKHAIL BULGAKOV",
+      "bbox": [
+        544.4,
+        2154.2,
+        745.7,
+        2167.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduction by JOHN BAYLEY",
+      "texte_balise": "Introduction by JOHN BAYLEY",
+      "bbox": [
+        1078.5,
+        2154.2,
+        1298.3,
+        2169.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MIKHAIL",
+      "texte_balise": "MIKHAIL",
+      "bbox": [
+        544.0,
+        2155.0,
+        634.0,
+        2167.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BULGAKOV",
+      "texte_balise": "BULGAKOV",
+      "bbox": [
+        640.0,
+        2155.0,
+        746.0,
+        2167.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bancorahe feutraly arest writers produced bo",
+      "texte_balise": "bancorahe feutraly arest writers produced bo",
+      "bbox": [
+        815.5,
+        2158.2,
+        1012.7,
+        2165.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "bORee bEM LratT brcalkriters producca by",
+      "texte_balise": "bORee bEM LratT brcalkriters producca by",
+      "bbox": [
+        818.0,
+        2161.0,
+        1014.0,
+        2167.0
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "TRAIGLATO BE DINA BURGH AND KATHERINE TIERNAN O'CONNOR",
+      "texte_balise": "TRAIGLATO BE DINA BURGH AND KATHERINE TIERNAN O'CONNOR",
+      "bbox": [
+        544.4,
+        2166.8,
+        743.6,
+        2177.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAIGLATEO BR DIANA BURGRL AND KATHENINE TIERNAN O'CONNCA",
+      "texte_balise": "TRAIGLATEO BR DIANA BURGRL AND KATHENINE TIERNAN O'CONNCA",
+      "bbox": [
+        546.0,
+        2169.0,
+        744.0,
+        2179.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the saviet tininn -tulurday Nirlen",
+      "texte_balise": "the saviet tininn -tulurday Nirlen",
+      "bbox": [
+        842.0,
+        2171.0,
+        992.0,
+        2179.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Axii Totor",
+      "texte_balise": "Axii Totor",
+      "bbox": [
+        528.0,
+        2216.9,
+        614.0,
+        2242.9
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "THE GARIW",
+      "texte_balise": "THE GARIW",
+      "bbox": [
+        530.0,
+        2248.8,
+        614.0,
+        2273.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE GARIN",
+      "texte_balise": "THE GARIN",
+      "bbox": [
+        530.0,
+        2249.0,
+        614.2,
+        2274.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COLLECTED",
+      "texte_balise": "COLLECTED",
+      "bbox": [
+        378.0,
+        2275.7,
+        495.1,
+        2292.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "DEATH RAY",
+      "texte_balise": "DEATH RAY",
+      "bbox": [
+        530.0,
+        2279.7,
+        614.2,
+        2306.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETERSBURG",
+      "texte_balise": "PETERSBURG",
+      "bbox": [
+        1084.6,
+        2292.1,
+        1288.0,
+        2322.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "STORIES of",
+      "texte_balise": "STORIES of",
+      "bbox": [
+        375.9,
+        2298.0,
+        474.6,
+        2319.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ivan,",
+      "texte_balise": "Ivan,",
+      "bbox": [
+        338.9,
+        2312.6,
+        499.2,
+        2372.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ivan",
+      "texte_balise": "Ivan",
+      "bbox": [
+        329.6,
+        2314.2,
+        488.8,
+        2382.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREI BELY",
+      "texte_balise": "ANDREI BELY",
+      "bbox": [
+        1090.8,
+        2329.1,
+        1288.0,
+        2358.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Bunın",
+      "texte_balise": "Bunın",
+      "bbox": [
+        274.0,
+        2352.8,
+        490.0,
+        2432.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MICHAIL SHOLOKHOY",
+      "texte_balise": "MICHAIL SHOLOKHOY",
+      "bbox": [
+        18.0,
+        2382.8,
+        256.0,
+        2416.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Transatol, monfitol, aud introdinc",
+      "texte_balise": "Transatol, monfitol, aud introdinc",
+      "bbox": [
+        1110.0,
+        2426.8,
+        1246.0,
+        2436.8
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Robert A. Maguire and",
+      "texte_balise": "Robert A. Maguire and",
+      "bbox": [
+        1112.0,
+        2450.7,
+        1256.0,
+        2468.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Quiet",
+      "texte_balise": "Quiet",
+      "bbox": [
+        26.0,
+        2460.7,
+        120.0,
+        2484.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Plows",
+      "texte_balise": "Plows",
+      "bbox": [
+        124.0,
+        2464.7,
+        226.0,
+        2496.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "RA-CAICO TOR TL TAN WIT AN THOR",
+      "texte_balise": "RA-CAICO TOR TL TAN WIT AN THOR",
+      "bbox": [
+        298.0,
+        2464.7,
+        486.0,
+        2468.7
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Grabam Hettlinger",
+      "texte_balise": "Grabam Hettlinger",
+      "bbox": [
+        383.5,
+        2474.9,
+        488.4,
+        2493.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "John E. Malmstad",
+      "texte_balise": "John E. Malmstad",
+      "bbox": [
+        1115.9,
+        2476.1,
+        1230.1,
+        2497.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "the Don",
+      "texte_balise": "the Don",
+      "bbox": [
+        121.8,
+        2501.9,
+        244.2,
+        2535.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YEVGENY ZAMYATIN",
+      "texte_balise": "YEVGENY ZAMYATIN",
+      "bbox": [
+        836.0,
+        2510.7,
+        966.0,
+        2522.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vie",
+      "texte_balise": "Vie",
+      "bbox": [
+        892.0,
+        2532.7,
+        910.0,
+        2546.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ASCHOOL FOR FOOLS",
+      "texte_balise": "ASCHOOL FOR FOOLS",
+      "bbox": [
+        536.0,
+        2606.6,
+        800.0,
+        2638.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SASHA SOKOLOV",
+      "texte_balise": "SASHA SOKOLOV",
+      "bbox": [
+        570.0,
+        2642.6,
+        768.0,
+        2668.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE",
+      "texte_balise": "THE",
+      "bbox": [
+        1234.0,
+        2650.6,
+        1258.0,
+        2662.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COMPLETE WORKS",
+      "texte_balise": "COMPLETE WORKS",
+      "bbox": [
+        1198.0,
+        2672.6,
+        1294.0,
+        2684.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "OF",
+      "texte_balise": "OF",
+      "bbox": [
+        1234.0,
+        2692.6,
+        1254.0,
+        2708.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE FOUNDATION",
+      "texte_balise": "THE FOUNDATION",
+      "bbox": [
+        76.0,
+        2710.5,
+        186.0,
+        2722.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ENVY",
+      "texte_balise": "ENVY",
+      "bbox": [
+        366.0,
+        2710.5,
+        404.0,
+        2722.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ISAAC",
+      "texte_balise": "ISAAC",
+      "bbox": [
+        1195.7,
+        2711.6,
+        1296.3,
+        2741.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PIT",
+      "texte_balise": "PIT",
+      "bbox": [
+        118.0,
+        2726.5,
+        142.0,
+        2740.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YURI OLESHA",
+      "texte_balise": "YURI OLESHA",
+      "bbox": [
+        344.0,
+        2726.5,
+        426.0,
+        2740.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ANDREY PLATONOV",
+      "texte_balise": "ANDREY PLATONOV",
+      "bbox": [
+        72.0,
+        2746.5,
+        190.0,
+        2758.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "BABEL",
+      "texte_balise": "BABEL",
+      "bbox": [
+        1197.9,
+        2748.2,
+        1296.1,
+        2776.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "A NEW TRANSUATION BY",
+      "texte_balise": "A NEW TRANSUATION BY",
+      "bbox": [
+        334.0,
+        2756.5,
+        436.0,
+        2766.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MARIAN SCHWARTZ",
+      "texte_balise": "MARIAN SCHWARTZ",
+      "bbox": [
+        344.0,
+        2766.5,
+        428.0,
+        2778.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRANSCATED BY",
+      "texte_balise": "TRANSCATED BY",
+      "bbox": [
+        96.0,
+        2774.5,
+        166.0,
+        2782.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "INTRODUCTICN BV",
+      "texte_balise": "INTRODUCTICN BV",
+      "bbox": [
+        346.0,
+        2782.5,
+        424.0,
+        2792.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ROBERT CHANDLER.",
+      "texte_balise": "ROBERT CHANDLER.",
+      "bbox": [
+        90.0,
+        2784.5,
+        172.0,
+        2794.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KEN KALFUS",
+      "texte_balise": "KEN KALFUS",
+      "bbox": [
+        358.0,
+        2794.5,
+        412.0,
+        2804.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "tETEe Br",
+      "texte_balise": "tETEe Br",
+      "bbox": [
+        1230.0,
+        2794.5,
+        1258.0,
+        2802.5
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ELIZABETH CHANDLER,",
+      "texte_balise": "ELIZABETH CHANDLER,",
+      "bbox": [
+        84.0,
+        2796.5,
+        176.0,
+        2806.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "MATHALIE SABEL",
+      "texte_balise": "MATHALIE SABEL",
+      "bbox": [
+        1206.0,
+        2802.5,
+        1284.0,
+        2814.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "AND OLGA MEERSON",
+      "texte_balise": "AND OLGA MEERSON",
+      "bbox": [
+        88.0,
+        2806.5,
+        172.0,
+        2816.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "PETER CONSTENTINE",
+      "texte_balise": "PETER CONSTENTINE",
+      "bbox": [
+        1210.0,
+        2828.4,
+        1280.0,
+        2838.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "citi a isiicsaiiits",
+      "texte_balise": "citi a isiicsaiiits",
+      "bbox": [
+        1212.0,
+        2844.4,
+        1278.0,
+        2848.4
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "Esp. Odessa Tales",
+      "texte_balise": "Esp. Odessa Tales",
+      "bbox": [
+        1104.0,
+        2942.4,
+        1260.0,
+        2962.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Vladimir Nabokov",
+      "texte_balise": "Vladimir Nabokov",
+      "bbox": [
+        856.0,
+        2958.3,
+        954.0,
+        2970.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Invitation to a Beheading",
+      "texte_balise": "Invitation to a Beheading",
+      "bbox": [
+        856.0,
+        2978.3,
+        996.0,
+        2990.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TODAY",
+      "texte_balise": "TODAY",
+      "bbox": [
+        523.9,
+        3026.0,
+        666.1,
+        3054.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ROADSIDE PICNIC",
+      "texte_balise": "ROADSIDE PICNIC",
+      "bbox": [
+        802.0,
+        3030.3,
+        1006.0,
+        3056.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Two outstanding short novels by",
+      "texte_balise": "Two outstanding short novels by",
+      "bbox": [
+        824.0,
+        3060.3,
+        984.0,
+        3070.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "I WROTE",
+      "texte_balise": "I WROTE",
+      "bbox": [
+        524.0,
+        3066.3,
+        724.0,
+        3096.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "today's most popular Russian SF writers",
+      "texte_balise": "today's most popular Russian SF writers",
+      "bbox": [
+        802.0,
+        3070.3,
+        1006.0,
+        3082.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TALE OF THE TROIKA",
+      "texte_balise": "TALE OF THE TROIKA",
+      "bbox": [
+        794.0,
+        3086.2,
+        1012.0,
+        3114.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTHING",
+      "texte_balise": "NOTHING",
+      "bbox": [
+        524.0,
+        3106.2,
+        728.0,
+        3138.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arkady and Boris Strugalsky",
+      "texte_balise": "Arkady and Boris Strugalsky",
+      "bbox": [
+        830.0,
+        3118.2,
+        974.0,
+        3134.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Introduetien by",
+      "texte_balise": "Introduetien by",
+      "bbox": [
+        874.0,
+        3130.2,
+        932.0,
+        3142.2
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Theodore Sturgeon",
+      "texte_balise": "Theodore Sturgeon",
+      "bbox": [
+        860.0,
+        3138.2,
+        946.0,
+        3148.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KANGAROO,",
+      "texte_balise": "KANGAROO,",
+      "bbox": [
+        262.0,
+        3140.2,
+        484.0,
+        3172.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "YUZ ALESHKOVSKY",
+      "texte_balise": "YUZ ALESHKOVSKY",
+      "bbox": [
+        264.0,
+        3192.2,
+        472.0,
+        3212.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE SELECTED WRITINGS OF",
+      "texte_balise": "THE SELECTED WRITINGS OF",
+      "bbox": [
+        526.0,
+        3250.1,
+        676.0,
+        3260.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Tim Nanas la ani ul e Carsiile, a Soluaik, a 1904.",
+      "texte_balise": "Tim Nanas la ani ul e Carsiile, a Soluaik, a 1904.",
+      "bbox": [
+        272.0,
+        3264.1,
+        464.0,
+        3270.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "DANIIL",
+      "texte_balise": "DANIIL",
+      "bbox": [
+        525.7,
+        3270.5,
+        682.3,
+        3301.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "_NAa Yorzime",
+      "texte_balise": "_NAa Yorzime",
+      "bbox": [
+        330.0,
+        3274.1,
+        404.0,
+        3278.1
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "VARLAM SHALAMOV",
+      "texte_balise": "VARLAM SHALAMOV",
+      "bbox": [
+        56.0,
+        3292.1,
+        188.0,
+        3304.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "KHARMS",
+      "texte_balise": "KHARMS",
+      "bbox": [
+        524.0,
+        3312.1,
+        712.0,
+        3344.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Kolyma Tales",
+      "texte_balise": "Kolyma Tales",
+      "bbox": [
+        79.8,
+        3317.0,
+        164.2,
+        3337.1
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

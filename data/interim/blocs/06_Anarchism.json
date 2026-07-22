@@ -1,0 +1,466 @@
+{
+  "fichier": "06_Anarchism.jpeg",
+  "date": "2026-07-21T19:28:36.401864+00:00",
+  "taille_origine": [
+    640,
+    1280
+  ],
+  "hauteur_ligne_mediane": 14.0,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 2,
+  "nb_noeuds": 72,
+  "tiers": [
+    "Classics"
+  ],
+  "intitules_isoles": [
+    "Classics",
+    "Pierre Proudhon: What Is Property?",
+    "Alexander Berkman: What is Anarchism?",
+    "Max Stimer: The Ego and Its Own",
+    "Mikhail Bakunin: God and State",
+    "Peter Kropotkin : The Conquest of Bread",
+    "Emma Goldman: Anarchism and Other Essays",
+    "Max Stimer : Stirer's Critics",
+    "Leo Tolstoy: Kingdom of God is Within You",
+    "Libertarian Socialism / Social Anarchism",
+    "Noam Chomsky: Manufacturing Consent",
+    "Murray Bookchin: Social Anarchism or Lifestyle Anarchism",
+    "Murray Bookchin: The Ecology of Freedom",
+    "Abdullah Ocalan: Democratic Confederalism",
+    "David Graeber: Debt the 1st 5000 years",
+    "Individualism and Mutualism",
+    "Kevin Carson: Studies in Mutualist Political Economy",
+    "William B. Greene: Mutual Banking",
+    "Benjamin Tucker: Instead Of A Book, By A Man Too Busy To Write One",
+    "Lysander Spooner: Vices Are Not Crimes: A vindication of Moral Liberty",
+    "Emile Armand: Anarchist Individualism and Amorous Comradeship",
+    "Communism and Syndicalism",
+    "Errico Malatesia At The Cale",
+    "Rudolf Rocker: Anarchosyndicalism. Theory and Practice",
+    "Rudolf Rocker: Anarchism and AnarchoSyndicalism",
+    "Nestor Makhno The Struggle Against the State and Other Essays",
+    "Insurrectionalism",
+    "Renzo Novatore: Toward the Creative Nothing",
+    "Alfredo Bonnano: Armed Joy",
+    "The Invisible Comitee: The Coming Insurrection",
+    "CCF/FIA: Anarchy - Civil or Subversive?",
+    "CCF/FIA: Individuality and the anarchist group",
+    "CCF/FIA: A Conversation between Anarchists",
+    "Anonymous: At Daggers Drawn with the Existent, Its Defenders and its False Crilics",
+    "Post-left Anarchism",
+    "Bob Black: The Abolition of Work",
+    "Feral Faun: Feral Revolution",
+    "Jason McQuinn: Critical Self-Theory",
+    "Larry Law: Revolutionary Self Theory",
+    "For Ourselfs: The Right To Be Greedy",
+    "Lawrence Jarach: Anarchists. Don't let the Leftovers) Ruin your Appetite",
+    "Lupus Dragonowl: Against Identity Politics",
+    "Transhumanism",
+    "McKencie Wark A Hacker Manifesto",
+    "Andy Cameron: The Callfornian Ideology",
+    "Green Anarchy",
+    "Fredy Perlman: Against His-Story, Against Leviathan",
+    "Ted Kazcynzki: Technological Slavery",
+    "Ted Kaczynski: Anti-Tech Revolution: Why and How",
+    "Anonymous: Desert",
+    "Jacques Camatte: Against Domestication",
+    "Henry David Thoreau: Walden",
+    "Nihilism",
+    "Aragorn!.: Anarchy, Nihilism, and the 21st Century",
+    "Aragoni: Anarchy and Nihilism: Consequences",
+    "Monsieur Dupont : Nihilist Communism",
+    "Serafsinski: Blessed is the Flame: An Introduction to Anarcho-Nihilism and Concentration Camp Resistance",
+    "Sergey Nechayev: The Revolutionary Catechism",
+    "Lauren Berlant: Cruel Optimism",
+    "Lee Edelman No Future: Queer Theory and the Death Drive",
+    "Aragorl: Attentat",
+    "8ch.net/anarcho/"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        98.0,
+        16.0,
+        544.0,
+        50.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANARCHISM READING LIST",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Classics",
+      "bbox": [
+        15.9,
+        128.0,
+        638.0,
+        1274.0
+      ],
+      "nb_lignes": 72,
+      "noeuds": [
+        {
+          "titre": "What Is Property?",
+          "auteur": "Pierre Proudhon",
+          "tier": "Classics"
+        },
+        {
+          "titre": "What is Anarchism?",
+          "auteur": "Alexander Berkman",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Ego and Its Own",
+          "auteur": "Max Stimer",
+          "tier": "Classics"
+        },
+        {
+          "titre": "God and State",
+          "auteur": "Mikhail Bakunin",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Conquest of Bread",
+          "auteur": "Peter Kropotkin",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Hommage to Catalonia",
+          "auteur": "Georges Orwell",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchy",
+          "auteur": "Errico Malatesta",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchism and Other Essays",
+          "auteur": "Emma Goldman",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Stirer's Critics",
+          "auteur": "Max Stimer",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Kingdom of God is Within You",
+          "auteur": "Leo Tolstoy",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Libertarian Socialism / Social Anarchism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Manufacturing Consent",
+          "auteur": "Noam Chomsky",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Social Anarchism or Lifestyle Anarchism",
+          "auteur": "Murray Bookchin",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Ecology of Freedom",
+          "auteur": "Murray Bookchin",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Democratic Confederalism",
+          "auteur": "Abdullah Ocalan",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Debt the 1st 5000 years",
+          "auteur": "David Graeber",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Individualism and Mutualism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Studies in Mutualist Political Economy",
+          "auteur": "Kevin Carson",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Mutual Banking",
+          "auteur": "William B. Greene",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Instead Of A Book, By A Man Too Busy To Write One",
+          "auteur": "Benjamin Tucker",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Vices Are Not Crimes: A vindication of Moral Liberty",
+          "auteur": "Lysander Spooner",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchist Individualism and Amorous Comradeship",
+          "auteur": "Emile Armand",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Communism and Syndicalism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Nestor Makhno 1 Organisalional Platform of the General Union of Anarchists (Draft)",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchism & Anarchist communism",
+          "auteur": "Peter Kropotkin",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Errico Malatesia At The Cale",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchosyndicalism. Theory and Practice",
+          "auteur": "Rudolf Rocker",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchism and AnarchoSyndicalism",
+          "auteur": "Rudolf Rocker",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Nestor Makhno The Struggle Against the State and Other Essays",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Insurrectionalism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Toward the Creative Nothing",
+          "auteur": "Renzo Novatore",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Armed Joy",
+          "auteur": "Alfredo Bonnano",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Coming Insurrection",
+          "auteur": "The Invisible Comitee",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Willful Disobedience",
+          "auteur": "Wolll Landstreicher",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Say You Want an Insurrection",
+          "auteur": "Crimethinc",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchy - Civil or Subversive?",
+          "auteur": "CCF/FIA",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Individuality and the anarchist group",
+          "auteur": "CCF/FIA",
+          "tier": "Classics"
+        },
+        {
+          "titre": "A Conversation between Anarchists",
+          "auteur": "CCF/FIA",
+          "tier": "Classics"
+        },
+        {
+          "titre": "At Daggers Drawn with the Existent, Its Defenders and its False Crilics",
+          "auteur": "Anonymous",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Post-left Anarchism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Abolition of Work",
+          "auteur": "Bob Black",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Feral Revolution",
+          "auteur": "Feral Faun",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchy After Leftism",
+          "auteur": "Bob Black",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Post-Left Anarchy: Leaving the Left Behind",
+          "auteur": "Jason McQuinn",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Critical Self-Theory",
+          "auteur": "Jason McQuinn",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Revolutionary Self Theory",
+          "auteur": "Larry Law",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Right To Be Greedy",
+          "auteur": "For Ourselfs",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchists. Don't let the Leftovers) Ruin your Appetite",
+          "auteur": "Lawrence Jarach",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Against Identity Politics",
+          "auteur": "Lupus Dragonowl",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Transhumanism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "McKencie Wark A Hacker Manifesto",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Callfornian Ideology",
+          "auteur": "Andy Cameron",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Escape Velocity Cyberculfure at the End of the Century",
+          "auteur": "Mark Dery",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Donna Haraway A Cyborg Manifesto",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Green Anarchy",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Against His-Story, Against Leviathan",
+          "auteur": "Fredy Perlman",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Technological Slavery",
+          "auteur": "Ted Kazcynzki",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anti-Tech Revolution: Why and How",
+          "auteur": "Ted Kaczynski",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Desert",
+          "auteur": "Anonymous",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Against Domestication",
+          "auteur": "Jacques Camatte",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Walden",
+          "auteur": "Henry David Thoreau",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Nihilism",
+          "auteur": null,
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchy, Nihilism, and the 21st Century",
+          "auteur": "Aragorn!.",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Anarchy and Nihilism: Consequences",
+          "auteur": "Aragoni",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Nihilist Communism",
+          "auteur": "Monsieur Dupont",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Blessed is the Flame: An Introduction to Anarcho-Nihilism and Concentration Camp Resistance",
+          "auteur": "Serafsinski",
+          "tier": "Classics"
+        },
+        {
+          "titre": "The Revolutionary Catechism",
+          "auteur": "Sergey Nechayev",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Cruel Optimism",
+          "auteur": "Lauren Berlant",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Queer Theory and the Death Drive",
+          "auteur": "Lee Edelman No Future",
+          "tier": "Classics"
+        },
+        {
+          "titre": "Attentat",
+          "auteur": "Aragorl",
+          "tier": "Classics"
+        },
+        {
+          "titre": "8ch.net/anarcho/",
+          "auteur": null,
+          "tier": "Classics"
+        }
+      ]
+    }
+  ]
+}

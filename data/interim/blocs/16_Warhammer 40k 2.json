@@ -1,0 +1,874 @@
+{
+  "fichier": "16_Warhammer 40k 2.jpeg",
+  "date": "2026-07-21T19:28:36.610103+00:00",
+  "taille_origine": [
+    1260,
+    1712
+  ],
+  "hauteur_ligne_mediane": 19.9,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 37,
+  "nb_noeuds": 80,
+  "tiers": [
+    "/tg/'s List of Recommended Warhammer 40k Novels",
+    "EISENHORN",
+    "FALL OF",
+    "Helsrcach",
+    "FIFTEEN HOURS",
+    "BATTLE OF"
+  ],
+  "intitules_isoles": [
+    "Tan Hones Haunsy",
+    "Do Abort",
+    "The mus",
+    "Mitchel Scanlon",
+    "Sabbat Worlds!"
+  ],
+  "blocs": [
+    {
+      "tier": "/tg/'s List of Recommended Warhammer 40k Novels",
+      "bbox": [
+        239.8,
+        -5.9,
+        1148.1,
+        131.0
+      ],
+      "nb_lignes": 8,
+      "noeuds": [
+        {
+          "titre": "SHAMMERE",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "НАНАМИСА",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "AR HAM MIER",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "DAN ABNETT",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "GIAPHAS CAIN",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "DAN ABNETT",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        },
+        {
+          "titre": "DAN ABNETI",
+          "auteur": null,
+          "tier": "/tg/'s List of Recommended Warhammer 40k Novels"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        8.0,
+        225.7,
+        86.0,
+        257.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PATH OF THE",
+          "auteur": "WARRIOR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        728.0,
+        275.7,
+        906.0,
+        339.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RAVENOR",
+          "auteur": "THE OMNIBUS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        236.0,
+        291.0,
+        454.1,
+        377.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "THE FOUNDING",
+          "auteur": "Gaunt's Ghosts Scrics",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "EISENHORN",
+      "bbox": [
+        493.9,
+        291.3,
+        670.1,
+        387.6
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ENOS • MAL LELIS",
+          "auteur": null,
+          "tier": "EISENHORN"
+        },
+        {
+          "titre": "HE RETICU",
+          "auteur": null,
+          "tier": "EISENHORN"
+        },
+        {
+          "titre": "Eiscahorn",
+          "auteur": null,
+          "tier": "EISENHORN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        959.8,
+        323.7,
+        1136.2,
+        393.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SANDY MITCELL",
+          "auteur": "Caiphas Cain Scrics",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        0.0,
+        359.6,
+        182.0,
+        379.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Path of The Warrior",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        772.0,
+        371.6,
+        844.0,
+        393.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Ravcoor",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.0,
+        403.6,
+        148.0,
+        417.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Tan Hones Haunsy",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        316.0,
+        413.6,
+        382.0,
+        429.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "VARNAMMERI",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        790.0,
+        431.6,
+        856.0,
+        443.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WARHAM MER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        43.9,
+        450.6,
+        162.1,
+        503.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Do Abort",
+          "auteur": "HORUS RISING",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "FALL OF",
+      "bbox": [
+        739.9,
+        491.0,
+        906.1,
+        563.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "DAMNOS",
+          "auteur": null,
+          "tier": "FALL OF"
+        },
+        {
+          "titre": "NICK KYME",
+          "auteur": null,
+          "tier": "FALL OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        232.0,
+        493.5,
+        458.0,
+        541.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "HELSREACH",
+          "auteur": "AARON DEMESKI-BOWDEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1100.0,
+        651.3,
+        1184.0,
+        693.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ANVIL",
+          "auteur": "om the Man Yank Tie",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.0,
+        681.3,
+        670.0,
+        873.6
+      ],
+      "nb_lignes": 9,
+      "noeuds": [
+        {
+          "titre": "A MILET LENDS MOTEL",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARMAMMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Night Lords Scrics",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARHAMMER\"",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SCOURGE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SCOURCE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HERETIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THEN ERETIC",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.0,
+        685.3,
+        134.0,
+        697.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SPECIAL EnTe",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        0.0,
+        721.3,
+        224.0,
+        749.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The Horus Hercsy Scrics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Helsrcach",
+      "bbox": [
+        225.7,
+        728.8,
+        466.3,
+        844.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "WARHOMMER",
+          "auteur": null,
+          "tier": "Helsrcach"
+        },
+        {
+          "titre": "WARHAMMER",
+          "auteur": null,
+          "tier": "Helsrcach"
+        },
+        {
+          "titre": "STORM OF IRON",
+          "auteur": null,
+          "tier": "Helsrcach"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        711.8,
+        735.2,
+        934.2,
+        875.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Fall of Damnos",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARBANNER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARHANMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SPACE WOLF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "OMNIBIS",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        955.4,
+        743.2,
+        1214.6,
+        957.0
+      ],
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Hammer and Anvil",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "hammer and Avil",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "WARHAMMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "SODDOX",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DAN ABNETT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "TITANICUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE COD MACHINES GO TO WAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        226.0,
+        1024.7,
+        479.0,
+        1124.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The mus",
+          "auteur": "GRAHAM MCNEILL R",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "FIFTEEN HOURS",
+      "bbox": [
+        5.9,
+        1032.3,
+        198.1,
+        1122.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Mitchel Scanlon",
+          "auteur": null,
+          "tier": "FIFTEEN HOURS"
+        },
+        {
+          "titre": "Fifteen Hours",
+          "auteur": null,
+          "tier": "FIFTEEN HOURS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        582.0,
+        1052.7,
+        636.0,
+        1070.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TUITCHELL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        748.0,
+        1056.7,
+        890.0,
+        1074.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILLIAM KING",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.0,
+        1104.6,
+        670.0,
+        1130.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Dark Hercsy Scrics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        725.9,
+        1105.8,
+        890.1,
+        1133.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Spacc Wolf Scrics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1041.9,
+        1106.1,
+        1124.1,
+        1129.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Titanicus",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        74.0,
+        1160.6,
+        130.0,
+        1170.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WARHAMMER",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        964.0,
+        1160.6,
+        1218.0,
+        1352.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "WARHAMMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DAN ABNETTE.-",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Staring Magnise",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DOUBLE EAGLE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "BATTLE OF",
+      "bbox": [
+        24.0,
+        1235.3,
+        182.0,
+        1324.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE FANG",
+          "auteur": null,
+          "tier": "BATTLE OF"
+        },
+        {
+          "titre": "CHRIS WRAISHE",
+          "auteur": null,
+          "tier": "BATTLE OF"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        238.0,
+        1430.3,
+        460.0,
+        1576.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "WARHAMMER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "40000",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "IEW FARRER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "ENFORCER",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE SHIRA CALPURNIA OMNIBUS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Shira Calpurnia Scrics",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        718.0,
+        1436.3,
+        936.0,
+        1580.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "TH AN IMPERTAT GUARD NOVTT. S7",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "GUNHEADS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "• • • Steve Parker • • d",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Gunhcads",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        504.0,
+        1446.3,
+        650.0,
+        1482.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "FAITTI & FIRE",
+          "auteur": "JAMES SWALLOW",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        508.0,
+        1522.2,
+        654.0,
+        1576.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WASHAMMER",
+          "auteur": "Faith and Firc",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        992.0,
+        1524.2,
+        1190.0,
+        1586.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "High-speed air combat in the war-tarn",
+          "auteur": "Sabbat Worlds!",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        18.0,
+        1548.2,
+        182.0,
+        1572.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Battle of The Fang",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

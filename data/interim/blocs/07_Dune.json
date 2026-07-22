@@ -1,0 +1,985 @@
+{
+  "fichier": "07_Dune.jpeg",
+  "date": "2026-07-21T19:28:36.436550+00:00",
+  "taille_origine": [
+    1144,
+    2560
+  ],
+  "hauteur_ligne_mediane": 23.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 29,
+  "nb_noeuds": 117,
+  "tiers": [
+    "OPTION 1: The Sampler",
+    "OPTION 2: Muad'Dib's Story",
+    "DUNE",
+    "OPTION 3: The Golden Path",
+    "OPTION 4: I Love Frank Herbert",
+    "OPTION 5: I Love Dune, But Clearly Don't Respect Frank",
+    "DUNE"
+  ],
+  "intitules_isoles": [
+    "OPTION 1: The Sampler",
+    "You keep hearing about how great this 'Dune' thing is, you're vaguely aware David Lynch made a movie out of it.",
+    "You've heard the Litany Against Fear. You're probably turned off by sci-fi, but you'll give this one a chance.",
+    "Sequels generally suck anyways, right? Recommended for those who don't want shit to get too weird.",
+    "So you've just finished Dune and you enjoyed it. Or you at least like Paul as a character and you wanna see how",
+    "that plays out. Luckily Messiah exists, and it's damn short. Short enough that you can consider it a 'Book 4', an",
+    "epilogue to the events of Dune. Read together, these two books make a fantastic, mostly-contained story. If you",
+    "wanna stop, this is a great point. There's no telling whether you'll love or hate what comes next.",
+    "Recommended for everyone who read Dune and knew they weren't in it for the long run.",
+    "OPTION 3: The Golden Path",
+    "There is no reason to actually read Children of Dune unless you're gearing up for The Big One:",
+    "God Emperor. Widely considered almost as good as Dune (and many would say even better,",
+    "making it the true masterpiece of the series), anyone with a high tolerance for weird shit should go",
+    "this route. You're not really going to understand what's going on, and that's okay. Just trust me, it's",
+    "worth struggling through Children. It's important. It's not that good, but it's important.",
+    "Recommended for EVERYONE who has enough time to waste to read four books of genre fiction.",
+    "OPTION 4: I Love Frank Herbert",
+    "It's clear you're really into Dune at this point. You know the quality drops off fairly significantly after",
+    "going to make you question the entire series' quality retroactively, or anything. But you're setting",
+    "yourself up for disappointment if only because Chapterhouse ends on a pretty big cliffhanger, and",
+    "Frank Herbert died before he could finish the next book. But you know that at this point, don't you?",
+    "Recommended for those who like and respect Dune and are okay with loose ends.",
+    "Please, for the love of the God Emperor, don't do this. These are utter trash. Brian Herbert is raping his",
+    "father's corpse every day by making money from this. They claim to be based off his notes, but they are",
+    "fucking retarded and clearly nothing more than cheap cash grabs piggybacking off the Dune brand.",
+    "Recommended for those who love Dune, but only because it has the word Dune' in the title."
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        12.0,
+        24.0,
+        610.9,
+        268.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "HOW SHOULD I READ THE",
+          "auteur": "DUNE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        683.9,
+        25.0,
+        1129.4,
+        268.0
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "Greetings, friend. Looks",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "like you're wondering how",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "exactly you should tackle",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "one of the most revered",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "sci-fi series of all time. This",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "guide should clear things up.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "OPTION 1: The Sampler",
+      "bbox": [
+        62.7,
+        303.0,
+        1029.0,
+        400.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "You keep hearing about how great this 'Dune' thing is, you're vaguely aware David Lynch made a movie out of it.",
+          "auteur": null,
+          "tier": "OPTION 1: The Sampler"
+        },
+        {
+          "titre": "You've heard the Litany Against Fear. You're probably turned off by sci-fi, but you'll give this one a chance.",
+          "auteur": null,
+          "tier": "OPTION 1: The Sampler"
+        },
+        {
+          "titre": "Sequels generally suck anyways, right? Recommended for those who don't want shit to get too weird.",
+          "auteur": null,
+          "tier": "OPTION 1: The Sampler"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        64.8,
+        439.5,
+        196.6,
+        504.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DUNE",
+          "auteur": "FRANK HERBERT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "OPTION 2: Muad'Dib's Story",
+      "bbox": [
+        60.7,
+        655.0,
+        1041.5,
+        816.3
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "So you've just finished Dune and you enjoyed it. Or you at least like Paul as a character and you wanna see how",
+          "auteur": null,
+          "tier": "OPTION 2: Muad'Dib's Story"
+        },
+        {
+          "titre": "that plays out. Luckily Messiah exists, and it's damn short. Short enough that you can consider it a 'Book 4', an",
+          "auteur": null,
+          "tier": "OPTION 2: Muad'Dib's Story"
+        },
+        {
+          "titre": "epilogue to the events of Dune. Read together, these two books make a fantastic, mostly-contained story. If you",
+          "auteur": null,
+          "tier": "OPTION 2: Muad'Dib's Story"
+        },
+        {
+          "titre": "wanna stop, this is a great point. There's no telling whether you'll love or hate what comes next.",
+          "auteur": null,
+          "tier": "OPTION 2: Muad'Dib's Story"
+        },
+        {
+          "titre": "Recommended for everyone who read Dune and knew they weren't in it for the long run.",
+          "auteur": null,
+          "tier": "OPTION 2: Muad'Dib's Story"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        64.8,
+        861.7,
+        196.8,
+        925.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "DUNE",
+          "auteur": "FRANK HERBERT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DUNE",
+      "bbox": [
+        231.7,
+        867.4,
+        362.2,
+        963.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "MESSIAL",
+          "auteur": null,
+          "tier": "DUNE"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "DUNE"
+        }
+      ]
+    },
+    {
+      "tier": "OPTION 3: The Golden Path",
+      "bbox": [
+        62.7,
+        1082.0,
+        1068.7,
+        1425.3
+      ],
+      "nb_lignes": 27,
+      "noeuds": [
+        {
+          "titre": "There is no reason to actually read Children of Dune unless you're gearing up for The Big One:",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "God Emperor. Widely considered almost as good as Dune (and many would say even better,",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "making it the true masterpiece of the series), anyone with a high tolerance for weird shit should go",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "this route. You're not really going to understand what's going on, and that's okay. Just trust me, it's",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "worth struggling through Children. It's important. It's not that good, but it's important.",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "Recommended for EVERYONE who has enough time to waste to read four books of genre fiction.",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "HE CLIMAX OF THE DUNE TRILOGY",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "THE DUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "CHILDREN OF",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "Ф",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "GOD EMPEROR",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "0 EMPEROR",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "ORDUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "SOUNE",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "FRANK",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "PRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "MESSIAH",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "MESSIAN",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "HERBERT",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "HERBER!",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 3: The Golden Path"
+        }
+      ]
+    },
+    {
+      "tier": "OPTION 4: I Love Frank Herbert",
+      "bbox": [
+        62.6,
+        1553.0,
+        1066.7,
+        1892.3
+      ],
+      "nb_lignes": 28,
+      "noeuds": [
+        {
+          "titre": "It's clear you're really into Dune at this point. You know the quality drops off fairly significantly after",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "God Emperor, right? I mean, it's still written by Frank, so it's not too bad. Above-average. They aren't",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "going to make you question the entire series' quality retroactively, or anything. But you're setting",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "yourself up for disappointment if only because Chapterhouse ends on a pretty big cliffhanger, and",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "Frank Herbert died before he could finish the next book. But you know that at this point, don't you?",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "Recommended for those who like and respect Dune and are okay with loose ends.",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "HE CLIMAX OF THE DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "CHAPTERHOUSE:",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "CHILDREN OF",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "HERETICS",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "CEDAN UNT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "1 EMPEROR",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "OF DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "OFDUNE",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "PRANK",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "HERBERT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "FRANK",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "PRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "PRANK HERBERI",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "MESSIAN",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "HERBERT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        },
+        {
+          "titre": "FRANK HERBERT",
+          "auteur": null,
+          "tier": "OPTION 4: I Love Frank Herbert"
+        }
+      ]
+    },
+    {
+      "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank",
+      "bbox": [
+        2.1,
+        2024.0,
+        1141.9,
+        2298.6
+      ],
+      "nb_lignes": 20,
+      "noeuds": [
+        {
+          "titre": "Please, for the love of the God Emperor, don't do this. These are utter trash. Brian Herbert is raping his",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "father's corpse every day by making money from this. They claim to be based off his notes, but they are",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "fucking retarded and clearly nothing more than cheap cash grabs piggybacking off the Dune brand.",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "Recommended for those who love Dune, but only because it has the word Dune' in the title.",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "ESSICA OF IRULAN OF",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "LETO OF MENTATS OF WITCHES OF",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "DUNE DUNE DUNE DUNE DUNE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "DUNE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "DUNE I",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "DUNE DUNE DUNE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "MACHINE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "HOUSE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "HOUSE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "BUTLERIAN",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "HARKONNEN",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "CORRINO",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "ATRE DES",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "JIHAD",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        },
+        {
+          "titre": "CRUSADE",
+          "auteur": null,
+          "tier": "OPTION 5: I Love Dune, But Clearly Don't Respect Frank"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        577.2,
+        2331.9,
+        677.6,
+        2388.4
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "J. ANDERSON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KEVI",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "NAVIGATORS OF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        577.2,
+        2331.9,
+        1139.8,
+        2439.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "KEVIN J. ANDERSON",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DUNCAN OF",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "DUNE DUNE DUNE DUNE DUNE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        819.8,
+        2331.9,
+        895.1,
+        2388.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "IAN HERBERT AN",
+          "auteur": "VIN J. ANDERSO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        928.6,
+        2331.9,
+        1014.3,
+        2388.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1037.3,
+        2331.9,
+        1137.7,
+        2388.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        464.3,
+        2340.0,
+        562.6,
+        2390.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "AND KER HEADERSON",
+          "auteur": "PAUL OF",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        121.3,
+        2373.7,
+        568.9,
+        2445.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "SANDWORMS OF",
+          "auteur": "DUNE DUNE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "DUNE",
+      "bbox": [
+        3.7,
+        2377.0,
+        113.4,
+        2467.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "BAMLE OF",
+          "auteur": null,
+          "tier": "DUNE"
+        },
+        {
+          "titre": "CORRIN",
+          "auteur": null,
+          "tier": "DUNE"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        234.0,
+        2378.7,
+        336.9,
+        2400.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "HUNTERS OF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        121.2,
+        2379.5,
+        223.9,
+        2399.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "THE ROAD TO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        125.5,
+        2497.0,
+        219.6,
+        2527.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "FRANK HERBERT.",
+          "auteur": "BRIAN HERBERT, AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1026.8,
+        2499.0,
+        1142.0,
+        2526.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "KEVIN J. ANDERSON",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        468.5,
+        2503.0,
+        560.5,
+        2524.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        585.6,
+        2503.0,
+        673.4,
+        2522.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVINJ. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        698.5,
+        2503.0,
+        788.5,
+        2524.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        813.6,
+        2503.0,
+        903.5,
+        2524.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        928.6,
+        2503.0,
+        1016.4,
+        2522.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        357.6,
+        2505.6,
+        445.5,
+        2524.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBERT AND",
+          "auteur": "KEVIN J. ANDERSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        240.5,
+        2507.7,
+        328.4,
+        2516.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "BRIAN HERBEKTAND",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

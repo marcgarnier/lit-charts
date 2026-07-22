@@ -1,0 +1,1191 @@
+{
+  "fichier": "01_Zizek 1.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:48:42.838563+00:00",
+  "duree_s": 1.0,
+  "taille_origine": [
+    531,
+    1734
+  ],
+  "nb_bandes": 2,
+  "nb_lignes": 107,
+  "lignes": [
+    {
+      "texte": "So you want to",
+      "texte_balise": "So you want to",
+      "bbox": [
+        10.0,
+        14.0,
+        223.6,
+        46.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read Zizek",
+      "texte_balise": "read Zizek",
+      "bbox": [
+        8.0,
+        49.9,
+        163.7,
+        77.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Who is Zizek?",
+      "texte_balise": "Who is Zizek?",
+      "bbox": [
+        4.0,
+        97.9,
+        95.8,
+        109.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zizek is a Slovenian Marxist",
+      "texte_balise": "Zizek is a Slovenian Marxist",
+      "bbox": [
+        6.0,
+        115.9,
+        191.6,
+        127.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "philosopher who could quite",
+      "texte_balise": "philosopher who could quite",
+      "bbox": [
+        6.0,
+        131.9,
+        191.6,
+        145.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "possibly be the most popular",
+      "texte_balise": "possibly be the most popular",
+      "bbox": [
+        4.0,
+        149.8,
+        195.6,
+        161.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "anti-capitalist philosopher in the",
+      "texte_balise": "anti-capitalist philosopher in the",
+      "bbox": [
+        4.0,
+        165.8,
+        217.6,
+        179.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "west. Even those who certainly",
+      "texte_balise": "west. Even those who certainly",
+      "bbox": [
+        6.0,
+        181.8,
+        211.6,
+        195.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "aren't Marxist or anti-capitalist",
+      "texte_balise": "aren't Marxist or anti-capitalist",
+      "bbox": [
+        4.0,
+        197.8,
+        211.6,
+        211.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "sometimes find reading his views",
+      "texte_balise": "sometimes find reading his views",
+      "bbox": [
+        4.0,
+        215.8,
+        225.6,
+        229.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "helpful as he offers a view unlike",
+      "texte_balise": "helpful as he offers a view unlike",
+      "bbox": [
+        4.0,
+        231.8,
+        223.6,
+        245.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "any other in the West.",
+      "texte_balise": "any other in the West.",
+      "bbox": [
+        4.0,
+        249.7,
+        151.7,
+        263.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "However, having written over 40 books in English, ranging from dense,",
+      "texte_balise": "However, having written over 40 books in English, ranging from dense,",
+      "bbox": [
+        10.0,
+        281.7,
+        499.1,
+        297.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "1000 page Hegelian works to >200 page interviews, it can be difficult to",
+      "texte_balise": "1000 page Hegelian works to >200 page interviews, it can be difficult to",
+      "bbox": [
+        10.0,
+        299.7,
+        507.0,
+        313.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "know where to start. This is a general guide for someone who wants to",
+      "texte_balise": "know where to start. This is a general guide for someone who wants to",
+      "bbox": [
+        10.0,
+        317.7,
+        501.1,
+        331.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "get into Zizek.",
+      "texte_balise": "get into Zizek.",
+      "bbox": [
+        8.0,
+        335.7,
+        109.8,
+        349.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "This is an easy sampler for Zizek, if you",
+      "texte_balise": "This is an easy sampler for Zizek, if you",
+      "bbox": [
+        197.6,
+        367.6,
+        459.1,
+        383.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE PERVERT'S",
+      "texte_balise": "THE PERVERT'S",
+      "bbox": [
+        43.9,
+        381.6,
+        135.7,
+        393.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "can't even get through his film, it's",
+      "texte_balise": "can't even get through his film, it's",
+      "bbox": [
+        197.6,
+        385.6,
+        427.2,
+        399.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "GUIDE TO IDEOLOGY",
+      "texte_balise": "GUIDE TO IDEOLOGY",
+      "bbox": [
+        43.9,
+        393.6,
+        135.7,
+        405.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "understandable that you probably wouldn't",
+      "texte_balise": "understandable that you probably wouldn't",
+      "bbox": [
+        197.6,
+        401.6,
+        477.1,
+        415.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "get through one of his books. The Perverts",
+      "texte_balise": "get through one of his books. The Perverts",
+      "bbox": [
+        197.6,
+        419.6,
+        477.1,
+        433.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Guide to Ideology offers a starting line for",
+      "texte_balise": "Guide to Ideology offers a starting line for",
+      "bbox": [
+        197.6,
+        435.6,
+        475.1,
+        449.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "his views and gives you an idea of what you",
+      "texte_balise": "his views and gives you an idea of what you",
+      "bbox": [
+        197.6,
+        451.5,
+        485.1,
+        467.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "might be in for. You can also watch any one",
+      "texte_balise": "might be in for. You can also watch any one",
+      "bbox": [
+        197.6,
+        469.5,
+        487.1,
+        483.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "number of his lectures If you like. Some will",
+      "texte_balise": "number of his lectures If you like. Some will",
+      "bbox": [
+        195.6,
+        485.5,
+        487.1,
+        499.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "be less accessible than others.",
+      "texte_balise": "be less accessible than others.",
+      "bbox": [
+        197.6,
+        503.5,
+        403.2,
+        515.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVO",
+      "texte_balise": "SLAVO",
+      "bbox": [
+        105.8,
+        599.4,
+        133.7,
+        609.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THE *EK",
+      "texte_balise": "THE *EK",
+      "bbox": [
+        35.9,
+        601.4,
+        129.8,
+        625.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zizeks most recent English publication",
+      "texte_balise": "Zizeks most recent English publication",
+      "bbox": [
+        197.6,
+        601.4,
+        453.1,
+        615.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "[as of May 2017] comments on",
+      "texte_balise": "[as of May 2017] comments on",
+      "bbox": [
+        195.6,
+        617.4,
+        399.2,
+        633.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "COUR",
+      "texte_balise": "COUR",
+      "bbox": [
+        27.6,
+        626.1,
+        128.1,
+        660.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "contemporary issues such as the French",
+      "texte_balise": "contemporary issues such as the French",
+      "bbox": [
+        197.6,
+        635.3,
+        463.1,
+        649.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Election, the US election, Brexit, etc.",
+      "texte_balise": "Election, the US election, Brexit, etc.",
+      "bbox": [
+        197.6,
+        651.3,
+        445.2,
+        665.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ACIL",
+      "texte_balise": "ACIL",
+      "bbox": [
+        37.9,
+        665.3,
+        93.8,
+        685.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "This will obviously be an outdated book",
+      "texte_balise": "This will obviously be an outdated book",
+      "bbox": [
+        197.6,
+        669.3,
+        457.1,
+        681.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "and soon, but for a man whose opinion",
+      "texte_balise": "and soon, but for a man whose opinion",
+      "bbox": [
+        197.6,
+        685.3,
+        451.2,
+        699.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "seems to change like the tides, many",
+      "texte_balise": "seems to change like the tides, many",
+      "bbox": [
+        197.6,
+        703.3,
+        443.2,
+        717.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "HOPE",
+      "texte_balise": "HOPE",
+      "bbox": [
+        23.9,
+        712.9,
+        129.9,
+        745.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "fans eagerly take up his works that will",
+      "texte_balise": "fans eagerly take up his works that will",
+      "bbox": [
+        195.6,
+        719.3,
+        459.1,
+        733.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "only be relevant for a month.",
+      "texte_balise": "only be relevant for a month.",
+      "bbox": [
+        197.6,
+        735.2,
+        389.3,
+        749.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LESS",
+      "texte_balise": "LESS",
+      "bbox": [
+        33.9,
+        745.1,
+        119.8,
+        767.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FLOO",
+      "texte_balise": "FLOO",
+      "bbox": [
+        35.9,
+        759.0,
+        115.8,
+        771.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "NESS",
+      "texte_balise": "NESS",
+      "bbox": [
+        33.9,
+        763.2,
+        121.8,
+        797.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Choose between Demanding the",
+      "texte_balise": "Choose between Demanding the",
+      "bbox": [
+        265.5,
+        835.1,
+        477.1,
+        849.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoj",
+      "texte_balise": "Slavoj",
+      "bbox": [
+        157.7,
+        837.1,
+        225.6,
+        865.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Impossible or Trouble in Paradise.",
+      "texte_balise": "Impossible or Trouble in Paradise.",
+      "bbox": [
+        263.5,
+        851.1,
+        491.1,
+        865.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVOJ",
+      "texte_balise": "SLAVOJ",
+      "bbox": [
+        35.9,
+        867.1,
+        63.9,
+        965.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zizek",
+      "texte_balise": "Zizek",
+      "bbox": [
+        159.7,
+        869.1,
+        221.6,
+        897.1
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Demanding the Impossible is",
+      "texte_balise": "Demanding the Impossible is",
+      "bbox": [
+        265.5,
+        869.1,
+        457.1,
+        883.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "žIŻEK'",
+      "texte_balise": "žIŻEK'",
+      "bbox": [
+        56.8,
+        883.4,
+        101.0,
+        968.2
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "essentially a 200 page interview, also",
+      "texte_balise": "essentially a 200 page interview, also",
+      "bbox": [
+        263.5,
+        885.1,
+        513.0,
+        901.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "žıŽEK",
+      "texte_balise": "žıŽEK",
+      "bbox": [
+        61.9,
+        886.9,
+        95.8,
+        964.8
+      ],
+      "confiance": 0.3
+    },
+    {
+      "texte": "commentating on some [at the time]",
+      "texte_balise": "commentating on some [at the time]",
+      "bbox": [
+        265.5,
+        903.1,
+        507.0,
+        915.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Trouble",
+      "texte_balise": "Trouble",
+      "bbox": [
+        147.7,
+        909.1,
+        233.6,
+        933.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "contemporary issues. Trouble in",
+      "texte_balise": "contemporary issues. Trouble in",
+      "bbox": [
+        265.5,
+        919.1,
+        481.1,
+        933.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise is perhaps Zizeks most",
+      "texte_balise": "Paradise is perhaps Zizeks most",
+      "bbox": [
+        263.5,
+        935.0,
+        481.1,
+        949.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "in",
+      "texte_balise": "in",
+      "bbox": [
+        177.7,
+        943.0,
+        201.6,
+        965.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "focused anti-capitalist work, focusing",
+      "texte_balise": "focused anti-capitalist work, focusing",
+      "bbox": [
+        263.5,
+        953.0,
+        513.0,
+        967.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "on the wide scale of the 2008 financial",
+      "texte_balise": "on the wide scale of the 2008 financial",
+      "bbox": [
+        265.5,
+        968.8,
+        521.0,
+        980.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Paradise",
+      "texte_balise": "Paradise",
+      "bbox": [
+        147.6,
+        974.3,
+        233.7,
+        997.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "collapse.",
+      "texte_balise": "collapse.",
+      "bbox": [
+        265.5,
+        986.8,
+        327.4,
+        1000.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "• SLAVOJ",
+      "texte_balise": "• SLAVOJ",
+      "bbox": [
+        119.8,
+        1048.7,
+        183.7,
+        1064.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ŽIŽEK",
+      "texte_balise": "ŽIŽEK",
+      "bbox": [
+        75.9,
+        1052.7,
+        183.7,
+        1094.7
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Violence is the work even non-Zizek fans",
+      "texte_balise": "Violence is the work even non-Zizek fans",
+      "bbox": [
+        211.6,
+        1056.7,
+        481.1,
+        1068.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "read. Violence offers six different views of",
+      "texte_balise": "read. Violence offers six different views of",
+      "bbox": [
+        209.6,
+        1072.7,
+        491.1,
+        1084.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "how exactly violence function in this post-",
+      "texte_balise": "how exactly violence function in this post-",
+      "bbox": [
+        209.6,
+        1088.7,
+        489.1,
+        1104.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "neoliberal globalist society, it's purpose,",
+      "texte_balise": "neoliberal globalist society, it's purpose,",
+      "bbox": [
+        211.6,
+        1106.6,
+        481.1,
+        1120.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "what violence even is and so on. Likely one",
+      "texte_balise": "what violence even is and so on. Likely one",
+      "bbox": [
+        211.6,
+        1122.6,
+        497.1,
+        1136.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of his most accessible philosophical works",
+      "texte_balise": "of his most accessible philosophical works",
+      "bbox": [
+        211.6,
+        1140.6,
+        495.1,
+        1154.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "it has been both praised and damned by",
+      "texte_balise": "it has been both praised and damned by",
+      "bbox": [
+        209.6,
+        1156.6,
+        473.1,
+        1170.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "all. This is essentially the point of no",
+      "texte_balise": "all. This is essentially the point of no",
+      "bbox": [
+        211.6,
+        1174.6,
+        455.1,
+        1186.6
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "return and if you still want more after this",
+      "texte_balise": "return and if you still want more after this",
+      "bbox": [
+        209.6,
+        1190.6,
+        489.1,
+        1204.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "it's likely you'll have a library filled with",
+      "texte_balise": "it's likely you'll have a library filled with",
+      "bbox": [
+        211.6,
+        1206.5,
+        481.1,
+        1222.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Zizek in no time.",
+      "texte_balise": "Zizek in no time.",
+      "bbox": [
+        211.6,
+        1224.5,
+        323.4,
+        1238.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More anti-",
+      "texte_balise": "More anti-",
+      "bbox": [
+        139.6,
+        1309.6,
+        207.8,
+        1325.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More American",
+      "texte_balise": "More American",
+      "bbox": [
+        10.0,
+        1310.4,
+        111.8,
+        1322.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More contemporary",
+      "texte_balise": "More contemporary",
+      "bbox": [
+        253.5,
+        1310.4,
+        383.3,
+        1324.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "More 20th century",
+      "texte_balise": "More 20th century",
+      "bbox": [
+        405.2,
+        1312.4,
+        527.0,
+        1326.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "capitalism?",
+      "texte_balise": "capitalism?",
+      "bbox": [
+        137.7,
+        1326.3,
+        217.6,
+        1340.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Imperialism?",
+      "texte_balise": "Imperialism?",
+      "bbox": [
+        10.0,
+        1326.4,
+        97.8,
+        1340.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "issues?",
+      "texte_balise": "issues?",
+      "bbox": [
+        251.5,
+        1326.4,
+        305.4,
+        1338.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "communism?",
+      "texte_balise": "communism?",
+      "bbox": [
+        405.2,
+        1328.4,
+        493.1,
+        1340.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FIRST AS",
+      "texte_balise": "FIRST AS",
+      "bbox": [
+        131.8,
+        1360.4,
+        183.7,
+        1372.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "In",
+      "texte_balise": "In",
+      "bbox": [
+        411.2,
+        1360.4,
+        435.2,
+        1380.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Refugees.",
+      "texte_balise": "Refugees.",
+      "bbox": [
+        257.5,
+        1366.4,
+        321.4,
+        1378.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "TRAGEDY",
+      "texte_balise": "TRAGEDY",
+      "bbox": [
+        129.8,
+        1370.4,
+        189.6,
+        1380.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Terror and",
+      "texte_balise": "Terror and",
+      "bbox": [
+        277.4,
+        1378.0,
+        347.4,
+        1392.8
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Defense",
+      "texte_balise": "Defense",
+      "bbox": [
+        413.2,
+        1378.3,
+        489.1,
+        1398.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "THEN AS",
+      "texte_balise": "THEN AS",
+      "bbox": [
+        131.8,
+        1382.4,
+        185.7,
+        1392.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "FARCE",
+      "texte_balise": "FARCE",
+      "bbox": [
+        129.8,
+        1392.4,
+        171.7,
+        1414.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Other Troubles",
+      "texte_balise": "Other Troubles",
+      "bbox": [
+        267.5,
+        1392.4,
+        367.3,
+        1404.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "of Lost:",
+      "texte_balise": "of Lost:",
+      "bbox": [
+        411.2,
+        1400.3,
+        483.1,
+        1418.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "with the",
+      "texte_balise": "with the",
+      "bbox": [
+        289.5,
+        1406.3,
+        345.3,
+        1416.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Neighbors",
+      "texte_balise": "Neighbors",
+      "bbox": [
+        283.5,
+        1418.3,
+        351.3,
+        1430.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Causes",
+      "texte_balise": "Causes",
+      "bbox": [
+        411.2,
+        1420.1,
+        481.1,
+        1438.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVOI",
+      "texte_balise": "SLAVOI",
+      "bbox": [
+        413.2,
+        1452.2,
+        505.1,
+        1482.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Slavoy Zilck",
+      "texte_balise": "Slavoy Zilck",
+      "bbox": [
+        287.5,
+        1462.3,
+        347.3,
+        1472.3
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ZIZEK",
+      "texte_balise": "ZIZEK",
+      "bbox": [
+        413.1,
+        1477.5,
+        505.2,
+        1501.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Hegel is my homeboy [note: these works are",
+      "texte_balise": "Hegel is my homeboy [note: these works are",
+      "bbox": [
+        107.8,
+        1504.2,
+        399.2,
+        1518.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "almost inaccessible to the general public]",
+      "texte_balise": "almost inaccessible to the general public]",
+      "bbox": [
+        105.8,
+        1520.2,
+        383.3,
+        1536.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Parallax View",
+      "texte_balise": "The Parallax View",
+      "bbox": [
+        287.5,
+        1558.2,
+        377.3,
+        1568.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "LESSTHAN",
+      "texte_balise": "LESSTHAN",
+      "bbox": [
+        127.8,
+        1566.2,
+        229.6,
+        1582.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "NOTHING",
+      "texte_balise": "NOTHING",
+      "bbox": [
+        127.7,
+        1582.0,
+        229.6,
+        1602.2
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "SLAVOJ",
+      "texte_balise": "SLAVOJ",
+      "bbox": [
+        137.7,
+        1667.7,
+        221.7,
+        1686.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "ZIZEK",
+      "texte_balise": "ZIZEK",
+      "bbox": [
+        139.7,
+        1682.1,
+        221.6,
+        1702.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "Slavoj Zizek",
+      "texte_balise": "Slavoj Zizek",
+      "bbox": [
+        263.5,
+        1714.0,
+        327.4,
+        1726.0
+      ],
+      "confiance": 0.5
+    }
+  ]
+}

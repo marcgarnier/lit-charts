@@ -1,0 +1,1054 @@
+{
+  "fichier": "01_2014–2020.jpeg",
+  "date": "2026-07-21T19:28:36.196474+00:00",
+  "taille_origine": [
+    1100,
+    3312
+  ],
+  "hauteur_ligne_mediane": 15.6,
+  "regime": "grille",
+  "regime_source": "vlm:grid",
+  "nb_blocs": 1,
+  "nb_noeuds": 204,
+  "tiers": [
+    "~ signifies a series."
+  ],
+  "intitules_isoles": [
+    "this list aggregrates /lit/'s top 100 books rankings each year from",
+    "2014-2020 (all available editions), and finds each book's average ranking",
+    "(AVG) across the lists it appeared on. some books did not appear on all 7",
+    "lists though, so to avoid outliers, only books that appeared on 5+ lists are",
+    "ranked against each other. books with 4 or less appearances (App) are",
+    "first grouped by their frequency of appearance, and then mean ranking.",
+    "~ signifies a series."
+  ],
+  "blocs": [
+    {
+      "tier": "~ signifies a series.",
+      "bbox": null,
+      "nb_lignes": 204,
+      "noeuds": [
+        {
+          "titre": "Moby Dick",
+          "auteur": "Melville",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Brothers",
+          "auteur": "Dostoevsky",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Ulysses",
+          "auteur": "Joyce",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Infinite Jest",
+          "auteur": "Wallace",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Lolita",
+          "auteur": "Nabokov",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Crime and",
+          "auteur": "Dostoevsky",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Gravity's",
+          "auteur": "Pynchon",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Quixote",
+          "auteur": "Cervantes",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Blood",
+          "auteur": "McCarthy",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Stoner",
+          "auteur": "Williams",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 2",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 4",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 5",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 5.14",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 6",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 6.86",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 7.57",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 8.71",
+          "auteur": "App: 1/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 11.71",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 13.29",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Holy Bible",
+          "auteur": "God",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Stranger",
+          "auteur": "Camus",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Trial",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Divine",
+          "auteur": "Dante",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Ficciones",
+          "auteur": "Borges",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Anna Karenina",
+          "auteur": "Tolstoy",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "War and",
+          "auteur": "Tolstoy",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "One Hundred",
+          "auteur": "Marquez",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Dubliners",
+          "auteur": "Joyce",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Odyssey",
+          "auteur": "Homer",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 14.86",
+          "auteur": "APP: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 15.67",
+          "auteur": "App: 717",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 18",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 19",
+          "auteur": "APP: 0/1",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 19.33",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 20.57",
+          "auteur": "APP: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 22.29",
+          "auteur": "APP: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 22.43",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 22.83",
+          "auteur": "App: 0/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 23",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "1984",
+          "auteur": "Orwell",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "In Search of",
+          "auteur": "Proust",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Hamlet",
+          "auteur": "Shakespeare",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Iliad",
+          "auteur": "Homer",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Notes from",
+          "auteur": "Dostoevsky",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Catch-22",
+          "auteur": "Heller",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "2666",
+          "auteur": "Bolaño",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Recognitions The Book of",
+          "auteur": "Gaddis",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Sound",
+          "auteur": "Faulkner",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 23.20",
+          "auteur": "App: 717",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 23.29",
+          "auteur": "App: 717",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 23.71",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 24.67",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 26",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 26.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 26.86",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 30.71",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 34.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 34.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "4VG• 24 92",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 36.57",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "V.",
+          "auteur": "Pynchon",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Journey to the The Catcher in",
+          "auteur": "Céline",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "A Potrait of",
+          "auteur": "Joyce",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Book of",
+          "auteur": "Pessoa",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Faust",
+          "auteur": "Goethe",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The",
+          "auteur": "Kafka",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Siddhartha",
+          "auteur": "Hesse",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Master",
+          "auteur": "Bulgakov",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Lord of",
+          "auteur": "Tolkien",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 36.8",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 37",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 39.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 39.86",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 40.33",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 40.4",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 42.83",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Avg: 43.14",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 44.29",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 45.66",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Picture of",
+          "auteur": "Wilde",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Mason &",
+          "auteur": "Pynchon",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Idiot",
+          "auteur": "Dostoevsky",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "A Confederacy",
+          "auteur": "Toole",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Pale Fire",
+          "auteur": "Nabokov",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Slaughterhouse",
+          "auteur": "Vonnegut",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Brave New",
+          "auteur": "Huxley",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "No Longer",
+          "auteur": "Dazai",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Paradise Lost",
+          "auteur": "Milton",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Les",
+          "auteur": "Hugo",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 46.8",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 47.5",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 47.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 48.67",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 50.86",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 51.2",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 51.5",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 53.17",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 54.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 55",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Eden",
+          "auteur": "Steinbeck",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Detectives",
+          "auteur": "Rolano",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Zarathrustra",
+          "auteur": "Nietzsche",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Monte Cristo",
+          "auteur": "Dumas",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Gatsby",
+          "auteur": "Fitzgerald",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Wake",
+          "auteur": "Joyce",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Darkness",
+          "auteur": "Conrad",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Mountain",
+          "auteur": "Mann",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 55.29",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 55.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 55.8",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 55.86",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 56.2",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 56.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 57.33",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 57.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 58.17",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 58.33",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "MADAME",
+          "auteur": "ROVARY",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "MADAMI",
+          "auteur": "ROVARY",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "VINTAGE CALVINO",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "BRET EASTON ELLS",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "THE SUN",
+          "auteur": "ALSO RISES",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "D",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "CLASSES 18 60",
+          "auteur": "LIGHTHOUSE",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "GRAPES WRATH",
+          "auteur": "Onda Stukek",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "DEAD",
+          "auteur": null,
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Madame",
+          "auteur": "Flaubert",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Crying of",
+          "auteur": "Pynchon",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Waves",
+          "auteur": "Woolf",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Invisible",
+          "auteur": "Calvino",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "American",
+          "auteur": "Ellis",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Sun",
+          "auteur": "Hemingway",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Dune",
+          "auteur": "Herbert",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "To The",
+          "auteur": "Woolf",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Grapes",
+          "auteur": "Steinbeck",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Dead Souls",
+          "auteur": "Gogol",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 59.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 59.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 61.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 63.83",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 65.14",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 65.86",
+          "auteur": "App: 7/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 66.67",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 69.17",
+          "auteur": "App: 6/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 70.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 74",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Naked",
+          "auteur": "Burroughs",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Trilogy",
+          "auteur": "Beckett",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "White Noise",
+          "auteur": "Delillo",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Absalom,",
+          "auteur": "Faulkner",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Old Man",
+          "auteur": "Hemingway",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Hobbit",
+          "auteur": "Tolkien",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Man Without",
+          "auteur": "Musil",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Tristram",
+          "auteur": "Sterne",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "JR",
+          "auteur": "Gaddis",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "As I Lay",
+          "auteur": "Faulkner",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 76.6",
+          "auteur": "App: 5/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 48.5",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 50.75",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "61.25",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 63",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 63.75",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 64",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 68.75",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 73",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Alice's Adventures The Name of",
+          "auteur": "Carroll",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Republic",
+          "auteur": "Plato",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Confessions",
+          "auteur": "Augustine",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Wuthering",
+          "auteur": "Bronte",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "If on a Winter's",
+          "auteur": "Calvino",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Pale",
+          "auteur": "Wallace",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Tunnel",
+          "auteur": "Gass",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "A Hero of",
+          "auteur": "Lermontov",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Hesse",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 83.75",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 95",
+          "auteur": "App: 4/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 43.33",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 51",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 58.33",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 65.67",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 66.33",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 68.67",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 69",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Aeneid",
+          "auteur": "Virgil",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "A Clockwork",
+          "auteur": "Burgess",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Kafka on",
+          "auteur": "Murakami",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Nausea",
+          "auteur": "Sartre",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "King Lear",
+          "auteur": "Shakespeare",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Beyond Good",
+          "auteur": "Nietzsche",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "The Elementary",
+          "auteur": "Houellebec",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Candide",
+          "auteur": "Voltaire",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Jerusalem",
+          "auteur": "Moore",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "Harry Potter",
+          "auteur": "Rowling",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 78",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 78",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 84.67",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 88",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 89.33",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 88",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 89",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 89.67",
+          "auteur": "App: 3/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 38.5",
+          "auteur": "App: 2/7",
+          "tier": "~ signifies a series."
+        },
+        {
+          "titre": "AVG: 38.5",
+          "auteur": "App: 2/7",
+          "tier": "~ signifies a series."
+        }
+      ]
+    }
+  ]
+}

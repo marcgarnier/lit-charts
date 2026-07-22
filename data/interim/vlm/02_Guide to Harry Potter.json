@@ -1,0 +1,18 @@
+{
+  "fichier": "02_Guide to Harry Potter.jpeg",
+  "modele": "qwen2.5vl:3b",
+  "date": "2026-07-21T19:41:07.012685+00:00",
+  "duree_s": 19.5,
+  "taille_envoyee": [
+    539,
+    900
+  ],
+  "extraction": {
+    "layout_type": "sectioned_grid",
+    "has_arrows": true,
+    "colors": [
+      "light gray",
+      "red"
+    ]
+  }
+}

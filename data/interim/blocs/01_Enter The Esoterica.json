@@ -1,0 +1,442 @@
+{
+  "fichier": "01_Enter The Esoterica.jpeg",
+  "date": "2026-07-21T19:28:36.207515+00:00",
+  "taille_origine": [
+    400,
+    1400
+  ],
+  "hauteur_ligne_mediane": 12.8,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 20,
+  "nb_noeuds": 33,
+  "tiers": [
+    "WESTERN",
+    "ACCESS 10",
+    "THEOSOPHy."
+  ],
+  "intitules_isoles": [
+    "Dictionary",
+    "of Gnosis",
+    "& Western",
+    "Esotericism",
+    "A Guide for the Perplexed",
+    "Wouter J. Hanegraaff",
+    "Vouter ]. Hanegraaf",
+    "Rociof van den Brock",
+    "Jean-Pierre Brack",
+    "Staties in Viesten Esotcricism.",
+    "Agelos",
+    "avedon",
+    "of the",
+    "Mystry",
+    "Traditions"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        255.8,
+        19.9,
+        326.9,
+        77.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Dictionary",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of Gnosis",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "& Western",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Esotericism",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "WESTERN",
+      "bbox": [
+        38.4,
+        111.1,
+        160.4,
+        193.3
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "ESOTERICISM",
+          "auteur": null,
+          "tier": "WESTERN"
+        },
+        {
+          "titre": "A Guide for the Perplexed",
+          "auteur": null,
+          "tier": "WESTERN"
+        },
+        {
+          "titre": "Wouter J. Hanegraaff",
+          "auteur": null,
+          "tier": "WESTERN"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        247.7,
+        227.9,
+        333.0,
+        240.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Vouter ]. Hanegraaf",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        249.7,
+        260.0,
+        333.0,
+        289.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "OLHO COLVE",
+          "auteur": "Rociof van den Brock",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        93.4,
+        331.7,
+        300.5,
+        404.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ENTER THE",
+          "auteur": "ESOTERICA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        60.8,
+        467.7,
+        136.1,
+        513.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THI WESTERN",
+          "auteur": "ESOTERIC",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.1,
+        482.0,
+        387.8,
+        529.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WOUTER I. HANEGRAAFF",
+          "auteur": "Esotericism",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        152.3,
+        537.0,
+        255.8,
+        558.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WESTERN MYSTICISM",
+          "auteur": "AND ESOTERICISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        14.2,
+        645.0,
+        134.0,
+        655.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NICHOLAS GOODRICK-CLARKE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        24.4,
+        761.0,
+        121.8,
+        792.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "WESTERN ESOTERICISM",
+          "auteur": "SCIENCE OF RELIGION",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        276.1,
+        765.0,
+        375.6,
+        796.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "NEW AGE RELIGION",
+          "auteur": "AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        156.3,
+        819.6,
+        247.7,
+        850.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GNOSIS AND",
+          "auteur": "HERMETICISM",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ACCESS 10",
+      "bbox": [
+        109.6,
+        907.6,
+        215.2,
+        970.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "WESTERN",
+          "auteur": null,
+          "tier": "ACCESS 10"
+        },
+        {
+          "titre": "CSOTCRICISM",
+          "auteur": null,
+          "tier": "ACCESS 10"
+        }
+      ]
+    },
+    {
+      "tier": "THEOSOPHy.",
+      "bbox": [
+        261.9,
+        1029.7,
+        377.7,
+        1115.1
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "IMAGINATION,",
+          "auteur": null,
+          "tier": "THEOSOPHy."
+        },
+        {
+          "titre": "TRADITION",
+          "auteur": null,
+          "tier": "THEOSOPHy."
+        },
+        {
+          "titre": "Staties in Viesten Esotcricism.",
+          "auteur": null,
+          "tier": "THEOSOPHy."
+        },
+        {
+          "titre": "ANTOINE EVRE",
+          "auteur": null,
+          "tier": "THEOSOPHy."
+        },
+        {
+          "titre": "Miel hOrie ther",
+          "auteur": null,
+          "tier": "THEOSOPHy."
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        132.0,
+        1107.0,
+        197.0,
+        1117.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANTOINE FAIVRE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        6.1,
+        1157.8,
+        160.4,
+        1190.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "cie",
+          "auteur": "GOLDEN THREAD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        207.1,
+        1174.1,
+        280.2,
+        1215.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "THE",
+          "auteur": "GOLDEN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        127.9,
+        1218.9,
+        160.4,
+        1282.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Agelos",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "avedon",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "of the",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        121.8,
+        1302.3,
+        160.4,
+        1330.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Mystry",
+          "auteur": "Traditions",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        10.2,
+        1371.5,
+        156.3,
+        1384.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOSCELYN GODWIN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

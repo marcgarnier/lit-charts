@@ -1,0 +1,193 @@
+{
+  "fichier": "07_Homosexuals.jpeg",
+  "date": "2026-07-21T19:28:36.442694+00:00",
+  "taille_origine": [
+    2900,
+    3700
+  ],
+  "hauteur_ligne_mediane": 29.9,
+  "regime": "grille",
+  "regime_source": "geometrie",
+  "nb_blocs": 3,
+  "nb_noeuds": 28,
+  "tiers": [
+    "André Gide",
+    "The Oxford Shakespeare",
+    "The one te the deal once on empe"
+  ],
+  "intitules_isoles": [
+    "The naked civil servant",
+    "Quentin Crisp",
+    "The Satyricon",
+    "a novel by",
+    "André Gide",
+    "The Oxford Shakespeare",
+    "Pink",
+    "Triangle",
+    "Heinz Heger",
+    "The one te the deal once on empe"
+  ],
+  "blocs": [
+    {
+      "tier": "André Gide",
+      "bbox": null,
+      "nb_lignes": 14,
+      "noeuds": [
+        {
+          "titre": "The Picture of Dorian Gray",
+          "auteur": "Oscar Wilde",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "De Profundis",
+          "auteur": "Oscar Wilde",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Hogg",
+          "auteur": "Samuel R. Delany",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "The Immoralist",
+          "auteur": "André Gide",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Corydon",
+          "auteur": "André Gide",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Other Voices, Other Rooms",
+          "auteur": "Truman Capote",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Kiss of the Spider Woman",
+          "auteur": "Manuel Puig",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Faggots",
+          "auteur": "Larry Kramer",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Brideshead Revisited",
+          "auteur": "Evelyn Waugh",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Giovanni's Room",
+          "auteur": "James Baldwin",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Maurice",
+          "auteur": "E.M. Forster",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Goodbye to Berlin",
+          "auteur": "Christopher Isherwood",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Christopher and His Kind",
+          "auteur": "Christopher Isherwood",
+          "tier": "André Gide"
+        },
+        {
+          "titre": "Angels in America",
+          "auteur": "Tony Kushner",
+          "tier": "André Gide"
+        }
+      ]
+    },
+    {
+      "tier": "The Oxford Shakespeare",
+      "bbox": null,
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Queer",
+          "auteur": "William S. Burroughs",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "Earthly Powers",
+          "auteur": "Anthony Burgess",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "Our Lady of the Flowers",
+          "auteur": "Jean Genet",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "The Sonnets",
+          "auteur": "Shakespeare",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "The History of Sexuality",
+          "auteur": "Michel Foucault",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "Death in Venice",
+          "auteur": "Thomas Mann",
+          "tier": "The Oxford Shakespeare"
+        },
+        {
+          "titre": "Howi",
+          "auteur": "Allen Ginsberg",
+          "tier": "The Oxford Shakespeare"
+        }
+      ]
+    },
+    {
+      "tier": "The one te the deal once on empe",
+      "bbox": null,
+      "nb_lignes": 7,
+      "noeuds": [
+        {
+          "titre": "Leaves of Grass",
+          "auteur": "Walt Whitman",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "The Men with",
+          "auteur": "the Pink Triangle",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "The Confusions of",
+          "auteur": "Young Törless",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "Phaedrus",
+          "auteur": "Plato",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "Symposium",
+          "auteur": "Plato",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "This Special Friendship",
+          "auteur": "Roger Peyrefitte",
+          "tier": "The one te the deal once on empe"
+        },
+        {
+          "titre": "The Complete Poems",
+          "auteur": "Catullus",
+          "tier": "The one te the deal once on empe"
+        }
+      ]
+    }
+  ]
+}

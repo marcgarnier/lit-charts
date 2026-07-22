@@ -1,0 +1,803 @@
+{
+  "fichier": "10_Utopia & Dystopia.jpeg",
+  "date": "2026-07-21T19:28:36.532790+00:00",
+  "taille_origine": [
+    1575,
+    1057
+  ],
+  "hauteur_ligne_mediane": 18.3,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 42,
+  "nb_noeuds": 55,
+  "tiers": [
+    "ALDOUS",
+    "THE ROAD",
+    "URSULAK"
+  ],
+  "intitules_isoles": [
+    "the trial",
+    "Time Machine"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        1291.0,
+        20.2,
+        1378.2,
+        41.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "UTOPIA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        405.2,
+        20.6,
+        524.2,
+        41.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "DY STOPIA",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "ALDOUS",
+      "bbox": [
+        1371.3,
+        73.2,
+        1515.5,
+        163.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "HUXLEY",
+          "auteur": null,
+          "tier": "ALDOUS"
+        },
+        {
+          "titre": "BRAVE",
+          "auteur": null,
+          "tier": "ALDOUS"
+        },
+        {
+          "titre": "NEW",
+          "auteur": null,
+          "tier": "ALDOUS"
+        },
+        {
+          "titre": "WORLD",
+          "auteur": null,
+          "tier": "ALDOUS"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        620.3,
+        75.0,
+        789.9,
+        105.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ranz katka",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        421.2,
+        75.5,
+        485.3,
+        96.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "NAKER LUNCH",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        228.9,
+        82.4,
+        240.4,
+        169.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "SF MASTERWO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1174.4,
+        86.9,
+        1272.8,
+        119.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PERCEN CLAC",
+          "auteur": "UTOPIA",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        267.8,
+        91.5,
+        389.2,
+        116.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "SAMUEL DELANY",
+          "auteur": "Dhalgren",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        48.1,
+        100.7,
+        180.9,
+        125.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "1984",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        840.2,
+        164.7,
+        961.5,
+        176.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "FISKADORO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        656.9,
+        219.0,
+        755.6,
+        240.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "the trial",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        885.9,
+        244.8,
+        991.2,
+        256.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "JOHNSON.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        221.9,
+        280.7,
+        391.5,
+        343.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CORMAC",
+          "auteur": "McCARTHY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1355.1,
+        288.3,
+        1527.0,
+        359.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "TA LEVIN",
+          "auteur": "This Porter",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        439.5,
+        294.7,
+        574.6,
+        313.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "H. G. Wells",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.4,
+        297.4,
+        194.9,
+        353.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "In the Country",
+          "auteur": "of Last Things",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        625.0,
+        306.6,
+        780.6,
+        331.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "WILL SELF",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        959.2,
+        315.7,
+        995.8,
+        327.2
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "0 0 D",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1172.1,
+        338.6,
+        1256.8,
+        350.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ISLAME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        625.0,
+        420.6,
+        782.9,
+        437.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The BOOK of DAVE",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        423.5,
+        439.3,
+        592.9,
+        464.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Time Machine",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "THE ROAD",
+      "bbox": [
+        219.8,
+        450.6,
+        391.5,
+        514.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ORD OF THE FLES",
+          "auteur": null,
+          "tier": "THE ROAD"
+        },
+        {
+          "titre": "WILLIAM GOLDING",
+          "auteur": null,
+          "tier": "THE ROAD"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1362.1,
+        464.4,
+        1533.8,
+        512.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ROSEMARY'S BABY",
+          "auteur": "MAEL PERCY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        43.5,
+        496.5,
+        190.0,
+        567.5
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "Ait crashes beorattaced ael capicons",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE MAN IN THE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "HIGH CASTLE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "A NOVEL BY PHILIP K. DICK",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        627.2,
+        498.5,
+        783.0,
+        593.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "O R",
+          "auteur": "AND",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        842.4,
+        498.8,
+        906.5,
+        503.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANTHONY",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "URSULAK",
+      "bbox": [
+        1137.8,
+        507.9,
+        1316.3,
+        588.0
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "LE GUIN",
+          "auteur": null,
+          "tier": "URSULAK"
+        },
+        {
+          "titre": "ГНЕ",
+          "auteur": null,
+          "tier": "URSULAK"
+        },
+        {
+          "titre": "DISPO",
+          "auteur": null,
+          "tier": "URSULAK"
+        },
+        {
+          "titre": "ISKD",
+          "auteur": null,
+          "tier": "URSULAK"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        423.4,
+        528.5,
+        590.8,
+        577.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RAY",
+          "auteur": "BRADBURY",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        826.4,
+        565.1,
+        1002.7,
+        624.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CLOCKWORK",
+          "auteur": "ORANGE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1488.0,
+        601.7,
+        1531.5,
+        615.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "TIME",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        668.5,
+        622.3,
+        757.7,
+        661.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RGARE",
+          "auteur": "TWOO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        423.5,
+        629.2,
+        595.2,
+        658.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "451",
+          "auteur": "FAHRENHEIT",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        45.8,
+        640.4,
+        187.7,
+        661.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ir yu wire stocker ny tAIL SAFE",
+          "auteur": "and SEVEN DATS IN WAY, this revel",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1442.2,
+        649.4,
+        1531.5,
+        654.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A REASONE SUAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        226.6,
+        704.3,
+        387.0,
+        748.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The IRON",
+          "auteur": "HEEL",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        441.8,
+        704.7,
+        579.2,
+        750.4
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PLADONOV",
+          "auteur": "The",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        814.7,
+        706.0,
+        995.8,
+        823.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "KARIN",
+          "auteur": "BOYE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1156.1,
+        707.0,
+        1300.3,
+        727.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Come TonNent",
+          "auteur": "THE HISTORY OF RASSELAS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1387.3,
+        711.5,
+        1499.5,
+        748.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "EREWHON",
+          "auteur": "SAMUEL BiTTIER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        617.8,
+        731.1,
+        792.3,
+        778.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Swastıka Mıght",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1357.5,
+        885.4,
+        1430.8,
+        890.0
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "LITERAR",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        345.6,
+        965.1,
+        732.7,
+        1046.0
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "PLEASE NOTE THAT THIS IS AN INCOMPLETE",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LIST, AND THAT SOME OF THE LISTED ITEMS",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "CAN BE READ AS BOTHA DYSTOPIAN OR",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "UTOPIAN WORK.",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

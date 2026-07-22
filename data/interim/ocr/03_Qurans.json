@@ -1,0 +1,333 @@
+{
+  "fichier": "03_Qurans.jpeg",
+  "moteur": "vision",
+  "date": "2026-07-21T18:50:06.676069+00:00",
+  "duree_s": 0.9,
+  "taille_origine": [
+    1500,
+    1000
+  ],
+  "nb_bandes": 1,
+  "nb_lignes": 29,
+  "lignes": [
+    {
+      "texte": "Which Quran should I get?",
+      "texte_balise": "Which Quran should I get?",
+      "bbox": [
+        148.3,
+        30.5,
+        1410.6,
+        148.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Easy to read",
+      "texte_balise": "Easy to read",
+      "bbox": [
+        82.7,
+        225.6,
+        407.9,
+        290.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Avoid:",
+      "texte_balise": "Avoid:",
+      "bbox": [
+        1059.4,
+        243.3,
+        1190.6,
+        279.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sahih International",
+      "texte_balise": "Sahih International",
+      "bbox": [
+        1059.6,
+        291.9,
+        1310.3,
+        316.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Translated by a Saudi school teacher.",
+      "texte_balise": "Translated by a Saudi school teacher.",
+      "bbox": [
+        1059.6,
+        322.0,
+        1377.9,
+        342.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "M.A.S. Abdul Haleem",
+      "texte_balise": "M.A.S. Abdul Haleem",
+      "bbox": [
+        87.2,
+        333.0,
+        405.5,
+        366.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "For study",
+      "texte_balise": "For study",
+      "bbox": [
+        610.5,
+        333.0,
+        865.6,
+        397.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Amateurish.",
+      "texte_balise": "Amateurish.",
+      "bbox": [
+        1059.5,
+        344.0,
+        1162.1,
+        361.9
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abdullah Yusuf All",
+      "texte_balise": "Abdullah Yusuf All",
+      "bbox": [
+        1057.4,
+        374.7,
+        1306.0,
+        399.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Badly outdated.",
+      "texte_balise": "Badly outdated.",
+      "bbox": [
+        1057.4,
+        405.0,
+        1190.4,
+        427.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Many notes",
+      "texte_balise": "Many notes",
+      "bbox": [
+        627.7,
+        552.3,
+        826.5,
+        593.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Intermediate notes",
+      "texte_balise": "Intermediate notes",
+      "bbox": [
+        256.3,
+        556.0,
+        581.3,
+        594.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Few notes",
+      "texte_balise": "Few notes",
+      "bbox": [
+        43.4,
+        556.5,
+        211.7,
+        589.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Denominational*",
+      "texte_balise": "Denominational*",
+      "bbox": [
+        970.2,
+        581.7,
+        1434.6,
+        642.7
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arthur J.",
+      "texte_balise": "Arthur J.",
+      "bbox": [
+        60.7,
+        590.9,
+        198.8,
+        627.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Muhammad Asad",
+      "texte_balise": "Muhammad Asad",
+      "bbox": [
+        287.8,
+        599.0,
+        551.6,
+        627.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "The Study Quran",
+      "texte_balise": "The Study Quran",
+      "bbox": [
+        610.5,
+        601.0,
+        865.6,
+        634.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Arberry",
+      "texte_balise": "Arberry",
+      "bbox": [
+        61.0,
+        629.6,
+        178.8,
+        664.5
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Salafi",
+      "texte_balise": "Salafi",
+      "bbox": [
+        1146.7,
+        810.1,
+        1238.5,
+        841.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Sufi",
+      "texte_balise": "Sufi",
+      "bbox": [
+        787.1,
+        812.6,
+        854.7,
+        843.1
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Shiite",
+      "texte_balise": "Shiite",
+      "bbox": [
+        398.7,
+        818.3,
+        493.0,
+        848.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Muhammad Taqi-",
+      "texte_balise": "Muhammad Taqi-",
+      "bbox": [
+        1068.3,
+        845.0,
+        1336.5,
+        878.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Syed V. Mir",
+      "texte_balise": "Syed V. Mir",
+      "bbox": [
+        356.1,
+        849.1,
+        537.7,
+        888.4
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Abdalhaqq Bewley",
+      "texte_balise": "Abdalhaqq Bewley",
+      "bbox": [
+        673.7,
+        849.7,
+        961.5,
+        885.0
+      ],
+      "confiance": 0.5
+    },
+    {
+      "texte": "ud-Din al-Hilali",
+      "texte_balise": "ud-Din al-Hilali",
+      "bbox": [
+        1083.6,
+        880.0,
+        1316.9,
+        913.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Aisha Bewley",
+      "texte_balise": "& Aisha Bewley",
+      "bbox": [
+        686.8,
+        884.5,
+        935.3,
+        922.0
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "Ahmed Ali",
+      "texte_balise": "Ahmed Ali",
+      "bbox": [
+        357.3,
+        889.5,
+        527.9,
+        925.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "& Muhsin Khan",
+      "texte_balise": "& Muhsin Khan",
+      "bbox": [
+        1079.2,
+        912.6,
+        1319.1,
+        952.3
+      ],
+      "confiance": 1.0
+    },
+    {
+      "texte": "* Almost all Quran translations follow a mainstream Sunni interpretation, these are notable exceptions",
+      "texte_balise": "* Almost all Quran translations follow a mainstream Sunni interpretation, these are notable exceptions",
+      "bbox": [
+        579.9,
+        971.7,
+        1486.9,
+        996.0
+      ],
+      "confiance": 1.0
+    }
+  ]
+}

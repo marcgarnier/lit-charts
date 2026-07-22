@@ -1,0 +1,1221 @@
+{
+  "fichier": "07_Neon Pill (Cyberpunk).jpeg",
+  "date": "2026-07-21T19:28:36.444750+00:00",
+  "taille_origine": [
+    1480,
+    2584
+  ],
+  "hauteur_ligne_mediane": 15.5,
+  "regime": "blocs",
+  "regime_source": "geometrie",
+  "nb_blocs": 65,
+  "nb_noeuds": 83,
+  "tiers": [
+    "STAND ON",
+    "charles stross",
+    "Малс"
+  ],
+  "intitules_isoles": [
+    "Philip K Dick",
+    "IAN McDONALD",
+    "Akira",
+    "Meh-Tech Low-Life Roleplaying Sourcebook"
+  ],
+  "blocs": [
+    {
+      "tier": null,
+      "bbox": [
+        344.2,
+        21.5,
+        1187.4,
+        90.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "MEDM PILL",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1143.8,
+        152.6,
+        1405.3,
+        266.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "PRESERVE YOUR SOFTWARE AT ANY COST.",
+          "auteur": "THE REST IS MEAT.",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "STAND ON",
+      "bbox": [
+        102.7,
+        202.5,
+        249.6,
+        340.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ZANZIBAR",
+          "auteur": null,
+          "tier": "STAND ON"
+        },
+        {
+          "titre": "JOHN BRUNNER",
+          "auteur": null,
+          "tier": "STAND ON"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        468.8,
+        302.4,
+        598.2,
+        352.8
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ELECTRIC",
+          "auteur": "SHEEP",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        496.8,
+        379.6,
+        570.2,
+        396.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Philip K Dick",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        783.0,
+        440.6,
+        974.5,
+        535.2
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The",
+          "auteur": "ShochUJove",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1163.8,
+        517.6,
+        1383.2,
+        545.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RUDY RUCKER",
+          "auteur": "Author of WHITE LIGHT and SPACETIME DONUTS",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        737.8,
+        558.6,
+        1094.9,
+        573.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The shockwave Rider",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        436.7,
+        561.0,
+        598.0,
+        597.5
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Androids",
+          "auteur": "Electric",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        30.1,
+        563.1,
+        350.6,
+        597.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Stand on Zanzibar",
+          "auteur": "John Brunner",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        380.8,
+        563.1,
+        415.2,
+        595.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Do",
+          "auteur": "O f",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        380.8,
+        563.1,
+        963.7,
+        616.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Dream",
+          "auteur": "Sheep? John Brunner",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1144.4,
+        578.2,
+        1445.6,
+        612.6
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "The Ware Trilogy",
+          "auteur": "Rucker",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1161.6,
+        646.6,
+        1398.6,
+        761.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AUTHOR OF THE DULLOWO ABI",
+          "auteur": "* NEAL STEPHENSON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        73.1,
+        659.5,
+        292.6,
+        730.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "FLE LAFOR ASCER FLUFL ALL FOR DALINE",
+          "auteur": "DR.ADDER",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        836.8,
+        698.5,
+        948.7,
+        741.5
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "ROBERT SILVERBERG",
+          "auteur": "EDITED BY TERRY CARR",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        793.8,
+        786.7,
+        993.8,
+        834.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "NEUROMANCER",
+          "auteur": "TILLIAM GIE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        71.0,
+        1033.9,
+        258.1,
+        1068.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Dr Adder",
+          "auteur": "K.W. Jeter",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        740.0,
+        1036.0,
+        1075.6,
+        1070.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "The Sprawl Trilogy",
+          "auteur": "Nilliam Gibson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1131.5,
+        1038.2,
+        1206.8,
+        1072.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Snow",
+          "auteur": "Neal",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1226.2,
+        1038.2,
+        1413.3,
+        1074.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Crash",
+          "auteur": "Stephenson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        417.3,
+        1042.5,
+        546.4,
+        1076.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Burning",
+          "auteur": "William",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        567.9,
+        1042.5,
+        679.8,
+        1076.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Chrome",
+          "auteur": "Gibson",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        51.6,
+        1115.2,
+        286.3,
+        1223.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PETER WATTS",
+          "auteur": "STARFISH",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        428.1,
+        1132.7,
+        638.9,
+        1223.4
+      ],
+      "nb_lignes": 6,
+      "noeuds": [
+        {
+          "titre": "WINNER OF THE PHILIP' DICK AWARD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "BER OF THE PHILIP A DICK AWARD",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RICHARD K",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "RICHARD K.",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "MORGAN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "at Woken E",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "charles stross",
+      "bbox": [
+        787.3,
+        1149.9,
+        1019.7,
+        1189.0
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "AUTHOR OF BON HU",
+          "auteur": null,
+          "tier": "charles stross"
+        },
+        {
+          "titre": "RUTHOR OF ON BONDID!",
+          "auteur": null,
+          "tier": "charles stross"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        425.6,
+        1243.4,
+        638.9,
+        1334.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ALTERED",
+          "auteur": "CARBON",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        66.7,
+        1244.1,
+        253.8,
+        1257.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "A NEW TORK TIMIS NOTABLE BO",
+          "auteur": "L NEW TORK TIMIS NOTABLE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1142.3,
+        1332.6,
+        1389.7,
+        1401.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "RIVER OF GODS",
+          "auteur": "IAN McDONALD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        828.2,
+        1466.3,
+        978.8,
+        1487.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "accelerando",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        432.4,
+        1470.6,
+        531.3,
+        1481.8
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "A TAKESHI KOVACS NOVEN",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        17.2,
+        1517.7,
+        374.3,
+        1550.1
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Rifters",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Trilogy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Peter",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Watts",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        391.1,
+        1519.7,
+        712.0,
+        1573.8
+      ],
+      "nb_lignes": 4,
+      "noeuds": [
+        {
+          "titre": "The Takeshi",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Trilogy",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Kovaes",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "Richard K. Morgan",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        783.0,
+        1532.9,
+        1045.5,
+        1567.3
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Accelerando",
+          "auteur": "Charles",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1148.7,
+        1541.5,
+        1374.6,
+        1575.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "River",
+          "auteur": "I an",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1260.6,
+        1541.5,
+        1299.3,
+        1556.7
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "• f",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1320.8,
+        1541.5,
+        1394.0,
+        1556.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Gods",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        786.4,
+        1599.6,
+        1047.4,
+        1702.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "CABIN CONOR - DARICE CODEROSDU",
+          "auteur": "TRANSMETROPOUITAN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        58.1,
+        1623.2,
+        105.4,
+        1644.7
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "PROG 158",
+          "auteur": "12 JULY 90",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        413.2,
+        1623.5,
+        672.2,
+        1752.6
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "AKIRA",
+          "auteur": "OTOMO KATSUHIRO",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1286.4,
+        1661.9,
+        1350.9,
+        1676.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "arity",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1196.0,
+        1664.1,
+        1271.3,
+        1676.9
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "singu",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        154.9,
+        1676.6,
+        245.2,
+        1698.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "AL TORNADO",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        51.6,
+        1728.5,
+        120.5,
+        1782.3
+      ],
+      "nb_lignes": 5,
+      "noeuds": [
+        {
+          "titre": "BRITAIN'S NOT",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "COMIC HERO",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "LAYS DOWN",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "THE LAW",
+          "auteur": null,
+          "tier": null
+        },
+        {
+          "titre": "-INSIDE:",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        256.0,
+        1730.6,
+        346.3,
+        1743.6
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "ANY QUESTIONS?",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        417.3,
+        1988.6,
+        701.3,
+        2023.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Akira",
+          "auteur": "Otomo Katsuhiro",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        109.7,
+        1995.1,
+        314.1,
+        2027.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Judge Dredd",
+          "auteur": "2000AD",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        772.3,
+        2001.5,
+        1094.9,
+        2036.4
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Transmetropolitan",
+          "auteur": "Warren Ellis",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1144.4,
+        2012.3,
+        1445.6,
+        2048.8
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Singularity 7",
+          "auteur": "Ben",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        111.6,
+        2091.8,
+        324.8,
+        2159.9
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "3100",
+          "auteur": "HADOWRUN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        815.3,
+        2098.2,
+        1067.0,
+        2190.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "G U R",
+          "auteur": "CYBERPUNK",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        425.9,
+        2100.4,
+        712.0,
+        2193.3
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "-bERPUNK",
+          "auteur": "THE CLASSIC ROLEPLAYING GAME OF THE DARK FUTURE",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1199.7,
+        2114.4,
+        1426.8,
+        2168.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "sechnoir",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        417.3,
+        2237.9,
+        449.6,
+        2246.5
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "maharise",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": "Малс",
+      "bbox": [
+        415.2,
+        2278.8,
+        445.3,
+        2308.9
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Sarth.",
+          "auteur": null,
+          "tier": "Малс"
+        },
+        {
+          "titre": "Morale",
+          "auteur": null,
+          "tier": "Малс"
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1305.8,
+        2323.9,
+        1398.3,
+        2427.1
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "migh tech,",
+          "auteur": "hard-boiled",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        417.3,
+        2334.2,
+        460.3,
+        2345.4
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "The crozir",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        49.5,
+        2397.0,
+        316.2,
+        2455.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "ERSA",
+          "auteur": "WHERE MAN MEETS MAGIC AND MACHIN",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        808.8,
+        2427.1,
+        1071.3,
+        2472.2
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "TOYS BITINEN HIS",
+          "auteur": "STEVE JACKSON GAMES",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        417.3,
+        2440.0,
+        469.0,
+        2451.1
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "CP 3000,0",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        45.2,
+        2476.5,
+        344.2,
+        2513.1
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Shadowrun",
+          "auteur": "FASA Corporation",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        410.9,
+        2483.0,
+        729.5,
+        2517.7
+      ],
+      "nb_lignes": 3,
+      "noeuds": [
+        {
+          "titre": "Cyberpunk 2020",
+          "auteur": "Talsonian",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1206.8,
+        2489.4,
+        1449.9,
+        2524.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "Tech",
+          "auteur": "Jeremy Keller",
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        1301.5,
+        2489.4,
+        1374.6,
+        2502.3
+      ],
+      "nb_lignes": 1,
+      "noeuds": [
+        {
+          "titre": "Noir",
+          "auteur": null,
+          "tier": null
+        }
+      ]
+    },
+    {
+      "tier": null,
+      "bbox": [
+        783.0,
+        2491.6,
+        1142.3,
+        2526.0
+      ],
+      "nb_lignes": 2,
+      "noeuds": [
+        {
+          "titre": "GURPS Cyberpunk",
+          "auteur": "Steve Jackson Games",
+          "tier": null
+        }
+      ]
+    }
+  ]
+}

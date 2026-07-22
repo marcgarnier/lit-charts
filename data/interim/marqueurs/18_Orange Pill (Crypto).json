@@ -1,0 +1,54 @@
+{
+  "fichier": "18_Orange Pill (Crypto).jpeg",
+  "date": "2026-07-21T19:30:37.706008+00:00",
+  "nb_lignes_texte": 125,
+  "nb_caracteres": 1859,
+  "registres_actifs": [
+    "point_entree",
+    "injonction"
+  ],
+  "score_total": 3,
+  "registres": {
+    "niveaux_nommes": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "hierarchie_valeur": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "point_entree": {
+      "occurrences": 2,
+      "extraits": [
+        "Don't start here",
+        "A beginners guide to Bitcoin"
+      ]
+    },
+    "difficulte": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "prerequis": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "optionnel": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "recompense": {
+      "occurrences": 0,
+      "extraits": []
+    },
+    "injonction": {
+      "occurrences": 1,
+      "extraits": [
+        "Don't start here"
+      ]
+    },
+    "progression": {
+      "occurrences": 0,
+      "extraits": []
+    }
+  }
+}

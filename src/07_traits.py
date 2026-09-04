@@ -28,8 +28,9 @@ mesurent trois choses :
     suivi).
 
 Contrôle externe : le codage des formes des 264 charts
-(data/interim/codage_manuel_formes.csv, produit par un modèle
-vision-langage distant — voir l'en-tête de ce fichier) sert à vérifier
+(data/interim/codage_manuel_formes.csv, produit hors pipeline par un
+modèle vision-langage à poids ouverts — voir l'en-tête de ce fichier)
+sert à vérifier
 que les groupes obtenus correspondent à des formes reconnaissables ; les
 catégories du wiki fournissent un second point de comparaison, avec une
 classification indigène. Ces deux colonnes sont dans le tableau mais ne

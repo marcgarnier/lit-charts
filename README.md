@@ -40,7 +40,7 @@ data/raw/images/          264 images (sur OSF)
   notebooks/resultats.ipynb   analyses, figures, clustering, réseau
 ```
 
-Chaque script est **relançable sans recalcul** (les sorties existantes sont sautées, `--force` pour retraiter), commenté en français, et consigne ce qu'il fait. Les décisions de méthode — y compris les échecs mesurés — sont documentées dans [CLAUDE.md](CLAUDE.md).
+Chaque script est **relançable sans recalcul** (les sorties existantes sont sautées, `--force` pour retraiter), commenté en français, et consigne ce qu'il fait. Les décisions de méthode — y compris les échecs mesurés — sont documentées dans [METHODE.md](METHODE.md).
 
 ## Installation
 

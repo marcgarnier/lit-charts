@@ -1,4 +1,4 @@
-# CLAUDE.md
+# Méthode et décisions du projet
 
 ## Le projet
 

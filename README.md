@@ -5,6 +5,7 @@ Pipeline computationnel pour l'étude des **charts de lecture de 4chan /lit/** c
 Étude en sciences de l'information et de la communication : les 264 charts du wiki de /lit/ sont traités de bout en bout (OCR, reconstruction de la mise en page, relevé lexical de la gamification, typologie émergente, réseau des auteurs), **entièrement en local**, sans API distante ni coût à l'usage.
 
 - **Article** : [papier/article.md](papier/article.md)
+- **Protocole** (constitution du corpus, paramètres de chaque étape, fiabilité, limites) : [PROTOCOLE.md](PROTOCOLE.md) — également déposé sur OSF avec le corpus
 - **Carnet de résultats** (exécuté, figures incluses) : [notebooks/resultats.ipynb](notebooks/resultats.ipynb)
 - **Page de présentation** : <https://marcgarnier.github.io/website/kino.html>
 

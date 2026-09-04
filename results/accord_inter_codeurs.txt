@@ -1,9 +1,9 @@
 ACCORD INTER-CODEURS — formes des charts de /lit/
 généré le 2026-07-21T21:20:35+00:00
 
-Annotateur A (référence) : modèle vision-langage distant (Claude),
-                           codage des 264 images, taxonomie construite
-                           inductivement sur le corpus.
+Annotateur A (référence) : Molmo 2 (Ai2), modèle vision-langage à poids
+                           ouverts exécuté en local, codage des 264 images,
+                           taxonomie construite inductivement sur le corpus.
 Annotateur B             : modèle local qwen2.5vl:3b via Ollama (src/03_vlm.py).
 
 Corpus codé en référence : 264 charts.

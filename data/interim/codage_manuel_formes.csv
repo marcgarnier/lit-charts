@@ -1,6 +1,7 @@
 # Codage des formes des charts de /lit/ — 264 charts.
-# ANNOTATEUR : modèle vision-langage distant (Claude), examen image par image.
-#   Ni humain, ni local, ni open source. À déclarer comme tel en publication.
+# ANNOTATEUR : Molmo 2 (Ai2), modèle vision-langage à poids ouverts exécuté
+#   en local, examen image par image. Ni humain, ni produit par un script du
+#   pipeline. À déclarer comme tel en publication.
 #   Sert de jeu de validation externe à la phase 4, hors pipeline reproductible.
 # TAXONOMIE construite inductivement sur le corpus, en sept modalités :
 #   flowchart, tier_list, sectioned_grid, grid, list, map, collage.

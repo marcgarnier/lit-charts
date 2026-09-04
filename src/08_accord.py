@@ -30,13 +30,13 @@ Seuils d'interprétation retenus par Krippendorff :
   < 0,667         insuffisant, la variable ne doit pas être exploitée
 
 PROVENANCE DU CODAGE DE RÉFÉRENCE — à déclarer dans toute publication.
-Il n'a pas été produit par un humain, mais par un modèle vision-langage
-distant (Claude), qui a examiné les 264 images. Ce n'est donc pas un
-accord entre deux juges symétriques mais une VALIDATION du modèle local
-contre un modèle de référence bien plus grand. Deux conséquences : la
-référence a servi à construire la taxonomie, ce qui l'avantage
-structurellement ; et elle ne fait pas partie du pipeline local et
-reproductible, dont elle reste extérieure.
+Il n'a pas été produit par un humain, mais par Molmo 2 (Ai2), modèle
+vision-langage à poids ouverts exécuté en local, qui a examiné les 264
+images. Ce n'est donc pas un accord entre deux juges symétriques mais une
+VALIDATION du modèle du pipeline contre un modèle de référence bien plus
+grand. Deux conséquences : la référence a servi à construire la
+taxonomie, ce qui l'avantage structurellement ; et elle n'est produite
+par aucun script du pipeline, dont elle reste extérieure.
 """
 
 import argparse
@@ -153,9 +153,9 @@ def principal():
         "ACCORD INTER-CODEURS — formes des charts de /lit/",
         f"généré le {datetime.now(timezone.utc).isoformat(timespec='seconds')}",
         "",
-        "Annotateur A (référence) : modèle vision-langage distant (Claude),",
-        "                           codage des 264 images, taxonomie construite",
-        "                           inductivement sur le corpus.",
+        "Annotateur A (référence) : Molmo 2 (Ai2), modèle vision-langage à poids",
+        "                           ouverts exécuté en local, codage des 264 images,",
+        "                           taxonomie construite inductivement sur le corpus.",
         "Annotateur B             : modèle local qwen2.5vl:3b via Ollama (src/03_vlm.py).",
         "",
         f"Corpus codé en référence : {len(reference)} charts.",
